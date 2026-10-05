@@ -1,0 +1,3114 @@
+{
+  "schemaVersion": 1,
+  "author": "陳壽",
+  "policy": "逐卷核對卷末評曰；移除裴注；按被評述對象分段，同論者共享摘錄，省略非連續文字時標明省略號。",
+  "chapters": [
+    {
+      "source": "a04-001",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "曹操"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-002",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "曹丕"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-003",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "曹叡"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-004",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "曹芳"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "高貴公"
+            }
+          ]
+        },
+        {
+          "people": [
+            "曹髦"
+          ],
+          "fragments": [
+            {
+              "start": "高貴公",
+              "endBefore": "陳留王"
+            }
+          ]
+        },
+        {
+          "people": [
+            "曹奐"
+          ],
+          "fragments": [
+            {
+              "start": "陳留王",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-005",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "卞皇后",
+            "甄皇后",
+            "郭皇后",
+            "毛皇后",
+            "明元郭皇后"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "后妃合傳總評，評述后妃及外戚制度。",
+          "kind": "chapter"
+        }
+      ]
+    },
+    {
+      "source": "a04-006",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "董卓"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "袁術"
+            }
+          ]
+        },
+        {
+          "people": [
+            "袁術"
+          ],
+          "fragments": [
+            {
+              "start": "袁術",
+              "endBefore": "袁紹"
+            }
+          ]
+        },
+        {
+          "people": [
+            "袁紹",
+            "劉表"
+          ],
+          "fragments": [
+            {
+              "start": "袁紹",
+              "endBefore": "昔項羽"
+            }
+          ]
+        },
+        {
+          "people": [
+            "袁紹"
+          ],
+          "fragments": [
+            {
+              "start": "昔項羽",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-007",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "呂布"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "昔漢"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張邈"
+          ],
+          "fragments": [
+            {
+              "start": "昔漢",
+              "endBefore": "陳登"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陳登"
+          ],
+          "fragments": [
+            {
+              "start": "陳登",
+              "endBefore": "洪以"
+            },
+            {
+              "start": "惜哉",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "臧洪"
+          ],
+          "fragments": [
+            {
+              "start": "陳登",
+              "endBefore": "登降"
+            },
+            {
+              "start": "洪以",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-008",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "公孫瓚"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "度殘暴"
+            }
+          ]
+        },
+        {
+          "people": [
+            "公孫度",
+            "公孫淵"
+          ],
+          "fragments": [
+            {
+              "start": "度殘暴",
+              "endBefore": "陶謙"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陶謙"
+          ],
+          "fragments": [
+            {
+              "start": "陶謙",
+              "endBefore": "張楊"
+            },
+            {
+              "start": "皆擁據",
+              "endBefore": "燕、"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張楊"
+          ],
+          "fragments": [
+            {
+              "start": "張楊",
+              "endBefore": "皆擁據"
+            },
+            {
+              "start": "皆擁據",
+              "endBefore": "燕、"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張燕",
+            "張繡",
+            "張魯"
+          ],
+          "fragments": [
+            {
+              "start": "燕、",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-009",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "夏侯惇",
+            "夏侯淵",
+            "曹仁",
+            "曹洪",
+            "曹休",
+            "夏侯尚",
+            "曹真"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "爽德"
+            }
+          ]
+        },
+        {
+          "people": [
+            "曹爽"
+          ],
+          "fragments": [
+            {
+              "start": "爽德",
+              "endBefore": "玄以"
+            }
+          ]
+        },
+        {
+          "people": [
+            "夏侯玄"
+          ],
+          "fragments": [
+            {
+              "start": "玄以",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "曹純",
+            "夏侯霸"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "爽德"
+            }
+          ],
+          "kind": "chapter",
+          "note": "本卷夏侯、曹氏親舊功臣總評；非曹純或夏侯霸個人專評。"
+        }
+      ]
+    },
+    {
+      "source": "a04-010",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "荀彧"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "荀攸"
+            }
+          ]
+        },
+        {
+          "people": [
+            "荀攸",
+            "賈詡"
+          ],
+          "fragments": [
+            {
+              "start": "荀攸",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-011",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "袁渙",
+            "邴原",
+            "張範"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "涼茂"
+            }
+          ]
+        },
+        {
+          "people": [
+            "涼茂",
+            "國淵"
+          ],
+          "fragments": [
+            {
+              "start": "涼茂",
+              "endBefore": "張承"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張承"
+          ],
+          "fragments": [
+            {
+              "start": "張承",
+              "endBefore": "田疇"
+            }
+          ],
+          "identitySources": {
+            "張承": [
+              "a04-011"
+            ]
+          }
+        },
+        {
+          "people": [
+            "田疇",
+            "王脩"
+          ],
+          "fragments": [
+            {
+              "start": "田疇",
+              "endBefore": "管寧"
+            }
+          ]
+        },
+        {
+          "people": [
+            "管寧"
+          ],
+          "fragments": [
+            {
+              "start": "管寧",
+              "endBefore": "張臶"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張臶",
+            "胡昭"
+          ],
+          "fragments": [
+            {
+              "start": "張臶",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-012",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "徐奕",
+            "何夔",
+            "邢顒"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "毛玠"
+            },
+            {
+              "start": "大雅",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "毛玠",
+            "司馬芝"
+          ],
+          "fragments": [
+            {
+              "start": "毛玠",
+              "endBefore": "崔琰"
+            },
+            {
+              "start": "大雅",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "崔琰",
+            "鮑勛"
+          ],
+          "fragments": [
+            {
+              "start": "崔琰",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-013",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "鍾繇"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "華歆"
+            },
+            {
+              "start": "誠皆",
+              "endBefore": "王肅"
+            }
+          ]
+        },
+        {
+          "people": [
+            "華歆"
+          ],
+          "fragments": [
+            {
+              "start": "華歆",
+              "endBefore": "王朗"
+            },
+            {
+              "start": "誠皆",
+              "endBefore": "王肅"
+            }
+          ]
+        },
+        {
+          "people": [
+            "王朗"
+          ],
+          "fragments": [
+            {
+              "start": "王朗",
+              "endBefore": "王肅"
+            }
+          ]
+        },
+        {
+          "people": [
+            "王肅"
+          ],
+          "fragments": [
+            {
+              "start": "王肅",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-014",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "程昱",
+            "郭嘉",
+            "董昭",
+            "劉曄",
+            "蔣濟"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "劉放"
+            }
+          ]
+        },
+        {
+          "people": [
+            "劉放",
+            "孫資"
+          ],
+          "fragments": [
+            {
+              "start": "劉放",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-015",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "劉馥",
+            "司馬朗",
+            "梁習",
+            "張既",
+            "溫恢",
+            "賈逵"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "本卷六位地方官合傳總評。",
+          "kind": "chapter"
+        }
+      ]
+    },
+    {
+      "source": "a04-016",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "任峻"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "蘇則"
+            },
+            {
+              "start": "抑皆",
+              "endBefore": "恕屢"
+            }
+          ]
+        },
+        {
+          "people": [
+            "蘇則"
+          ],
+          "fragments": [
+            {
+              "start": "蘇則",
+              "endBefore": "杜畿"
+            },
+            {
+              "start": "抑皆",
+              "endBefore": "恕屢"
+            }
+          ]
+        },
+        {
+          "people": [
+            "杜畿"
+          ],
+          "fragments": [
+            {
+              "start": "杜畿",
+              "endBefore": "鄭渾"
+            },
+            {
+              "start": "抑皆",
+              "endBefore": "恕屢"
+            }
+          ]
+        },
+        {
+          "people": [
+            "鄭渾",
+            "倉慈"
+          ],
+          "fragments": [
+            {
+              "start": "鄭渾",
+              "endBefore": "恕屢"
+            }
+          ]
+        },
+        {
+          "people": [
+            "杜恕"
+          ],
+          "fragments": [
+            {
+              "start": "恕屢",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-017",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "張遼",
+            "徐晃"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "于禁"
+            },
+            {
+              "start": "或注記",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "于禁"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "張郃"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張郃",
+            "樂進"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "于禁"
+            },
+            {
+              "start": "張郃",
+              "endBefore": "或注記"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-018",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "李典"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "李通"
+            }
+          ]
+        },
+        {
+          "people": [
+            "李通",
+            "臧霸",
+            "文聘",
+            "呂虔"
+          ],
+          "fragments": [
+            {
+              "start": "李通",
+              "endBefore": "許褚"
+            }
+          ]
+        },
+        {
+          "people": [
+            "許褚",
+            "典韋"
+          ],
+          "fragments": [
+            {
+              "start": "許褚",
+              "endBefore": "龐悳"
+            }
+          ]
+        },
+        {
+          "people": [
+            "龐德"
+          ],
+          "fragments": [
+            {
+              "start": "龐悳",
+              "endBefore": "龐淯"
+            }
+          ]
+        },
+        {
+          "people": [
+            "龐淯"
+          ],
+          "fragments": [
+            {
+              "start": "龐淯",
+              "endBefore": "閻溫"
+            }
+          ]
+        },
+        {
+          "people": [
+            "閻溫"
+          ],
+          "fragments": [
+            {
+              "start": "閻溫",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-019",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "曹彰"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "陳思"
+            }
+          ]
+        },
+        {
+          "people": [
+            "曹植"
+          ],
+          "fragments": [
+            {
+              "start": "陳思",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-020",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "曹昂",
+            "曹鑠",
+            "曹沖",
+            "曹據",
+            "曹宇",
+            "曹林",
+            "曹袞",
+            "曹玹",
+            "曹峻",
+            "曹矩",
+            "曹幹",
+            "曹上",
+            "曹彪",
+            "曹勤",
+            "曹乘",
+            "曹整",
+            "曹京",
+            "曹均",
+            "曹棘",
+            "曹徽",
+            "曹茂",
+            "曹協",
+            "曹蕤",
+            "曹鑒",
+            "曹霖",
+            "曹禮",
+            "曹邕",
+            "曹貢",
+            "曹儼"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "武文世王公合傳總評，評述宗室封國與禁防制度。",
+          "kind": "chapter"
+        }
+      ]
+    },
+    {
+      "source": "a04-021",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "王粲",
+            "徐幹"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "衞覬"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陳琳",
+            "劉楨",
+            "阮瑀",
+            "應瑒"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "而粲"
+            }
+          ],
+          "note": "文帝、陳王及王粲等六位文士的合傳背景。",
+          "kind": "group"
+        },
+        {
+          "people": [
+            "衞覬"
+          ],
+          "fragments": [
+            {
+              "start": "衞覬",
+              "endBefore": "劉劭"
+            }
+          ]
+        },
+        {
+          "people": [
+            "劉劭"
+          ],
+          "fragments": [
+            {
+              "start": "劉劭",
+              "endBefore": "劉廙"
+            }
+          ]
+        },
+        {
+          "people": [
+            "劉廙"
+          ],
+          "fragments": [
+            {
+              "start": "劉廙",
+              "endBefore": "傅嘏"
+            }
+          ]
+        },
+        {
+          "people": [
+            "傅嘏"
+          ],
+          "fragments": [
+            {
+              "start": "傅嘏",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-022",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "桓階"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "陳羣"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陳羣"
+          ],
+          "fragments": [
+            {
+              "start": "陳羣",
+              "endBefore": "泰弘"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陳泰"
+          ],
+          "fragments": [
+            {
+              "start": "泰弘",
+              "endBefore": "魏世"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陳矯",
+            "徐宣",
+            "衞臻",
+            "盧毓"
+          ],
+          "fragments": [
+            {
+              "start": "魏世",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-023",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "和洽"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "常林"
+            },
+            {
+              "start": "皆一世",
+              "endBefore": "至林"
+            }
+          ]
+        },
+        {
+          "people": [
+            "常林"
+          ],
+          "fragments": [
+            {
+              "start": "常林",
+              "endBefore": "楊俊"
+            },
+            {
+              "start": "皆一世",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "楊俊"
+          ],
+          "fragments": [
+            {
+              "start": "楊俊",
+              "endBefore": "杜襲"
+            },
+            {
+              "start": "皆一世",
+              "endBefore": "至林"
+            }
+          ]
+        },
+        {
+          "people": [
+            "杜襲"
+          ],
+          "fragments": [
+            {
+              "start": "杜襲",
+              "endBefore": "趙儼"
+            },
+            {
+              "start": "皆一世",
+              "endBefore": "至林"
+            }
+          ]
+        },
+        {
+          "people": [
+            "趙儼"
+          ],
+          "fragments": [
+            {
+              "start": "趙儼",
+              "endBefore": "裴潛"
+            },
+            {
+              "start": "皆一世",
+              "endBefore": "至林"
+            }
+          ]
+        },
+        {
+          "people": [
+            "裴潛"
+          ],
+          "fragments": [
+            {
+              "start": "裴潛",
+              "endBefore": "至林"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-024",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "韓暨"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "崔林"
+            },
+            {
+              "start": "咸克",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "崔林"
+          ],
+          "fragments": [
+            {
+              "start": "崔林",
+              "endBefore": "高柔"
+            },
+            {
+              "start": "咸克",
+              "endBefore": "及曁"
+            }
+          ]
+        },
+        {
+          "people": [
+            "高柔"
+          ],
+          "fragments": [
+            {
+              "start": "高柔",
+              "endBefore": "孫禮"
+            },
+            {
+              "start": "咸克",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫禮"
+          ],
+          "fragments": [
+            {
+              "start": "孫禮",
+              "endBefore": "王觀"
+            },
+            {
+              "start": "咸克",
+              "endBefore": "及曁"
+            }
+          ]
+        },
+        {
+          "people": [
+            "王觀"
+          ],
+          "fragments": [
+            {
+              "start": "王觀",
+              "endBefore": "及曁"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-025",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "辛毗",
+            "楊阜"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "高堂隆"
+            }
+          ]
+        },
+        {
+          "people": [
+            "高堂隆"
+          ],
+          "fragments": [
+            {
+              "start": "高堂隆",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-026",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "滿寵"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "田豫"
+            }
+          ]
+        },
+        {
+          "people": [
+            "田豫"
+          ],
+          "fragments": [
+            {
+              "start": "田豫",
+              "endBefore": "牽招"
+            },
+            {
+              "start": "而豫",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "牽招"
+          ],
+          "fragments": [
+            {
+              "start": "牽招",
+              "endBefore": "郭淮"
+            },
+            {
+              "start": "而豫",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "郭淮"
+          ],
+          "fragments": [
+            {
+              "start": "郭淮",
+              "endBefore": "而豫"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-027",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "徐邈"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "胡質"
+            },
+            {
+              "start": "皆掌",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "胡質"
+          ],
+          "fragments": [
+            {
+              "start": "胡質",
+              "endBefore": "王昶"
+            },
+            {
+              "start": "皆掌",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "王昶"
+          ],
+          "fragments": [
+            {
+              "start": "王昶",
+              "endBefore": "王基"
+            },
+            {
+              "start": "皆掌",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "王基"
+          ],
+          "fragments": [
+            {
+              "start": "王基",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-028",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "王凌",
+            "毌丘儉",
+            "諸葛誕",
+            "鍾會"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "鄧艾"
+            }
+          ]
+        },
+        {
+          "people": [
+            "鄧艾"
+          ],
+          "fragments": [
+            {
+              "start": "鄧艾",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-029",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "華佗"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "杜夔"
+            },
+            {
+              "start": "誠皆",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "杜夔"
+          ],
+          "fragments": [
+            {
+              "start": "杜夔",
+              "endBefore": "朱建平"
+            },
+            {
+              "start": "誠皆",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "朱建平"
+          ],
+          "fragments": [
+            {
+              "start": "朱建平",
+              "endBefore": "周宣"
+            },
+            {
+              "start": "誠皆",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "周宣"
+          ],
+          "fragments": [
+            {
+              "start": "周宣",
+              "endBefore": "管輅"
+            },
+            {
+              "start": "誠皆",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "管輅"
+          ],
+          "fragments": [
+            {
+              "start": "管輅",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-030",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "族群記述與史書體例總評，沒有單獨人物評語。",
+          "kind": "chapter"
+        }
+      ]
+    },
+    {
+      "source": "a04-031",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "劉焉"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "璋才"
+            }
+          ]
+        },
+        {
+          "people": [
+            "劉璋"
+          ],
+          "fragments": [
+            {
+              "start": "璋才",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-032",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "劉備"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-033",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "劉禪"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "諸葛亮"
+          ],
+          "fragments": [
+            {
+              "start": "禮，國君",
+              "endBefore": ""
+            }
+          ],
+          "note": "本段評述蜀漢改元、史官及諸葛亮施政，為《後主傳》相關評語。"
+        }
+      ]
+    },
+    {
+      "source": "a04-034",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "甘皇后",
+            "吳皇后",
+            "敬哀張皇后",
+            "張皇后",
+            "劉永",
+            "劉理",
+            "劉璿"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "二主妃子合傳總評，評述夫婦父子與記述體例。",
+          "kind": "chapter"
+        }
+      ]
+    },
+    {
+      "source": "a04-035",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "諸葛亮"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-036",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "關羽",
+            "張飛"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "馬超"
+            }
+          ]
+        },
+        {
+          "people": [
+            "馬超"
+          ],
+          "fragments": [
+            {
+              "start": "馬超",
+              "endBefore": "黃忠"
+            }
+          ]
+        },
+        {
+          "people": [
+            "黃忠",
+            "趙雲"
+          ],
+          "fragments": [
+            {
+              "start": "黃忠",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-037",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "龐統"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "法正"
+            },
+            {
+              "start": "儗之",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "法正"
+          ],
+          "fragments": [
+            {
+              "start": "法正",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-038",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "許靖"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "麋笁"
+            }
+          ]
+        },
+        {
+          "people": [
+            "麋竺",
+            "孫乾",
+            "簡雍",
+            "伊籍"
+          ],
+          "fragments": [
+            {
+              "start": "麋笁",
+              "endBefore": "秦宓"
+            }
+          ]
+        },
+        {
+          "people": [
+            "秦宓"
+          ],
+          "fragments": [
+            {
+              "start": "秦宓",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-039",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "董和"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "劉巴"
+            },
+            {
+              "start": "皆蜀臣",
+              "endBefore": "呂乂"
+            }
+          ]
+        },
+        {
+          "people": [
+            "劉巴"
+          ],
+          "fragments": [
+            {
+              "start": "劉巴",
+              "endBefore": "馬良"
+            },
+            {
+              "start": "皆蜀臣",
+              "endBefore": "呂乂"
+            }
+          ]
+        },
+        {
+          "people": [
+            "馬良"
+          ],
+          "fragments": [
+            {
+              "start": "馬良",
+              "endBefore": "陳震"
+            },
+            {
+              "start": "皆蜀臣",
+              "endBefore": "呂乂"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陳震"
+          ],
+          "fragments": [
+            {
+              "start": "陳震",
+              "endBefore": "董允"
+            },
+            {
+              "start": "皆蜀臣",
+              "endBefore": "呂乂"
+            }
+          ]
+        },
+        {
+          "people": [
+            "董允"
+          ],
+          "fragments": [
+            {
+              "start": "董允",
+              "endBefore": "呂乂"
+            }
+          ]
+        },
+        {
+          "people": [
+            "呂乂"
+          ],
+          "fragments": [
+            {
+              "start": "呂乂",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-040",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "劉封"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "彭羕"
+            }
+          ]
+        },
+        {
+          "people": [
+            "彭羕",
+            "廖立",
+            "李嚴",
+            "魏延",
+            "楊儀",
+            "劉琰"
+          ],
+          "fragments": [
+            {
+              "start": "彭羕",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-041",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "霍峻"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "王連"
+            },
+            {
+              "start": "皆有可紀",
+              "endBefore": "以先主"
+            }
+          ]
+        },
+        {
+          "people": [
+            "王連"
+          ],
+          "fragments": [
+            {
+              "start": "王連",
+              "endBefore": "向朗"
+            },
+            {
+              "start": "皆有可紀",
+              "endBefore": "以先主"
+            }
+          ]
+        },
+        {
+          "people": [
+            "向朗"
+          ],
+          "fragments": [
+            {
+              "start": "向朗",
+              "endBefore": "張裔"
+            },
+            {
+              "start": "皆有可紀",
+              "endBefore": "以先主"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張裔"
+          ],
+          "fragments": [
+            {
+              "start": "張裔",
+              "endBefore": "楊洪"
+            },
+            {
+              "start": "皆有可紀",
+              "endBefore": "以先主"
+            }
+          ]
+        },
+        {
+          "people": [
+            "楊洪"
+          ],
+          "fragments": [
+            {
+              "start": "楊洪",
+              "endBefore": "費詩"
+            },
+            {
+              "start": "皆有可紀",
+              "endBefore": "以先主"
+            }
+          ]
+        },
+        {
+          "people": [
+            "費詩"
+          ],
+          "fragments": [
+            {
+              "start": "費詩",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-042",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "杜微"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "周羣"
+            }
+          ]
+        },
+        {
+          "people": [
+            "周羣",
+            "杜瓊"
+          ],
+          "fragments": [
+            {
+              "start": "周羣",
+              "endBefore": "許、"
+            }
+          ]
+        },
+        {
+          "people": [
+            "許慈",
+            "孟光",
+            "來敏",
+            "李譔",
+            "尹默"
+          ],
+          "fragments": [
+            {
+              "start": "許、",
+              "endBefore": "譙周"
+            }
+          ]
+        },
+        {
+          "people": [
+            "譙周",
+            "郤正"
+          ],
+          "fragments": [
+            {
+              "start": "譙周",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-043",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "黃權"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "李恢"
+            },
+            {
+              "start": "咸以",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "李恢"
+          ],
+          "fragments": [
+            {
+              "start": "李恢",
+              "endBefore": "呂凱"
+            },
+            {
+              "start": "咸以",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "呂凱"
+          ],
+          "fragments": [
+            {
+              "start": "呂凱",
+              "endBefore": "馬忠"
+            },
+            {
+              "start": "咸以",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "馬忠"
+          ],
+          "fragments": [
+            {
+              "start": "馬忠",
+              "endBefore": "王平"
+            },
+            {
+              "start": "咸以",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "王平"
+          ],
+          "fragments": [
+            {
+              "start": "王平",
+              "endBefore": "張嶷"
+            },
+            {
+              "start": "咸以",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "張嶷"
+          ],
+          "fragments": [
+            {
+              "start": "張嶷",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-044",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "蔣琬",
+            "費禕"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "姜維"
+            }
+          ]
+        },
+        {
+          "people": [
+            "姜維"
+          ],
+          "fragments": [
+            {
+              "start": "姜維",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-045",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "鄧芝"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "張翼"
+            },
+            {
+              "start": "咸有可稱",
+              "endBefore": "楊戲"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張翼"
+          ],
+          "fragments": [
+            {
+              "start": "張翼",
+              "endBefore": "宗預"
+            },
+            {
+              "start": "咸有可稱",
+              "endBefore": "楊戲"
+            }
+          ]
+        },
+        {
+          "people": [
+            "宗預"
+          ],
+          "fragments": [
+            {
+              "start": "宗預",
+              "endBefore": "楊戲"
+            }
+          ]
+        },
+        {
+          "people": [
+            "楊戲"
+          ],
+          "fragments": [
+            {
+              "start": "楊戲",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-046",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "孫堅"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "策英"
+            },
+            {
+              "start": "然皆",
+              "endBefore": "且割據"
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫策"
+          ],
+          "fragments": [
+            {
+              "start": "策英",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫權"
+          ],
+          "fragments": [
+            {
+              "start": "且割據",
+              "endBefore": ""
+            }
+          ],
+          "note": "本段評述孫權對孫策與嗣子的尊封。"
+        }
+      ]
+    },
+    {
+      "source": "a04-047",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "孫權"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-048",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "孫亮"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "休以"
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫休"
+          ],
+          "fragments": [
+            {
+              "start": "休以",
+              "endBefore": "皓之"
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫皓"
+          ],
+          "fragments": [
+            {
+              "start": "皓之",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-049",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "劉繇"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "太史慈"
+            }
+          ]
+        },
+        {
+          "people": [
+            "太史慈"
+          ],
+          "fragments": [
+            {
+              "start": "太史慈",
+              "endBefore": "士燮"
+            }
+          ]
+        },
+        {
+          "people": [
+            "士燮",
+            "士徽"
+          ],
+          "fragments": [
+            {
+              "start": "士燮",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-050",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "吳夫人",
+            "謝夫人",
+            "徐夫人",
+            "步夫人",
+            "王夫人",
+            "潘皇后"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "妃嬪合傳總評，評述後宮、嫡庶與繼承秩序。",
+          "kind": "chapter"
+        },
+        {
+          "people": [
+            "孫權"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "本卷對孫權後宮與繼承秩序的相關評語。"
+        }
+      ]
+    },
+    {
+      "source": "a04-051",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "孫靜",
+            "孫瑜",
+            "孫皎",
+            "孫奐",
+            "孫賁",
+            "孫輔",
+            "孫翊",
+            "孫匡",
+            "孫韶",
+            "孫桓"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "孫氏宗室合傳總評。",
+          "kind": "chapter"
+        }
+      ]
+    },
+    {
+      "source": "a04-052",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "張昭"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "顧雍"
+            }
+          ]
+        },
+        {
+          "people": [
+            "顧雍"
+          ],
+          "fragments": [
+            {
+              "start": "顧雍",
+              "endBefore": "諸葛瑾"
+            }
+          ]
+        },
+        {
+          "people": [
+            "諸葛瑾",
+            "步騭"
+          ],
+          "fragments": [
+            {
+              "start": "諸葛瑾",
+              "endBefore": "張承"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張承",
+            "顧邵"
+          ],
+          "fragments": [
+            {
+              "start": "張承",
+              "endBefore": "譚獻"
+            }
+          ],
+          "identitySources": {
+            "張承": [
+              "a04-052"
+            ]
+          }
+        },
+        {
+          "people": [
+            "顧譚"
+          ],
+          "fragments": [
+            {
+              "start": "譚獻",
+              "endBefore": "休、承"
+            },
+            {
+              "start": "愛惡",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "顧承",
+            "張休"
+          ],
+          "fragments": [
+            {
+              "start": "休、承",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-053",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "張紘"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "嚴、"
+            }
+          ]
+        },
+        {
+          "people": [
+            "嚴畯",
+            "程秉",
+            "闞澤"
+          ],
+          "fragments": [
+            {
+              "start": "嚴、",
+              "endBefore": "薛綜"
+            }
+          ]
+        },
+        {
+          "people": [
+            "薛綜",
+            "薛瑩"
+          ],
+          "fragments": [
+            {
+              "start": "薛綜",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-054",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "周瑜",
+            "魯肅"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "呂蒙"
+            }
+          ]
+        },
+        {
+          "people": [
+            "呂蒙"
+          ],
+          "fragments": [
+            {
+              "start": "呂蒙",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-055",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "程普",
+            "黃蓋",
+            "韓當",
+            "蔣欽",
+            "周泰",
+            "陳武",
+            "董襲",
+            "甘寧",
+            "凌統",
+            "徐盛",
+            "丁奉"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "以潘璋"
+            }
+          ]
+        },
+        {
+          "people": [
+            "潘璋"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "陳表"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陳表"
+          ],
+          "fragments": [
+            {
+              "start": "陳表",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-056",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "朱治",
+            "呂範"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "朱然"
+            }
+          ]
+        },
+        {
+          "people": [
+            "朱然",
+            "朱桓"
+          ],
+          "fragments": [
+            {
+              "start": "朱然",
+              "endBefore": "呂據"
+            }
+          ]
+        },
+        {
+          "people": [
+            "呂據",
+            "朱異",
+            "施績"
+          ],
+          "fragments": [
+            {
+              "start": "呂據",
+              "endBefore": "若範"
+            }
+          ]
+        },
+        {
+          "people": [
+            "呂範",
+            "朱桓",
+            "呂據",
+            "朱異"
+          ],
+          "fragments": [
+            {
+              "start": "若範",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-057",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "虞翻"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "陸績"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陸績"
+          ],
+          "fragments": [
+            {
+              "start": "陸績",
+              "endBefore": "張溫"
+            }
+          ]
+        },
+        {
+          "people": [
+            "張溫"
+          ],
+          "fragments": [
+            {
+              "start": "張溫",
+              "endBefore": "駱統"
+            }
+          ]
+        },
+        {
+          "people": [
+            "駱統"
+          ],
+          "fragments": [
+            {
+              "start": "駱統",
+              "endBefore": "陸瑁"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陸瑁"
+          ],
+          "fragments": [
+            {
+              "start": "陸瑁",
+              "endBefore": "吾粲"
+            }
+          ]
+        },
+        {
+          "people": [
+            "吾粲",
+            "朱據"
+          ],
+          "fragments": [
+            {
+              "start": "吾粲",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-058",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "陸遜"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "抗貞"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陸抗"
+          ],
+          "fragments": [
+            {
+              "start": "抗貞",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-059",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "孫登"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "慮、"
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫慮",
+            "孫和"
+          ],
+          "fragments": [
+            {
+              "start": "慮、",
+              "endBefore": "霸以"
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫霸"
+          ],
+          "fragments": [
+            {
+              "start": "霸以",
+              "endBefore": "然奮"
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫奮"
+          ],
+          "fragments": [
+            {
+              "start": "然奮",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-060",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "呂岱"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "呂岱"
+            },
+            {
+              "start": "呂岱",
+              "endBefore": "周魴"
+            }
+          ]
+        },
+        {
+          "people": [
+            "周魴"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "呂岱"
+            },
+            {
+              "start": "周魴",
+              "endBefore": "鍾離"
+            }
+          ]
+        },
+        {
+          "people": [
+            "鍾離牧"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "呂岱"
+            },
+            {
+              "start": "鍾離",
+              "endBefore": "全琮"
+            }
+          ]
+        },
+        {
+          "people": [
+            "全琮"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "呂岱"
+            },
+            {
+              "start": "全琮",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-061",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "潘濬"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "陸凱"
+            },
+            {
+              "start": "皆節",
+              "endBefore": "胤身"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陸凱"
+          ],
+          "fragments": [
+            {
+              "start": "陸凱",
+              "endBefore": "胤身"
+            }
+          ]
+        },
+        {
+          "people": [
+            "陸胤"
+          ],
+          "fragments": [
+            {
+              "start": "胤身",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-062",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "是儀"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "儀清"
+            },
+            {
+              "start": "儀清",
+              "endBefore": "詳數"
+            },
+            {
+              "start": "各見",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "徐詳"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "儀清"
+            },
+            {
+              "start": "詳數",
+              "endBefore": "綜文"
+            },
+            {
+              "start": "各見",
+              "endBefore": ""
+            }
+          ]
+        },
+        {
+          "people": [
+            "胡綜"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "儀清"
+            },
+            {
+              "start": "綜文",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-063",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "吳范",
+            "劉惇",
+            "趙達"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": ""
+            }
+          ],
+          "note": "方術三人合傳總評。",
+          "kind": "chapter"
+        }
+      ]
+    },
+    {
+      "source": "a04-064",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "諸葛恪"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "滕胤"
+            }
+          ]
+        },
+        {
+          "people": [
+            "滕胤"
+          ],
+          "fragments": [
+            {
+              "start": "滕胤",
+              "endBefore": "峻、"
+            }
+          ]
+        },
+        {
+          "people": [
+            "孫峻",
+            "孫綝"
+          ],
+          "fragments": [
+            {
+              "start": "峻、",
+              "endBefore": "濮陽"
+            }
+          ]
+        },
+        {
+          "people": [
+            "濮陽興"
+          ],
+          "fragments": [
+            {
+              "start": "濮陽",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "a04-065",
+      "reviewed": true,
+      "parts": [
+        {
+          "people": [
+            "王蕃"
+          ],
+          "fragments": [
+            {
+              "start": "",
+              "endBefore": "樓玄"
+            },
+            {
+              "start": "胡冲",
+              "endBefore": "華覈"
+            },
+            {
+              "start": "然此數子",
+              "endBefore": ""
+            }
+          ],
+          "note": "評曰引用薛瑩之論，並保留胡沖對王蕃、樓玄、賀邵的合論。"
+        },
+        {
+          "people": [
+            "樓玄"
+          ],
+          "fragments": [
+            {
+              "start": "樓玄",
+              "endBefore": "賀邵"
+            },
+            {
+              "start": "胡冲",
+              "endBefore": "華覈"
+            },
+            {
+              "start": "然此數子",
+              "endBefore": ""
+            }
+          ],
+          "note": "評曰引用薛瑩之論，並保留胡沖對三人的合論。"
+        },
+        {
+          "people": [
+            "賀邵"
+          ],
+          "fragments": [
+            {
+              "start": "賀邵",
+              "endBefore": "韋曜"
+            },
+            {
+              "start": "胡冲",
+              "endBefore": "華覈"
+            },
+            {
+              "start": "然此數子",
+              "endBefore": ""
+            }
+          ],
+          "note": "評曰引用薛瑩之論，並保留胡沖對三人的合論。"
+        },
+        {
+          "people": [
+            "韋昭"
+          ],
+          "fragments": [
+            {
+              "start": "韋曜",
+              "endBefore": "胡冲"
+            },
+            {
+              "start": "然此數子",
+              "endBefore": ""
+            }
+          ],
+          "note": "本傳稱韋曜；本段評曰引用薛瑩之論。"
+        },
+        {
+          "people": [
+            "華覈"
+          ],
+          "fragments": [
+            {
+              "start": "華覈",
+              "endBefore": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

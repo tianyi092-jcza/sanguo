@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>三国志 · 郡国疆域与人物年表（陈寿《三国志》及裴松之注资料整理工具）</title>
+<style>
+:root{
+  --bg:#12161d; --panel:#1a2029; --panel2:#202834; --ink:#e8e2d5; --ink2:#a8a192;
+  --line:#333c4a; --wei:#5b8dd6; --shu:#58a05c; --wu:#d6655b; --qun:#c9a445; --jin:#9b7bc4; --oth:#8a93a6;
+  --war:#e2703a; --pol:#e0b84f; --dip:#4fb8c9; --othE:#9aa2ad;
+  --serif:"Noto Serif SC","Songti SC","STSong","SimSun",serif;
+  --sans:"PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14px;height:100vh;display:flex;flex-direction:column;overflow:hidden}
+header{display:flex;align-items:center;gap:14px;padding:10px 18px;background:linear-gradient(180deg,#1c2430,#151b23);border-bottom:1px solid var(--line);flex-wrap:wrap;z-index:50}
+h1{font-family:var(--serif);font-size:20px;letter-spacing:2px;font-weight:600;white-space:nowrap}
+h1 small{font-size:12px;color:var(--ink2);letter-spacing:1px;margin-left:8px}
+#searchBox{position:relative;flex:1;min-width:260px;max-width:560px}
+#q{width:100%;padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:#0e1218;color:var(--ink);font-size:14px;outline:none}
+#q:focus{border-color:#5b8dd6}
+#results{position:absolute;top:110%;left:0;right:0;background:var(--panel2);border:1px solid var(--line);border-radius:8px;max-height:420px;overflow:auto;display:none;z-index:200;box-shadow:0 8px 30px rgba(0,0,0,.5)}
+.res{padding:8px 12px;cursor:pointer;border-bottom:1px solid #2a3340;display:flex;gap:8px;align-items:baseline}
+.res:hover{background:#2a3546}
+.res .tag{font-size:11px;padding:1px 6px;border-radius:4px;color:#fff;flex:none}
+.res .sub{color:var(--ink2);font-size:12px;margin-left:auto;flex:none}
+.tabs{display:flex;gap:6px}
+.tab{padding:7px 16px;border-radius:8px;border:1px solid var(--line);background:var(--panel);cursor:pointer;color:var(--ink2);font-size:14px}
+.tab.on{background:#2b3a52;color:var(--ink);border-color:#5b8dd6}
+#stats{font-size:12px;color:var(--ink2);white-space:nowrap}
+main{flex:1;position:relative;overflow:hidden}
+.view{position:absolute;inset:0;display:none;flex-direction:column}
+.view.on{display:flex}
+/* ===== 地图 ===== */
+#mapWrap{flex:1;position:relative;overflow:hidden;background:#0e1420}
+#mapSvg{width:100%;height:100%;cursor:grab}
+#ovSvg{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:10}
+#ovSvg circle,#ovSvg path,#ovSvg text{pointer-events:auto}
+#tiles{position:absolute;inset:0;overflow:hidden;background:#0b0f15}
+#mapSvg:active{cursor:grabbing}
+#mapTip{position:absolute;pointer-events:none;background:rgba(10,14,20,.92);border:1px solid var(--line);border-radius:6px;padding:6px 10px;font-size:12px;display:none;z-index:20;max-width:280px}
+#mapPanel{position:absolute;top:12px;right:12px;width:300px;max-height:calc(100% - 90px);overflow:auto;background:rgba(24,30,40,.95);border:1px solid var(--line);border-radius:10px;padding:14px;display:none;z-index:15}
+#mapPanel h3{font-family:var(--serif);font-size:18px;margin-bottom:6px}
+#mapPanel .row{display:flex;gap:6px;margin:4px 0;font-size:13px}
+#mapPanel .k{color:var(--ink2);flex:none;width:62px}
+.chip{display:inline-block;padding:1px 8px;border-radius:10px;font-size:12px;color:#fff}
+.mapCtl{position:absolute;left:12px;top:12px;z-index:15;display:flex;flex-direction:column;gap:8px}
+.mapCtl select,.mapCtl button{background:var(--panel2);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:7px 10px;font-size:13px;cursor:pointer}
+.mapCtl button:hover{background:#2b3547}
+#mapLegend{position:absolute;left:12px;bottom:12px;z-index:15;background:rgba(24,30,40,.92);border:1px solid var(--line);border-radius:10px;padding:10px 14px;font-size:12px;display:none}
+#mapLegend .li{display:flex;align-items:center;gap:8px;margin:3px 0}
+.dot{width:10px;height:10px;border-radius:50%;flex:none}
+.hlt{animation:pulse 1.6s ease-in-out 3}
+@keyframes pulse{0%,100%{filter:none}50%{filter:brightness(1.9) drop-shadow(0 0 8px #ffd977)}}
+/* ===== 时间轴 ===== */
+#tlBar{display:flex;align-items:center;gap:10px;padding:8px 14px;background:var(--panel);border-bottom:1px solid var(--line);flex-wrap:wrap;font-size:13px}
+#tlBar label{display:flex;align-items:center;gap:4px;cursor:pointer;color:var(--ink2)}
+#tlBar input[type=text]{background:#0e1218;border:1px solid var(--line);color:var(--ink);border-radius:6px;padding:5px 8px;width:120px;outline:none}
+.btn{background:#2b3a52;color:var(--ink);border:1px solid #46618c;border-radius:7px;padding:5px 12px;cursor:pointer;font-size:13px}
+.btn:hover{background:#34486b}
+#tlWrap{flex:1;display:flex;overflow:hidden}
+#nameCol{width:200px;flex:none;background:var(--panel);border-right:1px solid var(--line);position:relative;overflow:hidden}
+#nameBox{position:absolute;inset:0;overflow:hidden}
+#nameScroll{width:100%}
+#nameScroll .gap{height:172px;flex:none}
+.nrow{height:24px;display:flex;align-items:center;padding:0 8px;gap:6px;cursor:pointer;font-size:13px;border-bottom:1px solid #ffffff08}
+.nrow:hover{background:#ffffff10}
+.nrow .ny{margin-left:auto;font-size:10px;color:#5f6875;flex:none}
+.ngrp{height:30px;display:flex;align-items:center;font-family:var(--serif);letter-spacing:3px;color:#d8cfb8;background:#1c232d;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding-left:8px;font-size:14px}
+.ngrp small{letter-spacing:0;color:#6d7684;margin-left:8px;font-size:11px}
+#tlScroll{flex:1;overflow:auto;position:relative}
+#tlCanvas{position:relative}
+.ygrid{position:absolute;top:0;bottom:0;width:1px;background:#232b37}
+.ygrid.major{background:#31405280}
+.ylab{position:absolute;top:4px;font-size:11px;color:#6d7684;transform:translateX(-50%)}
+.evFlag{position:absolute;transform:translateX(-50%);cursor:pointer;text-align:center;line-height:1;font-size:15px;z-index:5}
+.evFlag .lb{display:block;font-size:10px;color:#c8c0ae;max-width:130px;white-space:normal;line-height:1.25;margin-top:1px;text-shadow:0 1px 3px #000}
+.evLaneLab{position:absolute;left:4px;font-size:10px;color:#59636f}
+.prow{position:absolute;left:0;right:0;height:24px;cursor:pointer;border-radius:4px}
+.prow:hover{background:#ffffff10}
+.pline{position:absolute;height:2px;top:11px;border-radius:2px}
+.pdot{position:absolute;top:7px;width:10px;height:10px;border-radius:50%;transform:translateX(-50%);border:2px solid #0e1218}
+.pdie{position:absolute;top:6px;transform:translateX(-50%);font-size:12px;color:#e8e2d5;text-shadow:0 1px 2px #000}
+.grp{position:absolute;left:0;font-family:var(--serif);font-size:14px;color:#d8cfb8;background:#1c232d;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding-left:8px;display:flex;align-items:center;letter-spacing:3px}
+.grp small{letter-spacing:0;color:#6d7684;margin-left:8px;font-size:11px}
+.nullbox{position:absolute;left:8px;right:8px;background:#171d26;border:1px dashed #39424f;border-radius:8px;padding:8px 10px}
+.nullchip{display:inline-block;margin:3px 4px;padding:3px 10px;border-radius:12px;border:1px solid var(--line);cursor:pointer;font-size:12px;color:var(--ink2)}
+.nullchip:hover{color:var(--ink);border-color:#5b8dd6}
+#playBox{position:absolute;right:14px;bottom:14px;z-index:30;background:rgba(24,30,40,.96);border:1px solid var(--line);border-radius:10px;padding:12px;width:330px;display:none}
+#playBox h4{font-size:13px;margin-bottom:6px;color:#d8cfb8}
+#playList{max-height:180px;overflow:auto;font-size:12px;color:var(--ink2);line-height:1.7}
+#playList b{color:var(--ink)}
+#cursor{position:absolute;top:0;bottom:0;width:2px;background:#ffd977;box-shadow:0 0 8px #ffd977;display:none;z-index:8}
+#cursorYear{position:absolute;top:150px;transform:translateX(6px);background:#ffd977;color:#111;font-weight:700;font-size:12px;padding:1px 7px;border-radius:4px;display:none;z-index:9}
+#tlLegend{position:absolute;right:14px;top:14px;z-index:25;background:rgba(24,30,40,.94);border:1px solid var(--line);border-radius:10px;padding:10px 14px;font-size:12px}
+#tlLegend .li{display:flex;align-items:center;gap:7px;margin:3px 0;color:var(--ink2)}
+/* ===== 郡县表 ===== */
+#tblWrap{flex:1;overflow:auto;padding:12px 16px}
+#tblQ{width:280px;padding:7px 12px;border-radius:8px;border:1px solid var(--line);background:#0e1218;color:var(--ink);outline:none;margin-bottom:10px}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{position:sticky;top:0;background:#232b37;color:#d8cfb8;padding:8px 10px;text-align:left;font-weight:600;z-index:2}
+td{padding:6px 10px;border-bottom:1px solid #232b37;color:var(--ink2)}
+td:first-child{color:var(--ink);font-family:var(--serif)}
+tr:hover td{background:#ffffff08}
+/* ===== 弹窗 ===== */
+#mask{position:fixed;inset:0;background:rgba(5,8,12,.72);display:none;z-index:100;align-items:center;justify-content:center;padding:20px}
+#modal{background:#1a212b;border:1px solid #3a4656;border-radius:14px;max-width:760px;width:100%;max-height:86vh;overflow:auto;padding:26px 30px;box-shadow:0 20px 60px rgba(0,0,0,.6)}
+#modal h2{font-family:var(--serif);font-size:26px;margin-bottom:2px}
+#modal .meta{color:var(--ink2);font-size:13px;margin-bottom:14px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+#modal .sec{margin-top:16px}
+#modal .sec h3{font-family:var(--serif);font-size:15px;color:#d8cfb8;border-left:3px solid #c9a445;padding-left:9px;margin-bottom:7px;letter-spacing:2px}
+#modal .sec .body{font-family:var(--serif);line-height:1.9;font-size:14.5px;color:#e4dcc9;white-space:pre-wrap;text-align:justify}
+#modal .src{font-size:12px;color:#7d8694;margin-top:6px}
+#modal .empty{color:#5f6875;font-size:13px;font-style:italic}
+#mClose{float:right;background:none;border:1px solid var(--line);color:var(--ink2);border-radius:8px;width:32px;height:32px;font-size:16px;cursor:pointer}
+#mClose:hover{color:var(--ink);border-color:#888}
+/* 说明 */
+#about{padding:26px 34px;overflow:auto;flex:1;line-height:2;font-size:14px;color:var(--ink2)}
+#about h2{font-family:var(--serif);color:var(--ink);margin:14px 0 6px;font-size:19px}
+#about b{color:#d8cfb8}
+.foot{padding:6px 18px;font-size:11px;color:#57606e;border-top:1px solid var(--line);background:#10151c}
+</style>
+</head>
+<body>
+<header>
+  <h1>三国志 · 疆域与年表<small>陈寿《三国志》及裴松之注 · 资料整理工具</small></h1>
+  <div id="searchBox">
+    <input id="q" type="text" placeholder="检索：人名 / 事件 / 年份（如219） / 地名（如江陵、襄阳）…" autocomplete="off">
+    <div id="results"></div>
+  </div>
+  <div class="tabs">
+    <div class="tab on" data-v="map">疆域地图</div>
+    <div class="tab" data-v="tl">人物时间轴</div>
+    <div class="tab" data-v="tbl">郡县总表</div>
+    <div class="tab" data-v="about">凡例说明</div>
+  </div>
+  <div id="stats"></div>
+</header>
+<main>
+  <section class="view on" id="v-map">
+    <div id="mapWrap">
+      <svg id="mapSvg"></svg>
+      <svg id="ovSvg"></svg>
+      <div id="tiles"></div>
+      <div id="googleMapTiles" aria-label="Google 卫星地图" hidden></div>
+      <div id="mapTip"></div>
+      <div class="mapCtl">
+        <select id="baseSel" aria-label="地图底图">
+          <option value="demo">底图：示意图</option>
+          <option value="amap">底图：高德街道</option>
+          <option value="asat">底图：高德卫星</option>
+          <option value="google" disabled>底图：Google 卫星（未启用）</option>
+          <option value="none">底图：无（纯点位）</option>
+        </select>
+        <select id="periodSel">
+          <option value="c219">归属：建安二十四年（219）</option>
+          <option value="c2">归属：建安五年（200）</option>
+          <option value="c263">归属：景元四年（263）</option>
+          <option value="none">不显示归属</option>
+        </select>
+        <label style="color:var(--ink2);font-size:12px;display:flex;gap:4px;align-items:center"><input type="checkbox" id="showCities" checked> 显示著名城池</label>
+        <label style="color:var(--ink2);font-size:12px;display:flex;gap:4px;align-items:center"><input type="checkbox" id="showPass" checked> 显示关隘/谷道</label>
+        <label style="color:var(--ink2);font-size:12px;display:flex;gap:4px;align-items:center"><input type="checkbox" id="showCounty"> 显示属县（交州56县）</label>
+        <div style="display:flex;gap:6px"><button id="zin">＋</button><button id="zout">－</button><button id="zreset">复位</button></div>
+      </div>
+      <div id="mapPanel"></div>
+      <div id="mapLegend"></div>
+      <div id="mapTileStatus" role="status" aria-live="polite" hidden>
+        <p id="mapTileMessage"></p>
+        <div class="map-actions"><button type="button" id="retryGoogle">重试</button><button type="button" id="useAmapSatellite">改用高德卫星</button></div>
+      </div>
+      <div id="mapAttribution" hidden><a href="https://maps.google.com/" target="_blank" rel="noopener noreferrer" class="google-maps-brand">Google Maps</a><span id="googleCopyright"></span></div>
+    </div>
+  </section>
+  <section class="view" id="v-tl">
+    <div id="tlBar">
+      <button class="btn" id="playBtn">▶ 播放 184–280</button>
+      <label><input type="checkbox" id="fWei" checked><span style="color:var(--wei)">■</span> 魏</label>
+      <label><input type="checkbox" id="fShu" checked><span style="color:var(--shu)">■</span> 蜀</label>
+      <label><input type="checkbox" id="fWu" checked><span style="color:var(--wu)">■</span> 吴</label>
+      <label><input type="checkbox" id="fQun" checked><span style="color:var(--qun)">■</span> 群雄·其他</label>
+      <label><input type="checkbox" id="fFull">仅生卒齐全</label>
+      <span style="flex:1"></span>
+      <span style="color:var(--ink2)">跳转</span><input type="text" id="goYear" placeholder="年份"><button class="btn" id="goBtn">前往</button>
+    </div>
+    <div id="tlWrap">
+      <div id="nameCol"><div id="nameBox"><div id="nameScroll"></div></div></div>
+      <div id="tlScroll">
+        <div id="tlCanvas">
+          <div id="cursor"></div><div id="cursorYear"></div>
+          <div id="tlLegend"></div>
+        </div>
+      </div>
+    </div>
+    <div id="playBox"><h4 id="playTitle">时间巡览</h4><div id="playList"></div></div>
+  </section>
+  <section class="view" id="v-tbl">
+    <div id="tblWrap">
+      <input id="tblQ" type="text" placeholder="筛选郡县（名称 / 治所 / 今址）…">
+      <table id="tbl"><thead><tr><th>郡国</th><th>治所</th><th>今址</th><th>建安五年(200)</th><th>建安二十四年(219)</th><th>景元四年(263)</th></tr></thead><tbody></tbody></table>
+    </div>
+  </section>
+  <section class="view" id="v-about"><div id="about"></div></section>
+</main>
+<div class="foot">历史点位为资料示意，非精确疆界 · 生卒年阙者标「不详」，卒年存疑者附注 · 原文仅录可核实者，未敢辄补</div>
+<div id="mask"><div id="modal"></div></div>
+<script>
+/* INLINE_DATA */
+const $=s=>document.querySelector(s);
+const esc=s=>String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+const FC={"魏":"var(--wei)","蜀":"var(--shu)","吴":"var(--wu)","群雄":"var(--qun)","其他":"var(--oth)"};
+const FCH={"魏":"#5b8dd6","蜀":"#58a05c","吴":"#d6655b","群雄":"#c9a445","其他":"#8a93a6"};
+const EVC={"war":"var(--war)","pol":"var(--pol)","dip":"var(--dip)","oth":"var(--othE)"};
+const EVCH={"war":"#e2703a","pol":"#e0b84f","dip":"#4fb8c9","oth":"#9aa2ad"};
+const EVN={"war":"战争/军事行动","pol":"政治事件","dip":"外交/盟约","oth":"其他大事"};
+const EVI={war:"⚔",pol:"★",dip:"◈",oth:"●"};
+const C2C={"曹操":"#5b8dd6","袁绍":"#9b7bc4","吕布":"#e08a4c","孙策":"#d6655b","刘表":"#4fb8c9","刘璋":"#c9a445","张鲁":"#7d8ba1","马腾·韩遂":"#b8736a","公孙度":"#8c9e6e","士燮":"#d98cb3","张绣（附曹）":"#5b8dd6"};
+const C219C={"曹操":"#5b8dd6","刘备":"#58a05c","孙权":"#d6655b"};
+const C263C={"魏":"#5b8dd6","蜀":"#58a05c","吴":"#d6655b"};
+$("#stats").textContent=`郡国 ${DATA.cmd.length} · 城池 ${DATA.cit.length} · 关隘 ${DATA.passes.length} · 人物 ${DATA.per.length} · 事件 ${DATA.ev.length}`;
+
+/* ---------- 视图切换 ---------- */
+let curView="map";
+document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
+  document.querySelectorAll(".tab").forEach(x=>x.classList.remove("on"));t.classList.add("on");
+  curView=t.dataset.v;
+  document.querySelectorAll(".view").forEach(v=>v.classList.remove("on"));
+  $("#v-"+curView).classList.add("on");
+  if(curView==="tl") renderTL();
+});
+
+/* ================= 地图 ================= */
+const MW=1920,MH=1460,LON0=86,LON1=136,LAT0=16,LAT1=49.5;
+const mx=lo=>(lo-LON0)/(LON1-LON0)*MW, my=la=>(LAT1-la)/(LAT1-LAT0)*MH;
+let vb={x:0,y:0,w:MW,h:MH};
+let view={lon:108.5,lat:34.5,z:5};
+const NS="http://www.w3.org/2000/svg";
+function el(t,a){const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);return e;}
+function cmdColor(c,period){
+  if(period==="none")return "#8a93a6";
+  const m=period==="c2"?C2C:period==="c219"?C219C:C263C;
+  return m[c]||"#8a93a6";
+}
+function pulse(e){e.classList.remove("hlt");void e.getBoundingClientRect();e.classList.add("hlt");}
+function tip(ev,html){const t=$("#mapTip");t.innerHTML=html;t.style.display="block";
+  const r=$("#mapWrap").getBoundingClientRect();
+  t.style.left=Math.min(ev.clientX-r.left+14,r.width-300)+"px";t.style.top=(ev.clientY-r.top+12)+"px";}
+function hideTip(){$("#mapTip").style.display="none";}
+function chip(txt,col){return `<span class="chip" style="background:${col}">${esc(txt)}</span>`;}
+function showPanel(c){
+  const p=$("#mapPanel");
+  p.innerHTML=`<h3>${esc(c.n)}</h3>
+  <div class="row"><span class="k">治所</span><span>${esc(c.seat)}</span></div>
+  <div class="row"><span class="k">今址</span><span>${esc(c.mod)}</span></div>
+  <div class="row"><span class="k">建安五年</span>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</div>
+  <div class="row"><span class="k">建安廿四年</span>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</div>
+  <div class="row"><span class="k">景元四年</span>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</div>
+  ${c.note?`<div class="row"><span class="k">备注</span><span style="color:#a8a192">${esc(c.note)}</span></div>`:""}
+  <div class="row"><span class="k">经纬</span><span style="color:#7d8694">${c.lon.toFixed(2)}°E, ${c.lat.toFixed(2)}°N</span></div>`;
+  p.style.display="block";
+}
+function showCity(c){
+  const p=$("#mapPanel");
+  p.innerHTML=`<h3>${esc(c.n)}</h3>
+  <div class="row"><span class="k">今址</span><span>${esc(c.mod)}</span></div>
+  <div class="row"><span class="k">备注</span><span style="color:#b7ae9b">${esc(c.note||"")}</span></div>`;
+  p.style.display="block";
+}
+function buildLegend(period){
+  const L=$("#mapLegend");const m=period==="c2"?C2C:period==="c219"?C219C:period==="c263"?C263C:null;
+  let h=`<div style="color:#d8cfb8;margin-bottom:4px;font-family:var(--serif)">图例${m?"（"+({c2:"200年",c219:"219年",c263:"263年"})[period]+"控制）":""}</div>`;
+  if(m)for(const k in m)h+=`<div class="li"><span class="dot" style="background:${m[k]}"></span>${esc(k)}</div>`;
+  h+=`<div class="li"><span class="dot" style="background:#8a93a6;border-radius:0;transform:rotate(45deg);width:9px;height:9px"></span>著名城池/战场</div>`;
+  h+=`<div class="li"><span style="color:#e0a458">▲</span> 关隘/谷道</div>`;
+  h+=`<div class="li"><span class="dot" style="background:#7fa88f"></span> 属县（交州）</div>`;
+  L.innerHTML=h;L.style.display="block";
+}
+
+/* ---------- GCJ-02 转换（WGS-84 → 高德坐标系） ---------- */
+const PI=Math.PI,AX=6378245.0,EE=0.006693421622965943;
+function tfLat(x,y){let r=-100+2*x+3*y+0.2*y*y+0.1*x*y+0.2*Math.sqrt(Math.abs(x));r+=(20*Math.sin(6*x*PI)+20*Math.sin(2*x*PI))*2/3;r+=(20*Math.sin(y*PI)+40*Math.sin(y/3*PI))*2/3;r+=(160*Math.sin(y/12*PI)+320*Math.sin(y*PI/30))*2/3;return r;}
+function tfLon(x,y){let r=300+x+2*y+0.1*x*x+0.1*x*y+0.1*Math.sqrt(Math.abs(x));r+=(20*Math.sin(6*x*PI)+20*Math.sin(2*x*PI))*2/3;r+=(20*Math.sin(x*PI)+40*Math.sin(x/3*PI))*2/3;r+=(150*Math.sin(x/12*PI)+300*Math.sin(x/30*PI))*2/3;return r;}
+function w2g(lon,lat){if(lon<72.004||lon>137.8347||lat<0.8293||lat>55.8271)return[lon,lat];
+  const dLat=tfLat(lon-105,lat-35),dLon=tfLon(lon-105,lat-35);
+  const rad=lat/180*PI;let magic=Math.sin(rad);magic=1-EE*magic*magic;const sq=Math.sqrt(magic);
+  return [lon+(dLon*180)/(AX/magic*Math.cos(rad)*sq*PI), lat+(dLat*180)/((AX*(1-EE))/(magic*sq)*PI)];}
+function mercY(lat){return 0.5-Math.log(Math.tan(PI/4+lat*PI/180/2))/(2*PI);}
+
+/* ---------- 要素绘制（屏幕固定尺寸） ---------- */
+function drawFeatures(ov,P){
+  const period=$("#periodSel").value;
+  DATA.cmd.forEach((c,idx)=>{
+    const col=cmdColor(period==="none"?"":c[period],period);
+    const [px,py]=P(c.lon,c.lat);
+    if(px<-40||py<-40||px>ov.clientWidth+40||py>ov.clientHeight+40)return;
+    const ce=el("circle",{cx:px,cy:py,r:c.imp==2?6.5:4.5,fill:col,stroke:"#0e1218cc","stroke-width":1});
+    ce.style.cursor="pointer";
+    ce.addEventListener("mousemove",ev=>tip(ev,`<b>${esc(c.n)}</b><br>治所：${esc(c.seat)}<br>今址：${esc(c.mod)}`));
+    ce.addEventListener("mouseleave",hideTip);
+    ce.addEventListener("click",ev=>{ev.stopPropagation();showPanel(c);pulse(ce);});
+    ov.appendChild(ce);
+    const zok=view.z>=6||period!=="none"&&vb.w<1300;
+    if((zok&&view.z>=6)||(vb.w<1300)||c.imp==2){
+      if($("#baseSel")&&$("#baseSel").value!=="demo"&&view.z<6&&c.imp!==2)return;
+      if(c.imp==2||(($("#baseSel").value==="demo"&&vb.w<1300)||view.z>=6)){
+        const side=(idx%2==0)?1:-1;
+        const t=el("text",{x:px+8*side,y:py+(idx%3-1)*3,fill:"#fff","font-size":12,"font-family":"var(--serif)","text-anchor":side>0?"start":"end","paint-order":"stroke",stroke:"#00000088","stroke-width":3});
+        t.textContent=c.n;ov.appendChild(t);
+      }
+    }
+  });
+  if($("#showCities").checked)DATA.cit.forEach(c=>{
+    const [px,py]=P(c.lon,c.lat);
+    if(px<-40||py<-40||px>ov.clientWidth+40||py>ov.clientHeight+40)return;
+    const d=el("path",{d:`M${px},${py-6} L${px+6},${py} L${px},${py+6} L${px-6},${py} Z`,fill:"#ffd977",stroke:"#0e1218cc","stroke-width":.8});
+    d.style.cursor="pointer";
+    d.addEventListener("mousemove",ev=>tip(ev,`<b>${esc(c.n)}</b><br>${esc(c.mod)}<br><span style="color:#8a93a6">${esc(c.note)}</span>`));
+    d.addEventListener("mouseleave",hideTip);
+    d.addEventListener("click",ev=>{ev.stopPropagation();showCity(c);pulse(d);});
+    ov.appendChild(d);
+    if(view.z>=8||(vb.w<760&&$("#baseSel").value==="demo")){
+      const t=el("text",{x:px+8,y:py-5,fill:"#ffe9b0","font-size":12,"paint-order":"stroke",stroke:"#00000088","stroke-width":3});
+      t.textContent=c.n.replace(/（.*?）/,"");ov.appendChild(t);}
+  });
+  if($("#showPass").checked)DATA.passes.forEach(c=>{
+    const [px,py]=P(c.lon,c.lat);
+    if(px<-40||py<-40||px>ov.clientWidth+40||py>ov.clientHeight+40)return;
+    const d=el("path",{d:`M${px},${py-6} L${px+6},${py+5} L${px-6},${py+5} Z`,fill:"#ff9d5c",stroke:"#0e1218cc","stroke-width":1});
+    d.style.cursor="pointer";
+    d.addEventListener("mousemove",ev=>tip(ev,`<b>${esc(c.n)}</b><br>${esc(c.mod)}<br><span style="color:#8a93a6">${esc(c.note)}</span>`));
+    d.addEventListener("mouseleave",hideTip);
+    d.addEventListener("click",ev=>{ev.stopPropagation();showCity(c);pulse(d);});
+    ov.appendChild(d);
+    if(view.z>=8||(vb.w<760&&$("#baseSel").value==="demo")){
+      const t=el("text",{x:px+9,y:py+2,fill:"#ffb380","font-size":12,"paint-order":"stroke",stroke:"#00000088","stroke-width":3});
+      t.textContent=c.n;ov.appendChild(t);}
+  });
+  if($("#showCounty").checked)DATA.cty.forEach(c=>{
+    const [px,py]=P(c.lon,c.lat);
+    if(px<-30||py<-30||px>ov.clientWidth+30||py>ov.clientHeight+30)return;
+    const d=el("circle",{cx:px,cy:py,r:2.6,fill:"#8fd0aa",stroke:"#0e1218cc","stroke-width":.8});
+    d.style.cursor="pointer";
+    d.addEventListener("mousemove",ev=>tip(ev,`<b>${esc(c.n)}</b>（${esc(c.c)}）<br>${esc(c.mod)}`));
+    d.addEventListener("mouseleave",hideTip);
+    d.addEventListener("click",ev=>{ev.stopPropagation();showCity({n:c.n+"（"+c.c+"属县）",mod:c.mod,note:"见《续汉书·郡国志五》"});pulse(d);});
+    ov.appendChild(d);
+    if(view.z>=9){
+      const t=el("text",{x:px+6,y:py+3,fill:"#a9dcc0","font-size":12,"paint-order":"stroke",stroke:"#00000088","stroke-width":3});
+      t.textContent=c.n;ov.appendChild(t);}
+  });
+  buildLegend(period);
+}
+
+/* ONLINE_MAPS */
+
+/* ---------- 模式一：示意底图（原 viewBox 方案） ---------- */
+function renderDemo(){
+  const wrap=$("#mapWrap"),W=wrap.clientWidth,H=wrap.clientHeight;
+  const svg=$("#mapSvg");svg.style.display="block";$("#tiles").innerHTML="";
+  svg.setAttribute("viewBox",`${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
+  const ov=$("#ovSvg");ov.innerHTML="";
+  const sc=W/vb.w;
+  const pts=DATA.outline.map(p=>mx(p[0]).toFixed(1)+","+my(p[1]).toFixed(1)).join(" ");
+  svg.innerHTML=`<polygon points="${pts}" fill="#1c2634" stroke="#3a4a5f" stroke-width="1.2"/>
+  <circle cx="${mx(109.8)}" cy="${my(19.2)}" r="${my(18.6)-my(19.6)}" fill="#1c2634" stroke="#3a4a5f"/>`;
+  drawFeatures(ov,(lo,la)=>[(mx(lo)-vb.x)*sc,(my(la)-vb.y)*sc]);
+}
+
+/* ---------- 模式二：高德底图（街道/卫星） ---------- */
+function renderTiles(){
+  const wrap=$("#mapWrap"),W=wrap.clientWidth,H=wrap.clientHeight;
+  $("#mapSvg").style.display="none";
+  const tl=$("#tiles");tl.innerHTML="";
+  const ov=$("#ovSvg");ov.innerHTML="";
+  const base=$("#baseSel").value;
+  const sc=256*Math.pow(2,view.z);
+  const g=onlineMapCoordinates(view.lon,view.lat,base);
+  const cx=(g[0]+180)/360*sc, cy=mercY(g[1])*sc;
+  const x0=Math.floor((cx-W/2)/256),x1=Math.floor((cx+W/2)/256);
+  const y0=Math.floor((cy-H/2)/256),y1=Math.floor((cy+H/2)/256);
+  if(base!=="none")for(let x=x0;x<=x1;x++)for(let y=y0;y<=y1;y++){
+    const img=document.createElement("img");
+    const s=(Math.abs(x+y)%4)+1;
+    img.src= base==="asat"
+      ? `https://webst0${s}.is.autonavi.com/appmaptile?style=6&x=${x}&y=${y}&z=${view.z}`
+      : `https://webrd0${s}.is.autonavi.com/appmaptile?lang=zh_cn&size=1&scale=1&style=8&x=${x}&y=${y}&z=${view.z}`;
+    img.draggable=false;
+    img.style.cssText=`position:absolute;left:${Math.round(W/2+(x*256-cx))}px;top:${Math.round(H/2+(y*256-cy))}px;width:256px;height:256px;user-select:none`;
+    img.onerror=function(){this.style.visibility="hidden";};
+    tl.appendChild(img);
+  }
+  drawFeatures(ov,(lo,la)=>{const gg=onlineMapCoordinates(lo,la,base);return[W/2+(((gg[0]+180)/360*sc)-cx),H/2+(mercY(gg[1])*sc)-cy];});
+}
+function renderMap(){
+  const base=$("#baseSel").value;
+  $("#mapWrap").dataset.basemap=base;
+  if(base!=="google")googleSatellite.leave();
+  if(!$("#mapWrap").clientWidth||!$("#mapWrap").clientHeight)return;
+  if(base==="demo")renderDemo();
+  else if(base==="google")renderGoogleSatellite();
+  else renderTiles();
+}
+
+/* ---------- 缩放与拖拽（双模式统一） ---------- */
+function isDemo(){return $("#baseSel").value==="demo";}
+$("#zin").onclick=()=>{if(isDemo()){const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;vb.w=Math.min(MW,Math.max(460,vb.w*0.72));vb.h=vb.w*MH/MW;vb.x=Math.min(Math.max(cx-vb.w/2,0),MW-vb.w);vb.y=Math.min(Math.max(cy-vb.h/2,0),MH-vb.h);}else view.z=Math.min(17,view.z+1);renderMap();};
+$("#zout").onclick=()=>{if(isDemo()){const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;vb.w=Math.min(MW,Math.max(460,vb.w*1.38));vb.h=vb.w*MH/MW;vb.x=Math.min(Math.max(cx-vb.w/2,0),MW-vb.w);vb.y=Math.min(Math.max(cy-vb.h/2,0),MH-vb.h);}else view.z=Math.max(3,view.z-1);renderMap();};
+$("#zreset").onclick=()=>{vb={x:0,y:0,w:MW,h:MH};view={lon:108.5,lat:34.5,z:5};renderMap();};
+let drag=null;
+$("#mapWrap").addEventListener("mousedown",e=>{if(e.button!==0||e.target.closest("#mapPanel,.mapCtl,#mapTileStatus,#mapAttribution"))return;drag={x:e.clientX,y:e.clientY};});
+window.addEventListener("mousemove",e=>{
+  if(!drag)return;
+  const dx=e.clientX-drag.x,dy=e.clientY-drag.y;drag={x:e.clientX,y:e.clientY};
+  if(isDemo()){
+    const s=$("#mapWrap").clientWidth/vb.w;
+    vb.x=Math.min(Math.max(vb.x-dx/s,0),MW-vb.w);vb.y=Math.min(Math.max(vb.y-dy/s,0),MH-vb.h);
+  }else{
+    panOnlineMap(dx,dy);
+  }
+  scheduleMapRender();
+});
+window.addEventListener("mouseup",()=>drag=null);
+$("#mapWrap").addEventListener("wheel",e=>{if(e.target.closest("#mapPanel,.mapCtl,#mapTileStatus,#mapAttribution"))return;e.preventDefault();if(isDemo()){const f=e.deltaY>0?1.15:0.87;const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;vb.w=Math.min(MW,Math.max(460,vb.w*f));vb.h=vb.w*MH/MW;vb.x=Math.min(Math.max(cx-vb.w/2,0),MW-vb.w);vb.y=Math.min(Math.max(cy-vb.h/2,0),MH-vb.h);}else view.z=Math.max(3,Math.min(17,view.z+(e.deltaY>0?-1:1)));scheduleMapRender();},{passive:false});
+$("#periodSel").onchange=renderMap;$("#showCities").onchange=renderMap;$("#showPass").onchange=renderMap;$("#showCounty").onchange=renderMap;
+$("#baseSel").onchange=()=>{$("#mapPanel").style.display="none";renderMap();};
+$("#mapWrap").addEventListener("click",e=>{if(e.target.id==="mapWrap"||e.target.tagName==="svg"||e.target.id==="tiles")$("#mapPanel").style.display="none";});
+function gotoPlace(lon,lat,cb){
+  if(curView!=="map")document.querySelector('.tab[data-v="map"]').click();
+  if(isDemo()){
+    vb.w=Math.min(MW,1080);vb.h=vb.w*MH/MW;
+    vb.x=Math.min(Math.max(mx(lon)-vb.w/2,0),MW-vb.w);vb.y=Math.min(Math.max(my(lat)-vb.h/2,0),MH-vb.h);
+  }else{
+    view={lon,lat,z:9};
+  }
+  renderMap();cb();
+}
+/* ================= 时间轴 ================= */
+const Y0=150,Y1=285,PX=16,LEFT=0,EVH=172,ROW=24;
+const X=yr=>10+(yr-Y0)*PX;
+const TLW=X(Y1)+40;
+let tlBuilt=false;
+const FORDER=["魏","蜀","吴","群雄","其他"];
+const FKEY={"魏":"fWei","蜀":"fShu","吴":"fWu","群雄":"fQun","其他":"fQun"};
+function forceOn(f){return $("#"+FKEY[f]).checked;}
+function personVisible(p){
+  if(!forceOn(p.f))return false;
+  if($("#fFull").checked&&!(p.b&&p.d))return false;
+  return true;
+}
+function renderTL(){
+  const canvas=$("#tlCanvas"),nameS=$("#nameScroll");
+  canvas.innerHTML='<div id="cursor"></div><div id="cursorYear"></div><div id="tlLegend"></div>';
+  nameS.innerHTML='';const ngap=document.createElement("div");ngap.className="gap";nameS.appendChild(ngap);
+  /* 年份网格 */
+  for(let y=Y0;y<=Y1;y++){
+    const g=document.createElement("div");
+    g.className="ygrid"+(y%10==0?" major":"");
+    g.style.left=X(y)+"px";canvas.appendChild(g);
+    if(y%10==0){const l=document.createElement("div");l.className="ylab";l.style.left=X(y)+"px";l.textContent=y;canvas.appendChild(l);}
+  }
+  /* 事件旗标 */
+  const lanes=[-1,-1,-1,-1,-1];
+  const evs=DATA.ev.slice().sort((a,b)=>a.y-b.y);
+  const laneNames=["战争/军事行动","政治事件","外交/盟约","其他大事","（续）"];
+  laneNames.forEach((n,i)=>{const l=document.createElement("div");l.className="evLaneLab";l.style.top=(10+i*30)+"px";l.textContent=n;canvas.appendChild(l);});
+  evs.forEach(ev=>{
+    let lane=0;for(let i=0;i<5;i++)if(X(ev.y)-lanes[i]>110){lane=i;break;}
+    lanes[lane]=X(ev.y);
+    const f=document.createElement("div");
+    f.className="evFlag";f.style.left=X(ev.y)+"px";f.style.top=(8+lane*30)+"px";f.style.color=EVCH[ev.t];
+    f.innerHTML=EVI[ev.t]+`<span class="lb">${esc(ev.n)}</span>`;
+    f.title=ev.y+"年 · "+ev.n;
+    f.onclick=()=>openEvent(ev);
+    f.dataset.y=ev.y;f.dataset.n=ev.n;
+    canvas.appendChild(f);
+  });
+  /* 人物行 */
+  const groups={};FORDER.forEach(f=>groups[f]=DATA.per.filter(p=>p.f===f&&personVisible(p)));
+  FORDER.forEach(f=>groups[f].sort((a,b)=>((a.b||a.d||9999)-(b.b||b.d||9999))));
+  let y=EVH;const nameY=[];
+  FORDER.forEach(f=>{
+    const list=groups[f];
+    if(!list.length)return;
+    const gh=document.createElement("div");gh.className="grp";gh.style.top=y+"px";gh.style.height="30px";gh.style.width=TLW+"px";
+    gh.innerHTML=`${f} <small>${list.length}人</small>`;canvas.appendChild(gh);
+    const nh=document.createElement("div");nh.className="ngrp";
+    nh.innerHTML=`${f} <small>${list.length}人</small>`;nameS.appendChild(nh);
+    y+=30;
+    list.forEach(p=>{
+      const row=document.createElement("div");row.className="prow";row.style.top=y+"px";row.style.width=TLW+"px";row.dataset.n=p.n;
+      const line=document.createElement("div");line.className="pline";
+      const col=FCH[p.f];
+      if(p.b&&p.d){
+        line.style.left=X(p.b)+"px";line.style.width=(X(p.d)-X(p.b))+"px";line.style.background=col;
+        const b=document.createElement("div");b.className="pdot";b.style.left=X(p.b)+"px";b.style.background=col;b.title="生 "+p.b;
+        const d=document.createElement("div");d.className="pdie";d.style.left=X(p.d)+"px";d.style.color=col;d.textContent="✕";d.title="卒 "+p.d;
+        row.appendChild(line);row.appendChild(b);row.appendChild(d);
+      }else{
+        const yr=p.b||p.d;
+        line.style.left=X(Math.max(Y0,yr-8))+"px";line.style.width=(X(yr)-X(Math.max(Y0,yr-8)))+"px";line.style.background="repeating-linear-gradient(90deg,"+col+" 0 6px,transparent 6px 11px)";
+        const m=document.createElement("div");m.className="pdie";m.style.left=X(yr)+"px";m.style.color=col;
+        m.textContent=p.d?("✕ "+p.d):("? "+p.b);m.title=(p.d?"卒 "+p.d:"生 "+p.b)+"（生卒未详，虚线示意）";
+        row.appendChild(line);row.appendChild(m);
+      }
+      row.onclick=()=>openPerson(p);
+      canvas.appendChild(row);
+      const nl=document.createElement("div");nl.className="nrow";nl.dataset.n=p.n;
+      nl.innerHTML=`<span style="color:${col};font-family:var(--serif)">${esc(p.n)}</span><span style="color:#5f6875;font-size:11px">${esc(p.z||"")}</span><span class="ny">${p.b||"?"}–${p.d||"?"}</span>`;
+      nl.onclick=()=>openPerson(p);
+      nameS.appendChild(nl);
+      y+=ROW;
+    });
+  });
+  /* 生卒不详 */
+  const nulls=DATA.per.filter(p=>!p.b&&!p.d&&forceOn(p.f));
+  if(nulls.length){
+    const nb=document.createElement("div");nb.className="grp";nb.style.top=y+"px";nb.style.height="30px";nb.style.width=TLW+"px";
+    nb.innerHTML=`生卒年不详 <small>${nulls.length}人（可检索、点击见传）</small>`;canvas.appendChild(nb);
+    const nb2=document.createElement("div");nb2.className="ngrp";nb2.innerHTML=`生卒年不详 <small>${nulls.length}人</small>`;nameS.appendChild(nb2);
+    y+=30;
+    const box=document.createElement("div");box.className="nullbox";box.style.top=y+"px";box.style.width=(TLW-20)+"px";
+    nulls.forEach(p=>{
+      const c=document.createElement("span");c.className="nullchip";c.textContent=p.n+(p.z?"·"+p.z:"");
+      c.onclick=()=>openPerson(p);box.appendChild(c);
+    });
+    canvas.appendChild(box);
+    const bh=Math.ceil(nulls.length/4)*34+70;
+    const filler=document.createElement("div");filler.style.height=bh+"px";filler.style.padding="10px";filler.style.color="#5f6875";filler.style.fontSize="12px";filler.textContent="此栏人物生卒年不详，见右侧名录，或检索其姓名";nameS.appendChild(filler);
+    y+=bh;
+  }
+  canvas.style.width=TLW+"px";canvas.style.height=y+"px";
+  buildTlLegend();
+  syncName();
+  tlBuilt=true;
+}
+function buildTlLegend(){
+  let h=`<div style="color:#d8cfb8;font-family:var(--serif);margin-bottom:4px">图例</div>`;
+  h+=`<div class="li"><span style="color:var(--wei)">━━</span> 魏人物（155年起线）</div>`;
+  h+=`<div class="li"><span style="color:var(--shu)">━━</span> 蜀人物</div><div class="li"><span style="color:var(--wu)">━━</span> 吴人物</div>`;
+  h+=`<div class="li"><span style="color:var(--qun)">━━</span> 群雄 / 其他</div>`;
+  h+=`<div class="li"><span style="color:#e8e2d5">●──✕</span> 出生→卒年</div>`;
+  h+=`<div class="li"><span style="color:#8a93a6">╌╌✕</span> 生卒未详（示意）</div>`;
+  for(const k in EVI)h+=`<div class="li"><span style="color:${EVCH[k]}">${EVI[k]}</span> ${EVN[k]}</div>`;
+  $("#tlLegend").innerHTML=h;
+}
+const tlScroll=$("#tlScroll");
+tlScroll.addEventListener("scroll",syncName);
+function syncName(){document.getElementById("nameBox").scrollTop=tlScroll.scrollTop;}
+["fWei","fShu","fWu","fQun","fFull"].forEach(id=>$("#"+id).addEventListener("change",renderTL));
+$("#goBtn").onclick=()=>{const y=parseInt($("#goYear").value);if(y)gotoYear(y);};
+$("#goYear").addEventListener("keydown",e=>{if(e.key==="Enter")$("#goBtn").click();});
+function gotoYear(y){
+  if(curView!=="tl"){document.querySelector('.tab[data-v="tl"]').click();}
+  tlScroll.scrollTo({left:X(y)-tlScroll.clientWidth/2,behavior:"smooth"});
+  const cy=$("#cursor"),cyr=$("#cursorYear");
+  cy.style.display="block";cy.style.left=X(y)+"px";
+  cyr.style.display="block";cyr.style.left=X(y)+"px";cyr.textContent=y+"年";
+  setTimeout(()=>{cy.style.display="none";cyr.style.display="none";},2600);
+  const evs=DATA.ev.filter(e=>e.y===y);
+  if(evs.length){const box=$("#playBox");box.style.display="block";
+    $("#playTitle").textContent=y+"年大事";
+    $("#playList").innerHTML=evs.map(e=>`<div><b style="color:${EVCH[e.t]}">${EVI[e.t]}</b> <b>${esc(e.n)}</b>　<span style="color:#7d8694">${esc(e.pl)}</span><br><span style="color:#a8a192">${esc(e.d)}</span></div>`).join("");}
+}
+/* 播放 */
+let playing=false,py=0,ptimer=null;
+$("#playBtn").onclick=()=>{
+  if(playing){stopPlay();return;}
+  if(curView!=="tl")document.querySelector('.tab[data-v="tl"]').click();
+  playing=true;py=184;$("#playBtn").textContent="⏸ 暂停";$("#playBox").style.display="block";
+  $("#playTitle").textContent="时间巡览：184年始";
+  $("#playList").innerHTML="";
+  tlScroll.scrollTo({left:X(py)-100});
+  ptimer=setInterval(()=>{
+    if(py>280){stopPlay();return;}
+    const cy=$("#cursor"),cyr=$("#cursorYear");
+    cy.style.display="block";cy.style.left=X(py)+"px";
+    cyr.style.display="block";cyr.style.left=X(py)+"px";cyr.textContent=py+"年";
+    if(py%5===0)tlScroll.scrollTo({left:X(py)-tlScroll.clientWidth/3,behavior:"smooth"});
+    const evs=DATA.ev.filter(e=>e.y===py);
+    evs.forEach(e=>{
+      $("#playList").innerHTML=`<div><b style="color:${EVCH[e.t]}">${EVI[e.t]}</b> <b>${py}年 · ${esc(e.n)}</b>　<span style="color:#7d8694">${esc(e.pl)}</span><br><span style="color:#a8a192">${esc(e.d)}</span></div>`+$("#playList").innerHTML;
+      const flag=[...document.querySelectorAll(".evFlag")].find(f=>+f.dataset.y===py&&f.dataset.n===e.n);
+      if(flag)pulse(flag);
+    });
+    py++;
+  },260);
+};
+function stopPlay(){playing=false;clearInterval(ptimer);$("#playBtn").textContent="▶ 播放 184–280";$("#cursor").style.display="none";$("#cursorYear").style.display="none";}
+
+/* ================= 弹窗 ================= */
+function openPerson(p){
+  const col=FCH[p.f];
+  const yearStr=(p.b||"?")+" — "+(p.d||"?")+"　"+p.f;
+  const sec=(t,b,empty)=>`<div class="sec"><h3>${t}</h3><div class="body">${b?b:`<span class="empty">${empty}</span>`}</div></div>`;
+  const basic=`<div class="body">
+<b style="color:${col}">${esc(p.n)}</b>${p.z?`，字${esc(p.z)}`:""}　${esc(p.f)}势力
+籍贯：${esc(p.p||"不详")}
+生卒：${p.b?p.b+"年":"不详"} — ${p.d?p.d+"年":"不详"}
+出处：${esc(p.s||"不详")}${p.t?`\n备考：${esc(p.t)}`:""}</div>`;
+  $("#modal").innerHTML=`<button id="mClose">✕</button>
+    <h2>${esc(p.n)}${p.z?`<span style="font-size:15px;color:#a8a192;margin-left:10px">字${esc(p.z)}</span>`:""}</h2>
+    <div class="meta"><span class="chip" style="background:${col}">${esc(p.f)}</span><span>${yearStr}</span><span style="color:#7d8694">${esc(p.p||"")}</span></div>
+    ${sec("一 · 基本信息",basic)}
+    ${sec("二 · 主要经历（本传概述）",esc(p.g),"本传概述待补")}
+    ${sec("三 · 经历原文摘录",esc(p.e),(p.s&&p.s.indexOf("晋书")>-1?"《晋书》帝纪原文未录（可于中华书局点校本《晋书》检读）":"本传原文未录（可于中华书局点校本《三国志》检读）"))}
+    ${sec("四 · 相貌体征（《三国志》原文）",esc(p.m),(p.s&&p.s.indexOf("晋书")>-1)?"《三国志》未为其立传，故无容貌之载":"本传未载其容貌体征")}
+    ${sec("五 · 陈寿评曰",esc(p.c),p.s&&p.s.indexOf("晋书")>-1?"《三国志》未立传，无陈寿评":"陈寿本卷评语此未录")}
+    ${sec("六 · 裴松之注（节选）",esc(p.v),(p.s&&p.s.indexOf("晋书")>-1?"《晋书》无裴松之注——裴注系陈寿《三国志》所独有，本工具一仍其旧":"本传裴注甚繁，此未节录；清人卢弼《三国志集解》最便检读"))}
+    <div class="src">资料来源：${esc(p.s||"")}　｜　本工具仅录可核实之原文，阙者明示，不敢妄补。</div>`;
+  $("#mask").style.display="flex";
+  $("#mClose").onclick=closeModal;
+}
+function openEvent(ev){
+  $("#modal").innerHTML=`<button id="mClose">✕</button>
+    <h2>${esc(ev.n)}</h2>
+    <div class="meta"><span class="chip" style="background:${EVCH[ev.t]}">${EVN[ev.t]}</span><span>${ev.y}年</span><span style="color:#a8a192">地点：${esc(ev.pl)}</span><span style="color:#a8a192">主导：${esc(ev.f)}</span></div>
+    <div class="sec"><h3>事件概述</h3><div class="body">${esc(ev.d)}</div></div>
+    <div class="src">依据：${esc(ev.s)}</div>`;
+  $("#mask").style.display="flex";$("#mClose").onclick=closeModal;
+}
+function closeModal(){$("#mask").style.display="none";}
+$("#mask").addEventListener("click",e=>{if(e.target.id==="mask")closeModal();});
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal();});
+
+/* ================= 检索 ================= */
+const idx=[];
+DATA.per.forEach(p=>idx.push({t:"人",k:p.n+(p.z||""),n:p.n,sub:(p.b||"?")+"-"+(p.d||"?")+" · "+p.f,col:FCH[p.f],act:()=>{gotoPerson(p);}}));
+DATA.ev.forEach(ev=>idx.push({t:"事",k:ev.n+ev.pl+ev.f,n:ev.n,sub:ev.y+"年 · "+ev.pl,col:EVCH[ev.t],act:()=>{gotoYear(ev.y);setTimeout(()=>{const f=[...document.querySelectorAll(".evFlag")].find(f=>+f.dataset.y===ev.y&&f.dataset.n===ev.n);if(f){pulse(f);f.scrollIntoView({block:"nearest",inline:"center",behavior:"smooth"});}},700);}}));
+DATA.cmd.forEach(c=>idx.push({t:"地",k:c.n+c.seat+c.mod,n:c.n,sub:"郡国 · 治所"+c.seat+" · "+c.mod,col:"#8a93a6",act:()=>gotoPlace(c.lon,c.lat,()=>showPanel(c))}));
+DATA.cit.forEach(c=>idx.push({t:"城",k:c.n+c.mod+c.note,n:c.n,sub:"城池 · "+c.mod,col:"#d8cfb8",act:()=>gotoPlace(c.lon,c.lat,()=>showCity(c))}));
+DATA.cty.forEach(c=>idx.push({t:"县",k:c.n+c.c+c.mod,n:c.n,sub:c.c+"属县 · "+c.mod,col:"#7fa88f",act:()=>gotoPlace(c.lon,c.lat,()=>showCity({n:c.n+"（"+c.c+"属县）",mod:c.mod,note:"见《续汉书·郡国志五》"}))}));
+DATA.passes.forEach(c=>idx.push({t:"隘",k:c.n+c.mod+c.note,n:c.n,sub:"关隘 · "+c.mod,col:"#e0a458",act:()=>gotoPlace(c.lon,c.lat,()=>showCity(c))}));
+for(let y=150;y<=286;y++)idx.push({t:"年",k:String(y),n:y+"年",sub:"大事 "+DATA.ev.filter(e=>e.y===y).length+" 件",col:"#e0b84f",act:()=>gotoYear(y)});
+$("#q").addEventListener("input",()=>{
+  const v=$("#q").value.trim(),box=$("#results");
+  if(!v){box.style.display="none";return;}
+  let hit;
+  if(/^\d{3,4}$/.test(v)){const y=parseInt(v);hit=idx.filter(i=>i.t==="年"&&i.n===y+"年").concat(idx.filter(i=>i.t!=="年"&&(i.k.includes(v)||i.n.includes(v))).slice(0,8));}
+  else hit=idx.filter(i=>i.k.includes(v)).slice(0,14);
+  if(!hit.length){box.innerHTML='<div class="res"><span style="color:#6d7684;padding:4px">无匹配结果</span></div>';box.style.display="block";return;}
+  box.innerHTML=hit.map((h,i)=>`<div class="res" data-i="${idx.indexOf(h)}"><span class="tag" style="background:${h.col}">${h.t}</span><span>${esc(h.n)}</span><span class="sub">${esc(h.sub)}</span></div>`).join("");
+  box.style.display="block";
+  box.querySelectorAll(".res").forEach(r=>r.onclick=()=>{box.style.display="none";$("#q").value="";idx[+r.dataset.i].act();});
+});
+function gotoPerson(p){
+  if(curView!=="tl")document.querySelector('.tab[data-v="tl"]').click();
+  renderTL();
+  const target=[...document.querySelectorAll("#nameScroll>div")].find(d=>d.dataset.n===p.n);
+  if(target){
+    tlScroll.scrollTo({top:target.offsetTop-160,behavior:"smooth"});
+    const row=[...document.querySelectorAll(".prow")].find(r=>r.dataset.n===p.n);
+    if(row)setTimeout(()=>pulse(row),600);
+    setTimeout(()=>openPerson(p),900);
+  }else openPerson(p);
+}
+
+/* ================= 郡县表 ================= */
+function renderTbl(){
+  const tb=document.querySelector("#tbl tbody");
+  const draw=()=>{
+    const v=$("#tblQ").value.trim();
+    tb.innerHTML=DATA.cmd.filter(c=>!v||c.n.includes(v)||c.seat.includes(v)||c.mod.includes(v))
+      .map(c=>`<tr><td>${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`).join("");
+  };
+  $("#tblQ").addEventListener("input",draw);draw();
+}
+renderTbl();
+
+/* ================= 说明 ================= */
+$("#about").innerHTML=`
+<h2>一、资料依据</h2>
+<div>本工具全部内容以 <b>陈寿《三国志》</b>（中华书局点校本系统）及 <b>裴松之注</b> 为唯一文本依据；郡国治所与今地名对照，依据《续汉书·郡国志》及谭其骧《中国历史地图集》通行考证。生卒年阙如者标「不详」，卒年存疑者于「备考」注明。<b>凡记忆未审之原文，一律不录，宁阙毋妄。</b></div>
+<h2>二、地图使用</h2>
+<div>· 右上角选择归属时点：可切换 <b>建安五年（200）、建安二十四年（219）、景元四年（263）</b> 三个断面，郡国圆点按当时控制势力着色；<br>· 底图可切换：示意图／<b>高德街道</b>／<b>高德卫星影像</b>／纯点位；在线底图模式下滚轮缩放、拖拽平移（坐标已做 WGS-84→GCJ-02 校正）；所有标识与文字保持固定大小，不随缩放变化；<br>· 点击圆点（郡国）／菱形（城池·战场）／三角（关隘），右侧面板显示 <b>治所、今址</b> 与三个时点归属；<br>· 「郡县总表」可按名称/治所/今址筛选，与 CSV 资料表配套使用。</div>
+<h2>三、时间轴使用</h2>
+<div>· 横轴为公元年份（150–285），纵列人物按势力分组；<b>●为出生、✕为卒年</b>，实线连接生卒；生卒不详者以虚线示意并汇总于底部；<br>· 顶部为事件旗标：⚔战争 ★政治 ◈外交 ●其他；点击旗标或人名，弹出原文摘录弹窗（基本信息／经历概述／本传原文／陈寿评曰／裴松之注 五栏）；<br>· 「播放」按钮以动画巡览184–280年大事；<br>· 顶部检索框支持 <b>人名、事件名、年份、地名</b> 四类查询，选中后自动平滑滚动定位并高亮。</div>
+<h2>四、颜色与标志</h2>
+<div><span class="chip" style="background:#5b8dd6">魏</span> <span class="chip" style="background:#58a05c">蜀</span> <span class="chip" style="background:#d6655b">吴</span> <span class="chip" style="background:#c9a445">群雄·其他</span>　事件：<span style="color:#e2703a">⚔ 战争</span>、<span style="color:#e0b84f">★ 政治</span>、<span style="color:#4fb8c9">◈ 外交</span>、<span style="color:#9aa2ad">● 其他</span></div>
+<h2>五、范围说明（务必阅读）</h2>
+<div>《三国志》全书纪传人物逾千，本工具收录 <b>${DATA.per.length} 位人物</b>，不限于魏蜀吴传主，兼及东汉朝廷文武（皇甫嵩、卢植、朱儁、孔融、郑玄等）、讨董群雄、诸势力部下（纪灵、颜良文丑、郭图逢纪、蒯越蔡瑁、严颜张任等）、吕布董卓余部、边疆民族与方外人物（蹋顿、轲比能、于夫罗、卑弥呼等）；凡《三国志》无传者，均于「出处」栏标明《后汉书》或仅见裴注，不敢混同。${DATA.cmd.length} 郡国、${DATA.cit.length} 座要邑、${DATA.ev.length} 件大事。司马懿、司马师、司马昭及羊祜、杜预、王濬等，<b>《三国志》未立传</b>（陈寿仕晋之故），其事迹附载并注明《晋书》出处——本次应约将司马懿、司马师、司马昭三人按《晋书》帝纪扩展收录（含帝纪原文摘录）；貂蝉等演义虚构人物不入史实，特设一条说明以正视听。后续可在此框架上继续补全其余传主与人物。</div>
+<h2>六、配套资料</h2>
+<div>随工具附 CSV 资料表（郡国经纬与今址、人物生卒、大事年表），可直接导入 Excel / GIS 继续整理。</div>`;
+
+/* init */
+renderMap();
+</script>
+</body>
+</html>

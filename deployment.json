@@ -1,0 +1,48 @@
+{
+  "provider": "cloudflare-workers-static-assets",
+  "account_id": "7cf57c12af6006a749d4df3c773dce90",
+  "zone_id": "044c03d310897bbbe4a637fa46c11397",
+  "worker": "sanguo-chronicle",
+  "domain": "sanguo.720108.xyz",
+  "url": "https://sanguo.720108.xyz/",
+  "workers_url": "https://sanguo-chronicle.fczllc.workers.dev/",
+  "domain_id": "a6c70f38416f8b767cee7ee563d490a80e8bc637",
+  "initial_version": "f864c129-4376-4a0f-be56-cbbd839ef0fd",
+  "stage": "preview",
+  "verified_on": "2026-10-05",
+  "current_version": "b0b33c3e-655d-4822-8a70-dd788230080a",
+  "portrait_automation_id": "automation",
+  "portrait_automation_status": "PAUSED",
+  "google_satellite": {
+    "api": "Map Tiles API: 2D Map Tiles",
+    "mapType": "satellite",
+    "modernLabels": false,
+    "roadOverlay": false,
+    "verified": true
+  },
+  "chen_shou_appraisals": {
+    "chaptersReviewed": 65,
+    "people": 245,
+    "entries": 248,
+    "verified": true
+  },
+  "affiliations": {
+    "people": 471,
+    "newlyReviewed": 379,
+    "withHanOffices": 72,
+    "hanCourtThrough": 220,
+    "verified": true
+  },
+  "repository": {
+    "url": "https://github.com/tianyi092-jcza/sanguo",
+    "branch": "main",
+    "visibility": "public"
+  },
+  "repository_deployment": {
+    "provider": "Cloudflare Workers Builds",
+    "connectionVerified": false,
+    "buildCommand": "npm run build:cloud",
+    "deployCommand": "npx wrangler deploy",
+    "status": "requires Cloudflare Builds repository connection"
+  }
+}

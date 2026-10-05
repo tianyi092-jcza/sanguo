@@ -1,0 +1,669 @@
+[
+  {
+    "name": "曹丕",
+    "source": "a04-002",
+    "first": {
+      "year": 211,
+      "before": true
+    },
+    "birth": 187,
+    "death": 226,
+    "life": "187—226",
+    "stages": [
+      {
+        "start": 211,
+        "end": 220,
+        "faction": "caocao",
+        "query": "五官中郎將",
+        "openStart": true,
+        "note": "本段自有明確任官紀年的五官中郎將起；早期從征另見本傳。"
+      },
+      {
+        "start": 220,
+        "end": 226,
+        "faction": "wei",
+        "query": "王升壇即阼",
+        "precision": "exact",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "曹叡",
+    "source": "a04-003",
+    "first": {
+      "year": 221,
+      "precision": "exact"
+    },
+    "life": "生年有異說—239",
+    "death": 239,
+    "stages": [
+      {
+        "start": 221,
+        "end": 239,
+        "faction": "wei",
+        "query": "武德侯",
+        "endInclusive": true,
+        "note": "221年受封武德侯，226年即帝位，色帶僅表示同一政權內身份。"
+      }
+    ]
+  },
+  {
+    "name": "曹芳",
+    "source": "a04-004",
+    "first": {
+      "year": 235,
+      "precision": "exact"
+    },
+    "life": "生年待考—274",
+    "death": 274,
+    "stages": [
+      {
+        "start": 235,
+        "end": 265,
+        "faction": "wei",
+        "query": "齊王",
+        "note": "235年封王，239—254年在帝位，其後仍為齊王，不把整段視作在位。"
+      },
+      {
+        "start": 265,
+        "end": 274,
+        "faction": "jin",
+        "label": "晉 · 邵陵公",
+        "query": "邵陵",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "曹髦",
+    "source": "a04-004",
+    "first": {
+      "year": 244,
+      "precision": "exact"
+    },
+    "birth": 241,
+    "death": 260,
+    "life": "241—260",
+    "stages": [
+      {
+        "start": 244,
+        "end": 260,
+        "faction": "wei",
+        "query": "高貴鄉公",
+        "endInclusive": true,
+        "note": "受封高貴鄉公，254年即位，260年被殺。"
+      }
+    ]
+  },
+  {
+    "name": "曹奐",
+    "source": "a04-004",
+    "first": {
+      "year": 258,
+      "precision": "exact"
+    },
+    "birth": 246,
+    "life": "246—卒年此未核",
+    "stages": [
+      {
+        "start": 258,
+        "end": 265,
+        "faction": "wei",
+        "query": "常道鄉公"
+      },
+      {
+        "start": 265,
+        "end": 280,
+        "faction": "jin",
+        "label": "晉 · 陳留王",
+        "source": "a05-003",
+        "query": "封魏帝為陳留王",
+        "endInclusive": true,
+        "note": "280年為視窗終點，非卒年。"
+      }
+    ]
+  },
+  {
+    "name": "曹仁",
+    "source": "a04-009",
+    "first": {
+      "year": 193,
+      "before": true
+    },
+    "birth": 168,
+    "death": 223,
+    "life": "約168—223",
+    "stages": [
+      {
+        "start": 189,
+        "end": 220,
+        "faction": "caocao",
+        "query": "遂從太祖",
+        "openStart": true,
+        "note": "起兵追隨曹操的確年未詳。"
+      },
+      {
+        "start": 220,
+        "end": 223,
+        "faction": "wei",
+        "query": "文帝即王位",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "夏侯惇",
+    "source": "a04-009",
+    "first": {
+      "year": 189,
+      "precision": "inferred"
+    },
+    "death": 220,
+    "life": "生年不詳—220",
+    "stages": [
+      {
+        "start": 189,
+        "end": 220,
+        "faction": "caocao",
+        "query": "太祖初起",
+        "endInclusive": true,
+        "note": "卒於曹丕稱帝之前，不能標為曹魏皇朝將領。"
+      }
+    ]
+  },
+  {
+    "name": "夏侯淵",
+    "source": "a04-009",
+    "first": {
+      "year": 189,
+      "precision": "inferred"
+    },
+    "death": 219,
+    "life": "生年不詳—219",
+    "stages": [
+      {
+        "start": 189,
+        "end": 219,
+        "faction": "caocao",
+        "query": "太祖起兵",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "郭嘉",
+    "source": "a04-014",
+    "first": {
+      "year": 196,
+      "before": true
+    },
+    "birth": 170,
+    "death": 207,
+    "life": "約170—207",
+    "stages": [
+      {
+        "start": 190,
+        "end": 196,
+        "faction": "yuanshao",
+        "query": "北見袁紹",
+        "openStart": true,
+        "openEnd": true,
+        "note": "北見袁紹後離去；相見與依附的確年、是否正式受任未詳，不視為連續任職。"
+      },
+      {
+        "start": 196,
+        "end": 207,
+        "faction": "caocao",
+        "query": "彧薦嘉",
+        "note": "入曹幕約在建安初，確年為推定。",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "程昱",
+    "source": "a04-014",
+    "first": {
+      "year": 184,
+      "precision": "inferred"
+    },
+    "birth": 141,
+    "death": 220,
+    "life": "約141—220",
+    "stages": [
+      {
+        "start": 184,
+        "end": 192,
+        "faction": "none",
+        "query": "黃巾起",
+        "note": "率鄉民守東阿，後屢辭徵辟；不是已加入某軍閥。"
+      },
+      {
+        "start": 192,
+        "end": 220,
+        "faction": "caocao",
+        "query": "太祖臨兖州"
+      },
+      {
+        "start": 220,
+        "end": 220,
+        "faction": "wei",
+        "query": "文帝踐阼",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "樂進",
+    "source": "a04-017",
+    "first": {
+      "year": 194,
+      "before": true
+    },
+    "death": 218,
+    "life": "生年不詳—218",
+    "stages": [
+      {
+        "start": 190,
+        "end": 218,
+        "faction": "caocao",
+        "query": "以膽烈從太祖",
+        "openStart": true,
+        "note": "從曹操起年未載，濮陽之戰以前已在其麾下。",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "典韋",
+    "source": "a04-018",
+    "first": {
+      "year": 190,
+      "before": true
+    },
+    "death": 197,
+    "life": "生年不詳—197",
+    "stages": [
+      {
+        "start": 190,
+        "end": 194,
+        "faction": "other",
+        "label": "張邈",
+        "query": "張邈舉義兵",
+        "note": "先屬張邈，轉夏侯惇的確年未詳。"
+      },
+      {
+        "start": 194,
+        "end": 197,
+        "faction": "caocao",
+        "query": "後屬夏侯惇",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "許褚",
+    "source": "a04-018",
+    "first": {
+      "year": 197,
+      "before": true
+    },
+    "life": "生卒詳年待考",
+    "stages": [
+      {
+        "start": 197,
+        "end": 220,
+        "faction": "caocao",
+        "query": "太祖徇淮汝",
+        "openStart": true
+      },
+      {
+        "start": 220,
+        "end": 227,
+        "faction": "wei",
+        "query": "文帝踐阼",
+        "openEnd": true,
+        "note": "明帝時仍受封，卒年未載，不延伸到任意晚年。"
+      }
+    ]
+  },
+  {
+    "name": "黃忠",
+    "source": "a04-036",
+    "first": {
+      "year": 208,
+      "before": true
+    },
+    "death": 220,
+    "life": "生年不詳—220",
+    "stages": [
+      {
+        "start": 184,
+        "end": 208,
+        "faction": "liubiao",
+        "query": "荊州牧劉表",
+        "openStart": true,
+        "note": "任劉表中郎將起年未載，開放左界不表示184年已任職。"
+      },
+      {
+        "start": 208,
+        "end": 209,
+        "faction": "caocao",
+        "label": "曹操／韓玄",
+        "query": "假行裨將軍",
+        "note": "曹操克荊州後仍守故任，統屬韓玄。"
+      },
+      {
+        "start": 209,
+        "end": 220,
+        "faction": "liubei",
+        "query": "忠遂委質",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "馬超",
+    "source": "a04-036",
+    "first": {
+      "year": 202,
+      "precision": "inferred"
+    },
+    "birth": 176,
+    "death": 222,
+    "life": "約176—222",
+    "stages": [
+      {
+        "start": 202,
+        "end": 208,
+        "faction": "mateng",
+        "query": "騰遣超",
+        "openStart": true
+      },
+      {
+        "start": 208,
+        "end": 213,
+        "faction": "machao",
+        "query": "領騰部曲"
+      },
+      {
+        "start": 213,
+        "end": 214,
+        "faction": "zhanglu",
+        "query": "奔漢中依張魯"
+      },
+      {
+        "start": 214,
+        "end": 221,
+        "faction": "liubei",
+        "query": "密書請降"
+      },
+      {
+        "start": 221,
+        "end": 222,
+        "faction": "shu",
+        "query": "章武元年",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "龐統",
+    "source": "a04-037",
+    "first": {
+      "year": 199,
+      "precision": "inferred"
+    },
+    "birth": 179,
+    "death": 214,
+    "life": "約179—214",
+    "stages": [
+      {
+        "start": 209,
+        "end": 210,
+        "faction": "sunquan",
+        "label": "周瑜／孫權",
+        "query": "周瑜助先主",
+        "openStart": true,
+        "note": "任南郡功曹與送周瑜喪；起年依取南郡後推定。"
+      },
+      {
+        "start": 210,
+        "end": 214,
+        "faction": "liubei",
+        "query": "先主領荊州",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "法正",
+    "source": "a04-037",
+    "first": {
+      "year": 196,
+      "to": 200,
+      "precision": "inferred"
+    },
+    "birth": 176,
+    "death": 220,
+    "life": "約176—220",
+    "stages": [
+      {
+        "start": 196,
+        "end": 211,
+        "faction": "liuzhang",
+        "query": "建安初",
+        "openStart": true
+      },
+      {
+        "start": 211,
+        "end": 220,
+        "faction": "liubei",
+        "query": "陰獻策於先主",
+        "note": "211年已密獻取蜀之策，名義上原受劉璋之命；轉屬以實際支持對象處理。",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "蔣琬",
+    "source": "a04-044",
+    "first": {
+      "year": 211,
+      "precision": "inferred"
+    },
+    "death": 246,
+    "life": "生年不詳—246",
+    "stages": [
+      {
+        "start": 211,
+        "end": 221,
+        "faction": "liubei",
+        "query": "隨先主入蜀",
+        "note": "期間曾免廣都長，不能視為同一官職連續任職。"
+      },
+      {
+        "start": 221,
+        "end": 246,
+        "faction": "shu",
+        "query": "先主為漢中王",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "費禕",
+    "source": "a04-044",
+    "first": {
+      "year": 214,
+      "before": true
+    },
+    "death": 253,
+    "life": "生年不詳—253",
+    "stages": [
+      {
+        "start": 219,
+        "end": 221,
+        "faction": "liubei",
+        "query": "先主立太子",
+        "note": "為太子舍人；此前遊學不是劉璋任官。"
+      },
+      {
+        "start": 221,
+        "end": 253,
+        "faction": "shu",
+        "query": "後主踐位",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "諸葛瑾",
+    "source": "a04-052",
+    "first": {
+      "year": 200,
+      "precision": "inferred"
+    },
+    "birth": 174,
+    "death": 241,
+    "life": "約174—241",
+    "stages": [
+      {
+        "start": 200,
+        "end": 229,
+        "faction": "sunquan",
+        "query": "孫策卒",
+        "openStart": true
+      },
+      {
+        "start": 229,
+        "end": 241,
+        "faction": "wu",
+        "query": "權稱尊號",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "張昭",
+    "source": "a04-052",
+    "first": {
+      "year": 194,
+      "before": true
+    },
+    "birth": 156,
+    "death": 236,
+    "life": "約156—236",
+    "stages": [
+      {
+        "start": 194,
+        "end": 200,
+        "faction": "sunce",
+        "query": "孫策創業",
+        "openStart": true
+      },
+      {
+        "start": 200,
+        "end": 229,
+        "faction": "sunquan",
+        "query": "策臨亡"
+      },
+      {
+        "start": 229,
+        "end": 236,
+        "faction": "wu",
+        "query": "權旣稱尊號",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "太史慈",
+    "source": "a04-049",
+    "first": {
+      "year": 193,
+      "before": true
+    },
+    "birth": 166,
+    "death": 206,
+    "life": "約166—206",
+    "stages": [
+      {
+        "start": 193,
+        "end": 195,
+        "faction": "liuyou",
+        "query": "劉繇",
+        "openStart": true
+      },
+      {
+        "start": 195,
+        "end": 196,
+        "faction": "other",
+        "label": "自領部眾",
+        "query": "涇縣",
+        "note": "敗後自領部眾，非立國。"
+      },
+      {
+        "start": 196,
+        "end": 200,
+        "faction": "sunce",
+        "query": "策躬自攻討"
+      },
+      {
+        "start": 200,
+        "end": 206,
+        "faction": "sunquan",
+        "query": "建安十一年卒",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "諸葛恪",
+    "source": "a04-064",
+    "first": {
+      "year": 221,
+      "precision": "inferred"
+    },
+    "birth": 203,
+    "death": 253,
+    "life": "約203—253",
+    "stages": [
+      {
+        "start": 221,
+        "end": 229,
+        "faction": "sunquan",
+        "query": "左輔都尉",
+        "openStart": true
+      },
+      {
+        "start": 229,
+        "end": 253,
+        "faction": "wu",
+        "query": "建興元年",
+        "endInclusive": true
+      }
+    ]
+  },
+  {
+    "name": "陸抗",
+    "source": "a04-058",
+    "first": {
+      "year": 245,
+      "precision": "exact"
+    },
+    "birth": 226,
+    "death": 274,
+    "life": "約226—274",
+    "stages": [
+      {
+        "start": 245,
+        "end": 274,
+        "faction": "wu",
+        "query": "抗字幼節",
+        "endInclusive": true
+      }
+    ]
+  }
+]

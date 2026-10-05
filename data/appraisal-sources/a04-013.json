@@ -1,0 +1,16 @@
+{
+  "id": "a04-013",
+  "title": "二十四史-三國志-卷十二‧卷十三‧魏書十三　鍾繇華歆王朗傳第十三",
+  "url": "http://www.sidneyluo.net/a/a04/013.html",
+  "sha256": "65b54abaf46da8a42373f4c6a284393e53eff2604c07bc178e439d082a1321c9",
+  "accessed": "2026-10-05",
+  "extraction": "Chapter-final 評曰 paragraph; Pei annotations marked span.style7 excluded.",
+  "rawParagraph": "評曰：鍾繇開達理幹，華歆清純德素，王朗文博富贍，誠皆一時之俊偉也。魏氏初祚，肇登三司，盛矣夫！王肅亮直多聞，能析薪哉！劉寔以為肅方於事上而好下佞己，此一反也。性嗜榮貴而不求苟合，此二反也。吝惜財物而治身不穢，此三反也。",
+  "body": "評曰：鍾繇開達理幹，華歆清純德素，王朗文博富贍，誠皆一時之俊偉也。魏氏初祚，肇登三司，盛矣夫！王肅亮直多聞，能析薪哉！",
+  "removedAnnotations": [
+    "劉寔以為肅方於事上而好下佞己，此一反也。性嗜榮貴而不求苟合，此二反也。吝惜財物而治身不穢，此三反也。"
+  ],
+  "spanClasses": [
+    "style7"
+  ]
+}

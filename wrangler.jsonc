@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sanguo-chronicle",
+  "account_id": "7cf57c12af6006a749d4df3c773dce90",
+  "compatibility_date": "2026-10-05",
+  "workers_dev": true,
+  "preview_urls": false,
+  "routes": [{ "pattern": "sanguo.720108.xyz", "custom_domain": true }],
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

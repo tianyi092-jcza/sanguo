@@ -1,0 +1,16 @@
+{
+  "id": "a04-043",
+  "title": "二十四史-三國志-卷四十三‧蜀書十三　黃李呂馬王張傳第十三",
+  "url": "http://www.sidneyluo.net/a/a04/043.html",
+  "sha256": "679cac03964d56a45aecbba9a99ef68c2c4cf70b03ed34fcd1f0ea2341a69494",
+  "accessed": "2026-10-05",
+  "extraction": "Chapter-final 評曰 paragraph; Pei annotations marked span.style7 excluded.",
+  "rawParagraph": "評曰：黃權弘雅思量，李恢公亮志業，呂凱守節不回，馬忠擾而能毅，尚書曰：擾而毅。鄭玄注曰：擾，馴也。致果曰毅。王平忠勇而嚴整，張嶷識斷明果，咸以所長，顯名發迹，遇其時也。",
+  "body": "評曰：黃權弘雅思量，李恢公亮志業，呂凱守節不回，馬忠擾而能毅，王平忠勇而嚴整，張嶷識斷明果，咸以所長，顯名發迹，遇其時也。",
+  "removedAnnotations": [
+    "尚書曰：擾而毅。鄭玄注曰：擾，馴也。致果曰毅。"
+  ],
+  "spanClasses": [
+    "style7"
+  ]
+}

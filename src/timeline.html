@@ -1,0 +1,27 @@
+  <section class="view" id="v-tl" aria-label="人物流年">
+    <div class="chronicle-heading">
+      <div><div class="eyebrow">人物 · 時間 · 歸屬</div><h2>亂世中的每一次選擇<span>184—280</span></h2><p>從黃巾起義，到三國歸晉。循著人物的足跡，讀懂勢力的流轉。</p></div>
+      <div class="chronicle-total"><strong id="timelineCount">—</strong><span>位人物入錄</span></div>
+    </div>
+    <div id="tlBar" class="timeline-toolbar">
+      <label class="timeline-find"><span aria-hidden="true">⌕</span><input id="personFilter" type="search" placeholder="篩選人物、字或勢力…" aria-label="篩選時間軸人物"></label>
+      <label class="control-label">歸屬<select id="factionFilter" aria-label="依歷年歸屬篩選"><option value="all">全部勢力</option></select></label>
+      <label class="control-label">記載<select id="evidenceFilter" aria-label="依資料完整程度篩選"><option value="all">全部人物</option><option value="dated">有可定位經歷</option><option value="unknown">年代待考</option><option value="lifespan">生卒齊全</option></select></label>
+      <div class="zoom-control" role="group" aria-label="時間軸縮放"><button id="zoomOut" type="button" aria-label="縮小時間軸" title="縮小">−</button><output id="zoomValue" aria-live="polite">100%</output><button id="zoomIn" type="button" aria-label="放大時間軸" title="放大">＋</button><button id="zoomFit" type="button">全程</button></div>
+      <div class="year-controls"><input type="number" id="goYear" min="184" max="280" placeholder="年份" aria-label="跳轉年份，184 至 280"><button class="btn" id="goBtn" type="button">前往</button><button class="btn play-button" id="playBtn" type="button">▶ 巡覽</button></div>
+    </div>
+    <div class="timeline-key"><span><i class="key-solid"></i>有據可考</span><span><i class="key-dashed"></i>年代推定／邊界不詳</span><span><i class="key-none"></i>無勢力</span><span><i class="key-unknown"></i>歸屬不詳</span><span class="timeline-hint">點選色帶看史料 · 點選姓名看人物</span><button id="timelineHelp" type="button" aria-label="閱讀時間軸凡例">凡例 ↗</button></div>
+    <div id="timelineViewport" tabindex="0" aria-label="人物歸屬時間軸，可水平與垂直捲動">
+      <div id="timelineSurface">
+        <div id="timelineHeader">
+          <div class="timeline-corner"><span class="eyebrow">人物出場序</span><b>姓名 / 字 / 生卒</b><small>依首次可考活動排序</small></div>
+          <div id="timelineRuler"><div id="eraBand"></div><div id="yearTicks"></div><div id="eventTrack"></div></div>
+        </div>
+        <div id="timelineRows" role="list" aria-label="人物列表"></div>
+        <div id="timelineCursor" aria-hidden="true"><span></span></div>
+      </div>
+    </div>
+    <div class="timeline-footer"><span id="timelineStatus" role="status"></span><span>起：中平元年 · 終：太康元年</span></div>
+    <div id="playBox" class="timeline-playbox"><button type="button" id="closePlay" aria-label="關閉年份事件">×</button><h4 id="playTitle"></h4><div id="playList"></div></div>
+    <div id="timelineTooltip" role="tooltip" hidden></div>
+  </section>

@@ -1,0 +1,16 @@
+{
+  "name": "sanguo-historical-atlas",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:cloud": "node scripts/check-cloud-config.mjs && npm run build && npm run check",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "opencc-js": "1.0.5",
+    "sharp": "^0.35.5",
+    "wrangler": "^4.147.0"
+  }
+}

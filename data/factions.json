@@ -1,0 +1,764 @@
+{
+  "han": {
+    "label": "東漢朝廷",
+    "color": "#846437",
+    "background": "#eae0c7",
+    "kind": "court"
+  },
+  "yellow": {
+    "label": "黃巾軍",
+    "color": "#9a790d",
+    "background": "#f1e6b4",
+    "kind": "army"
+  },
+  "ding": {
+    "label": "丁原",
+    "color": "#577768",
+    "background": "#dce6dc",
+    "kind": "lord"
+  },
+  "hejin": {
+    "label": "何進／漢廷",
+    "color": "#896749",
+    "background": "#eaddca",
+    "kind": "court"
+  },
+  "dong": {
+    "label": "董卓",
+    "color": "#8e594b",
+    "background": "#ead8cb",
+    "kind": "lord"
+  },
+  "lvbu": {
+    "label": "呂布",
+    "color": "#89675b",
+    "background": "#eaddd2",
+    "kind": "lord"
+  },
+  "licui": {
+    "label": "李傕",
+    "color": "#875c56",
+    "background": "#e7d9d3",
+    "kind": "lord"
+  },
+  "duan": {
+    "label": "段煨",
+    "color": "#8b7162",
+    "background": "#e9e0d5",
+    "kind": "lord"
+  },
+  "zhangxiu": {
+    "label": "張繡",
+    "color": "#8a6553",
+    "background": "#eddfce",
+    "kind": "lord"
+  },
+  "caocao": {
+    "label": "曹操",
+    "color": "#456d8b",
+    "background": "#d9e3e8",
+    "kind": "lord"
+  },
+  "wei": {
+    "label": "曹魏",
+    "color": "#345b82",
+    "background": "#d2e0e9",
+    "kind": "regime"
+  },
+  "liubei": {
+    "label": "劉備",
+    "color": "#567651",
+    "background": "#dde7d4",
+    "kind": "lord"
+  },
+  "shu": {
+    "label": "蜀漢",
+    "color": "#426b4d",
+    "background": "#d4e4d2",
+    "kind": "regime"
+  },
+  "sunjian": {
+    "label": "孫堅",
+    "color": "#986a46",
+    "background": "#f0e1cc",
+    "kind": "lord"
+  },
+  "sunce": {
+    "label": "孫策",
+    "color": "#ac6c41",
+    "background": "#efdcc5",
+    "kind": "lord"
+  },
+  "sunquan": {
+    "label": "孫權",
+    "color": "#a75f45",
+    "background": "#ecd7c7",
+    "kind": "lord"
+  },
+  "wu": {
+    "label": "孫吳",
+    "color": "#9a513c",
+    "background": "#e9d2c4",
+    "kind": "regime"
+  },
+  "jin": {
+    "label": "西晉",
+    "color": "#696f45",
+    "background": "#e2e3c9",
+    "kind": "regime"
+  },
+  "yuanshao": {
+    "label": "袁紹",
+    "color": "#7c638b",
+    "background": "#e3dbea",
+    "kind": "lord"
+  },
+  "yuanshu": {
+    "label": "袁術",
+    "color": "#977258",
+    "background": "#eddfcf",
+    "kind": "lord"
+  },
+  "hanfu": {
+    "label": "韓馥",
+    "color": "#7b7560",
+    "background": "#e5e2d7",
+    "kind": "lord"
+  },
+  "gongsun": {
+    "label": "公孫瓚",
+    "color": "#577d81",
+    "background": "#dbe8e4",
+    "kind": "lord"
+  },
+  "liubiao": {
+    "label": "劉表",
+    "color": "#4f8079",
+    "background": "#d8e7df",
+    "kind": "lord"
+  },
+  "liuzhang": {
+    "label": "劉璋",
+    "color": "#887646",
+    "background": "#e8e1c9",
+    "kind": "lord"
+  },
+  "liuyan": {
+    "label": "劉焉",
+    "color": "#897949",
+    "background": "#e9e3d1",
+    "kind": "lord"
+  },
+  "zhanglu": {
+    "label": "張魯",
+    "color": "#64788b",
+    "background": "#dfe5ea",
+    "kind": "lord"
+  },
+  "mateng": {
+    "label": "馬騰",
+    "color": "#90724a",
+    "background": "#eae0cd",
+    "kind": "lord"
+  },
+  "machao": {
+    "label": "馬超",
+    "color": "#966b46",
+    "background": "#eddeca",
+    "kind": "lord"
+  },
+  "hansui": {
+    "label": "韓遂",
+    "color": "#91744b",
+    "background": "#e8dfcb",
+    "kind": "lord"
+  },
+  "taoqian": {
+    "label": "陶謙",
+    "color": "#74825a",
+    "background": "#e4e8d7",
+    "kind": "lord"
+  },
+  "liuyou": {
+    "label": "劉繇",
+    "color": "#64827d",
+    "background": "#dce8df",
+    "kind": "lord"
+  },
+  "yangfeng": {
+    "label": "楊奉",
+    "color": "#8b745c",
+    "background": "#e9e0d4",
+    "kind": "lord"
+  },
+  "baoxin": {
+    "label": "鮑信",
+    "color": "#7a7853",
+    "background": "#e8e5d3",
+    "kind": "lord"
+  },
+  "shixie": {
+    "label": "士燮",
+    "color": "#957085",
+    "background": "#eadfe5",
+    "kind": "lord"
+  },
+  "none": {
+    "label": "無勢力",
+    "color": "#878479",
+    "background": "#ece9e1",
+    "kind": "status"
+  },
+  "other": {
+    "label": "其它",
+    "color": "#777d6e",
+    "background": "#e5e8de",
+    "kind": "status"
+  },
+  "unknown": {
+    "label": "歸屬不詳",
+    "color": "#949a88",
+    "background": "#f1f1e8",
+    "kind": "status"
+  },
+  "baibo": {
+    "label": "白波軍",
+    "color": "#8b7861",
+    "background": "#e9e1d3",
+    "kind": "army"
+  },
+  "kongrong": {
+    "label": "孔融（北海）",
+    "color": "#52867f",
+    "background": "#dcece5",
+    "kind": "lord"
+  },
+  "yuantan": {
+    "label": "袁譚",
+    "color": "#806588",
+    "background": "#e7dcea",
+    "kind": "lord"
+  },
+  "yuanshang": {
+    "label": "袁尚",
+    "color": "#765783",
+    "background": "#e0d4e8",
+    "kind": "lord"
+  },
+  "zhangji": {
+    "label": "張濟",
+    "color": "#8f6b50",
+    "background": "#ebdccb",
+    "kind": "lord"
+  },
+  "zhangyang": {
+    "label": "張楊",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "litong": {
+    "label": "李通部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "zangba": {
+    "label": "臧霸部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "liuzong": {
+    "label": "劉琮",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "xianyufu": {
+    "label": "鮮于輔",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "weikang": {
+    "label": "韋康",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "gaogan": {
+    "label": "高幹",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "huangzu": {
+    "label": "黃祖",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zhangmiao": {
+    "label": "張邈",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zhangchao": {
+    "label": "張超",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zanghong": {
+    "label": "臧洪",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zhangniujiao": {
+    "label": "張牛角",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zhangyan": {
+    "label": "張燕",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "gongsundu": {
+    "label": "公孫度",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "gongsunyuan": {
+    "label": "公孫淵",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "liudai": {
+    "label": "劉岱",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "liuyu": {
+    "label": "劉虞",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "yuanxi": {
+    "label": "袁熙",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "menghuo": {
+    "label": "孟獲",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "shihui": {
+    "label": "士徽",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "pangxi": {
+    "label": "龐羲",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "ganning": {
+    "label": "甘寧部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "wanglang": {
+    "label": "王朗",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "wangkuang": {
+    "label": "王匡",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "qiaomao": {
+    "label": "橋瑁",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "yuanyi": {
+    "label": "袁遺",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "kongzhou": {
+    "label": "孔伷",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zerong": {
+    "label": "笮融",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "xugong": {
+    "label": "許貢",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zulang": {
+    "label": "祖郎",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "yanbaihu": {
+    "label": "嚴白虎",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "tadun": {
+    "label": "蹋頓（烏桓）",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "kebineng": {
+    "label": "軻比能（鮮卑）",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "budugen": {
+    "label": "步度根（鮮卑）",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "yufuluo": {
+    "label": "于夫羅（南匈奴）",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "huchuquan": {
+    "label": "呼廚泉（南匈奴）",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "qianwan": {
+    "label": "千萬（氐）",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "gongsunkang": {
+    "label": "公孫康",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "gongsungong": {
+    "label": "公孫恭",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "wa": {
+    "label": "倭女王國",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "regime"
+  },
+  "goguryeo": {
+    "label": "高句麗",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "regime"
+  },
+  "guosi": {
+    "label": "郭汜",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "fanchou": {
+    "label": "樊稠",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "yangding": {
+    "label": "楊定",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "hanxian": {
+    "label": "韓暹",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "hucai": {
+    "label": "胡才",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "lile": {
+    "label": "李樂",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "hanxuan": {
+    "label": "韓玄",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "jinxuan": {
+    "label": "金旋",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zhaofan": {
+    "label": "趙範",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "liudu": {
+    "label": "劉度",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "liuxun": {
+    "label": "劉勳",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "wangsong": {
+    "label": "王松",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "liuchong": {
+    "label": "劉寵（陳國）",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zhangzi": {
+    "label": "張咨",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "wangrui": {
+    "label": "王叡",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "zhaowei": {
+    "label": "趙韙",
+    "color": "#637c72",
+    "background": "#dfe8dc",
+    "kind": "lord"
+  },
+  "yudu": {
+    "label": "于毒部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "bairao": {
+    "label": "白繞部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "guanhai": {
+    "label": "管亥部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "liupi": {
+    "label": "劉辟部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "gongdu": {
+    "label": "龔都部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "heyi": {
+    "label": "何儀部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "heman": {
+    "label": "何曼部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "huangshao": {
+    "label": "黃邵部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "suigu": {
+    "label": "眭固部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "yangfengheishan": {
+    "label": "楊鳳部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "huanglong": {
+    "label": "黃龍部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "zuoxiao": {
+    "label": "左校部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "guodaxian": {
+    "label": "郭大賢部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "zuozhizhangba": {
+    "label": "左髭丈八部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "yudigen": {
+    "label": "于氐根部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "qingniujiao": {
+    "label": "青牛角部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "zhangbaiqi": {
+    "label": "張白騎部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "liushi": {
+    "label": "劉石部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "pinghan": {
+    "label": "平漢部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "daji": {
+    "label": "大計部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "siliarmy": {
+    "label": "司隸部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "yuancheng": {
+    "label": "緣城部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "leigong": {
+    "label": "雷公部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "fuyun": {
+    "label": "浮雲部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "baique": {
+    "label": "白雀部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "wulu": {
+    "label": "五鹿部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "kuyou": {
+    "label": "苦唒部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  },
+  "luoshi": {
+    "label": "羅市部眾",
+    "color": "#877048",
+    "background": "#ebe1c9",
+    "kind": "army"
+  }
+}
