@@ -13,4 +13,4 @@
 #mapWrap[data-basemap="google"] .mapCtl{padding:10px;border:1px solid var(--line);border-radius:10px;background:rgba(24,30,40,.95)}
 #mapWrap[data-basemap="google"] #ovSvg{clip-path:inset(0 0 62px 0)}
 #tiles img{pointer-events:none}
-@media(max-width:600px){#mapAttribution{gap:8px;padding:5px 8px}#googleCopyright{font-size:10px;max-width:210px}}
+@media(max-width:600px){#mapAttribution{gap:8px;padding:5px 8px}#googleCopyright{font-size:12px;max-width:210px}}

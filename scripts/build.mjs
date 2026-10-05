@@ -16,7 +16,7 @@ let js=html.match(/<script>([\s\S]*?)<\/script>/)[1];
 js=js.replace('/* INLINE_DATA */','');
 js=js.replace('/* ONLINE_MAPS */',read('src/google-satellite.js'));
 js=js.replace(/function gotoPerson\(p\)\{[\s\S]*?(?=\/\* ================= 郡县表)/,'');
-js=js.replace(/\/\* ================= 时间轴 ================= \*\/[\s\S]*?(?=\/\* ================= 弹窗)/,read('src/timeline.js')+'\n');
+js=js.replace(/\/\* ================= 时间轴 ================= \*\/[\s\S]*?(?=\/\* ================= 弹窗)/,read('src/calendar.js')+'\n'+read('src/timeline.js')+'\n');
 js=js.replace(/function openPerson\(p\)\{[\s\S]*?(?=function openEvent\()/,read('src/history-ui.js')+'\n');
 js=js.replace(/for\(let y=150;y<=286;y\+\+\)/,'for(let y=184;y<=280;y++)');
 js=js.replace('const v=$("#q").value.trim(),box=', 'const v=normalizeSearch($("#q").value.trim()),box=');
@@ -44,7 +44,7 @@ for(const p of portraitPlan){
   portraits.people[p.id]={file,gender:p.gender,appearance:p.appearance,source:p.source,appearanceSource:p.appearanceSource,status:p.status};
 }
 const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
-js=head+traditional(js);
+js=head+'const ERA_CALENDAR='+read('data/calendar-eras.json').trim()+';\n'+traditional(js);
 new vm.Script(js);
 let css=html.match(/<style>([\s\S]*?)<\/style>/)[1]+'\n'+read('src/timeline.css')+'\n'+read('src/google-satellite.css');
 html=html.replace(/<style>[\s\S]*?<\/style>/,'<!-- STYLE -->').replace(/<script>[\s\S]*?<\/script>/,'<!-- SCRIPT -->');

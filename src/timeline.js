@@ -63,7 +63,7 @@ function createTimelineRow(p,index){
   const h=historyOf(p),row=document.createElement('div');row.className='timeline-row';row.dataset.id=p.id;row.setAttribute('role','listitem');
   const affiliation=affiliationSummary(h),offices=officeSummary(h);
   const name=document.createElement('button');name.type='button';name.className='person-name';name.title=lifeLabel(p)+' · '+affiliation+(offices?'（'+offices+'）':'');name.setAttribute('aria-label',`${p.n}，${lifeLabel(p)}，${affiliation}，${offices}，查看人物`);
-  name.innerHTML=`<span class="person-number">${String(index+1).padStart(3,'0')}</span><span class="person-label"><div><b>${esc(p.n)}</b><span class="courtesy">${esc(p.z||'')}</span></div><small>${esc(lifeLabel(p))}</small><span class="person-affiliation">${esc(affiliation)}</span>${offices?`<span class="person-office">（${esc(offices)}）</span>`:''}</span>`;
+  name.innerHTML=`<span class="person-number">${String(index+1).padStart(3,'0')}</span><span class="person-label"><div><b>${esc(p.n)}</b><span class="courtesy">${esc(p.z||'')}</span></div><small>${esc(lifeLabel(p))}</small></span>`;
   name.onclick=()=>openPerson(p);row.append(name);
   const track=document.createElement('div');track.className='row-track';track.style.width=timelineWidth()+'px';
   const step=timelineState.scale<14?5:timelineState.scale<36?2:1;
@@ -119,9 +119,9 @@ function renderTimelineRuler(){
   const width=timelineWidth(),scale=timelineState.scale;
   $('#timelineSurface').style.width=nameWidth()+width+'px';$('#timelineRuler').style.width=width+'px';
   $('#zoomValue').textContent=Math.round(scale/20*100)+'%';$('#zoomIn').disabled=scale>=120;$('#zoomOut').disabled=scale<=6;
-  const tickStep=scale<12?10:scale<25?5:scale<60?2:1;
+  const tickStep=[1,2,5,10,20].find(step=>step*scale>=150)||20;
   const years=new Set([184,280]);for(let y=Math.ceil(184/tickStep)*tickStep;y<280;y+=tickStep)years.add(y);
-  $('#yearTicks').innerHTML=[...years].sort((a,b)=>a-b).filter((y,i,all)=>y===184||y===280||((y-184)*scale>30&&(280-y)*scale>30)).map(y=>`<span class="year-tick" style="left:${timelineX(y)}px">${y}</span>`).join('');
+  $('#yearTicks').innerHTML=[...years].sort((a,b)=>a-b).filter(y=>y===184||y===280||((y-184)*scale>150&&(280-y)*scale>150)).map(y=>`<span class="year-tick${y===184?' tick-first':y===280?' tick-last':''}" style="left:${timelineX(y)}px" title="${esc(eraYearDescription(y))}">${eraYearLabel(y)}</span>`).join('');
   const eras=[{a:184,b:190,n:'漢末 · 黃巾起義'},{a:190,b:220,n:'群雄並起'},{a:220,b:265,n:'三國鼎立'},{a:265,b:281,n:'晉興 · 至滅吳統一'}];
   $('#eraBand').innerHTML=eras.map(e=>`<div class="era-period" style="left:${timelineX(e.a)}px;width:${(e.b-e.a)*scale}px" title="${e.n}">${e.n}</div>`).join('');
   const bucketYears=scale<10?6:scale<18?3:1,groups=new Map();

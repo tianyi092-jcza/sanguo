@@ -24,6 +24,13 @@ for(const [id,p] of Object.entries(history.people)){
 const html=fs.readFileSync('dist/index.html','utf8');assert(html.includes('lang="zh-Hant"'));
 const file=html.match(/src="\.\/assets\/([^"\s]+\.js)"/)[1];
 const js=fs.readFileSync('dist/assets/'+file,'utf8');new vm.Script(js);
+const calendar=JSON.parse(fs.readFileSync('data/calendar-eras.json','utf8'));
+for(let year=184;year<=280;year++)assert.equal(calendar.eras.filter(e=>year>=e.start&&year<=e.end).length,1,'Calendar coverage '+year);
+for(const era of calendar.eras)assert(era.source.startsWith('https://')||fs.existsSync('data/sources/'+era.source+'.json'),'Missing calendar source');
+const calendarContext=vm.createContext({ERA_CALENDAR:calendar});
+vm.runInContext(fs.readFileSync('src/calendar.js','utf8'),calendarContext);
+for(const [year,label] of [[184,'184·中平元年'],[189,'189·中平六年'],[190,'190·初平元年'],[194,'194·興平元年'],[196,'196·建安元年'],[219,'219·建安二十四年'],[220,'220·黃初元年'],[227,'227·太和元年'],[233,'233·青龍元年'],[237,'237·景初元年'],[240,'240·正始元年'],[249,'249·嘉平元年'],[254,'254·正元元年'],[256,'256·甘露元年'],[260,'260·景元元年'],[264,'264·咸熙元年'],[265,'265·泰始元年'],[274,'274·泰始十年'],[275,'275·咸寧元年'],[280,'280·太康元年']])assert.equal(vm.runInContext('eraYearLabel('+year+')',calendarContext),label);
+assert(calendarContext.ERA_CALENDAR.changes[220].includes('延康'));
 const data=JSON.parse(js.match(/^const DATA=(.*);$/m)[1]);
 const appraisalChecks=checkAppraisals(data,history,normalize,traditional);
 const affiliationChecks=checkAffiliations(data,history,normalize);

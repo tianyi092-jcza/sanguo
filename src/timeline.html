@@ -1,10 +1,7 @@
   <section class="view" id="v-tl" aria-label="人物流年">
-    <div class="chronicle-heading">
-      <div><div class="eyebrow">人物 · 時間 · 歸屬</div><h2>亂世中的每一次選擇<span>184—280</span></h2><p>從黃巾起義，到三國歸晉。循著人物的足跡，讀懂勢力的流轉。</p></div>
-      <div class="chronicle-total"><strong id="timelineCount">—</strong><span>位人物入錄</span></div>
-    </div>
     <div id="tlBar" class="timeline-toolbar">
       <label class="timeline-find"><span aria-hidden="true">⌕</span><input id="personFilter" type="search" placeholder="篩選人物、字或勢力…" aria-label="篩選時間軸人物"></label>
+      <span class="timeline-total"><strong id="timelineCount">—</strong> 位人物</span>
       <label class="control-label">歸屬<select id="factionFilter" aria-label="依歷年歸屬篩選"><option value="all">全部勢力</option></select></label>
       <label class="control-label">記載<select id="evidenceFilter" aria-label="依資料完整程度篩選"><option value="all">全部人物</option><option value="dated">有可定位經歷</option><option value="unknown">年代待考</option><option value="lifespan">生卒齊全</option></select></label>
       <div class="zoom-control" role="group" aria-label="時間軸縮放"><button id="zoomOut" type="button" aria-label="縮小時間軸" title="縮小">−</button><output id="zoomValue" aria-live="polite">100%</output><button id="zoomIn" type="button" aria-label="放大時間軸" title="放大">＋</button><button id="zoomFit" type="button">全程</button></div>

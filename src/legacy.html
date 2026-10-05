@@ -22,7 +22,7 @@ h1 small{font-size:12px;color:var(--ink2);letter-spacing:1px;margin-left:8px}
 #results{position:absolute;top:110%;left:0;right:0;background:var(--panel2);border:1px solid var(--line);border-radius:8px;max-height:420px;overflow:auto;display:none;z-index:200;box-shadow:0 8px 30px rgba(0,0,0,.5)}
 .res{padding:8px 12px;cursor:pointer;border-bottom:1px solid #2a3340;display:flex;gap:8px;align-items:baseline}
 .res:hover{background:#2a3546}
-.res .tag{font-size:11px;padding:1px 6px;border-radius:4px;color:#fff;flex:none}
+.res .tag{font-size:12px;padding:1px 6px;border-radius:4px;color:#fff;flex:none}
 .res .sub{color:var(--ink2);font-size:12px;margin-left:auto;flex:none}
 .tabs{display:flex;gap:6px}
 .tab{padding:7px 16px;border-radius:8px;border:1px solid var(--line);background:var(--panel);cursor:pointer;color:var(--ink2);font-size:14px}
@@ -65,24 +65,24 @@ main{flex:1;position:relative;overflow:hidden}
 #nameScroll .gap{height:172px;flex:none}
 .nrow{height:24px;display:flex;align-items:center;padding:0 8px;gap:6px;cursor:pointer;font-size:13px;border-bottom:1px solid #ffffff08}
 .nrow:hover{background:#ffffff10}
-.nrow .ny{margin-left:auto;font-size:10px;color:#5f6875;flex:none}
+.nrow .ny{margin-left:auto;font-size:12px;color:#5f6875;flex:none}
 .ngrp{height:30px;display:flex;align-items:center;font-family:var(--serif);letter-spacing:3px;color:#d8cfb8;background:#1c232d;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding-left:8px;font-size:14px}
-.ngrp small{letter-spacing:0;color:#6d7684;margin-left:8px;font-size:11px}
+.ngrp small{letter-spacing:0;color:#6d7684;margin-left:8px;font-size:12px}
 #tlScroll{flex:1;overflow:auto;position:relative}
 #tlCanvas{position:relative}
 .ygrid{position:absolute;top:0;bottom:0;width:1px;background:#232b37}
 .ygrid.major{background:#31405280}
-.ylab{position:absolute;top:4px;font-size:11px;color:#6d7684;transform:translateX(-50%)}
+.ylab{position:absolute;top:4px;font-size:12px;color:#6d7684;transform:translateX(-50%)}
 .evFlag{position:absolute;transform:translateX(-50%);cursor:pointer;text-align:center;line-height:1;font-size:15px;z-index:5}
-.evFlag .lb{display:block;font-size:10px;color:#c8c0ae;max-width:130px;white-space:normal;line-height:1.25;margin-top:1px;text-shadow:0 1px 3px #000}
-.evLaneLab{position:absolute;left:4px;font-size:10px;color:#59636f}
+.evFlag .lb{display:block;font-size:12px;color:#c8c0ae;max-width:130px;white-space:normal;line-height:1.25;margin-top:1px;text-shadow:0 1px 3px #000}
+.evLaneLab{position:absolute;left:4px;font-size:12px;color:#59636f}
 .prow{position:absolute;left:0;right:0;height:24px;cursor:pointer;border-radius:4px}
 .prow:hover{background:#ffffff10}
 .pline{position:absolute;height:2px;top:11px;border-radius:2px}
 .pdot{position:absolute;top:7px;width:10px;height:10px;border-radius:50%;transform:translateX(-50%);border:2px solid #0e1218}
 .pdie{position:absolute;top:6px;transform:translateX(-50%);font-size:12px;color:#e8e2d5;text-shadow:0 1px 2px #000}
 .grp{position:absolute;left:0;font-family:var(--serif);font-size:14px;color:#d8cfb8;background:#1c232d;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding-left:8px;display:flex;align-items:center;letter-spacing:3px}
-.grp small{letter-spacing:0;color:#6d7684;margin-left:8px;font-size:11px}
+.grp small{letter-spacing:0;color:#6d7684;margin-left:8px;font-size:12px}
 .nullbox{position:absolute;left:8px;right:8px;background:#171d26;border:1px dashed #39424f;border-radius:8px;padding:8px 10px}
 .nullchip{display:inline-block;margin:3px 4px;padding:3px 10px;border-radius:12px;border:1px solid var(--line);cursor:pointer;font-size:12px;color:var(--ink2)}
 .nullchip:hover{color:var(--ink);border-color:#5b8dd6}
@@ -118,7 +118,7 @@ tr:hover td{background:#ffffff08}
 #about{padding:26px 34px;overflow:auto;flex:1;line-height:2;font-size:14px;color:var(--ink2)}
 #about h2{font-family:var(--serif);color:var(--ink);margin:14px 0 6px;font-size:19px}
 #about b{color:#d8cfb8}
-.foot{padding:6px 18px;font-size:11px;color:#57606e;border-top:1px solid var(--line);background:#10151c}
+.foot{padding:6px 18px;font-size:12px;color:#57606e;border-top:1px solid var(--line);background:#10151c}
 </style>
 </head>
 <body>
@@ -505,7 +505,7 @@ function renderTL(){
       row.onclick=()=>openPerson(p);
       canvas.appendChild(row);
       const nl=document.createElement("div");nl.className="nrow";nl.dataset.n=p.n;
-      nl.innerHTML=`<span style="color:${col};font-family:var(--serif)">${esc(p.n)}</span><span style="color:#5f6875;font-size:11px">${esc(p.z||"")}</span><span class="ny">${p.b||"?"}–${p.d||"?"}</span>`;
+      nl.innerHTML=`<span style="color:${col};font-family:var(--serif)">${esc(p.n)}</span><span style="color:#5f6875;font-size:12px">${esc(p.z||"")}</span><span class="ny">${p.b||"?"}–${p.d||"?"}</span>`;
       nl.onclick=()=>openPerson(p);
       nameS.appendChild(nl);
       y+=ROW;
@@ -611,6 +611,7 @@ function openPerson(p){
   $("#mClose").onclick=closeModal;
 }
 function openEvent(ev){
+  $("#modal").classList.remove('person-modal');
   $("#modal").innerHTML=`<button id="mClose">✕</button>
     <h2>${esc(ev.n)}</h2>
     <div class="meta"><span class="chip" style="background:${EVCH[ev.t]}">${EVN[ev.t]}</span><span>${ev.y}年</span><span style="color:#a8a192">地点：${esc(ev.pl)}</span><span style="color:#a8a192">主导：${esc(ev.f)}</span></div>
@@ -618,7 +619,7 @@ function openEvent(ev){
     <div class="src">依据：${esc(ev.s)}</div>`;
   $("#mask").style.display="flex";$("#mClose").onclick=closeModal;
 }
-function closeModal(){$("#mask").style.display="none";}
+function closeModal(){$("#mask").style.display="none";$("#modal").classList.remove('person-modal');}
 $("#mask").addEventListener("click",e=>{if(e.target.id==="mask")closeModal();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal();});
 
