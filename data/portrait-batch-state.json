@@ -1,6 +1,6 @@
 {
   "batch": "20261005-2007",
-  "stage": "generated-awaiting-repository-deployment",
+  "stage": "verified-published-through-repository",
   "ids": [
     "p0178",
     "p0179",
@@ -19,11 +19,11 @@
   "portraitEligibilityReviewComplete": false,
   "repository": "tianyi092-jcza/sanguo",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "lastVerifiedWorkerVersion": "b0b33c3e-655d-4822-8a70-dd788230080a",
-  "publicVerified": false,
+  "lastVerifiedWorkerVersion": "c7b6ba4e-6970-4243-ac09-e157c2209d78",
+  "publicVerified": true,
   "sourceRepositoryUploaded": true,
   "githubVerificationPassed": true,
-  "note": "用户要求改为仓库推送触发云端发布；本批已生成保存，禁止用本地wrangler直接发布。先完成这8张经仓库构建发布及正式域名验证，再开启新批。",
+  "note": "本批8张已由main推送触发Cloudflare云端构建发布，正式域名身份、120像素尺寸、出处和说明验证通过。当地头像续作保持PAUSED，交由Dots云端接续，不重复生图。",
   "localAutomationStatus": "PAUSED",
   "handoff": "Dots cloud execution"
 }

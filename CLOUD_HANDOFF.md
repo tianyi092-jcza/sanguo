@@ -6,7 +6,7 @@
 
 471人均有实际势力标签，379人新增逐条复核，72人有汉末官爵及授官者；汉廷在位标记保留至220年。陈寿评曰65卷已分离裴注核对。头像完成状态以data/portrait-plan.json为准，未发布批次以data/portrait-batch-state.json为准。不得重复生成已完成头像。
 
-源码、史料、素材和接续进度已推送 https://github.com/tianyi092-jcza/sanguo 的main分支，首次GitHub构建及数据检查通过。可以从仓库直接克隆接续；源码包仅为备用。Cloudflare自动生产发布仍等待现有Worker的仓库连接，尚未验证接通。
+源码、史料、素材和接续进度已推送 https://github.com/tianyi092-jcza/sanguo 的main分支，GitHub构建及数据检查通过。可以从仓库直接克隆接续；源码包仅为备用。Cloudflare自动生产发布已通过提交0ad5008、构建110a72ff-b504-4da3-a33b-1bb2a09fccc3验证成功，正式网站本批8张画像验证通过，原卫星配置保留。
 
 ## Cloudflare仓库连接
 
@@ -21,6 +21,8 @@
 - 普通构建变量：GOOGLE_MAPS_LANGUAGE=zh-TW、GOOGLE_MAPS_REGION=CN
 
 Cloudflare可为Workers Builds生成托管构建令牌。仓库推送后由Cloudflare执行发布；GitHub Actions只作验证，不再添加第二条重复生产部署链路。先完成真实推送和正式域名验证，再确认自动发布已经接通。
+
+上述连接已经配置并验证，不需重复连接。若某个本地OAuth无法读取Builds管理API，不代表现有仓库构建失效；生产发布以仓库检查与正式网站实证为准。部署版本记录表示最后一次已验证版本，元数据提交会再触发构建，不需为了追赶每个新版本UUID反复提交。
 
 ## Dots / Codex Cloud
 

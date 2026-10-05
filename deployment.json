@@ -10,7 +10,7 @@
   "initial_version": "f864c129-4376-4a0f-be56-cbbd839ef0fd",
   "stage": "preview",
   "verified_on": "2026-10-05",
-  "current_version": "b0b33c3e-655d-4822-8a70-dd788230080a",
+  "current_version": "c7b6ba4e-6970-4243-ac09-e157c2209d78",
   "portrait_automation_id": "automation",
   "portrait_automation_status": "PAUSED",
   "google_satellite": {
@@ -42,10 +42,14 @@
   },
   "repository_deployment": {
     "provider": "Cloudflare Workers Builds",
-    "connectionVerified": false,
+    "connectionVerified": true,
     "buildCommand": "npm run build:cloud",
     "deployCommand": "npx wrangler deploy",
-    "status": "user configured repository connection; live verification pending",
-    "configuredByUser": true
+    "status": "verified repository-triggered production deployment",
+    "configuredByUser": true,
+    "verificationCommit": "0ad5008",
+    "verificationBuild": "110a72ff-b504-4da3-a33b-1bb2a09fccc3",
+    "lastVerifiedVersion": "c7b6ba4e-6970-4243-ac09-e157c2209d78",
+    "satelliteConfigurationRetained": true
   }
 }
