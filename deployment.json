@@ -45,6 +45,7 @@
     "connectionVerified": false,
     "buildCommand": "npm run build:cloud",
     "deployCommand": "npx wrangler deploy",
-    "status": "requires Cloudflare Builds repository connection"
+    "status": "user configured repository connection; live verification pending",
+    "configuredByUser": true
   }
 }
