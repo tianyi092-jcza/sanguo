@@ -1,5 +1,13 @@
 # 给Dots的接续任务
 
+## 云端完成记录（2026-10-05）
+
+指定已发布 Codex Cloud 环境已完成原有121个pending，分16批，每批最多8人。现有290张个性头像及3份匿名轮廓素材，pending=0；原先172个已完成条目与素材均保留。全部新增头像已通过main推送触发既有Cloudflare自动发布，并在 https://sanguo.720108.xyz/ 验证身份映射、120×120尺寸、文件一致性、出处和艺术示意说明。构建与数据检查通过，卫星配置保留。
+
+最后素材提交 `ad962b9a2b0fa9385c5335ea1ec841db5c541a4f`，Cloudflare成功构建 `5e8c5f2b-d61d-474c-b2d9-9ff53dfa1355`；全量新增素材验证证据见 `data/portrait-cloud-completion.json`。元数据提交会再次触发构建，不追赶版本UUID。
+
+按AGENTS.md的pending清零停止条件，云端续作已停止；本地定时任务仍PAUSED。另181人继续保持待逐人画像适用性复核状态，未自动增补pending，也未当作资料不足或全员完成。下方原始交接数量仅为开始时快照，当前状态以画像计划及批次记录为准。
+
 请在你的云端电脑继续这个三国历史资料浏览器项目，让开发能在用户电脑关机后继续。目标仓库是 https://github.com/tianyi092-jcza/sanguo ，网站 https://sanguo.720108.xyz/ ，现有Cloudflare Worker为sanguo-chronicle。保留账号和域名，不新建替代网站。
 
 若仓库还只有初始许可证，请使用用户提供的sanguo-cloud-source.zip：先克隆仓库，再把源码包内容解压合入工作目录。读AGENTS.md、CLOUD_HANDOFF.md、README.md、deployment.json、data/portrait-plan.json和data/portrait-batch-state.json，安装Node22和npm依赖，执行npm run build、npm run check。
