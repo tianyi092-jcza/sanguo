@@ -6,6 +6,8 @@
 
 471人均有实际势力标签，379人新增逐条复核，72人有汉末官爵及授官者；汉廷在位标记保留至220年。陈寿评曰65卷已分离裴注核对。头像完成状态以data/portrait-plan.json为准，未发布批次以data/portrait-batch-state.json为准。不得重复生成已完成头像。
 
+源码、史料、素材和接续进度已推送 https://github.com/tianyi092-jcza/sanguo 的main分支，首次GitHub构建及数据检查通过。可以从仓库直接克隆接续；源码包仅为备用。Cloudflare自动生产发布仍等待现有Worker的仓库连接，尚未验证接通。
+
 ## Cloudflare仓库连接
 
 继续使用deployment.json和wrangler.jsonc中的账号、Worker与域名。在现有Worker的Settings → Builds中连接GitHub的sanguo仓库：

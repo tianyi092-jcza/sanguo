@@ -36,7 +36,9 @@
   "repository": {
     "url": "https://github.com/tianyi092-jcza/sanguo",
     "branch": "main",
-    "visibility": "public"
+    "visibility": "public",
+    "sourceUploaded": true,
+    "verificationRun": "https://github.com/tianyi092-jcza/sanguo/actions/runs/37326870203"
   },
   "repository_deployment": {
     "provider": "Cloudflare Workers Builds",
