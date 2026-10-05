@@ -6,6 +6,8 @@
 
 本地头像定时生成已经按用户要求暂停，不要恢复。现有169张个性头像和3份匿名轮廓素材，121个pending。本批20261005-2007的8张已经生成并通过本地检查，但尚未发布；先把这批通过仓库构建发布并验证，再继续后续人物，不要重复生图。
 
+另有181人未进入早期自动候选名单，头像适用性尚未逐人复核。未列入名单不等于史料不足；根据现有已核原文评估，身份、性别和职业资料充分者可补入pending，确实不足者才记录具体原因，不把原算法漏选当匿名化理由。
+
 开发和画像完成后只提交推送仓库，由Cloudflare Workers Builds从main构建发布，禁止从本地或云端临时工作目录绕过仓库直接部署。Cloudflare构建命令npm run build:cloud、部署命令npx wrangler deploy；已有地图Key通过构建secret GOOGLE_MAPS_API_KEY配置，不提交到GitHub。
 
 当前外部权限待办：GitHub CLI和插件对新仓库写入都返回403，需用户授权该仓库的Contents读写及Workflows写权限；Cloudflare现有登录能管理Worker，但Builds管理接口403，需在Worker的Settings → Builds连接仓库。不要将这些尚未完成的连接说成已接通，也不要要求用户把令牌贴到聊天。

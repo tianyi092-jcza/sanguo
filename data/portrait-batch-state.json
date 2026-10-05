@@ -15,6 +15,8 @@
   "namedGenerated": 169,
   "anonymousAssets": 3,
   "pending": 121,
+  "unlistedPortraitPeople": 181,
+  "portraitEligibilityReviewComplete": false,
   "repository": "tianyi092-jcza/sanguo",
   "deploymentMethod": "Cloudflare Workers Builds from main",
   "lastVerifiedWorkerVersion": "b0b33c3e-655d-4822-8a70-dd788230080a",
