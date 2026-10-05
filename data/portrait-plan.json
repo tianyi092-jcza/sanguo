@@ -4247,12 +4247,16 @@
     "id": "p0471",
     "name": "司馬炎",
     "gender": "male",
-    "role": "political or military leader",
+    "role": "male founding Western Jin emperor Sima Yan",
     "source": "a05-003",
     "evidence": "武皇帝諱炎，字安世，文帝長子也。寬惠仁厚，沈深有度量。魏嘉平中，封北平亭侯，歷給事中、奉車都尉、中壘將軍，加散騎常侍，累遷中護軍、假節。迎常道鄉公於東武陽，遷中撫軍，進封新昌鄉侯。及晉國建，立為世子，拜撫軍大將軍，開府、副貳相國。初，文帝以景帝既宣帝之嫡，早世無後，以帝弟攸為嗣，特加愛異，自謂攝居相位，百年之後，大業宜歸攸。每曰：「此景王之天下也，吾何與焉。」將議立世子，屬意於攸。何曾等固爭曰：「中撫軍聰明神武，有超世之才。髮委地，手過膝，此非人臣之相也。」由是遂定。",
-    "appearance": "",
-    "status": "pending",
-    "file": null
+    "appearance": "《晋书》何曾等赞辞记「髮委地，手過膝」；头肩裁切仅以丰厚束发示意，不臆造未载五官。",
+    "status": "generated",
+    "file": "p0471.webp",
+    "prompt": "Create ONE original square head-and-shoulders pixel portrait avatar for 司馬炎. Verified identity: male founding Western Jin emperor Sima Yan. Source a05-003: 武皇帝諱炎，字安世，文帝長子也。寬惠仁厚，沈深有度量。. Appearance evidence: 《晋书》何曾等赞辞记「髮委地，手過膝」；头肩裁切仅以丰厚束发示意，不臆造未载五官。. Character direction: Mature man around forty, ordinary broad dignified face, neatly groomed medium dark beard, composed calm eyes. Modest early Western Jin dark guan and restrained ochre-brown robe, no exaggerated crown. Source records exceptionally long hair and long arms: keep abundant dark hair tied in modest topknot; arms and full hair length are outside tight portrait crop, never distort facial proportions or invent supernatural features. No borrowing father or grandfather faces. All unrecorded facial features are ordinary-proportion artistic interpretation, never historical assertions. Supplied two images are STYLE REFERENCES ONLY: never copy faces. Exactly 120x120 display design, coarse visible hand-placed pixels, 1990s Chinese historical strategy game portrait, limited ochre and earth palette, near-black olive background, crisp pixel clusters and dithering. Historically restrained clothing appropriate to this individual's culture and era as specified in the character direction; Han/Wei/Wu/Jin individuals use right-lapped cross collar and tied hair or modest cap, Wa ruler uses simple early Japanese woven garment. No Ming/Qing costume, fantasy armour, oversized crown, theatrical makeup, weapons, text, watermark, frame, icon or overlay. One person only, tight upper shoulders and head.",
+    "generator": "built-in imagegen",
+    "appearanceSource": "a05-003",
+    "reviewNote": "云端逐条核对本传及裴注的本人身份、性别、职业与形貌；未载五官均为普通比例艺术示意，不借用亲属或同名人物。"
   },
   {
     "id": "anonymous-male",
