@@ -1,6 +1,6 @@
 {
   "batch": "20261005-cloud-11",
-  "stage": "generated-awaiting-repository-publication",
+  "stage": "verified-published-through-repository",
   "ids": [
     "p0328",
     "p0330",
@@ -20,14 +20,14 @@
   "repository": "tianyi092-jcza/sanguo",
   "deploymentMethod": "Cloudflare Workers Builds from main",
   "lastVerifiedWorkerVersion": "c7b6ba4e-6970-4243-ac09-e157c2209d78",
-  "publicVerified": false,
+  "publicVerified": true,
   "sourceRepositoryUploaded": true,
-  "githubVerificationPassed": false,
-  "note": "云端本批仅处理pending，逐条核对本人原文，内置imagegen生成；导入120×120 WebP并保存完整提示词，待main推送与正式域名验证。",
+  "githubVerificationPassed": true,
+  "note": "本批通过main推送触发Cloudflare构建成功；正式域名身份映射、120×120尺寸、文件哈希、出处与说明核对通过，生产卫星配置保留。",
   "localAutomationStatus": "PAUSED",
   "handoff": "Dots cloud execution",
-  "verificationCommit": "c03697a6724ad0795b0ac34b37b14f4c6d1a34f1",
-  "verificationBuild": "09f5f4ce-33fa-46c0-8d96-fa8b77d3492b",
-  "publicVerifiedAt": "2026-10-05T18:02:56.053Z",
+  "verificationCommit": "6bb84d4cb8bcd2edb25883c3079ca5e9ef51d362",
+  "verificationBuild": "3e50ae4c-2910-46f7-a2e5-4bbb1790e97f",
+  "publicVerifiedAt": "2026-10-05T18:09:39.888Z",
   "satelliteConfigurationRetained": true
 }
