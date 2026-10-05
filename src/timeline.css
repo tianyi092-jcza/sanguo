@@ -125,6 +125,10 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 }
 @media(max-height:780px){.timeline-total strong{font-size:28px}}
 @media(max-width:480px){
+  #tlBar .control-label select{max-width:105px}
+  .zoom-control button{min-width:26px}.zoom-control output{min-width:40px}.zoom-control #zoomFit{padding:0 4px}
+  #tlBar #goYear{width:52px}.year-controls{gap:5px}
+  #tlBar .year-controls .btn{padding:7px 6px}
   #mask{padding:12px}
   #modal.person-modal{max-height:calc(100dvh - 24px);height:86dvh;padding:20px 16px}
   #modal.person-modal .person-intro{padding-right:22px;gap:14px}

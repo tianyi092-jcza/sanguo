@@ -119,7 +119,7 @@ function renderTimelineRuler(){
   const width=timelineWidth(),scale=timelineState.scale;
   $('#timelineSurface').style.width=nameWidth()+width+'px';$('#timelineRuler').style.width=width+'px';
   $('#zoomValue').textContent=Math.round(scale/20*100)+'%';$('#zoomIn').disabled=scale>=120;$('#zoomOut').disabled=scale<=6;
-  const tickStep=[1,2,5,10,20].find(step=>step*scale>=150)||20;
+  const tickStep=[1,2,5,10,20].find(step=>step*scale>=120)||20;
   const years=new Set([184,280]);for(let y=Math.ceil(184/tickStep)*tickStep;y<280;y+=tickStep)years.add(y);
   $('#yearTicks').innerHTML=[...years].sort((a,b)=>a-b).filter(y=>y===184||y===280||((y-184)*scale>150&&(280-y)*scale>150)).map(y=>`<span class="year-tick${y===184?' tick-first':y===280?' tick-last':''}" style="left:${timelineX(y)}px" title="${esc(eraYearDescription(y))}">${eraYearLabel(y)}</span>`).join('');
   const eras=[{a:184,b:190,n:'漢末 · 黃巾起義'},{a:190,b:220,n:'群雄並起'},{a:220,b:265,n:'三國鼎立'},{a:265,b:281,n:'晉興 · 至滅吳統一'}];
