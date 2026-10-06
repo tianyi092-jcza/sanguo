@@ -2681,6 +2681,26 @@
           "from": "公羊傳曰",
           "through": "謂公卿大夫也。",
           "citation": "裴松之注"
+        },
+        {
+          "id": "cao-sg-weiduke-edict-merits-213",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 30,
+          "context": "昔者董卓初興國難",
+          "from": "昔者董卓初興國難",
+          "through": "請吏率職，此又君之功也。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-pei-weiduke-edict-merits-annotations-213",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 30,
+          "context": "左氏傳曰",
+          "from": "左氏傳曰",
+          "through": "鯀則殛死。",
+          "citation": "裴松之注"
         }
       ],
       "conclusions": {
