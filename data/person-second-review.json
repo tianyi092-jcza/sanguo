@@ -2259,6 +2259,36 @@
           "from": "九月，令曰：「河北罹袁氏之難",
           "through": "其令無出今年租賦！」",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-weishu-taxlaw-204",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 19,
+          "context": "九月",
+          "from": "魏書載公令曰：「有國有家者",
+          "through": "而弱民兼賦也。」",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-jizhou-muzhi-declined-204",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 19,
+          "context": "九月",
+          "from": "天子以公領兾州牧",
+          "through": "公讓還兖州。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-tan-alliance-broken-204",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 19,
+          "context": "十二月",
+          "from": "公之圍鄴也，譚略取甘陵",
+          "through": "然後進軍。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "conclusions": {
