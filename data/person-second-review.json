@@ -2605,14 +2605,15 @@
         },
         "death": {
           "year": 220,
-          "precision": "exact-year",
+          "precision": "exact-day",
           "preferredSource": "sanguozhi",
           "evidence": [
             "cao-sg-death",
             "cao-hhs-death-wei-quote"
           ],
           "variants": [],
-          "note": "《三國志》明載二十五年正月庚子卒於洛陽；《後漢書》同年齡句明引《魏志》，作旁證而非獨立來源。"
+          "note": "《三國志》明載二十五年正月庚子卒於洛陽；《後漢書》同年齡句明引《魏志》，作旁證而非獨立來源。",
+          "day": "建安二十五年正月庚子（原紀年，不單獨換算公曆日）"
         },
         "firstActivity": {
           "year": 174,
