@@ -2746,6 +2746,33 @@
           "from": "十三年表卒少子琮襲位曹公南征",
           "through": "先主乃知遂將",
           "citation": "《華陽國志》卷六·四部叢刊本（建安十三年劉表卒、劉琮請降、曹公南征、劉備屯樊南走；劉先主志中的追述，繫年依原文「十三年」，不據此改曹操勢力起訖）"
+        },
+        {
+          "id": "cao-pei-caoman-character",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 45,
+          "from": "曹瞞傳曰：太祖為人佻易無威重",
+          "through": "其輕易如此。",
+          "citation": "裴注引《曹瞞傳》（人物品格外貌追述；該書出自敵意筆法，不與正文合併為定論）"
+        },
+        {
+          "id": "cao-pei-caoman-cut-hair",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 45,
+          "from": "甞出軍，行經麥中",
+          "through": "因援劔割髮以置地。",
+          "citation": "裴注引《曹瞞傳》（麥中割髮代首事；引書層級，不與正文合併）"
+        },
+        {
+          "id": "cao-pei-caoman-small-measure",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 45,
+          "from": "常討賊，廩穀不足",
+          "through": "行小斛，盜官穀，斬之軍門。",
+          "citation": "裴注引《曹瞞傳》（小斛借主者頭事；引書層級，係敵意記述，不作正文事實依據）"
         }
       ],
       "conclusions": {
