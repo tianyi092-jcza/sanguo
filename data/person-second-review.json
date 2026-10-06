@@ -1509,6 +1509,33 @@
           "from": "世語曰：昂不能騎",
           "through": "而昂遇害。",
           "citation": "《三國志·魏書一·武帝紀》（裴注引《世語》）"
+        },
+        {
+          "id": "cao-sg-jingzhou-surrender",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 23,
+          "from": "秋七月，公南征劉表",
+          "through": "與之更始。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-chibi-defeat",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 23,
+          "from": "公至赤壁，與備戰，不利",
+          "through": "備遂有荊州、江南諸郡。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-pei-sunsheng-chibi",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 23,
+          "from": "孫盛異同評曰：案吳志",
+          "through": "吳志為是。",
+          "citation": "裴注引孫盛《異同評》"
         }
       ],
       "conclusions": {
