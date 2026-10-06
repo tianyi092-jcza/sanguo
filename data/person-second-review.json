@@ -2127,6 +2127,36 @@
           "through": "猶不忘先主之恩。",
           "citation": "《晉書》卷一百二十七·載記第二十七（慕容德黃門侍郎趙思語；轉述關羽與曹公關係的評語，不作曹操本人行為事實依據）",
           "display": false
+        },
+        {
+          "id": "cao-hhs-guandu-200",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 13,
+          "context": "五年",
+          "from": "曹操與袁紹戰於官度",
+          "through": "紹敗走。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "cao-hhs-jizhou-204",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 17,
+          "context": "九年",
+          "from": "曹操大破袁尚，平兾州，自領兾州牧",
+          "through": "曹操大破袁尚，平兾州，自領兾州牧。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "cao-hhs-gengji-218",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 31,
+          "context": "二十三年",
+          "from": "少府耿紀、丞相司直韋晃起兵誅曹操，不克",
+          "through": "夷三族。三輔決錄曰：「時有京兆全禕",
+          "citation": "《後漢書·孝獻帝紀》（附三輔決錄注文）"
         }
       ],
       "conclusions": {
