@@ -3575,6 +3575,24 @@
           "through": "爲曹操所敗",
           "citation": "《後漢書·卷七十五·袁術列傳》",
           "note": "袁術引布擊備書信中追述曹操破其將金元休於封丘；注引《典略》補「元休名尚……獻帝初爲兖州刺史，東之郡，而太祖已臨兖州」，事在太祖臨兖州（初平三年）前後。本段無明載年，信中用「昔」字追述，記為相參推定年，不作明載年；屬書信往來敘事，不改動《三國志》主值。"
+        },
+        {
+          "id": "cao-hhs-dianjun-hejin",
+          "work": "houhanshu",
+          "source": "a03-069-ahcb",
+          "paragraph": 16,
+          "from": "議郎曹操爲典軍校尉",
+          "through": "淳于瓊爲佐軍校尉",
+          "citation": "《後漢書·卷六十九·竇何列傳》"
+        },
+        {
+          "id": "cao-hhs-huangjin-joinsongjun",
+          "work": "houhanshu",
+          "source": "a03-071-ahcb",
+          "paragraph": 3,
+          "from": "會帝遣騎都尉曹操將兵適至",
+          "through": "斬首數萬級。",
+          "citation": "《後漢書·卷七十一·皇甫嵩朱儁列傳》"
         }
       ],
       "conclusions": {
