@@ -1,6 +1,6 @@
 # 三国项目执行约定
 
-本项目以《三国志》及裴松之注为中心，保留可追溯原文。入手先读 README.md、DEVELOPMENT.md、deployment.json、data/portrait-plan.json、data/portrait-batch-state.json 和本项涉及的 data/sources 原文。人物逐人复核另遵循 PERSON_SECOND_REVIEW.md。
+本项目以《三国志》及裴松之注为中心，保留可追溯原文。入手先读 README.md、DEVELOPMENT.md、deployment.json、data/portrait-plan.json、data/portrait-batch-state.json 和本项涉及的 data/sources 原文。人物逐人复核另遵循 PERSON_SECOND_REVIEW.md。data/person-second-review.json 的 excerpt 须满足 scripts/second-review.mjs 的断言：`context`（若填写）必须逐字出现在源段落中（通常取年号/日期原文，不得写概述语）；`from` 在段落中仅出现一次，`through` 须在 from 之后出现且不得重复；`citation` 为纯文本、无 URL；底本字形不改（如「爲」不可写成「為」）。
 
 ## 史料和画像
 
