@@ -2701,6 +2701,33 @@
           "from": "左氏傳曰",
           "through": "鯀則殛死。",
           "citation": "裴松之注"
+        },
+        {
+          "id": "cao-pei-fuzi-marriage-frugal",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 42,
+          "from": "傅子曰：太祖愍嫁娶之奢僭",
+          "through": "從婢不過十人。",
+          "citation": "裴注引《傅子》"
+        },
+        {
+          "id": "cao-pei-bowuzhi-calligraphy",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 43,
+          "from": "張華博物志曰",
+          "through": "而太祖亞之。",
+          "citation": "裴注引張華《博物志》"
+        },
+        {
+          "id": "cao-pei-fuzi-military-cap",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 44,
+          "from": "傅子曰：漢末王公",
+          "through": "可謂軍容，非國容也。",
+          "citation": "裴注引《傅子》"
         }
       ],
       "conclusions": {
