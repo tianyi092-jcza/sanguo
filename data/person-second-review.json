@@ -1751,6 +1751,24 @@
           "from": "秋，太祖征陶謙，下十餘城，",
           "through": "謙守城不敢出。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-yanzhou-mu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "from": "青州黃巾衆百萬入兖州",
+          "through": "至東郡迎太祖領兖州牧。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-yongqiu-zhangmiao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 9,
+          "from": "秋八月，圍雍丘。",
+          "through": "兖州平，",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "conclusions": {
