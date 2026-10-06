@@ -1693,6 +1693,34 @@
           "from": "袁紹與韓馥謀立幽州牧劉虞為帝",
           "through": "太祖拒之。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-caosong-death",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 8,
+          "context": "興平元年春，太祖自徐州還",
+          "from": "太祖父嵩去官後還譙，董卓之亂，避難琅邪，為陶謙所害，",
+          "through": "故太祖志在復讎東伐。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-pei-caosong-shiyu",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 8,
+          "from": "世語曰：嵩在泰山華縣",
+          "through": "劭懼，棄官赴袁紹。",
+          "citation": "裴注引《世語》"
+        },
+        {
+          "id": "cao-pei-caosong-wushu",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 8,
+          "from": "韋曜吳書曰：太祖迎嵩",
+          "through": "太祖歸咎於陶謙，故伐之。",
+          "citation": "裴注引韋曜《吳書》"
         }
       ],
       "conclusions": {
