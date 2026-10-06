@@ -2403,6 +2403,35 @@
           "from": "魏武故事載公十二月己亥令曰",
           "through": "少減孤之責也。」",
           "citation": "《三國志·魏書一·武帝紀》裴注引《魏武故事》"
+        },
+        {
+          "id": "cao-sg-wei-gong-213",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 28,
+          "context": "十八年",
+          "from": "五月丙申，天子使御史大夫郗慮",
+          "through": "策命公為魏公",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-wei-sheji-213",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 33,
+          "from": "秋七月，始建魏社稷宗廟",
+          "through": "少者待年於國。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-yangping-zhanglu-215",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "context": "二十年",
+          "from": "秋七月，公至陽平",
+          "through": "公軍入南鄭，盡得魯府庫珍寶。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "conclusions": {
