@@ -3,6 +3,7 @@ import * as OpenCC from 'opencc-js';
 import {indexChronicles} from './chronicle-index.mjs';
 import {loadAppraisals,appraisalsFor} from './appraisals.mjs';
 import {applyAffiliations} from './affiliations.mjs';
+import {applySecondReviews} from './second-review.mjs';
 const convertTraditional=OpenCC.Converter({from:'cn',to:'t'});
 export const traditional=s=>convertTraditional(s).replace(/於(禁|糜|夫羅|氐根|毒)/g,'于$1').replaceAll('穀道','谷道');
 const simplified=OpenCC.Converter({from:'t',to:'cn'});
@@ -95,6 +96,7 @@ export function makeHistory(original){
   }
   const chars={};for(const ch of new Set(traditional(JSON.stringify(original)))){const s=simplified(ch);if(ch!==s)chars[ch]=s;}
   applyAffiliations(data,people,docMap,normalize,excerpt,audit);
+  applySecondReviews(data,people,docMap,normalize,audit);
   audit.withReading=Object.values(people).filter(h=>h.reading).length;
   audit.unmatched=data.per.filter(p=>!people[p.id].reading).map(p=>p.n);
   const representedNames=new Set(data.per.map(p=>normalize(p.n)));

@@ -104,6 +104,11 @@
     "衛茲": {
       "caocao": "allied"
     },
+    "張邈": {
+      "zhangmiao": "leader",
+      "caocao": "allied",
+      "lvbu": "allied"
+    },
     "龔都": {
       "liubei": "allied"
     },
@@ -750,6 +755,71 @@
       }
     ],
     "曹操": [
+      {
+        "source": "a04-001",
+        "query": "光和末，黃巾起。拜騎都尉",
+        "title": "騎都尉",
+        "issuer": "漢廷；授官者未載",
+        "kind": "court",
+        "period": "光和末（約184）；討潁川黃巾"
+      },
+      {
+        "source": "a04-001",
+        "query": "遷為濟南相",
+        "title": "濟南相",
+        "issuer": "漢廷；授官者未載",
+        "kind": "court",
+        "period": "光和末至中平年間；確年未詳"
+      },
+      {
+        "source": "a04-001",
+        "query": "徵拜議郎。魏書曰：太祖從妹夫",
+        "title": "議郎",
+        "issuer": "漢廷徵拜；具體授官者未載",
+        "kind": "court",
+        "period": "黃巾起事後；確年未詳"
+      },
+      {
+        "source": "a04-001",
+        "query": "徵太祖為典軍校尉",
+        "title": "典軍校尉",
+        "issuer": "漢廷徵拜；具體授官者未載",
+        "kind": "court",
+        "period": "靈帝末年；確月未詳"
+      },
+      {
+        "source": "a04-001",
+        "query": "卓表太祖為驍騎校尉",
+        "title": "驍騎校尉",
+        "issuer": "董卓表授；漢廷名義官職",
+        "kind": "court",
+        "period": "中平六年（189）；是否就任有異說"
+      },
+      {
+        "source": "a04-001",
+        "query": "徵還為東郡太守；不就",
+        "title": "東郡太守（徵還）",
+        "issuer": "漢廷徵召；具體授官者未載",
+        "kind": "court",
+        "period": "確年未詳；本傳明言不就任",
+        "status": "appointed-not-served"
+      },
+      {
+        "source": "a04-001",
+        "query": "袁紹因表太祖為東郡太守，治東武陽",
+        "title": "東郡太守",
+        "issuer": "袁紹表請；原始任命程序未詳",
+        "kind": "court",
+        "period": "初平二年（191）；實際赴任有本紀記載"
+      },
+      {
+        "source": "a04-001",
+        "query": "天子拜太祖建德將軍，夏六月，遷鎮東將軍，封費亭侯",
+        "title": "鎮東將軍、費亭侯",
+        "issuer": "漢獻帝授",
+        "kind": "court",
+        "period": "建安元年（196）"
+      },
       {
         "source": "a04-001",
         "query": "天子拜公司空",

@@ -1,0 +1,1554 @@
+{
+  "schemaVersion": 1,
+  "verifiedLegacyPei": [
+    {
+      "id": "sunquan-pei-weilue",
+      "personId": "p0192",
+      "name": "孫權",
+      "work": "peizhu",
+      "source": "a04-047",
+      "paragraph": 12,
+      "from": "魏略曰：權乘大船來觀軍",
+      "through": "箭均船平，乃還。",
+      "citation": "裴注引《魏略》"
+    },
+    {
+      "id": "zhouyu-pei-jiangbiaozhuan",
+      "personId": "p0209",
+      "name": "周瑜",
+      "work": "peizhu",
+      "source": "a04-054",
+      "paragraph": 8,
+      "from": "江表傳曰：普頗以年長數陵侮瑜",
+      "through": "不覺自醉。",
+      "citation": "裴注引《江表傳》"
+    }
+  ],
+  "people": [
+    {
+      "id": "p0091",
+      "name": "張邈",
+      "status": "complete",
+      "reviewedOn": "2026-10-06",
+      "coverage": {
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
+      },
+      "excerpts": [
+        {
+          "id": "zmy-sg-biography",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 6,
+          "from": "張邈字孟卓",
+          "through": "其親如此。",
+          "citation": "《三國志·魏書七·張邈傳》"
+        },
+        {
+          "id": "zmy-sg-revolt",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 7,
+          "from": "呂布之捨袁紹從張楊也",
+          "through": "布東奔劉備。",
+          "citation": "《三國志·魏書七·張邈傳》"
+        },
+        {
+          "id": "zmy-sg-final",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 7,
+          "from": "邈從布，留超將家屬屯雍丘。",
+          "through": "自為其兵所殺。",
+          "citation": "《三國志·魏書七·張邈傳》"
+        },
+        {
+          "id": "zmy-pei-variant",
+          "work": "peizhu",
+          "source": "a04-007",
+          "paragraph": 7,
+          "from": "獻帝春秋曰：袁術議稱尊號",
+          "through": "未詳孰是。",
+          "citation": "裴注引《獻帝春秋》及裴松之按"
+        },
+        {
+          "id": "zmy-hhs-background",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 30,
+          "from": "邈字孟卓，東平人",
+          "through": "然邈心不自安。",
+          "citation": "《後漢書·呂布傳》"
+        },
+        {
+          "id": "zmy-hhs-revolt",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 30,
+          "from": "宮因說邈曰",
+          "through": "郡縣皆應之。",
+          "citation": "《後漢書·呂布傳》"
+        },
+        {
+          "id": "zmy-hhs-final",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 31,
+          "from": "曹操聞而引軍擊布",
+          "through": "為其兵所害。",
+          "citation": "《後漢書·呂布傳》"
+        },
+        {
+          "id": "zmy-sg-190",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 3,
+          "context": "初平元年春正月",
+          "from": "陳留太守張邈",
+          "through": "陳留太守張邈",
+          "citation": "《三國志·武帝紀》",
+          "display": false
+        },
+        {
+          "id": "zmy-sg-195",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 9,
+          "context": "二年春",
+          "from": "布東奔劉備，張邈從布",
+          "through": "兖州平，遂東略陳地。",
+          "citation": "《三國志·武帝紀》",
+          "display": false
+        },
+        {
+          "id": "zmy-jin-later-liang",
+          "work": "jinshu",
+          "source": "a05-087-ahcb",
+          "paragraph": 2,
+          "from": "及業僭稱涼王",
+          "through": "嗣奔還張掖。",
+          "citation": "《晉書·卷八十七·涼武昭王李玄盛傳》",
+          "display": false
+        },
+        {
+          "id": "zmy-jin-later-liang-date",
+          "work": "jinshu",
+          "source": "a05-087-ahcb",
+          "paragraph": 3,
+          "from": "隆安四年",
+          "through": "張邈爲右長史",
+          "citation": "《晉書·卷八十七·涼武昭王李玄盛傳》",
+          "display": false
+        },
+        {
+          "id": "zmy-jin-divination-namesake",
+          "work": "jinshu",
+          "source": "a05-095-ahcb",
+          "paragraph": 68,
+          "from": "郡功曹張邈嘗奉使詣州",
+          "through": "會東虜反，遂不行。",
+          "citation": "《晉書·卷九十五·藝術列傳》",
+          "display": false
+        }
+      ],
+      "conclusions": {
+        "birth": null,
+        "death": {
+          "year": 195,
+          "precision": "exact-year",
+          "preferredSource": "sanguozhi",
+          "evidence": [
+            "zmy-sg-195",
+            "zmy-hhs-final"
+          ],
+          "variants": [],
+          "note": "興平二年可定年，不能據敘事排列定卒月。"
+        },
+        "primaryFaction": {
+          "faction": "zhangmiao",
+          "earliestAttested": 190,
+          "lastAttested": 195,
+          "startUnknown": true,
+          "evidence": [
+            "zmy-sg-190",
+            "zmy-sg-biography",
+            "zmy-sg-final"
+          ],
+          "note": "自領兵眾；左界為最早可繫年活動，不是創建年。"
+        },
+        "relationships": [
+          {
+            "faction": "caocao",
+            "relation": "allied",
+            "attestedYears": [
+              190
+            ],
+            "evidence": [
+              "zmy-sg-190",
+              "zmy-sg-biography"
+            ],
+            "note": "共同起兵，遣衞茲將兵協戰；不據此推定改隸曹操。"
+          },
+          {
+            "faction": "lvbu",
+            "relation": "allied",
+            "attestedYears": [
+              194,
+              195
+            ],
+            "evidence": [
+              "zmy-sg-revolt",
+              "zmy-sg-final",
+              "zmy-hhs-revolt"
+            ],
+            "note": "194年迎布，195年記從布；張邈本部與合作關係分開。"
+          }
+        ]
+      },
+      "unresolved": [
+        "裴注引《獻帝春秋》與本傳對是否到達袁術處有異。",
+        "陳留太守授職年與自領勢力的最初起年未詳。",
+        "《晉書》卷八十七三處張邈為西涼李氏政權人物，時代與195年卒的陳留張邈不同；卷九十五張邈僅見術數軼事，亦無身份可連至漢末人物。",
+        "《華陽國志》十二卷已檢索姓名與字，未見可歸於陳留張邈的材料。"
+      ]
+    },
+    {
+      "id": "p0001",
+      "name": "曹操",
+      "status": "pilot",
+      "reviewedOn": "2026-10-06",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "searchAudit": {
+        "literalQueries": [
+          "曹操",
+          "曹公",
+          "曹孟德",
+          "孟德",
+          "魏武",
+          "魏武帝",
+          "太祖",
+          "曺操",
+          "曺公"
+        ],
+        "nameExactSourceOccurrences": 273,
+        "normalizedDistinctParagraphs": 169,
+        "huayangAliasOccurrences": {
+          "孟德": 2,
+          "魏武": 3,
+          "曹公": 7,
+          "曺公": 5
+        },
+        "excludedMatches": [
+          {
+            "source": "a03-048-ahcb",
+            "paragraph": 1,
+            "term": "曹公",
+            "reason": "《春秋》所記曹國公孫會，不是曹操。"
+          },
+          {
+            "source": "a03-058-ahcb",
+            "paragraph": 19,
+            "term": "曹公",
+            "reason": "引《左傳》所稱曹國公子臧，與漢末曹操無關。"
+          }
+        ],
+        "note": "候選段落含他傳事件、注引材料、後世追述及異體字；尚未逐條裁定。"
+      },
+      "excerpts": [
+        {
+          "id": "cao-sg-identity",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 0,
+          "from": "太祖武皇帝",
+          "through": "小字阿瞞。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-youth",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 1,
+          "from": "太祖少機警",
+          "through": "故世人未之奇也；",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-age20",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 1,
+          "from": "年二十，舉孝廉為郎",
+          "through": "遷頓丘令，",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-early-offices",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "光和末，黃巾起。拜騎都尉",
+          "through": "遷為濟南相",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-east-commandery-declined",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "徵還為東郡太守；不就",
+          "through": "稱疾歸鄉里。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-typical-colonel",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "徵太祖為典軍校尉。",
+          "through": "太后臨朝。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-dongzhuo-appointment",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "卓到，廢帝為弘農王而立獻帝",
+          "through": "間行東歸。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-militia-start",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "太祖至陳留，散家財",
+          "through": "始起兵於己吾",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-east-commandery-appointed",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 5,
+          "context": "二年春",
+          "from": "袁紹因表太祖為東郡太守",
+          "through": "治東武陽。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-zhendong-office",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "天子拜太祖建德將軍",
+          "through": "封費亭侯。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-death",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 40,
+          "from": "二十五年春正月，至洛陽。",
+          "through": "年六十六。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-lubu-campaign",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "context": "三年",
+          "from": "九月，公東征布。",
+          "through": "大破之，獲其驍將成廉。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-pei-ancestry-wei-shu",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 0,
+          "from": "王沈魏書曰：其先出於黃帝",
+          "through": "黃初元年，追尊嵩曰太皇帝。",
+          "citation": "裴注引《魏書》及《續漢書》",
+          "display": false
+        },
+        {
+          "id": "cao-pei-ancestry-variant",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 0,
+          "from": "吳人作曹瞞傳及郭頒世語並云",
+          "through": "嵩生太祖。",
+          "citation": "裴注引《曹瞞傳》《世語》",
+          "display": false
+        },
+        {
+          "id": "cao-pei-refusal-motive",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "魏書曰：太祖以卓終必覆敗",
+          "through": "逃歸鄉里。",
+          "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "cao-pei-zhongmou-release",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "世語曰：中牟疑是亡人",
+          "through": "因白令釋之。",
+          "citation": "裴注引《世語》"
+        },
+        {
+          "id": "cao-hhs-eight-colonels",
+          "work": "houhanshu",
+          "source": "a03-008-ahcb",
+          "paragraph": 21,
+          "from": "八月，初置西園八校尉。",
+          "through": "皆統於蹇碩。",
+          "citation": "《後漢書·孝靈帝紀》"
+        },
+        {
+          "id": "cao-hhs-east-commandery",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 5,
+          "from": "青州黃巾擊殺兖州刺史劉岱",
+          "through": "曹操大破黃巾於壽張，降之。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "cao-hhs-siling-command",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 9,
+          "context": "建安元年",
+          "from": "辛亥，鎮東將軍曹操自領司隷校尉，錄尚書事。",
+          "through": "辛亥，鎮東將軍曹操自領司隷校尉，錄尚書事。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "cao-hhs-sikong-office",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 9,
+          "context": "建安元年",
+          "from": "冬十一月丙戌，曹操自爲司空",
+          "through": "百官緫己以聽。",
+          "citation": "《後漢書》卷九·孝獻帝紀",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-prime-minister",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 21,
+          "context": "十三年",
+          "from": "癸巳，曹操自爲丞相。",
+          "through": "癸巳，曹操自爲丞相。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "cao-hhs-yu-appointment",
+          "work": "houhanshu",
+          "source": "a03-048-ahcb",
+          "paragraph": 34,
+          "from": "曹操辟爲丞相掾",
+          "through": "曹操辟爲丞相掾",
+          "citation": "《後漢書》卷四十八（他傳記曹操辟用珣子㻛；非曹操本人授官）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yuanshu-seal-anecdote",
+          "work": "houhanshu",
+          "source": "a03-048-ahcb",
+          "paragraph": 44,
+          "from": "術得璽，舉以向肘。魏武謂之曰",
+          "through": "不聽汝乃至此。",
+          "citation": "《後漢書》卷四十八（本傳引《衛宏》所記魏武與袁術故事）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-prime-minister-xu-qiu",
+          "work": "houhanshu",
+          "source": "a03-048-ahcb",
+          "paragraph": 45,
+          "from": "後拜太常，使持節拜曹操爲丞相。",
+          "through": "操以相讓璆，璆不敢當。",
+          "citation": "《後漢書》卷四十八（徐璆傳）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-kongrong-correspondence",
+          "work": "houhanshu",
+          "source": "a03-070-ahcb",
+          "paragraph": 19,
+          "from": "曹操以書和解之",
+          "through": "操故書激厲融曰",
+          "citation": "《後漢書》卷七十·孔融傳（曹操調解郗慮、孔融並致書孔融）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-kongrong-prosecution",
+          "work": "houhanshu",
+          "source": "a03-070-ahcb",
+          "paragraph": 22,
+          "from": "曹操旣積嫌忌",
+          "through": "遂令丞相軍謀祭酒路粹",
+          "citation": "《後漢書》卷七十·孔融傳（本傳敘孔融被奏及曹操與郗慮的關係）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-kongrong-funeral",
+          "work": "houhanshu",
+          "source": "a03-070-ahcb",
+          "paragraph": 24,
+          "from": "操聞大怒",
+          "through": "後得赦出。",
+          "citation": "《後漢書》卷七十·孔融傳（曹操欲收治弔祭孔融的脂習）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-xunyu-joined",
+          "work": "houhanshu",
+          "source": "a03-070-ahcb",
+          "paragraph": 29,
+          "context": "初平二年",
+          "from": "時曹操在東郡",
+          "through": "以爲奮武司馬，時年二十九。",
+          "citation": "《後漢書》卷七十·荀彧傳",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-xunyu-yanzhou-advice",
+          "work": "houhanshu",
+          "source": "a03-070-ahcb",
+          "paragraph": 31,
+          "from": "將軍本以兖州首事",
+          "through": "操於是大收孰麥",
+          "citation": "《後漢書》卷七十·荀彧傳（荀彧勸曹操先固兖州）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-xunyu-nine-bestowals",
+          "work": "houhanshu",
+          "source": "a03-070-ahcb",
+          "paragraph": 40,
+          "from": "密以訪彧。彧曰「曹公本興義兵",
+          "through": "事遂寑。",
+          "citation": "《後漢書》卷七十·荀彧傳（荀彧反對曹操接受魏公、九錫）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yangbiao-incident",
+          "work": "houhanshu",
+          "source": "a03-054-ahcb",
+          "paragraph": 37,
+          "context": "建安元年",
+          "from": "兖州刺史曹操上殿",
+          "through": "操不得已，遂理出彪。",
+          "citation": "《後漢書》卷五十四·楊彪傳（本段稱曹操為兖州刺史，與本紀年職記載抵牾）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yangxiu-killing",
+          "work": "houhanshu",
+          "source": "a03-054-ahcb",
+          "paragraph": 38,
+          "from": "後子脩爲曹操所殺",
+          "through": "操爲之改容。",
+          "citation": "《後漢書》卷五十四·楊彪傳（楊彪、楊修父子）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yangxiu-appointment-and-death",
+          "work": "houhanshu",
+          "source": "a03-054-ahcb",
+          "paragraph": 39,
+          "from": "脩字德祖，好學，有俊才",
+          "through": "遂因事殺之。",
+          "citation": "《後漢書》卷五十四·楊彪傳（記楊修為丞相主簿；所引《典略》《續漢書》殺因各異）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-luzhi-memorial",
+          "work": "houhanshu",
+          "source": "a03-064-ahcb",
+          "paragraph": 27,
+          "context": "建安中",
+          "from": "曹操北討柳城",
+          "through": "亟遣丞掾除其墳墓",
+          "citation": "《後漢書》卷六十四·盧植傳（本段附引《魏志》繫建安十二年）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zhaoqi-negotiation",
+          "work": "houhanshu",
+          "source": "a03-064-ahcb",
+          "paragraph": 35,
+          "from": "是時袁紹、曹操與公孫瓚爭兾州",
+          "through": "皆與歧期會洛陽",
+          "citation": "《後漢書》卷六十四·趙岐傳（趙岐勸袁紹、曹操與公孫瓚罷兵）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zhaoqi-sikong",
+          "work": "houhanshu",
+          "source": "a03-064-ahcb",
+          "paragraph": 37,
+          "from": "曹操時爲司空，舉以自代。",
+          "through": "於是就拜歧爲太常。",
+          "citation": "《後漢書》卷六十四·趙岐傳（曹操舉趙岐代己任司空；繫年未詳）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-wei-duke",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 26,
+          "context": "十八年",
+          "from": "夏五月丙申，曹操自立爲魏公，加九錫。",
+          "through": "夏五月丙申，曹操自立爲魏公，加九錫。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "cao-hhs-wei-king",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 29,
+          "context": "二十一年",
+          "from": "夏四月甲午，曹操自進號魏王。",
+          "through": "夏四月甲午，曹操自進號魏王。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "cao-hhs-cap-custom",
+          "work": "houhanshu",
+          "source": "a03-068-ahcb",
+          "paragraph": 1,
+          "from": "魏武造幍",
+          "through": "今國子學生服焉。",
+          "citation": "《後漢書》卷六十八（周遷《輿服雜事》所引魏武製幍說；服制追述）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-bianrang-death",
+          "work": "houhanshu",
+          "source": "a03-068-ahcb",
+          "paragraph": 13,
+          "from": "讓以輕侮曹操",
+          "through": "操殺之。",
+          "citation": "《後漢書》卷六十八（記曹操殺邊讓；本段未明載年份）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-xushao-assessment",
+          "work": "houhanshu",
+          "source": "a03-068-ahcb",
+          "paragraph": 25,
+          "from": "曹操微時",
+          "through": "操大恱而去。",
+          "citation": "《後漢書》卷六十八（許劭品評曹操的傳聞；不作精確年齡或任官證據）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-liying-family-recognition",
+          "work": "houhanshu",
+          "source": "a03-067-ahcb",
+          "paragraph": 23,
+          "from": "初，曹操微時",
+          "through": "必歸曹氏。",
+          "citation": "《後漢書》卷六十七·黨錮列傳（李膺家人所述早年鑒賞；無年齡、紀年）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-he-yong-recognition",
+          "work": "houhanshu",
+          "source": "a03-067-ahcb",
+          "paragraph": 74,
+          "from": "初，顒見曹操",
+          "through": "操以是嘉之。",
+          "citation": "《後漢書》卷六十七·黨錮列傳（何顒稱許曹操；事年未載）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-dou-family-fu",
+          "work": "houhanshu",
+          "source": "a03-069-ahcb",
+          "paragraph": 9,
+          "from": "會表卒，曹操定荊州",
+          "through": "從征馬超，爲流矢所中死。",
+          "citation": "《後漢書》卷六十九·竇武傳（竇武孫輔徙鄴並辟丞相府，屬他人履歷）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-emperor-confrontation",
+          "work": "houhanshu",
+          "source": "a03-010b-ahcb",
+          "paragraph": 42,
+          "from": "自帝都許，守位而已",
+          "through": "自後不敢復朝請。",
+          "citation": "《後漢書》卷十下·皇后紀（獻帝與曹操對答的傳記敘述；段內未明載年）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-fu-empress-death",
+          "work": "houhanshu",
+          "source": "a03-010b-ahcb",
+          "paragraph": 42,
+          "from": "操誅承而求貴人殺之",
+          "through": "遂將后下暴室，以幽崩。",
+          "citation": "《後漢書》卷十下·皇后紀（伏皇后被廢殺的細節）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-cao-jie-identity",
+          "work": "houhanshu",
+          "source": "a03-010b-ahcb",
+          "paragraph": 43,
+          "from": "獻穆曹皇后諱節",
+          "through": "魏公曹操之中女也。",
+          "citation": "《後漢書》卷十下·皇后紀（曹節為曹操之女）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-cao-daughters-marriage",
+          "work": "houhanshu",
+          "source": "a03-010b-ahcb",
+          "paragraph": 43,
+          "context": "建安十八年",
+          "from": "操進三女憲、節、華爲夫人",
+          "through": "十九年，並拜爲貴人。",
+          "citation": "《後漢書》卷十下·皇后紀（曹操安排三女入獻帝後宮）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yangfeng-emperor-relocation",
+          "work": "houhanshu",
+          "source": "a03-072-ahcb",
+          "paragraph": 31,
+          "from": "潛召兖州牧曹操",
+          "through": "遂移帝幸許。",
+          "citation": "《後漢書》卷七十二（董承召曹操入洛陽，曹操迎帝遷許）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zhangyang-death",
+          "work": "houhanshu",
+          "source": "a03-072-ahcb",
+          "paragraph": 33,
+          "from": "曹公之圍布",
+          "through": "楊醜殺楊以應曹公。",
+          "citation": "《後漢書》卷七十二引《魏志》（張楊部將殺張楊以應曹操）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-ma-chao-revolt",
+          "work": "houhanshu",
+          "source": "a03-072-ahcb",
+          "paragraph": 35,
+          "from": "十六年，超與韓遂舉關中背曹操",
+          "through": "操擊破之，遂、超敗走",
+          "citation": "《後漢書》卷七十二·馬援傳後附馬騰傳（建安十六年關中叛亂）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-xianyu-fu",
+          "work": "houhanshu",
+          "source": "a03-073-ahcb",
+          "paragraph": 20,
+          "from": "鮮于輔將其衆歸曹操",
+          "through": "封關內侯。",
+          "citation": "《後漢書》卷七十三·公孫瓚傳（鮮于輔率部歸曹並受任）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zhangyan-surrender",
+          "work": "houhanshu",
+          "source": "a03-073-ahcb",
+          "paragraph": 21,
+          "from": "曹操將定兾州",
+          "through": "拜平北將軍，封安國亭侯。",
+          "citation": "《後漢書》卷七十三·張燕傳（張燕率部降曹）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-taoqian-massacre",
+          "work": "houhanshu",
+          "source": "a03-073-ahcb",
+          "paragraph": 25,
+          "from": "初平四年，曹操擊謙",
+          "through": "泗水爲之不流",
+          "citation": "《後漢書》卷七十三·陶謙傳（正文稱曹操所過屠戮）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-taoqian-second-campaign",
+          "work": "houhanshu",
+          "source": "a03-073-ahcb",
+          "paragraph": 26,
+          "context": "興平元年",
+          "from": "興平元年，曹操復擊謙",
+          "through": "操還擊布",
+          "citation": "《後漢書》卷七十三·陶謙傳（曹操還軍轉擊呂布）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yuan-shao-zhang-miao",
+          "work": "houhanshu",
+          "source": "a03-075-ahcb",
+          "paragraph": 29,
+          "from": "與曹操共舉義兵",
+          "through": "操不聽，然邈心不自安。",
+          "citation": "《後漢書·呂布傳》"
+        },
+        {
+          "id": "cao-hhs-lubu-campaign",
+          "work": "houhanshu",
+          "source": "a03-075-ahcb",
+          "paragraph": 30,
+          "from": "曹操聞而引軍擊布",
+          "through": "破布於鉅野，布東奔劉備。",
+          "citation": "《後漢書·呂布傳》"
+        },
+        {
+          "id": "cao-hhs-lubu-campaign-year-variant",
+          "work": "houhanshu",
+          "source": "a03-075-ahcb",
+          "paragraph": 37,
+          "context": "建安二年",
+          "from": "建安二年，布遂復從袁術",
+          "through": "操乃自將擊布，至下邳城下。",
+          "citation": "《後漢書》卷七十五·呂布傳（編年與《三國志》本紀不同）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-lubu-capture",
+          "work": "houhanshu",
+          "source": "a03-075-ahcb",
+          "paragraph": 38,
+          "from": "布及宮、順皆縊殺之",
+          "through": "傳首許市。",
+          "citation": "《後漢書·呂布傳》"
+        },
+        {
+          "id": "cao-hhs-yuan-shao-proclamation-ancestry",
+          "work": "houhanshu",
+          "source": "a03-074-ahcb",
+          "paragraph": 28,
+          "from": "司空曹操祖父騰",
+          "through": "父嵩，乞匄攜養",
+          "citation": "《後漢書·袁紹傳》（袁紹檄文，敵方攻訐；非中立家世證據）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yuantan-liyang",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 1,
+          "from": "曹操度河攻譚",
+          "through": "譚、尚敗退。",
+          "citation": "《後漢書》卷七十四下·袁譚傳（正文敘黎陽戰事；本段未獨立繫公元年）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yuantan-marriage",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 8,
+          "from": "曹操遂還救譚",
+          "through": "乃以子整娉譚女以安之",
+          "citation": "《後漢書》卷七十四下·袁譚傳（正文記戰事及政治婚姻；建安二十二年為魏志追註曹整之事）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-siege-ye",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 10,
+          "from": "曹操因此進攻鄴",
+          "through": "尚走依曲漳爲營",
+          "citation": "《後漢書》卷七十四下·袁譚傳（圍鄴、引漳水與袁尚敗走）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yuantan-death",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 12,
+          "from": "十二月，曹操討譚",
+          "through": "於是斬郭圖等，戮其妻子。",
+          "citation": "《後漢書》卷七十四下·袁譚傳（本段月序需與上文繫年，不單獨換算）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-gaogan-revolt",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 14,
+          "context": "十一年",
+          "from": "曹操自征幹",
+          "through": "上洛都尉捕斬之。",
+          "citation": "《後漢書》卷七十四下·袁譚傳（建安十一年征高幹）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-wuhuan-yuantan",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 15,
+          "context": "十二年",
+          "from": "曹操征遼西，擊烏桓。",
+          "through": "遂斬首送之。",
+          "citation": "《後漢書》卷七十四下·袁譚傳（建安十二年及袁尚、袁熙死於遼東）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-liubiao-guandu-neutrality",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 21,
+          "from": "及曹操與袁紹相持於官度",
+          "through": "且欲觀天下之變。",
+          "citation": "《後漢書》卷七十四下·劉表傳（記劉表未援任一方）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-liubiao-campaign",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 22,
+          "context": "十三年",
+          "from": "曹操自將征表",
+          "through": "表疽發背卒。",
+          "citation": "《後漢書》卷七十四下·劉表傳（建安十三年南征劉表）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-liubiao-surrender",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 24,
+          "from": "會曹操軍至新野",
+          "through": "琮曰：「不若也。」",
+          "citation": "《後漢書》卷七十四下·劉表傳（劉琮歸降及傅巽說辭）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zhangchao-siege",
+          "work": "houhanshu",
+          "source": "a03-058-ahcb",
+          "paragraph": 32,
+          "from": "時曹操圍張超於雍丘",
+          "through": "張氏族滅。",
+          "citation": "《後漢書》卷五十八·臧洪傳（張超被圍；本段未明載年份）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-huatuo-headache",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 26,
+          "from": "曹操聞而召佗，常在左右。",
+          "through": "隨手而差。",
+          "citation": "《後漢書》卷八十二下·方術列傳（華佗為曹操治頭風的傳記敘事）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zuoci-banquet",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 49,
+          "from": "左慈字元放",
+          "through": "操使目前鱠之，周浹會者。",
+          "citation": "《後漢書》卷八十二下·方術列傳（左慈神異故事；不採作曹操本傳史實）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-mengjie-fangshi",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 58,
+          "from": "曹操使領諸方士焉。",
+          "through": "曹操使領諸方士焉。",
+          "citation": "《後漢書》卷八十二下·方術列傳（孟節傳記曹操令其領方士）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-cai-wenji-rescue",
+          "work": "houhanshu",
+          "source": "a03-084-ahcb",
+          "paragraph": 36,
+          "from": "曹操素與邕善",
+          "through": "而重嫁於祀。",
+          "citation": "《後漢書》卷八十四·列女傳·蔡琰傳（曹操贖蔡琰並為其改嫁）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-cai-wenji-petition",
+          "work": "houhanshu",
+          "source": "a03-084-ahcb",
+          "paragraph": 37,
+          "from": "祀爲屯田都尉，犯法當死，文姬詣曹操請之。",
+          "through": "於是繕書送之，文無遺誤。",
+          "citation": "《後漢書》卷八十四·列女傳·蔡琰傳（赦董祀、命吏錄蔡琰記憶文）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-xiongnu-chanyu-policy",
+          "work": "houhanshu",
+          "source": "a03-089-ahcb",
+          "paragraph": 66,
+          "context": "二十一年",
+          "from": "二十一年，單于來朝",
+          "through": "遣去卑歸平陽，監其五部國。",
+          "citation": "《後漢書》卷八十九·南匈奴列傳（曹操留呼廚泉於鄴、遣去卑監五部）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-xiongnu-later-critique",
+          "work": "houhanshu",
+          "source": "a03-089-ahcb",
+          "paragraph": 68,
+          "from": "魏武雖分其衆爲五部",
+          "through": "百代無滅，誠可痛心也。",
+          "citation": "《後漢書》卷八十九·南匈奴列傳（撰者後出政治議論，不視為當時記錄）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yanrou-appointment",
+          "work": "houhanshu",
+          "source": "a03-090-ahcb",
+          "paragraph": 12,
+          "from": "會曹操平河北",
+          "through": "操即以柔爲校尉。",
+          "citation": "《後漢書》卷九十·烏桓鮮卑列傳（記曹操任用閻柔）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-wuhuan-campaign",
+          "work": "houhanshu",
+          "source": "a03-090-ahcb",
+          "paragraph": 12,
+          "context": "建安十二年",
+          "from": "曹操自征烏桓",
+          "through": "斬之",
+          "citation": "《後漢書》卷九十·烏桓鮮卑列傳（建安十二年柳城之役）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-wei-shu-military-ritual",
+          "work": "houhanshu",
+          "source": "a03-095-ahcb",
+          "paragraph": 7,
+          "from": "魏書曰：「建安二十一年三月，曹公親耕藉田。",
+          "through": "號曰治兵。",
+          "citation": "《後漢書》志第五·禮儀中引《魏書》（曹公軍事講武建議）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-death-wei-quote",
+          "work": "houhanshu",
+          "source": "a03-009-ahcb",
+          "paragraph": 33,
+          "from": "二十五年春正月庚子，魏王曹操薨。",
+          "through": "薨時年六十六。",
+          "citation": "《後漢書·孝獻帝紀》（此句明引《魏志》）"
+        },
+        {
+          "id": "cao-hygz-liuzhang-cao-intentions",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 11,
+          "from": "十年璋聞曹公將",
+          "through": "十二年璋復遣别駕從事蜀郡",
+          "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-liuzhang-opposition",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 12,
+          "from": "松還疵毁曹公",
+          "through": "十六年璋聞曹公將遣司隷",
+          "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-zhang-song-counsel",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 13,
+          "from": "公之深讎也善用兵使之伐魯",
+          "through": "曺公雖來無爲也",
+          "citation": "《華陽國志》卷五·四部叢刊本（張松勸劉璋迎劉備攻張魯）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-jianan-13-south",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 9,
+          "context": "十三年",
+          "from": "十三年表卒少子琮襲位曹公南征",
+          "through": "先主乃知遂將",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-lubu-capture",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 4,
+          "from": "三年公自征布生禽之",
+          "through": "遂殺布",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-liubei-campaign",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 6,
+          "from": "五年公東征先主",
+          "through": "先主敗績",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-hanzhong-entry",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 14,
+          "from": "㑹曹公入",
+          "through": "此割蜀人股臂也",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-wei-king",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 17,
+          "from": "曺公為魏王",
+          "through": "獨不得正邪",
+          "citation": "《華陽國志》卷六·四部叢刊本（曹操對法正的追述）"
+        },
+        {
+          "id": "cao-hygz-lingering-appointment",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 3,
+          "from": "建安元年曺公表爲鎮東將軍",
+          "through": "封宐城",
+          "citation": "《華陽國志》卷六·四部叢刊本（記曹公表授劉備官爵）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-dongcheng-plot",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 5,
+          "from": "車騎將軍董承受命衣帶中宻詔當殺曺公",
+          "through": "同謀以",
+          "citation": "《華陽國志》卷六·四部叢刊本（董承與劉備等謀誅曹公；原文此處未明載事件年份）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-guan-yu-grant",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 7,
+          "from": "公即表封羽漢壽亭侯",
+          "through": "重加賞賜",
+          "citation": "《華陽國志》卷六·四部叢刊本（曹操表封關羽）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-zhuge-assessment",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 8,
+          "from": "曺操比扵袁紹",
+          "through": "挾天子而令諸侯",
+          "citation": "《華陽國志》卷六·四部叢刊本（諸葛亮對劉備陳說）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-lizhang-commentary",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 19,
+          "from": "觀劉璋曹公之悔慢法正張",
+          "through": "觀劉璋曹公之悔慢法正張",
+          "citation": "《華陽國志》卷五·四部叢刊本（撰者回顧劉璋、曹公與法正、張松）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-wang-wen-retrospective",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 15,
+          "from": "尋曺公入徙天子都許",
+          "through": "政出諸侯",
+          "citation": "《華陽國志》卷十·四部叢刊本（王溫傳中追述曹操迎帝都許）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-zhang-ze-appointment",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 82,
+          "from": "相曺公拜度遼將軍",
+          "through": "相曺公拜度遼將軍",
+          "citation": "《華陽國志》卷十·四部叢刊本（張則傳稱曹公授其度遼將軍）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-succession-rhetoric",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 21,
+          "from": "禮儀擇令辰費詩上䟽曰",
+          "through": "將以討賊",
+          "citation": "《華陽國志》卷六·四部叢刊本（費詩反對劉備稱王的奏疏）",
+          "display": false
+        },
+        {
+          "id": "cao-hygz-changban-redcliff",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 10,
+          "from": "曹公軍至何以禦之",
+          "through": "公引軍北歸先",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-jianan-20-hanzhong",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 6,
+          "context": "二十年",
+          "from": "魏武帝西征魯",
+          "through": "魏武以巴夷王杜濩朴胡袁約為三",
+          "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-hanzhong-return",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 15,
+          "from": "魯已北降曹公",
+          "through": "公東還",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-machao-remnant",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 25,
+          "from": "孟德所誅略盡",
+          "through": "岱官至平北將",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-retrospective-assessment",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 27,
+          "from": "魏武神武幹略",
+          "through": "才命世孰克如之",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "cao-hygz-ba-tribes-retrospective",
+          "work": "huayang",
+          "source": "a06-009",
+          "paragraph": 0,
+          "from": "魏武定漢中",
+          "through": "于略陽北土復号曰巴人",
+          "citation": "《華陽國志》卷九·四部叢刊本"
+        },
+        {
+          "id": "cao-jin-sima-yi-appointed",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 1,
+          "from": "魏武帝爲司空，聞而辟之",
+          "through": "帝懼而就職。",
+          "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "cao-jin-death-sima-yi",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 7,
+          "from": "及魏武薨于洛陽",
+          "through": "奉梓宮還鄴。",
+          "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "cao-jin-sima-yi-strategy",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 2,
+          "from": "從討張魯，言於魏武曰",
+          "through": "以服事之。",
+          "citation": "《晉書》卷一·宣帝紀（司馬懿傳記中的對話與追述）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-agriculture-advice",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 4,
+          "from": "遷爲軍司馬",
+          "through": "魏武不之察。",
+          "citation": "《晉書》卷一·宣帝紀（司馬懿陳屯田及邊郡用人意見）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-capital-advice",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 5,
+          "from": "魏武以爲近賊，欲徙河北。",
+          "through": "魏武從之。",
+          "citation": "《晉書》卷一·宣帝紀（曹操欲徙都及採納司馬懿建議）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-jingzhou-settlers",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 6,
+          "from": "魏武以荊州遺黎",
+          "through": "悉復業。",
+          "citation": "《晉書》卷一·宣帝紀（曹操徙民意圖及司馬懿諫止）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-sima-yi-wolf-gaze",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 72,
+          "from": "魏武察帝有雄豪志",
+          "through": "由是魏武意遂安。",
+          "citation": "《晉書》卷一·宣帝紀（司馬懿相貌與三馬夢的追述傳聞）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-office-record",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 6,
+          "from": "獻帝建安元年拜曹操爲鎮東將軍",
+          "through": "封費亭侯。",
+          "citation": "《晉書》卷十四·地理志"
+        },
+        {
+          "id": "cao-jin-ye-fief",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 29,
+          "from": "鄴魏武受封居此",
+          "through": "鄴魏武受封居此",
+          "citation": "《晉書》卷十四·地理志（鄴縣沿革追述）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-chenliu-country",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 34,
+          "from": "陳留國漢置。",
+          "through": "魏武帝封。",
+          "citation": "《晉書》卷十四·地理志（陳留國沿革；封授對象須另核）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-qiao-commandery",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 51,
+          "from": "魏武分沛立譙郡",
+          "through": "魏武分沛立譙郡",
+          "citation": "《晉書》卷十四·地理志（沛郡沿革）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-prognostic-reference",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 214,
+          "from": "漢平帝、獻帝並有此異",
+          "through": "王莽、曹操之徵。",
+          "citation": "《晉書》卷二十九·五行志"
+        },
+        {
+          "id": "cao-jin-later-appeal",
+          "work": "jinshu",
+          "source": "a05-101-ahcb",
+          "paragraph": 13,
+          "from": "董卓因之肆其猖勃",
+          "through": "曹操父子凶逆相尋。",
+          "citation": "《晉書》卷一百一·載記第一"
+        }
+      ],
+      "conclusions": {
+        "birth": {
+          "year": 155,
+          "precision": "inferred",
+          "preferredSource": "sanguozhi",
+          "evidence": [
+            "cao-sg-age20",
+            "cao-sg-death"
+          ],
+          "variants": [],
+          "note": "《三國志》載卒時年六十六，按傳統虛歲以220-66+1倒推約155年；非原文明載，出生月日未詳。"
+        },
+        "death": {
+          "year": 220,
+          "precision": "exact-year",
+          "preferredSource": "sanguozhi",
+          "evidence": [
+            "cao-sg-death",
+            "cao-hhs-death-wei-quote"
+          ],
+          "variants": [],
+          "note": "《三國志》明載二十五年正月庚子卒於洛陽；《後漢書》同年齡句明引《魏志》，作旁證而非獨立來源。"
+        },
+        "firstActivity": {
+          "year": 174,
+          "precision": "inferred",
+          "evidence": [
+            "cao-sg-age20",
+            "cao-sg-death"
+          ],
+          "note": "以約155年生年與年二十舉孝廉倒推；《三國志》正文未為此事繫公元年，不作明載。"
+        },
+        "primaryFaction": {
+          "faction": "caocao",
+          "earliestAttested": 189,
+          "lastAttested": 220,
+          "startUnknown": false,
+          "evidence": [
+            "cao-sg-militia-start",
+            "cao-sg-death"
+          ],
+          "note": "中平六年十二月起義兵，以曹操本部為主勢力，延至本人220年卒；漢廷官爵另列，220年前不倒推為曹魏帝位。"
+        },
+        "offices": [
+          {
+            "appliedTitle": "騎都尉",
+            "evidence": [
+              "cao-sg-early-offices"
+            ]
+          },
+          {
+            "appliedTitle": "濟南相",
+            "evidence": [
+              "cao-sg-early-offices"
+            ]
+          },
+          {
+            "appliedTitle": "議郎",
+            "evidence": [
+              "cao-sg-age20"
+            ]
+          },
+          {
+            "appliedTitle": "典軍校尉",
+            "evidence": [
+              "cao-sg-typical-colonel"
+            ]
+          },
+          {
+            "appliedTitle": "驍騎校尉",
+            "evidence": [
+              "cao-sg-dongzhuo-appointment"
+            ]
+          },
+          {
+            "appliedTitle": "東郡太守（徵還）",
+            "evidence": [
+              "cao-sg-east-commandery-declined"
+            ],
+            "note": "本傳此一徵授明言不就任。"
+          },
+          {
+            "appliedTitle": "東郡太守",
+            "evidence": [
+              "cao-sg-east-commandery-appointed"
+            ]
+          },
+          {
+            "appliedTitle": "鎮東將軍、費亭侯",
+            "evidence": [
+              "cao-sg-zhendong-office",
+              "cao-jin-office-record"
+            ]
+          },
+          {
+            "appliedTitle": "司空、行車騎將軍",
+            "evidence": [
+              "cao-hhs-sikong-office"
+            ],
+            "note": "《後漢書·孝獻帝紀》繫於建安元年冬；與本紀此前所載鎮東將軍、領司隸校尉分段保存。"
+          },
+          {
+            "appliedTitle": "丞相",
+            "evidence": [
+              "cao-hhs-prime-minister",
+              "cao-hhs-prime-minister-xu-qiu"
+            ],
+            "note": "《後漢書》本紀繫於建安十三年；徐璆傳另載奉使拜曹操為丞相，曹操讓位於徐璆。與《三國志》武帝紀所載授印綬互證，授官程序以後者為主。"
+          },
+          {
+            "appliedTitle": "魏公",
+            "evidence": [
+              "cao-hhs-wei-duke"
+            ],
+            "note": "建安十八年漢末封公，記作漢廷名義爵位，不倒置為魏帝位。"
+          },
+          {
+            "appliedTitle": "魏王",
+            "evidence": [
+              "cao-hhs-wei-king"
+            ],
+            "note": "建安二十一年進號漢末魏王，與220年後曹魏皇帝身分分開。"
+          }
+        ]
+      },
+      "unresolved": [
+        "出生155年為依《三國志》卒年與享年推算；生日與虛歲切換月未載，顯示為推定。",
+        "《三國志》與裴注在董卓授驍騎校尉後是否拒拜、呂伯奢案及中牟釋曹細節層級不同，須逐條分層；中牟功曹無名，不能指為陳宮。",
+        "字面姓名搜尋歸併169段（來源原始命中273處）。《後漢書》本紀卷九建安紀年、卷八校尉記載已定位；卷七十四上、下《袁紹傳》《袁譚傳》《劉表傳》已核曹操參與起兵、拒殺張邈、與呂布交戰、黎陽／鄴／南皮戰事、征高幹及烏桓、與劉表往來及劉琮歸降等段落。袁紹檄文稱曹嵩「乞匄攜養」屬敵方攻訐，不能當中立家世證據；裴注家世異說按引書分列。卷四十八《楊震列傳》已核曹操辟珣子㻛為丞相掾（記他人授官）、魏武與袁術議傳國璽的故事及徐璆奉使拜丞相一段；同卷「曹公孫會」已排除為春秋曹國人物。卷七十《孔融傳》《荀彧傳》已核曹操與孔融通信及孔融案的後出敘事，並核初平二年荀彧去紹從操、兖州危局建議與荀彧反對九錫；他傳、書信及追述不代替《三國志》本紀繫年。其餘本紀事件及大量列傳、志、引書提及仍待逐段排除政治修辭、同名與旁涉。",
+        "《華陽國志》卷二、五、六、九、十的曹公／魏武等命中已逐段判明為軍事行動、蜀方奏議、後世評語或旁涉；已保留事件繫年及無標點頁塊原字形。仍須檢看各段完整上下文並交叉四書，尤其孟德、曺公等異體稱名及非本人行狀的追述不能混作生卒或持續任職證據。",
+        "《晉書》卷一《宣帝紀》涉及曹操辟司馬懿、用兵、屯田、徙都／徙民建議及薨後治喪；對話和動機屬司馬氏傳記中的追述，僅作交叉證據，未以之改動《三國志》生卒主值。卷十四《地理志》記鎮東將軍、費亭侯；卷二十九是讖緯附會，卷一百一是後世政治評語。全書其餘魏武、曹公、孟德等提及和異名同詞仍待逐段排除他人、套語與回顧性材料。",
+        "《後漢書》卷七十五《呂布傳》於「建安二年」敘曹操自將攻下邳；《三國志》武帝紀明標「三年」，《華陽國志》卷六亦作「三年」。先保存此編年異說，曹操相關戰事主繫年依陳壽正文，未把後兩書說法混入生卒或勢力起訖。",
+        "《後漢書》卷五十四《楊彪傳》卷三十七段把建安元年的曹操稱為「兖州刺史」；《三國志·武帝紀》所載迎領兖州牧在前，且《後漢書·獻帝紀》建安元年稱其為鎮東將軍並自領司隸校尉。此官號與年份衝突先存異，不作曹操主官歷依據。卷五十四卷三十九所引《典略》《續漢書》對楊修被殺緣由分層記錄，未合併為單一動機。",
+        "《後漢書》卷九建安元年段另載冬十一月丙戌曹操自為司空、行車騎將軍事，與鎮東將軍、領司隸校尉分段保存；卷六十四《盧植傳》《趙岐傳》另有曹操北征柳城、勸袁紹等罷兵及舉趙岐代司空的他傳追述，未據敘事次序推定無明載的年份。",
+        "《後漢書》卷六十八另有魏武製幍的服制追述、邊讓因輕侮曹操而被殺的敘事，以及曹操微時請許劭品題的傳聞；均已定位，未據傳聞推定曹操的生年或任官年份。",
+        "《後漢書》卷六十七《黨錮列傳》兩則曹操早年評語已按傳主分別定位：李膺家人所述微時受識與何顒稱許，均為無年齡、無紀年的他傳逸聞，只保留為人物交往記錄，不作生年或任官依據。",
+        "《後漢書》卷六十九《竇武傳》另記曹操定荊州後竇武之孫輔與宗人徙鄴、辟入丞相府並從征馬超；此屬曹操用人與部屬履歷，不挪作曹操本人生卒或任職資料。",
+        "《後漢書》卷七十二、七十三的直接曹操提及已定位：董承召曹操迎帝遷許、張楊部將應曹、曹操破馬超韓遂、鮮于輔和張燕歸曹、征陶謙及陶謙死後再擊等；其中招降與任官涉及他人履歷，陶謙傳的屠戮記載屬來源敘述，不用來推導無據的連續任職年代。",
+        "《後漢書》卷五十八《臧洪傳》另記曹操圍張超於雍丘，與《三國志·武帝紀》雍丘戰事可互核；該傳本段無明載年，按本紀繫年，不由敘事順序推算。卷五十八另一命中「曹公」為春秋曹國公子臧，已列同名排除。",
+        "《後漢書》卷十下《皇后紀》另核獻帝與曹操對答、伏皇后幽崩細節，以及建安十八年曹操進三女入後宮、曹節為其女的記載；分屬政治敘事與親屬來源，不據此改曹操的生卒或加長統屬時段。",
+        "《後漢書》卷八十二下《方術列傳》三處涉及曹操：華佗治頭風、左慈宴席神異故事及曹操命孟節領諸方士。前兩者依本傳異聞保存，不推定曹操卒因、具體生年或實際政治任職；方士任命只記為他傳所載。",
+        "《後漢書》卷八十四《蔡琰傳》另記曹操遣使贖蔡琰、赦董祀並命人謄寫其所憶文籍；屬其傳記中的救助與文化事蹟，不據此推導曹操官職、勢力起訖或生卒。",
+        "《後漢書》卷八十九《南匈奴列傳》記建安二十一年曹操留單于呼廚泉於鄴、遣去卑監五部；同卷論贊再批評魏武分五部的長期後果。前者作他傳的政策記載，後者屬後出政治評價，不以後見之明延伸曹操的勢力或個人事實。",
+        "《後漢書》卷九十·烏桓鮮卑列傳另記曹操平河北後任用閻柔及建安十二年親征烏桓、於柳城破蹋頓。此傳與《三國志》紀年互核；未將該傳後接的「首虜二十餘萬」數字移入曹操本紀結論。",
+        "《後漢書》志第五《禮儀中》引《魏書》，記建安二十一年曹公親耕藉田及有司請以立秋大朝車騎講武、號曰治兵；屬制度與軍事儀禮旁證，原文保持引書層級。"
+      ]
+    }
+  ]
+}

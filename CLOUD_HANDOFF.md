@@ -1,43 +1,44 @@
-# Dots云端接续与仓库发布
+# Cloudflare 仓库发布交接
 
-## 云端完成记录（2026-10-05）
+## 当前配置
 
-指定已发布 Codex Cloud 环境已完成原有121个pending，分16批，每批最多8人。现有290张个性头像及3份匿名轮廓素材，pending=0；原先172个已完成条目与素材均保留。全部新增头像已通过main推送触发既有Cloudflare自动发布，并在 https://sanguo.720108.xyz/ 验证身份映射、120×120尺寸、文件一致性、出处和艺术示意说明。构建与数据检查通过，卫星配置保留。
+生产站点通过 GitHub 仓库连接的 Cloudflare Workers Builds 发布。现有资源继续使用：
 
-最后素材提交 `ad962b9a2b0fa9385c5335ea1ec841db5c541a4f`，Cloudflare成功构建 `5e8c5f2b-d61d-474c-b2d9-9ff53dfa1355`；全量新增素材验证证据见 `data/portrait-cloud-completion.json`。元数据提交会再次触发构建，不追赶版本UUID。
+| 项目 | 当前值 |
+| --- | --- |
+| GitHub 仓库 | https://github.com/tianyi092-jcza/sanguo |
+| 生产分支 | `main` |
+| Worker | `sanguo-chronicle` |
+| 自定义域名 | https://sanguo.720108.xyz/ |
+| 构建命令 | `npm run build:cloud` |
+| 部署命令 | `npx wrangler deploy`，只在 Cloudflare 构建环境执行 |
 
-按AGENTS.md的pending清零停止条件，云端续作已停止；本地定时任务仍PAUSED。另181人继续保持待逐人画像适用性复核状态，未自动增补pending，也未当作资料不足或全员完成。下方原始交接数量仅为开始时快照，当前状态以画像计划及批次记录为准。
+Worker、账号、域名和当前验证版本记录在 [deployment.json](deployment.json) 与 [wrangler.jsonc](wrangler.jsonc)。构建参数必须匹配这两个文件中的既有配置，不要创建替代 Worker 或域名。
 
-项目是Node.js静态历史资料浏览器。依赖安装：`npm ci`；本地或云端验证：`npm run build`、`npm run check`。不需要数据库。
+## 发布工作流
 
-## 当前状态
+1. 修改源码和数据，在本地运行 `npm run build` 与 `npm run check`。
+2. 核对 `git diff` 和待提交文件，排除密钥、本地凭据及忽略的构建产物。
+3. 用户要求推送后，提交并推送 `main`。推送会触发 Cloudflare 生产发布。
+4. 等待 Cloudflare Workers Builds 成功，再检查正式域名上的实际改动。
+5. 只有生产验证成功后才更新 `deployment.json` 的验证版本和状态。
 
-471人均有实际势力标签，379人新增逐条复核，72人有汉末官爵及授官者；汉廷在位标记保留至220年。陈寿评曰65卷已分离裴注核对。头像完成状态以data/portrait-plan.json为准，未发布批次以data/portrait-batch-state.json为准。不得重复生成已完成头像。
+推送 `main` 是生产发布动作；不得为了绕过仓库构建而在开发机上执行 `wrangler deploy`。GitHub Actions 的 `.github/workflows/verify.yml` 只运行构建和数据验证，不是另一条部署链。
 
-源码、史料、素材和接续进度已推送 https://github.com/tianyi092-jcza/sanguo 的main分支，GitHub构建及数据检查通过。可以从仓库直接克隆接续；源码包仅为备用。Cloudflare自动生产发布已通过提交0ad5008、构建110a72ff-b504-4da3-a33b-1bb2a09fccc3验证成功，正式网站本批8张画像验证通过，原卫星配置保留。
+## 构建设置与地图
 
-## Cloudflare仓库连接
+Workers Builds 使用 Node.js 22、仓库根目录。构建命令为 `npm run build:cloud`；该命令先检查 Worker、账号、域名和地图密钥配置，再执行 `npm run build` 与 `npm run check`。
 
-继续使用deployment.json和wrangler.jsonc中的账号、Worker与域名。在现有Worker的Settings → Builds中连接GitHub的sanguo仓库：
+Cloudflare 构建环境必须保留 secret `GOOGLE_MAPS_API_KEY`。语言和区域变量为 `GOOGLE_MAPS_LANGUAGE=zh-TW` 与 `GOOGLE_MAPS_REGION=CN`。地图密钥不得写入仓库、源码、聊天或普通日志，也不要删除现有 secret；缺少密钥时构建会停止，以免破坏已验证的卫星地图。
 
-- 生产分支：main
-- 根目录：仓库根目录
-- Node版本：22
-- 构建命令：npm run build:cloud
-- 部署命令：npx wrangler deploy（Cloudflare构建服务内运行）
-- 构建secret：GOOGLE_MAPS_API_KEY，使用已有受限制的浏览器端Map Tiles API Key
-- 普通构建变量：GOOGLE_MAPS_LANGUAGE=zh-TW、GOOGLE_MAPS_REGION=CN
+本地浏览器配置文件 `maps.config.local.json` 已加入 `.gitignore`。若本地预览需要地图密钥，只在该忽略文件或进程环境中配置，不覆盖已有密钥。应用使用 Map Tiles API 卫星图块；不要加入道路、现代地名或其他图层。
 
-Cloudflare可为Workers Builds生成托管构建令牌。仓库推送后由Cloudflare执行发布；GitHub Actions只作验证，不再添加第二条重复生产部署链路。先完成真实推送和正式域名验证，再确认自动发布已经接通。
+## 验证记录
 
-上述连接已经配置并验证，不需重复连接。若某个本地OAuth无法读取Builds管理API，不代表现有仓库构建失效；生产发布以仓库检查与正式网站实证为准。部署版本记录表示最后一次已验证版本，元数据提交会再触发构建，不需为了追赶每个新版本UUID反复提交。
+`deployment.json` 记录的当前已验证仓库部署版本是 `49a2f915-e169-47b7-a8da-a64bf59d2650`，验证提交为 `92749334312cfd294f4eab6fce42494971aee76e`，Cloudflare 构建 ID 为 `1dbb0f9f-f4a1-4bef-9a24-2db8c107484f`。后续源代码推送会产生新构建；这些历史值仅代表上一轮成功验收，不能代替新版本的正式网址验证。
 
-## Dots / Codex Cloud
+源码压缩包仅作备用。完整史料语料已缓存并由 `data/source-corpus-manifest.json` 校验；克隆仓库后应运行 `npm ci`，不要重复下载或覆盖已经缓存的底本。
 
-在Work in → Cloud创建环境，选择sanguo仓库，让Codex安装Node22和npm依赖并运行构建、数据检查。发布环境后由Dots从该环境接续。画像仍使用平台内置imagegen；此功能及授权须在新环境实际验证，不能改用付费API代替。
+## 当前续作状态
 
-把用户现有画像要求交给Dots：每批最多8个pending，先读原文辨人、核性别职业及外貌，保存完整提示词，导入120×120WebP、检查后提交推送main，等待仓库构建和正式网址验证。普通批次安静，全部pending完成并上线后停止续作。
-
-本地电脑的地图密钥、GitHub/Cloudflare登录不会随代码自动迁移；在相应云端设置中配置授权和构建secret，不上传登录缓存。根目录生成HTML和dist包含浏览器配置，已排除Git；由云端从源码重建。
-
-用户已要求先停止本地头像定时生成，该续作现已暂停，不要自动恢复。由Dots在云端接续后，按仓库状态处理未发布批次，再继续pending人物，避免两端同时生成同一人物。
+截至 2026-10-06，Dots/Codex Cloud 头像续作已停止，头像自动任务处于暂停状态，待生成数量为零。人物资料二次复核是另一项本地任务：张邈已完成，曹操仍为 pilot；用户也已暂停该复核定时任务。不要从旧的云端接续说明自动恢复或另建定时任务。

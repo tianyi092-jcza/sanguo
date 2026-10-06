@@ -1,6 +1,6 @@
 # 三国项目执行约定
 
-本项目以《三国志》及裴松之注为中心，保留可追溯原文。先读 README.md、deployment.json、data/portrait-plan.json、data/portrait-batch-state.json 和相关 data/sources 原文。
+本项目以《三国志》及裴松之注为中心，保留可追溯原文。入手先读 README.md、DEVELOPMENT.md、deployment.json、data/portrait-plan.json、data/portrait-batch-state.json 和本项涉及的 data/sources 原文。人物逐人复核另遵循 PERSON_SECOND_REVIEW.md。
 
 ## 史料和画像
 
@@ -19,8 +19,17 @@
 - 密钥和本地登录凭据不提交。地图密钥通过云端构建secret GOOGLE_MAPS_API_KEY配置，不能在接续时清空已经启用的卫星功能。
 - 提交代码和素材后推送main，等待云端构建成功，验证正式网址上的新画像后再将发布状态记为verified。
 - 上一批已经生成而尚未验证发布时，先完成该批发布，不再开启新批或重复生图。
-- 用户于2026-10-06要求停止Dots云端开发，改回本地E:\sanguo每5分钟续作。原有121个pending已完成上线；继续逐人复核181名旧候选名单未收录者，证据充分者加入pending，每批最多8人，不替换既有头像。云端续作保持停止。
+- 截至2026-10-06，原有121张头像已完成并验证上线，Dots云端续作已停止；头像计划无pending，本地头像自动任务为PAUSED。181名旧候选名单外人物另有逐人适用性复核，不应因旧名单遗漏直接补头像。二次资料复核是独立工作，张邈complete、曹操pilot、469人未开始；用户已要求暂停其定时任务。状态见data/portrait-batch-state.json、data/portrait-plan.json及data/person-second-review.json。不要自动恢复任一暂停任务。
+- 向GitHub main推送会触发生产发布。只有用户明确要求推送时才提交推送；推送前先检查变更和测试结果。当前已有的发布授权只适用于当前请求明确包含的文件。
 - 普通自动批次保持安静；仅在全部完成、失败或需要用户操作时报告。全部pending处理并验证上线后停止“补齐三国人物头像”续作。
+
+## 开发文档
+
+- README.md：项目概览、快速开始和当前状态。
+- DEVELOPMENT.md：应用结构、数据文件、构建检查、史料语料和工作流。
+- PERSON_SECOND_REVIEW.md：逐人史料复核方法。
+- CLOUD_HANDOFF.md：现有Cloudflare Workers Builds生产发布约定。
+- DOTS_START.md：已归档的历史云端交接记录，不作为当前运行指令。
 
 ## 索引
 

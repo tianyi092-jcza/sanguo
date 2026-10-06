@@ -5,9 +5,17 @@ const tlViewport=document.getElementById('timelineViewport');
 const tlRows=document.getElementById('timelineRows');
 const historyOf=p=>HISTORY.people[p.id]||{first:null,segments:[],unplaced:[]};
 const affiliationsOf=h=>h.affiliations||[...h.segments,...(h.unplaced||[])];
-const relationText={family:'家族',royal:'宗室',guest:'賓客',doctor:'召醫',invited:'受邀未明就任',coerced:'被迫隨行',allied:'軍事合作',asylum:'避難依附'};
+const relationText={leader:'自領',family:'家族',royal:'宗室',guest:'賓客',doctor:'召醫',invited:'受邀未明就任',coerced:'被迫隨行',allied:'軍事合作',asylum:'避難依附'};
 const affiliationLabel=a=>(a.label||factionInfo(a.faction).label)+(relationText[a.relation]?'·'+relationText[a.relation]:'');
-function affiliationSummary(h){const labels=affiliationsOf(h).map(affiliationLabel).filter((s,i,a)=>i===0||s!==a[i-1]);return labels.join(' → ')||'歸屬不詳';}
+function affiliationSummary(h){
+  const review=h.secondReview?.conclusions;
+  if(review?.primaryFaction){
+    const main=factionInfo(review.primaryFaction.faction).label+'·自領';
+    const allies=(review.relationships||[]).filter(x=>x.relation==='allied').map(x=>factionInfo(x.faction).label);
+    return main+(allies.length?'；合作：'+allies.join('、'):'');
+  }
+  const labels=affiliationsOf(h).map(affiliationLabel).filter((s,i,a)=>i===0||s!==a[i-1]);return labels.join(' → ')||'歸屬不詳';
+}
 function officeSummary(h){return (h.hanOffices||[]).map(o=>(o.kind==='lord'?'漢末·'+o.issuer:'東漢')+'：'+o.title).join('；');}
 const timelineX=y=>TL_PAD+(y-TL_START)*timelineState.scale;
 const timelineWidth=()=>TL_PAD*2+TL_SPAN*timelineState.scale;
@@ -42,7 +50,9 @@ function updateTimelineRows(){
     if(h.outside)return false;
     const factions=affiliationsOf(h).map(affiliationLabel);
     if(q&&!normalizeSearch(p.n+' '+(p.z||'')+' '+factions.join(' ')).includes(q))return false;
-    if(timelineState.faction!=='all'&&!affiliationsOf(h).some(s=>s.faction===timelineState.faction))return false;
+    if(timelineState.faction!=='all'&&(h.secondReview?.conclusions?.primaryFaction
+      ?h.secondReview.conclusions.primaryFaction.faction!==timelineState.faction
+      :!affiliationsOf(h).some(s=>s.faction===timelineState.faction)))return false;
     if(timelineState.evidence==='dated'&&!h.segments.length)return false;
     if(timelineState.evidence==='unknown'&&h.first)return false;
     if(timelineState.evidence==='lifespan'&&!(h.birth&&h.death))return false;
@@ -61,9 +71,9 @@ function updateTimelineRows(){
 function clearMountedRows(){timelineState.mounted.clear();tlRows.replaceChildren();}
 function createTimelineRow(p,index){
   const h=historyOf(p),row=document.createElement('div');row.className='timeline-row';row.dataset.id=p.id;row.setAttribute('role','listitem');
-  const affiliation=affiliationSummary(h),offices=officeSummary(h);
-  const name=document.createElement('button');name.type='button';name.className='person-name';name.title=lifeLabel(p)+' · '+affiliation+(offices?'（'+offices+'）':'');name.setAttribute('aria-label',`${p.n}，${lifeLabel(p)}，${affiliation}，${offices}，查看人物`);
-  name.innerHTML=`<span class="person-number">${String(index+1).padStart(3,'0')}</span><span class="person-label"><div><b>${esc(p.n)}</b><span class="courtesy">${esc(p.z||'')}</span></div><small>${esc(lifeLabel(p))}</small></span>`;
+  const life=lifeLabel(p);
+  const name=document.createElement('button');name.type='button';name.className='person-name';name.title=life;name.setAttribute('aria-label',`${p.n}，${life}，查看人物`);
+  name.innerHTML=`<span class="person-number">${String(index+1).padStart(3,'0')}</span><span class="person-label"><div><b>${esc(p.n)}</b><span class="courtesy">${esc(p.z||'')}</span></div><small>${esc(life)}</small></span>`;
   name.onclick=()=>openPerson(p);row.append(name);
   const track=document.createElement('div');track.className='row-track';track.style.width=timelineWidth()+'px';
   const step=timelineState.scale<14?5:timelineState.scale<36?2:1;

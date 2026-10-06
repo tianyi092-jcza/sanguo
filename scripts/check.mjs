@@ -5,6 +5,7 @@ import sharp from 'sharp';
 import {normalize,traditional} from './history.mjs';
 import {checkAppraisals} from './check-appraisals.mjs';
 import {checkAffiliations} from './check-affiliations.mjs';
+import {checkSourceCorpus} from './check-source-corpus.mjs';
 const history=JSON.parse(fs.readFileSync('data/history.json','utf8'));
 assert.deepEqual(history.range,{start:184,end:280});
 let periods=0,points=0;
@@ -34,7 +35,16 @@ assert(calendarContext.ERA_CALENDAR.changes[220].includes('延康'));
 const data=JSON.parse(js.match(/^const DATA=(.*);$/m)[1]);
 const appraisalChecks=checkAppraisals(data,history,normalize,traditional);
 const affiliationChecks=checkAffiliations(data,history,normalize);
+const sourceCorpusChecks=checkSourceCorpus(history);
 const byName=name=>{const p=data.per.find(p=>normalize(p.n)===normalize(name));assert(p,'Missing person '+name);return history.people[p.id];};
+const zhangMiao=byName('張邈'),dianWei=byName('典韋');
+const zhangBand=zhangMiao.segments.find(s=>s.faction==='zhangmiao'&&!s.point);
+const dianBand=dianWei.segments.find(s=>s.faction==='zhangmiao'&&!s.point);
+assert(zhangBand&&dianBand&&zhangBand.start<=dianBand.start&&zhangBand.end>dianBand.end,'Zhang Miao must cover Dian Wei service and outlast it');
+assert.equal(zhangMiao.death,195);
+assert(zhangMiao.affiliations.some(a=>a.faction==='caocao'&&a.relation==='allied'));
+assert(zhangMiao.affiliations.some(a=>a.faction==='lvbu'&&a.relation==='allied'));
+assert.deepEqual([...new Set(zhangMiao.sourceExcerpts.map(x=>x.work))],['sanguozhi','peizhu','houhanshu']);
 for(const [name,affiliations,death] of [['王允',['han'],192],['顏良',['yuanshao'],200],['文醜',['yuanshao'],200],['孔融',['kongrong','han'],208],['鮑信',['baoxin'],192],['楊奉',['baibo','licui','yangfeng','yuanshu'],197]]){
  const p=byName(name);assert.equal(p.death,death,name+' death year');
  for(const faction of affiliations)assert(p.segments.some(s=>s.faction===faction),name+' lost known affiliation '+faction);
@@ -46,4 +56,4 @@ for(const symbol of ['renderTL','gotoPerson','gotoYear','positionTimelineTooltip
 assert(!js.includes('for(let y=150;y<=286;y++)'));
 const plan=JSON.parse(fs.readFileSync('data/portrait-plan.json','utf8'));
 let avatars=0;for(const p of plan.filter(p=>p.status==='generated')){const info=await sharp('assets/portraits/'+p.file).metadata();assert.equal(info.width,120);assert.equal(info.height,120);if(!p.anonymous){const person=data.per.find(x=>x.id===p.id);assert(person&&normalize(person.n)===normalize(p.name),'Portrait assigned to wrong person: '+p.id);}avatars++;}
-console.log(JSON.stringify({people:Object.keys(history.people).length,periods,datedMentions:points,avatars,syntax:'passed',sourceAndRangeChecks:'passed',affiliations:affiliationChecks,appraisals:appraisalChecks},null,2));
+console.log(JSON.stringify({people:Object.keys(history.people).length,periods,datedMentions:points,avatars,syntax:'passed',sourceAndRangeChecks:'passed',sourceCorpus:sourceCorpusChecks,affiliations:affiliationChecks,appraisals:appraisalChecks},null,2));

@@ -6,7 +6,8 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "build:cloud": "node scripts/check-cloud-config.mjs && npm run build && npm run check",
-    "check": "node scripts/check.mjs"
+    "check": "node scripts/check.mjs",
+    "review:progress": "node scripts/review-progress.mjs"
   },
   "devDependencies": {
     "opencc-js": "1.0.5",

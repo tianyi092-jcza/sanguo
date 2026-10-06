@@ -1731,16 +1731,6 @@
     "reviewed": true,
     "affiliations": [
       {
-        "faction": "han",
-        "source": "a04-007",
-        "paragraph": 6,
-        "query": "遷陳留太守",
-        "quote": "辟公府，以高第拜騎都尉，遷陳留太守。",
-        "precision": "unknown",
-        "affiliationCertainty": "exact",
-        "note": "史料可確認此階段的統屬；任職完整起訖尚未繫年，不繪製推測的連續色帶。"
-      },
-      {
         "faction": "zhangmiao",
         "source": "a04-007",
         "paragraph": 6,
@@ -1748,7 +1738,17 @@
         "quote": "汴水之戰，邈遣衞茲將兵隨太祖。",
         "precision": "unknown",
         "affiliationCertainty": "exact",
-        "note": "史料可確認此階段的統屬；任職完整起訖尚未繫年，不繪製推測的連續色帶。"
+        "note": "張邈自行遣將、保有本部兵眾；漢廷所授太守職另記於漢末官爵，不據官號改寫主勢力。"
+      },
+      {
+        "faction": "caocao",
+        "source": "a04-007",
+        "paragraph": 6,
+        "query": "太祖與邈首舉義兵",
+        "quote": "太祖與邈首舉義兵。汴水之戰，邈遣衞茲將兵隨太祖。",
+        "precision": "unknown",
+        "affiliationCertainty": "exact",
+        "note": "與曹操共同起兵並遣將協戰，屬合作，未明載張邈改隸曹操。"
       },
       {
         "faction": "lvbu",
@@ -1758,10 +1758,10 @@
         "quote": "太祖初使宮將兵留屯東郡，遂以其衆東迎布為兖州牧，據濮陽。",
         "precision": "unknown",
         "affiliationCertainty": "exact",
-        "note": "史料可確認此階段的統屬；任職完整起訖尚未繫年，不繪製推測的連續色帶。"
+        "note": "194年共同迎呂布，195年本傳記張邈從布；關係與張邈自領勢力並存，不改寫主勢力。"
       }
     ],
-    "note": "張邈自領陳留，先與曹操合作，後迎呂布，不因結盟就把早期主標籤直接改曹操。"
+    "note": "張邈自領陳留兵眾至195年，與曹操、呂布的合作另列；漢廷太守官職與實際軍事勢力分開。"
   },
   {
     "id": "p0092",

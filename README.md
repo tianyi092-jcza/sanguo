@@ -2,6 +2,17 @@
 
 以《三国志》及裴松之注为中心的静态历史资料浏览器。界面使用繁体中文，搜索兼容简体、繁体。时间轴限定为史书纪年184—280年，人物以目前已核资料的首次可考活动排序。
 
+## 文档入口
+
+- [开发与维护手册](DEVELOPMENT.md)：项目结构、数据流程、验证及部署
+- [人物二次复核方法](PERSON_SECOND_REVIEW.md)：逐人史料核查规范
+- [Cloudflare 仓库发布交接](CLOUD_HANDOFF.md)：生产构建与地图配置
+- [Dots 历史交接记录](DOTS_START.md)：已归档的旧交接说明
+
+## 当前维护状态
+
+截至 2026-10-06，逐人复核完成 1/471（张邈）；曹操仍为 `pilot`，其余 469 人未开始。用户已暂停二次复核定时任务；头像任务也处于暂停状态，`data/portrait-batch-state.json` 显示 `pending=0`，Dots 云端续作已停止。恢复任何自动任务须等用户明确要求。
+
 ## 本地构建
 
 需要 Node.js 22 或更新版本。
@@ -70,7 +81,9 @@ Google 影像按 WGS-84 / Web Mercator 定位，不叠加高德的 GCJ-02 偏移
 | `data/factions.json` | 势力名称和配色 |
 | `data/affiliation-review.json` | 379人逐条复核的实际统属、原文锚点与同名辨析；补充既有92人的考据 |
 | `data/affiliation-metadata.json` | 家族、召医、合作等关系，以及与实际势力分列的汉末官爵和授官者 |
+| `data/person-second-review.json`、`PERSON_SECOND_REVIEW.md` | 逐人二次复核进度、五类史料原文定位、交叉判断与未解问题；试核不等于全员完成 |
 | `data/sources/` | 史书电子文本缓存，含 URL、读取日期和摘要哈希 |
+| `data/source-corpus-manifest.json` | 四书语料的卷目覆盖、底本、来源与缓存校验值 |
 | `data/history.json` | 构建生成的可追溯史料模型 |
 | `data/portrait-plan.json` | 头像名单、性别、参考史料、生成状态和最终提示词 |
 | `data/appraisal-sources/`、`data/appraisal-rules.json` | 《三国志》65卷的陈寿评曰正文、裴注分离证据与人物分段对应规则 |
@@ -80,6 +93,8 @@ Google 影像按 WGS-84 / Web Mercator 定位，不叠加高德的 GCJ-02 偏移
 | `src/history-ui.js` | 人物、统属证据与事件弹窗 |
 | `src/google-satellite.js`、`src/google-satellite.css` | Google 卫星底图、坐标处理及加载状态 |
 | `maps.config.example.json`、`scripts/map-config.mjs` | Google 浏览器端 Key 的配置示例与构建读取 |
+
+四书完整语料已缓存在 `data/sources/`，卷目、版本、网址和哈希登记于 `data/source-corpus-manifest.json`。`npm run check` 会核对所有卷目、来源元数据及缓存校验值。只有清单明确显示缺卷时才使用 `python scripts/fetch-complete-corpus.py` 或 `python scripts/fetch-ahcb-corpora.py` 补齐；不要为刷新而重下或覆盖既有底本。原文缓存不放入运行时模型上下文。引用仍须逐人确认底本、正文／注文层级、同名和上下文；字面命中不等于史实结论。
 
 ## 史料处理规则
 
@@ -97,16 +112,12 @@ Google 影像按 WGS-84 / Web Mercator 定位，不叠加高德的 GCJ-02 偏移
 
 当前版本为可用预览，部分人物仍只有年代点位或待考条目，不能称为全员履历已完成校勘。请查看页面凡例与 `output/data-audit.json` 获取当次构建的覆盖情况。
 
-## 继续补齐头像
+## 人物資料二次復核
 
-读取 `data/portrait-plan.json` 中 `status: pending` 的条目。按对应史料、性别与职业，使用内置 imagegen 逐人生成，不把未记载的特征作为史实。最终提示词由 `scripts/import-portraits.mjs` 随素材一起保存。
+先读 [PERSON_SECOND_REVIEW.md](PERSON_SECOND_REVIEW.md)，再执行 `npm run review:progress` 查看进度。`node scripts/review-candidates.mjs <人物ID>` 只列字面候选，不能代替同名辨析和原文核对。结论须在适用卷次核对后，连同正文/裴注层级、段落定位、明载或推定等级和异说一并保存。张邈是首个已完成样例；其本人势力与曹操、吕布合作分开，生年不详而卒于兴平二年。pilot 仍属未完成。
 
-```sh
-node scripts/import-portraits.mjs --file output/portrait-import.json
-npm run build
-npm run check
-```
+## 头像维护（当前暂停）
 
-`scripts/portrait-plan.mjs` 可以重新汇总名单，并保留已经生成的图像状态。发布新版本之前复核姓名与头像对应关系，以及人物性别、职业和服饰依据。
+头像计划保存在 `data/portrait-plan.json`，批次状态保存在 `data/portrait-batch-state.json`。现有头像已经上线；当前没有 pending 项。头像自动任务已暂停，Dots 云端续作已停止。
 
-导入JSON使用 `[{"id":"人物ID","path":"生成文件的绝对路径","prompt":"完整最终提示词"}]`。已生成条目不会被重复导入覆盖。新批次完成后提交 `data/portrait-plan.json` 与对应 `assets/portraits/` 素材，推送 `main`，等待仓库构建和正式网址验证。
+若用户明确恢复头像制作，再逐人核对史料、性别、职业和外貌，只处理 pending，每批最多8人。使用内置 imagegen 保存完整提示词，以 `scripts/import-portraits.mjs` 导入120×120 WebP，随后运行构建和检查。不得覆盖已完成头像。生产发布由 GitHub 推送触发 Cloudflare Workers Builds；禁止本地直接运行 `wrangler deploy`。
