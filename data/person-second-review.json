@@ -3506,6 +3506,33 @@
           "from": "雅性節儉，不好華麗",
           "through": "四篋而已。",
           "citation": "裴注引《魏書》（魏書曰載太祖雅性節儉、預自制終亡衣服四篋；屬人物品格與送終之制追述，不與正文繫年合併）"
+        },
+        {
+          "id": "cao-pei-weishu-military-command-207",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 41,
+          "from": "魏書曰：太祖自統御海內",
+          "through": "軍無幸勝。",
+          "citation": "裴注引《魏書》（魏書曰載太祖行軍用師依孫吳之法、因事設奇、臨事手為節度之評述；屬他書總評層級，不與正文本紀繫年合併）"
+        },
+        {
+          "id": "cao-pei-weishu-learning-poetry-207",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 41,
+          "from": "御軍三十餘年",
+          "through": "皆成樂章。",
+          "citation": "裴注引《魏書》（魏書曰載太祖御軍三十餘年手不釋書、晝夜講武思經、登高必賦造詩成樂章；屬他書總評層級，不與正文繫年合併）"
+        },
+        {
+          "id": "cao-pei-weishu-reward-frugality-207",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 41,
+          "from": "及造作宮室",
+          "through": "分豪不與，",
+          "citation": "裴注引《魏書》（魏書曰載太祖造作宮室繕治器械皆盡其意、勳勞宜賞不吝千金、無功望施分毫不與；屬他書總評層級，不與正文繫年合併）"
         }
       ],
       "conclusions": {
