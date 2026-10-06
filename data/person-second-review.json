@@ -1563,6 +1563,26 @@
           "from": "曹瞞傳曰：公將過河，前隊適渡，超等奄至，公猶坐胡牀不起",
           "through": "張郃等見事急，共引公入船",
           "citation": "《三國志·魏書一·武帝紀》（裴注引《曹瞞傳》）"
+        },
+        {
+          "id": "cao-jin-caogong-old-camp",
+          "work": "jinshu",
+          "source": "a05-130-ahcb",
+          "paragraph": 17,
+          "from": "潼關之曹公故壘",
+          "through": "潼關之曹公故壘",
+          "citation": "《晉書》卷一百三十·載記第三十（地名追述，非本人行狀）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-caogong-fuhan-precedent",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 54,
+          "from": "如曹公輔漢故事",
+          "through": "如曹公輔漢故事",
+          "citation": "《晉書》卷一百四·載記第四（後世授禮比附，非本人行狀）",
+          "display": false
         }
       ],
       "conclusions": {
