@@ -2943,6 +2943,33 @@
           "from": "冬十一月丙戌",
           "through": "百官緫己以聽。",
           "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "cao-hhs-xiandi-kill-taichong",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 9,
+          "from": "曹操殺侍中臺崇、尚書馮碩等。",
+          "through": "曹操殺侍中臺崇、尚書馮碩等。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "cao-hhs-xiandi-namevariant-tai",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 9,
+          "from": "山陽公載記曰「臺」字作「壺」。",
+          "through": "山陽公載記曰「臺」字作「壺」。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "cao-hhs-xiandi-visitcamp",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 9,
+          "from": "庚申，遷都許。",
+          "through": "己巳，幸曹操營。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
         }
       ],
       "conclusions": {
