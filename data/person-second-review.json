@@ -1721,6 +1721,36 @@
           "from": "韋曜吳書曰：太祖迎嵩",
           "through": "太祖歸咎於陶謙，故伐之。",
           "citation": "裴注引韋曜《吳書》"
+        },
+        {
+          "id": "cao-sg-liuxiang-kuangting",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 7,
+          "context": "四年春，軍鄄城。荊州牧劉表斷術糧道",
+          "from": "術使將劉詳屯匡亭。",
+          "through": "走九江。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-que-xuan-uprising",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 7,
+          "context": "夏，太祖還軍定陶。",
+          "from": "下邳闕宣聚衆數千人，自稱天子；",
+          "through": "略任城。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-taoqian-first-campaign",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 7,
+          "context": "取泰山華、費，略任城。",
+          "from": "秋，太祖征陶謙，下十餘城，",
+          "through": "謙守城不敢出。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "conclusions": {
