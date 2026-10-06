@@ -2373,6 +2373,36 @@
           "from": "置揚州郡縣長吏，開芍陂屯田。",
           "through": "十二月，軍還譙。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-recruit-order-215",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 25,
+          "context": "十五年",
+          "from": "十五年春，下令曰",
+          "through": "吾得而用之。」",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-tongque-tai-215",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 25,
+          "context": "十五年",
+          "from": "冬，作銅爵臺。",
+          "through": "冬，作銅爵臺。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-pei-weiwu-ambition-215",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 25,
+          "context": "十五年",
+          "from": "魏武故事載公十二月己亥令曰",
+          "through": "少減孤之責也。」",
+          "citation": "《三國志·魏書一·武帝紀》裴注引《魏武故事》"
         }
       ],
       "conclusions": {
