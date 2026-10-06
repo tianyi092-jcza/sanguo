@@ -2773,6 +2773,24 @@
           "from": "常討賊，廩穀不足",
           "through": "行小斛，盜官穀，斬之軍門。",
           "citation": "裴注引《曹瞞傳》（小斛借主者頭事；引書層級，係敵意記述，不作正文事實依據）"
+        },
+        {
+          "id": "cao-pei-caoman-harsh-law",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 45,
+          "from": "然持法峻刻，諸將有計畫勝出己者",
+          "through": "遂殺之。",
+          "citation": "《三國志·魏書一·武帝紀》裴注引《曹瞞傳》"
+        },
+        {
+          "id": "cao-pei-caoman-kills-concubine",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 45,
+          "from": "又有幸姬常從晝寢",
+          "through": "棒殺之。",
+          "citation": "《三國志·魏書一·武帝紀》裴注引《曹瞞傳》"
         }
       ],
       "conclusions": {
