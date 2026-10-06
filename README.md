@@ -94,7 +94,7 @@ Google 影像按 WGS-84 / Web Mercator 定位，不叠加高德的 GCJ-02 偏移
 | `src/google-satellite.js`、`src/google-satellite.css` | Google 卫星底图、坐标处理及加载状态 |
 | `maps.config.example.json`、`scripts/map-config.mjs` | Google 浏览器端 Key 的配置示例与构建读取 |
 
-四书完整语料已缓存在 `data/sources/`，卷目、版本、网址和哈希登记于 `data/source-corpus-manifest.json`。`npm run check` 会核对所有卷目、来源元数据及缓存校验值。只有清单明确显示缺卷时才使用 `python scripts/fetch-complete-corpus.py` 或 `python scripts/fetch-ahcb-corpora.py` 补齐；不要为刷新而重下或覆盖既有底本。原文缓存不放入运行时模型上下文。引用仍须逐人确认底本、正文／注文层级、同名和上下文；字面命中不等于史实结论。
+四书完整语料已缓存在 `data/sources/`，卷目、版本、网址和哈希登记于 `data/source-corpus-manifest.json`。清单中的缓存文件哈希会先把 CRLF 统一为 LF，避免不同操作系统的换行转换造成误报；史料文字与原字形不改。`npm run check` 会核对所有卷目、来源元数据及缓存校验值。只有清单明确显示缺卷时才使用 `python scripts/fetch-complete-corpus.py` 或 `python scripts/fetch-ahcb-corpora.py` 补齐；不要为刷新而重下或覆盖既有底本。原文缓存不放入运行时模型上下文。引用仍须逐人确认底本、正文／注文层级、同名和上下文；字面命中不等于史实结论。
 
 ## 史料处理规则
 

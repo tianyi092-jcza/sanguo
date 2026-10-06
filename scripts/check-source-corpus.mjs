@@ -29,7 +29,8 @@ export function checkSourceCorpus(history){
    const filename=path.join('data','sources',item.id+'.json');assert(fs.existsSync(filename),`Missing corpus source: ${item.id}`);
    const bytes=fs.readFileSync(filename),record=JSON.parse(bytes.toString('utf8'));
    assert.equal(record.id,item.id,`Source ID mismatch: ${item.id}`);
-   assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'),item.recordSha256,`Source record changed since manifest: ${item.id}`);
+   const canonicalRecord=bytes.toString('utf8').replace(/\r\n/g,'\n');
+   assert.equal(crypto.createHash('sha256').update(canonicalRecord,'utf8').digest('hex'),item.recordSha256,`Source record changed since manifest: ${item.id}`);
    assert.equal(record.sha256,item.sha256,`Raw-source hash mismatch: ${item.id}`);
    assert(record.paragraphs?.length>0,`Empty source text: ${item.id}`);
    assert(history.sources[item.id],`Source omitted from history index: ${item.id}`);
