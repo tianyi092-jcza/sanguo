@@ -1464,6 +1464,24 @@
           "from": "出關，過中牟",
           "through": "為請得解。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-wuhuan-campaign",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 22,
+          "from": "八月，登白狼山",
+          "through": "斬蹋頓及名王已下",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-jingzhou-campaign",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 23,
+          "from": "秋七月，公南征劉表。",
+          "through": "公進軍江陵，下令荊州吏民，與之更始。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "conclusions": {
