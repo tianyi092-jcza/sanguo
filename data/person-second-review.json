@@ -2097,6 +2097,36 @@
           "from": "相國之位，自魏武已來，",
           "through": "非復人臣之官，",
           "citation": "《晉書》卷一百二載記第二（劉聰時盧志諫劉乂語；「自魏武以來」指曹操由丞相奠定的權臣格局，僅作後世評價旁證，不改《三國志》主繫年）"
+        },
+        {
+          "id": "cao-jin-chengxiang-208",
+          "work": "jinshu",
+          "source": "a05-024-ahcb",
+          "paragraph": 0,
+          "context": "建安十三年",
+          "from": "建安十三年，罷漢台司，更置丞相，",
+          "through": "而以曹公居之，用兼端揆。",
+          "citation": "《晉書》卷二十四·職官志（建安十三年罷漢台司、更置丞相而以曹公居之的職官沿革追述；僅作官職交叉證據，不改《三國志》主繫年）"
+        },
+        {
+          "id": "cao-jin-wenqiao-guandu-precedent",
+          "work": "jinshu",
+          "source": "a05-067-ahcb",
+          "paragraph": 12,
+          "from": "光武之濟昆陽，",
+          "through": "曹公之拔官渡，以寡敵眾，杖義故也。",
+          "citation": "《晉書》卷六十七·列傳第三十七（溫嶠討蘇峻語；以曹公拔官渡為以寡敵眾的典故，屬後世評語引文，不作曹操生平事實依據）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-zhaosi-guanyu-precedent",
+          "work": "jinshu",
+          "source": "a05-127-ahcb",
+          "paragraph": 6,
+          "from": "昔關羽見重曹公，",
+          "through": "猶不忘先主之恩。",
+          "citation": "《晉書》卷一百二十七·載記第二十七（慕容德黃門侍郎趙思語；轉述關羽與曹公關係的評語，不作曹操本人行為事實依據）",
+          "display": false
         }
       ],
       "conclusions": {
