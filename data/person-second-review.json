@@ -1536,6 +1536,33 @@
           "from": "孫盛異同評曰：案吳志",
           "through": "吳志為是。",
           "citation": "裴注引孫盛《異同評》"
+        },
+        {
+          "id": "cao-sg-tongguan-rebellion",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "馬超遂與韓遂、楊秋、李堪、成宜等叛",
+          "through": "超等屯潼關，公勑諸將：「關西兵精悍，堅壁勿與戰。」",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-tongguan-weishu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "議者多言「關西兵彊，習長矛，非精選前鋒，則不可以當也」",
+          "through": "公謂諸將曰：「戰在我，非在賊也。賊雖習長矛，將使不得以刺，諸君但觀之耳。」",
+          "citation": "《三國志·魏書一·武帝紀》（裴注引《魏書》）"
+        },
+        {
+          "id": "cao-sg-tongguan-caoman",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "曹瞞傳曰：公將過河，前隊適渡，超等奄至，公猶坐胡牀不起",
+          "through": "張郃等見事急，共引公入船",
+          "citation": "《三國志·魏書一·武帝紀》（裴注引《曹瞞傳》）"
         }
       ],
       "conclusions": {
