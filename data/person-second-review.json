@@ -2289,6 +2289,33 @@
           "from": "公之圍鄴也，譚略取甘陵",
           "through": "然後進軍。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-jizhou-ping",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 20,
+          "from": "十年春正月，攻譚，破之，斬譚",
+          "through": "兾州平。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-qiu-xian-ling",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 25,
+          "from": "十五年春，下令曰",
+          "through": "吾得而用之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-jinshu-son-ju",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 7,
+          "from": "彭城王據，太祖之子",
+          "through": "皇室之長。",
+          "citation": "《晉書·卷二·文帝紀》"
         }
       ],
       "conclusions": {
