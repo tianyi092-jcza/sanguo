@@ -50,13 +50,18 @@ let css=html.match(/<style>([\s\S]*?)<\/style>/)[1]+'\n'+read('src/timeline.css'
 html=html.replace(/<style>[\s\S]*?<\/style>/,'<!-- STYLE -->').replace(/<script>[\s\S]*?<\/script>/,'<!-- SCRIPT -->');
 html=traditional(html).replace('人物時間軸','人物流年');
 // Keep the original entry point as a portable, offline-capable artifact.
-const standalone=html.replace('<!-- STYLE -->','<style>'+css+'</style>').replace('<!-- SCRIPT -->','<script>'+js.replaceAll('</script','<\\/script')+'</script>');
+const standalone=html.replace('<!-- STYLE -->','<style>'+css.replace('./Oswald-Light.woff2','./assets/Oswald-Light.woff2')+'</style>').replace('<!-- SCRIPT -->','<script>'+js.replaceAll('</script','<\\/script')+'</script>');
 fs.writeFileSync('三国志_郡国疆域与人物年表.html',standalone);
 const hash=s=>crypto.createHash('sha256').update(s).digest('hex').slice(0,12);
+const fontBytes=fs.readFileSync('assets/Oswald-Light.woff2');
+const fontName='Oswald-Light.'+hash(fontBytes)+'.woff2';
+// External CSS resolves font URLs from dist/assets; the portable HTML resolves from the root.
+css=css.replace('./Oswald-Light.woff2','./'+fontName);
 const jname='app.'+hash(js)+'.js',cname='style.'+hash(css)+'.css';
 fs.mkdirSync('dist/assets',{recursive:true});
 // Remove only generated fingerprinted files in the verified build-output directory.
 for(const file of fs.readdirSync('dist/assets'))if(/^(app|style)\.[a-f0-9]{12}\.(js|css)$/.test(file))fs.unlinkSync('dist/assets/'+file);
+fs.writeFileSync('dist/assets/'+fontName,fontBytes);
 fs.writeFileSync('dist/assets/'+jname,js);fs.writeFileSync('dist/assets/'+cname,css);
 fs.writeFileSync('dist/index.html',html.replace('<!-- STYLE -->',`<link rel="stylesheet" href="./assets/${cname}">`).replace('<!-- SCRIPT -->',`<script defer src="./assets/${jname}"></script>`));
 fs.writeFileSync('dist/_headers','/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n');

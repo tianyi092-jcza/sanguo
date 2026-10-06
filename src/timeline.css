@@ -1,8 +1,10 @@
+/* Restrict Oswald to ASCII digits so Chinese and Latin text keep their existing fonts. */
+@font-face{font-family:"Oswald Digits";src:url("./Oswald-Light.woff2") format("woff2");font-style:normal;font-weight:100 900;font-display:swap;unicode-range:U+0030-0039}
 /* The chronicle is deliberately paper-like; geographic controls retain their original behaviour. */
 :root{--paper:#f5f2eb;--paper-deep:#eae5da;--paper-ink:#292f32;--paper-muted:#73766f;--paper-line:#dddcd4;--accent:#a94f36;--name-width:320px;--row-height:86px;--ruler-height:154px}
-body{font-family:"Microsoft JhengHei","PingFang TC",sans-serif}
+body{font-family:"Oswald Digits","Microsoft JhengHei","PingFang TC",sans-serif}
 header{min-height:76px;padding:14px 26px;gap:24px;background:#171e25;border-bottom-color:#384148}
-h1{font-family:"Noto Serif TC","PMingLiU",serif;letter-spacing:3px;font-size:21px;display:flex;flex-direction:column;gap:5px}
+h1{font-family:"Oswald Digits","Noto Serif TC","PMingLiU",serif;letter-spacing:3px;font-size:21px;display:flex;flex-direction:column;gap:5px}
 h1 small{font-family:var(--sans);font-size:12px;margin:0;letter-spacing:1.2px;color:#9eaaa9}
 #q{border-radius:5px;background:#222b34;border-color:#3a454e;padding:10px 13px;font-size:13px}
 .tabs{gap:5px}.tab{border:0;border-radius:4px;background:transparent;font-size:13px;padding:10px 14px;transition:background .15s}
@@ -12,11 +14,11 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 #v-tl{background:var(--paper);color:var(--paper-ink);--ink:var(--paper-ink);--ink2:var(--paper-muted)}
 .chronicle-heading{display:flex;justify-content:space-between;gap:20px;padding:26px 30px 18px;flex:none}
 .eyebrow{font-size:12px;letter-spacing:3px;color:#87765b;font-weight:600}
-.chronicle-heading h2{font-family:"Noto Serif TC","PMingLiU",serif;font-size:29px;letter-spacing:3px;font-weight:600;margin-top:7px}
-.chronicle-heading h2 span{font-family:Georgia,serif;font-size:17px;letter-spacing:1px;margin-left:20px;color:#88857b;font-weight:400}
+.chronicle-heading h2{font-family:"Oswald Digits","Noto Serif TC","PMingLiU",serif;font-size:29px;letter-spacing:3px;font-weight:600;margin-top:7px}
+.chronicle-heading h2 span{font-family:"Oswald Digits",Georgia,serif;font-size:17px;letter-spacing:1px;margin-left:20px;color:#88857b;font-weight:400}
 .chronicle-heading p{font-size:12px;line-height:1.7;color:var(--paper-muted);margin-top:8px;letter-spacing:.5px}
 .chronicle-total{display:flex;flex-direction:column;align-items:flex-end;justify-content:center;border-left:1px solid var(--paper-line);padding:0 0 0 32px;min-width:100px;gap:4px}
-.chronicle-total strong{font-family:Georgia,serif;font-size:34px;color:#776c54;font-weight:400;font-variant-numeric:tabular-nums}.chronicle-total span{font-size:12px;letter-spacing:2px;color:var(--paper-muted)}
+.chronicle-total strong{font-family:"Oswald Digits",Georgia,serif;font-size:34px;color:#776c54;font-weight:400;font-variant-numeric:tabular-nums}.chronicle-total span{font-size:12px;letter-spacing:2px;color:var(--paper-muted)}
 #tlBar.timeline-toolbar{padding:11px 30px;background:#eeece5;border-top:1px solid var(--paper-line);border-bottom:1px solid var(--paper-line);gap:16px;flex:none;font-size:12px}
 #tlBar .timeline-find{background:#fffdf8;border:1px solid #d6d7ce;border-radius:5px;padding:0 10px;gap:7px;min-width:220px;flex:1;max-width:320px}
 .timeline-find>span{font-size:24px;color:#8b8c80}#tlBar #personFilter{border:0;background:transparent;color:var(--paper-ink);padding:8px 0;min-width:0;width:100%;outline:0;font-size:12px}
@@ -37,7 +39,7 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 #timelineRuler{position:relative;flex:none;background:#f5f2eb}
 #eraBand{height:27px;position:relative;background:#ece9df;overflow:hidden;border-bottom:1px solid #dddcd2}
 .era-period{position:absolute;height:27px;border-left:1px solid #d3d4c7;display:flex;align-items:center;padding-left:12px;color:#80745e;font-size:12px;letter-spacing:2px;white-space:nowrap;overflow:hidden}
-#yearTicks{height:31px;position:relative}.year-tick{position:absolute;top:7px;font-size:12px;color:#777f72;font-family:Georgia,serif;font-variant-numeric:tabular-nums;transform:translateX(-50%)}.year-tick:after{content:"";display:block;width:1px;height:7px;background:#bfc6b7;margin:3px auto 0}
+#yearTicks{height:31px;position:relative}.year-tick{position:absolute;top:7px;font-size:12px;color:#777f72;font-family:"Oswald Digits",Georgia,serif;font-variant-numeric:tabular-nums;transform:translateX(-50%)}.year-tick:after{content:"";display:block;width:1px;height:7px;background:#bfc6b7;margin:3px auto 0}
 #eventTrack{position:absolute;top:60px;bottom:0;left:0;right:0}
 .event-cluster{position:absolute;text-align:left;border:0;background:none;padding:2px 5px 2px 9px;border-left:2px solid var(--event-color,#a15b43);font-size:12px;line-height:16px;color:#726d5b;height:24px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;cursor:pointer;max-width:150px}.event-cluster:hover{background:#e4e5da;color:#272f28}.event-cluster .event-year{color:#979988;margin-right:4px;font-size:12px}.event-cluster b{font-weight:500}
 #timelineRows{position:relative;min-height:58px}
@@ -45,7 +47,7 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 .timeline-row:nth-child(even){background:#f1f0e8}.timeline-row:hover{background:#e8ede2}.timeline-row.is-highlighted{background:#e5d7b5}
 .person-name{position:sticky;left:0;z-index:4;flex:none;width:var(--name-width);height:100%;background:#f1eee5;border:0;border-right:1px solid #cfd3c6;display:flex;align-items:center;text-align:left;padding:0 16px 0 24px;cursor:pointer;gap:12px;color:var(--paper-ink)}
 .timeline-row:nth-child(even) .person-name{background:#ebe9df}.timeline-row:hover .person-name{background:#e1e7d9}.timeline-row.is-highlighted .person-name{background:#e1cea5}
-.person-number{color:#adb0a0;font-size:12px;min-width:19px;font-family:Georgia,serif;font-variant-numeric:tabular-nums}.person-label{min-width:0;flex:1}.person-label>div{display:flex;align-items:baseline;gap:7px}.person-label b{font-family:"Noto Serif TC","PMingLiU",serif;font-size:15px;font-weight:600;letter-spacing:2px;white-space:nowrap}.person-label .courtesy{font-size:12px;color:#868b7b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.person-label small{font-size:12px;color:#8a8d80;display:block;margin-top:4px;font-variant-numeric:tabular-nums}
+.person-number{color:#adb0a0;font-size:12px;min-width:19px;font-family:"Oswald Digits",Georgia,serif;font-variant-numeric:tabular-nums}.person-label{min-width:0;flex:1}.person-label>div{display:flex;align-items:baseline;gap:7px}.person-label b{font-family:"Oswald Digits","Noto Serif TC","PMingLiU",serif;font-size:15px;font-weight:600;letter-spacing:2px;white-space:nowrap}.person-label .courtesy{font-size:12px;color:#868b7b;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.person-label small{font-size:12px;color:#8a8d80;display:block;margin-top:4px;font-variant-numeric:tabular-nums}
 .row-track{position:relative;flex:none;height:100%;background-image:linear-gradient(to right,#d9dfd1 1px,transparent 1px);background-position:16px 0;background-repeat:repeat-x;background-size:var(--year-step) 100%}
 .tenure{position:absolute;top:14px;height:29px;min-width:3px;border:1px solid var(--faction);background:var(--faction-bg);color:var(--faction);border-radius:3px;text-align:left;overflow:hidden;cursor:pointer;padding:0 9px;white-space:nowrap;font-size:12px;line-height:26px;letter-spacing:1px}
 .tenure:hover,.tenure:focus-visible{filter:brightness(.94);z-index:3;box-shadow:0 2px 6px #24352720}.tenure.inferred{border-style:dashed}.tenure.unknown{background:repeating-linear-gradient(135deg,#88927e18 0 2px,transparent 2px 6px);border-style:dashed;color:#8a9081}.tenure.open-start{border-left-style:dashed}.tenure.open-end{border-right-style:dashed}.tenure.point{padding:0;width:8px!important;border-radius:5px;min-width:8px}.tenure .edge{display:inline-block;font-size:12px;opacity:.8;margin-right:5px}
@@ -100,7 +102,7 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 #timelineViewport{scroll-padding-top:var(--ruler-height)}
 .timeline-row{scroll-margin-top:var(--ruler-height)}
 .timeline-total{flex:none;white-space:nowrap;color:#73766f;font-size:12px}
-.timeline-total strong{font-family:Georgia,serif;font-size:34px;line-height:1;font-weight:400;color:#776c54;font-variant-numeric:tabular-nums}
+.timeline-total strong{font-family:"Oswald Digits",Georgia,serif;font-size:34px;line-height:1;font-weight:400;color:#776c54;font-variant-numeric:tabular-nums}
 .person-label>div{min-height:20px}.person-label small{line-height:18px;margin-top:3px}
 .tenure{top:16px}.tenure.point{top:5px}.tenure-outside-label{top:23px}.unplaced-note{top:22px}.undated-affiliation{top:22px}
 .year-tick{white-space:nowrap}.year-tick.tick-first{transform:none}.year-tick.tick-last{transform:translateX(-100%)}
