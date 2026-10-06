@@ -17,3 +17,4 @@ output/*.log
 /.codex/
 /.agents/
 /.aws/
+/.codegraph/
