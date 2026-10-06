@@ -9,8 +9,8 @@
   "domain_id": "a6c70f38416f8b767cee7ee563d490a80e8bc637",
   "initial_version": "f864c129-4376-4a0f-be56-cbbd839ef0fd",
   "stage": "preview",
-  "verified_on": "2026-10-05",
-  "current_version": "c7b6ba4e-6970-4243-ac09-e157c2209d78",
+  "verified_on": "2026-10-06",
+  "current_version": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "portrait_automation_id": "automation",
   "portrait_automation_status": "ACTIVE",
   "google_satellite": {
@@ -47,9 +47,9 @@
     "deployCommand": "npx wrangler deploy",
     "status": "verified repository-triggered production deployment",
     "configuredByUser": true,
-    "verificationCommit": "0ad5008",
-    "verificationBuild": "110a72ff-b504-4da3-a33b-1bb2a09fccc3",
-    "lastVerifiedVersion": "c7b6ba4e-6970-4243-ac09-e157c2209d78",
+    "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e",
+    "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
+    "lastVerifiedVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
     "satelliteConfigurationRetained": true
   },
   "portrait_continuation": {

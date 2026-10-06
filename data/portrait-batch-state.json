@@ -1,6 +1,6 @@
 {
   "batch": "local-review-01",
-  "stage": "built-awaiting-repository-publication",
+  "stage": "verified-published-through-repository",
   "ids": [
     "p0095",
     "p0151",
@@ -20,11 +20,19 @@
   "portraitEligibilityReviewComplete": false,
   "repository": "tianyi092-jcza/sanguo",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "publicVerified": false,
+  "publicVerified": true,
   "localAutomationStatus": "ACTIVE",
   "cloudContinuationStatus": "STOPPED",
-  "note": "本地重启续作首批8人均经原文核对，内置imagegen生成并导入120×120WebP；构建和检查通过，等待仓库构建及正式域名验证。另173人尚未逐人复核，不视为资料不足。",
+  "note": "本地续作首批8人完成并经正式域名逐人验证身份、120×120尺寸、出处、图下艺术示意说明及图像字节一致性。另173人尚未逐人复核，不视为资料不足；下一批从未复核名单选取最多8人。",
   "localChecksPassed": true,
   "previousCompletedEntriesUnchanged": 293,
-  "localBrowserVerified": true
+  "localBrowserVerified": true,
+  "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
+  "sourceRepositoryUploaded": true,
+  "githubVerificationPassed": true,
+  "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e",
+  "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
+  "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
+  "localAndPublicBytesEqual": true,
+  "satelliteConfigurationRetained": true
 }

@@ -739,8 +739,9 @@
       "reviewNote": "黑山首領張燕，本姓褚；不套用于羝根的多鬚或李大目的大眼。敏捷是行動記載，並非五官。未核得本人五官特徵；採普通比例原創藝術示意。",
       "decision": "eligible",
       "portraitStatus": "generated",
-      "publicationVerified": false,
-      "batch": "local-review-01"
+      "publicationVerified": true,
+      "batch": "local-review-01",
+      "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
     },
     {
       "id": "p0151",
@@ -751,8 +752,9 @@
       "reviewNote": "本人年二十餘及有武藝明載；未載特殊五官。劉備稱帝前已死，不以蜀漢稱帝後服制定位。未核得本人五官特徵；採普通比例原創藝術示意。",
       "decision": "eligible",
       "portraitStatus": "generated",
-      "publicationVerified": false,
-      "batch": "local-review-01"
+      "publicationVerified": true,
+      "batch": "local-review-01",
+      "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
     },
     {
       "id": "p0153",
@@ -763,8 +765,9 @@
       "reviewNote": "未三十任長沙太守明載；衣冠與普通五官為藝術示意，非復原定論。未核得本人五官特徵；採普通比例原創藝術示意。",
       "decision": "eligible",
       "portraitStatus": "generated",
-      "publicationVerified": false,
-      "batch": "local-review-01"
+      "publicationVerified": true,
+      "batch": "local-review-01",
+      "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
     },
     {
       "id": "p0188",
@@ -775,8 +778,9 @@
       "reviewNote": "霍峻傳附子弋字紹先，讀前段確認霍姓；只用霍弋本人軍政記載，不挪用裴注羅憲事蹟或霍峻年四十卒。未核得本人五官特徵；採普通比例原創藝術示意。",
       "decision": "eligible",
       "portraitStatus": "generated",
-      "publicationVerified": false,
-      "batch": "local-review-01"
+      "publicationVerified": true,
+      "batch": "local-review-01",
+      "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
     },
     {
       "id": "p0248",
@@ -787,8 +791,9 @@
       "reviewNote": "字子遠之孫峻；只據其本人任官與弓馬記載，無五官明載，不以惡評虛構醜貌。未核得本人五官特徵；採普通比例原創藝術示意。",
       "decision": "eligible",
       "portraitStatus": "generated",
-      "publicationVerified": false,
-      "batch": "local-review-01"
+      "publicationVerified": true,
+      "batch": "local-review-01",
+      "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
     },
     {
       "id": "p0256",
@@ -799,8 +804,9 @@
       "reviewNote": "呂範傳附次子據字世議，讀前文辨姓；本人戰功與官職足供服飾示意，不採呂範容貌。未核得本人五官特徵；採普通比例原創藝術示意。",
       "decision": "eligible",
       "portraitStatus": "generated",
-      "publicationVerified": false,
-      "batch": "local-review-01"
+      "publicationVerified": true,
+      "batch": "local-review-01",
+      "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
     },
     {
       "id": "p0261",
@@ -811,8 +817,9 @@
       "reviewNote": "字永先，吳郡武進人，以文學入仕；五官失載不是身份不足，不挪用同傳王蕃或韋曜資料。未核得本人五官特徵；採普通比例原創藝術示意。",
       "decision": "eligible",
       "portraitStatus": "generated",
-      "publicationVerified": false,
-      "batch": "local-review-01"
+      "publicationVerified": true,
+      "batch": "local-review-01",
+      "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
     },
     {
       "id": "p0270",
@@ -823,8 +830,9 @@
       "reviewNote": "字文禮，陳留浚儀人；本人少辯博能屬文及九江太守明載。用後漢書本人傳，不套鄭玄等人材料。未核得本人五官特徵；採普通比例原創藝術示意。",
       "decision": "eligible",
       "portraitStatus": "generated",
-      "publicationVerified": false,
-      "batch": "local-review-01"
+      "publicationVerified": true,
+      "batch": "local-review-01",
+      "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
     }
   ]
 }
