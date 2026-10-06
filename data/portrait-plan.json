@@ -1,5 +1,35 @@
 [
   {
+    "id": "anonymous-female",
+    "name": "匿名女性",
+    "gender": "female",
+    "anonymous": true,
+    "status": "generated",
+    "file": "anonymous-female.webp",
+    "prompt": "Create ONE square 120x120-design pixel avatar, tightly framed head and upper shoulders, 1990s historical strategy-game portrait. Style references only: the two supplied images. Visible coarse hand-placed pixels, limited ochre and earth palette, near-black olive background, strong dithering. Period: late Eastern Han to early Jin, simple cross-collared robe, hair bound in period-appropriate cloth cap or modest crown. No Ming/Qing hats, fantasy armour, opera paint, weapons, text, labels, watermarks, decorative frame or overlay. Original artistic interpretation, not an authentic surviving likeness. Anonymous female head silhouette ONLY, featureless dark subdued shape, distinguish a feminine period hair bun but no eyes or facial details. For unspecified gender use a completely neutral round head and shoulders. This is an intentional unknown-person placeholder.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "anonymous-male",
+    "name": "匿名男性",
+    "gender": "male",
+    "anonymous": true,
+    "status": "generated",
+    "file": "anonymous-male.webp",
+    "prompt": "Create ONE square 120x120-design pixel avatar, tightly framed head and upper shoulders, 1990s historical strategy-game portrait. Style references only: the two supplied images. Visible coarse hand-placed pixels, limited ochre and earth palette, near-black olive background, strong dithering. Period: late Eastern Han to early Jin, simple cross-collared robe, hair bound in period-appropriate cloth cap or modest crown. No Ming/Qing hats, fantasy armour, opera paint, weapons, text, labels, watermarks, decorative frame or overlay. Original artistic interpretation, not an authentic surviving likeness. Anonymous male head silhouette ONLY, featureless dark subdued shape, distinguish a simple cloth-bound masculine hair silhouette but no eyes or facial details. For unspecified gender use a completely neutral round head and shoulders. This is an intentional unknown-person placeholder.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "anonymous-unknown",
+    "name": "性別未詳",
+    "gender": "unspecified",
+    "anonymous": true,
+    "status": "generated",
+    "file": "anonymous-unknown.webp",
+    "prompt": "Create ONE square 120x120-design pixel avatar, tightly framed head and upper shoulders, 1990s historical strategy-game portrait. Style references only: the two supplied images. Visible coarse hand-placed pixels, limited ochre and earth palette, near-black olive background, strong dithering. Period: late Eastern Han to early Jin, simple cross-collared robe, hair bound in period-appropriate cloth cap or modest crown. No Ming/Qing hats, fantasy armour, opera paint, weapons, text, labels, watermarks, decorative frame or overlay. Original artistic interpretation, not an authentic surviving likeness. Anonymous unspecified head silhouette ONLY, featureless dark subdued shape, distinguish a simple cloth-bound masculine hair silhouette but no eyes or facial details. For unspecified gender use a completely neutral round head and shoulders. This is an intentional unknown-person placeholder.",
+    "generator": "built-in imagegen"
+  },
+  {
     "id": "p0001",
     "name": "曹操",
     "gender": "male",
@@ -1326,6 +1356,22 @@
     "generator": "built-in imagegen"
   },
   {
+    "id": "p0095",
+    "name": "張燕",
+    "gender": "male",
+    "role": "黑山軍首領；後拜平北將軍",
+    "source": "a04-008",
+    "evidence": "張燕，常山真定人也，本姓褚。黃巾起，燕合聚少年為羣盜，在山澤間轉攻，還真定，衆萬餘人。博陵張牛角亦起衆，自號將兵從事，與燕合。燕推牛角為帥，俱攻癭陶。牛角為飛矢所中，被創且死，令衆奉燕，告曰：「必以燕為帥。」牛角死，衆奉燕，故改姓張。燕剽捍捷速過人，故軍中號曰飛燕。其後人衆寖廣，常山、趙郡、中山、上黨、河內諸山谷皆相通，其小帥孫輕、王當等，各以部衆從燕，衆至百萬，號曰黑山。靈帝不能征，河北諸郡被其害。燕遣人至京都乞降，拜燕平難中郎將。……太祖將定兾州，燕遣使求佐王師，拜平北將軍；率衆詣鄴，封安國亭侯，邑五百戶。",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0095.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120×120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 張燕 (Zhang Yan), male leader of the Black Mountain forces in late Eastern Han. Primary source: Records of the Three Kingdoms, Wei book vol. 8 (a04-008): 「張燕，常山真定人也，本姓褚。黃巾起，燕合聚少年為羣盜……衆奉燕，故改姓張……拜平北將軍」. He led armed followers and later held a general's title. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a practical dark cloth headwrap, restrained brown military robe with cross collar, alert direct expression; visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "reviewNote": "黑山首領張燕，本姓褚；不套用于羝根的多鬚或李大目的大眼。敏捷是行動記載，並非五官。未核得本人五官特徵；採普通比例原創藝術示意。",
+    "eligibilityReviewedAt": "2026-10-06T06:54:25.785Z",
+    "eligibilityBatch": "local-review-01",
+    "generator": "built-in imagegen"
+  },
+  {
     "id": "p0096",
     "name": "公孫瓚",
     "gender": "male",
@@ -1995,6 +2041,22 @@
     "generator": "built-in imagegen"
   },
   {
+    "id": "p0151",
+    "name": "劉封",
+    "gender": "male",
+    "role": "劉備養子、副軍中郎將",
+    "source": "a04-040",
+    "evidence": "劉封者，本羅侯寇氏之子，長沙劉氏之甥也。先主至荊州，以未有繼嗣，養封為子。及先主入蜀，自葭萌還攻劉璋，時封年二十餘，有武藝，氣力過人，將兵俱與諸葛亮、張飛等泝流西上，所在戰克。益州旣定，以封為副軍中郎將。",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0151.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120×120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 劉封 (Liu Feng), male adopted son of Liu Bei and Shu military officer. Verified source: Records of the Three Kingdoms, Shu book vol. 10 (a04-040): 「劉封者，本羅侯寇氏之子，長沙劉氏之甥也。先主至荊州，以未有繼嗣，養封為子……時封年二十餘，有武藝，氣力過人，將兵……益州旣定，以封為副軍中郎將。」 Depict an adult around the documented campaign age, with practical tied hair, restrained early Shu military cross-collared robe, calm resolute expression. No verified individual facial description; all ordinary facial details are artistic interpretation. Tight centered head and upper shoulders. Style: retro 1990s Chinese historical strategy-game pixel portrait like the two supplied project references, with coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette and near-black olive background. Make his face distinct from 張燕 and from reference faces. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. One person only; original artistic depiction, not an authentic likeness.",
+    "reviewNote": "本人年二十餘及有武藝明載；未載特殊五官。劉備稱帝前已死，不以蜀漢稱帝後服制定位。未核得本人五官特徵；採普通比例原創藝術示意。",
+    "eligibilityReviewedAt": "2026-10-06T06:54:25.786Z",
+    "eligibilityBatch": "local-review-01",
+    "generator": "built-in imagegen"
+  },
+  {
     "id": "p0152",
     "name": "彭羕",
     "gender": "male",
@@ -2007,6 +2069,22 @@
     "reviewNote": "已核卷四十，彭羕字永年，廣漢人，任治中從事等。選劉備任用後的官員階段；先前髠鉗服役屬另一生命階段，不加刑具，冠巾下髮式不作有據復原，也不以驕傲評語畫成反派。",
     "appearanceSource": "a04-040",
     "prompt": "Use case: historical-scene. Create ONE ORIGINAL SQUARE head-and-upper-shoulders individual portrait for a Three Kingdoms history browser. Must remain legible when displayed at 120x120 pixels. Use only the visual style of the two inspected references: early-1990s historical strategy-game pixel art, chunky hand-clustered square pixels, stepped shading, controlled dithering, limited ochre/earth/olive colors. Opaque near-black olive background, warm directional pixel lighting, natural human anatomy, distinct individual face occupying most of the image. Complete modest headwear, tight portrait framing. Render enlarged native low-resolution pixel art, not smooth painting, photography or vector. Subject: 彭羕 Peng Yang, courtesy name Yongnian, male civil-military administrator in his thirties, died at thirty-seven. Primary biography explicitly says 身長八尺，容貌甚偉: upright tall imposing bearing, dignified impressive appearance with natural face proportions, NOT superhuman. Normal mature angular oval face, dark short moustache and neat beard as artistic choices, clear steady eyes. Plain dark upright Han official cap covering hair, dark russet-brown cross-collared official robe with olive inner collar. Slight three-quarter turn right. Show him during appointment as 治中從事 under Liu Bei, AFTER the earlier forced-labor period. No shackles, prison props or punitive shaved-head scene; hidden hairstyle is not a claimed reconstruction. No exaggerated arrogant villain, exact metric height or invented facial marks. Verified historical context, NOT lettering to draw: 彭羕字永年，廣漢人。身長八尺，容貌甚偉。 本傳記「身長八尺，容貌甚偉」，示意挺拔、端偉儀容，原制身長不換算為確定公制數字；又記卒時三十七，具體五官仍為藝術示意。 This is an ORIGINAL ARTISTIC interpretation, not an authentic historical likeness. Do not copy actors, reference identities, existing game art, novel or opera portraits. Period clothing fits late Eastern Han and Shu Han. No Ming/Qing hats, fantasy armor, extra person, objects, background scene, border, decorative frame, text, Chinese characters, captions, names, numerals, watermarks, logo or signature. The scholarly note goes below the image in the website and never on the image. Return only the square portrait.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0153",
+    "name": "廖立",
+    "gender": "male",
+    "role": "長沙、巴郡太守；侍中、長水校尉",
+    "source": "a04-040",
+    "evidence": "廖立廖音理救反。字公淵，武陵臨沅人。先主領荊州牧，辟為從事，年未三十，擢為長沙太守。先主入蜀，諸葛亮鎮荊土，孫權遣使通好於亮，因問士人皆誰相經緯者，亮荅曰：「龐統、廖立，楚之良才，當贊興世業者也。」建安二十年，權遣呂蒙奄襲南三郡，立脫身走，自歸先主。先主素識待之，不深責也，以為巴郡太守。二十四年，先主為漢中王，徵立為侍中。後主襲位，徙長水校尉。",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0153.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120×120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 廖立 (Liao Li), male civil official of Liu Bei's state. Verified source: Records of the Three Kingdoms, Shu book vol. 10 (a04-040): 「廖立……字公淵，武陵臨沅人。先主領荊州牧，辟為從事，年未三十，擢為長沙太守……以為巴郡太守……徵立為侍中。」 Depict an adult civilian official in restrained early Shu cross-collared robe and modest dark guan, thoughtful expression. No verified individual facial description; all ordinary facial details are artistic interpretation. Tight centered head and upper shoulders. Style: retro 1990s Chinese historical strategy-game pixel portrait like the two supplied project references, coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. Make his face distinct from the other avatars and reference faces. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. One person only; original artistic depiction, not an authentic likeness.",
+    "reviewNote": "未三十任長沙太守明載；衣冠與普通五官為藝術示意，非復原定論。未核得本人五官特徵；採普通比例原創藝術示意。",
+    "eligibilityReviewedAt": "2026-10-06T06:54:25.787Z",
+    "eligibilityBatch": "local-review-01",
     "generator": "built-in imagegen"
   },
   {
@@ -2457,6 +2535,22 @@
     "appearanceSource": "a04-036",
     "reviewNote": "已核卷三十六關羽子興字安國。父關羽、兄關平、子關統／關彝記事不移用；不照搬關羽紅臉長髯、演義兵器或小說復仇戰績。弱冠是年齡階段，不偽作精確出生年。",
     "prompt": "Use case: historical-scene. ONE ORIGINAL SQUARE individual head-and-upper-shoulders portrait for a Three Kingdoms history browser, readable at 120x120 pixels. Use the two supplied small images ONLY as visual style references, never copy their identities. Early-1990s historical strategy-game pixel art, chunky hand-clustered pixels, limited earth/ochre/olive palette, stepped shading, controlled dithering. Opaque near-black olive background, warm directional pixel lighting, normal human anatomy and a distinct individual face filling most of the square. Keep complete modest headwear. Enlarged native low-resolution pixel art, not smooth painting, photography or vector art. Subject: 關興; male young adult Shu Han court and military supervising officer Guan Xing. Ordinary young adult male court officer and military supervisor around early twenties, a distinct youthful oval face, clean cheeks or only a very light short moustache, alert composed eyes. Modest dark Han court cloth cap and restrained dark military shoulder fabric over a warm ochre-olive cross-collared robe. Slight turn right. Not a child and not a mature long-bearded Guan Yu clone. No red painted face, gigantic beard, dragon blade, imperial crown, revenge scene or novel costume. Verified source context (not lettering to draw): 弱冠為侍中、中監軍 本傳記「弱冠」任侍中、中監軍，可取約二十歲前後的青年官員形象；未詳本人五官、體型或身高，為普通比例藝術示意。 Original artistic interpretation, NOT an authentic surviving likeness. Individual face and beard shapes unless explicitly quoted are artistic choices, not historical claims. Period clothing must fit late Han to early Wei-Jin. Do not copy actors, existing game characters, novel or opera stereotypes. No Ming/Qing hats, giant fantasy armor, extra people, scenery, decorative frame, text, Chinese characters, captions, names, numerals, logos, signatures, watermarks or borders. Historical explanations belong below the image on the website, never on the image. Return only one square portrait.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0188",
+    "name": "霍弋",
+    "gender": "male",
+    "role": "蜀漢安南將軍、南中地方軍政官",
+    "source": "a04-041",
+    "evidence": "子弋，字紹先，先主末年為太子舍人。後主踐阼，除謁者。丞相諸葛亮北駐漢中，請為記室，使與子喬共周旋游處。亮卒，為黃門侍郎。後主立太子璿，以弋為中庶子，璿好騎射，出入無度，弋援引古義，盡言規諫，甚得切磋之體。後為參軍庲降屯副貳都督，又轉護軍，統事如前。時永昌郡夷獠恃險不賔，數為寇害，乃以弋領永昌太守，率偏軍討之，遂斬其豪帥，破壞邑落，郡界寧靜。遷監軍將軍，領建寧太守，還統南郡事。景耀六年，進號安南將軍。是歲，蜀并于魏。弋與巴東領軍襄陽羅憲各保全一方，舉以內附，咸因仍前任，寵待有加。",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0188.webp",
+    "prompt": "Use case: historical-scene. Asset type: ONE original square head-and-shoulders pixel avatar for a Three Kingdoms reference site, designed to remain readable at 120×120. Subject: 霍弋 (Huo Yi), male, a Shu Han officer who administered the southern commanderies and was appointed 安南將軍. Show an ordinary mature adult with a short restrained beard, dark indigo cross-collared military robe and modest tied cloth cap. Source describes offices and service, not a known portrait or exact age. Do not borrow his father Huo Jun or the adjacent Luo Xian account. Verified identity and occupation source a04-041: 子弋，字紹先，先主末年為太子舍人。後主踐阼，除謁者。丞相諸葛亮北駐漢中，請為記室，使與子喬共周旋游處。亮卒，為黃門侍郎。後主立太子璿，以弋為中庶子，璿好騎射，出入無度，弋援引古義，盡言規諫，甚得切磋之體。後為參軍庲降屯副貳都督，又轉護軍，統事如前。時永昌郡夷獠恃險不賔，數為寇害，乃以弋領永昌太守，率偏軍討之，遂斬其豪帥，破壞邑落，郡界寧靜。遷監軍將軍，領建寧太守，還統南郡事。景耀六年，進號安南將軍。是歲，蜀并于魏。弋與巴東領軍襄陽羅憲各保全一方，舉以內附，咸因仍前任，寵待有加。 Input images: the two referenced project portraits are STYLE REFERENCES ONLY, not identity targets. Make a distinct original face, never copy the references' likeness. All ordinary facial proportions, facial hair, colors, expression and garment details are artistic interpretation; no verified individual facial description is available. Style: retro 1990s Chinese strategy-game pixel portrait, crisp coarse hand-placed pixel clusters, limited ochre and earth palette with the specified muted garment accent, restrained dithering, near-black olive background. Tight centered head and upper shoulders, one person. Period: late Eastern Han to Wei/Jin, modest practical clothing. No Ming/Qing hats, fantasy armour, huge crown, theatrical makeup, weapon, text, calligraphy, watermark, border, icon or overlay. Any artistic explanation belongs below the image on the site, never inside the pixels.",
+    "reviewNote": "霍峻傳附子弋字紹先，讀前段確認霍姓；只用霍弋本人軍政記載，不挪用裴注羅憲事蹟或霍峻年四十卒。未核得本人五官特徵；採普通比例原創藝術示意。",
+    "eligibilityReviewedAt": "2026-10-06T06:54:25.787Z",
+    "eligibilityBatch": "local-review-01",
     "generator": "built-in imagegen"
   },
   {
@@ -3283,6 +3377,22 @@
     "reviewNote": "云端逐条核对本传及裴注的本人身份、性别、职业与形貌；未载五官均为普通比例艺术示意，不借用亲属或同名人物。"
   },
   {
+    "id": "p0248",
+    "name": "孫峻",
+    "gender": "male",
+    "role": "孫吳武衛將軍、輔政大臣、丞相大將軍",
+    "source": "a04-064",
+    "evidence": "孫峻字子遠，孫堅弟靜之曾孫也。靜生暠。暠生恭，為散騎侍郎。恭生峻。少便弓馬，精果膽決。孫權末，徙武衞都尉，為侍中。權臨薨，受遺輔政，領武衞將軍，故典宿衞，封都鄉侯。旣誅諸葛恪，遷丞相大將軍，督中外諸軍事，假節，進封富春侯。滕胤以恪子竦妻父辭位，峻曰：「鯀禹罪不相及，滕侯何為？」峻、胤雖內不沾洽，而外相苞容，進胤爵高密侯，共事如前。",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0248.webp",
+    "prompt": "Use case: historical-scene. Asset type: ONE original square head-and-shoulders pixel avatar for a Three Kingdoms reference site, designed to remain readable at 120×120. Subject: 孫峻 (Sun Jun), male, a Sun Wu court and military official, 武衞將軍 and 丞相大將軍. Show an ordinary adult with slim short moustache, muted rust cross-collared robe and modest low dark guan. The documented skill at archery and riding does not prescribe facial anatomy. Do not caricature him as evil or invent physical defects. Verified identity and occupation source a04-064: 孫峻字子遠，孫堅弟靜之曾孫也。靜生暠。暠生恭，為散騎侍郎。恭生峻。少便弓馬，精果膽決。孫權末，徙武衞都尉，為侍中。權臨薨，受遺輔政，領武衞將軍，故典宿衞，封都鄉侯。旣誅諸葛恪，遷丞相大將軍，督中外諸軍事，假節，進封富春侯。滕胤以恪子竦妻父辭位，峻曰：「鯀禹罪不相及，滕侯何為？」峻、胤雖內不沾洽，而外相苞容，進胤爵高密侯，共事如前。 Input images: the two referenced project portraits are STYLE REFERENCES ONLY, not identity targets. Make a distinct original face, never copy the references' likeness. All ordinary facial proportions, facial hair, colors, expression and garment details are artistic interpretation; no verified individual facial description is available. Style: retro 1990s Chinese strategy-game pixel portrait, crisp coarse hand-placed pixel clusters, limited ochre and earth palette with the specified muted garment accent, restrained dithering, near-black olive background. Tight centered head and upper shoulders, one person. Period: late Eastern Han to Wei/Jin, modest practical clothing. No Ming/Qing hats, fantasy armour, huge crown, theatrical makeup, weapon, text, calligraphy, watermark, border, icon or overlay. Any artistic explanation belongs below the image on the site, never inside the pixels.",
+    "reviewNote": "字子遠之孫峻；只據其本人任官與弓馬記載，無五官明載，不以惡評虛構醜貌。未核得本人五官特徵；採普通比例原創藝術示意。",
+    "eligibilityReviewedAt": "2026-10-06T06:54:25.787Z",
+    "eligibilityBatch": "local-review-01",
+    "generator": "built-in imagegen"
+  },
+  {
     "id": "p0249",
     "name": "孫綝",
     "gender": "male",
@@ -3385,6 +3495,22 @@
     "reviewNote": "云端逐条核对本传及裴注的本人身份、性别、职业与形貌；未载五官均为普通比例艺术示意，不借用亲属或同名人物。"
   },
   {
+    "id": "p0256",
+    "name": "呂據",
+    "gender": "male",
+    "role": "孫吳右將軍、驃騎將軍",
+    "source": "a04-056",
+    "evidence": "範長子先卒，次子據嗣。據字世議，以父任為郎，後範寢疾，拜副軍校尉，佐領軍事。範卒，遷安軍中郎將。數討山賊，諸深惡劇地，所擊皆破。隨太常潘濬討五谿，復有功。朱然攻樊，據與朱異破城外圍，還拜偏將軍，入補馬閑右部督，遷越騎校尉。太元元年，大風，江水溢流，漸淹城門，權使視水，獨見據使人取大船以備害。權嘉之，拜盪魏將軍。權寢疾，以據為太子右部督。太子即位，拜右將軍。魏出東興，據赴討有功。明年，孫峻殺諸葛恪，遷據為驃騎將軍，平西宮事。五鳳二年，假節，與峻等襲壽春，還遇魏將曹珍，破之於高亭。太平元年，帥師侵魏，未及淮，聞孫峻死，以從弟綝自代，據大怒，引軍還，欲廢綝。綝聞之，使中書奉詔，詔文欽、劉纂、唐咨等使取據，又遣從兄憲以都下兵逆據於江都。左右勸據降魏，據曰：「恥為叛臣。」遂自殺。夷三族。",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0256.webp",
+    "prompt": "Use case: historical-scene. Asset type: ONE original square head-and-shoulders pixel avatar for a Three Kingdoms reference site, designed to remain readable at 120×120. Subject: 呂據 (Lü Ju), male, a Sun Wu general, 右將軍 and later 驃騎將軍. Show an ordinary mature adult with a compact beard, olive-brown cross-collared military robe and simple tied hair under a cloth cap, thoughtful vigilant expression. His own career is distinct from his father Lü Fan; do not borrow the father’s appearance. Verified identity and occupation source a04-056: 範長子先卒，次子據嗣。據字世議，以父任為郎，後範寢疾，拜副軍校尉，佐領軍事。範卒，遷安軍中郎將。數討山賊，諸深惡劇地，所擊皆破。隨太常潘濬討五谿，復有功。朱然攻樊，據與朱異破城外圍，還拜偏將軍，入補馬閑右部督，遷越騎校尉。太元元年，大風，江水溢流，漸淹城門，權使視水，獨見據使人取大船以備害。權嘉之，拜盪魏將軍。權寢疾，以據為太子右部督。太子即位，拜右將軍。魏出東興，據赴討有功。明年，孫峻殺諸葛恪，遷據為驃騎將軍，平西宮事。五鳳二年，假節，與峻等襲壽春，還遇魏將曹珍，破之於高亭。太平元年，帥師侵魏，未及淮，聞孫峻死，以從弟綝自代，據大怒，引軍還，欲廢綝。綝聞之，使中書奉詔，詔文欽、劉纂、唐咨等使取據，又遣從兄憲以都下兵逆據於江都。左右勸據降魏，據曰：「恥為叛臣。」遂自殺。夷三族。 Input images: the two referenced project portraits are STYLE REFERENCES ONLY, not identity targets. Make a distinct original face, never copy the references' likeness. All ordinary facial proportions, facial hair, colors, expression and garment details are artistic interpretation; no verified individual facial description is available. Style: retro 1990s Chinese strategy-game pixel portrait, crisp coarse hand-placed pixel clusters, limited ochre and earth palette with the specified muted garment accent, restrained dithering, near-black olive background. Tight centered head and upper shoulders, one person. Period: late Eastern Han to Wei/Jin, modest practical clothing. No Ming/Qing hats, fantasy armour, huge crown, theatrical makeup, weapon, text, calligraphy, watermark, border, icon or overlay. Any artistic explanation belongs below the image on the site, never inside the pixels.",
+    "reviewNote": "呂範傳附次子據字世議，讀前文辨姓；本人戰功與官職足供服飾示意，不採呂範容貌。未核得本人五官特徵；採普通比例原創藝術示意。",
+    "eligibilityReviewedAt": "2026-10-06T06:54:25.787Z",
+    "eligibilityBatch": "local-review-01",
+    "generator": "built-in imagegen"
+  },
+  {
     "id": "p0257",
     "name": "王蕃",
     "gender": "male",
@@ -3440,6 +3566,22 @@
     "prompt": "Create ONE original square head-and-shoulders pixel portrait avatar for 韋昭. Verified identity: male Eastern Wu historian and court scholar. Source a04-065: 韋曜字弘嗣，吳郡雲陽人也。曜本名昭，史為晉諱，改之。少好學，能屬文，從丞相掾，除西安令，還為尚書郎，遷太子中庶子。. Appearance evidence: No verified individual facial description.. Character direction: Older scholarly man, ordinary narrow face, neat medium grey-streaked beard, plain dark guan and earthy brown civilian robe; thoughtful eyes. Source calls him Wei Yao due Jin taboo, same Wei Zhao. All unrecorded facial features are ordinary-proportion artistic interpretation, never historical assertions. Supplied two images are STYLE REFERENCES ONLY: never copy faces. Exactly 120x120 display design, coarse visible hand-placed pixels, 1990s Chinese historical strategy game portrait, limited ochre and earth palette, near-black olive background, crisp pixel clusters and dithering. Late Eastern Han, Three Kingdoms or early Western Jin era right-lapped cross collar and appropriate tied hair or modest cap. No Ming/Qing costume, fantasy armour, oversized crown, theatrical makeup, weapons, text, watermark, frame, icon or overlay. One person only, tight upper shoulders and head.",
     "generator": "built-in imagegen",
     "reviewNote": "云端逐条核对本传及裴注的本人身份、性别、职业与形貌；未载五官均为普通比例艺术示意，不借用亲属或同名人物。"
+  },
+  {
+    "id": "p0261",
+    "name": "華覈",
+    "gender": "male",
+    "role": "孫吳文士、秘府郎、中書丞",
+    "source": "a04-065",
+    "evidence": "華覈字永先，吳郡武進人也。始為上虞尉、典農都尉，以文學入為祕府郎，遷中書丞。",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0261.webp",
+    "prompt": "Use case: historical-scene. Asset type: ONE original square head-and-shoulders pixel avatar for a Three Kingdoms reference site, designed to remain readable at 120×120. Subject: 華覈 (Hua He), male, a Sun Wu literary scholar, 祕府郎 and 中書丞. Show an ordinary mature civilian scholar with restrained longer beard, muted blue-grey cross-collared robe, modest dark guan, composed expression. No specific age, face or body shape is claimed by the source. Verified identity and occupation source a04-065: 華覈字永先，吳郡武進人也。始為上虞尉、典農都尉，以文學入為祕府郎，遷中書丞。 Input images: the two referenced project portraits are STYLE REFERENCES ONLY, not identity targets. Make a distinct original face, never copy the references' likeness. All ordinary facial proportions, facial hair, colors, expression and garment details are artistic interpretation; no verified individual facial description is available. Style: retro 1990s Chinese strategy-game pixel portrait, crisp coarse hand-placed pixel clusters, limited ochre and earth palette with the specified muted garment accent, restrained dithering, near-black olive background. Tight centered head and upper shoulders, one person. Period: late Eastern Han to Wei/Jin, modest practical clothing. No Ming/Qing hats, fantasy armour, huge crown, theatrical makeup, weapon, text, calligraphy, watermark, border, icon or overlay. Any artistic explanation belongs below the image on the site, never inside the pixels.",
+    "reviewNote": "字永先，吳郡武進人，以文學入仕；五官失載不是身份不足，不挪用同傳王蕃或韋曜資料。未核得本人五官特徵；採普通比例原創藝術示意。",
+    "eligibilityReviewedAt": "2026-10-06T06:54:25.788Z",
+    "eligibilityBatch": "local-review-01",
+    "generator": "built-in imagegen"
   },
   {
     "id": "p0262",
@@ -3557,6 +3699,22 @@
     "generator": "built-in imagegen",
     "appearanceSource": "a03-035",
     "reviewNote": "云端逐条核对本传及裴注的本人身份、性别、职业与形貌；未载五官均为普通比例艺术示意，不借用亲属或同名人物。"
+  },
+  {
+    "id": "p0270",
+    "name": "邊讓",
+    "gender": "male",
+    "role": "漢末文士、大將軍府令史、九江太守",
+    "source": "a03-080b",
+    "evidence": "邊讓字文禮，陳留浚儀人也。少辯博，能屬文。作章華賦，雖多淫麗之辭，而終之以正，亦如相如之諷也。……大將軍何進聞讓才名，欲辟命之，恐不至，詭以軍事徵召，旣到，署令史，續漢志曰：「大將軍下有令史及御史屬三十一人。」進以禮見之。讓善占射，能辭對，時賔客滿堂，莫不羨其風。府掾孔融、王朗並修刺候焉。朗字景興，魏志有傳。……讓後以高才擢進，屢遷，出為九江太守，不以為能也。",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0270.webp",
+    "prompt": "Use case: historical-scene. Asset type: ONE original square head-and-shoulders pixel avatar for a Three Kingdoms reference site, designed to remain readable at 120×120. Subject: 邊讓 (Bian Rang), male, a late Eastern Han writer, an official in He Jin’s staff and later 九江太守. Show an ordinary adult literary official with modest moustache and short beard, muted beige-brown cross-collared robe and plain cloth cap, quietly attentive expression. Do not borrow Zheng Xuan’s identity or appearance. Verified identity and occupation source a03-080b: 邊讓字文禮，陳留浚儀人也。少辯博，能屬文。作章華賦，雖多淫麗之辭，而終之以正，亦如相如之諷也。……大將軍何進聞讓才名，欲辟命之，恐不至，詭以軍事徵召，旣到，署令史，續漢志曰：「大將軍下有令史及御史屬三十一人。」進以禮見之。讓善占射，能辭對，時賔客滿堂，莫不羨其風。府掾孔融、王朗並修刺候焉。朗字景興，魏志有傳。……讓後以高才擢進，屢遷，出為九江太守，不以為能也。 Input images: the two referenced project portraits are STYLE REFERENCES ONLY, not identity targets. Make a distinct original face, never copy the references' likeness. All ordinary facial proportions, facial hair, colors, expression and garment details are artistic interpretation; no verified individual facial description is available. Style: retro 1990s Chinese strategy-game pixel portrait, crisp coarse hand-placed pixel clusters, limited ochre and earth palette with the specified muted garment accent, restrained dithering, near-black olive background. Tight centered head and upper shoulders, one person. Period: late Eastern Han to Wei/Jin, modest practical clothing. No Ming/Qing hats, fantasy armour, huge crown, theatrical makeup, weapon, text, calligraphy, watermark, border, icon or overlay. Any artistic explanation belongs below the image on the site, never inside the pixels.",
+    "reviewNote": "字文禮，陳留浚儀人；本人少辯博能屬文及九江太守明載。用後漢書本人傳，不套鄭玄等人材料。未核得本人五官特徵；採普通比例原創藝術示意。",
+    "eligibilityReviewedAt": "2026-10-06T06:54:25.788Z",
+    "eligibilityBatch": "local-review-01",
+    "generator": "built-in imagegen"
   },
   {
     "id": "p0271",
@@ -4257,35 +4415,5 @@
     "generator": "built-in imagegen",
     "appearanceSource": "a05-003",
     "reviewNote": "云端逐条核对本传及裴注的本人身份、性别、职业与形貌；未载五官均为普通比例艺术示意，不借用亲属或同名人物。"
-  },
-  {
-    "id": "anonymous-male",
-    "name": "匿名男性",
-    "gender": "male",
-    "anonymous": true,
-    "status": "generated",
-    "file": "anonymous-male.webp",
-    "prompt": "Create ONE square 120x120-design pixel avatar, tightly framed head and upper shoulders, 1990s historical strategy-game portrait. Style references only: the two supplied images. Visible coarse hand-placed pixels, limited ochre and earth palette, near-black olive background, strong dithering. Period: late Eastern Han to early Jin, simple cross-collared robe, hair bound in period-appropriate cloth cap or modest crown. No Ming/Qing hats, fantasy armour, opera paint, weapons, text, labels, watermarks, decorative frame or overlay. Original artistic interpretation, not an authentic surviving likeness. Anonymous male head silhouette ONLY, featureless dark subdued shape, distinguish a simple cloth-bound masculine hair silhouette but no eyes or facial details. For unspecified gender use a completely neutral round head and shoulders. This is an intentional unknown-person placeholder.",
-    "generator": "built-in imagegen"
-  },
-  {
-    "id": "anonymous-female",
-    "name": "匿名女性",
-    "gender": "female",
-    "anonymous": true,
-    "status": "generated",
-    "file": "anonymous-female.webp",
-    "prompt": "Create ONE square 120x120-design pixel avatar, tightly framed head and upper shoulders, 1990s historical strategy-game portrait. Style references only: the two supplied images. Visible coarse hand-placed pixels, limited ochre and earth palette, near-black olive background, strong dithering. Period: late Eastern Han to early Jin, simple cross-collared robe, hair bound in period-appropriate cloth cap or modest crown. No Ming/Qing hats, fantasy armour, opera paint, weapons, text, labels, watermarks, decorative frame or overlay. Original artistic interpretation, not an authentic surviving likeness. Anonymous female head silhouette ONLY, featureless dark subdued shape, distinguish a feminine period hair bun but no eyes or facial details. For unspecified gender use a completely neutral round head and shoulders. This is an intentional unknown-person placeholder.",
-    "generator": "built-in imagegen"
-  },
-  {
-    "id": "anonymous-unknown",
-    "name": "性別未詳",
-    "gender": "unspecified",
-    "anonymous": true,
-    "status": "generated",
-    "file": "anonymous-unknown.webp",
-    "prompt": "Create ONE square 120x120-design pixel avatar, tightly framed head and upper shoulders, 1990s historical strategy-game portrait. Style references only: the two supplied images. Visible coarse hand-placed pixels, limited ochre and earth palette, near-black olive background, strong dithering. Period: late Eastern Han to early Jin, simple cross-collared robe, hair bound in period-appropriate cloth cap or modest crown. No Ming/Qing hats, fantasy armour, opera paint, weapons, text, labels, watermarks, decorative frame or overlay. Original artistic interpretation, not an authentic surviving likeness. Anonymous unspecified head silhouette ONLY, featureless dark subdued shape, distinguish a simple cloth-bound masculine hair silhouette but no eyes or facial details. For unspecified gender use a completely neutral round head and shoulders. This is an intentional unknown-person placeholder.",
-    "generator": "built-in imagegen"
   }
 ]
