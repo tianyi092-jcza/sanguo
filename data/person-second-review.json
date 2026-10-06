@@ -1796,6 +1796,33 @@
           "from": "紹又甞得一玉印，",
           "through": "太祖由是笑而惡焉。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-bichen-loyalty",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 13,
+          "from": "初，公為兖州，以東平畢諶為別駕",
+          "through": "以為魯相。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-pei-weishu-shao-kill-plan",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 13,
+          "from": "魏書曰：袁紹宿與故太尉楊彪",
+          "through": "深懷怨望。",
+          "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "cao-pei-songzhi-commentary",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 13,
+          "from": "臣松之以為楊彪亦曾為魏武所困",
+          "through": "其在行之，信矣。",
+          "citation": "裴松之按語"
         }
       ],
       "conclusions": {
