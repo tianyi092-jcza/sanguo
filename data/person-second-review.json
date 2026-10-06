@@ -1628,6 +1628,33 @@
           "through": "如曹公輔漢故事",
           "citation": "《晉書》卷一百四·載記第四（後世授禮比附，非本人行狀）",
           "display": false
+        },
+        {
+          "id": "cao-sg-welcome-emperor",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "太祖將迎天子，諸將或疑",
+          "through": "洪不得進。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-luoyang-jiajie",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "太祖遂至洛陽，衞京都，暹遁走",
+          "through": "錄尚書事。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-xudu-capital",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "洛陽殘破，董昭等勸太祖都許",
+          "through": "封武平侯。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "conclusions": {
