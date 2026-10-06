@@ -3749,6 +3749,37 @@
           "through": "免官。",
           "citation": "《後漢書·卷二十七·列傳第十七·趙典傳（附趙溫）》",
           "note": "趙溫薦辟曹丕為掾，曹操以「辟臣子弟，選舉不實」奏免其官；建安十三年（208）事。"
+        },
+        {
+          "id": "cao-hhs-qiaoxuan-youth-visit",
+          "work": "houhanshu",
+          "source": "a03-051-ahcb",
+          "paragraph": 28,
+          "from": "初，曹操微時",
+          "through": "操常感其知己。",
+          "citation": "《後漢書·卷五十一·列傳第四十一·橋玄傳》",
+          "note": "他傳正文關於曹操早年的證據：曹操微時往候橋玄，玄見而異焉，謂「今天下將亂，安生民者其在君乎」；操常感其知己。年份未載，繫年僅知在橋玄卒（建安七年祭文作於其後）之前。"
+        },
+        {
+          "id": "cao-hhs-qiaoxuan-elegy",
+          "work": "houhanshu",
+          "source": "a03-051-ahcb",
+          "paragraph": 28,
+          "from": "及後經過玄墓",
+          "through": "公其享之！",
+          "citation": "《後漢書·卷五十一·列傳第四十一·橋玄傳》",
+          "note": "正文記曹操後經過橋玄墓輒悽愴致祭，並載曹操自為祭文全文（「故太尉橋公……公其享之」）；致祭之事與《三國志·武帝紀》建安七年「遣使以太牢祀橋玄」（cao-sg-qiaoxuan-sacrifice）互證，祭文文本為《後漢書》所獨載，不改動《三國志》主值。"
+        },
+        {
+          "id": "cao-hhs-qiaoxuan-weizhi-note-202",
+          "work": "houhanshu",
+          "source": "a03-051-ahcb",
+          "paragraph": 28,
+          "from": "魏志曰「建安七年",
+          "through": "進軍官度」也。",
+          "context": "建安七年",
+          "citation": "《後漢書·卷五十一·列傳第四十一·橋玄傳》李賢注引《魏志》",
+          "note": "注文層級：李賢注引《魏志》「建安七年，曹公軍譙，遂至浚儀，遣使以太牢祀橋玄，進軍官度」，繫年建安七年（202）；與《三國志·武帝紀》七年春正月「遣使以太牢祀橋玄」（cao-sg-qiaoxuan-sacrifice）為同事件交叉引文，不改動《三國志》主值。"
         }
       ],
       "conclusions": {
