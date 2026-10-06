@@ -2229,6 +2229,36 @@
           "from": "魏書載庚申令曰：「議者或以軍吏雖有功能",
           "through": "一似管窺虎歟！」",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-ye-captured-204",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 19,
+          "context": "八月",
+          "from": "八月，審配兄子榮",
+          "through": "斬之，鄴定。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-mourn-shao-grave",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 19,
+          "context": "鄴定",
+          "from": "公臨祀紹墓",
+          "through": "廩食之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-sg-hebei-tax-exemption",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 19,
+          "context": "九月",
+          "from": "九月，令曰：「河北罹袁氏之難",
+          "through": "其令無出今年租賦！」",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "conclusions": {
