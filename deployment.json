@@ -12,7 +12,7 @@
   "verified_on": "2026-10-06",
   "current_version": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "portrait_automation_id": "automation",
-  "portrait_automation_status": "ACTIVE",
+  "portrait_automation_status": "PAUSED",
   "google_satellite": {
     "api": "Map Tiles API: 2D Map Tiles",
     "mapType": "satellite",
