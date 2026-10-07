@@ -4779,6 +4779,24 @@
           "through": "操以相讓璆，璆不敢當。",
           "citation": "《後漢書》卷四十八・徐璆傳（二十四史原文版；徐璆奉使拜曹操為丞相，操以相讓璆；與 a03-048-ahcb 第45段引文 cao-hhs-prime-minister-xu-qiu 同段互證；不改動《三國志》主值）",
           "display": false
+        },
+        {
+          "id": "cao-jin-jingzhou-settlers-plain",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 3,
+          "from": "魏武以荊州遺黎",
+          "through": "悉復業。",
+          "citation": "《晉書·卷一·宣帝紀第一》正文（二十四史原文版；與 a05-001-ahcb 第6段引文 cao-jin-jingzhou-settlers 同段互證；曹操欲徙荊州遺黎及潁川屯田，司馬懿諫止從之，僅作他傳交叉證據，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-jin-death-sima-yi-plain",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 3,
+          "from": "及魏武薨于洛陽",
+          "through": "奉梓宮還鄴。",
+          "citation": "《晉書·卷一·宣帝紀第一》正文（二十四史原文版；與 a05-001-ahcb 第7段引文 cao-jin-death-sima-yi 同段互證；魏武薨于洛陽，司馬懿綱紀喪事奉梓宮還鄴，僅作卒年交叉證據，不改動《三國志》主值）"
         }
       ],
       "conclusions": {
