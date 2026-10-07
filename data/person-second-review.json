@@ -5488,6 +5488,37 @@
           "from": "昔金元休南至封丘",
           "through": "為曹操所敗",
           "citation": "《後漢書·卷七十五·袁術列傳》（二十四史原文版；與 a03-075-ahcb 第31段 cao-hhs-yuanshu-jinyuanxiu 同段原文版複核：袁術引呂布擊劉備書信中追述曹操破其將金元休（名尚）於封丘，信中用「昔」字追述；李賢注引《典略》補「獻帝初為兖州刺史，東之郡，而太祖已臨兖州」。書信追述不代本紀繫年，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-luzhi-memorial-plain",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 28,
+          "context": "建安中",
+          "from": "曹操北討柳城",
+          "through": "亟遣丞掾除其墳墓",
+          "citation": "《後漢書·卷六十四·盧植傳》（二十四史原文版；與 a03-064-ahcb 第27段 cao-hhs-luzhi-memorial 同段原文版複核：曹操北征烏桓經涿郡，告守令褒盧植並存其墳墓子孫；注引《魏志》繫建安十二年。僅作他傳交叉證據，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zhaoqi-negotiation-plain",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 36,
+          "from": "是時袁紹、曹操與公孫瓚爭兾州",
+          "through": "皆與歧期會洛陽",
+          "citation": "《後漢書·卷六十四·趙岐傳》（二十四史原文版；與 a03-064-ahcb 第35段 cao-hhs-zhaoqi-negotiation 同段原文版複核：袁紹、曹操與公孫瓚爭冀州，趙岐陳天子恩德勸罷兵，各引兵去期會洛陽。僅作他傳交叉證據，不作曹操持續任職依據，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zhaoqi-sikong-plain",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 38,
+          "from": "曹操時為司空，舉以自代。",
+          "through": "於是就拜歧為太常。",
+          "citation": "《後漢書·卷六十四·趙岐傳》（二十四史原文版；與 a03-064-ahcb 第37段 cao-hhs-zhaoqi-sikong 同段原文版複核：曹操為司空時舉趙岐自代，歧遂拜太常。本段未明載年份，僅作他傳交叉證據，不作曹操主官歷依據，不改動《三國志》主值）",
+          "display": false
         }
       ],
       "conclusions": {
