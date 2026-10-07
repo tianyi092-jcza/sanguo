@@ -5092,6 +5092,36 @@
           "from": "十二年，太祖至遼西擊烏丸。",
           "through": "公孫康誘斬之，送其首。",
           "citation": "《三國志·卷六·袁紹傳》第26段正文（二十四史原文版）：建安十二年太祖至遼西擊烏丸，袁尚、袁熈敗走遼東，為公孫康誘斬送首。裴注引《典略》補伏兵斬首細節（注文層級未併入）；與《後漢書》cao-hhs-xiandi-wuhuan-207互證，僅作交叉證據，不改動《三國志》主值。"
+        },
+        {
+          "id": "cao-hhs-kongrong-ye-plain",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 19,
+          "from": "初，曹操攻屠鄴城",
+          "through": "而操子丕私納袁熙妻甄氏。",
+          "citation": "《後漢書·卷七十·孔融傳》（二十四史原文版；與 a03-070-ahcb 第18段 cao-hhs-kongrong-ye 同段原文版複核：曹操攻屠鄴城，曹丕私納袁熙妻甄氏；僅作列傳交叉引文，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-kongrong-daji-mock-plain",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 19,
+          "from": "融乃與操書",
+          "through": "以今度之，想當然耳。」",
+          "citation": "《後漢書·卷七十·孔融傳》（二十四史原文版；與 a03-070-ahcb 第18段 cao-hhs-kongrong-daji-mock 同段原文版複核：孔融致書曹操，以武王伐紂妲己賜周公事相嘲；書信追述不代本紀繫年，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-kongrong-wuhuan-mock-plain",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 19,
+          "from": "後操討烏桓，建安十二年也。",
+          "through": "丁零盜蘇武牛羊，可并案也。」",
+          "citation": "《後漢書·卷七十·孔融傳》（二十四史原文版；與 a03-070-ahcb 第18段 cao-hhs-kongrong-wuhuan-mock 同段原文版複核：建安十二年曹操討烏桓，孔融致書嘲其遠征；烏桓戰事繫年已依《三國志》定位，不改動主值）",
+          "display": false
         }
       ],
       "conclusions": {
