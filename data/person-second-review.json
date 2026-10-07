@@ -7104,6 +7104,33 @@
           "from": "淯乃收歛揖喪，送還本郡，行服三年乃還。",
           "through": "太祖聞之，辟為掾屬。",
           "citation": "《三國志・魏書十八・龐淯傳》"
+        },
+        {
+          "id": "cao-pei-weilue-zhanggong-xizhou",
+          "work": "peizhu",
+          "source": "a04-018",
+          "paragraph": 35,
+          "from": "功曹張恭素有學行，郡人推行長史事，恩信甚著，乃遣子就東詣太祖，請太守。",
+          "through": "功曹張恭素有學行，郡人推行長史事，恩信甚著，乃遣子就東詣太祖，請太守。",
+          "citation": "裴注引《魏略》"
+        },
+        {
+          "id": "cao-sg-019-1",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 1,
+          "from": "太祖嘗問諸子所好，使各言其志。",
+          "through": "太祖大笑。",
+          "citation": "《三國志・魏書十九・任城威王彰傳》"
+        },
+        {
+          "id": "cao-sg-019-2",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 5,
+          "from": "時鄴銅爵臺新城，太祖悉將諸子登臺，使各為賦。",
+          "through": "太祖甚異之。",
+          "citation": "《三國志・魏書十九・陳思王植傳》"
         }
       ],
       "conclusions": {
