@@ -6242,6 +6242,39 @@
           "context": "后曰：「王自以丕年大，故用為嗣，我但當以免無教導之過為幸耳，亦何為當重賜遺乎！」長御還，具以語太祖。",
           "citation": "《三國志・魏書》卷五《后妃傳》第3段（ahcb 版）：武宣卞皇后傳—文帝為太子，左右長御賀后，後辭曰「我但當以免無教導之過為幸耳」；長御以語太祖，太祖悅曰「怒不變容，喜不失節，故是最為難」。正文層。",
           "display": false
+        },
+        {
+          "id": "cao-sgz-bianhou-taizu-beng-ahcb",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 4,
+          "from": "二十五年，太祖崩",
+          "through": "文帝即王位",
+          "context": "二十五年，太祖崩，文帝即王位",
+          "citation": "《三國志・魏書》卷五《后妃傳》第4段（ahcb 版）：武宣卞皇后傳—建安二十五年太祖崩，文帝即王位。正文層。",
+          "display": false
+        },
+        {
+          "id": "cao-sgz-zhenhou-weilue-yingqu-ahcb",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 9,
+          "from": "太祖聞其意",
+          "through": "遂為迎取",
+          "context": "稱歎之。太祖聞其意，遂為迎取。",
+          "citation": "《三國志・魏書》卷五《后妃傳》第9段（ahcb 版）：文昭甄皇后傳引《魏略》—鄴城破後文帝見甄氏「稱歎之」，太祖聞其意，遂為文帝迎取。異說層。",
+          "display": false
+        },
+        {
+          "id": "cao-sgz-guohou-weigong-donggong-ahcb",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 14,
+          "from": "太祖為魏公時",
+          "through": "得入東宮",
+          "context": "沒在銅鞮侯家。太祖為魏公時，得入東宮。",
+          "citation": "《三國志・魏書》卷五《后妃傳》第14段（ahcb 版）：文德郭皇后傳—郭女王喪亂流離沒於銅鞮侯家，太祖為魏公時得之入東宮。正文層。",
+          "display": false
         }
       ],
       "conclusions": {
