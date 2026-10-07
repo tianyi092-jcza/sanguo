@@ -7518,6 +7518,33 @@
           "from": "曹公定荊州",
           "through": "共至夏口",
           "citation": "《三國志・蜀書六・關張馬黃趙傳・關羽傳》"
+        },
+        {
+          "id": "cao-sg-036-4",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 15,
+          "from": "超旣統衆",
+          "through": "軍以大敗。",
+          "citation": "《三國志・蜀書六・關張馬黃趙傳・馬超傳》"
+        },
+        {
+          "id": "cao-sg-036-5",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 14,
+          "from": "初，曹公為丞相",
+          "through": "辟騰長子超，不就。",
+          "citation": "《三國志・蜀書六・關張馬黃趙傳・馬超傳》裴注引《典略》"
+        },
+        {
+          "id": "cao-sg-036-6",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 5,
+          "from": "曹公議徙許都以避其銳",
+          "through": "曹公從之。",
+          "citation": "《三國志・蜀書六・關張馬黃趙傳・關羽傳》"
         }
       ],
       "conclusions": {
