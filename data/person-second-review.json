@@ -7428,6 +7428,33 @@
           "from": "是歲，曹公定漢中",
           "through": "張魯遁走巴西",
           "citation": "《三國志・蜀書二・先主傳》"
+        },
+        {
+          "id": "cao-sg-032-16",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 16,
+          "from": "二十三年，先主率諸將進兵漢中",
+          "through": "與淵、郃等相拒",
+          "citation": "《三國志・蜀書二・先主傳》"
+        },
+        {
+          "id": "cao-sg-032-17",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 17,
+          "from": "曹公自長安舉衆南征",
+          "through": "先主遂有漢中",
+          "citation": "《三國志・蜀書二・先主傳》"
+        },
+        {
+          "id": "cao-sg-032-18",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 21,
+          "from": "魏書曰：備聞曹公薨",
+          "through": "絕使命",
+          "citation": "《三國志・蜀書二・先主傳》裴注引《魏書》"
         }
       ],
       "conclusions": {
