@@ -7383,6 +7383,33 @@
           "from": "先主屯樊，不知曹公卒至",
           "through": "遂將其衆去",
           "citation": "《三國志・蜀書二・先主傳》第9段：正文。建安十三年曹操南征荊州，劉備屯樊竟不知曹公已至宛，至宛乃聞之，遂將其衆去。敵方視角旁證南征進軍之速；南征荊州主值已定，此條僅作他傳交叉證據。"
+        },
+        {
+          "id": "cao-sg-032-7",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "曹公以江陵有軍實",
+          "through": "曹公大獲其人衆輜重",
+          "citation": "《三國志・蜀書二・先主傳》"
+        },
+        {
+          "id": "cao-sg-032-8",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "與曹公戰于赤壁",
+          "through": "曹公引歸",
+          "citation": "《三國志・蜀書二・先主傳》"
+        },
+        {
+          "id": "cao-sg-032-9",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 12,
+          "from": "劉璋遙聞曹公將遣鍾繇等向漢中討張魯",
+          "through": "內懷恐懼",
+          "citation": "《三國志・蜀書二・先主傳》"
         }
       ],
       "conclusions": {
