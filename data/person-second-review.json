@@ -4555,6 +4555,36 @@
           "from": "是歲，曹操殺琅邪王熙，國除。",
           "through": "是歲，曹操殺琅邪王熙，國除。",
           "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第29段 cao-hhs-xiandi-langyewangxi-216 同段：本紀正文建安二十一年曹操殺琅邪王熙、國除；僅作交叉證據，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-gengji-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 31,
+          "context": "二十三年",
+          "from": "少府耿紀、丞相司直韋晃起兵誅曹操",
+          "through": "不克，夷三族。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第31段 cao-hhs-gengji-218 同段：本紀正文建安二十三年春正月甲子少府耿紀、丞相司直韋晃起兵誅曹操，不克，夷三族；僅作交叉證據，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-death-wei-quote-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 33,
+          "context": "二十五年",
+          "from": "二十五年春正月庚子，魏王曹操薨。",
+          "through": "二十五年春正月庚子，魏王曹操薨。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第33段 cao-hhs-death-wei-quote 同段：本紀正文建安二十五年春正月庚子魏王曹操薨；僅作交叉證據，死亡日期精度維持「建安二十五年正月庚子」，不折算公曆，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-death-weizhi-note-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 33,
+          "context": "二十五年",
+          "from": "魏志曰，操字孟德",
+          "through": "薨時年六十六。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》注文（二十四史原文版；與 a03-009-ahcb 第33段同段注文互證：李賢注引《魏志》「操字孟德，薨時年六十六」；注文層次引書追述，字已有主值，年齡為引書之說，僅作交叉證據，不改動《三國志》主值）"
         }
       ],
       "conclusions": {
