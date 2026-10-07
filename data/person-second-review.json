@@ -5947,6 +5947,36 @@
           "through": "必歸曹氏。",
           "citation": "《後漢書》卷六十七‧黨錮列傳李膺傳第24段（二十四史原文版；傳正文記李膺子瓚臨終命子孫歸曹氏的人物品評軼事，僅作曹操微時聲名交叉旁證，不改動《三國志》主值）",
           "display": false
+        },
+        {
+          "id": "cao-jin-xunxu-xunyou-xingyu-plain",
+          "work": "jinshu",
+          "source": "a05-039",
+          "paragraph": 40,
+          "from": "昔魏武帝使中軍司荀攸典刑獄，",
+          "through": "明帝時猶以付內常侍",
+          "citation": "《晉書》卷三十九‧列傳第九（二十四史原文版；荀勗議事段落引魏武帝以荀攸典刑獄為行政先例，與 a05-039-ahcb 第40段同段互證；僅作曹操用人制度的後世旁證，不改《三國志》主繫年）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-wudi-xunyubros-quote-plain",
+          "work": "jinshu",
+          "source": "a05-039",
+          "paragraph": 42,
+          "from": "魏武帝言『荀文若之進善，不進不止；",
+          "through": "荀公達之退惡，不退不休。",
+          "citation": "《晉書》卷三十九‧列傳第九（二十四史原文版；晉武帝勉荀勗語，轉述魏武帝評荀彧、荀攸，與 a05-039-ahcb 第42段同段互證；屬二次轉述的評語引文，不作曹操本人行為事實依據）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-qiao-commandery-plain",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 41,
+          "from": "魏武分沛立譙郡",
+          "through": "魏武分沛立譙郡",
+          "citation": "《晉書》卷十四‧地理志（二十四史原文版；豫州郡縣沿革「魏武分沛立譙郡」，與 a05-014-ahcb 第51段同段互證；僅作建置沿革旁證，不改《三國志》主值）",
+          "display": false
         }
       ],
       "conclusions": {
