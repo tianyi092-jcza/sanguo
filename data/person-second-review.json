@@ -4454,6 +4454,33 @@
           "from": "十年春正月，曹操破袁譚於青州",
           "through": "斬之。",
           "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第18段 cao-hhs-xiandi-yuantan-205 同段原文版複核：建安十年春正月「曹操破袁譚於青州，斬之」；段內注引《魏書》操親執桴鼓屬注文層級，未併入本引文；僅作本紀正文交叉引文，不改動主值）"
+        },
+        {
+          "id": "cao-hhs-xiandi-gaogan-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 19,
+          "from": "三月，曹操破高幹於并州",
+          "through": "獲之。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第19段 cao-hhs-xiandi-gaogan-206 同段原文版複核：建安十一年三月「曹操破高幹於并州，獲之」；段內《典論》引上洛都尉王琰追斬高幹之說屬注文層級，未併入本引文；僅作本紀正文交叉引文，不改動主值）"
+        },
+        {
+          "id": "cao-hhs-xiandi-wuhuan-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 20,
+          "from": "十二年秋八月，曹操大破烏桓於柳城",
+          "through": "斬其蹋頓。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第20段 cao-hhs-xiandi-wuhuan-207 同段原文版複核：建安十二年秋八月「曹操大破烏桓於柳城，斬其蹋頓」；蹋頓名號、柳城地望諸句為李賢注文，屬注文層級，未併入本引文；僅作本紀正文交叉引文，不改動主值）"
+        },
+        {
+          "id": "cao-hhs-xiandi-prime-minister-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 21,
+          "from": "癸巳，曹操自為丞相",
+          "through": "癸巳，曹操自為丞相。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第21段 cao-hhs-prime-minister 同段原文版複核：建安十三年夏六月罷三公置丞相，「癸巳，曹操自為丞相」；同段其餘子句（南征劉表、殺孔融、劉琮降、赤壁）已另條複核，待下輪；僅作本紀正文交叉引文，不改動主值）"
         }
       ],
       "conclusions": {
