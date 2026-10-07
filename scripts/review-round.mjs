@@ -38,14 +38,27 @@ for (const e of [...excerpts, ...exclusions]) {
   if (!seen.has(k)) { seen.add(k); covered.push(k); }
 }
 
+// 备忘压缩：只保留头部（原始任务描述）与尾部（最新增补），中间历史省略。
+// 保证每轮工作单输出 <15KB；完整备忘仍保留在 data/person-second-review.json 中。
+function compactMemo(s, budget = 2600) {
+  if (s == null) return s;
+  if (typeof s !== 'string') return s;
+  if (s.length <= budget) return s;
+  const head = 400;
+  const tail = budget - head;
+  return s.slice(0, head) + '\n…（中间历史已省略，见 JSON 原文）…\n' + s.slice(-tail);
+}
+
 const out = {
   done: false,
   isNew,
   person: {id: current.id, name: current.name, status: current.status},
   counts: {excerpts: excerpts.length, exclusions: exclusions.length, unresolved: unresolved.length},
   // 本轮目标：unresolved 前 3 条（字符串备忘）；单条卡住可跳过，留给下轮。
-  target: unresolved[0] ?? null,
-  targets: unresolved.slice(0, 3),
+  // 备忘会随轮次追加增补而变长，这里只输出"头部任务描述 + 尾部最新增补"，
+  // 中间历史省略，保证工作单 <15KB。完整历史仍保留在 JSON 中。
+  target: compactMemo(unresolved[0]),
+  targets: unresolved.slice(0, 3).map(t => compactMemo(t)),
   covered,
   // 新条目字段格式照抄模板（context 可选；citation 纯文本无 URL）。
   templateExcerpt: excerpts[excerpts.length - 1] ?? null,
