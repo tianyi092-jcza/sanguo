@@ -4615,6 +4615,26 @@
           "from": "魏武以為近賊，欲徙河北。",
           "through": "則樊圍自解。」",
           "citation": "《晉書·卷一·宣帝紀第一》正文（二十四史原文版；與 a05-001-ahcb 第5段同段引文 cao-jin-capital-advice 互證；關羽圍樊、魏武欲徙都河北，司馬懿諫止、魏武從之，僅作交叉證據，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-yu-appointment-plain",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 35,
+          "context": "珣子㻛，曹操辟為丞相掾",
+          "from": "曹操辟為丞相掾",
+          "through": "曹操辟為丞相掾",
+          "citation": "《後漢書·卷四十八·楊震列傳》正文（二十四史原文版；與 a03-048-ahcb 第34段 cao-hhs-yu-appointment 同段：應奉七世通顯，記曹操辟珣子㻛為丞相掾；記他人授官，僅作交叉證據，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-yuanshu-seal-anecdote-plain",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 45,
+          "context": "術得璽，舉以向肘",
+          "from": "術得璽，舉以向肘。魏武謂之曰",
+          "through": "不聽汝乃至此。",
+          "citation": "《後漢書·卷四十八·楊震列傳》正文（二十四史原文版；與 a03-048-ahcb 第44段 cao-hhs-yuanshu-seal-anecdote 同段：本傳引《衛宏》所記袁術得傳國璽、魏武謂之「我在，不聽汝乃至此」之故事；後出引書故事，僅作交叉證據，不改動《三國志》主值）"
         }
       ],
       "conclusions": {
@@ -5636,6 +5656,15 @@
           "term": "孟德",
           "quote": "山陽公載記曰：「時許靖在巴郡，聞立諸王，曰：『將欲歙之，必姑張之；將欲奪之，必姑與之。其孟德之謂乎！』」",
           "reason": "山陽公載記引許靖對建安十七年立諸王的評語，以「孟德」作權術借代；屬後出議論套語，不載曹操本人行狀，不作生卒、官職或勢力依據，排除。（與 a03-009-ahcb 第25段 cao-excl-018 同段原文版複核）"
+        },
+        {
+          "id": "cao-excl-001-plain",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 2,
+          "term": "曹公",
+          "quote": "春秋：「昭公二十年，曹公孫會自鄸出奔宋。」",
+          "reason": "《春秋》所記春秋時代曹國公孫會，非漢末曹操；僅字面同名，排除。（與 a03-048-ahcb 第1段 cao-excl-001 同段原文版複核）"
         }
       ]
     }
