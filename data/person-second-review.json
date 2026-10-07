@@ -4728,6 +4728,26 @@
           "from": "彭城王據，太祖之子",
           "through": "皇室之長。",
           "citation": "《晉書·卷二·文帝紀》（二十四史原文版；與 a05-002-ahcb 第7段引文 cao-jinshu-son-ju 同段互證；司馬師廢曹芳後議立彭城王據，稱其為太祖之子，僅作曹操子嗣旁證，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-jin-ye-fief-plain",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 28,
+          "from": "鄴魏武受封居此",
+          "through": "鄴魏武受封居此",
+          "citation": "《晉書》卷十四·地理志（鄴縣沿革追述；與 a05-014-ahcb 第29段引文 cao-jin-ye-fief 同段互證，僅作封魏公居鄴交叉證據，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-chenliu-country-plain",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 32,
+          "from": "陳留國漢置。",
+          "through": "魏武帝封。",
+          "citation": "《晉書》卷十四·地理志（陳留國沿革；封授對象須另核；與 a05-014-ahcb 第34段引文 cao-jin-chenliu-country 同段互證，不改動《三國志》主值）",
+          "display": false
         }
       ],
       "conclusions": {
@@ -5813,6 +5833,15 @@
           "term": "太祖",
           "quote": "贊曰：世宗繼文，邦權未分。三千之士，其從如雲。太祖無外，靈關靜氛。",
           "reason": "《晉書·卷二·文帝紀》贊曰以「世宗」「太祖」對舉司馬師、司馬昭，此「太祖」指晉文帝司馬昭，非曹操，排除。（二十四史原文版；與 a05-002-ahcb 第 65 段 cao-excl-006 同段互證）"
+        },
+        {
+          "id": "cao-excl-067-plain",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 1,
+          "term": "魏武",
+          "quote": "魏武定霸，三方鼎立，生靈版蕩，關洛荒蕪，所置者十二，新興、樂平、西平、新平、洛陽、陰平、帶方、譙、樂陵、章武、南鄉、襄陽。",
+          "reason": "《晉書》卷十四・志第四・地理上總論「魏武定霸，三方鼎立」為晉人論漢末三國郡縣沿革之史論評語，非曹操行狀事實。（二十四史原文版；與 a05-014-ahcb 第 0 段 cao-excl-067 同段互證）"
         }
       ]
     }
