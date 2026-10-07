@@ -5322,6 +5322,37 @@
           "from": "聞曹操征之，至陽平",
           "through": "封魯五子及閻圃等皆為列侯。",
           "citation": "《後漢書·卷七十五·張魯列傳》（二十四史原文版；與 a03-075-ahcb 第14段 cao-hhs-zhanglu-yangping-215 同段原文版複核：張魯聞曹操征漢中至陽平，弟衞拒關固守，操破衞斬之，魯出降，拜鎮南將軍、封閬中侯，邑萬戶，封魯五子及閻圃等皆為列侯；段內李賢注引魏志「太祖征魯至陽平關」按注文層級分層；繫建安二十年（215）承《三國志·武帝紀》繫年，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-yangbiao-incident-plain",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 37,
+          "context": "建安元年",
+          "from": "兖州刺史曹操上殿",
+          "through": "操不得已，遂理出彪。",
+          "citation": "《後漢書·卷五十四·楊彪傳》（二十四史原文版；與 a03-054-ahcb 第37段 cao-hhs-yangbiao-incident 同段原文版複核：建安元年稱曹操為兖州刺史，與本紀年職記載抵牾，先存異，不作主官歷依據；段內孔融諫救彪一段原文版夾注體例與 ahcb 分注不同，僅作交叉證據，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yangxiu-killing-plain",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 38,
+          "from": "後子脩為曹操所殺",
+          "through": "操為之改容。",
+          "citation": "《後漢書·卷五十四·楊彪傳》（二十四史原文版；與 a03-054-ahcb 第38段 cao-hhs-yangxiu-killing 同段原文版複核：楊修被殺後曹操見楊彪問「公何瘦之甚」，彪以金日磾先見對，操為之改容；他傳追述交叉證據，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yangxiu-appointment-and-death-plain",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 39,
+          "from": "脩字德祖，好學，有俊才",
+          "through": "遂因事殺之。",
+          "citation": "《後漢書·卷五十四·楊彪傳》（二十四史原文版；與 a03-054-ahcb 第39段 cao-hhs-yangxiu-appointment-and-death 同段原文版複核：楊修為丞相曹操主簿，雞肋事及操忌修因事殺之；段內《典略》引文按引書層次分層，段末《續漢書》殺因異說另列不併為單一動機，不改動《三國志》主值）",
+          "display": false
         }
       ],
       "conclusions": {
