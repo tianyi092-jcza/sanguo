@@ -7491,6 +7491,33 @@
           "from": "昔先帝敗軍於楚",
           "through": "謂天下以定",
           "citation": "《三國志・蜀書五・諸葛亮傳》裴注引張儼《默記》之後出師表（亮集所無）"
+        },
+        {
+          "id": "cao-sg-036-1",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 1,
+          "from": "曹公與劉備圍呂布於下邳",
+          "through": "羽心不自安",
+          "citation": "《三國志・蜀書六・關張馬黃趙傳・關羽傳》裴注引《蜀記》"
+        },
+        {
+          "id": "cao-sg-036-2",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 2,
+          "from": "建安五年，曹公東征",
+          "through": "彼各為其主，勿追也",
+          "citation": "《三國志・蜀書六・關張馬黃趙傳・關羽傳》"
+        },
+        {
+          "id": "cao-sg-036-3",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 3,
+          "from": "曹公定荊州",
+          "through": "共至夏口",
+          "citation": "《三國志・蜀書六・關張馬黃趙傳・關羽傳》"
         }
       ],
       "conclusions": {
