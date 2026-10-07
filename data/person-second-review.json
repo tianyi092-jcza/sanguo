@@ -7299,6 +7299,36 @@
           "through": "因令創制雅樂",
           "context": "荊州牧劉表令與孟曜為漢主合雅樂，樂備，表欲庭觀之",
           "citation": "《三國志・魏書二十九・方技傳・杜夔傳》"
+        },
+        {
+          "id": "cao-sg-030-1",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 4,
+          "from": "會太祖平河北",
+          "through": "由是三郡烏丸為天下名騎",
+          "context": "後袁尚敗奔蹋頓，憑其勢，復圖兾州。",
+          "citation": "《三國志・魏書三十・烏丸鮮卑東夷傳》"
+        },
+        {
+          "id": "cao-sg-030-2",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 6,
+          "from": "建安中，太祖定幽州",
+          "through": "因烏丸校尉閻柔上貢獻",
+          "context": "魁頭死，弟步度根代立。",
+          "citation": "《三國志・魏書三十・烏丸鮮卑東夷傳》"
+        },
+        {
+          "id": "cao-sg-031-1",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 4,
+          "from": "璋聞曹公征荊州",
+          "through": "松還，疵毀曹公，勸璋自絕",
+          "context": "趙韙稱兵內向，衆散見殺，皆由璋明斷少而外言入故也。",
+          "citation": "《三國志・蜀書一・劉二牧傳》"
         }
       ],
       "conclusions": {
