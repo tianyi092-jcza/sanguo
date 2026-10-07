@@ -6120,6 +6120,36 @@
           "through": "壬子，曹操殺太中大夫孔融，夷其族。",
           "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第21段 cao-hhs-xiandi-kongrong-208 同段原文版複核：繫建安十三年秋八月壬子，曹操殺太中大夫孔融，夷其族；僅作本紀正文交叉引文，不改動主值）",
           "display": false
+        },
+        {
+          "id": "cao-hhs-fuwan-zhengzai-caocao-plain",
+          "work": "houhanshu",
+          "source": "a03-010b",
+          "paragraph": 1,
+          "from": "完以政在曹操，自嫌尊戚，乃上印綬",
+          "through": "完以政在曹操，自嫌尊戚，乃上印綬",
+          "citation": "《後漢書·卷十下·皇后紀第十下》（二十四史原文版；伏壽皇后傳第1段「完以政在曹操，自嫌尊戚，乃上印綬」：他傳正文記伏完以曹操掌政而自嫌尊戚上印綬，建安元年曹操掌政交叉證據，僅作他傳正文交叉引文，不改動主值）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-zhaoyan-killed-plain",
+          "work": "houhanshu",
+          "source": "a03-010b",
+          "paragraph": 2,
+          "from": "曹操惡而殺之",
+          "through": "曹操惡而殺之",
+          "citation": "《後漢書·卷十下·皇后紀第十下》（二十四史原文版；伏壽皇后傳第2段「議郎趙彥甞為帝陳言時策，曹操惡而殺之」：他傳正文記曹操誅殺議郎趙彥，僅作曹操專權交叉證據，不改動主值）",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-depose-empress-fu-plain",
+          "work": "houhanshu",
+          "source": "a03-010b",
+          "paragraph": 2,
+          "from": "操追大怒，遂逼帝廢后",
+          "through": "操追大怒，遂逼帝廢后",
+          "citation": "《後漢書·卷十下·皇后紀第十下》（二十四史原文版；伏壽皇后傳第2段「操追大怒，遂逼帝廢后」：他傳正文記建安十九年曹操逼帝廢伏壽皇后，僅作他傳正文交叉證據，不改動主值）",
+          "display": false
         }
       ],
       "conclusions": {
