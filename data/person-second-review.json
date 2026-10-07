@@ -3944,6 +3944,33 @@
           "through": "斬文醜。",
           "citation": "《後漢書·卷七十四上·列傳第六十四上·袁紹傳》",
           "note": "正文層級（建安五年200年，延津之戰）：「紹使劉備、文醜挑戰，曹操又擊破之，斬文醜。」為官渡戰役前劉備、文醜挑戰被破的記載；同段後續「霹靂車」段待後續輪次核對。"
+        },
+        {
+          "id": "cao-hhs-yuanshao-xuyou-wuchao-200",
+          "work": "houhanshu",
+          "source": "a03-074-ahcb",
+          "paragraph": 35,
+          "from": "攸不得志，遂奔曹操，而說使襲取淳于瓊等",
+          "through": "操自將步騎五千人，夜往攻破瓊等，悉斬之。",
+          "citation": "《後漢書·卷七十四上·列傳第六十四上·袁紹傳》"
+        },
+        {
+          "id": "cao-hhs-yuanshao-caomanzhuan-xuyou",
+          "work": "houhanshu",
+          "source": "a03-074-ahcb",
+          "paragraph": 35,
+          "from": "曹瞞傳曰：「公聞許攸來，跣出迎之。攸勸公襲瓊等",
+          "through": "皆取鼻，牛馬割唇舌，以示紹軍。",
+          "citation": "《後漢書·卷七十四上·列傳第六十四上·袁紹傳》李賢注引《曹瞞傳》"
+        },
+        {
+          "id": "cao-hhs-yuanshao-jushou-captured-200",
+          "work": "houhanshu",
+          "source": "a03-074-ahcb",
+          "paragraph": 37,
+          "from": "沮授爲操軍所執，乃大呼曰：「授不降也，爲所執耳。」",
+          "through": "授尋謀歸袁氏，乃誅之。",
+          "citation": "《後漢書·卷七十四上·列傳第六十四上·袁紹傳》"
         }
       ],
       "conclusions": {
