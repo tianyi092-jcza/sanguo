@@ -5212,6 +5212,35 @@
           "from": "先賢傳稱不疑幼有異才",
           "through": "著文論四首。",
           "citation": "《三國志·卷六·劉表傳》第37段裴注引《先賢傳》及摯虞《文章志》（二十四史原文版）：劉先甥周不疑幼有異才，太祖欲以女妻之；及倉舒卒，太祖心忌不疑，謂「此人非汝所能駕御也」，遣刺客殺之；不疑死時年十七，著文論四首。注文層級引書追述，僅作交叉證據，不改動《三國志》主值。"
+        },
+        {
+          "id": "cao-hhs-lubu-campaign-year-variant-plain",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 38,
+          "context": "建安二年",
+          "from": "建安二年，布遂復從袁術",
+          "through": "操乃自將擊布，至下邳城下。",
+          "citation": "《後漢書》卷七十五·呂布傳第38段（二十四史原文版）：「建安二年」記操乃自將擊布至下邳城下，與 ahcb 版 cao-hhs-lubu-campaign-year-variant 同段引文互證；《三國志·武帝紀》明標建安三年，《華陽國志》卷六亦作三年，先存編年異說，戰事主繫年依陳壽正文，不改動《三國志》主值。",
+          "display": false
+        },
+        {
+          "id": "cao-hhs-yuanshu-expedition-197-plain",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 23,
+          "from": "曹操乃自征之",
+          "through": "操擊破斬蕤，而勳退走。",
+          "citation": "《後漢書》卷七十五·袁術列傳第23段（二十四史原文版）：袁術僭號後曹操乃自征之，操擊破斬橋蕤而張勳退走，與 ahcb 版 cao-hhs-yuanshu-expedition-197 同段引文互證；正文層次他傳交叉證據，不改動《三國志》主值。"
+        },
+        {
+          "id": "cao-hhs-lvbu-yongqiu-195-plain",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 31,
+          "from": "曹操聞而引軍擊布",
+          "through": "屠之，滅其三族。",
+          "citation": "《後漢書》卷七十五·呂布列傳第31段（二十四史原文版）：操引軍擊布累戰相持，二年閒收諸城破布於鉅野，布東奔劉備，操圍雍丘屠超滅其三族，與 ahcb 版 cao-hhs-lvbu-yongqiu-195 同段引文互證；傳文繫年與《三國志》建安三年征布敘事存異，僅作交叉證據，不改動《三國志》主值。"
         }
       ],
       "conclusions": {
