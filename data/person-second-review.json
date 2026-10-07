@@ -4526,6 +4526,35 @@
           "from": "十一月丁卯，曹操殺皇后伏氏",
           "through": "滅其族及二皇子。",
           "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第27段 cao-hhs-xiandi-fu-empress-214 同段：本紀正文建安十九年十一月丁卯曹操殺皇后伏氏、滅其族及二皇子；與《皇后紀》伏皇后傳分源保存，僅作交叉證據）"
+        },
+        {
+          "id": "cao-hhs-xiandi-hanzhong-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 28,
+          "from": "秋七月，曹操破漢中",
+          "through": "張魯降。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第28段 cao-hhs-xiandi-hanzhong-215 同段：本紀正文建安二十年秋七月曹操破漢中、張魯降；僅作交叉證據，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-xiandi-wei-king-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 29,
+          "context": "二十一年",
+          "from": "夏四月甲午，曹操自進號魏王。",
+          "through": "夏四月甲午，曹操自進號魏王。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第29段 cao-hhs-wei-king 同段：本紀正文建安二十一年夏四月甲午曹操自進號魏王；僅作交叉證據，不改動《三國志》主值）"
+        },
+        {
+          "id": "cao-hhs-xiandi-langyewangxi-plain",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 29,
+          "context": "二十一年",
+          "from": "是歲，曹操殺琅邪王熙，國除。",
+          "through": "是歲，曹操殺琅邪王熙，國除。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》（二十四史原文版；與 a03-009-ahcb 第29段 cao-hhs-xiandi-langyewangxi-216 同段：本紀正文建安二十一年曹操殺琅邪王熙、國除；僅作交叉證據，不改動《三國志》主值）"
         }
       ],
       "conclusions": {
