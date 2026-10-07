@@ -7077,6 +7077,33 @@
           "from": "太祖征荊州，琮舉州降",
           "through": "賜爵關內侯。",
           "citation": "《三國志・魏書十八・文聘傳》"
+        },
+        {
+          "id": "cao-sg-018-7",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 19,
+          "from": "太祖在兖州，聞虔有膽策，以為從事，將家兵守湖陸。",
+          "through": "太祖以虔領泰山太守。",
+          "citation": "《三國志・魏書十八・呂虔傳》"
+        },
+        {
+          "id": "cao-sg-018-8",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 22,
+          "from": "太祖徇淮、汝，褚以衆歸太祖。",
+          "through": "即日拜都尉，引入宿衞。",
+          "citation": "《三國志・魏書十八・許褚傳》"
+        },
+        {
+          "id": "cao-sg-018-9",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 31,
+          "from": "淯乃收歛揖喪，送還本郡，行服三年乃還。",
+          "through": "太祖聞之，辟為掾屬。",
+          "citation": "《三國志・魏書十八・龐淯傳》"
         }
       ],
       "conclusions": {
