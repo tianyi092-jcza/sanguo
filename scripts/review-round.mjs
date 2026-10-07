@@ -43,12 +43,13 @@ const out = {
   isNew,
   person: {id: current.id, name: current.name, status: current.status},
   counts: {excerpts: excerpts.length, exclusions: exclusions.length, unresolved: unresolved.length},
-  // 本轮目标：unresolved 第 1 条（字符串备忘）。
+  // 本轮目标：unresolved 前 3 条（字符串备忘）；单条卡住可跳过，留给下轮。
   target: unresolved[0] ?? null,
+  targets: unresolved.slice(0, 3),
   covered,
   // 新条目字段格式照抄模板（context 可选；citation 纯文本无 URL）。
   templateExcerpt: excerpts[excerpts.length - 1] ?? null,
   templateExclusion: exclusions[exclusions.length - 1] ?? null,
-  rule: '本轮只新增 1 条 excerpt 或 1 条 exclusion；不要打开 data/person-second-review.json、PERSON_SECOND_REVIEW.md、AGENTS.md 全文；校验速查见定时任务正文。'
+  rule: '本轮新增最多 3 条 excerpt/exclusion（按 targets 顺序逐条处理；单条卡住超过约 3 分钟可跳过，留给下轮；做不完 3 条就提交已做好的部分，不硬凑）；不要打开 data/person-second-review.json、PERSON_SECOND_REVIEW.md、AGENTS.md 全文；校验速查见定时任务正文。'
 };
 process.stdout.write(JSON.stringify(out, null, 2) + '\n');
