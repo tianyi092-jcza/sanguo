@@ -5724,6 +5724,36 @@
           "through": "操擊破之，遂、超敗走",
           "citation": "《後漢書》卷七十二第36段（二十四史原文版；范曄正文記曹操拜馬騰征南將軍、韓遂征西將軍及建安十六年超遂舉關中背操、操擊破之；與 a03-072-ahcb 第35段 cao-hhs-ma-chao-revolt 同段互證，僅作他傳交叉證據，不改動《三國志》主值）",
           "display": false
+        },
+        {
+          "id": "cao-jin-weitaizu-shanwen-plain",
+          "work": "jinshu",
+          "source": "a05-003",
+          "paragraph": 2,
+          "from": "太祖武皇帝撥亂濟時",
+          "through": "扶翼劉氏，又用受命于漢",
+          "citation": "《晉書》卷三第2段（二十四史原文版；泰始元年受禪告類上帝文「太祖武皇帝撥亂濟時，扶翼劉氏，又用受命于漢」；與 a05-003-ahcb 第6段 cao-jin-weitaizu-shanwen 同段互證，晉代受禪政治文書追述，僅作廟號交叉證據，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-weitaizu-seven-shrines-plain",
+          "work": "jinshu",
+          "source": "a05-019",
+          "paragraph": 52,
+          "from": "考太祖武皇帝特一廟",
+          "through": "百世不毀，然則所祠止於親廟四室也",
+          "citation": "《晉書》卷十九第52段（二十四史原文版；太和三年七廟制議「考太祖武皇帝特一廟，百世不毀」；與 a05-019-ahcb 第47段 cao-jin-weitaizu-seven-shrines 同段互證，屬身後廟制追述，僅作廟號交叉證據，不改動《三國志》主值）",
+          "display": false
+        },
+        {
+          "id": "cao-jin-weitaizu-peitian-plain",
+          "work": "jinshu",
+          "source": "a05-019",
+          "paragraph": 7,
+          "from": "天郊所祭曰皇天之神，以太祖武皇帝配",
+          "through": "地郊所祭曰皇地之祇，以武宣皇后配",
+          "citation": "《晉書》卷十九第7段（二十四史原文版；景初元年郊祀詔「天郊所祭曰皇天之神，以太祖武皇帝配」；與 a05-019-ahcb 第5段 cao-jin-weitaizu-peitian 同段互證，屬身後郊祀追述，僅作廟號交叉證據，不改動《三國志》主值）",
+          "display": false
         }
       ],
       "conclusions": {
@@ -6979,7 +7009,7 @@
         }
       ],
       "unresolvedNote": "【2026-10-07增補】《三國志》卷六原文版第37段剩餘三段已定位：蒯越建安十九年卒、臨終與太祖書託以門戶及太祖報書（cao-sg-liubiao-kuaiyue-letter-214；正文層級附傳書信，僅作交叉證據）；裴注引《零陵先賢傳》劉先奉章詣許見太祖問答（cao-sg-liuxian-qa-lingling）；裴注引《先賢傳》周不疑事及摯虞《文章志》年十七著文論四首（cao-sg-zhoubuyi-killed；太祖遣刺客殺之）。三者皆不改動《三國志》主值。同段其餘文字（魏武故事令、職官列舉、世語表冢事）已定位或無曹操字面新命中，無剩餘待判。",
-      "target": "undefined\n【2026-10-07增補】二十四史原文版（sidneyluo）《後漢書》卷七十（a03-070）荀彧傳三段已複核定位：第30段初平二年荀彧去紹從操、以為奮武司馬（cao-hhs-xunyu-join-plain；與 a03-070-ahcb 第30段同段互證）；第32段陶謙死後操欲東取徐州、荀彧諫先定兖州收熟麥復戰、布敗走兖州遂平（cao-hhs-xunyu-yanzhou-plain；與 ahcb 第32段同段互證）；第41段建安十七年董昭等欲進操爵國公備九錫、荀彧持異議事寢、操表留彧勞軍於譙、彧病卒於壽春謚敬侯、明年操遂稱魏公（cao-hhs-xunyu-jiuxi-plain；段內引《獻帝春秋》董承伏后事屬後出追述異說，另層不作獨立事實；與 ahcb 第41段同段互證）。三者均不改動《三國志》主值。至此該卷原文版曹操／曹公／孟德／魏武字面命中未覆段（P24/P25/P27/P30/P32/P41）全部已有引文或排除記錄，無剩餘待判。"
+      "target": "undefined\n【2026-10-07增補】二十四史原文版（sidneyluo）《後漢書》卷七十（a03-070）荀彧傳三段已複核定位：第30段初平二年荀彧去紹從操、以為奮武司馬（cao-hhs-xunyu-join-plain；與 a03-070-ahcb 第30段同段互證）；第32段陶謙死後操欲東取徐州、荀彧諫先定兖州收熟麥復戰、布敗走兖州遂平（cao-hhs-xunyu-yanzhou-plain；與 ahcb 第32段同段互證）；第41段建安十七年董昭等欲進操爵國公備九錫、荀彧持異議事寢、操表留彧勞軍於譙、彧病卒於壽春謚敬侯、明年操遂稱魏公（cao-hhs-xunyu-jiuxi-plain；段內引《獻帝春秋》董承伏后事屬後出追述異說，另層不作獨立事實；與 ahcb 第41段同段互證）。三者均不改動《三國志》主值。至此該卷原文版曹操／曹公／孟德／魏武字面命中未覆段（P24/P25/P27/P30/P32/P41）全部已有引文或排除記錄，無剩餘待判。【2026-10-07增補】二十四史原文版《晉書》卷三第2段泰始元年受禪告類上帝文「太祖武皇帝撥亂濟時」已複核定位（cao-jin-weitaizu-shanwen-plain；與 a05-003-ahcb 第6段同段互證，僅作廟號交叉證據）；卷十九《禮志》第52段太和三年七廟議「考太祖武皇帝特一廟，百世不毀」已複核定位（cao-jin-weitaizu-seven-shrines-plain；與 ahcb 第47段同段互證）、第7段景初元年郊祀詔「以太祖武皇帝配」已複核定位（cao-jin-weitaizu-peitian-plain；與 ahcb 第5段同段互證）。三者均為身後追述，不改動《三國志》主值。"
     }
   ]
 }
