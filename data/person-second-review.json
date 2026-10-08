@@ -14993,6 +14993,33 @@
           "from": "太祖還，留進與張遼、李典屯合肥",
           "through": "留進與張遼、李典屯合肥，",
           "citation": "《三國志·魏書十七·樂進傳》"
+        },
+        {
+          "id": "zhangliao-sg-lidian-hefei",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 3,
+          "from": "與張遼、樂進屯合肥",
+          "through": "乃率衆與遼破走權。",
+          "citation": "《三國志·魏書十八·李典傳》"
+        },
+        {
+          "id": "zhangliao-sg-xianzhu-yingxiongji",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 4,
+          "from": "布由是遣中郎將高順、北地太守張遼等攻備",
+          "through": "備單身走，獲將士妻息。",
+          "citation": "《三國志·蜀書二·先主傳》注引《英雄記》"
+        },
+        {
+          "id": "zhangliao-sg-baima-vanguard",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 2,
+          "from": "紹遣大將軍顏良攻東郡太守劉延於白馬",
+          "through": "遂解白馬圍。",
+          "citation": "《三國志·蜀書六·關羽傳》"
         }
       ],
       "exclusions": [],
