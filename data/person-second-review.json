@@ -15175,6 +15175,34 @@
           "from": "從討柳城，與張遼俱為軍鋒",
           "through": "又與張遼討陳蘭、梅成等，破之",
           "citation": "《三國志·魏書十七·張樂于張徐傳》第17段正文（張郃傳附見）：張郃與張遼俱為軍鋒，討柳城；又與張遼討陳蘭、梅成等，破之"
+        },
+        {
+          "id": "zhangliao-pingyue-wuzi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 28,
+          "from": "或注記有遺漏",
+          "through": "未如張遼、徐晃之備詳也",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》第28段評曰：或注記有遺漏，未如張遼、徐晃之備詳",
+          "note": "陳壽評曰層史家論斷：以張遼、徐晃傳之備詳反襯張郃傳注記之遺漏；非張遼事實敘述，僅作評曰層級交叉證據。"
+        },
+        {
+          "id": "zhangliao-chenlan-zangbazhuan",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 11,
+          "from": "張遼之討陳蘭",
+          "through": "遼至，以語太祖",
+          "citation": "《三國志·魏書十八·臧霸傳》第11段正文（臧霸傳附見）：張遼討陳蘭，臧霸別遣至皖助戰，遼遂破之；濡須口與張遼為前鋒"
+        },
+        {
+          "id": "zhangliao-tun-changshe-zhaoyanzhuan",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 24,
+          "from": "張遼屯長社",
+          "through": "護于禁、張遼、張郃、朱靈、李典、路招、馮楷七軍",
+          "citation": "《三國志·魏書二十三·趙儼傳》第24段正文（趙儼傳附見）：張遼屯長社；太祖征荊州，以趙儼都督護軍，護于禁、張遼等七軍"
         }
       ],
       "exclusions": [
