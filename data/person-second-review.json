@@ -13773,6 +13773,33 @@
           "from": "帝遣真督諸軍軍郿，遣張郃擊亮將馬謖，大破之。",
           "through": "帝遣真督諸軍軍郿，遣張郃擊亮將馬謖，大破之。",
           "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "zhanghe-sg-wuchao-xunyou",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 18,
+          "from": "紹將張郃、高覽燒攻櫓降，紹遂棄軍走。",
+          "through": "紹將張郃、高覽燒攻櫓降，紹遂棄軍走。",
+          "citation": "《三國志·魏書十·荀彧荀攸賈詡傳》"
+        },
+        {
+          "id": "zhanghe-sg-wuzi-yujin",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "from": "是時，禁與張遼、樂進、張郃、徐晃俱為名將，太祖每征伐，咸遞行為軍鋒，還為後拒",
+          "through": "是時，禁與張遼、樂進、張郃、徐晃俱為名將，太祖每征伐，咸遞行為軍鋒，還為後拒",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
+        },
+        {
+          "id": "zhanghe-sg-guandu-weis",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 16,
+          "from": "郃說紹曰：「曹公兵精，往必破瓊等",
+          "through": "郃懼，乃歸太祖。",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
         }
       ],
       "exclusions": [],
