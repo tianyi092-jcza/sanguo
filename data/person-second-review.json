@@ -14966,6 +14966,33 @@
           "from": "一二日必有密書促卿進道，張遼等又將被召。",
           "through": "遼等素知王意，後召前至，卿受其責矣！",
           "citation": "《三國志·魏書十五·溫恢傳》"
+        },
+        {
+          "id": "zhangliao-wendi-qianjiang",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 7,
+          "from": "文帝即王位，轉前將軍。",
+          "through": "封晉陽侯，增邑千戶，并前二千六百戶。",
+          "citation": "《三國志·魏書十七·張遼傳》"
+        },
+        {
+          "id": "zhangliao-jianan11-dangkou",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 9,
+          "from": "建安十一年，太祖表漢帝",
+          "through": "遼，盪寇將軍。",
+          "citation": "《三國志·魏書十七·樂進傳》"
+        },
+        {
+          "id": "zhangliao-tun-hefei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 10,
+          "from": "太祖還，留進與張遼、李典屯合肥",
+          "through": "留進與張遼、李典屯合肥，",
+          "citation": "《三國志·魏書十七·樂進傳》"
         }
       ],
       "exclusions": [],
