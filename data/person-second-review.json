@@ -15203,6 +15203,24 @@
           "from": "張遼屯長社",
           "through": "護于禁、張遼、張郃、朱靈、李典、路招、馮楷七軍",
           "citation": "《三國志·魏書二十三·趙儼傳》第24段正文（趙儼傳附見）：張遼屯長社；太祖征荊州，以趙儼都督護軍，護于禁、張遼等七軍"
+        },
+        {
+          "id": "zhangliao-wuzhou-huquanzhuan",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 7,
+          "from": "將軍張遼與其護軍武周有隙",
+          "through": "復與周平",
+          "citation": "《三國志·魏書二十七·胡質傳》第7段正文（胡質傳附見）：將軍張遼與其護軍武周有隙，遼見刺史溫恢求請胡質，質辭以疾而以古人交誼勸和，遼感其言，復與周平"
+        },
+        {
+          "id": "zhangliao-guangling-wanglingzhuan",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 2,
+          "from": "與張遼等至廣陵討孫權",
+          "through": "與張遼等至廣陵討孫權",
+          "citation": "《三國志·魏書二十八·王凌傳》第2段正文（王凌傳附見）：文帝踐阼，王凌出為兖州刺史，與張遼等至廣陵討孫權"
         }
       ],
       "exclusions": [
@@ -15215,6 +15233,16 @@
           "term": "張遼傳",
           "quote": "張遼傳",
           "reason": "段落僅為《張遼傳》篇首標題，無史實內容，不具摘錄價值，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "zhangliao-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 7,
+          "term": "張遼之疇",
+          "quote": "當舉若張遼之疇",
+          "reason": "「張遼」僅為裴松之注文中的類比修辭（擬人取譬），段內無張遼本人史實；其餘文字為辛毗諫事與張郃之死，不具摘錄價值，排除"
         }
       ],
       "unresolved": [],
