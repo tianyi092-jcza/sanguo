@@ -14939,6 +14939,33 @@
           "from": "孫權圍合肥",
           "through": "張遼、李典擊破之。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhangliao-sg-juchao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 37,
+          "from": "三月，王引軍還，留夏侯惇、曹仁、張遼等屯居巢。",
+          "through": "三月，王引軍還，留夏侯惇、曹仁、張遼等屯居巢。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhangliao-sg-hekui",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 18,
+          "from": "夔率郡兵與張遼共討定之。",
+          "through": "夔率郡兵與張遼共討定之。",
+          "citation": "《三國志·魏書十二·何夔傳》"
+        },
+        {
+          "id": "zhangliao-sg-wenji-summon",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 23,
+          "from": "一二日必有密書促卿進道，張遼等又將被召。",
+          "through": "遼等素知王意，後召前至，卿受其責矣！",
+          "citation": "《三國志·魏書十五·溫恢傳》"
         }
       ],
       "exclusions": [],
