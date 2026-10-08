@@ -15148,6 +15148,33 @@
           "from": "又語張遼、樂進等曰",
           "through": "「揚州刺史曉達軍事，動靜與共咨議。」",
           "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳》第22段正文（溫恢傳）：太祖命張遼、樂進等，軍事動靜與揚州刺史溫恢咨議"
+        },
+        {
+          "id": "zhangliao-bio-early",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 1,
+          "from": "張遼字文遠",
+          "through": "時年二十八。",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》第1段正文（張遼傳）：張遼家世出身及早期仕宦，自郡吏至騎都尉、魯相，時年二十八"
+        },
+        {
+          "id": "zhangliao-chenlan-yujinzhuan",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "from": "張遼、張郃等討陳蘭",
+          "through": "遼遂斬蘭、成",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》第13段正文（于禁傳附見）：張遼、張郃討陳蘭，與蘭相持，遼遂斬蘭、成"
+        },
+        {
+          "id": "zhangliao-liucheng-zhanghezhuan",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 17,
+          "from": "從討柳城，與張遼俱為軍鋒",
+          "through": "又與張遼討陳蘭、梅成等，破之",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》第17段正文（張郃傳附見）：張郃與張遼俱為軍鋒，討柳城；又與張遼討陳蘭、梅成等，破之"
         }
       ],
       "exclusions": [
