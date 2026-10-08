@@ -15020,6 +15020,33 @@
           "from": "紹遣大將軍顏良攻東郡太守劉延於白馬",
           "through": "遂解白馬圍。",
           "citation": "《三國志·蜀書六·關羽傳》"
+        },
+        {
+          "id": "zhangliao-wuzhuzhuan-xiaoyaojin",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 13,
+          "from": "權與凌統、甘寧等在津北為魏將張遼所襲",
+          "through": "權乘駿馬越津橋得去。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zhangliao-lvmengzhuan-xiaoyaojin",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 35,
+          "from": "師還，遂征合肥",
+          "through": "蒙與淩統以死扞衞。",
+          "citation": "《三國志·吳書九·呂蒙傳》"
+        },
+        {
+          "id": "zhangliao-wuzhuzhuan-dongkou",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 20,
+          "from": "秋九月，魏乃命曹休、張遼、臧霸出洞口",
+          "through": "曹仁出濡須，曹真、夏侯尚、張郃、徐晃圍南郡。",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [],
