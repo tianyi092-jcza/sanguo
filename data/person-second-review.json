@@ -15074,6 +15074,33 @@
           "from": "時權徹軍，前部已發，魏將張遼等奄至津北",
           "through": "苟使卿在，何患無人？",
           "citation": "《三國志·吳書十·凌統傳》"
+        },
+        {
+          "id": "zhangliao-panzhangzhuan-hefeizhiyi",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 59,
+          "from": "合肥之役，張遼奄至",
+          "through": "屯半州。",
+          "citation": "《三國志·吳書十·潘璋傳》"
+        },
+        {
+          "id": "zhangliao-heqizhuan-jiangbiaozhuan-xiaoyaojin",
+          "work": "peizhu",
+          "source": "a04-060",
+          "paragraph": 7,
+          "from": "江表傳曰：權征合肥還",
+          "through": "幾至危殆。",
+          "citation": "裴注引《江表傳》"
+        },
+        {
+          "id": "zhangliao-yuanshaozhuan-shuzhi-baima",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 34,
+          "from": "蜀志曰",
+          "through": "遂解白馬圍。",
+          "citation": "《後漢書》卷七十四上·袁紹傳（白馬之戰：注引《蜀志》「曹公使張遼及關羽為先鋒……遂解白馬圍」；屬注文層級）"
         }
       ],
       "exclusions": [],
