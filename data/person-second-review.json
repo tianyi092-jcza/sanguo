@@ -14911,7 +14911,7 @@
     {
       "id": "p0044",
       "name": "張遼",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "zhangliao-sg-baima",
@@ -16064,11 +16064,11 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": [],
       "completedAt": null
