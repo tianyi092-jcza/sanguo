@@ -13692,7 +13692,35 @@
       "id": "p0047",
       "name": "張郃",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhanghe-sg-guandu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "乃使張郃、高覽攻曹洪",
+          "through": "遂來降。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhanghe-pei-weinan",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "張郃等見事急，共引公入船",
+          "through": "或流涕。",
+          "citation": "裴注引《曹瞞傳》"
+        },
+        {
+          "id": "zhanghe-sg-zhanglu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "from": "先遣張郃、朱靈等攻破之",
+          "through": "夏四月，公自陳倉以出散關，至河池。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
