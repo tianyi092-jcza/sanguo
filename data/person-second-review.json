@@ -218,14 +218,14 @@
     {
       "id": "p0001",
       "name": "曹操",
-      "status": "pilot",
+      "status": "complete",
       "reviewedOn": "2026-10-07",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "searchAudit": {
         "literalQueries": [
