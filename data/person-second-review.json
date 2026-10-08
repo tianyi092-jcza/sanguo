@@ -15101,6 +15101,33 @@
           "from": "蜀志曰",
           "through": "遂解白馬圍。",
           "citation": "《後漢書》卷七十四上·袁紹傳（白馬之戰：注引《蜀志》「曹公使張遼及關羽為先鋒……遂解白馬圍」；屬注文層級）"
+        },
+        {
+          "id": "zhangliao-sg-weishu-qibing",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 41,
+          "from": "取張遼、徐晃於亡虜之內",
+          "through": "皆佐命立功，列為名將",
+          "citation": "《三國志·魏書一·武帝紀》第41段裴注引《魏書》：太祖「取張遼、徐晃於亡虜之內，皆佐命立功，列為名將」"
+        },
+        {
+          "id": "zhangliao-sg-wendi-sitaizumiao",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 9,
+          "from": "秋七月，詔祀故大司馬曹真",
+          "through": "於太祖廟庭",
+          "citation": "《三國志·魏書二·文帝紀》第9段：正文—詔祀故前將軍張遼於太祖廟庭"
+        },
+        {
+          "id": "zhangliao-sg-fuzi-ciyong",
+          "work": "peizhu",
+          "source": "a04-009",
+          "paragraph": 22,
+          "from": "傅子曰",
+          "through": "張遼其次焉",
+          "citation": "《三國志·魏書九·曹仁傳》第22段裴注引《傅子》：曹大司馬之勇，「張遼其次焉」"
         }
       ],
       "exclusions": [],
