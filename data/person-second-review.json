@@ -13746,6 +13746,33 @@
           "from": "太祖還，未至營，紹將高覽、張郃等率其衆降。",
           "through": "紹與譚單騎退渡河。",
           "citation": "《三國志·魏書六·董二袁劉傳》"
+        },
+        {
+          "id": "zhanghe-sg-xiayuanduijianchao-vanguard",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 9,
+          "from": "遂行，使張郃督步騎五千在前",
+          "through": "郃進軍收超軍器械。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "zhanghe-sg-pingbajun",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 11,
+          "from": "以淵行都護將軍，督張郃、徐晃等平巴郡。",
+          "through": "以淵行都護將軍，督張郃、徐晃等平巴郡。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "zhanghe-sg-jieting-caozhen",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 37,
+          "from": "帝遣真督諸軍軍郿，遣張郃擊亮將馬謖，大破之。",
+          "through": "帝遣真督諸軍軍郿，遣張郃擊亮將馬謖，大破之。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
         }
       ],
       "exclusions": [],
