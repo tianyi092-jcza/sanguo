@@ -14907,6 +14907,23 @@
       },
       "conclusions": {},
       "completedAt": "2026-10-08T14:54:59.805Z"
+    },
+    {
+      "id": "p0044",
+      "name": "張遼",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "completedAt": null
     }
   ]
 }
