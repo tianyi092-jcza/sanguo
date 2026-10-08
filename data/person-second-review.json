@@ -13719,6 +13719,33 @@
           "from": "先遣張郃、朱靈等攻破之",
           "through": "夏四月，公自陳倉以出散關，至河池。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhanghe-sg-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 27,
+          "from": "左將軍張郃等舳艫直渡，擊其南渚",
+          "through": "又為地道攻城，城中外雀鼠不得出入，此几上肉耳！",
+          "citation": "《三國志·魏書二·文帝紀》"
+        },
+        {
+          "id": "zhanghe-sg-jieting",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 5,
+          "from": "右將軍張郃擊亮於街亭，大破之。",
+          "through": "亮敗走，三郡平。",
+          "citation": "《三國志·魏書三·明帝紀》"
+        },
+        {
+          "id": "zhanghe-sg-guandu-descend",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 22,
+          "from": "太祖還，未至營，紹將高覽、張郃等率其衆降。",
+          "through": "紹與譚單騎退渡河。",
+          "citation": "《三國志·魏書六·董二袁劉傳》"
         }
       ],
       "exclusions": [],
