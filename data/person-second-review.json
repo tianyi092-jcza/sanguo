@@ -14899,11 +14899,11 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": {},
       "completedAt": "2026-10-08T14:54:59.805Z"
@@ -14912,7 +14912,35 @@
       "id": "p0044",
       "name": "張遼",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhangliao-sg-baima",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "使張遼、關羽前登",
+          "through": "斬良。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhangliao-sg-liucheng",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 22,
+          "from": "使張遼為先鋒",
+          "through": "胡、漢降者二十餘萬口。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhangliao-sg-hefei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "from": "孫權圍合肥",
+          "through": "張遼、李典擊破之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
