@@ -15128,9 +15128,40 @@
           "from": "傅子曰",
           "through": "張遼其次焉",
           "citation": "《三國志·魏書九·曹仁傳》第22段裴注引《傅子》：曹大司馬之勇，「張遼其次焉」"
+        },
+        {
+          "kind": "excerpt",
+          "id": "zhangliao-sg-dongpu",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 33,
+          "from": "督張遼等及諸州郡二十餘軍",
+          "through": "擊權大將呂範等於洞浦，破之。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》第33段正文（曹休傳）：明帝征吳，曹休督張遼等擊呂範於洞浦，破之"
+        },
+        {
+          "kind": "excerpt",
+          "id": "zhangliao-sg-wenhuiziyi",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 22,
+          "from": "又語張遼、樂進等曰",
+          "through": "「揚州刺史曉達軍事，動靜與共咨議。」",
+          "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳》第22段正文（溫恢傳）：太祖命張遼、樂進等，軍事動靜與揚州刺史溫恢咨議"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "kind": "exclusion",
+          "id": "zhangliao-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 0,
+          "term": "張遼傳",
+          "quote": "張遼傳",
+          "reason": "段落僅為《張遼傳》篇首標題，無史實內容，不具摘錄價值，排除"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
