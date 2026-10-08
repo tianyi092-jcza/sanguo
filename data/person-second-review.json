@@ -15047,6 +15047,33 @@
           "from": "秋九月，魏乃命曹休、張遼、臧霸出洞口",
           "through": "曹仁出濡須，曹真、夏侯尚、張郃、徐晃圍南郡。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zhangliao-jiangqinzhuan-xiaoyaojin",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 14,
+          "from": "從征合肥，魏將張遼襲權於津北",
+          "through": "欽力戰有功，遷盪寇將軍，領濡須督。",
+          "citation": "《三國志·吳書十·蔣欽傳》"
+        },
+        {
+          "id": "zhangliao-ganningzhuan-xiaoyaojin",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 39,
+          "from": "建安二十年，從攻合肥",
+          "through": "權尤嘉之。",
+          "citation": "《三國志·吳書十·甘寧傳》"
+        },
+        {
+          "id": "zhangliao-lingtongzhuan-xiaoyaojin",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 46,
+          "from": "時權徹軍，前部已發，魏將張遼等奄至津北",
+          "through": "苟使卿在，何患無人？",
+          "citation": "《三國志·吳書十·凌統傳》"
         }
       ],
       "exclusions": [],
