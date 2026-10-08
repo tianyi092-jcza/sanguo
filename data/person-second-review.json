@@ -10057,6 +10057,39 @@
           "source": "a04-054",
           "through": "誠無以尚也。",
           "work": "sanguozhi"
+        },
+        {
+          "citation": "《三國志・吳書九・周瑜魯肅呂蒙傳第九》",
+          "display": false,
+          "from": "昔走曹操",
+          "id": "cao-sg-087",
+          "note": "正文層次（周瑜傳。孫權追念周瑜之語：「昔走曹操，拓有荊州，皆是公瑾」，為吳方對赤壁之戰曹操敗績的追述佐證）。",
+          "paragraph": 11,
+          "source": "a04-054",
+          "through": "常不忘之。",
+          "work": "sanguozhi"
+        },
+        {
+          "citation": "《三國志・吳書九・周瑜魯肅呂蒙傳第九》",
+          "display": false,
+          "from": "今之曹操",
+          "id": "cao-sg-088",
+          "note": "正文層次（魯肅傳。權與肅密議，肅以曹操比項羽，斷「漢室不可復興，曹操不可卒除」，為吳方對曹操當時權勢的判斷）。",
+          "paragraph": 16,
+          "source": "a04-054",
+          "through": "曹操不可卒除。",
+          "work": "sanguozhi"
+        },
+        {
+          "citation": "《三國志・吳書九・周瑜魯肅呂蒙傳第九》",
+          "display": false,
+          "from": "加劉備天下梟雄，與操有隙",
+          "id": "cao-sg-089",
+          "note": "正文層次（魯肅傳。劉表新亡，肅說備「同心一意，共治曹操」，又載曹公已向荊州、劉琮降曹公；為建安十三年荊州之役的吳方記載。裴注「臣松之案」部分未併入）。",
+          "paragraph": 17,
+          "source": "a04-054",
+          "through": "恐為操所先。",
+          "work": "sanguozhi"
         }
       ],
       "conclusions": {
