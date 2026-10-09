@@ -45,7 +45,15 @@ for(const p of portraitPlan){
 }
 const wsBioPath='data/wikisource.json';
 const wsBio=fs.existsSync(wsBioPath)?JSON.parse(read(wsBioPath)):{};
-const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst WS_BIOGRAPHIES=${JSON.stringify(wsBio)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
+// 本传全文按需加载：每人一篇静态 JSON，首屏只嵌元数据清单
+fs.mkdirSync('dist/wikisource',{recursive:true});
+const wsManifest={};
+for(const pid of Object.keys(wsBio)){
+  const {paragraphs,...meta}=wsBio[pid];
+  wsManifest[pid]=meta;
+  fs.writeFileSync(`dist/wikisource/${pid}.json`,JSON.stringify(wsBio[pid]));
+}
+const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst WS_BIOGRAPHIES=${JSON.stringify(wsManifest)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
 js=head+'const ERA_CALENDAR='+read('data/calendar-eras.json').trim()+';\n'+traditional(js);
 new vm.Script(js);
 let css=html.match(/<style>([\s\S]*?)<\/style>/)[1]+'\n'+read('src/timeline.css')+'\n'+read('src/google-satellite.css');
@@ -53,7 +61,9 @@ html=html.replace(/<style>[\s\S]*?<\/style>/,'<!-- STYLE -->').replace(/<script>
 html=traditional(html).replace('人物時間軸','人物流年');
 // Keep the original entry point as a portable, offline-capable artifact.
 const standalone=html.replace('<!-- STYLE -->','<style>'+css.replace('./Oswald-Light.woff2','./assets/Oswald-Light.woff2')+'</style>').replace('<!-- SCRIPT -->','<script>'+js.replaceAll('</script','<\\/script')+'</script>');
-fs.writeFileSync('三国志_郡国疆域与人物年表.html',standalone);
+// 单文件离线版内嵌本传全文数据（dist 版改为按需 fetch）
+const standaloneWs=standalone.replace('</body>','<script type="application/json" id="ws-bio-data">'+JSON.stringify(wsBio).replaceAll('</script','<\\/script')+'</script></body>');
+fs.writeFileSync('三国志_郡国疆域与人物年表.html',standaloneWs);
 const hash=s=>crypto.createHash('sha256').update(s).digest('hex').slice(0,12);
 const fontBytes=fs.readFileSync('assets/Oswald-Light.woff2');
 const fontName='Oswald-Light.'+hash(fontBytes)+'.woff2';
@@ -66,7 +76,7 @@ for(const file of fs.readdirSync('dist/assets'))if(/^(app|style)\.[a-f0-9]{12}\.
 fs.writeFileSync('dist/assets/'+fontName,fontBytes);
 fs.writeFileSync('dist/assets/'+jname,js);fs.writeFileSync('dist/assets/'+cname,css);
 fs.writeFileSync('dist/index.html',html.replace('<!-- STYLE -->',`<link rel="stylesheet" href="./assets/${cname}">`).replace('<!-- SCRIPT -->',`<script defer src="./assets/${jname}"></script>`));
-fs.writeFileSync('dist/_headers','/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n');
+fs.writeFileSync('dist/_headers','/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/wikisource/*\n  Cache-Control: public, max-age=3600\n/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n');
 fs.writeFileSync('data/history.json',JSON.stringify(history,null,2));
 fs.writeFileSync('dist/404.html','<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>頁面不存在</title><body><h1>頁面不存在</h1><a href="/">返回三國志資料集</a></body></html>');
 console.log(JSON.stringify({people:data.per.length,sourceReadings:audit.withReading,datedPeople:audit.withTimeline,appBytes:Buffer.byteLength(js),entry:'dist/index.html'},null,2));

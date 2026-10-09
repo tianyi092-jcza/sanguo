@@ -155,6 +155,7 @@ async function main() {
   const db = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
   db[personId] = {
     personId, page, section: section || '',
+    bioSource: `a04-${String(juan).padStart(3,'0')}`,
     url: `https://zh.wikisource.org/wiki/${enc(page)}`,
     pageLabel: `卷${juan}` + (section ? `·${section}傳` : ''),
     fetched: new Date().toISOString().slice(0, 10),

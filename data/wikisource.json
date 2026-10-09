@@ -1802,7 +1802,8 @@
           }
         ]
       }
-    ]
+    ],
+    "bioSource": "a04-001"
   },
   "p0044": {
     "personId": "p0044",
@@ -1868,7 +1869,8 @@
     "bioParagraphs": [
       1,
       8
-    ]
+    ],
+    "bioSource": "a04-017"
   },
   "p0047": {
     "personId": "p0047",
@@ -1950,6 +1952,7 @@
     "bioParagraphs": [
       16,
       21
-    ]
+    ],
+    "bioSource": "a04-017"
   }
 }

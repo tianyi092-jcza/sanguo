@@ -200,7 +200,8 @@ function newExcerptsHTML(excerpts,p,wsBio){
   const otherMains=mains.filter(m=>!(m.work==='sanguozhi'&&inBioRange(m)));
   const {attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu'&&!inBioRange(x)));
   let html=`<section class="source-work"><h4>一 · 三國志（含裴注）</h4>`;
-  html+=biographyFullHTML(wsBio,p);
+  // 本传全文按需加载：先占位，openPerson 后 fetch 填充
+  html+=`<div data-ws-bio="${p.id}"><span class="empty">本傳全文載入中…</span></div>`;
   const taGroups=citationGroups(otherMains.filter(m=>m.work==='sanguozhi'));
   if(taGroups.length)html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`+excerptCardsHTML(taGroups,p,'sanguozhi',attached);
   html+=`</section>`;
@@ -223,6 +224,36 @@ function personSourceExcerptsHTML(h,p){
   const wsBio=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
   if(wsBio)return newExcerptsHTML(excerpts,p,wsBio);
   return legacyExcerptsHTML(excerpts,p);
+}
+// 本传全文懒加载：单文件离线版读内嵌数据，dist 版按需 fetch
+let wsBioDataCache=null;
+function wsBioData(){
+  if(wsBioDataCache)return wsBioDataCache;
+  const el=document.getElementById('ws-bio-data');
+  wsBioDataCache=el?JSON.parse(el.textContent):{};
+  return wsBioDataCache;
+}
+async function loadWsBiography(p){
+  const meta=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
+  const slot=document.querySelector(`[data-ws-bio="${p.id}"]`);
+  if(!meta||!slot||slot.dataset.wsLoaded)return;
+  slot.dataset.wsLoaded='1';
+  try{
+    let bio=wsBioData()[p.id];
+    if(!bio){
+      const r=await fetch('wikisource/'+p.id+'.json');
+      if(!r.ok)throw new Error('HTTP '+r.status);
+      bio=await r.json();
+    }
+    if(!document.body.contains(slot))return;
+    const tmp=document.createElement('div');
+    tmp.innerHTML=biographyFullHTML(bio,p);
+    slot.replaceWith(tmp.firstElementChild);
+    activateSourceExcerpts();
+    activatePeiTags();
+  }catch(err){
+    if(document.body.contains(slot))slot.innerHTML='<span class="empty">本傳全文載入失敗，請稍後再試。</span>';
+  }
 }
 function activateSourceExcerpts(){
   $('#modal').querySelectorAll('.source-excerpt').forEach(card=>{
@@ -263,6 +294,7 @@ function openPerson(p){
   activateModal(p.n+'人物資料');
   activateSourceExcerpts();
   activatePeiTags();
+  loadWsBiography(p);
 }
 function portraitHTML(p){
  const entry=PORTRAITS.people[p.id];
