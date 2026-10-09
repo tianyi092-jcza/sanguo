@@ -190,9 +190,15 @@ function newExcerptsHTML(excerpts,p,wsBio){
   const mains=excerpts.filter(x=>x.work!=='peizhu');
   const bioSrc=biographySourceId(p).replace(/-(ahcb|full)$/,'');
   const normSrc=s=>String(s||'').replace(/-(ahcb|full)$/,'');
-  const isBio=s=>!!bioSrc&&normSrc(s)===bioSrc;
-  const otherMains=mains.filter(m=>!(m.work==='sanguozhi'&&isBio(m.source)));
-  const {attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu'&&!isBio(x.source)));
+  // 本传判定：同源文件 +（多传合卷时）段落落在本人传记范围内；全文已收录则不再重复展示
+  const range=wsBio.bioParagraphs;
+  const inBioRange=m=>{
+    if(!bioSrc||normSrc(m.source)!==bioSrc)return false;
+    if(!range||m.paragraph==null)return true;
+    return m.paragraph>=range[0]&&m.paragraph<=range[1];
+  };
+  const otherMains=mains.filter(m=>!(m.work==='sanguozhi'&&inBioRange(m)));
+  const {attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu'&&!inBioRange(x)));
   let html=`<section class="source-work"><h4>一 · 三國志（含裴注）</h4>`;
   html+=biographyFullHTML(wsBio,p);
   const taGroups=citationGroups(otherMains.filter(m=>m.work==='sanguozhi'));

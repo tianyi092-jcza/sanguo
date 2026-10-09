@@ -1,8 +1,9 @@
 // 从中文维基文库抓取《三國志》某卷 wikitext，解析正文与裴注，写入 data/wikisource.json。
-// 用法：node scripts/fetch-wikisource.mjs p0001 01
+// 用法：node scripts/fetch-wikisource.mjs p0001 01 [章节名]
 //   p0001: 人物 id；01: 卷号（零填充两位，对应文库页面「三國志/卷01」）
+//   章节名（可选）：卷内多传时按 == 章节名 == 切分，如：node scripts/fetch-wikisource.mjs p0044 17 張遼
 // 注文在 wikitext 中以 {{*|…}} 包裹；解析为分段结构，正文/注文分离，
-// 注文内链（书名等）转为绝对 URL，渲染时以「裴注」标签 + 悬停弹窗呈现。
+// 注文内链（书名等）转为绝对 URL，渲染时以「裴注」标签 + 点击弹窗呈现。
 import fs from 'node:fs';
 
 const UA = 'sanguo-research/1.0 (tianyi092@gmail.com)';
@@ -123,22 +124,39 @@ function parseWikitext(wt) {
   return merged;
 }
 
+// 一卷多传时，按 == 章节名 == 切出单传（不含卷末【評】等章节）
+function extractSection(wt, name) {
+  const re = /^=+\s*(.+?)\s*=+\s*$/gm;
+  const headers = [...wt.matchAll(re)].map(m => ({
+    title: m[1].replace(/-\{(.+?)\}-/g, '$1').replace(/^=+|=+$/g, '').trim(),
+    start: m.index,
+    end: m.index + m[0].length,
+  }));
+  const i = headers.findIndex(h => h.title === name || h.title.includes(name));
+  if (i < 0) throw new Error(`未找到章节「${name}」，现有：${headers.map(h => h.title).join('、')}`);
+  const from = headers[i].end;
+  const to = i + 1 < headers.length ? headers[i + 1].start : wt.length;
+  return wt.slice(from, to);
+}
+
 async function main() {
-  const [personId, juan] = process.argv.slice(2);
-  if (!personId || !juan) { console.error('用法：node scripts/fetch-wikisource.mjs <personId> <卷号，如 01>'); process.exit(1); }
+  const [personId, juan, section] = process.argv.slice(2);
+  if (!personId || !juan) { console.error('用法：node scripts/fetch-wikisource.mjs <personId> <卷号，如 01> [章节名]'); process.exit(1); }
   const page = `三國志/卷${juan}`;
   const q = new URLSearchParams({ action: 'parse', page, prop: 'wikitext', format: 'json', formatversion: '2' });
   const res = await fetch(`${API}?${q}`, { headers: { 'User-Agent': UA } });
   const j = await res.json();
   if (j.error) throw new Error(`抓取失败：${j.error.info}`);
-  const paragraphs = parseWikitext(j.parse.wikitext);
+  let wt = j.parse.wikitext;
+  if (section) wt = extractSection(wt, section);
+  const paragraphs = parseWikitext(wt);
   const noteCount = paragraphs.flatMap(p => p.segments ?? p.segs).filter(s => s.t === 'pei').length;
   const file = 'data/wikisource.json';
   const db = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
   db[personId] = {
-    personId, page,
+    personId, page, section: section || '',
     url: `https://zh.wikisource.org/wiki/${enc(page)}`,
-    pageLabel: `卷${juan}`,
+    pageLabel: `卷${juan}` + (section ? `·${section}傳` : ''),
     fetched: new Date().toISOString().slice(0, 10),
     paragraphs,
   };
