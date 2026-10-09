@@ -8,8 +8,11 @@ import fs from 'node:fs';
 
 const UA = 'sanguo-research/1.0 (tianyi092@gmail.com)';
 const API = 'https://zh.wikisource.org/w/api.php';
-const DROP_TEMPLATES = new Set(['header', 'footer', '西晉作品', '另', 'Textquality', '!']);
-
+const DROP_TEMPLATES = new Set(['footer', '西晉作品', '另', 'Textquality', '!']);
+// header/header2 等卷首导航模板一律丢弃
+function isDropTemplate(name) {
+  return DROP_TEMPLATES.has(name) || /^header\d*$/i.test(name);
+}
 const escHtml = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const enc = s => encodeURIComponent(String(s).replace(/ /g, '_'));
 
@@ -35,7 +38,7 @@ function dropTopTemplates(s) {
     if (s.startsWith('{{', i)) {
       const b = extractBalanced(s, i);
       if (!b) { out += s.slice(i); break; }
-      if (DROP_TEMPLATES.has(templateName(b.inner))) { i = b.end; continue; }
+      if (isDropTemplate(templateName(b.inner))) { i = b.end; continue; }
       out += s.slice(i, b.end); i = b.end;
     } else { out += s[i]; i++; }
   }
@@ -105,6 +108,8 @@ function splitNotes(para) {
 
 function parseWikitext(wt) {
   wt = wt.replace(/<!--[\s\S]*?-->/g, '');
+  wt = wt.replace(/<noinclude>[\s\S]*?<\/noinclude>/gi, '');
+  wt = wt.replace(/<\/?onlyinclude>/gi, '');
   wt = dropTopTemplates(wt);
   const paragraphs = [];
   for (const raw of wt.split(/\n{2,}/)) {
@@ -125,13 +130,16 @@ function parseWikitext(wt) {
 }
 
 // 一卷多传时，按 == 章节名 == 切出单传（不含卷末【評】等章节）
-function extractSection(wt, name) {
+function listHeaders(wt) {
   const re = /^=+\s*(.+?)\s*=+\s*$/gm;
-  const headers = [...wt.matchAll(re)].map(m => ({
+  return [...wt.matchAll(re)].map(m => ({
     title: m[1].replace(/-\{(.+?)\}-/g, '$1').replace(/^=+|=+$/g, '').trim(),
     start: m.index,
     end: m.index + m[0].length,
   }));
+}
+function extractSection(wt, name) {
+  const headers = listHeaders(wt);
   const i = headers.findIndex(h => h.title === name || h.title.includes(name));
   if (i < 0) throw new Error(`未找到章节「${name}」，现有：${headers.map(h => h.title).join('、')}`);
   const from = headers[i].end;
@@ -139,30 +147,47 @@ function extractSection(wt, name) {
   return wt.slice(from, to);
 }
 
-async function main() {
-  const [personId, juan, section] = process.argv.slice(2);
-  if (!personId || !juan) { console.error('用法：node scripts/fetch-wikisource.mjs <personId> <卷号，如 01> [章节名]'); process.exit(1); }
+async function fetchChapter(juan) {
   const page = `三國志/卷${juan}`;
   const q = new URLSearchParams({ action: 'parse', page, prop: 'wikitext', format: 'json', formatversion: '2' });
   const res = await fetch(`${API}?${q}`, { headers: { 'User-Agent': UA } });
   const j = await res.json();
   if (j.error) throw new Error(`抓取失败：${j.error.info}`);
-  let wt = j.parse.wikitext;
-  if (section) wt = extractSection(wt, section);
-  const paragraphs = parseWikitext(wt);
+  return j.parse.wikitext;
+}
+
+function buildEntry(personId, juan, section, paragraphs, keepBioParagraphs) {
+  const page = `三國志/卷${juan}`;
   const noteCount = paragraphs.flatMap(p => p.segments ?? p.segs).filter(s => s.t === 'pei').length;
-  const file = 'data/wikisource.json';
-  const db = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
-  db[personId] = {
+  const entry = {
     personId, page, section: section || '',
-    bioSource: `a04-${String(juan).padStart(3,'0')}`,
+    bioSource: `a04-${String(juan).padStart(3, '0')}`,
     url: `https://zh.wikisource.org/wiki/${enc(page)}`,
     pageLabel: `卷${juan}` + (section ? `·${section}傳` : ''),
     fetched: new Date().toISOString().slice(0, 10),
     paragraphs,
   };
+  if (keepBioParagraphs) entry.bioParagraphs = keepBioParagraphs;
+  return { entry, noteCount };
+}
+
+export { fetchChapter, listHeaders, extractSection, parseWikitext, buildEntry };
+
+async function main() {
+  const [personId, juan, section] = process.argv.slice(2);
+  if (!personId || !juan) { console.error('用法：node scripts/fetch-wikisource.mjs <personId> <卷号，如 01> [章节名]'); process.exit(1); }
+  const page = `三國志/卷${juan}`;
+  let wt = await fetchChapter(juan);
+  if (section) wt = extractSection(wt, section);
+  const paragraphs = parseWikitext(wt);
+  const file = 'data/wikisource.json';
+  const db = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : {};
+  const prev = db[personId];
+  const { entry, noteCount } = buildEntry(personId, juan, section, paragraphs, prev?.bioParagraphs);
+  db[personId] = entry;
   fs.writeFileSync(file, JSON.stringify(db, null, 2) + '\n');
   console.log(`OK: ${page} -> ${file}：${paragraphs.length} 段，${noteCount} 条裴注`);
 }
 
-main().catch(e => { console.error(e.message); process.exit(1); });
+import { fileURLToPath } from 'node:url';
+if (process.argv[1] === fileURLToPath(import.meta.url)) main().catch(e => { console.error(e.message); process.exit(1); });
