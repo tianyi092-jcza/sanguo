@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 32,
-  "remainingUnreviewedCount": 149,
+  "reviewedCount": 36,
+  "remainingUnreviewedCount": 145,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1141,6 +1141,58 @@
       "publicationVerified": false,
       "batch": "portrait-batch-07",
       "publicVerifiedAt": "2026-10-09T20:32:46.740345+00:00"
+    },
+    {
+      "id": "p0276",
+      "name": "橋瑁",
+      "gender": "male",
+      "role": "東郡太守、討董聯軍",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書一》武帝紀：東郡太守橋瑁詐作京師三公移書與州郡，陳卓罪惡，云「見逼迫，無以自救，企望義兵，解國患難」，為討董聯軍檄文首倡；裴注引《英雄記》：「瑁字元偉，玄族子。先為兖州刺史，甚有威惠。」以太守（文官）為定義身份，著文士服飾，不戴盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-08",
+      "publicVerifiedAt": "2026-10-09T21:00:46.879830+00:00"
+    },
+    {
+      "id": "p0277",
+      "name": "袁遺",
+      "gender": "male",
+      "role": "山陽太守、討董聯軍",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書一》武帝紀裴注引《英雄記》：袁遺字伯業，紹從兄，為長安令；河間張超薦遺于太尉朱儁，稱遺「有冠世之懿，幹時之量。其忠允亮直，固天所縱；若乃包羅載籍，管綜百氏，登高能賦，覩物知名，求之今日，邈焉靡儔」；紹後用遺為揚州刺史，為袁術所敗；太祖稱「長大而能勤學者，惟吾與袁伯業耳」。以太守（文官）為定義身份，著文士服飾，不戴盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-08",
+      "publicVerifiedAt": "2026-10-09T21:00:46.879830+00:00"
+    },
+    {
+      "id": "p0278",
+      "name": "孔伷",
+      "gender": "male",
+      "role": "豫州刺史、討董聯軍",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書一》武帝紀裴注引《英雄記》：孔伷字公緒，陳留人；張璠漢紀載鄭泰說卓云：「孔公緒能清談高論，噓枯吹生。」豫州刺史，討董時屯潁川。以刺史（文官）為定義身份，著文士服飾，不戴盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-08",
+      "publicVerifiedAt": "2026-10-09T21:00:46.879830+00:00"
+    },
+    {
+      "id": "p0279",
+      "name": "胡軫",
+      "gender": "male",
+      "role": "董卓部將",
+      "source": "a03-072",
+      "reviewNote": "《後漢書·卷七十二》董卓傳：卓遣將胡軫、呂布攻孫堅於陽人；引《九州春秋》：「卓以東郡太守胡軫為大督，呂布為騎督。軫性急」；「胡文才、楊整脩皆涼州人」；新豐之戰「榮戰死，軫以衆降」。《三國志·呂布傳》裴注引《英雄記》：「陳郡太守胡軫為大督護，呂布為騎督……軫字文才，性急。」以董卓部將（武將）為定義身份，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-08",
+      "publicVerifiedAt": "2026-10-09T21:00:46.879830+00:00"
     }
   ]
 }
