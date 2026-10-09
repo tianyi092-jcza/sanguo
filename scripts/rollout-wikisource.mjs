@@ -3,7 +3,11 @@
 // 幂等：已接入（data/wikisource.json 有记录）或在 skip 表中的人物跳过。
 // 每轮只做抓取+解析+wikisource.json；embed / bio-links / build 由 cron 后续步骤做。
 import fs from 'node:fs';
+import * as OpenCC from 'opencc-js';
 import { fetchChapter, listHeaders, extractSection, parseWikitext, buildEntry} from './fetch-wikisource.mjs';
+
+// 文库章节标题为繁体，人名库为简体：匹配标题前转繁体（简繁同形人名不受影响）
+const toTrad = OpenCC.Converter({ from: 'cn', to: 'tw' });
 
 const DB = 'data/wikisource.json';
 const SKIP = 'data/wikisource-skip.json';
@@ -98,9 +102,10 @@ for (const { pid, n} of people) {
 if (db[pid]) continue;
 try {
 if (headers.length) {
-const h = headers.find(h => h.title === n || h.title.includes(n));
+const nt = toTrad(n);
+const h = headers.find(h => h.title === nt || h.title.includes(nt));
 if (!h) throw new Error('无匹配章节（事见非传）');
-const paragraphs = parseWikitext(extractSection(wt, n));
+const paragraphs = parseWikitext(extractSection(wt, nt));
 if (!paragraphs.length) throw new Error('解析出 0 段');
 if (hasLeakage(paragraphs)) throw new Error('解析泄漏 wikitext 标记，需修解析器');
 const firstNorm = normText(paragraphs[0].segs.filter(s => s.t === 'text').map(s => s.h).join(''));

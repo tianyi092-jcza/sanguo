@@ -64,6 +64,7 @@ function templateHTML(inner) {
   const rest = bar < 0 ? '' : inner.slice(bar + 1);
   if (name === 'YL' || name === 'ProperNoun') return inline(rest.split('|').pop() || '');
   if (name === 'WavyBookMark') return inline(rest);
+  if (name === 'quote') return inline(rest); // 注文内嵌套的引文模板：保留全文
   const parts = rest.split('|');
   return inline(parts[parts.length - 1] || '');
 }
@@ -106,13 +107,48 @@ function splitNotes(para) {
   return segs;
 }
 
+// 跨段 {{quote|…}} 模板（常见于传中书信）：仅在顶层（depth 0）时在切分段落前按平衡括号
+// 整体提出、内容独立成段；嵌套在 {{*|…}} 注文里的 quote 不动，交给括号感知切分+templateHTML
+function expandQuoteTemplates(wt) {
+  let out = '', i = 0, depth = 0;
+  while (i < wt.length) {
+    if (wt.startsWith('{{quote|', i) && depth === 0) {
+      const b = extractBalanced(wt, i);
+      if (!b) { out += '{{quote|'; i += 8; continue; }
+      out += '\n\n' + b.inner.slice('quote|'.length) + '\n\n';
+      i = b.end;
+      continue;
+    }
+    if (wt.startsWith('{{', i)) { depth++; out += '{{'; i += 2; continue; }
+    if (wt.startsWith('}}', i)) { if (depth > 0) depth--; out += '}}'; i += 2; continue; }
+    out += wt[i]; i++;
+  }
+  return out;
+}
+
+// 括号感知分段：{{…}} 模板内部的空行不切分，避免模板被拦腰切断导致标记泄漏
+function splitParagraphs(wt) {
+  const parts = [];
+  let cur = '', depth = 0, i = 0;
+  while (i < wt.length) {
+    if (wt.startsWith('{{', i)) { depth++; cur += '{{'; i += 2; continue; }
+    if (wt.startsWith('}}', i)) { if (depth > 0) depth--; cur += '}}'; i += 2; continue; }
+    const m = /^\n{2,}/.exec(wt.slice(i));
+    if (m && depth === 0) { parts.push(cur); cur = ''; i += m[0].length; continue; }
+    cur += wt[i]; i++;
+  }
+  parts.push(cur);
+  return parts;
+}
+
 function parseWikitext(wt) {
   wt = wt.replace(/<!--[\s\S]*?-->/g, '');
   wt = wt.replace(/<noinclude>[\s\S]*?<\/noinclude>/gi, '');
   wt = wt.replace(/<\/?onlyinclude>/gi, '');
+  wt = expandQuoteTemplates(wt);
   wt = dropTopTemplates(wt);
   const paragraphs = [];
-  for (const raw of wt.split(/\n{2,}/)) {
+  for (const raw of splitParagraphs(wt)) {
     const para = raw.trim();
     if (!para) continue;
     if (/^\[\[([Cc]ategory|分類):/.test(para)) continue;
