@@ -54,7 +54,36 @@ function attachPeiNotes(mains,peis){
   return {attached,orphans};
 }
 function peiNotesHTML(list){
-  return list.map(pei=>`<div class="pei-note"><div class="pei-citation">${esc(pei.citation)}</div><blockquote>${esc(pei.quote)}</blockquote></div>`).join('');
+  return list.map(pei=>`<span class="pei-tag" tabindex="0">${esc(pei.citation)}<span class="pei-tiptext" hidden>${esc(pei.quote)}</span></span>`).join('');
+}
+let peiTipEl=null;
+function showPeiTip(anchor){
+  hidePeiTip();
+  const src=anchor.querySelector('.pei-tiptext');
+  if(!src||!src.textContent)return;
+  peiTipEl=document.createElement('div');
+  peiTipEl.className='pei-tip';
+  peiTipEl.textContent=src.textContent;
+  document.body.appendChild(peiTipEl);
+  const r=anchor.getBoundingClientRect(),pad=8;
+  let top=r.bottom+pad,left=r.left;
+  const tw=peiTipEl.offsetWidth,th=peiTipEl.offsetHeight;
+  if(top+th>window.innerHeight-pad)top=Math.max(pad,r.top-th-pad);
+  if(left+tw>window.innerWidth-pad)left=Math.max(pad,window.innerWidth-tw-pad);
+  peiTipEl.style.top=top+'px';
+  peiTipEl.style.left=left+'px';
+}
+function hidePeiTip(){if(peiTipEl){peiTipEl.remove();peiTipEl=null;}}
+function activatePeiTags(){
+  $('#modal').querySelectorAll('.pei-tag').forEach(tag=>{
+    tag.addEventListener('mouseenter',()=>showPeiTip(tag));
+    tag.addEventListener('mouseleave',hidePeiTip);
+    tag.addEventListener('focus',()=>showPeiTip(tag));
+    tag.addEventListener('blur',hidePeiTip);
+    tag.addEventListener('click',e=>{e.stopPropagation();peiTipEl?hidePeiTip():showPeiTip(tag);});
+  });
+  const body=$('#modal').querySelector('.person-modal-body');
+  if(body)body.addEventListener('scroll',hidePeiTip,{passive:true});
 }
 function cjkToNum(s){
   const d={'一':1,'二':2,'三':3,'四':4,'五':5,'六':6,'七':7,'八':8,'九':9};
@@ -148,6 +177,7 @@ function openPerson(p){
     <p class="source-audit-note">「歸屬不詳」表示證據不足；「無勢力」只用於有記載支持的未仕、退居或獨立活動。生卒、繫年存在推定或異說時，依條目說明閱讀。原始資料已另存備份。</p></div>`;
   activateModal(p.n+'人物資料');
   activateSourceExcerpts();
+  activatePeiTags();
   $('#modal').querySelectorAll('[data-tenure]').forEach(b=>b.onclick=()=>{
     const s=all[+b.dataset.tenure];$('#modal').innerHTML=`<button id="mClose" aria-label="關閉">✕</button><h2>${esc(p.n)}</h2>${evidenceHTML(s)}<button class="btn" id="backToPerson">返回人物</button>`;activateModal(p.n+'史料依據');$('#backToPerson').onclick=()=>openPerson(p);
   });
