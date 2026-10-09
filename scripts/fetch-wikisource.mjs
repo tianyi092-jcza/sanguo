@@ -94,6 +94,8 @@ function inline(s) {
       const end = s.indexOf(']]', i);
       if (end < 0) { out += escHtml(s.slice(i)); break; }
       out += linkHTML(s.slice(i + 2, end)); i = end + 2;
+    } else if (s.startsWith('}}', i)) {
+      i += 2; // 游离的 }}（无对应 {{，系文库标记笔误）：丢弃，不入正文
     } else if (s.startsWith('-{', i)) {
       const end = s.indexOf('}-', i);
       if (end < 0) { out += escHtml(s.slice(i)); break; }
