@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 56,
-  "remainingUnreviewedCount": 125,
+  "reviewedCount": 60,
+  "remainingUnreviewedCount": 121,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1421,6 +1421,50 @@
       "reviewNote": "襄陽人。《三國志·魏書·劉表傳》：「初，表及妻愛少子琮，欲以為後，而蔡瑁、張允為之支黨，乃出長子琦為江夏太守」；《典論》載瑁、允遏琦於戶外；《世語》（見《蜀書·先主傳》裴注）：「曾請備宴會，蒯越、蔡瑁欲因會取備」。劉表麾下擁兵將領身份明確，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
       "role": "劉表麾下將領",
       "source": "a04-006"
+    },
+    {
+      "batch": "portrait-batch-14",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0304",
+      "name": "韓嵩",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·魏書·劉表傳》附韓嵩傳載其不應三公之命、隱居酈西山，黃巾起避難南方，為劉表逼為別駕，轉從事中郎；奉使到許事載裴注；荊州平後在所拜授大鴻臚印綬。荊州名士文官身份明確，eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "劉表麾下文官（別駕、從事中郎）",
+      "source": "a04-006"
+    },
+    {
+      "batch": "portrait-batch-14",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0305",
+      "name": "嚴顏",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·蜀書·張飛傳》載劉璋麾下巴郡太守嚴顏守江州被張飛生獲，「我州但有斷頭將軍，無有降將軍也」氣節事蹟明確；《華陽國志》裴注載其拊心歎語。武將身份明確，eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "劉璋麾下巴郡太守",
+      "source": "a04-036"
+    },
+    {
+      "batch": "portrait-batch-14",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0306",
+      "name": "張任",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·蜀書·先主傳》載璋遣劉璝、冷苞、張任、鄧賢等拒先主於涪，裴注引《益部耆舊雜記》：「張任，蜀郡人，家世寒門。少有膽勇，有志節，仕州為從事」。劉璋麾下領兵將領身份明確，eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "劉璋麾下將領（州從事）",
+      "source": "a04-032"
+    },
+    {
+      "batch": "portrait-batch-14",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0307",
+      "name": "鄭度",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·蜀書·法正傳》裴注引《華陽國志》載鄭度為廣漢人、州從事，向劉璋獻堅壁清野之計（璋不用）。謀士文官身份明確，eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "劉璋麾下謀士（州從事）",
+      "source": "a04-037"
     }
   ]
 }
