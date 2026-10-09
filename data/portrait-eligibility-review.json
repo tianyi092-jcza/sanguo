@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 16,
-  "remainingUnreviewedCount": 165,
+  "reviewedCount": 20,
+  "remainingUnreviewedCount": 161,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -933,6 +933,58 @@
       "publicationVerified": false,
       "batch": "portrait-batch-03",
       "publicVerifiedAt": "2026-10-09T18:34:50.098234+00:00"
+    },
+    {
+      "id": "p0113",
+      "name": "許攸",
+      "gender": "male",
+      "role": "袁紹謀臣、後歸曹操之謀士",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書一》武帝紀：「紹謀臣許攸貪財，紹不能足，來奔，因說公擊瓊等」；曹瞞傳：「公聞攸來，跣出迎之」。官渡烏巢之謀主。未核得本人五官特徵；採普通比例原創藝術示意。謀士依身份著文士服飾，不戴盔甲。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-04",
+      "publicVerifiedAt": "2026-10-09T19:05:18.498589+00:00"
+    },
+    {
+      "id": "p0114",
+      "name": "馬騰",
+      "gender": "male",
+      "role": "涼州軍閥、征西將軍→前將軍",
+      "source": "a04-036",
+      "reviewNote": "《三國志·蜀書六》馬超傳引典略：「騰為人長八尺餘，身體洪大，面鼻雄異，而性賢厚，人多敬之」。征西將軍、前將軍，馬超之父。只用馬騰本人記載，不挪用馬超或馬援材料；羌母出身不做為五官依據。面鼻雄異為本人明載特徵，其餘五官採普通比例藝術示意。武將按用戶規則戴頭盔、著甲胄。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-04",
+      "publicVerifiedAt": "2026-10-09T19:05:18.498589+00:00"
+    },
+    {
+      "id": "p0115",
+      "name": "韓遂",
+      "gender": "male",
+      "role": "金城軍閥、鎮西將軍",
+      "source": "a04-015",
+      "reviewNote": "《三國志·蜀書六》馬超傳：「漢朝以遂為鎮西將軍，遣還金城」；《三國志·魏書十五》成公英傳引典略載湟中事：「丈夫困厄，禍起婚姻乎！」。金城軍閥。不套用馬騰之「面鼻雄異」；未核得本人五官特徵，採普通比例原創藝術示意。武將按用戶規則戴頭盔、著甲胄。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-04",
+      "publicVerifiedAt": "2026-10-09T19:05:18.498589+00:00"
+    },
+    {
+      "id": "p0122",
+      "name": "孟獲",
+      "gender": "male",
+      "role": "南中首領",
+      "source": "a04-035",
+      "reviewNote": "《三國志·蜀書五》諸葛亮傳引漢晉春秋：「聞孟獲者，為夷、漢所服，募生致之」；七縱七禽。南中首領。非漢人將軍，不著漢式盔甲，採南中首領裝束藝術示意。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-04",
+      "publicVerifiedAt": "2026-10-09T19:05:18.498589+00:00"
     }
   ]
 }

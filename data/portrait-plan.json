@@ -4519,5 +4519,57 @@
     "file": "p0108.webp",
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Yuan Xi (袁熙), male aristocrat-official, middle son of the warlord Yuan Shao, late Eastern Han. Primary source: Book of the Later Han, Kong Rong biography (a03-070): 「袁紹傳，熙，紹之中子也」 — he served as Inspector of You Province (幽州刺史); Records of the Three Kingdoms, Wei book vol. 1 (a04-001): 「袁熙大將焦觸、張南等叛攻熙、尚，熙、尚奔三郡烏丸」, and he was killed by Gongsun Kang in 207. He was a regional governor and noble, not a battlefield general: no armor, no helmet. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Depict him as a young nobleman in his thirties, simple dark cloth cap, plain dark cross-collared official robe, restrained bearing. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing elements, armor, helmet, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0113",
+    "name": "許攸",
+    "gender": "male",
+    "role": "袁紹謀臣、後歸曹操之謀士",
+    "source": "a04-001",
+    "evidence": "「紹謀臣許攸貪財，紹不能足，來奔，因說公擊瓊等。」（《三國志·魏書一》武帝紀；攸策烏巢之襲）曹瞞傳曰：「公聞攸來，跣出迎之。」",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0113.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Xu You (許攸), male strategist of late Eastern Han, adviser first to Yuan Shao then to Cao Cao. Primary source: Records of the Three Kingdoms, Wei book vol. 1 (a04-001): 「紹謀臣許攸貪財，紹不能足，來奔，因說公擊瓊等」 — he defected to Cao Cao before the Battle of Guandu and urged the night raid on Wuchao (烏巢); the Cao Man Zhuan adds 「公聞攸來，跣出迎之」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a sharp, self-assured adviser's bearing, plain dark cross-collar scholar's robe with a modest black cloth cap over tied hair — he is a civil strategist, NOT a general: no helmet, no armor, no weapon. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0114",
+    "name": "馬騰",
+    "gender": "male",
+    "role": "涼州軍閥、征西將軍→前將軍",
+    "source": "a04-036",
+    "evidence": "「騰為人長八尺餘，身體洪大，面鼻雄異，而性賢厚，人多敬之。」（《三國志·蜀書六》馬超傳引典略；騰官至征西將軍、前將軍，封槐里侯）",
+    "appearance": "長八尺餘，身體洪大，面鼻雄異（典略）",
+    "status": "generated",
+    "file": "p0114.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Ma Teng (馬騰), male military general and Xiliang warlord, father of Ma Chao, late Eastern Han. Primary source: Records of the Three Kingdoms, Shu book vol. 6 (a04-036), citing Dian Lüe (典略): 「騰為人長八尺餘，身體洪大，面鼻雄異，而性賢厚，人多敬之」 — tall (over eight chi), large-bodied, with a bold distinctive face and nose, by nature generous and kind. Career: rose with Bian Zhang and Han Sui in the west, made General Who Pacifies the West (征西將軍), later General of the Van (前將軍), enfeoffed Marquis of Huaili. Depict a powerfully built, dignified northwestern commander with a strong bold nose as the one recorded trait; do not invent other ethnic or facial specifics. Give him a Han-dynasty military helmet and polished iron armor over a cross-collared robe. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0115",
+    "name": "韓遂",
+    "gender": "male",
+    "role": "金城軍閥、鎮西將軍",
+    "source": "a04-015",
+    "evidence": "「漢朝以遂為鎮西將軍，遣還金城。」（《三國志·蜀書六》馬超傳）典略曰：韓遂在湟中，其壻閻行欲殺遂以降，夜攻遂，不下。遂歎息曰：「丈夫困厄，禍起婚姻乎！」（《三國志·魏書十五》成公英傳引典略）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0115.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Han Sui (韓遂), male military warlord of Jincheng in the northwest, late Eastern Han. Primary source: Records of the Three Kingdoms, Shu book vol. 6 (a04-036): 「漢朝以遂為鎮西將軍，遣還金城」 — appointed General Who Guards the West; Dian Lüe records his later years in Huangzhong, betrayed by his son-in-law Yan Xing: 「丈夫困厄，禍起婚姻乎！」 No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion — do not borrow another figure's recorded traits. Give him a weathered veteran commander's bearing, lean resolute face, Han-dynasty military helmet, polished iron armor over a cross-collared robe. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0122",
+    "name": "孟獲",
+    "gender": "male",
+    "role": "南中首領",
+    "source": "a04-035",
+    "evidence": "「聞孟獲者，為夷、漢所服，募生致之。」（《三國志·蜀書五》諸葛亮傳引漢晉春秋；亮七縱七禽）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0122.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Meng Huo (孟獲), male chieftain of the southern tribes (南中), Shu Han era. Primary source: Records of the Three Kingdoms, Shu book vol. 5 (a04-035), citing Han Jin Chunqiu (漢晉春秋): 「聞孟獲者，為夷、漢所服，募生致之」 — a leader respected by both Yi and Han peoples, whom Zhuge Liang captured and released seven times (七縱七禽) during the southern campaign. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Depict a proud tribal chieftain in simple period southern tribal garb with modest local ornament — NOT Han military helmet or armor, NOT Han scholar robes; no fantasy or anachronistic costume. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]
