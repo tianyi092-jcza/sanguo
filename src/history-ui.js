@@ -32,8 +32,30 @@ function chenAppraisalsHTML(h){
   }).join('');
 }
 const sourceExcerptOrder=[
-  ['sanguozhi','三國志'],['peizhu','裴松之注'],['houhanshu','後漢書'],['huayang','華陽國志'],['jinshu','晉書']
+  ['sanguozhi','三國志'],['houhanshu','後漢書'],['huayang','華陽國志'],['jinshu','晉書']
 ];
+function attachPeiNotes(mains,peis){
+  const bySrc={};
+  mains.forEach(m=>{(bySrc[m.source]=bySrc[m.source]||[]).push(m);});
+  const attached=new Map(),orphans=[];
+  for(const pe of peis){
+    const cands=bySrc[pe.source]||[];
+    const before=cands.filter(m=>m.paragraph<=pe.paragraph);
+    let target=before.length?before.reduce((a,b)=>b.paragraph>=a.paragraph?b:a):null;
+    if(!target){
+      const after=cands.filter(m=>m.paragraph>pe.paragraph).sort((a,b)=>a.paragraph-b.paragraph);
+      target=after.length?after[0]:null;
+    }
+    if(target){
+      if(!attached.has(target.id))attached.set(target.id,[]);
+      attached.get(target.id).push(pe);
+    }else orphans.push(pe);
+  }
+  return {attached,orphans};
+}
+function peiNotesHTML(list){
+  return list.map(pei=>`<div class="pei-note"><div class="pei-citation">${esc(pei.citation)}</div><blockquote>${esc(pei.quote)}</blockquote></div>`).join('');
+}
 function cjkToNum(s){
   const d={'一':1,'二':2,'三':3,'四':4,'五':5,'六':6,'七':7,'八':8,'九':9};
   s=String(s||'').trim();
@@ -72,8 +94,10 @@ function personSourceExcerptsHTML(h,p){
   excerpts.push(...(h.verifiedPeiExcerpts||[]));
  }
  let number=0;
- return sourceExcerptOrder.map(([work,title])=>{
-  const items=excerpts.filter(x=>x.work===work);
+ const mains=excerpts.filter(x=>x.work!=='peizhu');
+ const {attached,orphans}=attachPeiNotes(mains,excerpts.filter(x=>x.work==='peizhu'));
+ let body=sourceExcerptOrder.map(([work,title])=>{
+  const items=mains.filter(x=>x.work===work);
   if(!items.length)return '';
   const groups=[];
   for(const item of items){
@@ -83,9 +107,11 @@ function personSourceExcerptsHTML(h,p){
   }
   return `<section class="source-work"><h4>${++number} · ${title}</h4>${groups.map((g,gi)=>{
    const quoteId=`source-quote-${p.id}-${work}-${gi}`;
-   return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${esc(item.quote)}</blockquote>`).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
+   return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${esc(item.quote)}</blockquote>${attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('')}</section>`;
  }).join('');
+ if(orphans.length)body+=`<section class="source-work"><h4>${++number} · 裴松之注</h4><article class="source-excerpt"><div class="source-citation">所注正文未收錄</div>${peiNotesHTML(orphans)}</article></section>`;
+ return body;
 }
 function activateSourceExcerpts(){
  $('#modal').querySelectorAll('.source-excerpt').forEach(card=>{
