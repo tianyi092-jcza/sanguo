@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 8,
-  "remainingUnreviewedCount": 173,
+  "reviewedCount": 12,
+  "remainingUnreviewedCount": 169,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -833,6 +833,54 @@
       "publicationVerified": true,
       "batch": "local-review-01",
       "publicVerifiedAt": "2026-10-06T07:05:34.662Z"
+    },
+    {
+      "id": "p0079",
+      "name": "楊彪",
+      "gender": "male",
+      "role": "漢太尉、名臣；楊脩之父",
+      "source": "a03-054",
+      "reviewNote": "彪字文先，弘農華陰人；歷侍中、太僕、衞尉，中平六年代董卓為司空、代黃琬為司徒，建安元年拜太尉，見《後漢書·楊震列傳》附傳（a03-054）；《三國志·魏書二十六》滿寵傳亦載「故太尉楊彪收付縣獄」。官爵事蹟俱足，不挪用其子楊脩材料。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-02"
+    },
+    {
+      "id": "p0080",
+      "name": "蔡邕",
+      "gender": "male",
+      "role": "漢侍中、文學家",
+      "source": "a04-006",
+      "reviewNote": "《三國志·魏書六》董卓傳（a04-006）載「卓怒，罷坐，欲誅植，侍中蔡邕勸之，得免」，侍中任官明載；漢末大儒身份史料俱足。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-02"
+    },
+    {
+      "id": "p0081",
+      "name": "禰衡",
+      "gender": "male",
+      "role": "漢末名士",
+      "source": "a03-080b",
+      "reviewNote": "《後漢書·文苑列傳》（a03-080b）立傳：「禰衡字正平，平原般人也……少有才辯，而尚氣剛傲，好矯時慢物」。布衣名士，非將軍，不著甲胄。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-02"
+    },
+    {
+      "id": "p0084",
+      "name": "漢獻帝",
+      "gender": "male",
+      "role": "東漢末代皇帝（劉協）",
+      "source": "a03-009",
+      "reviewNote": "《後漢書·孝獻帝紀》（a03-009）：「中平六年……九月甲戌，即皇帝位，年九歲」，在位189—220。起居注策文「豐下兊上，有堯圖之表」為廢立時公式化讚語，非可據之五官實錄。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-02"
     }
   ]
 }

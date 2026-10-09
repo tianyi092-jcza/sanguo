@@ -4415,5 +4415,57 @@
     "generator": "built-in imagegen",
     "appearanceSource": "a05-003",
     "reviewNote": "云端逐条核对本传及裴注的本人身份、性别、职业与形貌；未载五官均为普通比例艺术示意，不借用亲属或同名人物。"
+  },
+  {
+    "id": "p0079",
+    "name": "楊彪",
+    "gender": "male",
+    "role": "漢太尉、名臣；楊脩之父",
+    "source": "a03-054",
+    "evidence": "彪字文先，少傳家學。……遷侍中、京兆尹。……三遷永樂少府、太僕、衞尉。中平六年，代董卓為司空，其冬，代黃琬為司徒。……時袁術僭亂，操託彪與術婚姻，誣以欲圖廢置，奏收下獄，劾以大逆。（《後漢書·楊震列傳》附楊彪；《三國志·魏書二十六》滿寵傳亦載「故太尉楊彪收付縣獄」）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0079.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Yang Biao (楊彪), male senior civil official of late Eastern Han. Primary source: Book of the Later Han, biography of Yang Zhen with appended Yang Biao (a03-054): 「彪字文先……中平六年，代董卓為司空，其冬，代黃琬為司徒」; Records of the Three Kingdoms Wei 26 (a04-026) also records 「故太尉楊彪收付縣獄」. He served as Grand Commandant (太尉) of Han. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him the dignified bearing of an elderly statesman, modest dark Han-dynasty official cap, restrained dark cross-collared civil robe; visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, helmet, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0080",
+    "name": "蔡邕",
+    "gender": "male",
+    "role": "漢侍中、文學家",
+    "source": "a04-006",
+    "evidence": "卓怒，罷坐，欲誅植，侍中蔡邕勸之，得免。（《三國志·魏書六》董卓傳）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0080.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Cai Yong (蔡邕), male Han-dynasty scholar-official and man of letters of late Eastern Han. Primary source: Records of the Three Kingdoms, Wei book vol. 6 (a04-006): 「卓怒，罷坐，欲誅植，侍中蔡邕勸之，得免」. He served as Palace Attendant (侍中) under the Han court. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a refined scholar's bearing, simple dark cloth headwrap, restrained brown cross-collared scholar's robe, calm thoughtful expression; visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, helmet, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0081",
+    "name": "禰衡",
+    "gender": "male",
+    "role": "漢末名士",
+    "source": "a03-080b",
+    "evidence": "禰衡字正平，平原般人也。般，縣，故城在今德州平昌縣東。般音卜滿反。少有才辯，而尚氣剛傲，好矯時慢物。（《後漢書·文苑列傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0081.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Mi Heng (禰衡), male Han-dynasty scholar and celebrated wit of late Eastern Han, depicted as a young man in his twenties. Primary source: Book of the Later Han, Wen Yuan biographies (a03-080b): 「禰衡字正平，平原般人也……少有才辯，而尚氣剛傲，好矯時慢物」. He was a private scholar, never a general. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a proud sharp expression, simple dark cloth headwrap, plain dark cross-collared scholar's robe; visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, helmet, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0084",
+    "name": "漢獻帝",
+    "gender": "male",
+    "role": "東漢末代皇帝（劉協）",
+    "source": "a03-009",
+    "evidence": "中平六年四月，少帝即位，封帝為勃海王，徙封陳留王。九月甲戌，即皇帝位，年九歲。（《後漢書·孝獻帝紀》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0084.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Emperor Xian of Han (漢獻帝, Liu Xie), male last emperor of Eastern Han, depicted as an adult sovereign. Primary source: Book of the Later Han, Annals of Emperor Xiaoxian (a03-009): 「中平六年四月，少帝即位，封帝為勃海王，徙封陳留王。九月甲戌，即皇帝位，年九歲」; reigned 189 to 220. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him late-Eastern-Han imperial ceremonial attire: dark upper robe with cross collar, modest flat-topped ceremonial crown; avoid Ming/Qing dragon-robe styles. Composed solemn expression; visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, helmet, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]
