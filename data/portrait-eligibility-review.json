@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 20,
-  "remainingUnreviewedCount": 161,
+  "reviewedCount": 24,
+  "remainingUnreviewedCount": 157,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -985,6 +985,58 @@
       "publicationVerified": false,
       "batch": "portrait-batch-04",
       "publicVerifiedAt": "2026-10-09T19:05:18.498589+00:00"
+    },
+    {
+      "id": "p0124",
+      "name": "士徽",
+      "gender": "male",
+      "role": "士燮之子、自署交阯太守",
+      "source": "a04-049",
+      "reviewNote": "《三國志·吳書四》士燮傳：「燮子徽自署交阯太守，發宗兵拒良」，閉門城守，後為呂岱奉詔所誅。地方官（太守），非戰陣將軍，依身份著文士服飾，不戴盔甲。未核得本人五官特徵，不套用他人記載；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-05",
+      "publicVerifiedAt": "2026-10-09T19:34:02.404084+00:00"
+    },
+    {
+      "id": "p0125",
+      "name": "董承",
+      "gender": "male",
+      "role": "車騎將軍、衣帶詔謀主",
+      "source": "a04-032",
+      "reviewNote": "《三國志·蜀書二》先主傳：獻帝舅車騎將軍董承，辭受帝衣帶中密詔，當誅曹公；建安五年謀泄伏誅。官拜車騎將軍，武將身份，按用戶規則戴頭盔、著甲胄。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-05",
+      "publicVerifiedAt": "2026-10-09T19:34:02.404084+00:00"
+    },
+    {
+      "id": "p0139",
+      "name": "麋竺",
+      "gender": "male",
+      "role": "蜀漢安漢將軍、上賓文士",
+      "source": "a04-038",
+      "reviewNote": "《三國志·蜀書八》：糜竺進妹於先主為夫人，奴客二千、金銀貨幣助軍資；益州既平拜安漢將軍。然陳壽評「雍容敦雅，而幹翮非所長」「待之以上賓之禮，未嘗有所統御」，實為文士上賓，依身份著文士服飾，不戴盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-05",
+      "publicVerifiedAt": "2026-10-09T19:34:02.404084+00:00"
+    },
+    {
+      "id": "p0183",
+      "name": "關平",
+      "gender": "male",
+      "role": "關羽之子、隨父從軍",
+      "source": "a04-036",
+      "reviewNote": "《三國志·蜀書六》關羽傳：「斬羽及子平于臨沮」。關羽之子，隨父軍事活動，建安二十四年遇害；不採小說義子說。隨軍武人身份，按用戶規則戴頭盔、著甲胄。不套用關羽本人五官記載；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-05",
+      "publicVerifiedAt": "2026-10-09T19:34:02.404084+00:00"
     }
   ]
 }
