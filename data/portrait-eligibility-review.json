@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 28,
-  "remainingUnreviewedCount": 153,
+  "reviewedCount": 32,
+  "remainingUnreviewedCount": 149,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1089,6 +1089,58 @@
       "publicationVerified": false,
       "batch": "portrait-batch-06",
       "publicVerifiedAt": "2026-10-09T20:01:54.444228+00:00"
+    },
+    {
+      "id": "p0204",
+      "name": "步騭",
+      "gender": "male",
+      "role": "吳丞相、重臣",
+      "source": "a04-052",
+      "reviewNote": "《三國志·吳書七》張顧諸葛步傳：步隲字子山，臨淮淮陰人。赤烏九年，代陸遜為丞相，「猶誨育門生，手不釋書，被服居處有如儒生」。吳丞相文臣身份明確。未核得本人五官特徵，不套用他人記載；採普通比例原創藝術示意。依身份著文士服飾，不戴盔甲。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-07",
+      "publicVerifiedAt": "2026-10-09T20:32:46.740345+00:00"
+    },
+    {
+      "id": "p0272",
+      "name": "傅燮",
+      "gender": "male",
+      "role": "東漢名臣、漢陽太守",
+      "source": "a03-058",
+      "reviewNote": "《後漢書·卷五十八》（傳本作「傅爕」）：「傅爕字南容，北地靈州人也。……身長八尺，有威容。」護軍司馬從皇甫嵩討黃巾，後為漢陽太守，守郡臨陣戰歿，謚壯節侯。地方官/名臣身份，依士徽先例著文士服飾，不戴盔甲。只用本人明載特徵（身長八尺、有威容），其餘五官採普通比例藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-07",
+      "publicVerifiedAt": "2026-10-09T20:32:46.740345+00:00"
+    },
+    {
+      "id": "p0273",
+      "name": "橋玄",
+      "gender": "male",
+      "role": "東漢太尉",
+      "source": "a03-051",
+      "reviewNote": "《後漢書·卷五十一》：橋玄字公祖，梁國睢陽人。光和元年遷太尉；嘗為度遼將軍，假黃鉞，在職三年邊境安靜。曹操祭文稱「故太尉橋公」。以太尉（文官）為定義身份，著文士服飾，不戴盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-07",
+      "publicVerifiedAt": "2026-10-09T20:32:46.740345+00:00"
+    },
+    {
+      "id": "p0275",
+      "name": "王匡",
+      "gender": "male",
+      "role": "河內太守、討董聯軍",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書一》武帝紀引《英雄記》：河內太守王匡，字公節，泰山人，「輕財好施，以任俠聞」；初平元年與袁紹等「同時俱起兵，衆各數萬，推紹為盟主」。地方官（太守），非戰陣將軍，依士徽先例著文士服飾，不戴盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-07",
+      "publicVerifiedAt": "2026-10-09T20:32:46.740345+00:00"
     }
   ]
 }
