@@ -230,6 +230,7 @@ function activateSourceExcerpts(){
     const bio=card.querySelector('.biography-text');
     if(bio)targets.push(bio);
     const button=card.querySelector('.source-expand');
+    if(!button)return;
     button.hidden=!targets.some(q=>q.scrollHeight>q.clientHeight+1);
   button.onclick=()=>{
    const expanded=card.classList.toggle('expanded');
