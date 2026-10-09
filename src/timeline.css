@@ -209,7 +209,7 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 .pei-tag{display:inline-block;margin:6px 8px 4px 0;padding:0 8px;border:1.5px dashed #8a6d3b;border-radius:4px;color:#666666;font-size:11px;line-height:1.5;cursor:default;background:transparent}
 .pei-tag:hover,.pei-tag:focus-visible{color:#1c1a15;border-color:#6b4f22;background:#f7f0dd;outline:none}
 .pei-tiptext{display:none}
-.pei-tip{position:fixed;z-index:10000;width:420px;max-width:86vw;background:#faf5e6;border:1px solid #8a6d3b;border-radius:6px;box-shadow:0 10px 28px rgba(60,45,20,.28);padding:12px 14px;font-family:var(--serif);font-size:13.5px;line-height:1.9;color:#1c1a15;white-space:pre-wrap}
+.pei-tip{position:fixed;z-index:10000;width:630px;max-width:86vw;background:#faf5e6;border:1px solid #8a6d3b;border-radius:6px;box-shadow:0 10px 28px rgba(60,45,20,.28);padding:12px 14px;font-family:var(--serif);font-size:13.5px;line-height:1.9;color:#1c1a15;white-space:pre-wrap}
 
 /* ===== 弹窗阅读字体与维基文库一致（系统黑体栈） ===== */
 #modal,#modal h2,#modal .sec h3,#modal .sec .body,#modal blockquote,#modal .source-excerpt blockquote,#modal .pei-note blockquote,#modal .person-facts blockquote,#modal .evidence-card blockquote,#modal .affiliation-evidence blockquote,#modal .chen-appraisal blockquote,#modal .meta,#modal .src,.pei-tip{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans SC","Noto Sans TC",system-ui,sans-serif}
