@@ -31,6 +31,20 @@ function templateName(inner) {
   return (bar < 0 ? inner : inner.slice(0, bar)).trim();
 }
 
+// 只在顶层（不在嵌套 {{…}} 内）按 | 切分模板参数
+function splitTopLevel(s) {
+  const parts = [];
+  let depth = 0, cur = '';
+  for (let i = 0; i < s.length; i++) {
+    if (s.startsWith('{{', i)) { depth++; cur += '{{'; i++; }
+    else if (s.startsWith('}}', i)) { depth--; cur += '}}'; i++; }
+    else if (s[i] === '|' && depth === 0) { parts.push(cur); cur = ''; }
+    else cur += s[i];
+  }
+  parts.push(cur);
+  return parts;
+}
+
 // 删除顶层指定模板（header/footer/许可/顶注等）
 function dropTopTemplates(s) {
   let out = '', i = 0;
@@ -62,10 +76,10 @@ function templateHTML(inner) {
   const name = templateName(inner);
   const bar = inner.indexOf('|');
   const rest = bar < 0 ? '' : inner.slice(bar + 1);
-  if (name === 'YL' || name === 'ProperNoun') return inline(rest.split('|').pop() || '');
+  if (name === 'YL' || name === 'ProperNoun') return inline(splitTopLevel(rest).pop() || '');
   if (name === 'WavyBookMark') return inline(rest);
   if (name === 'quote') return inline(rest); // 注文内嵌套的引文模板：保留全文
-  const parts = rest.split('|');
+  const parts = splitTopLevel(rest);
   return inline(parts[parts.length - 1] || '');
 }
 
