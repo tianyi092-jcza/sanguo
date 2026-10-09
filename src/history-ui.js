@@ -53,8 +53,11 @@ function attachPeiNotes(mains,peis){
   }
   return {attached,orphans};
 }
+function peiTagHTML(label,tipHTML){
+  return `<span class="pei-tag" tabindex="0">${label}<span class="pei-tiptext" hidden>${tipHTML}</span></span>`;
+}
 function peiNotesHTML(list){
-  return list.map(pei=>`<span class="pei-tag" tabindex="0">${esc(pei.citation)}<span class="pei-tiptext" hidden>${esc(pei.quote)}</span></span>`).join('');
+  return `<span class="pei-group">${list.map(pei=>peiTagHTML(esc(pei.citation),esc(pei.quote))).join('')}</span>`;
 }
 let peiTipEl=null;
 function showPeiTip(anchor){
@@ -141,7 +144,20 @@ function legacyExcerptsHTML(excerpts,p){
   return body;
 }
 function biographyFullHTML(wsBio,p){
-  return `<article class="source-excerpt biography-full"><div class="source-citation">${esc(p.s||'本傳')} · 全文</div><div class="src">底本：維基文庫<a href="${wsBio.url}" target="_blank" rel="noopener noreferrer">《三國志》${esc(wsBio.pageLabel)}</a>（原文照錄；注文以「裴注」標籤呈現，懸停查看）</div><div class="biography-text">${wsBio.paragraphs.map(para=>`<p>${para.segs.map(s=>s.t==='pei'?`<span class="pei-tag" tabindex="0">裴注<span class="pei-tiptext" hidden>${s.h}</span></span>`:s.h).join('')}</p>`).join('')}</div><button type="button" class="source-expand" aria-expanded="false">展開全文</button></article>`;
+  const body=wsBio.paragraphs.map(para=>{
+    let html='',i=0;
+    const segs=para.segs;
+    while(i<segs.length){
+      if(segs[i].t==='pei'){
+        let j=i;
+        while(j<segs.length&&segs[j].t==='pei')j++;
+        html+=`<span class="pei-group">${segs.slice(i,j).map(s=>peiTagHTML('裴注',s.h)).join('')}</span>`;
+        i=j;
+      }else{html+=segs[i].h;i++;}
+    }
+    return `<p>${html}</p>`;
+  }).join('');
+  return `<article class="source-excerpt biography-full"><div class="source-citation">${esc(p.s||'本傳')} · 全文</div><div class="src">底本：維基文庫<a href="${wsBio.url}" target="_blank" rel="noopener noreferrer">《三國志》${esc(wsBio.pageLabel)}</a>（原文照錄；注文以「裴注」標籤呈現，懸停查看）</div><div class="biography-text">${body}</div><button type="button" class="source-expand" aria-expanded="false">展開全文</button></article>`;
 }
 // 新三段式：一三國志（含裴注）/二晉書/三資治通鑑
 function newExcerptsHTML(excerpts,p,wsBio){

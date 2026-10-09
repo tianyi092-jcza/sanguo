@@ -221,3 +221,7 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 .biography-full .src{margin:6px 0 10px}
 .biography-full .pei-tag{margin:2px 6px 2px 2px}
 #modal .biography-text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans SC","Noto Sans TC",system-ui,sans-serif}
+
+/* 相邻裴注标签成组不换行 */
+.pei-group{white-space:nowrap}
+.pei-group .pei-tag+.pei-tag{margin-left:4px}
