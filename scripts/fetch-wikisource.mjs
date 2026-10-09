@@ -113,7 +113,14 @@ function parseWikitext(wt) {
     const segs = splitNotes(para).map(sg => ({ t: sg.t, h: inline(sg.s.trim()) })).filter(sg => sg.h);
     if (segs.length) paragraphs.push({ segs });
   }
-  return paragraphs;
+  // 纯注段落（段内只有裴注、无正文）并入上一段，避免注标签独占一行
+  const merged = [];
+  for (const p of paragraphs) {
+    if (p.segs.length && p.segs.every(s => s.t === 'pei') && merged.length) {
+      merged[merged.length - 1].segs.push(...p.segs);
+    } else merged.push(p);
+  }
+  return merged;
 }
 
 async function main() {
