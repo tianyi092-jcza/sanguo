@@ -109,7 +109,7 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 .year-tick.tick-first:after{margin-left:0}.year-tick.tick-last:after{margin-right:0}
 #modal,#playBox.timeline-playbox{border-radius:5px}
 #modal{position:relative}
-#modal.person-modal{display:flex;flex-direction:column;max-width:912px;height:min(86dvh,900px);max-height:86dvh;overflow:hidden;scrollbar-gutter:auto}
+#modal.person-modal{display:flex;flex-direction:column;max-width:1003px;height:min(86dvh,900px);max-height:86dvh;overflow:hidden;scrollbar-gutter:auto}
 #modal.person-modal #mClose{position:absolute;top:18px;right:18px;float:none;z-index:2;flex:none}
 #modal.person-modal .person-intro{flex:none;margin:0;padding-right:32px}
 .person-modal-body{flex:1;min-height:0;overflow:auto;overscroll-behavior:contain;margin-top:18px;padding:12px 12px 18px 0;scrollbar-width:thin;scrollbar-color:#65707d #151b23;scrollbar-gutter:stable}
