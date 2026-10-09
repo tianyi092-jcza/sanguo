@@ -1,0 +1,143 @@
+{
+ "p0001": {
+  "cao-sg-yuanshao-welcome-emperor-196": {
+   "para": 45,
+   "sim": 0.811
+  },
+  "cao-sg-yuanshao-proclamation-ancestry-200": {
+   "para": 45,
+   "sim": 0.837
+  },
+  "cao-sg-yuanshao-dongzheng-liubei-200": {
+   "para": 45,
+   "sim": 0.837
+  },
+  "cao-sg-yuanshao-jushou-captured-200": {
+   "para": 46,
+   "sim": 0.877
+  },
+  "cao-sg-yuantan-betrays-nanpi-204": {
+   "para": 70,
+   "sim": 0.822
+  },
+  "cao-sg-gaogan-rebellion-206": {
+   "para": 70,
+   "sim": 0.822
+  },
+  "cao-sg-wuhuan-liaoxi-207": {
+   "para": 70,
+   "sim": 0.822
+  },
+  "cao-sg-lijueguosi-taizu-xudu-196": {
+   "para": 45,
+   "sim": 0.811
+  },
+  "cao-sgz-lubu-jianan3-zhengbu-ahcb": {
+   "para": 38,
+   "sim": 0.82
+  },
+  "cao-sgz-zhanglu-shiyu-fengshang-ahcb": {
+   "para": 97,
+   "sim": 0.801
+  },
+  "cao-sgz-caoren-guandu-liubei-ahcb": {
+   "para": 45,
+   "sim": 0.821
+  },
+  "cao-sgz-caohong-yanzhou-ahcb": {
+   "para": 23,
+   "sim": 0.838
+  },
+  "cao-sgz-xunyu-xuzhouzhi-ahcb": {
+   "para": 22,
+   "sim": 0.808
+  },
+  "cao-sgz-xunyu-yuanping-ahcb": {
+   "para": 45,
+   "sim": 0.806
+  },
+  "cao-sgz-xunyou-zhangxiu-ahcb": {
+   "para": 37,
+   "sim": 0.804
+  },
+  "cao-sgz-xunyou-guandu-ahcb": {
+   "para": 50,
+   "sim": 0.829
+  },
+  "cao-sgz-chengyu-juanceng700": {
+   "para": 45,
+   "sim": 0.858
+  },
+  "cao-sg-030-1": {
+   "para": 70,
+   "sim": 0.854
+  },
+  "cao-sg-032-2": {
+   "para": 38,
+   "sim": 0.86
+  },
+  "cao-sg-032-4": {
+   "para": 45,
+   "sim": 0.802
+  },
+  "cao-sg-032-7": {
+   "para": 72,
+   "sim": 0.806
+  },
+  "cao-sg-032-8": {
+   "para": 72,
+   "sim": 0.806
+  },
+  "cao-sg-032-15": {
+   "para": 97,
+   "sim": 0.802
+  },
+  "cao-sg-036-4": {
+   "para": 76,
+   "sim": 0.895
+  },
+  "cao-sg-047-13": {
+   "para": 72,
+   "sim": 0.812
+  },
+  "cao-sg-047-17": {
+   "para": 72,
+   "sim": 0.807
+  },
+  "cao-sgz-xiayuan-jiedu-ahcb": {
+   "para": 76,
+   "sim": 0.839
+  },
+  "cao-sgz-xiayuan-taojian-ahcb": {
+   "para": 92,
+   "sim": 0.859
+  },
+  "cao-sgz-xunyu-sisheng-guanzhong-a04-010-p5": {
+   "para": 45,
+   "sim": 0.818
+  },
+  "cao-sgz-xunyou-lubu-xiapi-a04-010-p17": {
+   "para": 38,
+   "sim": 0.869
+  }
+ },
+ "p0044": {},
+ "p0047": {
+  "zhanghe-sg-jieting": {
+   "para": 2,
+   "sim": 0.812
+  },
+  "zhanghe-sg-xiayuanduijianchao-vanguard": {
+   "para": 1,
+   "sim": 0.819
+  },
+  "zhanghe-hanzhong-tuidu": {
+   "para": 1,
+   "sim": 0.811
+  },
+  "zhanghe-liangliang-death": {
+   "para": 2,
+   "sim": 0.838
+  }
+ }
+}

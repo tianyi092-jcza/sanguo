@@ -153,7 +153,7 @@ function citationGroups(items){
 function excerptCardsHTML(groups,p,work,attached){
   return groups.map((g,gi)=>{
     const quoteId=`source-quote-${p.id}-${work}-${gi}`;
-    return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${esc(item.quote)}</blockquote>${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
+    return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${esc(item.quote)}</blockquote>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('');
 }
 // 舊版渲染：無維基文库本传全文的人物沿用
@@ -170,7 +170,7 @@ function legacyExcerptsHTML(excerpts,p){
   return body;
 }
 function biographyFullHTML(wsBio,p){
-  const body=wsBio.paragraphs.map(para=>{
+  const body=wsBio.paragraphs.map((para,pi)=>{
     let html='',i=0;
     const segs=para.segs;
     while(i<segs.length){
@@ -181,7 +181,7 @@ function biographyFullHTML(wsBio,p){
         i=j;
       }else{html+=segs[i].h;i++;}
     }
-    return `<p>${html}</p>`;
+    return `<p id="bio-p-${p.id}-${pi}">${html}</p>`;
   }).join('');
   return `<article class="source-excerpt biography-full"><div class="source-citation">${esc(p.s||'本傳')} · 全文</div><div class="src">底本：維基文庫<a href="${wsBio.url}" target="_blank" rel="noopener noreferrer">《三國志》${esc(wsBio.pageLabel)}</a>（原文照錄；注文以「裴注」標籤呈現，懸停查看）</div><div class="biography-text">${body}</div><button type="button" class="source-expand" aria-expanded="false">展開全文</button></article>`;
 }
@@ -233,28 +233,56 @@ function wsBioData(){
   wsBioDataCache=el?JSON.parse(el.textContent):{};
   return wsBioDataCache;
 }
+const wsBioPromises={};
 async function loadWsBiography(p){
   const meta=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
   const slot=document.querySelector(`[data-ws-bio="${p.id}"]`);
-  if(!meta||!slot||slot.dataset.wsLoaded)return;
+  if(!meta||!slot||slot.dataset.wsLoaded)return wsBioPromises[p.id];
   slot.dataset.wsLoaded='1';
-  try{
-    let bio=wsBioData()[p.id];
-    if(!bio){
-      const r=await fetch('wikisource/'+p.id+'.json');
-      if(!r.ok)throw new Error('HTTP '+r.status);
-      bio=await r.json();
+  wsBioPromises[p.id]=(async()=>{
+    try{
+      let bio=wsBioData()[p.id];
+      if(!bio){
+        const r=await fetch('wikisource/'+p.id+'.json');
+        if(!r.ok)throw new Error('HTTP '+r.status);
+        bio=await r.json();
+      }
+      if(!document.body.contains(slot))return;
+      const tmp=document.createElement('div');
+      tmp.innerHTML=biographyFullHTML(bio,p);
+      slot.replaceWith(tmp.firstElementChild);
+      activateSourceExcerpts();
+      activatePeiTags();
+    }catch(err){
+      if(document.body.contains(slot))slot.innerHTML='<span class="empty">本傳全文載入失敗，請稍後再試。</span>';
     }
-    if(!document.body.contains(slot))return;
-    const tmp=document.createElement('div');
-    tmp.innerHTML=biographyFullHTML(bio,p);
-    slot.replaceWith(tmp.firstElementChild);
-    activateSourceExcerpts();
-    activatePeiTags();
-  }catch(err){
-    if(document.body.contains(slot))slot.innerHTML='<span class="empty">本傳全文載入失敗，請稍後再試。</span>';
-  }
+  })();
+  return wsBioPromises[p.id];
 }
+// 「本传亦载」跳转：展开本传卡片并滚动到对应段落；本传尚未载入时先等待加载
+document.addEventListener('click',e=>{
+  const link=e.target.closest('[data-bio-jump]');
+  if(!link)return;
+  e.preventDefault();
+  const done=()=>{
+    const target=document.getElementById(link.dataset.bioJump);
+    if(!target)return false;
+    const card=target.closest('.source-excerpt');
+    if(card&&!card.classList.contains('expanded')){
+      card.classList.add('expanded');
+      const btn=card.querySelector('.source-expand');
+      if(btn){btn.textContent='收起';btn.setAttribute('aria-expanded','true');}
+    }
+    target.scrollIntoView({behavior:'smooth',block:'center'});
+    target.classList.add('bio-hit');
+    setTimeout(()=>target.classList.remove('bio-hit'),2200);
+    return true;
+  };
+  if(done())return;
+  const pid=link.dataset.pid;
+  const person=(typeof DATA!=='undefined'&&(DATA.per||[]).find(x=>x.id===pid))||{id:pid};
+  Promise.resolve(loadWsBiography(person)).then(()=>setTimeout(done,80));
+});
 function activateSourceExcerpts(){
   $('#modal').querySelectorAll('.source-excerpt').forEach(card=>{
     const targets=[...card.querySelectorAll('blockquote')];

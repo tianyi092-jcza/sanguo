@@ -22,6 +22,9 @@ function resolveExcerpt(item,docMap){
 export function applySecondReviews(data,people,docMap,normalize,audit){
  const review=JSON.parse(fs.readFileSync('data/person-second-review.json','utf8'));
  assert.equal(review.schemaVersion,1);
+ // 他传 -> 本传段落 的语义关联（build 前由 scripts/link-bio-paragraphs.py 生成）
+ const bioLinksPath='data/bio-links.json';
+ const bioLinks=fs.existsSync(bioLinksPath)?JSON.parse(fs.readFileSync(bioLinksPath,'utf8')):{};
  const byId=new Map(data.per.map(p=>[p.id,p]));
  const seen=new Set();let complete=0,pilot=0;
  for(const item of review.verifiedLegacyPei||[]){
@@ -42,7 +45,10 @@ export function applySecondReviews(data,people,docMap,normalize,audit){
   }else pilot++;
   const ids=new Set(),excerpts=row.excerpts.map(item=>{
    assert(item.id&&!ids.has(item.id),`Duplicate excerpt: ${item.id}`);ids.add(item.id);
-   return {...resolveExcerpt(item,docMap),display:item.display!==false};
+   const resolved={...resolveExcerpt(item,docMap),display:item.display!==false};
+   const link=bioLinks[row.id]?.[item.id];
+   if(link!=null)resolved.bioPara=link.para;
+   return resolved;
   });
   const assertEvidence=claim=>{for(const id of claim.evidence||[])assert(ids.has(id),`Unresolved evidence ${p.n}: ${id}`);};
   for(const kind of ['birth','death']){

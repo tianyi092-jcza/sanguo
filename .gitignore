@@ -18,3 +18,4 @@ output/*.log
 /.agents/
 /.aws/
 /.codegraph/
+/data/bio-vectors.npz

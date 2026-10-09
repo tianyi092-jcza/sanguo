@@ -233,3 +233,8 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 
 /* 裴注弹窗内的引用名 */
 .pei-tip-citation{font-size:12px;color:#8a6d3b;margin-bottom:6px;line-height:1.6}
+
+/* 本传亦载：他传卡片关联本传段落 */
+.bio-link{display:inline-block;margin:2px 0 6px;padding:1px 8px;border:1px dashed #b39b5f;border-radius:6px;background:transparent;color:#7a5c2e;font-size:11px;line-height:1.6;cursor:pointer}
+.bio-link:hover{background:#f7efdc;color:#4a3a20}
+.biography-text p.bio-hit{background:#fff3c4;border-radius:4px;transition:background 1.5s}
