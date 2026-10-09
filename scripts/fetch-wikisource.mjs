@@ -64,12 +64,12 @@ function linkHTML(inner) {
   const bar = inner.indexOf('|');
   const target = (bar < 0 ? inner : inner.slice(0, bar)).trim();
   const text = (bar < 0 ? target : inner.slice(bar + 1)).trim();
-  if (!target || target.startsWith('#')) return escHtml(text);
+  if (!target || target.startsWith('#')) return inline(text);
   const hash = target.indexOf('#');
   const page = hash < 0 ? target : target.slice(0, hash);
   const frag = hash < 0 ? '' : target.slice(hash + 1);
   const href = 'https://zh.wikisource.org/wiki/' + enc(page) + (frag ? '#' + enc(frag) : '');
-  return `<a href="${href}" target="_blank" rel="noopener noreferrer">${escHtml(text)}</a>`;
+  return `<a href="${href}" target="_blank" rel="noopener noreferrer">${inline(text)}</a>`;
 }
 
 function templateHTML(inner) {
