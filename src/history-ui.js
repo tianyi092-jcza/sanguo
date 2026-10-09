@@ -57,7 +57,7 @@ function peiTagHTML(label,tipHTML){
   return `<span class="pei-tag" tabindex="0">${label}<span class="pei-tiptext" hidden>${tipHTML}</span></span>`;
 }
 function peiNotesHTML(list){
-  return `<span class="pei-group">${list.map(pei=>peiTagHTML(esc(pei.citation),esc(pei.quote))).join('')}</span>`;
+  return `<span class="pei-group">${list.map(pei=>peiTagHTML('裴注',`<div class="pei-tip-citation">${esc(pei.citation)}</div><div>${esc(pei.quote)}</div>`)).join('')}</span>`;
 }
 let peiTipEl=null,peiDocBound=false;
 function showPeiTip(anchor){

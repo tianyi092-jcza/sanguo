@@ -230,3 +230,6 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 .pei-tip{padding-right:34px}
 .pei-tip-close{position:absolute;top:6px;right:8px;border:0;background:transparent;color:#8a6d3b;font-size:14px;line-height:1;padding:4px;cursor:pointer}
 .pei-tip-close:hover{color:#4a3a20}
+
+/* 裴注弹窗内的引用名 */
+.pei-tip-citation{font-size:12px;color:#8a6d3b;margin-bottom:6px;line-height:1.6}
