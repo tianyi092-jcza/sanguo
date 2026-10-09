@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 24,
-  "remainingUnreviewedCount": 157,
+  "reviewedCount": 28,
+  "remainingUnreviewedCount": 153,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1037,6 +1037,58 @@
       "publicationVerified": false,
       "batch": "portrait-batch-05",
       "publicVerifiedAt": "2026-10-09T19:34:02.404084+00:00"
+    },
+    {
+      "id": "p0185",
+      "name": "張苞",
+      "gender": "male",
+      "role": "張飛之長子、早夭",
+      "source": "a04-036",
+      "reviewNote": "《三國志·蜀書六》張飛傳：「追謚飛曰桓侯。長子苞，早夭。」其子遵為尚書，隨諸葛瞻戰死緜竹。張飛之子，武將之後身份明確，雖早夭無官職記載；按用戶規則戴頭盔、著甲胄。不套用張飛本人五官記載；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-06",
+      "publicVerifiedAt": "2026-10-09T20:01:54.444228+00:00"
+    },
+    {
+      "id": "p0186",
+      "name": "諸葛尚",
+      "gender": "male",
+      "role": "諸葛瞻之長子、緜竹戰死",
+      "source": "a04-035",
+      "reviewNote": "《三國志·蜀書五》諸葛亮傳注引《華陽國志》：「瞻長子尚，與瞻俱沒」，臨戰歎「父子荷國重恩……用生何為！」馳赴魏軍而死。緜竹隨父戰死之年輕武人，按用戶規則戴頭盔、著甲胄。不套用諸葛亮、諸葛瞻五官記載；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-06",
+      "publicVerifiedAt": "2026-10-09T20:01:54.444228+00:00"
+    },
+    {
+      "id": "p0187",
+      "name": "馬岱",
+      "gender": "male",
+      "role": "蜀漢平北將軍、陳倉侯",
+      "source": "a04-036",
+      "reviewNote": "《三國志·蜀書六》馬超傳：「岱位至平北將軍，進爵陳倉侯。」官拜平北將軍之武將，按用戶規則戴頭盔、著甲胄。未核得本人五官特徵，不套用馬超記載；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-06",
+      "publicVerifiedAt": "2026-10-09T20:01:54.444228+00:00"
+    },
+    {
+      "id": "p0189",
+      "name": "羅憲",
+      "gender": "male",
+      "role": "蜀巴東守將、領軍",
+      "source": "a04-041",
+      "reviewNote": "《三國志·蜀書十一》：後主拜為閻宇副貳、守永安城，成都陷後保城繕甲，拒吳軍步協、陸抗圍攻凡六月，大破之。巴東守將武將身份，按用戶規則戴頭盔、著甲胄。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-06",
+      "publicVerifiedAt": "2026-10-09T20:01:54.444228+00:00"
     }
   ]
 }

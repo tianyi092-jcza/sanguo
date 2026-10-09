@@ -4623,5 +4623,57 @@
     "file": "p0183.webp",
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Guan Ping (關平), male military officer of Shu Han, son of Guan Yu, late Eastern Han. Primary source: Records of the Three Kingdoms, Shu book vol. 6 (a04-036), Guan Yu biography: 「權遣將逆擊羽，斬羽及子平于臨沮」 — he followed his father through the campaigns and was killed alongside him at Linju in 219 CE. He is Guan Yu's son by birth; do not adopt the Romance of the Three Kingdoms novel's adopted-son story. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion — do not borrow another figure's recorded traits (do not copy Guan Yu's recorded appearance). Give him a young officer's earnest bearing, Han-dynasty military helmet and iron armor over a cross-collared robe, per his military service. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0185",
+    "name": "張苞",
+    "gender": "male",
+    "role": "張飛之長子、早夭",
+    "source": "a04-036",
+    "evidence": "「追謚飛曰桓侯。長子苞，早夭。次子紹嗣，官至侍中尚書僕射。苞子遵為尚書，隨諸葛瞻於緜竹，與鄧艾戰，死。」（《三國志·蜀書六》張飛傳）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0185.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Zhang Bao (張苞), eldest son of Zhang Fei of Shu Han, late Eastern Han. Primary source: Records of the Three Kingdoms, Shu book vol. 6 (a04-036), Zhang Fei biography: 「追謚飛曰桓侯。長子苞，早夭」 — Zhang Fei's eldest son Bao died young; his son Zun served as Imperial Secretary and died with Zhuge Zhan at Mianzhu fighting Deng Ai. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion — do not borrow another figure's recorded traits (do not copy Zhang Fei's recorded appearance). Give him a youthful son-of-a-great-general bearing, Han-dynasty military helmet and iron armor over a cross-collared robe, per his military-family identity. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0186",
+    "name": "諸葛尚",
+    "gender": "male",
+    "role": "諸葛瞻之長子、緜竹戰死",
+    "source": "a04-035",
+    "evidence": "「瞻長子尚，與瞻俱沒……尚歎曰：『父子荷國重恩，不早斬黃皓，以致傾敗，用生何為！』乃馳赴魏軍而死。」（《三國志·蜀書五》諸葛亮傳裴注引《華陽國志》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0186.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Zhuge Shang (諸葛尚), eldest son of Zhuge Zhan of Shu Han, grandson of Zhuge Liang, late Three Kingdoms. Primary source: Records of the Three Kingdoms, Shu book vol. 5 (a04-035), Zhuge Liang biography with Pei Songzhi's commentary citing the Chronicles of Huayang: 「瞻長子尚，與瞻俱沒」 — Shang died together with his father Zhan at Mianzhu; before the battle he sighed: 「父子荷國重恩，不早斬黃皓，以致傾敗，用生何為！」 then rode out against the Wei army and died. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion — do not borrow another figure's recorded traits (do not copy Zhuge Liang's or Zhuge Zhan's recorded appearance). Give him a young officer's earnest, resolute bearing, Han-dynasty military helmet and iron armor over a cross-collared robe, per his military service and death in battle. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0187",
+    "name": "馬岱",
+    "gender": "male",
+    "role": "蜀漢平北將軍、陳倉侯",
+    "source": "a04-036",
+    "evidence": "「岱位至平北將軍，進爵陳倉侯。」（《三國志·蜀書六》馬超傳）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0187.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Ma Dai (馬岱), Shu Han military general, kinsman of Ma Chao, late Eastern Han to Three Kingdoms. Primary source: Records of the Three Kingdoms, Shu book vol. 6 (a04-036), Ma Chao biography: 「岱位至平北將軍，進爵陳倉侯」 — he rose to General Who Pacifies the North (平北將軍) and was enfeoffed as Marquis of Chencang (陳倉侯). No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion — do not borrow another figure's recorded traits (do not copy Ma Chao's recorded appearance). Give him a seasoned frontier general's steady bearing, Han-dynasty military helmet and polished iron armor over a cross-collared robe, per his rank as a general. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0189",
+    "name": "羅憲",
+    "gender": "male",
+    "role": "蜀巴東守將、領軍",
+    "source": "a04-041",
+    "evidence": "「後主拜憲為宇副貳……魏之伐蜀，召宇西還，留宇二千人，令憲守永安城……被攻凡六月日而救援不到。」（《三國志·蜀書十一》）；「二月，鎮軍陸抗……率衆圍蜀巴東守將羅憲。」（《三國志·吳書三》三嗣主傳）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0189.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. The two supplied reference images establish STYLE ONLY: retro 1990s Chinese historical strategy-game pixel portrait; do not copy their characters or facial identities. Create ONE original square head-and-shoulders portrait of Luo Xian (羅憲), Shu Han defender-general of Badong, later Western Jin official, late Three Kingdoms. Primary sources: Records of the Three Kingdoms, Shu book vol. 11 (a04-041): the Later Ruler appointed him adjutant to Yan Yu and then his successor holding Yong'an (永安) — after Chengdu fell he kept order, refused to surrender to Wu, fortified the city, and for six months beat off Wu sieges led by Bu Xie and Lu Kang; Records of the Three Kingdoms, Wu book vol. 3 (a04-048): 「率衆圍蜀巴東守將羅憲」 — Wu armies besieged Shu's Badong defender Luo Xian. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion — do not borrow another figure's recorded traits. Give him a steadfast siege-commander's resolute bearing, Han-dynasty military helmet and iron armor over a cross-collared robe, per his rank as a general. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style details: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]
