@@ -58,8 +58,8 @@ function biographySourceId(p){
   return '';
 }
 function biographySourceLine(p){
-  const id=biographySourceId(p),t=id&&HISTORY.sources[id]&&HISTORY.sources[id].title;
-  return t?`<span style="flex-basis:100%">依據：${esc(t)}</span>`:'';
+  const id=biographySourceId(p);
+  return id?`<span style="flex-basis:100%">依據：${sourceLink(id)}</span>`:'';
 }
 function personSourceExcerptsHTML(h,p){
  let excerpts=h.sourceExcerpts;
@@ -108,9 +108,8 @@ function openPerson(p){
   const h=historyOf(p),all=[...h.segments,...(h.unplaced||[])];
   const portrait=PORTRAITS.people[p.id],appearance=portrait?.appearance||p.m;
   const sec=(title,body,empty)=>`<div class="sec"><h3>${title}</h3><div class="body">${body||`<span class="empty">${empty}</span>`}</div></div>`;
-  $('#modal').innerHTML=`<button id="mClose" aria-label="關閉">✕</button><div class="person-intro">${portraitHTML(p)}<div class="person-intro-text"><h2>${esc(p.n)}${p.z?`<span class="zi">字${esc(p.z)}</span>`:''}</h2><div class="meta"><span>${esc(lifeLabel(p))}</span><span>${esc(chronologyLabel(h))}</span><span style="flex-basis:100%">籍貫：${esc(p.p||'待考')}</span><span style="flex-basis:100%">原資料索引：${esc(p.s||'待考')}</span>${biographySourceLine(p)}</div></div></div>
+  $('#modal').innerHTML=`<button id="mClose" aria-label="關閉">✕</button><div class="person-intro">${portraitHTML(p)}<div class="person-intro-text"><h2>${esc(p.n)}${p.z?`<span class="zi">字${esc(p.z)}</span>`:''}</h2><div class="meta"><span>${esc(lifeLabel(p))}</span><span>${esc(chronologyLabel(h))}</span><span style="flex-basis:100%">籍貫：${esc(p.p||'待考')}</span>${biographySourceLine(p)}</div></div></div>
     <div class="person-modal-body" tabindex="0" aria-label="人物資料，可捲動">
-    ${portraitEvidenceHTML(p)}
     ${h.overview?sec('生平提要',esc(h.overview)):''}
     ${lifeVariantsHTML(h)}
     ${personFactsHTML(h)}
@@ -132,11 +131,6 @@ function portraitHTML(p){
  const gender=entry?.gender||PORTRAITS.gender[p.id]||'unknown';
  const file=entry?.file||PORTRAITS.fallback[gender]||PORTRAITS.fallback.unknown;
  return `<figure class="person-portrait"><img src="${esc(file)}" alt="${esc(p.n)}${entry?.file?'藝術示意像':'匿名輪廓'}" width="120" height="120" loading="lazy" decoding="async"><figcaption>${entry?.file?'藝術示意 · 非傳世肖像':entry?.status==='pending'?'畫像製作中 · 暫用輪廓':entry?.status==='insufficient'?'記載簡略 · 匿名輪廓':'資料待核 · 暫用輪廓'}</figcaption></figure>`;
-}
-function portraitEvidenceHTML(p){
- const entry=PORTRAITS.people[p.id];
- if(!entry?.file)return `<div class="portrait-basis">${entry?.status==='pending'?'個別畫像正在補繪，暫以輪廓佔位。':entry?.status==='insufficient'?'已核資料尚不足以形成個別形象，採用匿名輪廓。':'個別形象資料尚待核對，暫用輪廓；不表示史書沒有記載。'}</div>`;
- return `<details class="portrait-basis"><summary>畫像依據</summary><p>依據史料所見職業、性別及漢末至魏晉服飾語彙繪製。${entry.appearance?'外貌記載：'+esc(entry.appearance):'尚無已核對的個人外貌描述，面容屬藝術示意，不作史實。'}</p>${entry.source?sourceLink(entry.source):''}${entry.appearanceSource&&entry.appearanceSource!==entry.source?' · '+sourceLink(entry.appearanceSource):''}</details>`;
 }
 function openEventCluster(events){
   $('#modal').innerHTML=`<button id="mClose" aria-label="關閉">✕</button><h2>${Math.min(...events.map(e=>e.y))}—${Math.max(...events.map(e=>e.y))} 年記事</h2><div class="meta">共 ${events.length} 件 · 點選查看詳情</div>${events.map((ev,i)=>`<button class="event-list-item" data-event-index="${i}" style="display:block;text-align:left;width:100%;background:#faf5e6;border:1px solid #c8b586;color:#1c1a15;border-radius:5px;padding:13px;margin:8px 0;cursor:pointer"><span style="color:#7a5c2e;margin-right:12px">${ev.y}</span>${esc(ev.n)}</button>`).join('')}`;

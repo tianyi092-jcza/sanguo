@@ -147,39 +147,43 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 }
 
 /* ===== 弹窗古卷紙張主題 ===== */
-.person-intro-text h2 .zi{font-size:15px;color:#5d5a52;margin-left:10px;font-weight:400}
-#modal{background:#f3ead3;border:1px solid #c8b586;color:#1c1a15;color-scheme:light;scrollbar-color:#b3a176 #f3ead3}
+.person-intro-text h2 .zi{font-size:15px;color:#666666;margin-left:10px;font-weight:400}
+#modal{background:#f3ead3;border:1px solid #c8b586;color:#1c1a15;color-scheme:light;scrollbar-width:thin;scrollbar-color:#a5905f #ece1c6}
 #modal h2{color:#191713}
 #modal .sec h3{color:#4a3d24;border-left-color:#8a6d3b}
 #modal .sec .body{color:#1c1a15}
-#modal .meta{color:#4d4a42}
-#modal .empty{color:#8a8577}
-#modal .src{color:#6b6555}
+#modal .meta{color:#666666}
+#modal .empty{color:#666666}
+#modal .src{color:#666666}
 #modal a,#modal a:visited{color:#2f5d8a}
 #modal a:hover{color:#1f4066}
 #modal a:focus-visible{outline-color:#2f5d8a}
-#modal .source-audit-note{color:#6b6555}
-#modal #mClose{color:#4d4a42;border-color:#b3a176;background:#f3ead3}
+#modal .source-audit-note{color:#666666}
+#modal #mClose{color:#666666;border-color:#b3a176;background:#f3ead3}
 #modal #mClose:hover{color:#191713;border-color:#8a6d3b}
 #modal .btn{background:#efe6cc;color:#2c2620;border-color:#b3a176}
 #modal .btn:hover{background:#e6d9b8}
-#modal::-webkit-scrollbar-track{background:#e9dfc4}
-#modal::-webkit-scrollbar-thumb{background:#b3a176;border:2px solid #e9dfc4}
-#modal::-webkit-scrollbar-thumb:hover{background:#a08c5e}
-#modal::-webkit-scrollbar-corner{background:#e9dfc4}
+#modal::-webkit-scrollbar{width:10px;height:10px}
+#modal::-webkit-scrollbar-track{background:#ece1c6;border-radius:6px}
+#modal::-webkit-scrollbar-thumb{background:#a5905f;border:2px solid #ece1c6;border-radius:6px}
+#modal::-webkit-scrollbar-thumb:hover{background:#8a7648}
+#modal::-webkit-scrollbar-corner{background:#ece1c6}
 .source-work h4{color:#4a3d24}
 .source-excerpt{background:#faf5e6;border-left-color:#8a6d3b}
-.source-citation,.source-excerpt small{color:#6b6555}
+.source-citation,.source-excerpt small{color:#666666}
 .source-excerpt blockquote{color:#1c1a15}
 .source-expand{color:#7a5c2e}
-.person-modal-body::-webkit-scrollbar-track{background:#e9dfc4}
-.person-modal-body::-webkit-scrollbar-thumb{background:#b3a176;border:2px solid #e9dfc4}
+.person-modal-body{scrollbar-width:thin;scrollbar-color:#a5905f #ece1c6}
+.person-modal-body::-webkit-scrollbar{width:10px;height:10px}
+.person-modal-body::-webkit-scrollbar-track{background:#ece1c6;border-radius:6px}
+.person-modal-body::-webkit-scrollbar-thumb{background:#a5905f;border:2px solid #ece1c6;border-radius:6px}
+.person-modal-body::-webkit-scrollbar-thumb:hover{background:#8a7648}
 .evidence-card{background:#faf5e6;border-left-color:#8a6d3b}
 .evidence-card h3{color:#2c2620}
 .evidence-card blockquote{color:#1c1a15}
-.evidence-card small{color:#6b6555}
+.evidence-card small{color:#666666}
 .evidence-card a,.history-source-link{color:#2f5d8a}
-.evidence-badge{border-color:#8a8577;color:#5d5a52}
+.evidence-badge{border-color:#666666;color:#666666}
 .biography-sequence button{background:#efe6cc;color:#2c2620;border-color:#b3a176}
 .person-affiliation-overview{color:#2c2620}
 .person-facts{background:#faf5e6;border-color:#c8b586}
@@ -187,18 +191,18 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 .person-facts details{border-top-color:#d9cba4}
 .person-facts summary b{color:#6b4f22}
 .person-facts summary span{color:#2c2620}
-.person-facts summary i{color:#8a8577}
+.person-facts summary i{color:#666666}
 .person-facts blockquote{color:#1c1a15}
 .person-facts a{color:#2f5d8a}
 .chen-appraisal{background:#faf5e6;border-left-color:#8a6d3b}
 .chen-appraisal blockquote{color:#1c1a15}
-#modal .chen-appraisal .src,.chen-appraisal small{color:#6b6555}
+#modal .chen-appraisal .src,.chen-appraisal small{color:#666666}
 .chen-appraisal summary,.chen-appraisal a,.chen-appraisal a:visited{color:#7a5c2e}
 .affiliation-evidence details{border-top-color:#d9cba4}
 .affiliation-evidence summary{color:#2c2620}
-.affiliation-evidence summary span{color:#6b6555}
+.affiliation-evidence summary span{color:#666666}
 .affiliation-evidence blockquote{color:#1c1a15}
-.affiliation-evidence p{color:#4d4a42}
-.person-portrait figcaption{color:#6b6555}
-.portrait-basis{color:#5d5a52}
+.affiliation-evidence p{color:#666666}
+.person-portrait figcaption{color:#666666}
+.portrait-basis{color:#666666}
 .portrait-basis summary,.portrait-basis a{color:#7a5c2e}
