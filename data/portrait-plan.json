@@ -4831,5 +4831,57 @@
     "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 段煨; gender male; role male military commander, 中郎將, Later Han, later 安南將軍 and Marquis of 閿鄉. Verified historical excerpt: 中郎將段煨屯華陰；典略曰：「煨在華陰，特修農事」；三年…以段煨為安南將軍，封閺鄉侯；後徵段煨為大鴻臚，病卒 (《後漢書·董卓傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Duan Wei: older general, lean weathered face, long thin grey-streaked beard, composed solemn expression looking slightly to the viewer's left. Simple dark iron helmet without ornament, worn dark lamellar armour over a muted brown cross-collared under-robe.",
     "file": "p0283.webp",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0284",
+    "name": "郝萌",
+    "gender": "male",
+    "role": "呂布部將，河內人",
+    "source": "a04-007",
+    "evidence": "「建安元年六月夜半時，布將河內郝萌反，將兵入布所治下邳府……順斫萌首。」（《三國志·魏書·呂布傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0284.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 郝萌; gender male; role male military commander, general under 呂布 (呂布將), Later Han. Verified historical excerpt: 建安元年六月夜半時，布將河內郝萌反，將兵入布所治下邳府……順即嚴兵入府，弓弩並射萌衆；萌衆亂走，天明還故營。萌將曹性反萌，與對戰，萌刺傷性，性斫萌一臂。順斫萌首 (《三國志·魏書·呂布傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Hao Meng: middle-aged general, sharp angular face, short dark beard trimmed at the chin, tense suspicious expression looking to the viewer's right. Dark iron helmet with a modest front ridge, dark iron armour over a muted grey cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0285",
+    "name": "曹性",
+    "gender": "male",
+    "role": "郝萌部將，後領萌眾",
+    "source": "a04-007",
+    "evidence": "「萌將曹性反萌，與對戰，萌刺傷性，性斫萌一臂……布謂性曰：「卿健兒也！」……創愈，使安撫萌故營，領其衆。」（《三國志·魏書·呂布傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0285.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 曹性; gender male; role male military officer, subordinate officer of 郝萌 under 呂布, praised by 呂布 as 「卿健兒也」, Later Han. Verified historical excerpt: 萌將曹性反萌，與對戰，萌刺傷性，性斫萌一臂。順斫萌首，牀輿性，送詣布……布謂性曰：「卿健兒也！」善養視之。創愈，使安撫萌故營，領其衆 (《三國志·魏書·呂布傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Cao Xing: young sturdy warrior, round earnest face, short full dark beard, resolute expression looking slightly to the viewer's left. Plain dark iron helmet without ornament, dark lamellar iron armour over a dark cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0286",
+    "name": "宋憲",
+    "gender": "male",
+    "role": "呂布部將，後降曹操",
+    "source": "a04-007",
+    "evidence": "「太祖塹圍之三月，上下離心，其將侯成、宋憲、魏續縛陳宮，將其衆降。」（《三國志·魏書·呂布傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0286.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 宋憲; gender male; role male military commander, general under 呂布 who later surrendered to 曹操, Later Han. Verified historical excerpt: 太祖塹圍之三月，上下離心，其將侯成、宋憲、魏續縛陳宮，將其衆降 (《三國志·魏書·呂布傳》，建安三年). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Song Xian: middle-aged general, long solemn face, sparse dark moustache and short chin beard, weary resigned expression looking straight at the viewer. Dark iron helmet with a simple low ridge crest, dark iron armour plates over a grey cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0287",
+    "name": "魏續",
+    "gender": "male",
+    "role": "呂布部將，與布有外內之親，後降曹操",
+    "source": "a04-007",
+    "evidence": "「其將侯成、宋憲、魏續縛陳宮，將其衆降……以魏續有外內之親，悉奪順所將兵以與續。」（《三國志·魏書·呂布傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0287.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 魏續; gender male; role male military commander, general under 呂布 and his relative by marriage (有外內之親), Later Han. Verified historical excerpt: 其將侯成、宋憲、魏續縛陳宮，將其衆降……以魏續有外內之親，悉奪順所將兵以與續 (《三國志·魏書·呂布傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Wei Xu: middle-aged commander, broad round face, full dark beard greying slightly at the chin, uneasy sidelong glance to the viewer's left. Bronze-toned helmet with a small round brow plate, dark iron armour over a muted brown cross-collared under-robe.",
+    "generator": "built-in imagegen"
   }
 ]
