@@ -225,3 +225,8 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 /* 相邻裴注标签成组不换行 */
 .pei-group{white-space:nowrap}
 .pei-group .pei-tag+.pei-tag{margin-left:4px}
+
+/* 裴注弹窗关闭按钮 */
+.pei-tip{padding-right:34px}
+.pei-tip-close{position:absolute;top:6px;right:8px;border:0;background:transparent;color:#8a6d3b;font-size:14px;line-height:1;padding:4px;cursor:pointer}
+.pei-tip-close:hover{color:#4a3a20}

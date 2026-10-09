@@ -59,14 +59,26 @@ function peiTagHTML(label,tipHTML){
 function peiNotesHTML(list){
   return `<span class="pei-group">${list.map(pei=>peiTagHTML(esc(pei.citation),esc(pei.quote))).join('')}</span>`;
 }
-let peiTipEl=null;
+let peiTipEl=null,peiDocBound=false;
 function showPeiTip(anchor){
   hidePeiTip();
   const src=anchor.querySelector('.pei-tiptext');
   if(!src||!src.textContent)return;
   peiTipEl=document.createElement('div');
   peiTipEl.className='pei-tip';
-  peiTipEl.innerHTML=src.innerHTML;
+  peiTipEl._tag=anchor;
+  const closeBtn=document.createElement('button');
+  closeBtn.type='button';
+  closeBtn.className='pei-tip-close';
+  closeBtn.setAttribute('aria-label','關閉');
+  closeBtn.textContent='✕';
+  closeBtn.addEventListener('click',e=>{e.stopPropagation();hidePeiTip();});
+  peiTipEl.appendChild(closeBtn);
+  const body=document.createElement('div');
+  body.className='pei-tip-body';
+  body.innerHTML=src.innerHTML;
+  peiTipEl.appendChild(body);
+  peiTipEl.addEventListener('click',e=>e.stopPropagation());
   document.body.appendChild(peiTipEl);
   const r=anchor.getBoundingClientRect(),pad=8;
   let top=r.bottom+pad,left=r.left;
@@ -77,16 +89,30 @@ function showPeiTip(anchor){
   peiTipEl.style.left=left+'px';
 }
 function hidePeiTip(){if(peiTipEl){peiTipEl.remove();peiTipEl=null;}}
+function togglePeiTip(tag){
+  if(peiTipEl&&peiTipEl._tag===tag)hidePeiTip();
+  else showPeiTip(tag);
+}
 function activatePeiTags(){
   $('#modal').querySelectorAll('.pei-tag').forEach(tag=>{
-    tag.addEventListener('mouseenter',()=>showPeiTip(tag));
-    tag.addEventListener('mouseleave',hidePeiTip);
-    tag.addEventListener('focus',()=>showPeiTip(tag));
-    tag.addEventListener('blur',hidePeiTip);
-    tag.addEventListener('click',e=>{e.stopPropagation();peiTipEl?hidePeiTip():showPeiTip(tag);});
+    if(tag.dataset.peiBound)return;
+    tag.dataset.peiBound='1';
+    tag.addEventListener('click',e=>{e.stopPropagation();togglePeiTip(tag);});
+    tag.addEventListener('keydown',e=>{
+      if(e.key==='Enter'||e.key===' '){e.preventDefault();e.stopPropagation();togglePeiTip(tag);}
+    });
   });
-  const body=$('#modal').querySelector('.person-modal-body');
-  if(body)body.addEventListener('scroll',hidePeiTip,{passive:true});
+  const modal=$('#modal');
+  const body=modal.querySelector('.person-modal-body');
+  if(body&&!body.dataset.peiScrollBound){
+    body.dataset.peiScrollBound='1';
+    body.addEventListener('scroll',hidePeiTip,{passive:true});
+  }
+  if(!peiDocBound){
+    peiDocBound=true;
+    document.addEventListener('click',hidePeiTip);
+    document.addEventListener('keydown',e=>{if(e.key==='Escape')hidePeiTip();});
+  }
 }
 function cjkToNum(s){
   const d={'一':1,'二':2,'三':3,'四':4,'五':5,'六':6,'七':7,'八':8,'九':9};
