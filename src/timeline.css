@@ -213,3 +213,11 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 
 /* ===== 弹窗阅读字体与维基文库一致（系统黑体栈） ===== */
 #modal,#modal h2,#modal .sec h3,#modal .sec .body,#modal blockquote,#modal .source-excerpt blockquote,#modal .pei-note blockquote,#modal .person-facts blockquote,#modal .evidence-card blockquote,#modal .affiliation-evidence blockquote,#modal .chen-appraisal blockquote,#modal .meta,#modal .src,.pei-tip{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans SC","Noto Sans TC",system-ui,sans-serif}
+
+/* ===== 本傳全文（維基文庫底本） ===== */
+.biography-text{line-height:2;font-size:14.5px;color:#1c1a15;max-height:26em;overflow:hidden;text-align:justify}
+.biography-text p{margin:0 0 1em}
+.source-excerpt.expanded .biography-text{max-height:none}
+.biography-full .src{margin:6px 0 10px}
+.biography-full .pei-tag{margin:2px 6px 2px 2px}
+#modal .biography-text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans SC","Noto Sans TC",system-ui,sans-serif}

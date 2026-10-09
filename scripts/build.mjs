@@ -43,7 +43,9 @@ for(const p of portraitPlan){
   if(p.anonymous){portraits.fallback[p.gender==='unspecified'?'unknown':p.gender]=file;continue;}
   portraits.people[p.id]={file,gender:p.gender,appearance:p.appearance,source:p.source,appearanceSource:p.appearanceSource,status:p.status};
 }
-const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
+const wsBioPath='data/wikisource.json';
+const wsBio=fs.existsSync(wsBioPath)?JSON.parse(read(wsBioPath)):{};
+const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst WS_BIOGRAPHIES=${JSON.stringify(wsBio)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
 js=head+'const ERA_CALENDAR='+read('data/calendar-eras.json').trim()+';\n'+traditional(js);
 new vm.Script(js);
 let css=html.match(/<style>([\s\S]*?)<\/style>/)[1]+'\n'+read('src/timeline.css')+'\n'+read('src/google-satellite.css');

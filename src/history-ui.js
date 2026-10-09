@@ -63,7 +63,7 @@ function showPeiTip(anchor){
   if(!src||!src.textContent)return;
   peiTipEl=document.createElement('div');
   peiTipEl.className='pei-tip';
-  peiTipEl.textContent=src.textContent;
+  peiTipEl.innerHTML=src.innerHTML;
   document.body.appendChild(peiTipEl);
   const r=anchor.getBoundingClientRect(),pad=8;
   let top=r.bottom+pad,left=r.left;
@@ -112,40 +112,77 @@ function biographySourceLine(p){
   const id=biographySourceId(p);
   return id?`<span style="flex-basis:100%">依據：${sourceLink(id)}</span>`:'';
 }
-function personSourceExcerptsHTML(h,p){
- let excerpts=h.sourceExcerpts;
- if(!excerpts){
-  excerpts=[];
-  if(h.reading){
-   const source=h.reading.source,work=source?.startsWith('a04-')?'sanguozhi':source?.startsWith('a03-')?'houhanshu':source?.startsWith('a05-')?'jinshu':null;
-   if(work)excerpts.push({work,quote:h.reading.quote,citation:HISTORY.sources[source]?.title||source,provisional:work==='sanguozhi'});
-  }
-  excerpts.push(...(h.verifiedPeiExcerpts||[]));
- }
- let number=0;
- const mains=excerpts.filter(x=>x.work!=='peizhu');
- const {attached,orphans}=attachPeiNotes(mains,excerpts.filter(x=>x.work==='peizhu'));
- let body=sourceExcerptOrder.map(([work,title])=>{
-  const items=mains.filter(x=>x.work===work);
-  if(!items.length)return '';
+function citationGroups(items){
   const groups=[];
   for(const item of items){
-   const g=groups.find(g=>g.citation===item.citation);
-   if(g){g.items.push(item);if(item.provisional)g.provisional=true;}
-   else groups.push({citation:item.citation,items:[item],provisional:!!item.provisional});
+    const g=groups.find(g=>g.citation===item.citation);
+    if(g){g.items.push(item);if(item.provisional)g.provisional=true;}
+    else groups.push({citation:item.citation,items:[item],provisional:!!item.provisional});
   }
-  return `<section class="source-work"><h4>${++number} · ${title}</h4>${groups.map((g,gi)=>{
-   const quoteId=`source-quote-${p.id}-${work}-${gi}`;
-   return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${esc(item.quote)}</blockquote>${attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
-  }).join('')}</section>`;
- }).join('');
- if(orphans.length)body+=`<section class="source-work"><h4>${++number} · 裴松之注</h4><article class="source-excerpt"><div class="source-citation">所注正文未收錄</div>${peiNotesHTML(orphans)}</article></section>`;
- return body;
+  return groups;
+}
+function excerptCardsHTML(groups,p,work,attached){
+  return groups.map((g,gi)=>{
+    const quoteId=`source-quote-${p.id}-${work}-${gi}`;
+    return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${esc(item.quote)}</blockquote>${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
+  }).join('');
+}
+// 舊版渲染：無維基文库本传全文的人物沿用
+function legacyExcerptsHTML(excerpts,p){
+  let number=0;
+  const mains=excerpts.filter(x=>x.work!=='peizhu');
+  const {attached,orphans}=attachPeiNotes(mains,excerpts.filter(x=>x.work==='peizhu'));
+  let body=sourceExcerptOrder.map(([work,title])=>{
+    const items=mains.filter(x=>x.work===work);
+    if(!items.length)return '';
+    return `<section class="source-work"><h4>${++number} · ${title}</h4>${excerptCardsHTML(citationGroups(items),p,work,attached)}</section>`;
+  }).join('');
+  if(orphans.length)body+=`<section class="source-work"><h4>${++number} · 裴松之注</h4><article class="source-excerpt"><div class="source-citation">所注正文未收錄</div>${peiNotesHTML(orphans)}</article></section>`;
+  return body;
+}
+function biographyFullHTML(wsBio,p){
+  return `<article class="source-excerpt biography-full"><div class="source-citation">${esc(p.s||'本傳')} · 全文</div><div class="src">底本：維基文庫<a href="${wsBio.url}" target="_blank" rel="noopener noreferrer">《三國志》${esc(wsBio.pageLabel)}</a>（原文照錄；注文以「裴注」標籤呈現，懸停查看）</div><div class="biography-text">${wsBio.paragraphs.map(para=>`<p>${para.segs.map(s=>s.t==='pei'?`<span class="pei-tag" tabindex="0">裴注<span class="pei-tiptext" hidden>${s.h}</span></span>`:s.h).join('')}</p>`).join('')}</div><button type="button" class="source-expand" aria-expanded="false">展開全文</button></article>`;
+}
+// 新三段式：一三國志（含裴注）/二晉書/三資治通鑑
+function newExcerptsHTML(excerpts,p,wsBio){
+  const mains=excerpts.filter(x=>x.work!=='peizhu');
+  const bioSrc=biographySourceId(p).replace(/-(ahcb|full)$/,'');
+  const normSrc=s=>String(s||'').replace(/-(ahcb|full)$/,'');
+  const isBio=s=>!!bioSrc&&normSrc(s)===bioSrc;
+  const otherMains=mains.filter(m=>!(m.work==='sanguozhi'&&isBio(m.source)));
+  const {attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu'&&!isBio(x.source)));
+  let html=`<section class="source-work"><h4>一 · 三國志（含裴注）</h4>`;
+  html+=biographyFullHTML(wsBio,p);
+  const taGroups=citationGroups(otherMains.filter(m=>m.work==='sanguozhi'));
+  if(taGroups.length)html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`+excerptCardsHTML(taGroups,p,'sanguozhi',attached);
+  html+=`</section>`;
+  const jinGroups=citationGroups(otherMains.filter(m=>m.work==='jinshu'));
+  html+=`<section class="source-work"><h4>二 · 晉書</h4>${jinGroups.length?excerptCardsHTML(jinGroups,p,'jinshu',attached):'<span class="empty">未收錄與本人相關的記載。</span>'}</section>`;
+  html+=`<section class="source-work"><h4>三 · 資治通鑑</h4><span class="empty">語料接入中，敬請期待。</span></section>`;
+  if(orphans.length)html+=`<section class="source-work"><h4>附 · 裴注</h4><article class="source-excerpt"><div class="source-citation">所注正文未收錄</div>${peiNotesHTML(orphans)}</article></section>`;
+  return html;
+}
+function personSourceExcerptsHTML(h,p){
+  let excerpts=h.sourceExcerpts;
+  if(!excerpts){
+    excerpts=[];
+    if(h.reading){
+      const source=h.reading.source,work=source?.startsWith('a04-')?'sanguozhi':source?.startsWith('a03-')?'houhanshu':source?.startsWith('a05-')?'jinshu':null;
+      if(work)excerpts.push({work,quote:h.reading.quote,citation:HISTORY.sources[source]?.title||source,provisional:work==='sanguozhi'});
+    }
+    excerpts.push(...(h.verifiedPeiExcerpts||[]));
+  }
+  const wsBio=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
+  if(wsBio)return newExcerptsHTML(excerpts,p,wsBio);
+  return legacyExcerptsHTML(excerpts,p);
 }
 function activateSourceExcerpts(){
- $('#modal').querySelectorAll('.source-excerpt').forEach(card=>{
-  const quotes=[...card.querySelectorAll('blockquote')],button=card.querySelector('.source-expand');
-  button.hidden=!quotes.some(q=>q.scrollHeight>q.clientHeight+1);
+  $('#modal').querySelectorAll('.source-excerpt').forEach(card=>{
+    const targets=[...card.querySelectorAll('blockquote')];
+    const bio=card.querySelector('.biography-text');
+    if(bio)targets.push(bio);
+    const button=card.querySelector('.source-expand');
+    button.hidden=!targets.some(q=>q.scrollHeight>q.clientHeight+1);
   button.onclick=()=>{
    const expanded=card.classList.toggle('expanded');
    button.textContent=expanded?'收起':'展開全文';
@@ -160,7 +197,7 @@ function openTenure(p,index){
   activateModal(p.n+'統屬記載');$('#viewFullPerson').onclick=()=>openPerson(p);
 }
 function openPerson(p){
-  const h=historyOf(p),all=[...h.segments,...(h.unplaced||[])];
+  const h=historyOf(p);
   const portrait=PORTRAITS.people[p.id],appearance=portrait?.appearance||p.m;
   const sec=(title,body,empty)=>`<div class="sec"><h3>${title}</h3><div class="body">${body||`<span class="empty">${empty}</span>`}</div></div>`;
   $('#modal').innerHTML=`<button id="mClose" aria-label="關閉">✕</button><div class="person-intro">${portraitHTML(p)}<div class="person-intro-text"><h2>${esc(p.n)}${p.z?`<span class="zi">字${esc(p.z)}</span>`:''}</h2><div class="meta"><span>${esc(lifeLabel(p))}</span><span>${esc(chronologyLabel(h))}</span><span style="flex-basis:100%">籍貫：${esc(p.p||'待考')}</span>${biographySourceLine(p)}</div></div></div>
@@ -170,17 +207,13 @@ function openPerson(p){
     ${personFactsHTML(h)}
     ${sec('一 · 實際統屬',affiliationEvidenceHTML(h))}
     ${hanOfficesHTML(h)}
-    ${sec('二 · 歷年統屬',all.length?`<div class="biography-sequence">${all.map((s,i)=>`<button type="button" data-tenure="${i}">${esc(s.label||factionInfo(s.faction).label)} ${s.start!=null?(s.openStart?'起年未詳':s.start)+(s.point?'年記載':'—'+(s.openEnd?'迄年未詳':s.end)):'年代未詳'}</button>`).join('')}</div>`:'','統屬履歷尚待整理；已有史料見下方摘錄。未因缺少起年而否定其歸屬，也不以原表總標籤反推整段人生。')}
-    ${sec('三 · 史料摘錄',personSourceExcerptsHTML(h,p),'相關原文尚待核對，本頁不補寫傳記。')}
-    ${sec('四 · 相貌與服飾記載',appearance?esc(appearance)+(portrait?.appearanceSource?'<div class="src">'+sourceLink(portrait.appearanceSource)+'</div>':''):'','未收錄已核對的記載；不據演義補寫。')}
-    ${sec('五 · 陳壽評曰',chenAppraisalsHTML(h))}
+    ${sec('二 · 史料摘錄',personSourceExcerptsHTML(h,p),'相關原文尚待核對，本頁不補寫傳記。')}
+    ${sec('三 · 相貌與服飾記載',appearance?esc(appearance)+(portrait?.appearanceSource?'<div class="src">'+sourceLink(portrait.appearanceSource)+'</div>':''):'','未收錄已核對的記載；不據演義補寫。')}
+    ${sec('四 · 陳壽評曰',chenAppraisalsHTML(h))}
     <p class="source-audit-note">「歸屬不詳」表示證據不足；「無勢力」只用於有記載支持的未仕、退居或獨立活動。生卒、繫年存在推定或異說時，依條目說明閱讀。原始資料已另存備份。</p></div>`;
   activateModal(p.n+'人物資料');
   activateSourceExcerpts();
   activatePeiTags();
-  $('#modal').querySelectorAll('[data-tenure]').forEach(b=>b.onclick=()=>{
-    const s=all[+b.dataset.tenure];$('#modal').innerHTML=`<button id="mClose" aria-label="關閉">✕</button><h2>${esc(p.n)}</h2>${evidenceHTML(s)}<button class="btn" id="backToPerson">返回人物</button>`;activateModal(p.n+'史料依據');$('#backToPerson').onclick=()=>openPerson(p);
-  });
 }
 function portraitHTML(p){
  const entry=PORTRAITS.people[p.id];
