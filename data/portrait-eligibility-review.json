@@ -726,8 +726,8 @@
    "name": "壺壽"
   }
  ],
- "reviewedCount": 44,
- "remainingUnreviewedCount": 137,
+ "reviewedCount": 48,
+ "remainingUnreviewedCount": 133,
  "portraitEligibilityReviewComplete": false,
  "entries": [
   {
@@ -1289,6 +1289,50 @@
    "decision": "eligible",
    "portraitStatus": "generated",
    "batch": "portrait-batch-10"
+  },
+  {
+   "id": "p0288",
+   "name": "侯成",
+   "gender": "male",
+   "role": "呂布騎將，後降曹操",
+   "source": "a04-007",
+   "reviewNote": "《三國志·魏書·呂布傳》裴注引《九州春秋》：「初，布騎將侯成遣客牧馬十五匹，客悉驅馬去……成自將騎逐之，悉得馬還。」又載其釀酒觸怒呂布、建安三年領衆降曹操。武將身份，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+   "decision": "eligible",
+   "portraitStatus": "generated",
+   "batch": "portrait-batch-11"
+  },
+  {
+   "id": "p0291",
+   "name": "辛評",
+   "gender": "male",
+   "role": "袁紹謀士、辛毗之兄",
+   "source": "a03-074",
+   "reviewNote": "《三國志·魏書·袁紹傳》裴注引《英雄記》：「辛評、郭圖皆比於譚。評，辛毗兄也。」袁紹謀士身份明確。文官，著文士服飾，不戴盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+   "decision": "eligible",
+   "portraitStatus": "generated",
+   "batch": "portrait-batch-11"
+  },
+  {
+   "id": "p0292",
+   "name": "高幹",
+   "gender": "male",
+   "role": "袁紹甥、并州牧，後舉兵叛曹操",
+   "source": "a04-001",
+   "reviewNote": "《三國志·魏書·武帝紀》：「初，袁紹以甥高幹領并州牧，公之拔鄴，幹降，遂以為刺史。幹聞公討烏丸，乃以州叛，執上黨太守，舉兵守壺關口。」以州牧領兵作戰，依武將身份戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+   "decision": "eligible",
+   "portraitStatus": "generated",
+   "batch": "portrait-batch-11"
+  },
+  {
+   "id": "p0295",
+   "name": "淳于瓊",
+   "gender": "male",
+   "role": "西園八校尉佐軍校尉、袁紹大將",
+   "source": "a03-069",
+   "reviewNote": "《後漢書》載西園八校尉置，淳于瓊為佐軍校尉；《三國志·魏書·武帝紀》：「紹遣郭圖、淳于瓊、顏良攻東郡太守劉延於白馬。」袁紹大將身份明確，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+   "decision": "eligible",
+   "portraitStatus": "generated",
+   "batch": "portrait-batch-11"
   }
  ]
 }
