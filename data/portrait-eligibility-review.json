@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 36,
-  "remainingUnreviewedCount": 145,
+  "reviewedCount": 40,
+  "remainingUnreviewedCount": 141,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1193,6 +1193,58 @@
       "publicationVerified": false,
       "batch": "portrait-batch-08",
       "publicVerifiedAt": "2026-10-09T21:00:46.879830+00:00"
+    },
+    {
+      "id": "p0280",
+      "name": "李儒",
+      "gender": "male",
+      "role": "董卓謀士、郎中令",
+      "source": "a03-010b-full",
+      "reviewNote": "《後漢書》孝獻帝紀：「明年，山東義兵大起，討董卓之亂。卓乃置弘農王於閣上，使郎中令李儒進酖。」以郎中令（文官謀士）為定義身份，著文士服飾，不戴盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-09",
+      "publicVerifiedAt": "2026-10-09T21:30:15.387Z"
+    },
+    {
+      "id": "p0281",
+      "name": "牛輔",
+      "gender": "male",
+      "role": "董卓女婿、中郎將",
+      "source": "a04-006",
+      "reviewNote": "《三國志·魏書六》董卓傳：「初，卓女壻中郎將牛輔典兵別屯陝」；裴注引《魏書》：「輔恇怯失守，不能自安」；「其後輔營兵有夜叛出者，輔以為皆叛，乃取金寶，獨與素所厚友胡赤兒等五六人相隨，踰城北渡河，赤兒等利其金寶，斬首送長安。」以中郎將（武將）為定義身份，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-09",
+      "publicVerifiedAt": "2026-10-09T21:30:15.387Z"
+    },
+    {
+      "id": "p0282",
+      "name": "董旻",
+      "gender": "male",
+      "role": "董卓之弟、左將軍、鄠侯",
+      "source": "a03-072",
+      "reviewNote": "《後漢書·卷七十二》董卓傳：「以弟旻為左將軍，封鄠侯，兄子璜為侍中、中軍校尉，皆典兵事。」以左將軍（武將）為定義身份，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-09",
+      "publicVerifiedAt": "2026-10-09T21:30:15.387Z"
+    },
+    {
+      "id": "p0283",
+      "name": "段煨",
+      "gender": "male",
+      "role": "中郎將、安南將軍",
+      "source": "a03-072",
+      "reviewNote": "《後漢書·卷七十二》董卓傳：「中郎將段煨屯華陰」；典略曰：「煨在華陰，特修農事。」；「以段煨為安南將軍，封閺鄉侯。」；「後徵段煨為大鴻臚，病卒。」以中郎將（武將）為定義身份，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-09",
+      "publicVerifiedAt": "2026-10-09T21:30:15.387Z"
     }
   ]
 }
