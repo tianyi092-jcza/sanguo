@@ -4467,5 +4467,57 @@
     "file": "p0084.webp",
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Emperor Xian of Han (漢獻帝, Liu Xie), male last emperor of Eastern Han, depicted as an adult sovereign. Primary source: Book of the Later Han, Annals of Emperor Xiaoxian (a03-009): 「中平六年四月，少帝即位，封帝為勃海王，徙封陳留王。九月甲戌，即皇帝位，年九歲」; reigned 189 to 220. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him late-Eastern-Han imperial ceremonial attire: dark upper robe with cross collar, modest flat-topped ceremonial crown; avoid Ming/Qing dragon-robe styles. Composed solemn expression; visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, helmet, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0090",
+    "name": "高順",
+    "gender": "male",
+    "role": "呂布部將、陷陣營統帥",
+    "source": "a04-007",
+    "evidence": "順為人清白有威嚴，不飲酒，不受饋遺。所將七百餘兵，號為千人，鎧甲鬬具皆精練齊整，每所攻擊無不破者，名為陷陣營。（《三國志·魏書七》呂布傳引英雄記）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0090.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Gao Shun (高順), male military general under Lü Bu, late Eastern Han. Primary source: Records of the Three Kingdoms, Wei book vol. 7 (a04-007), Heroes' Records (英雄記): 「順為人清白有威嚴，不飲酒，不受饋遺。所將七百餘兵，號為千人，鎧甲鬬具皆精練齊整，每所攻擊無不破者，名為陷陣營」 — he commanded the crack 'Charge-breaking Camp' (陷陣營). No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a stern, disciplined commander's bearing, a Han-dynasty military helmet, polished iron armor over a cross-collared robe. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0103",
+    "name": "黃祖",
+    "gender": "male",
+    "role": "劉表部將、江夏太守",
+    "source": "a04-046",
+    "evidence": "初平三年，術使堅征荊州，擊劉表。表遣黃祖逆於樊、鄧之間。堅擊破之，追渡漢水，遂圍襄陽，單馬行峴山，為祖軍士所射殺。（《三國志·吳書一》孫破虜討逆傳；祖為劉表江夏太守，建安十三年為孫權所破斬）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0103.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Huang Zu (黃祖), male military general under Liu Biao, Grand Administrator of Jiangxia, late Eastern Han. Primary source: Records of the Three Kingdoms, Wu book vol. 1 (a04-046): 「初平三年，術使堅征荊州，擊劉表。表遣黃祖逆於樊、鄧之間」 — he led the army that killed Sun Jian at Mount Xian (峴山) and was later defeated and killed by Sun Quan's forces in 208. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him the stern bearing of a veteran regional general, a Han-dynasty military helmet, worn iron armor over a cross-collared robe. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, fantasy armor, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0104",
+    "name": "韓馥",
+    "gender": "male",
+    "role": "漢冀州牧",
+    "source": "a04-001",
+    "evidence": "後將軍袁術、兾州牧韓馥、英雄記曰：馥字文節，潁川人。為御史中丞。董卓舉為兾州牧。（《三國志·魏書一》武帝紀；馥後讓冀州於袁紹）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0104.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Han Fu (韓馥), male senior civil official of late Eastern Han. Primary source: Records of the Three Kingdoms, Wei book vol. 1 (a04-001): 「後將軍袁術、兾州牧韓馥、英雄記曰：馥字文節，潁川人。為御史中丞。董卓舉為兾州牧」 — he rose from Palace Attendant-censor to Governor of Ji Province (冀州牧) and later yielded the province to Yuan Shao. He was a civil official, not a field general: no armor, no helmet. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him the dignified bearing of an elderly statesman, modest dark Han-dynasty official cloth headwrap, restrained brown cross-collared scholar-official robe. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing hat, armor, helmet, huge crown, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0108",
+    "name": "袁熙",
+    "gender": "male",
+    "role": "袁紹中子、幽州刺史",
+    "source": "a04-001",
+    "evidence": "袁紹傳，熙，紹之中子也。（《後漢書·孔融傳》注引）袁熙大將焦觸、張南等叛攻熙、尚，熙、尚奔三郡烏丸。（《三國志·魏書一》武帝紀；熙曾為幽州刺史，建安十二年為公孫康所殺，見《後漢書·孝獻帝紀》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0108.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of Yuan Xi (袁熙), male aristocrat-official, middle son of the warlord Yuan Shao, late Eastern Han. Primary source: Book of the Later Han, Kong Rong biography (a03-070): 「袁紹傳，熙，紹之中子也」 — he served as Inspector of You Province (幽州刺史); Records of the Three Kingdoms, Wei book vol. 1 (a04-001): 「袁熙大將焦觸、張南等叛攻熙、尚，熙、尚奔三郡烏丸」, and he was killed by Gongsun Kang in 207. He was a regional governor and noble, not a battlefield general: no armor, no helmet. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Depict him as a young nobleman in his thirties, simple dark cloth cap, plain dark cross-collared official robe, restrained bearing. Visibly different face from other project portraits. Tight head and upper shoulders, centered. Style: retro 1990s Chinese historical strategy-game pixel portrait like the project's two style references; coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre/earth palette, near-black olive background. No Ming/Qing elements, armor, helmet, theatrical makeup, weapon, text, label, watermark, frame, icon, or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]

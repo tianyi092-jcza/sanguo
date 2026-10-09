@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 12,
-  "remainingUnreviewedCount": 169,
+  "reviewedCount": 16,
+  "remainingUnreviewedCount": 165,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -881,6 +881,58 @@
       "portraitStatus": "generated",
       "publicationVerified": false,
       "batch": "portrait-batch-02"
+    },
+    {
+      "id": "p0090",
+      "name": "高順",
+      "gender": "male",
+      "role": "呂布部將、陷陣營統帥",
+      "source": "a04-007",
+      "reviewNote": "《三國志·魏書七》呂布傳引英雄記：「順為人清白有威嚴，不飲酒，不受饋遺。所將七百餘兵，號為千人，鎧甲鬬具皆精練齊整，每所攻擊無不破者，名為陷陣營」；只用高順本人記載，不挪用陳宮或呂布材料。武將按用戶規則戴頭盔、著甲胄。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-03",
+      "publicVerifiedAt": "2026-10-09T18:34:50.098234+00:00"
+    },
+    {
+      "id": "p0103",
+      "name": "黃祖",
+      "gender": "male",
+      "role": "劉表部將、江夏太守",
+      "source": "a04-046",
+      "reviewNote": "《三國志·吳書一》孫破虜討逆傳：劉表部將、江夏太守；初平三年迎戰孫堅於樊鄧之間，祖部兵射殺堅於峴山；建安十三年為孫權所破斬。只用黃祖本人記載，不挪用劉表或孫堅材料。武將按用戶規則戴頭盔、著甲胄。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-03",
+      "publicVerifiedAt": "2026-10-09T18:34:50.098234+00:00"
+    },
+    {
+      "id": "p0104",
+      "name": "韓馥",
+      "gender": "male",
+      "role": "漢冀州牧",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書一》武帝紀引英雄記：「馥字文節，潁川人。為御史中丞。董卓舉為兾州牧」；後讓冀州於袁紹。文官出身之州牧，非戰將，不著甲胄作文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-03",
+      "publicVerifiedAt": "2026-10-09T18:34:50.098234+00:00"
+    },
+    {
+      "id": "p0108",
+      "name": "袁熙",
+      "gender": "male",
+      "role": "袁紹中子、幽州刺史",
+      "source": "a04-001",
+      "reviewNote": "《後漢書·孔融傳》注引袁紹傳：「熙，紹之中子也」；曾為幽州刺史；《三國志·魏書一》武帝紀載焦觸、張南叛後奔三郡烏丸，《後漢書·孝獻帝紀》載建安十二年為公孫康所殺。只用袁熙本人記載，不挪用袁紹或袁尚材料。貴胄州刺史作文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "publicationVerified": false,
+      "batch": "portrait-batch-03",
+      "publicVerifiedAt": "2026-10-09T18:34:50.098234+00:00"
     }
   ]
 }
