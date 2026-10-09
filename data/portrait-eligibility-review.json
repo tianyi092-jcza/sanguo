@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 52,
-  "remainingUnreviewedCount": 129,
+  "reviewedCount": 56,
+  "remainingUnreviewedCount": 125,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1377,6 +1377,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-12"
+    },
+    {
+      "batch": "portrait-batch-13",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0300",
+      "name": "楊弘",
+      "portraitStatus": "generated",
+      "reviewNote": "《江表傳》（見《三國志·吳書·孫策傳》裴注）：「後術死，長史楊弘、大將張勳等將其衆欲就策」。袁術長史身份明確，文官，著文士服飾、不戴盔甲。注意 a04-028 嘉平年間毌丘儉將軍楊弘為同名異人，已排除，不套用。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "袁術長史",
+      "source": "a04-046"
+    },
+    {
+      "batch": "portrait-batch-13",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0301",
+      "name": "蒯良",
+      "portraitStatus": "generated",
+      "reviewNote": "司馬彪《戰略》（見《三國志·魏書·劉表傳》）：「表初到，單馬入宜城，而延中廬人蒯良、蒯越、襄陽人蔡瑁與謀……良曰：「衆不附者，仁不足也，附而不治者，義不足也；苟仁義之道行，百姓歸之如水之趣下，何患所至之不從而問興兵與策乎？」」中廬人，劉表謀士身份明確，著文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "劉表謀士（中廬人）",
+      "source": "a04-006"
+    },
+    {
+      "batch": "portrait-batch-13",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0302",
+      "name": "蒯越",
+      "portraitStatus": "generated",
+      "reviewNote": "字異度，中廬人（蒯良之弟）。司馬彪《戰略》：「表顧問越，越曰：「治平者先仁義，治亂者先權謀。兵不在多，在得人也。」」；荊州平後「越為光祿勳；傅子曰：越，蒯通之後也，深中足智，魁傑有雄姿」；太祖與荀彧書曰「不喜得荊州，喜得蒯異度耳」。謀士/文官身份明確，著文士服飾（傳中「表大將蒯越」一語係泛言其佐表用兵，非武將本職）。「魁傑有雄姿」為體格概稱，非五官明載。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "劉表謀士；後拜光祿勳",
+      "source": "a04-006"
+    },
+    {
+      "batch": "portrait-batch-13",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0303",
+      "name": "蔡瑁",
+      "portraitStatus": "generated",
+      "reviewNote": "襄陽人。《三國志·魏書·劉表傳》：「初，表及妻愛少子琮，欲以為後，而蔡瑁、張允為之支黨，乃出長子琦為江夏太守」；《典論》載瑁、允遏琦於戶外；《世語》（見《蜀書·先主傳》裴注）：「曾請備宴會，蒯越、蔡瑁欲因會取備」。劉表麾下擁兵將領身份明確，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "劉表麾下將領",
+      "source": "a04-006"
     }
   ]
 }
