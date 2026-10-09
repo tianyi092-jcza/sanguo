@@ -91,5 +91,23 @@ export function applySecondReviews(data,people,docMap,normalize,audit){
   h.sourceExcerpts=excerpts.filter(x=>x.display);
   h.secondReview={status:row.status,reviewedOn:row.reviewedOn,coverage:row.coverage,conclusions:row.conclusions,evidence:Object.fromEntries(excerpts.map(x=>[x.id,x])),unresolved:row.unresolved||[]};
  }
+ // 无本传人物他传/裴注/晋书提及（data/mentions.json，由 scripts/collect-mentions.mjs 生成）：
+ // 仅对未参与二次复核者设置 sourceExcerpts，不覆盖已复核结论
+ const mentionsPath='data/mentions.json';
+ if(fs.existsSync(mentionsPath)){
+  const mentions=JSON.parse(fs.readFileSync(mentionsPath,'utf8'));
+  assert.equal(mentions.schemaVersion,1);
+  for(const m of mentions.people||[]){
+   if(seen.has(m.id))continue;
+   const h=people[m.id];
+   if(!h)continue;
+   const ids=new Set();
+   h.sourceExcerpts=(m.excerpts||[]).filter(x=>{
+    assert(x.id&&!ids.has(x.id),`Duplicate mention: ${x.id}`);ids.add(x.id);
+    assert(x.work&&x.source&&x.citation&&x.quote,`Incomplete mention: ${x.id}`);
+    return x.display!==false;
+   });
+  }
+ }
  audit.secondReview={complete,pilot,unreviewed:data.per.length-seen.size,total:data.per.length};
 }

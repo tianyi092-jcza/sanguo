@@ -8,6 +8,19 @@ import { fetchChapter, listHeaders, extractSection, parseWikitext, buildEntry} f
 
 // 文库章节标题为繁体，人名库为简体：匹配标题前转繁体（简繁同形人名不受影响）
 const toTrad = OpenCC.Converter({ from: 'cn', to: 'tw' });
+// 异体字归一（人名简转繁后与文库标题用字不一致，如 勳/勛、既/旣、群/羣）
+// 取自 sanguo-retrieval-poc/retrieve.py _VARIANT_PAIRS，另补文库实测到的 勳/勛、既/旣
+const VARIANT_PAIRS = [
+  ['為','爲'],['眾','衆'],['於','于'],['歷','曆'],['案','桉'],
+  ['算','筭'],['強','彊'],['賓','賙'],['勖','勗'],['修','脩'],
+  ['衛','衞'],['群','羣'],['饑','飢'],['劍','劔'],['掃','埽'],
+  ['藉','籍'],['答','荅'],['跡','迹'],['諡','謚'],['克','剋'],
+  ['皋','臯'],['協','叶'],['博','愽'],['床','牀'],
+  ['勳','勛'],['既','旣'],
+];
+const VARIANT_MAP = {};
+for (const [a,b] of VARIANT_PAIRS) { VARIANT_MAP[a]=a; VARIANT_MAP[b]=a; }
+const normVariant = s => [...s].map(c => VARIANT_MAP[c] || c).join('');
 
 const DB = 'data/wikisource.json';
 const SKIP = 'data/wikisource-skip.json';
@@ -103,9 +116,11 @@ if (db[pid]) continue;
 try {
 if (headers.length) {
 const nt = toTrad(n);
-const h = headers.find(h => h.title === nt || h.title.includes(nt));
+const ntN = normVariant(nt);
+const h = headers.find(h => h.title === nt || h.title.includes(nt) || normVariant(h.title) === ntN || normVariant(h.title).includes(ntN));
 if (!h) throw new Error('无匹配章节（事见非传）');
-const paragraphs = parseWikitext(extractSection(wt, nt));
+const secTitle = h.title; // 用文库实际标题切分
+const paragraphs = parseWikitext(extractSection(wt, secTitle));
 if (!paragraphs.length) throw new Error('解析出 0 段');
 if (hasLeakage(paragraphs)) throw new Error('解析泄漏 wikitext 标记，需修解析器');
 const firstNorm = normText(paragraphs[0].segs.filter(s => s.t === 'text').map(s => s.h).join(''));

@@ -157,18 +157,6 @@ function excerptCardsHTML(groups,p,work,attached){
   }).join('');
 }
 // 舊版渲染：無維基文库本传全文的人物沿用
-function legacyExcerptsHTML(excerpts,p){
-  let number=0;
-  const mains=excerpts.filter(x=>x.work!=='peizhu');
-  const {attached,orphans}=attachPeiNotes(mains,excerpts.filter(x=>x.work==='peizhu'));
-  let body=sourceExcerptOrder.map(([work,title])=>{
-    const items=mains.filter(x=>x.work===work);
-    if(!items.length)return '';
-    return `<section class="source-work"><h4>${++number} · ${title}</h4>${excerptCardsHTML(citationGroups(items),p,work,attached)}</section>`;
-  }).join('');
-  if(orphans.length)body+=`<section class="source-work"><h4>${++number} · 裴松之注</h4><article class="source-excerpt"><div class="source-citation">所注正文未收錄</div>${peiNotesHTML(orphans)}</article></section>`;
-  return body;
-}
 function biographyFullHTML(wsBio,p){
   const body=wsBio.paragraphs.map((para,pi)=>{
     let html='',i=0;
@@ -185,25 +173,39 @@ function biographyFullHTML(wsBio,p){
   }).join('');
   return `<article class="source-excerpt biography-full"><div class="source-citation">${esc(p.s||'本傳')} · 全文</div><div class="src">底本：維基文庫<a href="${wsBio.url}" target="_blank" rel="noopener noreferrer">《三國志》${esc(wsBio.pageLabel)}</a>（原文照錄；注文以「裴注」標籤呈現，懸停查看）</div><div class="biography-text">${body}</div><button type="button" class="source-expand" aria-expanded="false">展開全文</button></article>`;
 }
-// 新三段式：一三國志（含裴注）/二晉書/三資治通鑑
+// 新三段式：一三國志（含裴注）/二晉書/三資治通鑑；wsBio 为 null 时表示无三国志本传，本传区留空
 function newExcerptsHTML(excerpts,p,wsBio){
   const mains=excerpts.filter(x=>x.work!=='peizhu');
-  const bioSrc=biographySourceId(p).replace(/-(ahcb|full)$/,'');
-  const normSrc=s=>String(s||'').replace(/-(ahcb|full)$/,'');
-  // 本传判定：同源文件 +（多传合卷时）段落落在本人传记范围内；全文已收录则不再重复展示
-  const range=wsBio.bioParagraphs;
-  const inBioRange=m=>{
-    if(!bioSrc||normSrc(m.source)!==bioSrc)return false;
-    if(!range||m.paragraph==null)return true;
-    return m.paragraph>=range[0]&&m.paragraph<=range[1];
-  };
-  const otherMains=mains.filter(m=>!(m.work==='sanguozhi'&&inBioRange(m)));
-  const {attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu'&&!inBioRange(x)));
+  let otherMains, attached, orphans;
+  if(wsBio){
+    const bioSrc=biographySourceId(p).replace(/-(ahcb|full)$/,'');
+    const normSrc=s=>String(s||'').replace(/-(ahcb|full)$/,'');
+    // 本传判定：同源文件 +（多传合卷时）段落落在本人传记范围内；全文已收录则不再重复展示
+    const range=wsBio.bioParagraphs;
+    const inBioRange=m=>{
+      if(!bioSrc||normSrc(m.source)!==bioSrc)return false;
+      if(!range||m.paragraph==null)return true;
+      return m.paragraph>=range[0]&&m.paragraph<=range[1];
+    };
+    otherMains=mains.filter(m=>!(m.work==='sanguozhi'&&inBioRange(m)));
+    ({attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu'&&!inBioRange(x))));
+  }else{
+    // 无本传：全部视为他传/裴注，不做本传去重
+    otherMains=mains;
+    ({attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu')));
+  }
   let html=`<section class="source-work"><h4>一 · 三國志（含裴注）</h4>`;
-  // 本传全文按需加载：先占位，openPerson 后 fetch 填充
-  html+=`<div data-ws-bio="${p.id}"><span class="empty">本傳全文載入中…</span></div>`;
+  if(wsBio){
+    // 本传全文按需加载：先占位，openPerson 后 fetch 填充
+    html+=`<div data-ws-bio="${p.id}"><span class="empty">本傳全文載入中…</span></div>`;
+  }else{
+    html+=`<div class="src" style="margin:4px 0 8px">（無三國志本傳）</div>`;
+  }
   const taGroups=citationGroups(otherMains.filter(m=>m.work==='sanguozhi'));
-  if(taGroups.length)html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`+excerptCardsHTML(taGroups,p,'sanguozhi',attached);
+  if(taGroups.length){
+    if(wsBio)html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`;
+    html+=excerptCardsHTML(taGroups,p,'sanguozhi',attached);
+  }
   html+=`</section>`;
   const jinGroups=citationGroups(otherMains.filter(m=>m.work==='jinshu'));
   html+=`<section class="source-work"><h4>二 · 晉書</h4>${jinGroups.length?excerptCardsHTML(jinGroups,p,'jinshu',attached):'<span class="empty">未收錄與本人相關的記載。</span>'}</section>`;
@@ -222,8 +224,7 @@ function personSourceExcerptsHTML(h,p){
     excerpts.push(...(h.verifiedPeiExcerpts||[]));
   }
   const wsBio=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
-  if(wsBio)return newExcerptsHTML(excerpts,p,wsBio);
-  return legacyExcerptsHTML(excerpts,p);
+  return newExcerptsHTML(excerpts,p,wsBio);
 }
 // 本传全文懒加载：单文件离线版读内嵌数据，dist 版按需 fetch
 let wsBioDataCache=null;
