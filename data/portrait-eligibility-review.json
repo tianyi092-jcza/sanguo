@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 120,
-  "remainingUnreviewedCount": 61,
+  "reviewedCount": 124,
+  "remainingUnreviewedCount": 57,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2129,6 +2129,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-29"
+    },
+    {
+      "id": "p0405",
+      "name": "吳班",
+      "gender": "male",
+      "role": "蜀漢將領；221年與馮習自巫攻破吳軍、軍次秭歸，222年與陳式水軍屯夷陵",
+      "source": "a04-032",
+      "reviewNote": "《三國志》a04-032 先主傳「將軍吳班、馮習自巫攻破異等，軍次秭歸」、「將軍吳班、陳式水軍屯夷陵，夾江東西岸」。領兵將領，記載充分。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵（父吳匡之職未複製）。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-30"
+    },
+    {
+      "id": "p0406",
+      "name": "趙廣",
+      "gender": "male",
+      "role": "蜀漢牙門將；趙雲次子，隨姜維沓中臨陣戰死",
+      "source": "a04-036",
+      "reviewNote": "《三國志》a04-036 趙雲傳附「次子廣，牙門將，隨姜維沓中，臨陣戰死」。身份職事明確，記載足夠。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父趙雲特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-30"
+    },
+    {
+      "id": "p0407",
+      "name": "張遵",
+      "gender": "male",
+      "role": "蜀漢尚書；張苞之子，263年隨諸葛瞻於緜竹與鄧艾戰死",
+      "source": "a04-036",
+      "reviewNote": "《三國志》a04-036 張飛傳附「苞子遵為尚書，隨諸葛瞻於緜竹，與鄧艾戰，死」。身份明確，記載足夠。eligible；官至尚書為文職，按程畿先例（文官戰死仍著文士服飾）著文士服飾、不著甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父張苞、祖父張飛特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-30"
+    },
+    {
+      "id": "p0408",
+      "name": "黃崇",
+      "gender": "male",
+      "role": "蜀漢尚書郎；黃權留蜀之子，隨諸葛瞻拒鄧艾、緜竹臨陣見殺",
+      "source": "a04-043",
+      "reviewNote": "《三國志》a04-043 黃權傳附「權留蜀子崇，為尚書郎，隨衞將軍諸葛瞻拒鄧艾……崇帥厲軍士，期於必死，臨陣見殺」。身份明確，記載足夠。eligible；官至尚書郎為文職，按程畿先例著文士服飾、不著甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父黃權特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-30"
     }
   ]
 }
