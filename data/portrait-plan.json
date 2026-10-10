@@ -5939,5 +5939,57 @@
     "generator": "built-in imagegen",
     "file": "p0397.webp",
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 董厥 (Dong Jue), Shu senior official who rose from Registrar of Chancellor Zhuge Liang's office to Prefect of the Masters of Writing. Primary source: Records of the Three Kingdoms, Shu book (a04-035): 「董厥者，丞相亮時為府令史……代陳祗為尚書令」; 「董厥字龔襲」; reviewed note: 蜀尚書令，文官. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Dress him in a simple dark cross-collared scholar's robe with a period-appropriate official's cloth cap, no armour, no helmet, no weapon, dignified prudent senior official expression, older adult male with a short grey-streaked beard, visibly different face from the style reference individuals and from the other officials of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0398",
+    "name": "樊建",
+    "gender": "male",
+    "role": "蜀侍中、守尚書令；延熙十四年以校尉使吳",
+    "source": "a04-035",
+    "evidence": "「建字長元……延熈十四年，以校尉使吳」(《三國志·蜀書·諸葛亮傳》注 a04-035)；諸葛恪曰「才識不及預，而雅性過之」；「後為侍中，守中書令」",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0398.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 樊建 (Fan Jian), Shu Han civil official: Palace Attendant and acting Prefect of the Secretariat; sent as Colonel on a mission to Sun Wu in 251 AD. Primary source: Records of the Three Kingdoms, Shu book, commentary to the Biography of Zhuge Liang (a04-035): 「建字長元……延熈十四年，以校尉使吳」; Zhuge Ke's appraisal 「才識不及預，而雅性過之」; reviewed note: 蜀侍中、守尚書令，文官，記載充分. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Dress him in a simple dark cross-collared scholar's robe with a period-appropriate official's cloth cap, no armour, no helmet, no weapon, refined composed courtier expression befitting a man praised for elegant character, middle-aged adult male with a neat thin dark beard, visibly different face from the style reference individuals and from the other officials of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0401",
+    "name": "程畿",
+    "gender": "male",
+    "role": "蜀江陽太守、先主從事祭酒；夷陵之戰身執戟戰死",
+    "source": "a04-045",
+    "evidence": "「畿曰：『吾在軍，未曾為敵走，況從天子而見危哉！』」「畿身執戟戰……乃死」(《三國志·蜀書》a04-045)；贊「江陽剛烈，立節明君」",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0401.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 程畿 (Cheng Ji), styled Ji Ran, Shu Han civil official: Administrator of Jiangyang Commandery and later Attendant Officer under Liu Bei; died fighting at the Battle of Yiling in 222 AD, halberd in hand, refusing to flee. Primary source: Records of the Three Kingdoms, Shu book (a04-045): 「畿曰：『吾在軍，未曾為敵走，況從天子而見危哉！』」and 「畿身執戟戰，敵船有覆者。衆大至，共擊之，乃死」; eulogy 「江陽剛烈，立節明君，兵合遇寇，不屈其身」; reviewed note: 蜀江陽太守、先主從事祭酒，文官身份，夷陵戰死，記載充分. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Dress him in a simple dark cross-collared scholar-official's robe with a period-appropriate official's cloth cap, no armour, no helmet, no weapon, resolute unyielding loyalist expression, middle-aged adult male with a short firm dark beard, visibly different face from the style reference individuals and from the other officials of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0402",
+    "name": "楊顒",
+    "gender": "male",
+    "role": "蜀巴郡太守、丞相亮主簿；後東曹屬典選舉",
+    "source": "a04-045",
+    "evidence": "「入蜀，為巴郡太守，丞相諸葛亮主簿」「顒直入諫曰：『為治有體，上下不可相侵』」「顒死，亮垂泣三日」(《三國志·蜀書》a04-045)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0402.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 楊顒 (Yang Yong), Shu Han civil official: Administrator of Ba Commandery, Registrar to Chancellor Zhuge Liang, later Officer of the Eastern Bureau in charge of selection; famed for forthrightly remonstrating with Zhuge Liang over personally auditing account books, at whose death Liang wept for three days. Primary source: Records of the Three Kingdoms, Shu book (a04-045): 「顒直入諫曰：『為治有體，上下不可相侵』」; 「顒死，亮垂泣三日」; reviewed note: 蜀巴郡太守、丞相主簿，文官，記載充分. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Dress him in a simple dark cross-collared scholar's robe with a period-appropriate official's cloth cap, no armour, no helmet, no weapon, frank upright remonstrator expression, adult male with a neat dark moustache and short beard, visibly different face from the style reference individuals and from the other officials of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0404",
+    "name": "陳式",
+    "gender": "male",
+    "role": "蜀將領；222年與吳班水軍屯夷陵，229年攻克武都、陰平",
+    "source": "a04-032",
+    "evidence": "「將軍吳班、陳式水軍屯夷陵，夾江東西岸」(《三國志·蜀書·先主傳》a04-032)；「亮遣陳式攻武都、陰平，遂克定二郡」(a04-033)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0404.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 陳式 (Chen Shi), Shu Han general: in 222 AD stationed naval forces at Yiling with Wu Ban, and in 229 AD sent by Zhuge Liang to attack Wudu and Yinping, capturing both commanderies. Primary source: Records of the Three Kingdoms, Shu book: 「將軍吳班、陳式水軍屯夷陵，夾江東西岸」(a04-032); 「亮遣陳式攻武都、陰平，遂克定二郡」(a04-033); reviewed note: 蜀漢領兵將領，武將，記載充分. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, steady seasoned field-commander expression, adult male with a short firm dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]

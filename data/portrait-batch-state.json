@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-28",
+  "batch": "portrait-batch-29",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 409,
+  "generatedCount": 413,
   "ids": [
-    "p0393",
-    "p0394",
-    "p0396",
-    "p0397"
+    "p0398",
+    "p0401",
+    "p0402",
+    "p0404"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-28：糜芳(p0393)、傅士仁(p0394)、陳祗(p0396)、董厥(p0397)逐人適用性複核通過（《三國志》a04-045 贊 / a04-047 吳主傳 / a04-054 呂蒙傳 / a04-039 董劉馬陳董呂傳 / a04-035 諸葛亮傳注，引文已抽查核驗），糜芳、傅士仁為領兵武將（南郡太守督兵襲蘄春；明載「為將軍」），戴頭盔、穿盔甲；陳祗、董厥為文官（侍中、尚書令），文士服飾；未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩65人待複核。",
+  "note": "portrait-batch-29：樊建(p0398)、程畿(p0401)、楊顒(p0402)、陳式(p0404)逐人適用性複核通過（《三國志》a04-035 諸葛亮傳注 / a04-045 / a04-032 先主傳 / a04-033 後主傳，引文已抽查核驗），樊建、楊顒為文官（侍中、尚書令；巴郡太守、丞相主簿），著文士服飾；程畿職事皆文職（江陽太守、從事祭酒），按身份著文士服飾（夷陵身執戟戰死）；陳式為領兵武將（夷陵水軍屯駐、攻克武都陰平），戴頭盔、穿盔甲；未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩61人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 405,
+  "previousCompletedEntriesUnchanged": 409,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 65,
+  "unlistedPortraitPeople": 61,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }
