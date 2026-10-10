@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 60,
-  "remainingUnreviewedCount": 121,
+  "reviewedCount": 64,
+  "remainingUnreviewedCount": 117,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1465,6 +1465,50 @@
       "reviewNote": "《三國志·蜀書·法正傳》裴注引《華陽國志》載鄭度為廣漢人、州從事，向劉璋獻堅壁清野之計（璋不用）。謀士文官身份明確，eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
       "role": "劉璋麾下謀士（州從事）",
       "source": "a04-037"
+    },
+    {
+      "batch": "portrait-batch-15",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0308",
+      "name": "閻圃",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·魏書·張魯傳》載魯功曹巴西閻圃諫阻張魯稱漢寧王，魯從之。謀士文官身份明確，eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "張魯麾下文官（功曹）",
+      "source": "a04-008"
+    },
+    {
+      "batch": "portrait-batch-15",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0309",
+      "name": "關靖",
+      "portraitStatus": "generated",
+      "reviewNote": "《英雄記》（見《三國志·魏書·公孫瓚傳》裴注）載關靖字士起、太原人，本酷吏，為瓚所信幸；《漢晉春秋》載瓚敗後靖策馬赴紹軍而死。長史文官身份明確，eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "公孫瓚麾下文官（長史）",
+      "source": "a04-008"
+    },
+    {
+      "batch": "portrait-batch-15",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0310",
+      "name": "田楷",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·蜀書·先主傳》載公孫瓚遣劉備助青州刺史田楷以拒袁紹。青州刺史領兵拒敵，武將身份明確，eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "青州刺史；公孫瓚麾下將領",
+      "source": "a04-032"
+    },
+    {
+      "batch": "portrait-batch-15",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0311",
+      "name": "笮融",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·吳書·劉繇傳》載笮融丹楊人，初聚衆數百依陶謙，後將男女萬口、馬三千匹自走廣陵。聚眾領兵，武將身份明確，eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "丹楊聚眾首領；後自領部眾",
+      "source": "a04-049"
     }
   ]
 }
