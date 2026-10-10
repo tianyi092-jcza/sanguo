@@ -96,7 +96,13 @@ main{flex:1;position:relative;overflow:hidden}
 #tlLegend .li{display:flex;align-items:center;gap:7px;margin:3px 0;color:var(--ink2)}
 /* ===== 郡县表 ===== */
 #tblWrap{flex:1;overflow:auto;padding:12px 16px}
-#tblQ{width:280px;padding:7px 12px;border-radius:8px;border:1px solid var(--line);background:#0e1218;color:var(--ink);outline:none;margin-bottom:10px}
+#v-tbl{background:var(--paper);color:var(--paper-ink);--ink:var(--paper-ink);--ink2:var(--paper-muted);font-size:12px}
+#tblQ{width:280px;padding:7px 12px;border-radius:8px;border:1px solid #c5c9bf;background:#fffdf8;color:var(--paper-ink);outline:none;margin-bottom:10px;font-size:12px}
+#tbl{border-collapse:collapse;width:100%;font-size:12px}
+#tbl th,#tbl td{border:1px solid var(--paper-line);padding:7px 10px;text-align:left}
+#tbl thead th{background:var(--paper-deep);font-weight:600;white-space:nowrap}
+#tbl tbody tr:nth-child(even){background:#efece2}
+#tbl tbody tr:hover{background:#e7e3d5}
 table{width:100%;border-collapse:collapse;font-size:13px}
 th{position:sticky;top:0;background:#232b37;color:#d8cfb8;padding:8px 10px;text-align:left;font-weight:600;z-index:2}
 td{padding:6px 10px;border-bottom:1px solid #232b37;color:var(--ink2)}
