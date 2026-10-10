@@ -371,8 +371,9 @@ function openTenure(p,index){
 function openPerson(p){
   const h=historyOf(p);
   const portrait=PORTRAITS.people[p.id],appearance=portrait?.appearance||p.m;
+  const modernPlace=(p.p&&PLACE_MODERN[p.p.replace(/（[^）]*）/g,'')])||'今：不詳';
   const sec=(title,body,empty)=>`<div class="sec"><h3>${title}</h3><div class="body">${body||`<span class="empty">${empty}</span>`}</div></div>`;
-  $('#modal').innerHTML=`<button id="mClose" aria-label="關閉">✕</button><div class="person-intro">${portraitHTML(p)}<div class="person-intro-text"><h2>${esc(p.n)}${p.z?`<span class="zi">字${esc(p.z)}</span>`:''}</h2><div class="meta"><span>${esc(lifeLabel(p))}</span><span>${esc(chronologyLabel(h))}</span><span style="flex-basis:100%">籍貫：${esc(p.p||'待考')}</span>${biographySourceLine(p)}</div></div></div>
+  $('#modal').innerHTML=`<button id="mClose" aria-label="關閉">✕</button><div class="person-intro">${portraitHTML(p)}<div class="person-intro-text"><h2>${esc(p.n)}${p.z?`<span class="zi">字${esc(p.z)}</span>`:''}</h2><div class="meta"><span>${esc(lifeLabel(p))}</span><span>${esc(chronologyLabel(h))}</span><span style="flex-basis:100%">籍貫：${esc(p.p||'待考')}</span><span style="flex-basis:100%">${esc(modernPlace)}</span>${biographySourceLine(p)}</div></div></div>
     <div class="person-modal-body" tabindex="0" aria-label="人物資料，可捲動">
     ${h.overview?sec('生平提要',esc(h.overview)):''}
     ${lifeVariantsHTML(h)}

@@ -91,7 +91,9 @@ for(const [vol,v] of Object.entries(tjSegs)){
   if(segs.length)fs.writeFileSync(`dist/tongjian/${vol}.json`,JSON.stringify({vol,page:v.page,url:v.url,segments:segs}));
 }
 if(Object.keys(tjLinks).length)fs.writeFileSync('dist/tongjian-links.json',JSON.stringify(tjLinks));
-const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst WS_BIOGRAPHIES=${JSON.stringify(wsManifest)};\nconst TJ_INDEX=${JSON.stringify(tjIndex)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
+const placeModernPath='data/place-modern.json';
+const placeModern=fs.existsSync(placeModernPath)?JSON.parse(read(placeModernPath)):{};
+const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst PLACE_MODERN=${traditional(JSON.stringify(placeModern))};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst WS_BIOGRAPHIES=${JSON.stringify(wsManifest)};\nconst TJ_INDEX=${JSON.stringify(tjIndex)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
 js=head+'const ERA_CALENDAR='+read('data/calendar-eras.json').trim()+';\n'+traditional(js);
 new vm.Script(js);
 let css=html.match(/<style>([\s\S]*?)<\/style>/)[1]+'\n'+read('src/timeline.css')+'\n'+read('src/google-satellite.css');
