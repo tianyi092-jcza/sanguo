@@ -6583,5 +6583,57 @@
     "file": "p0461.webp",
     "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 雷公 (Lei Gong). Sex male. Documentary role: late Eastern Han Black Mountain rebel chieftain; Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「雷公、浮雲、飛燕、白雀……並起山谷閒，不可勝數。其大聲者稱雷公」; the Dianlue note (a04-008) records his own epithet as 「謂聲大者為張雷公」. His thunderous voice is his own recorded epithet, not borrowed from any other figure. No verified individual facial description beyond this; all facial details are artistic interpretation, not a historical assertion. A broad heavy-jawed face with a massive square chin, thick powerful neck, wide firm mouth, heavy brow ridge and deep-set glaring eyes — the look of a man famous for his booming voice. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0462",
+    "name": "浮雲",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain rebel chieftain",
+    "source": "a03-071",
+    "evidence": "Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「雷公、浮雲、飛燕、白雀、楊鳳、于毒、五鹿、李大目、白繞、畦固、苦唒之徒……並起山谷閒，不可勝數」; also in the Dianlue note quoting Jiuzhou Chunqiu (a04-008): 「……雷公、浮雲、飛燕、白爵、楊鳳、于毒等各起兵」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0462.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 浮雲 (Fu Yun). Sex male. Documentary role: late Eastern Han Black Mountain rebel chieftain; Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「雷公、浮雲、飛燕、白雀、楊鳳、于毒、五鹿、李大目、白繞、畦固、苦唒之徒……並起山谷閒，不可勝數」; also in the Dianlue note quoting Jiuzhou Chunqiu (a04-008): 「……雷公、浮雲、飛燕、白爵、楊鳳、于毒等各起兵」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A long narrow face with high sharp cheekbones, a deeply furrowed brow, stern close-set eyes, a thin downturned mouth and a short grey-flecked goatee. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0463",
+    "name": "白雀",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain rebel chieftain",
+    "source": "a03-071",
+    "evidence": "Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「……浮雲、飛燕、白雀、楊鳳……並起山谷閒，不可勝數」 (the Dianlue note quoting Jiuzhou Chunqiu (a04-008) writes his name 白雀 as 白爵)",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0463.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 白雀 (Bai Que). Sex male. Documentary role: late Eastern Han Black Mountain rebel chieftain; Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「……浮雲、飛燕、白雀、楊鳳……並起山谷閒，不可勝數」 (the Dianlue note quoting Jiuzhou Chunqiu (a04-008) writes his name 白雀 as 白爵). No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A broad square jaw with a cleft chin, thick straight eyebrows, wide-set stern eyes, weathered tanned skin with an old thin scar across the left cheek, and a short dark beard. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0464",
+    "name": "五鹿",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain rebel chieftain",
+    "source": "a03-071",
+    "evidence": "Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「……楊鳳、于毒、五鹿、李大目、白繞……並起山谷閒，不可勝數」; also in the Dianlue note quoting Jiuzhou Chunqiu (a04-008): 「……牛角、五鹿、羝根、苦蝤……等各起兵」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0464.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 五鹿 (Wu Lu). Sex male. Documentary role: late Eastern Han Black Mountain rebel chieftain; Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「……楊鳳、于毒、五鹿、李大目、白繞……並起山谷閒，不可勝數」; also in the Dianlue note quoting Jiuzhou Chunqiu (a04-008): 「……牛角、五鹿、羝根、苦蝤……等各起兵」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A round full face with heavy jowls and a soft double chin, a small upturned nose, weary half-lidded eyes under sagging eyelids, clean-shaven with only a faint stubble shadow on the upper lip. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0465",
+    "name": "苦唒",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain rebel chieftain",
+    "source": "a03-071",
+    "evidence": "Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「……白繞、畦固、苦唒之徒……並起山谷閒，不可勝數」 (the Jiuzhou Chunqiu text writes his name 苦唒 as 苦蝤); also in the Dianlue note quoting Jiuzhou Chunqiu (a04-008): 「……羝根、苦蝤、劉石……等各起兵」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0465.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 苦唒 (Ku You). Sex male. Documentary role: late Eastern Han Black Mountain rebel chieftain; Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「……白繞、畦固、苦唒之徒……並起山谷閒，不可勝數」 (the Jiuzhou Chunqiu text writes his name 苦唒 as 苦蝤); also in the Dianlue note quoting Jiuzhou Chunqiu (a04-008): 「……羝根、苦蝤、劉石……等各起兵」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A triangular face tapering to a sharp pointed chin, sunken temples, thick bushy eyebrows meeting at the bridge, gaunt hollow cheeks, piercing narrow eyes, and a long drooping black mustache. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]

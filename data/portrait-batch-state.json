@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-42",
+  "batch": "portrait-batch-43",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 465,
+  "generatedCount": 469,
   "ids": [
-    "p0458",
-    "p0459",
-    "p0460",
-    "p0461"
+    "p0462",
+    "p0463",
+    "p0464",
+    "p0465"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-42：大計(p0458)、司隸(p0459)、緣城(p0460)、雷公(p0461)逐人適用性複核通過（《後漢書·卷七十一》a03-071 注引《九州春秋》、a04-008《典略》注引《九州春秋》，原文已抽查核驗）；四人皆武將（黑山賊首領），戴頭盔、穿盔甲；雷公「其大聲者稱雷公」為本人史料自號非套用他人特徵，其餘三人未核得五官特徵採普通比例藝術示意；120×120頭像本地導入完成未推送；173人名單剩9人待複核。",
+  "note": "portrait-batch-43：浮雲(p0462)、白雀(p0463)、五鹿(p0464)、苦唒(p0465)逐人適用性複核通過（《後漢書·卷七十一》a03-071 注引《九州春秋》、a04-008《典略》注引《九州春秋》，原文已抽查核驗；白雀典略注作「白爵」、苦唒九州春秋作「苦蝤」異文已記）；四人皆武將（黑山賊首領），戴頭盔、穿盔甲；四人均未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩5人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 461,
+  "previousCompletedEntriesUnchanged": 465,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 9,
+  "unlistedPortraitPeople": 5,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }
