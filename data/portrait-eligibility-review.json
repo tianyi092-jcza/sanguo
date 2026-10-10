@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 104,
-  "remainingUnreviewedCount": 77,
+  "reviewedCount": 108,
+  "remainingUnreviewedCount": 73,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1953,6 +1953,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-25"
+    },
+    {
+      "id": "p0357",
+      "name": "傅肜",
+      "gender": "male",
+      "role": "蜀漢將領；義陽人，先主退軍斷後拒戰，拒降戰死（222年）",
+      "source": "a04-045",
+      "reviewNote": "《三國志·蜀書·楊戲傳》季漢輔臣贊載「先主退軍，斷後拒戰，兵人死盡，吳將語肜令降，肜罵曰：『吳狗！何有漢將軍降者！』遂戰死」；蜀漢將領身份明確，事跡詳足。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-26"
+    },
+    {
+      "id": "p0361",
+      "name": "曹袞",
+      "gender": "male",
+      "role": "魏中山恭王；太祖子，少好學、性謹慎",
+      "source": "a04-020",
+      "reviewNote": "《三國志·魏書·武文世王公傳》中山恭王傳載封爵履歷與「少好學，年十餘歲能屬文」「獨譚思經典」，記載足夠。eligible，文官宗室（未領兵），著文士服飾。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-26"
+    },
+    {
+      "id": "p0363",
+      "name": "曹林",
+      "gender": "male",
+      "role": "魏沛穆王；太祖子，建安十六年封饒陽侯，黃初三年為譙王，太和六年改封沛",
+      "source": "a04-020",
+      "reviewNote": "《三國志·魏書·武文世王公傳》沛穆王傳，封爵履歷明確，記載足夠。eligible，文官宗室（未領兵），著文士服飾。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-26"
+    },
+    {
+      "id": "p0372",
+      "name": "郝昭",
+      "gender": "male",
+      "role": "魏將軍；太和元年討斬麴英，明帝時守陳倉",
+      "source": "a04-003",
+      "reviewNote": "《三國志·魏書·明帝紀》太和元年載「遣將軍郝昭、鹿磐討斬之」；將軍身份明確，記載足夠。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-26"
     }
   ]
 }

@@ -5783,5 +5783,57 @@
     "file": "p0356.webp",
     "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 張南; gender male; role male military general, 蜀漢將領，字文進，荊州人；隨先主入蜀，領兵從先主征吳，與馮習俱死, Three Kingdoms. Verified historical excerpt: 「文進名南，亦自荊州隨先主入蜀，領兵從先主征吳，與習俱死」(《三國志·蜀書·楊戲傳》季漢輔臣贊). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Zhang Nan: young Han Chinese officer, lean angular face, medium slanted eyebrows, light short dark beard and thin moustache, fierce unwavering expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0357",
+    "name": "傅肜",
+    "gender": "male",
+    "role": "蜀漢將領；義陽人，先主退軍斷後拒戰，拒降戰死（222年）",
+    "source": "a04-045",
+    "evidence": "「先主退軍，斷後拒戰，兵人死盡，吳將語肜令降，肜罵曰：「吳狗！何有漢將軍降者！」遂戰死。」(《三國志·蜀書·楊戲傳》季漢輔臣贊)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0357.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 傅肜 (Fu Rong), male Shu Han general, died 222 AD at Yiling. Primary source: Records of the Three Kingdoms, Shu book vol. 15 (a04-045), 季漢輔臣贊: 「先主退軍，斷後拒戰，兵人死盡，吳將語肜令降，肜罵曰：「吳狗！何有漢將軍降者！」遂戰死。」 No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, stern resolute expression, mature adult male general, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0361",
+    "name": "曹袞",
+    "gender": "male",
+    "role": "魏中山恭王；太祖子，少好學、性謹慎，黃初四年改封贊王，太和六年改封中山",
+    "source": "a04-020",
+    "evidence": "「中山恭王衮，建安二十一年封平鄉侯。少好學，年十餘歲能屬文……每兄弟游娛，衮獨譚思經典。」(《三國志·魏書·武文世王公傳》)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0361.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s Chinese strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Identity: 曹袞 (Cao Gun), male, Cao Wei prince of Zhongshan, son of Cao Cao; a cautious scholarly prince fond of classical learning (「少好學，年十餘歲能屬文」「獨譚思經典」). Source: Records of the Three Kingdoms, Wei book vol. 20 (a04-020). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Cao Gun: middle-aged gentle scholarly prince, calm thoughtful expression, neat short moustache and restrained chin beard. Late Eastern Han / early Cao Wei civilian clothing: right-lapped cross collar, plain dark civilian guan, muted brown silk cross-collared robe, unarmoured shoulders. No Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0363",
+    "name": "曹林",
+    "gender": "male",
+    "role": "魏沛穆王；太祖子，建安十六年封饒陽侯，黃初三年為譙王，太和六年改封沛",
+    "source": "a04-020",
+    "evidence": "「沛穆王林，建安十六年封饒陽侯……三年，為譙王……太和六年，改封沛。」(《三國志·魏書·武文世王公傳》)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0363.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s Chinese strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Identity: 曹林 (Cao Lin), male, Cao Wei prince of Pei, son of Cao Cao; a quiet dignified prince who held princely titles through several reigns. Source: Records of the Three Kingdoms, Wei book vol. 20 (a04-020). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals and from the other prince of this batch. Cao Lin: middle-aged composed prince, mild reserved expression, thin neatly trimmed moustache, modest chin beard. Late Eastern Han / early Cao Wei civilian clothing: right-lapped cross collar, plain dark civilian guan, muted dark-grey-brown silk cross-collared robe, unarmoured shoulders. No Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0372",
+    "name": "郝昭",
+    "gender": "male",
+    "role": "魏將軍；太和元年討斬麴英，明帝時守陳倉",
+    "source": "a04-003",
+    "evidence": "「西平麴英反，殺臨羌令、西都長，遣將軍郝昭、鹿磐討斬之。」(《三國志·魏書·明帝紀》太和元年)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0372.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 郝昭 (Hao Zhao), male Cao Wei general, famed defender of the Chencang fortress under Emperor Ming. Primary source: Records of the Three Kingdoms, Wei book vol. 3 (a04-003): 「遣將軍郝昭、鹿磐討斬之」; reviewed note: 魏明帝時將軍守陳倉. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, vigilant steely expression, middle-aged adult male general with a firm short moustache, visibly different face from the style reference individuals and from the other general of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
   }
 ]
