@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 88,
-  "remainingUnreviewedCount": 93,
+  "reviewedCount": 92,
+  "remainingUnreviewedCount": 89,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1777,6 +1777,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-21"
+    },
+    {
+      "id": "p0340",
+      "name": "李樂",
+      "gender": "male",
+      "role": "河東故白波帥；護衛天子東歸，拜征北將軍",
+      "source": "a04-006",
+      "reviewNote": "《三國志·魏書·董二袁劉傳》載李樂為河東故白波帥，與韓暹、胡才護衛天子東歸，拜征北將軍；天子北渡河時「使李樂具船」。領兵武將身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-22"
+    },
+    {
+      "id": "p0341",
+      "name": "韓玄",
+      "gender": "male",
+      "role": "長沙太守；劉備南征四郡時歸降",
+      "source": "a04-032",
+      "reviewNote": "《三國志·蜀書·先主傳》載韓玄為長沙太守，劉備南征荊南四郡時率眾歸降。地方太守、文官身份，eligible，着文士服飾、戴文士冠。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-22"
+    },
+    {
+      "id": "p0343",
+      "name": "趙範",
+      "gender": "male",
+      "role": "桂陽太守；劉備南征四郡時歸降",
+      "source": "a04-032",
+      "reviewNote": "《三國志·蜀書·先主傳》載趙範為桂陽太守，劉備南征荊南四郡時歸降。地方太守、文官身份，eligible，着文士服飾、戴文士冠。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-22"
+    },
+    {
+      "id": "p0344",
+      "name": "劉度",
+      "gender": "male",
+      "role": "零陵太守；劉備南征四郡時歸降",
+      "source": "a04-032",
+      "reviewNote": "《三國志·蜀書·先主傳》載劉度為零陵太守，劉備南征荊南四郡時率眾歸降。地方太守、文官身份，eligible，着文士服飾、戴文士冠。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-22"
     }
   ]
 }
