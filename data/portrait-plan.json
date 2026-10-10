@@ -5523,5 +5523,57 @@
     "reviewNote": "《三國志·魏書·董二袁劉傳》載張濟為董卓部將，初為校尉略陳留、潁川，192年與李傕等舉兵入長安，官至驃騎將軍、平陽侯，屯弘農；武帝紀建安元年條「張濟自關中走南陽」。領兵大將，武將身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
     "eligibilityReviewedAt": "2026-10-10T03:54:11.232Z",
     "eligibilityBatch": "portrait-batch-20"
+  },
+  {
+    "id": "p0335",
+    "name": "李蒙",
+    "gender": "male",
+    "role": "董卓部將；隨徐榮虜掠，後與樊稠合圍長安",
+    "source": "a03-072",
+    "evidence": "「卓先遣將徐榮、李蒙四出虜掠。」袁宏紀曰：「蒙後為傕所殺。」（《後漢書·董卓列傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0335.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 李蒙; gender male; role male military general, 董卓部將，隨徐榮四出虜掠，後與樊稠合圍長安，後為李傕所殺，Late Eastern Han. Verified historical excerpt: 卓先遣將徐榮、李蒙四出虜掠；袁宏紀曰：「蒙後為傕所殺。」(《後漢書·董卓列傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Li Meng: middle-aged Han Chinese general, broad weathered battle-hardened face, heavy dark eyebrows, short full dark beard and moustache, grim determined expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0336",
+    "name": "楊定",
+    "gender": "male",
+    "role": "安西將軍，故卓部曲將；後拜後將軍",
+    "source": "a03-072",
+    "evidence": "「安西將軍楊定者，故卓部曲將也。」「楊定與煨有隙，遂誣煨欲反，乃攻其營」（《後漢書·董卓列傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0336.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 楊定; gender male; role male military general, 安西將軍，故董卓部曲將，後拜後將軍，Late Eastern Han. Verified historical excerpt: 安西將軍楊定者，故卓部曲將也；初，楊定與煨有隙，遂誣煨欲反，乃攻其營，十餘日不下。(《後漢書·董卓列傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Yang Ding: middle-aged Han Chinese general, long stern face with pronounced jaw, narrow watchful eyes, thin dark moustache and sparse chin beard, cold calculating expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark grey cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0338",
+    "name": "韓暹",
+    "gender": "male",
+    "role": "河東故白波帥；護衛天子東歸，拜征東將軍",
+    "source": "a04-006",
+    "evidence": "「奉急招河東故白波帥韓暹、胡才、李樂等合，與傕、汜大戰」「以暹為征東、才為征西、樂征北將軍」（《三國志·魏書·董二袁劉傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0338.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 韓暹; gender male; role male military general, 河東故白波帥，護衛天子東歸洛陽，拜征東將軍，後與楊奉合攻袁術，Late Eastern Han. Verified historical excerpt: 奉急招河東故白波帥韓暹、胡才、李樂等合，與傕、汜大戰；以暹為征東、才為征西、樂征北將軍，並與奉、承持政。(《三國志·魏書·董二袁劉傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Han Xian: older Han Chinese general, gaunt resolute weather-beaten face, deep-set stern eyes, grey-streaked short beard and moustache, hardened veteran expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a faded dark green cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0339",
+    "name": "胡才",
+    "gender": "male",
+    "role": "河東故白波帥；拜征西將軍，後留河東",
+    "source": "a04-006",
+    "evidence": "「奉急招河東故白波帥韓暹、胡才、李樂等合，與傕、汜大戰」「以暹為征東、才為征西、樂征北將軍」「胡才、李樂留河東，才為怨家所害」（《三國志·魏書·董二袁劉傳》《後漢書·董卓列傳》）",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0339.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 胡才; gender male; role male military general, 河東故白波帥，護衛天子東歸，拜征西將軍，後留河東，Late Eastern Han. Verified historical excerpt: 奉急招河東故白波帥韓暹、胡才、李樂等合，與傕、汜大戰；以暹為征東、才為征西、樂征北將軍；胡才、李樂留河東，才為怨家所害。(《三國志·魏書·董二袁劉傳》、《後漢書·董卓列傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Hu Cai: middle-aged Han Chinese general, stocky broad face with thick neck, heavy dark eyebrows, full dark moustache and short chin beard, wary stubborn expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "generator": "built-in imagegen"
   }
 ]
