@@ -122,9 +122,9 @@ tr:hover td{background:#ffffff08}
 #mClose{float:right;background:none;border:1px solid var(--line);color:var(--ink2);border-radius:8px;width:32px;height:32px;font-size:16px;cursor:pointer}
 #mClose:hover{color:var(--ink);border-color:#888}
 /* 说明 */
-#about{padding:26px 34px;overflow:auto;flex:1;line-height:2;font-size:14px;color:var(--ink2)}
-#about h2{font-family:var(--serif);color:var(--ink);margin:14px 0 6px;font-size:19px}
-#about b{color:#d8cfb8}
+#about{padding:12px 16px;overflow:auto;flex:1;line-height:1.9;font-size:12px;background:var(--paper);color:var(--paper-ink)}
+#about h2{font-family:var(--serif);color:var(--paper-ink);margin:12px 0 6px;font-size:15px}
+#about b{color:var(--paper-ink)}
 .foot{padding:6px 18px;font-size:12px;color:#57606e;border-top:1px solid var(--line);background:#10151c}
 </style>
 </head>
@@ -694,15 +694,15 @@ renderTbl();
 /* ================= 说明 ================= */
 $("#about").innerHTML=`
 <h2>一、资料依据</h2>
-<div>本工具全部内容以 <b>陈寿《三国志》</b>（中华书局点校本系统）及 <b>裴松之注</b> 为唯一文本依据；郡国治所与今地名对照，依据《续汉书·郡国志》及谭其骧《中国历史地图集》通行考证。生卒年阙如者标「不详」，卒年存疑者于「备考」注明。<b>凡记忆未审之原文，一律不录，宁阙毋妄。</b></div>
+<div>人物本传全文以 <b>中文维基文库《三国志》</b>（zh.wikisource.org）为底本；裴松之注随文标注。郡国治所与今地名对照，依据《续汉书·郡国志》及谭其骧《中国历史地图集》通行考证。生卒年阙如者标「不详」，卒年存疑者于「备考」注明。<b>凡记忆未审之原文，一律不录，宁阙毋妄。</b></div>
 <h2>二、地图使用</h2>
-<div>· 右上角选择归属时点：可切换 <b>建安五年（200）、建安二十四年（219）、景元四年（263）</b> 三个断面，郡国圆点按当时控制势力着色；<br>· 底图可切换：示意图／<b>高德街道</b>／<b>高德卫星影像</b>／纯点位；在线底图模式下滚轮缩放、拖拽平移（坐标已做 WGS-84→GCJ-02 校正）；所有标识与文字保持固定大小，不随缩放变化；<br>· 点击圆点（郡国）／菱形（城池·战场）／三角（关隘），右侧面板显示 <b>治所、今址</b> 与三个时点归属；<br>· 「郡县总表」可按名称/治所/今址筛选，与 CSV 资料表配套使用。</div>
+<div>· 右上角选择归属时点：可切换 <b>建安五年（200）、建安二十四年（219）、景元四年（263）</b> 三个断面，郡国圆点按当时控制势力着色；<br>· 底图可切换：示意图／<b>高德街道</b>／<b>高德卫星影像</b>／纯点位；在线底图模式下滚轮缩放、拖拽平移（坐标已做 WGS-84→GCJ-02 校正）；所有标识与文字保持固定大小，不随缩放变化；<br>· 点击圆点（郡国）／菱形（城池·战场）／三角（关隘），右侧面板显示 <b>治所、今址</b> 与三个时点归属；<br>· 「郡县总表」按 <b>州→郡国</b> 层级分组显示，首列为序号；可按名称/治所/今址筛选。</div>
 <h2>三、时间轴使用</h2>
-<div>· 横轴为公元年份（150–285），纵列人物按势力分组；<b>●为出生、✕为卒年</b>，实线连接生卒；生卒不详者以虚线示意并汇总于底部；<br>· 顶部为事件旗标：⚔战争 ★政治 ◈外交 ●其他；点击旗标或人名，弹出原文摘录弹窗（基本信息／经历概述／本传原文／陈寿评曰／裴松之注 五栏）；<br>· 「播放」按钮以动画巡览184–280年大事；<br>· 顶部检索框支持 <b>人名、事件名、年份、地名</b> 四类查询，选中后自动平滑滚动定位并高亮。</div>
+<div>· 横轴为公元年份（150–285），纵列人物按势力分组；<b>●为出生、✕为卒年</b>，实线连接生卒；生卒不详者以虚线示意并汇总于底部；<br>· 顶部为事件旗标：⚔战争 ★政治 ◈外交 ●其他；点击旗标或人名，弹出原文摘录弹窗；<br>· 「播放」按钮以动画巡览184–280年大事；<br>· 顶部检索框支持 <b>人名、事件名、年份、地名</b> 四类查询，选中后自动平滑滚动定位并高亮。</div>
 <h2>四、颜色与标志</h2>
 <div><span class="chip" style="background:#5b8dd6">魏</span> <span class="chip" style="background:#58a05c">蜀</span> <span class="chip" style="background:#d6655b">吴</span> <span class="chip" style="background:#c9a445">群雄·其他</span>　事件：<span style="color:#e2703a">⚔ 战争</span>、<span style="color:#e0b84f">★ 政治</span>、<span style="color:#4fb8c9">◈ 外交</span>、<span style="color:#9aa2ad">● 其他</span></div>
 <h2>五、范围说明（务必阅读）</h2>
-<div>《三国志》全书纪传人物逾千，本工具收录 <b>${DATA.per.length} 位人物</b>，不限于魏蜀吴传主，兼及东汉朝廷文武（皇甫嵩、卢植、朱儁、孔融、郑玄等）、讨董群雄、诸势力部下（纪灵、颜良文丑、郭图逢纪、蒯越蔡瑁、严颜张任等）、吕布董卓余部、边疆民族与方外人物（蹋顿、轲比能、于夫罗、卑弥呼等）；凡《三国志》无传者，均于「出处」栏标明《后汉书》或仅见裴注，不敢混同。${DATA.cmd.length} 郡国、${DATA.cit.length} 座要邑、${DATA.ev.length} 件大事。司马懿、司马师、司马昭及羊祜、杜预、王濬等，<b>《三国志》未立传</b>（陈寿仕晋之故），其事迹附载并注明《晋书》出处——本次应约将司马懿、司马师、司马昭三人按《晋书》帝纪扩展收录（含帝纪原文摘录）；貂蝉等演义虚构人物不入史实，特设一条说明以正视听。后续可在此框架上继续补全其余传主与人物。</div>
+<div>《三国志》全书纪传人物逾千，本工具收录 <b>${DATA.per.length} 位人物</b>，不限于魏蜀吴传主，兼及东汉朝廷文武、讨董群雄、诸势力部下、边疆民族与方外人物；凡《三国志》无传者，均于「出处」栏标明《后汉书》或仅见裴注，不敢混同。${DATA.cmd.length} 郡国按 <b>14 州</b> 分组、${DATA.cit.length} 座要邑、${DATA.ev.length} 件大事。司马懿、司马师、司马昭及羊祜、杜预、王濬等，<b>《三国志》未立传</b>（陈寿仕晋之故），其事迹附载并注明《晋书》出处；貂蝉等演义虚构人物不入史实。郡县总表「历任主官」列因史料自动抽取质量不达标，已于 2026-10-10 下线。</div>
 <h2>六、配套资料</h2>
 <div>随工具附 CSV 资料表（郡国经纬与今址、人物生卒、大事年表），可直接导入 Excel / GIS 继续整理。</div>`;
 
