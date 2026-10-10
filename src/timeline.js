@@ -48,8 +48,7 @@ function updateTimelineRows(){
   timelineState.rows=DATA.per.filter(p=>{
     const h=historyOf(p);
     if(h.outside)return false;
-    const factions=affiliationsOf(h).map(affiliationLabel);
-    if(q&&!normalizeSearch(p.n+' '+(p.z||'')+' '+factions.join(' ')).includes(q))return false;
+    if(q&&!normalizeSearch(p.n+' '+(p.z||'')).includes(q))return false;
     if(timelineState.faction!=='all'&&(h.secondReview?.conclusions?.primaryFaction
       ?h.secondReview.conclusions.primaryFaction.faction!==timelineState.faction
       :!affiliationsOf(h).some(s=>s.faction===timelineState.faction)))return false;

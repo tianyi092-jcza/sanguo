@@ -23,7 +23,6 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 #tlBar .timeline-find{background:#fffdf8;border:1px solid #d6d7ce;border-radius:5px;padding:0 10px;gap:7px;min-width:220px;flex:1;max-width:320px}
 .timeline-find>span{font-size:24px;color:#8b8c80}#tlBar #personFilter{border:0;background:transparent;color:var(--paper-ink);padding:8px 0;min-width:0;width:100%;outline:0;font-size:12px}
 #tlBar .control-label{display:flex;align-items:center;gap:7px;font-size:12px;color:#6f7167}
-.control-stack{display:flex;flex-direction:column;justify-content:center;gap:3px}
 .control-note{font-size:11px;color:#84887b;white-space:nowrap}
 #tlBar select{background:transparent;border:0;border-bottom:1px solid #bfc1b6;padding:7px 18px 7px 4px;color:#39413d;max-width:170px;font-size:12px}
 .zoom-control{display:flex;align-items:center;background:#fffdf8;border:1px solid #d6d7ce;border-radius:5px;margin-left:auto;white-space:nowrap}
