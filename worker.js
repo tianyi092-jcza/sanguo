@@ -83,6 +83,7 @@ async function proxyGoogle(request, env, ctx) {
   const tileMatch = url.pathname.match(/^\/api\/gtiles\/2dtiles\/(\d+)\/(\d+)\/(\d+)$/);
   if (tileMatch) {
     const [, z, x, y] = tileMatch;
+    try {
     // 用不带 session 的 key 做缓存，多用户共享瓦片缓存
     const cacheKey = new Request(`https://gtiles-cache.internal/2dtiles/${z}/${x}/${y}`, { method: 'GET' });
     const cache = caches.default;
@@ -96,7 +97,9 @@ async function proxyGoogle(request, env, ctx) {
       headers: { 'referer': 'https://sanguo.720108.xyz/' },
     });
     if (!resp.ok) {
-      return new Response('tile fetch failed', { status: resp.status });
+      const bodyText = await resp.text().catch(() => '');
+      console.error(`[gtiles] Google tile ${z}/${x}/${y} -> ${resp.status}: ${bodyText.slice(0, 300)}`);
+      return new Response(`tile fetch failed: upstream ${resp.status}`, { status: resp.status });
     }
     const out = new Response(await resp.arrayBuffer(), {
       status: 200,
@@ -109,6 +112,10 @@ async function proxyGoogle(request, env, ctx) {
     // 写入缓存（不阻塞返回）
     ctx.waitUntil(cache.put(cacheKey, out.clone()));
     return out;
+    } catch (e) {
+      console.error(`[gtiles] worker tile error ${z}/${x}/${y}:`, e && e.message);
+      return new Response('worker tile error: ' + (e && e.message), { status: 500 });
+    }
   }
 
   return null; // 非代理路径，交由静态资源处理
