@@ -157,7 +157,16 @@ class GoogleSatelliteLayer{
         img.alt="";img.draggable=false;img.width=MAP_TILE_SIZE;img.height=MAP_TILE_SIZE;
         img.style.cssText="position:absolute;width:256px;height:256px;user-select:none";
         img.onload=()=>{if(this.images.get(id)!==record)return;record.loaded=true;this.updateStatus();};
-        img.onerror=()=>{if(this.images.get(id)!==record)return;record.failed=true;img.style.visibility="hidden";this.updateStatus();};
+        img.onerror=()=>{
+          if(this.images.get(id)!==record)return;
+          // 自动重试一次（应对网络抖动）
+          if(!record.retried){
+            record.retried=true;
+            setTimeout(()=>{ if(this.images.get(id)===record) img.src=img.src; }, 1500);
+            return;
+          }
+          record.failed=true;img.style.visibility="hidden";this.updateStatus();
+        };
         const query=new URLSearchParams({session:session.token,key:this.config.apiKey});
         img.src="https://tile.googleapis.com/v1/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+query;
         $("#googleMapTiles").appendChild(img);
