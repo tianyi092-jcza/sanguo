@@ -84,15 +84,10 @@ async function proxyGoogle(request, env, ctx) {
   if (tileMatch) {
     const [, z, x, y] = tileMatch;
     try {
-    // 用不带 session 的 key 做缓存，多用户共享瓦片缓存
-    const cacheKey = new Request(`https://gtiles-cache.internal/2dtiles/${z}/${x}/${y}`, { method: 'GET' });
-    const cache = caches.default;
-    let cached = await cache.match(cacheKey);
-    if (cached) return cached;
-
     const params = new URLSearchParams(url.search);
     params.set('key', apiKey);
     // session 由前端传入（createSession 返回的 token）
+    // 注：暂时禁用 caches.default 缓存（曾导致 Worker 500），仅用并发控制防 429
     const resp = await fetchGoogle(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`, {
       headers: { 'referer': 'https://sanguo.720108.xyz/' },
     });
@@ -101,19 +96,15 @@ async function proxyGoogle(request, env, ctx) {
       console.error(`[gtiles] Google tile ${z}/${x}/${y} -> ${resp.status}: ${bodyText.slice(0, 300)}`);
       return new Response(`tile fetch failed: upstream ${resp.status}`, { status: resp.status });
     }
-    const out = new Response(await resp.arrayBuffer(), {
+    return new Response(await resp.arrayBuffer(), {
       status: 200,
       headers: {
         'content-type': resp.headers.get('content-type') || 'image/png',
-        // 瓦片可缓存 1 天，减轻 Google 配额压力
         'cache-control': 'public, max-age=86400',
       },
     });
-    // 写入缓存（不阻塞返回）
-    ctx.waitUntil(cache.put(cacheKey, out.clone()));
-    return out;
     } catch (e) {
-      console.error(`[gtiles] worker tile error ${z}/${x}/${y}:`, e && e.message);
+      console.error(`[gtiles] worker tile error ${z}/${x}/${y}:`, e && e.message, e && e.stack);
       return new Response('worker tile error: ' + (e && e.message), { status: 500 });
     }
   }
