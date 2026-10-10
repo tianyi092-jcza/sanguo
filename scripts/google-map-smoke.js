@@ -79,7 +79,7 @@ async (page) => {
   const drift=await page.evaluate(()=>{const p={...view};for(let i=0;i<100;i++)panOnlineMap(0,0);return Math.max(Math.abs(view.lon-p.lon),Math.abs(view.lat-p.lat));});
   if(drift>1e-7)throw Error('Amap panning accumulates coordinate drift');
   await page.selectOption('#baseSel','google');await ready();
-  await page.getByText('人物流年',{exact:true}).click();
+  await page.getByText('人物列傳',{exact:true}).click();
   if(await page.locator('#googleMapTiles').isVisible())throw Error('Google layer remains visible in other views');
   await page.getByText('疆域地圖',{exact:true}).click();await ready();
   await page.setViewportSize({width:390,height:844});

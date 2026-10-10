@@ -1,7 +1,7 @@
 async (page) => {
   const errors=[];page.on('pageerror',error=>errors.push(error.message));
   await page.goto('http://127.0.0.1:4173/');
-  await page.getByText('人物流年',{exact:true}).click();
+  await page.getByText('人物列傳',{exact:true}).click();
   await page.getByRole('searchbox',{name:'篩選時間軸人物'}).fill('张辽');
   await page.waitForFunction(()=>document.querySelectorAll('.timeline-row').length===1);
   const initial=await page.locator('.row-track').evaluate(e=>e.getBoundingClientRect().width);

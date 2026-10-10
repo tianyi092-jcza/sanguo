@@ -6,7 +6,7 @@ const tlRows=document.getElementById('timelineRows');
 const historyOf=p=>HISTORY.people[p.id]||{first:null,segments:[],unplaced:[]};
 const affiliationsOf=h=>h.affiliations||[...h.segments,...(h.unplaced||[])];
 const relationText={leader:'自領',family:'家族',royal:'宗室',guest:'賓客',doctor:'召醫',invited:'受邀未明就任',coerced:'被迫隨行',allied:'軍事合作',asylum:'避難依附'};
-const affiliationLabel=a=>(a.label||factionInfo(a.faction).label)+(relationText[a.relation]?'·'+relationText[a.relation]:'');
+const portraitFile=p=>{const e=PORTRAITS.people[p.id];const g=e?.gender||PORTRAITS.gender[p.id]||'unknown';return e?.file||PORTRAITS.fallback[g]||PORTRAITS.fallback.unknown||'';};const affiliationLabel=a=>(a.label||factionInfo(a.faction).label)+(relationText[a.relation]?'·'+relationText[a.relation]:'');
 function affiliationSummary(h){
   const review=h.secondReview?.conclusions;
   if(review?.primaryFaction){
@@ -73,7 +73,7 @@ function createTimelineRow(p,index){
   const h=historyOf(p),row=document.createElement('div');row.className='timeline-row';row.dataset.id=p.id;row.setAttribute('role','listitem');
   const life=lifeLabel(p);
   const name=document.createElement('button');name.type='button';name.className='person-name';name.title=life;name.setAttribute('aria-label',`${p.n}，${life}，查看人物`);
-  name.innerHTML=`<span class="person-number">${String(index+1).padStart(3,'0')}</span><span class="person-label"><div><b>${esc(p.n)}</b><span class="courtesy">${esc(p.z||'')}</span></div><small>${esc(life)}</small></span>`;
+  name.innerHTML=`<span class="person-number">${String(index+1).padStart(3,'0')}</span>${(()=>{const f=portraitFile(p);return f?`<span class="person-avatar"><img src="${esc(f)}" alt="" loading="lazy" decoding="async"></span>`:'';})()}<span class="person-label"><div><b>${esc(p.n)}</b><span class="courtesy">${esc(p.z||'')}</span></div><small>${esc(life)}</small></span>`;
   name.onclick=()=>openPerson(p);row.append(name);
   const track=document.createElement('div');track.className='row-track';track.style.width=timelineWidth()+'px';
   const step=timelineState.scale<14?5:timelineState.scale<36?2:1;

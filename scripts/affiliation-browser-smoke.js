@@ -2,7 +2,7 @@ async (page) => {
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  await page.setViewportSize({width:1440,height:960});
  await page.goto('http://127.0.0.1:4173/');
- await page.getByText('人物流年',{exact:true}).click();
+ await page.getByText('人物列傳',{exact:true}).click();
  const cases=[['曹洪','曹操 → 曹魏'],['公孫瓚','公孫瓚'],['趙雲','公孫瓚 → 劉備 → 蜀漢'],['李傕','董卓 → 李傕'],['郭汜','董卓 → 郭汜'],['張濟','董卓 → 張濟'],['陳宮','曹操 → 呂布'],['張苞','劉備·家族'],['華佗','曹操·召醫'],['卑彌呼','倭女王國']];
  const labels={};
  for(const [name,expected] of cases){

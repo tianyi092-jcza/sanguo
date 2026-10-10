@@ -96,7 +96,7 @@ js=head+'const ERA_CALENDAR='+read('data/calendar-eras.json').trim()+';\n'+tradi
 new vm.Script(js);
 let css=html.match(/<style>([\s\S]*?)<\/style>/)[1]+'\n'+read('src/timeline.css')+'\n'+read('src/google-satellite.css');
 html=html.replace(/<style>[\s\S]*?<\/style>/,'<!-- STYLE -->').replace(/<script>[\s\S]*?<\/script>/,'<!-- SCRIPT -->');
-html=traditional(html).replace('人物時間軸','人物流年');
+html=traditional(html).replace('人物時間軸','人物列傳');
 // Keep the original entry point as a portable, offline-capable artifact.
 const standalone=html.replace('<!-- STYLE -->','<style>'+css.replace('./Oswald-Light.woff2','./assets/Oswald-Light.woff2')+'</style>').replace('<!-- SCRIPT -->','<script>'+js.replaceAll('</script','<\\/script')+'</script>');
 // 单文件离线版内嵌本传全文数据（dist 版改为按需 fetch）
