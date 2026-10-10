@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 160,
-  "remainingUnreviewedCount": 21,
+  "reviewedCount": 164,
+  "remainingUnreviewedCount": 17,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2569,6 +2569,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-39"
+    },
+    {
+      "id": "p0450",
+      "name": "左校",
+      "gender": "male",
+      "role": "黑山賊首領；《九州春秋》所列諸部之一",
+      "source": "a03-071",
+      "reviewNote": "《後漢書·卷七十一·列傳第六十一》a03-071 注引《九州春秋》：「自黃巾賊後，復有黑山、黃龍、白波、左校、郭大賢……並起山谷閒，不可勝數。」（原文已抽查核驗）袁紹傳亦載「擊劉石、青牛角、黃龍、左校、郭大賢、李大目、于氐根等」。黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-40"
+    },
+    {
+      "id": "p0451",
+      "name": "郭大賢",
+      "gender": "male",
+      "role": "黑山賊首領；張璠《漢紀》「左校、郭大賢、左髭丈八三部」之一",
+      "source": "a03-071",
+      "reviewNote": "《後漢書·卷七十一》a03-071 注引《九州春秋》同條「復有黑山、黃龍、白波、左校、郭大賢……」；《三國志·魏書·張燕傳》a04-008 典略注引張璠《漢紀》云：「又有左校、郭大賢、左髭丈八三部也。」（原文已抽查核驗）黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-40"
+    },
+    {
+      "id": "p0452",
+      "name": "左髭丈八",
+      "gender": "male",
+      "role": "黑山賊首領；被袁紹「薄擊……皆斬之」",
+      "source": "a04-006",
+      "reviewNote": "《三國志·魏書·袁紹傳》a04-006 英雄記引文：「遂尋山北行，薄擊諸賊左髭丈八等，皆斬之」；張璠《漢紀》「左校、郭大賢、左髭丈八三部」。（原文已抽查核驗）黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-40"
+    },
+    {
+      "id": "p0453",
+      "name": "于氐根",
+      "gender": "male",
+      "role": "黑山賊首領；《九州春秋》「多髭者號于氐根」",
+      "source": "a03-071",
+      "reviewNote": "《後漢書·卷七十一》a03-071 注引《九州春秋》：「多髭者號于氐根」；《三國志·魏書·張燕傳》a04-008 典略注：「其饒鬚者則自稱于羝根」。（原文已抽查核驗）黑山賊首領，記載明確；「多髭/饒鬚」為本人史料自號，非套用他人特徵（張燕條反向記此）。eligible，武將，戴頭盔、穿盔甲，五官面容採普通比例藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-40"
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-39",
+  "batch": "portrait-batch-40",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 453,
+  "generatedCount": 457,
   "ids": [
-    "p0445",
-    "p0447",
-    "p0448",
-    "p0449"
+    "p0450",
+    "p0451",
+    "p0452",
+    "p0453"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-39：黃邵(p0445)、眭固(p0447)、楊鳳(p0448)、黃龍(p0449)逐人適用性複核通過（《三國志·魏書·武帝紀》a04-001 建安元年/初平二年條、《三國志·魏書·二公孫陶四張傳》a04-008、《後漢書·卷七十一》a03-071 注引《九州春秋》，原文已抽查核驗）；四人皆武將（汝南潁川黃巾首領×1、黑山賊首領×3），戴頭盔、穿盔甲；均未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩21人待複核。",
+  "note": "portrait-batch-40：左校(p0450)、郭大賢(p0451)、左髭丈八(p0452)、于氐根(p0453)逐人適用性複核通過（《後漢書·卷七十一》a03-071 注引《九州春秋》、a04-006 英雄記袁紹傳、a04-008 典略注，原文已抽查核驗）；四人皆武將（黑山賊首領），戴頭盔、穿盔甲；于氐根「多髭/饒鬚」為本人史料自號非套用他人特徵，其餘三人未核得五官特徵採普通比例藝術示意；120×120頭像本地導入完成未推送；173人名單剩17人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 437,
+  "previousCompletedEntriesUnchanged": 453,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 25,
+  "unlistedPortraitPeople": 21,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }
