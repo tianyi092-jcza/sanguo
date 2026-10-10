@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 156,
-  "remainingUnreviewedCount": 25,
+  "reviewedCount": 160,
+  "remainingUnreviewedCount": 21,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2525,6 +2525,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-38"
+    },
+    {
+      "id": "p0445",
+      "name": "黃邵",
+      "gender": "male",
+      "role": "汝南、潁川黃巾首領；建安元年被曹操討破斬殺",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001 建安元年：「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之，斬辟、邵等。」（原文已抽查核驗）黃巾首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-39"
+    },
+    {
+      "id": "p0447",
+      "name": "眭固",
+      "gender": "male",
+      "role": "黑山賊首領；初平二年與于毒、白繞等反，掠魏郡、東郡",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001 初平二年：「黑山賊于毒、白繞、眭固等眭，申隨反。十餘萬衆略魏郡、東郡，王肱不能禦，太祖引兵入東郡，擊白繞於濮陽，破之。」（原文已抽查核驗）黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-39"
+    },
+    {
+      "id": "p0448",
+      "name": "楊鳳",
+      "gender": "male",
+      "role": "黑山賊首領；靈帝拜為黑山校尉，領諸山賊",
+      "source": "a04-008",
+      "reviewNote": "《三國志·魏書·二公孫陶四張傳》a04-008 張燕傳：「靈帝不能討，乃遣使拜楊鳳為黑山校尉，領諸山賊，得舉孝廉計吏。」（原文已抽查核驗）黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-39"
+    },
+    {
+      "id": "p0449",
+      "name": "黃龍",
+      "gender": "male",
+      "role": "黑山賊名號首領之一（《九州春秋》所列「黃龍」）",
+      "source": "a03-071",
+      "reviewNote": "《後漢書·卷七十一·列傳第六十一》a03-071 注引《九州春秋》：「自黃巾賊後，復有黑山、黃龍、白波、左校、郭大賢……並起山谷閒，不可勝數。」（原文已抽查核驗）黑山賊首領名號，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-39"
     }
   ]
 }
