@@ -165,7 +165,8 @@ class GoogleSatelliteLayer{
             const resp=await fetch(tileUrl);
             if(this.images.get(id)!==record)return;
             if(!resp.ok){
-              const errText=`tile ${frame.z}/${requestX}/${y} HTTP ${resp.status}`+(isRetry?" (retry)":"");
+              const bodyText=await resp.text().catch(()=> '');
+              const errText=`tile ${frame.z}/${requestX}/${y} HTTP ${resp.status} ${bodyText.slice(0,120)}`+(isRetry?" (retry)":"");
               console.warn("[gtiles] "+errText);
               throw new Error(errText);
             }
