@@ -69,6 +69,8 @@ class GoogleSatelliteLayer{
     this.frame=null;this.requestedKey="";this.fetching=false;this.blocked=false;this.errorStatus=null;
   }
   showStatus(message,retry=false){
+    // 若有捕获到的具体错误，附加显示
+    if(this.lastTileError)message+="（"+this.lastTileError+"）";
     $("#mapTileMessage").textContent=message;$("#retryGoogle").hidden=!retry;$("#mapTileStatus").hidden=false;
   }
   clearImages(){
@@ -156,19 +158,34 @@ class GoogleSatelliteLayer{
         record={img,x,y,loaded:false,failed:false};this.images.set(id,record);
         img.alt="";img.draggable=false;img.width=MAP_TILE_SIZE;img.height=MAP_TILE_SIZE;
         img.style.cssText="position:absolute;width:256px;height:256px;user-select:none";
-        img.onload=()=>{if(this.images.get(id)!==record)return;record.loaded=true;this.updateStatus();};
-        img.onerror=()=>{
-          if(this.images.get(id)!==record)return;
-          // 自动重试一次（应对网络抖动）
-          if(!record.retried){
-            record.retried=true;
-            setTimeout(()=>{ if(this.images.get(id)===record) img.src=img.src; }, 1500);
-            return;
+        const tileUrl="/api/gtiles/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+new URLSearchParams({session:session.token});
+        // 用 fetch 加载以便捕获具体 HTTP 错误（img.onerror 拿不到状态码）
+        const loadTile=async (isRetry)=>{
+          try{
+            const resp=await fetch(tileUrl);
+            if(this.images.get(id)!==record)return;
+            if(!resp.ok){
+              const errText=`tile ${frame.z}/${requestX}/${y} HTTP ${resp.status}`+(isRetry?" (retry)":"");
+              console.warn("[gtiles] "+errText);
+              throw new Error(errText);
+            }
+            const blob=await resp.blob();
+            if(this.images.get(id)!==record)return;
+            img.src=URL.createObjectURL(blob);
+          }catch(e){
+            if(this.images.get(id)!==record)return;
+            if(!isRetry){
+              // 自动重试一次
+              setTimeout(()=>{ if(this.images.get(id)===record) loadTile(true); }, 1500);
+              return;
+            }
+            console.error("[gtiles] tile failed after retry:",e.message);
+            record.failed=true;record.errorMsg=e.message;this.lastTileError=e.message;
+            img.style.visibility="hidden";this.updateStatus();
           }
-          record.failed=true;img.style.visibility="hidden";this.updateStatus();
         };
-        const query=new URLSearchParams({session:session.token});
-        img.src="/api/gtiles/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+query;
+        img.onload=()=>{if(this.images.get(id)!==record)return;record.loaded=true;this.updateStatus();};
+        loadTile(false);
         $("#googleMapTiles").appendChild(img);
       }
       this.position(record,frame);
@@ -192,7 +209,7 @@ class GoogleSatelliteLayer{
       if(records.some(r=>r.loaded))$("#mapTileStatus").hidden=true;
     }
   }
-  retry(){this.session=null;this.requestedKey="";this.clearImages();renderMap();}
+  retry(){this.session=null;this.requestedKey="";this.lastTileError=null;this.clearImages();renderMap();}
 }
 const googleSatellite=new GoogleSatelliteLayer(MAP_CONFIG.googleMaps);
 function configureGoogleMapOption(){
