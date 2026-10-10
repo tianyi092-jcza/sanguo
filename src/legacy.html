@@ -204,7 +204,7 @@ tr:hover td{background:#ffffff08}
   <section class="view" id="v-tbl">
     <div id="tblWrap">
       <input id="tblQ" type="text" placeholder="筛选郡县（名称 / 治所 / 今址）…">
-      <table id="tbl"><thead><tr><th>郡国</th><th>治所</th><th>今址</th><th>建安五年(200)</th><th>建安二十四年(219)</th><th>景元四年(263)</th></tr></thead><tbody></tbody></table>
+      <table id="tbl"><thead><tr><th>序号</th><th>郡国</th><th>治所</th><th>今址</th><th>建安五年(200)</th><th>建安二十四年(219)</th><th>景元四年(263)</th></tr></thead><tbody></tbody></table>
     </div>
   </section>
   <section class="view" id="v-about"><div id="about"></div></section>
@@ -669,19 +669,21 @@ function renderTbl(){
     const v=$("#tblQ").value.trim();
     const nq = typeof normalizeSearch==='function' ? normalizeSearch(v) : v;
     const match=c=>!nq||normalizeSearch(c.n+c.seat+c.mod).includes(nq);
-    let html='';
+    let html='', idx=0;
     for(const z of ZHOU_ORDER){
       const cmds=DATA.cmd.filter(c=>CMD_ZHOU[c.n]===z&&match(c));
       if(!cmds.length) continue;
-      html+=`<tr class="zhou-row"><td colspan="6">【${esc(z)}】</td></tr>`;
+      html+=`<tr class="zhou-row"><td colspan="7">【${esc(z)}】</td></tr>`;
       for(const c of cmds){
-        html+=`<tr><td>　${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
+        idx++;
+        html+=`<tr><td>${idx}</td><td>　${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
       }
     }
     // 未归属州的郡国（容错）
     const rest=DATA.cmd.filter(c=>!CMD_ZHOU[c.n]&&match(c));
     for(const c of rest){
-      html+=`<tr><td>${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
+      idx++;
+      html+=`<tr><td>${idx}</td><td>${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
     }
     tb.innerHTML=html;
   };
