@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 64,
-  "remainingUnreviewedCount": 117,
+  "reviewedCount": 68,
+  "remainingUnreviewedCount": 113,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1509,6 +1509,50 @@
       "reviewNote": "《三國志·吳書·劉繇傳》載笮融丹楊人，初聚衆數百依陶謙，後將男女萬口、馬三千匹自走廣陵。聚眾領兵，武將身份明確，eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
       "role": "丹楊聚眾首領；後自領部眾",
       "source": "a04-049"
+    },
+    {
+      "batch": "portrait-batch-16",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0312",
+      "name": "趙昱",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·魏書·武帝紀》裴注及《吳書·劉繇傳》載趙昱，徐州名士、舉孝廉，歷別駕從事、廣陵太守，以忠直見疏，後為笮融所殺。文官名士身份明確，eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "徐州名士；陶謙別駕從事、廣陵太守",
+      "source": "a04-008"
+    },
+    {
+      "batch": "portrait-batch-16",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0313",
+      "name": "許貢",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·吳書·孫破虜討逆傳》裴注引《江表傳》載許貢為吳郡都尉、領吳郡太守，上表論孫策類項籍宜召還，為策所殺。郡守文官身份明確，eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "吳郡都尉；領吳郡太守",
+      "source": "a04-046"
+    },
+    {
+      "batch": "portrait-batch-16",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0314",
+      "name": "祖郎",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·吳書·孫破虜討逆傳》裴注引《江表傳》載涇縣大帥祖郎襲孫策於丹楊，幾至危殆。山地部眾首領，武將身份明確，eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "涇縣大帥",
+      "source": "a04-046"
+    },
+    {
+      "batch": "portrait-batch-16",
+      "decision": "eligible",
+      "gender": "male",
+      "id": "p0315",
+      "name": "嚴白虎",
+      "portraitStatus": "generated",
+      "reviewNote": "《三國志·吳書·孫破虜討逆傳》裴注引《江表傳》載吳人嚴白虎聚眾萬餘人，孫策自討之。聚眾領兵，武將身份明確，eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "role": "吳中豪族首領；聚眾萬餘人",
+      "source": "a04-046"
     }
   ]
 }
