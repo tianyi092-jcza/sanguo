@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-30",
+  "batch": "portrait-batch-31",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 417,
+  "generatedCount": 421,
   "ids": [
-    "p0405",
-    "p0406",
-    "p0407",
-    "p0408"
+    "p0409",
+    "p0410",
+    "p0411",
+    "p0412"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-30：吳班(p0405)、趙廣(p0406)、張遵(p0407)、黃崇(p0408)逐人適用性複核通過（《三國志》a04-032 先主傳 / a04-036 趙雲傳附・張飛傳附 / a04-043 黃權傳附，引文已抽查核驗）；吳班、趙廣為武將（將軍領水軍、牙門將戰死），戴頭盔、穿盔甲；張遵（尚書）、黃崇（尚書郎）為文職，按程畿先例（文官戰死仍著文士服飾）著文士服飾；未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩57人待複核。",
+  "note": "portrait-batch-31：李球(p0409)、蔣舒(p0410)、傅僉(p0411)、蔣斌(p0412)逐人適用性複核通過（《三國志·姜維傳》a04-044 / 《晉書》a06-007 / a04-045贊，引文已抽查核驗）；四人皆蜀漢領兵武將（羽林督、陽安關守將、關中都督、護軍），戴頭盔、穿盔甲；未核得五官特徵，採普通比例藝術示意，未套用他人特徵（含父輩）；120×120頭像本地導入完成未推送；173人名單剩53人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 409,
+  "previousCompletedEntriesUnchanged": 417,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 61,
+  "unlistedPortraitPeople": 53,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }

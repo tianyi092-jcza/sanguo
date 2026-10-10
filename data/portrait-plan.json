@@ -6043,5 +6043,57 @@
     "file": "p0408.webp",
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 黃崇 (Huang Chong), Shu Han civil official: son of Huang Quan, who remained in Shu when his father surrendered to Wei; served as 尚書郎 (Gentleman of the Imperial Secretariat); followed General-in-Chief Zhuge Zhan against Deng Ai, urged Zhan in tears to seize the strategic pass at Fu, and died fighting at Mianzhu. Primary source: Records of the Three Kingdoms, Shu book, Biography of Huang Quan (a04-043): 「權留蜀子崇，為尚書郎，隨衞將軍諸葛瞻拒鄧艾……崇帥厲軍士，期於必死，臨陣見殺」; reviewed note: 黃權留蜀之子，蜀漢尚書郎，緜竹戰死，記載明確. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure., including his father. Dress him in a simple dark cross-collared scholar's robe with a period-appropriate official's cloth cap, no armour, no helmet, no weapon, earnest loyal expression, young adult male, clean-shaven with a faint moustache, visibly different face from the style reference individuals and from the other officials of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0409",
+    "name": "李球",
+    "gender": "male",
+    "role": "蜀漢羽林督；263年隨諸葛瞻拒鄧艾，緜竹戰死",
+    "source": "a06-007",
+    "evidence": "「羽林督李球……皆必死没命」(《晉書》a06-007)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0409.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 李球 (Li Qiu), Shu Han general: 羽林督 (Commander of the Imperial Guard); in 263 AD followed General-in-Chief Zhuge Zhan to resist Deng Ai at Mianzhu and died in battle. Primary source: Book of Jin (a06-007): 「羽林督李球……皆必死没命」; reviewed note: 蜀漢羽林督，緜竹戰死，記載明確. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, stern frontline-officer expression, middle-aged adult male, with a short dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0410",
+    "name": "蔣舒",
+    "gender": "male",
+    "role": "蜀漢陽安關守將；263年開城降鍾會",
+    "source": "a04-044",
+    "evidence": "「蔣舒開城出降，傅僉格鬬而死」(《三國志·蜀書·姜維傳》a04-044)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0410.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 蔣舒 (Jiang Shu), Shu Han officer: 陽安關守將 (garrison commander of Yang'an Pass); in 263 AD he opened the pass and surrendered to Zhong Hui while his colleague Fu Qian fought to the death. Primary source: Records of the Three Kingdoms, Shu book, Biography of Jiang Wei (a04-044): 「蔣舒開城出降，傅僉格鬬而死」; reviewed note: 陽安關守將，降魏，記載明確. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, guarded uneasy expression, middle-aged adult male, with a thin dark moustache, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0411",
+    "name": "傅僉",
+    "gender": "male",
+    "role": "蜀漢關中都督；263年守關城格鬥而死",
+    "source": "a04-044",
+    "evidence": "「傅僉格鬬而死」(《三國志·蜀書·姜維傳》a04-044)；「蜀將軍傅僉，前在關城，身拒官軍，致死不顧」(a04-045)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0411.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 傅僉 (Fu Qian), Shu Han general: son of the earlier general Fu Tong; 關中都督 (Commander of Guanzhong); in 263 AD defended the pass against Zhong Hui's forces and died fighting rather than surrender. Primary source: Records of the Three Kingdoms, Shu book, Biography of Jiang Wei (a04-044): 「傅僉格鬬而死」; a04-045: 「蜀將軍傅僉，前在關城，身拒官軍，致死不顧」; reviewed note: 傅肜之子，關城督，格鬥而死，記載充分. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure, including his father. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, fierce unyielding expression, adult male, with a full dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0412",
+    "name": "蔣斌",
+    "gender": "male",
+    "role": "蜀漢護軍；263年守漢城",
+    "source": "a04-044",
+    "evidence": "「護軍蔣斌守漢城」(《三國志·蜀書·姜維傳》a04-044)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0412.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 蔣斌 (Jiang Bin), Shu Han general: son of the minister Jiang Wan; 護軍 (Protector of the Army); in 263 AD defended Hancheng against Zhong Hui's invasion. Primary source: Records of the Three Kingdoms, Shu book, Biography of Jiang Wei (a04-044): 「護軍蔣斌守漢城」; reviewed note: 蔣琬之子，護軍守漢城，記載明確. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure, including his father. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, calm resolute expression, adult male, with a light dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]

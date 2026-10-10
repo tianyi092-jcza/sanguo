@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 124,
-  "remainingUnreviewedCount": 57,
+  "reviewedCount": 128,
+  "remainingUnreviewedCount": 53,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2173,6 +2173,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-30"
+    },
+    {
+      "id": "p0409",
+      "name": "李球",
+      "gender": "male",
+      "role": "蜀漢羽林督；263年隨諸葛瞻拒鄧艾，緜竹戰死",
+      "source": "a06-007",
+      "reviewNote": "《晉書》a06-007「羽林督李球……皆必死没命」。蜀漢羽林督，隨諸葛瞻拒鄧艾，緜竹戰死，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-31"
+    },
+    {
+      "id": "p0410",
+      "name": "蔣舒",
+      "gender": "male",
+      "role": "蜀漢陽安關守將；263年開城降鍾會",
+      "source": "a04-044",
+      "reviewNote": "《三國志·蜀書·姜維傳》a04-044「蔣舒開城出降，傅僉格鬬而死」。陽安關守將，263年降魏，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-31"
+    },
+    {
+      "id": "p0411",
+      "name": "傅僉",
+      "gender": "male",
+      "role": "蜀漢關中都督；263年守關城格鬥而死",
+      "source": "a04-044",
+      "reviewNote": "《三國志·蜀書·姜維傳》a04-044「傅僉格鬬而死」；a04-045贊「蜀將軍傅僉，前在關城，身拒官軍，致死不顧」。傅肜之子，關中都督，格鬥而死，記載充分。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父傅肜特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-31"
+    },
+    {
+      "id": "p0412",
+      "name": "蔣斌",
+      "gender": "male",
+      "role": "蜀漢護軍；263年守漢城",
+      "source": "a04-044",
+      "reviewNote": "《三國志·蜀書·姜維傳》a04-044「護軍蔣斌守漢城」；a04-028鍾會傳、a05-002華陽國志亦載。蔣琬之子，護軍守漢城，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父蔣琬特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-31"
     }
   ]
 }
