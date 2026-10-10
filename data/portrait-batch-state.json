@@ -1,19 +1,19 @@
 {
-  "batch": "portrait-batch-37",
+  "batch": "portrait-batch-38",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 445,
+  "generatedCount": 449,
   "ids": [
-    "p0437",
-    "p0438",
-    "p0439",
-    "p0440"
+    "p0441",
+    "p0442",
+    "p0443",
+    "p0444"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-37：張牛角(p0437)、于毒(p0438)、白繞(p0439)、管亥(p0440)逐人適用性複核通過（《三國志·魏書·張燕傳》a04-008 裴注引《九州春秋》/《三國志·魏書·武帝紀》a04-001/《三國志·吳書·太史慈傳》a04-049，原文已抽查核驗）；四人皆武將（黑山賊首領×3、黃巾賊將），戴頭盔、穿盔甲；均未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩29人待複核。",
+  "note": "portrait-batch-38：劉闢(p0441)、龔都(p0442)、何儀(p0443)、何曼(p0444)逐人適用性複核通過（《三國志·魏書·武帝紀》a04-001 建安元年條、《三國志·蜀書·先主傳》a04-032，原文已抽查核驗）；四人皆武將（汝南/潁川黃巾首領×3、汝南賊將×1），戴頭盔、穿盔甲；均未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩25人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
   "previousCompletedEntriesUnchanged": 437,

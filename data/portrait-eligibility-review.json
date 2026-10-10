@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 152,
-  "remainingUnreviewedCount": 29,
+  "reviewedCount": 156,
+  "remainingUnreviewedCount": 25,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2481,6 +2481,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-37"
+    },
+    {
+      "id": "p0441",
+      "name": "劉闢",
+      "gender": "male",
+      "role": "汝南黃巾首領；初應袁術，後被曹操斬；建安五年又見其叛曹應袁紹",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001 建安元年：「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之，斬辟、邵等。」《三國志·蜀書·先主傳》a04-032：「汝南黃巾劉辟等叛曹公應紹。」汝南黃巾首領，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-38"
+    },
+    {
+      "id": "p0442",
+      "name": "龔都",
+      "gender": "male",
+      "role": "汝南賊將；建安五年劉備與之合，衆數千人",
+      "source": "a04-032",
+      "reviewNote": "《三國志·蜀書·先主傳》a04-032：「紹遣先主將本兵復至汝南，與賊龔都等合，衆數千人。」汝南賊將，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-38"
+    },
+    {
+      "id": "p0443",
+      "name": "何儀",
+      "gender": "male",
+      "role": "汝南、潁川黃巾首領；建安元年降於曹操",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001 建安元年：「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之，斬辟、邵等，儀及其衆皆降。」黃巾首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-38"
+    },
+    {
+      "id": "p0444",
+      "name": "何曼",
+      "gender": "male",
+      "role": "汝南、潁川黃巾首領；建安元年被曹操討破",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001 建安元年：「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之。」黃巾首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-38"
     }
   ]
 }

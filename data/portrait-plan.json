@@ -6323,5 +6323,57 @@
     "file": "p0440.webp",
     "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 管亥 (Guan Hai). Sex male. Documentary role: late Eastern Han Yellow Turban rebel general; Records of the Three Kingdoms, Wu book vol. 4 (a04-049), biography of Taishi Ci: 「時融以黃巾寇暴，出屯都昌，為賊管亥所圍。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A fierce Yellow Turban commander with sun-darkened skin, heavy brow, and a short square-cut beard. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0441",
+    "name": "劉闢",
+    "gender": "male",
+    "role": "late Eastern Han Runan Yellow Turban leader",
+    "source": "a04-001",
+    "evidence": "《三國志·魏書·武帝紀》a04-001 建安元年：「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之，斬辟、邵等。」；《三國志·蜀書·先主傳》a04-032：「汝南黃巾劉辟等叛曹公應紹。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0441.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 劉闢 (Liu Pi). Sex male. Documentary role: late Eastern Han Runan Yellow Turban leader; Records of the Three Kingdoms, Wei book vol. 1 (a04-001), Annals of Emperor Wu, Jian'an 1: 「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之，斬辟、邵等。」; also Shu book vol. 2 (a04-032), biography of the First Ruler: 「汝南黃巾劉辟等叛曹公應紹。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A lean, wiry rebel leader with a narrow sun-browned face, high cheekbones and a wispy goatee. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0442",
+    "name": "龔都",
+    "gender": "male",
+    "role": "late Eastern Han Runan rebel chieftain",
+    "source": "a04-032",
+    "evidence": "《三國志·蜀書·先主傳》a04-032：「紹遣先主將本兵復至汝南，與賊龔都等合，衆數千人。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0442.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 龔都 (Gong Du). Sex male. Documentary role: late Eastern Han Runan rebel chieftain; Records of the Three Kingdoms, Shu book vol. 2 (a04-032), biography of the First Ruler: 「紹遣先主將本兵復至汝南，與賊龔都等合，衆數千人。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A burly, broad-jawed rebel chieftain with a heavy brow, small deep-set eyes and a short full beard. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0443",
+    "name": "何儀",
+    "gender": "male",
+    "role": "late Eastern Han Runan-Yingchuan Yellow Turban leader",
+    "source": "a04-001",
+    "evidence": "《三國志·魏書·武帝紀》a04-001 建安元年：「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之，斬辟、邵等，儀及其衆皆降。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0443.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 何儀 (He Yi). Sex male. Documentary role: late Eastern Han Runan-Yingchuan Yellow Turban leader; Records of the Three Kingdoms, Wei book vol. 1 (a04-001), Annals of Emperor Wu, Jian'an 1: 「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之，斬辟、邵等，儀及其衆皆降。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A middle-aged Yellow Turban commander with a round weathered face, deep-set watchful eyes and a sparse moustache. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0444",
+    "name": "何曼",
+    "gender": "male",
+    "role": "late Eastern Han Runan-Yingchuan Yellow Turban leader",
+    "source": "a04-001",
+    "evidence": "《三國志·魏書·武帝紀》a04-001 建安元年：「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0444.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 何曼 (He Man). Sex male. Documentary role: late Eastern Han Runan-Yingchuan Yellow Turban leader; Records of the Three Kingdoms, Wei book vol. 1 (a04-001), Annals of Emperor Wu, Jian'an 1: 「汝南、潁川黃巾何儀、劉辟、黃邵、何曼等，衆各數萬，初應袁術，又附孫堅。二月，太祖進軍討破之。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A gaunt, hard-eyed Yellow Turban officer with a long thin face, a prominent nose and a trimmed chin beard. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]
