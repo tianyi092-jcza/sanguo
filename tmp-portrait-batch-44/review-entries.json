@@ -1,0 +1,46 @@
+[
+  {
+    "id": "p0466",
+    "name": "羅市",
+    "gender": "male",
+    "role": "黑山賊首領；《九州春秋》所列諸部之一",
+    "source": "a04-008",
+    "reviewNote": "a04-008《典略》注引《九州春秋》：「……緣城、羅市、雷公、浮雲、飛燕、白爵、楊鳳、于毒等各起兵，大者二三萬，小者不減數千。」（原文已抽查核驗）。黑山賊諸部首領之一，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+    "decision": "eligible",
+    "portraitStatus": "generated",
+    "batch": "portrait-batch-44"
+  },
+  {
+    "id": "p0467",
+    "name": "孫輕",
+    "gender": "male",
+    "role": "黑山軍小帥；從張燕",
+    "source": "a04-008",
+    "reviewNote": "a04-008《典略》：「其後人衆寖廣，常山、趙郡、中山、上黨、河內諸山谷皆相通，其小帥孫輕、王當等，各以部衆從燕，衆至百萬，號曰黑山。」（原文已抽查核驗）。黑山軍小帥，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+    "decision": "eligible",
+    "portraitStatus": "generated",
+    "batch": "portrait-batch-44"
+  },
+  {
+    "id": "p0468",
+    "name": "王當",
+    "gender": "male",
+    "role": "黑山軍小帥；從張燕",
+    "source": "a04-008",
+    "reviewNote": "a04-008《典略》：「其後人衆寖廣，常山、趙郡、中山、上黨、河內諸山谷皆相通，其小帥孫輕、王當等，各以部衆從燕，衆至百萬，號曰黑山。」（原文已抽查核驗）。黑山軍小帥，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+    "decision": "eligible",
+    "portraitStatus": "generated",
+    "batch": "portrait-batch-44"
+  },
+  {
+    "id": "p0469",
+    "name": "杜長",
+    "gender": "male",
+    "role": "黑山軍將；助公孫瓚拒袁紹",
+    "source": "a04-008",
+    "reviewNote": "a04-008《典略》：「袁紹與公孫瓚爭兾州，燕遣將杜長等助瓚，與紹戰，為紹所敗，人衆稍散。」（原文已抽查核驗）。黑山軍將，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+    "decision": "eligible",
+    "portraitStatus": "generated",
+    "batch": "portrait-batch-44"
+  }
+]

@@ -6635,5 +6635,57 @@
     "file": "p0465.webp",
     "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 苦唒 (Ku You). Sex male. Documentary role: late Eastern Han Black Mountain rebel chieftain; Book of the Later Han, vol. 71 (a03-071), quoting Jiuzhou Chunqiu: 「……白繞、畦固、苦唒之徒……並起山谷閒，不可勝數」 (the Jiuzhou Chunqiu text writes his name 苦唒 as 苦蝤); also in the Dianlue note quoting Jiuzhou Chunqiu (a04-008): 「……羝根、苦蝤、劉石……等各起兵」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A triangular face tapering to a sharp pointed chin, sunken temples, thick bushy eyebrows meeting at the bridge, gaunt hollow cheeks, piercing narrow eyes, and a long drooping black mustache. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0466",
+    "name": "羅市",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain rebel chieftain",
+    "source": "a04-008",
+    "evidence": "the Dianlue note (a04-008) quoting Jiuzhou Chunqiu lists him among the rebel leaders: 「……緣城、羅市、雷公、浮雲、飛燕、白爵、楊鳳、于毒等各起兵，大者二三萬，小者不減數千。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0466.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 羅市 (Luo Shi). Sex male. Documentary role: late Eastern Han Black Mountain rebel chieftain; the Dianlue note (a04-008) quoting Jiuzhou Chunqiu lists him among the rebel leaders: 「……緣城、羅市、雷公、浮雲、飛燕、白爵、楊鳳、于毒等各起兵，大者二三萬，小者不減數千。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A plain rectangular face with a wide forehead, thick straight eyebrows, ordinary even-set eyes, a broad nose and full lips, weathered sun-darkened skin, and a short neat black beard. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0467",
+    "name": "孫輕",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain minor commander",
+    "source": "a04-008",
+    "evidence": "a04-008: 「其小帥孫輕、王當等，各以部眾從燕，眾至百萬，號曰黑山。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0467.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 孫輕 (Sun Qing). Sex male. Documentary role: late Eastern Han Black Mountain minor commander; a04-008: 「其小帥孫輕、王當等，各以部眾從燕，眾至百萬，號曰黑山。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A round face with soft full cheeks, a small straight nose, thin lips in a neutral line, calm heavy-lidded eyes, clean-shaven with light stubble along the jaw. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0468",
+    "name": "王當",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain minor commander",
+    "source": "a04-008",
+    "evidence": "a04-008: 「其小帥孫輕、王當等，各以部眾從燕，眾至百萬，號曰黑山。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0468.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 王當 (Wang Dang). Sex male. Documentary role: late Eastern Han Black Mountain minor commander; a04-008: 「其小帥孫輕、王當等，各以部眾從燕，眾至百萬，號曰黑山。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A long oval face with a high narrow forehead, sparse thin eyebrows, deep-set watchful eyes, a straight narrow nose, a tight thin mouth, and a sparse wispy goatee. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0469",
+    "name": "杜長",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain general under Zhang Yan",
+    "source": "a04-008",
+    "evidence": "a04-008: 「燕遣將杜長等助瓚，與紹戰，為紹所敗。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0469.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 杜長 (Du Chang). Sex male. Documentary role: late Eastern Han Black Mountain general under Zhang Yan; a04-008: 「燕遣將杜長等助瓚，與紹戰，為紹所敗。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A square heavy face with a strong chin and broad cheekbones, small deep-set eyes under a heavy brow, a wide nose, and a short full black beard covering the jaw. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]
