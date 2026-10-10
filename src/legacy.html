@@ -103,6 +103,7 @@ main{flex:1;position:relative;overflow:hidden}
 #tbl thead th{background:var(--paper-deep);font-weight:600;white-space:nowrap}
 #tbl tbody tr:nth-child(even){background:#efece2}
 #tbl tbody tr:hover{background:#e7e3d5}
+#tbl tr.zhou-row td{background:#e2dcc8;font-weight:700;color:var(--paper-ink)}
 table{width:100%;border-collapse:collapse;font-size:13px}
 th{position:sticky;top:0;background:#232b37;color:#d8cfb8;padding:8px 10px;text-align:left;font-weight:600;z-index:2}
 td{padding:6px 10px;border-bottom:1px solid #232b37;color:var(--ink2)}
@@ -661,13 +662,28 @@ function gotoPerson(p){
   }else openPerson(p);
 }
 
-/* ================= 郡县表 ================= */
+/* ================= 郡县表（按州分组） ================= */
 function renderTbl(){
   const tb=document.querySelector("#tbl tbody");
   const draw=()=>{
     const v=$("#tblQ").value.trim();
-    tb.innerHTML=DATA.cmd.filter(c=>!v||c.n.includes(v)||c.seat.includes(v)||c.mod.includes(v))
-      .map(c=>`<tr><td>${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`).join("");
+    const nq = typeof normalizeSearch==='function' ? normalizeSearch(v) : v;
+    const match=c=>!nq||normalizeSearch(c.n+c.seat+c.mod).includes(nq);
+    let html='';
+    for(const z of ZHOU_ORDER){
+      const cmds=DATA.cmd.filter(c=>CMD_ZHOU[c.n]===z&&match(c));
+      if(!cmds.length) continue;
+      html+=`<tr class="zhou-row"><td colspan="6">【${esc(z)}】</td></tr>`;
+      for(const c of cmds){
+        html+=`<tr><td>　${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
+      }
+    }
+    // 未归属州的郡国（容错）
+    const rest=DATA.cmd.filter(c=>!CMD_ZHOU[c.n]&&match(c));
+    for(const c of rest){
+      html+=`<tr><td>${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
+    }
+    tb.innerHTML=html;
   };
   $("#tblQ").addEventListener("input",draw);draw();
 }
