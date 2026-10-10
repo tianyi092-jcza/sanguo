@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-35",
+  "batch": "portrait-batch-36",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 437,
+  "generatedCount": 441,
   "ids": [
-    "p0429",
-    "p0430",
-    "p0431",
-    "p0432"
+    "p0433",
+    "p0434",
+    "p0435",
+    "p0436"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-35：趙韙(p0429)、龐羲(p0430)、嚴綱(p0431)、公孫越(p0432)逐人適用性複核通過（《三國志·蜀書·劉焉劉璋傳》a04-031 / 《三國志·魏書·公孫瓚傳》a04-008，原文已抽查核驗）；四人皆武將（征東中郎將/巴西太守領兵/公孫瓚部將/公孫瓚之弟從軍），戴頭盔、穿盔甲；均未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩37人待複核。",
+  "note": "portrait-batch-36：薛蘭(p0433)、李封(p0434)、李乾(p0435)、衛茲(p0436)逐人適用性複核通過（《三國志·魏書·武帝紀》a04-001 / 《三國志·魏書·李典傳》a04-018，原文已抽查核驗）；四人皆武將（呂布別駕領兵/呂布治中領兵/曹操軍將/張邈部將），戴頭盔、穿盔甲；均未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩33人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 433,
+  "previousCompletedEntriesUnchanged": 437,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 37,
+  "unlistedPortraitPeople": 33,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }

@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 144,
-  "remainingUnreviewedCount": 37,
+  "reviewedCount": 148,
+  "remainingUnreviewedCount": 33,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2393,6 +2393,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-35"
+    },
+    {
+      "id": "p0433",
+      "name": "薛蘭",
+      "gender": "male",
+      "role": "呂布別駕，領兵屯鉅野，195 年兵敗被曹操斬",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001「夏，布將薛蘭、李封屯鉅野，太祖攻之，布救蘭，蘭敗，布走，遂斬蘭等」。記載明確。eligible，武將（呂布別駕而領兵屯守作戰），戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-36"
+    },
+    {
+      "id": "p0434",
+      "name": "李封",
+      "gender": "male",
+      "role": "呂布治中，領兵屯鉅野，195 年兵敗被斬",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001「夏，布將薛蘭、李封屯鉅野，太祖攻之，布救蘭，蘭敗，布走，遂斬蘭等」。記載明確。eligible，武將（呂布治中而領兵屯守作戰），戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-36"
+    },
+    {
+      "id": "p0435",
+      "name": "李乾",
+      "gender": "male",
+      "role": "李典從父，曹操軍將；合賓客數千家，破黃巾、擊袁術、征徐州，拒呂布招誘被殺",
+      "source": "a04-018",
+      "reviewNote": "《三國志·魏書·李典傳》a04-018「典從父乾，有雄氣，合賓客數千家在乘氏。初平中，以衆隨太祖，破黃巾於壽張，又從擊袁術，征徐州。……乾不聽，遂殺乾」。記載明確。eligible，武將（曹操軍將，拒呂布招誘被殺），戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-36"
+    },
+    {
+      "id": "p0436",
+      "name": "衛茲",
+      "gender": "male",
+      "role": "張邈部將；分兵隨曹操討董卓，滎陽汴水戰徐榮不利",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001「邈遣將衞茲分兵隨太祖。到熒陽汴水，遇卓將徐榮，與戰不利，士卒死傷甚多」。記載明確。eligible，武將（張邈部將，分兵助曹），戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-36"
     }
   ]
 }
