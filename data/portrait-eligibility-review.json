@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 108,
-  "remainingUnreviewedCount": 73,
+  "reviewedCount": 112,
+  "remainingUnreviewedCount": 69,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1997,6 +1997,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-26"
+    },
+    {
+      "id": "p0373",
+      "name": "王雙",
+      "gender": "male",
+      "role": "魏將軍；建興六年（228）追擊諸葛亮，戰死祁山",
+      "source": "a04-033",
+      "reviewNote": "《三國志·蜀書·後主傳》載「魏將王雙率軍追亮，亮與戰，破之，斬雙」；領兵武將身份明確，記載足夠。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵（不使用演義兵器和誇功情節）。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-27"
+    },
+    {
+      "id": "p0374",
+      "name": "文鴦",
+      "gender": "male",
+      "role": "文欽之子（本名文俶，小名鴦）；勇力絕人，258年歸魏為將軍，晉太康中為東夷校尉",
+      "source": "a04-028",
+      "reviewNote": "《三國志·魏書·王毌丘諸葛鄧鍾傳》載「欽中子俶，小名鴦。年尚幼，勇力絕人」「表鴦、虎為將軍，各賜爵關內侯」「俶後為將軍，破涼州虜，名聞天下」；將軍身份明確，記載詳足。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-27"
+    },
+    {
+      "id": "p0375",
+      "name": "文虎",
+      "gender": "male",
+      "role": "文欽幼子；守壽春，258年與兄同歸魏，拜將軍、關內侯",
+      "source": "a04-028",
+      "reviewNote": "《三國志·魏書·王毌丘諸葛鄧鍾傳》載「欽子鴦及虎將兵在小城中」「表鴦、虎為將軍，各賜爵關內侯」；將軍身份明確，記載足夠。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其兄文鴦之特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-27"
+    },
+    {
+      "id": "p0379",
+      "name": "成濟",
+      "gender": "male",
+      "role": "魏太子舍人、賈充帳下督；260年於雲龍門刺魏帝曹髦",
+      "source": "a04-004",
+      "reviewNote": "《三國志·魏書·三少帝紀》載「太子舍人成濟問充曰：『事急矣。當云何？』」「騎督成倅弟成濟以矛進，帝崩于師」；軍職（帳下督）身份明確，記載足夠。eligible，武將（軍職），戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-27"
     }
   ]
 }

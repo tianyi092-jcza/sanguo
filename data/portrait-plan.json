@@ -5835,5 +5835,57 @@
     "generator": "built-in imagegen",
     "file": "p0372.webp",
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 郝昭 (Hao Zhao), male Cao Wei general, famed defender of the Chencang fortress under Emperor Ming. Primary source: Records of the Three Kingdoms, Wei book vol. 3 (a04-003): 「遣將軍郝昭、鹿磐討斬之」; reviewed note: 魏明帝時將軍守陳倉. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, vigilant steely expression, middle-aged adult male general with a firm short moustache, visibly different face from the style reference individuals and from the other general of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0373",
+    "name": "王雙",
+    "gender": "male",
+    "role": "魏將軍；建興六年（228）追擊諸葛亮，戰死祁山",
+    "source": "a04-033",
+    "evidence": "「魏將王雙率軍追亮，亮與戰，破之，斬雙。」(《三國志·蜀書·後主傳》)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0373.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 王雙 (Wang Shuang), male Cao Wei general who pursued Zhuge Liang's retreating army and was killed in battle in 228 AD. Primary source: Records of the Three Kingdoms, Shu book vol. 3, Biography of the Later Ruler (a04-033): 「魏將王雙率軍追亮，亮與戰，破之，斬雙」; reviewed note: 魏將追諸葛亮而戰死；不使用演義兵器和誇功情節. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, stern battle-hardened expression, middle-aged adult male general with a short firm dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0374",
+    "name": "文鴦",
+    "gender": "male",
+    "role": "文欽之子（本名文俶，小名鴦）；勇力絕人，258年歸魏為將軍，晉太康中為東夷校尉",
+    "source": "a04-028",
+    "evidence": "「欽中子俶，小名鴦。年尚幼，勇力絕人。」；「表鴦、虎為將軍，各賜爵關內侯。」(《三國志·魏書·王毌丘諸葛鄧鍾傳》；「俶後為將軍，破涼州虜，名聞天下。」)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0374.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 文鴦 (Wen Yang), male general whose personal name was 文俶, son of Wen Qin, famed for extraordinary strength and courage from youth; he defected back to Cao Wei in 258 AD, was made a general, and later as a Jin general won fame defeating the Liangzhou rebels (「破涼州虜，名聞天下」), serving as Eastern Yi Colonel in the Taikang era. Primary source: Records of the Three Kingdoms, Wei book vol. 28 (a04-028), Wang-Guanqiu-Zhuge-Deng-Zhong biographies: 「欽中子俶，小名鴦。年尚幼，勇力絕人」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, youthful fierce resolute expression, young adult male general with a lean vigorous face and a light short moustache, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0375",
+    "name": "文虎",
+    "gender": "male",
+    "role": "文欽幼子；守壽春，258年與兄同歸魏，拜將軍、關內侯",
+    "source": "a04-028",
+    "evidence": "「欽子鴦及虎將兵在小城中」；「表鴦、虎為將軍，各賜爵關內侯。」(《三國志·魏書·王毌丘諸葛鄧鍾傳》)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0375.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 文虎 (Wen Hu), male Cao Wei general, younger son of Wen Qin and younger brother of Wen Yang; he held Shoucheng with his brother during the Shouchun campaign, surrendered to Wei in 258 AD, and was appointed a general with the marquisate of Guanneihou. Primary source: Records of the Three Kingdoms, Wei book vol. 28 (a04-028), Wang-Guanqiu-Zhuge-Deng-Zhong biographies: 「表鴦、虎為將軍，各賜爵關內侯」; reviewed note: 吳援軍隨父守壽春→258年魏將軍；不套用其兄文鴦之特徵. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, earnest composed expression, young adult male general with a slightly rounder youthful face and a thin short moustache, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0379",
+    "name": "成濟",
+    "gender": "male",
+    "role": "魏太子舍人、賈充帳下督；260年於雲龍門刺魏帝曹髦",
+    "source": "a04-004",
+    "evidence": "「太子舍人成濟問充曰：『事急矣。當云何？』」；「騎督成倅弟成濟以矛進，帝崩于師。」(《三國志·魏書·三少帝紀》)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0379.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 成濟 (Cheng Ji), male Cao Wei military officer, palace attendant and Jia Chong's battalion commander (帳下督); the officer who struck down Emperor Cao Mao at the Yunlong Gate in 260 AD. Primary source: Records of the Three Kingdoms, Wei book vol. 4, Annals of the Three Minor Emperors (a04-004): 「太子舍人成濟問充曰：『事急矣。當云何？』」and 「騎督成倅弟成濟以矛進，帝崩于師」; reviewed note: 魏時太子舍人、賈充帳下督，260年即死. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, cold steely decisive expression, adult male officer with a lean tense face and a trimmed moustache, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
   }
 ]
