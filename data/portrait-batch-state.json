@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-32",
+  "batch": "portrait-batch-33",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 425,
+  "generatedCount": 429,
   "ids": [
-    "p0413",
-    "p0414",
-    "p0415",
-    "p0417"
+    "p0418",
+    "p0420",
+    "p0422",
+    "p0423"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-32：關統(p0413)、諸葛融(p0414)、朱異(p0415)、全尚(p0417)逐人適用性複核通過（《三國志》a04-036 關羽傳裴注引蜀記 / a04-056 吳書 / a04-050 吳書，引文已抽查核驗）；四人皆領兵武將（虎賁中郎將、鎭東將軍、鎭南將軍/假節大都督、衞將軍），戴頭盔、穿盔甲；未核得五官特徵，採普通比例藝術示意，未套用他人特徵（含父輩）；120×120頭像本地導入完成未推送；173人名單剩49人待複核。",
+  "note": "portrait-batch-33：全紀(p0418)、岑昏(p0420)、竇武(p0422)、郭泰(p0423)逐人適用性複核通過（《三國志·吳書》a04-064 裴注引江表傳 / a04-048 / 《後漢書》a03-069 竇武傳 / a03-068 郭太傳，引文已抽查核驗）；竇武為東漢大將軍，戴頭盔、穿盔甲；全紀為吳黃門侍郎、岑昏為孫皓朝臣、郭泰為名儒隱士（後漢書載身長八尺、容貌魁偉、襃衣博帶），均著文士服飾；未核得五官特徵，採普通比例藝術示意，未套用他人特徵（含全尚）；120×120頭像本地導入完成未推送；173人名單剩45人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 421,
+  "previousCompletedEntriesUnchanged": 425,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 53,
+  "unlistedPortraitPeople": 45,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }

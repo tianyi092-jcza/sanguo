@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 132,
-  "remainingUnreviewedCount": 49,
+  "reviewedCount": 136,
+  "remainingUnreviewedCount": 45,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2261,6 +2261,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-32"
+    },
+    {
+      "id": "p0418",
+      "name": "全紀",
+      "gender": "male",
+      "role": "孫吳黃門侍郎；全尚之子，參與孫亮密謀誅孫綝",
+      "source": "a04-064",
+      "reviewNote": "《三國志·吳書》裴注引江表傳 a04-064「亮召全尚息黃門侍郎紀密謀」。全尚之子，孫吳黃門侍郎，參與孫亮密謀誅孫綝，記載明確。eligible，文官（宮廷侍從），著文士服飾。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父全尚特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-33"
+    },
+    {
+      "id": "p0420",
+      "name": "岑昏",
+      "gender": "male",
+      "role": "孫吳孫皓朝臣；280年被殿中親近所殺",
+      "source": "a04-048",
+      "reviewNote": "《三國志·吳書》a04-048「三月丙寅，殿中親近數百人叩頭請皓殺岑昏……已屠之也」。孫皓朝臣（宮廷寵臣），280年為殿中親近所殺，記載明確；未證演義所稱十常侍，不由小說授職。eligible，文官（宮廷朝臣），著文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-33"
+    },
+    {
+      "id": "p0422",
+      "name": "竇武",
+      "gender": "male",
+      "role": "東漢外戚、大將軍；168年扶立靈帝，同年被宦官所殺",
+      "source": "a03-069",
+      "reviewNote": "《後漢書·竇武傳》a03-069「拜武為大將軍，常居禁中」。漢外戚，168年扶立靈帝任大將軍，同年死，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-33"
+    },
+    {
+      "id": "p0423",
+      "name": "郭泰",
+      "gender": "male",
+      "role": "東漢名儒、隱士（郭林宗）；不仕，弟子以千數",
+      "source": "a03-068",
+      "reviewNote": "《後漢書·郭太傳》a03-068「身長八尺，容貌魁偉，襃衣博帶……弟子以千數」。東漢名儒隱士，徵辟不應，記載明確；非白波軍郭泰。eligible，隱士文士，著襃衣博帶文士服飾。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-33"
     }
   ]
 }
