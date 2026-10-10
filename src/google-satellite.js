@@ -85,8 +85,8 @@ class GoogleSatelliteLayer{
   async getSession(){
     if(this.session&&this.session.expiry>Date.now()+60000)return this.session;
     if(this.pendingSession)return this.pendingSession;
-    const query=new URLSearchParams({key:this.config.apiKey});
-    this.pendingSession=requestGoogleJson("https://tile.googleapis.com/v1/createSession?"+query,{
+    // 经 Cloudflare Worker 代理，API Key 由服务端注入，前端不再携带
+    this.pendingSession=requestGoogleJson("/api/gtiles/session",{
       method:"POST",headers:{"Content-Type":"application/json"},
       body:JSON.stringify({mapType:"satellite",language:this.config.language,region:this.config.region})
     }).then(data=>{
@@ -122,10 +122,10 @@ class GoogleSatelliteLayer{
     try{
       const session=await this.getSession();
       if(!this.active||revision!==this.revision)return;
-      const query=new URLSearchParams({key:this.config.apiKey,session:session.token,zoom:String(frame.z)});
+      const query=new URLSearchParams({session:session.token,zoom:String(frame.z)});
       for(const [key,value]of Object.entries(googleViewportBounds(frame)))query.set(key,String(value));
       this.viewportController=new AbortController();
-      const metadata=await requestGoogleJson("https://tile.googleapis.com/tile/v1/viewport?"+query,{},this.viewportController);
+      const metadata=await requestGoogleJson("/api/gtiles/viewport?"+query,{},this.viewportController);
       if(!this.active||revision!==this.revision)return;
       if(typeof metadata.copyright!=="string"||!metadata.copyright||!Array.isArray(metadata.maxZoomRects))throw new Error("Missing Google Maps attribution");
       $("#googleCopyright").textContent=metadata.copyright;$("#mapAttribution").hidden=false;
@@ -167,8 +167,8 @@ class GoogleSatelliteLayer{
           }
           record.failed=true;img.style.visibility="hidden";this.updateStatus();
         };
-        const query=new URLSearchParams({session:session.token,key:this.config.apiKey});
-        img.src="https://tile.googleapis.com/v1/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+query;
+        const query=new URLSearchParams({session:session.token});
+        img.src="/api/gtiles/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+query;
         $("#googleMapTiles").appendChild(img);
       }
       this.position(record,frame);
@@ -196,9 +196,10 @@ class GoogleSatelliteLayer{
 }
 const googleSatellite=new GoogleSatelliteLayer(MAP_CONFIG.googleMaps);
 function configureGoogleMapOption(){
+  // API Key 已移至 Worker 服务端，前端不再校验，始终启用
   const option=$("#baseSel").querySelector('option[value="google"]');
-  option.disabled=!googleSatellite.config.apiKey;
-  option.textContent=option.disabled?"底圖：Google 衛星（未啟用）":"底圖：Google 衛星";
+  option.disabled=false;
+  option.textContent="底圖：Google 衛星";
 }
 function renderGoogleSatellite(){
   const wrap=$("#mapWrap"),frame=googleViewport(view,wrap.clientWidth,wrap.clientHeight);
