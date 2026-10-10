@@ -5887,5 +5887,57 @@
     "generator": "built-in imagegen",
     "file": "p0379.webp",
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 成濟 (Cheng Ji), male Cao Wei military officer, palace attendant and Jia Chong's battalion commander (帳下督); the officer who struck down Emperor Cao Mao at the Yunlong Gate in 260 AD. Primary source: Records of the Three Kingdoms, Wei book vol. 4, Annals of the Three Minor Emperors (a04-004): 「太子舍人成濟問充曰：『事急矣。當云何？』」and 「騎督成倅弟成濟以矛進，帝崩于師」; reviewed note: 魏時太子舍人、賈充帳下督，260年即死. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, cold steely decisive expression, adult male officer with a lean tense face and a trimmed moustache, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0393",
+    "name": "糜芳",
+    "gender": "male",
+    "role": "蜀南郡太守；219年叛劉備降孫權，223年督兵襲蘄春",
+    "source": "a04-045",
+    "evidence": "「糜芳字子方，東海人也，為南郡太守。」(《三國志》a04-045 贊)；「權令將軍賀齊督糜芳、劉邵等襲蘄春」(a04-047)；呂蒙傳載降吳(a04-054)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0393.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 糜芳 (Mi Fang), Shu general and Administrator of Nan Commandery who surrendered to Sun Wu in 219 AD and later led troops in the 223 attack on Qichun. Primary source: Records of the Three Kingdoms, Wu book (a04-045): 「糜芳字子方，東海人也，為南郡太守」; reviewed note: 蜀南郡太守，219年叛劉備降孫權，223年督兵襲蘄春；領兵武將. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, stern weathered commander expression, middle-aged adult male general with a short firm dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0394",
+    "name": "傅士仁",
+    "gender": "male",
+    "role": "蜀將軍，住公安統屬關羽；219年叛迎孫權",
+    "source": "a04-045",
+    "evidence": "「士仁字君義，廣陽人也，為將軍，住公安，統屬關羽；與羽有隙，叛迎孫權。」(《三國志》a04-045 贊)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0394.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 傅士仁 (Fu Shiren), Shu general stationed at Gong'an under Guan Yu who defected to Sun Quan in 219 AD. Primary source: Records of the Three Kingdoms, Wu book (a04-045): 「士仁字君義，廣陽人也，為將軍，住公安，統屬關羽；與羽有隙，叛迎孫權」; reviewed note: 蜀將軍，住公安統屬關羽，219年叛迎孫權；領兵武將. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, resolute hardened general expression, adult male with a short trimmed dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0396",
+    "name": "陳祗",
+    "gender": "male",
+    "role": "蜀侍中；代董允為侍中，與黃皓互相表裏",
+    "source": "a04-039",
+    "evidence": "「陳祗代允為侍中，與黃皓互相表裏，皓始預政事。」(《三國志·蜀書·董劉馬陳董呂傳》a04-039)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0396.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 陳祗 (Chen Zhi), Shu court official who succeeded Dong Yun as Palace Attendant and allied with the eunuch Huang Hao. Primary source: Records of the Three Kingdoms, Shu book (a04-039): 「陳祗代允為侍中，與黃皓互相表裏，皓始預政事」; reviewed note: 蜀侍中，文官. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Dress him in a simple dark cross-collared scholar's robe with a period-appropriate official's cloth cap, no armour, no helmet, no weapon, composed shrewd courtier expression, middle-aged adult male with a neat thin moustache, visibly different face from the style reference individuals and from the other officials of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
+  },
+  {
+    "id": "p0397",
+    "name": "董厥",
+    "gender": "male",
+    "role": "蜀尚書令；丞相亮府令史起家，代陳祗為尚書令",
+    "source": "a04-035",
+    "evidence": "「董厥者，丞相亮時為府令史……代陳祗為尚書令」；「董厥字龔襲」(《三國志·蜀書·諸葛亮傳》注引a04-035)",
+    "appearance": "",
+    "status": "generated",
+    "generator": "built-in imagegen",
+    "file": "p0397.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 董厥 (Dong Jue), Shu senior official who rose from Registrar of Chancellor Zhuge Liang's office to Prefect of the Masters of Writing. Primary source: Records of the Three Kingdoms, Shu book (a04-035): 「董厥者，丞相亮時為府令史……代陳祗為尚書令」; 「董厥字龔襲」; reviewed note: 蜀尚書令，文官. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Dress him in a simple dark cross-collared scholar's robe with a period-appropriate official's cloth cap, no armour, no helmet, no weapon, dignified prudent senior official expression, older adult male with a short grey-streaked beard, visibly different face from the style reference individuals and from the other officials of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness."
   }
 ]

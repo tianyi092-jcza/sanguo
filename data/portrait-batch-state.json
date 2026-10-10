@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-27",
+  "batch": "portrait-batch-28",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 405,
+  "generatedCount": 409,
   "ids": [
-    "p0373",
-    "p0374",
-    "p0375",
-    "p0379"
+    "p0393",
+    "p0394",
+    "p0396",
+    "p0397"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-27：王雙(p0373)、文鴦(p0374)、文虎(p0375)、成濟(p0379)逐人適用性複核通過（《三國志·蜀書·後主傳》a04-033 / 《三國志·魏書·王毌丘諸葛鄧鍾傳》a04-028 / 《三國志·魏書·三少帝紀》a04-004，引文已抽查核驗），四人皆為領兵武將（王雙228年追諸葛亮戰死；文鴦勇力絕人、破涼州虜名聞天下；文虎隨兄守壽春、同歸魏拜將軍；成濟為賈充帳下督軍職），戴頭盔、穿盔甲；未核得五官特徵，採普通比例藝術示意，未套用他人特徵（文虎未套用其兄文鴦特徵）；120×120頭像本地導入完成未推送；173人名單剩69人待複核。",
+  "note": "portrait-batch-28：糜芳(p0393)、傅士仁(p0394)、陳祗(p0396)、董厥(p0397)逐人適用性複核通過（《三國志》a04-045 贊 / a04-047 吳主傳 / a04-054 呂蒙傳 / a04-039 董劉馬陳董呂傳 / a04-035 諸葛亮傳注，引文已抽查核驗），糜芳、傅士仁為領兵武將（南郡太守督兵襲蘄春；明載「為將軍」），戴頭盔、穿盔甲；陳祗、董厥為文官（侍中、尚書令），文士服飾；未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩65人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 401,
+  "previousCompletedEntriesUnchanged": 405,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 81,
+  "unlistedPortraitPeople": 65,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }
