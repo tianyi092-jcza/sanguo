@@ -5627,5 +5627,57 @@
     "file": "p0344.webp",
     "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han civil dress: right-lapped cross collar, plain dark civilian guan or modest cloth headwrap, no armour, helmet, Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 劉度; gender male; role male civil official, 零陵太守，劉備南征荊南四郡時率眾歸降，Late Eastern Han. Verified historical excerpt: 先主表琦為荊州刺史，又南征四郡。武陵太守金旋、長沙太守韓玄、桂陽太守趙範、零陵太守劉度皆降。(《三國志·蜀書·先主傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Liu Du: elderly Han Chinese civil governor, round deeply lined face, sparse white beard and moustache, weary mild dignified expression looking straight at the viewer. Plain dark civilian guan and muted brown cross-collared robe, unarmoured shoulders.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0345",
+    "name": "劉勳",
+    "gender": "male",
+    "role": "袁術故吏；為廬江太守，率眾降魏、封列侯",
+    "source": "a04-001",
+    "evidence": "「廬江太守劉勳率衆降，封為列侯」(《三國志·魏書·武帝紀》建安四年)；「術復用其故吏劉勳為太守」(《三國志·吳書·孫策傳》)",
+    "appearance": "",
+    "status": "generated",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 劉勳; gender male; role male military general, 袁術故吏；為廬江太守，率眾降魏、封列侯, Late Eastern Han. Verified historical excerpt: 「廬江太守劉勳率衆降，封為列侯」(《三國志·魏書·武帝紀》建安四年)；「術復用其故吏劉勳為太守」(《三國志·吳書·孫策傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Liu Xun: middle-aged Han Chinese general, stern rectangular weathered face, heavy straight eyebrows, short dark full beard and moustache, resolute steady expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "file": "p0345.webp",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0346",
+    "name": "橋蕤",
+    "gender": "male",
+    "role": "袁術部將；術棄軍走時留蕤守軍，後為曹操所破斬",
+    "source": "a04-001",
+    "evidence": "「留其將橋蕤、李豐、梁綱、樂就；公到，擊破蕤等，皆斬之」(《三國志·魏書·武帝紀》建安二年)",
+    "appearance": "",
+    "status": "generated",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 橋蕤; gender male; role male military general, 袁術部將；術棄軍走時留蕤守軍，後為曹操所破斬, Late Eastern Han. Verified historical excerpt: 「留其將橋蕤、李豐、梁綱、樂就；公到，擊破蕤等，皆斬之」(《三國志·魏書·武帝紀》建安二年). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Qiao Rui: early middle-aged Han Chinese general, hard angular face, thick slanted dark eyebrows, short dark goatee, tense wary expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "file": "p0346.webp",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0347",
+    "name": "樊能",
+    "gender": "male",
+    "role": "劉繇部將；與于麋屯橫江津以拒袁術，後為孫策所破",
+    "source": "a04-046",
+    "evidence": "「繇遣樊能、于麋屯橫江津…以距術」(《三國志·吳書·孫策傳》)；「策聞之，還攻破能等，獲男女萬餘人」(同上)",
+    "appearance": "",
+    "status": "generated",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 樊能; gender male; role male military general, 劉繇部將；與于麋屯橫江津以拒袁術，後為孫策所破, Late Eastern Han. Verified historical excerpt: 「繇遣樊能、于麋屯橫江津…以距術」(《三國志·吳書·孫策傳》)；「策聞之，還攻破能等，獲男女萬餘人」(同上). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Fan Neng: middle-aged Han Chinese general, long narrow rugged face, bushy dark eyebrows, rough short dark beard, grim alert expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "file": "p0347.webp",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0348",
+    "name": "于糜",
+    "gender": "male",
+    "role": "劉繇部將；與樊能同屯橫江津以拒袁術，後為孫策所破（語料作「于麋」）",
+    "source": "a04-046",
+    "evidence": "「繇遣樊能、于麋屯橫江津…以距術」(《三國志·吳書·孫策傳》)；「策聞之，還攻破能等，獲男女萬餘人」(同上)",
+    "appearance": "",
+    "status": "generated",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 于糜; gender male; role male military general, 劉繇部將；與樊能同屯橫江津以拒袁術，後為孫策所破（語料作「于麋」）, Late Eastern Han. Verified historical excerpt: 「繇遣樊能、于麋屯橫江津…以距術」(《三國志·吳書·孫策傳》)；「策聞之，還攻破能等，獲男女萬餘人」(同上). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Yu Mi: young middle-aged Han Chinese general, round sturdy face, straight medium eyebrows, light short dark moustache and beard, determined expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "file": "p0348.webp",
+    "generator": "built-in imagegen"
   }
 ]

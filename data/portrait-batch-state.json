@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-22",
+  "batch": "portrait-batch-23",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 385,
+  "generatedCount": 389,
   "ids": [
-    "p0340",
-    "p0341",
-    "p0343",
-    "p0344"
+    "p0345",
+    "p0346",
+    "p0347",
+    "p0348"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-22：李樂(p0340)、韓玄(p0341)、趙範(p0343)、劉度(p0344)逐人適用性複核通過（《三國志·董二袁劉傳》a04-006 / 《三國志·蜀書·先主傳》a04-032 引文已抽查核驗），李樂為河東故白波帥、領兵武將，戴頭盔、穿盔甲；韓玄、趙範、劉度為荊南三郡太守（文官），着文士服飾、戴文士冠；未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩89人待複核。",
+  "note": "portrait-batch-23：劉勳(p0345)、橋蕤(p0346)、樊能(p0347)、于糜(p0348)逐人適用性複核通過（《三國志·魏書·武帝紀》a04-001 / 《三國志·吳書·孫策傳》a04-046 引文已抽查核驗），四人皆為領兵武將（劉勳為袁術故吏、廬江太守，橋蕤為袁術部將，樊能、于糜為劉繇部將；于糜語料作「于麋」），戴頭盔、穿盔甲；未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩85人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 349,
+  "previousCompletedEntriesUnchanged": 385,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 89,
+  "unlistedPortraitPeople": 85,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }

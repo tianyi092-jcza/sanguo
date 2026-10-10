@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 92,
-  "remainingUnreviewedCount": 89,
+  "reviewedCount": 96,
+  "remainingUnreviewedCount": 85,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1821,6 +1821,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-22"
+    },
+    {
+      "id": "p0345",
+      "name": "劉勳",
+      "gender": "male",
+      "role": "袁術故吏；為廬江太守，率眾降魏、封列侯",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》建安四年條載「廬江太守劉勳率衆降，封為列侯」；《三國志·吳書·孫策傳》載袁術「復用其故吏劉勳為太守」。率部降魏、封列侯，領兵武將身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-23"
+    },
+    {
+      "id": "p0346",
+      "name": "橋蕤",
+      "gender": "male",
+      "role": "袁術部將；術棄軍走時留守，後為曹操所破斬",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》建安二年條載曹操南征袁術：「留其將橋蕤、李豐、梁綱、樂就；公到，擊破蕤等，皆斬之」。袁術部將身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-23"
+    },
+    {
+      "id": "p0347",
+      "name": "樊能",
+      "gender": "male",
+      "role": "劉繇部將；屯橫江津以拒袁術，後為孫策所破",
+      "source": "a04-046",
+      "reviewNote": "《三國志·吳書·孫策傳》載「繇遣樊能、于麋屯橫江津…以距術」，後「策聞之，還攻破能等，獲男女萬餘人」。劉繇部將、領兵屯守身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-23"
+    },
+    {
+      "id": "p0348",
+      "name": "于糜",
+      "gender": "male",
+      "role": "劉繇部將；與樊能同屯橫江津以拒袁術，後為孫策所破",
+      "source": "a04-046",
+      "reviewNote": "《三國志·吳書·孫策傳》載「繇遣樊能、于麋屯橫江津…以距術」，後「策聞之，還攻破能等，獲男女萬餘人」（語料作「于麋」）。劉繇部將、領兵屯守身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-23"
     }
   ]
 }
