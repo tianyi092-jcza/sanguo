@@ -4,31 +4,6 @@
 
 const GOOGLE_TILE_HOST = 'https://tile.googleapis.com';
 
-// 并发控制器：限制同时向 Google 发起的请求数，避免 429
-const MAX_CONCURRENT_GOOGLE = 4;
-let activeGoogleRequests = 0;
-const googleQueue = [];
-function acquireGoogleSlot() {
-  if (activeGoogleRequests < MAX_CONCURRENT_GOOGLE) {
-    activeGoogleRequests++;
-    return Promise.resolve();
-  }
-  return new Promise(resolve => googleQueue.push(resolve));
-}
-function releaseGoogleSlot() {
-  activeGoogleRequests--;
-  const next = googleQueue.shift();
-  if (next) { activeGoogleRequests++; next(); }
-}
-async function fetchGoogle(url, options) {
-  await acquireGoogleSlot();
-  try {
-    return await fetch(url, options);
-  } finally {
-    releaseGoogleSlot();
-  }
-}
-
 async function proxyGoogle(request, env, ctx) {
   const url = new URL(request.url);
   const apiKey = env.GOOGLE_MAPS_API_KEY;
@@ -42,7 +17,7 @@ async function proxyGoogle(request, env, ctx) {
   // /api/gtiles/session → POST https://tile.googleapis.com/v1/createSession?key=...
   if (url.pathname === '/api/gtiles/session' && request.method === 'POST') {
     const body = await request.text();
-    const resp = await fetchGoogle(`${GOOGLE_TILE_HOST}/v1/createSession?key=${encodeURIComponent(apiKey)}`, {
+    const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/createSession?key=${encodeURIComponent(apiKey)}`, {
       method: 'POST',
       headers: {
         'content-type': 'application/json',
@@ -64,7 +39,7 @@ async function proxyGoogle(request, env, ctx) {
   if (url.pathname === '/api/gtiles/viewport') {
     const params = new URLSearchParams(url.search);
     params.set('key', apiKey);
-    const resp = await fetchGoogle(`${GOOGLE_TILE_HOST}/tile/v1/viewport?${params}`, {
+    const resp = await fetch(`${GOOGLE_TILE_HOST}/tile/v1/viewport?${params}`, {
       headers: {
         'accept': 'application/json',
         'referer': 'https://sanguo.720108.xyz/',
@@ -88,7 +63,7 @@ async function proxyGoogle(request, env, ctx) {
     params.set('key', apiKey);
     // session 由前端传入（createSession 返回的 token）
     // 注：暂时禁用 caches.default 缓存（曾导致 Worker 500），仅用并发控制防 429
-    const resp = await fetchGoogle(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`, {
+    const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`, {
       headers: { 'referer': 'https://sanguo.720108.xyz/' },
     });
     if (!resp.ok) {
