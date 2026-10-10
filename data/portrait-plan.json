@@ -5679,5 +5679,57 @@
     "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 于糜; gender male; role male military general, 劉繇部將；與樊能同屯橫江津以拒袁術，後為孫策所破（語料作「于麋」）, Late Eastern Han. Verified historical excerpt: 「繇遣樊能、于麋屯橫江津…以距術」(《三國志·吳書·孫策傳》)；「策聞之，還攻破能等，獲男女萬餘人」(同上). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Yu Mi: young middle-aged Han Chinese general, round sturdy face, straight medium eyebrows, light short dark moustache and beard, determined expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
     "file": "p0348.webp",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0349",
+    "name": "種輯",
+    "gender": "male",
+    "role": "漢侍中；後拜越騎校尉，參與董承密詔誅曹操案",
+    "source": "a03-009",
+    "evidence": "「五年春正月，車騎將軍董承、偏將軍王服、越騎校尉种輯受密詔誅曹操，事洩。壬午，曹操殺董承等，夷三族」(《後漢書·獻帝紀》建安五年)",
+    "appearance": "",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 種輯; gender male; role male military officer, 漢侍中；後拜越騎校尉，參與董承密詔誅曹操案, Late Eastern Han. Verified historical excerpt: 「五年春正月，車騎將軍董承、偏將軍王服、越騎校尉种輯受密詔誅曹操，事洩。壬午，曹操殺董承等，夷三族」(《後漢書·獻帝紀》建安五年). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Chong Ji: young-to-middle-aged Han Chinese officer, square resolute face, straight dark eyebrows, short dark moustache and trimmed beard, tense steadfast expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "status": "generated",
+    "file": "p0349.webp",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0350",
+    "name": "王服",
+    "gender": "male",
+    "role": "漢偏將軍，參與董承密詔誅曹操案；一名王子服",
+    "source": "a03-009",
+    "evidence": "「車騎將軍董承、偏將軍王服、越騎校尉种輯受密詔誅曹操，事洩。壬午，曹操殺董承等，夷三族」(《後漢書·獻帝紀》建安五年)",
+    "appearance": "",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 王服; gender male; role male military officer, 漢偏將軍，參與董承密詔誅曹操案；一名王子服, Late Eastern Han. Verified historical excerpt: 「車騎將軍董承、偏將軍王服、越騎校尉种輯受密詔誅曹操，事洩。壬午，曹操殺董承等，夷三族」(《後漢書·獻帝紀》建安五年). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Wang Fu: middle-aged Han Chinese officer, broad firm weathered face, thick straight eyebrows, dark full beard and moustache, grim unyielding expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "status": "generated",
+    "file": "p0350.webp",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0351",
+    "name": "馬日磾",
+    "gender": "male",
+    "role": "漢太傅，持節安集關東；被袁術拘留而憂憤死",
+    "source": "a04-046",
+    "evidence": "「太傅馬日磾杖節安集關東，在壽春以禮辟策，表拜懷義校尉，術大將喬蕤、張勳皆傾心敬焉」(《三國志·吳書·孫策傳》)",
+    "appearance": "",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han civil dress: right-lapped cross collar, hair bound in a plain dark cloth cap, no Ming/Qing hats, opera paint, armour or fantasy elements. Subject 馬日磾; gender male; role male civil official, 漢太傅，持節安集關東；被袁術拘留而憂憤死, Late Eastern Han. Verified historical excerpt: 「太傅馬日磾杖節安集關東，在壽春以禮辟策，表拜懷義校尉，術大將喬蕤、張勳皆傾心敬焉」(《三國志·吳書·孫策傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Ma Ridi: elderly scholar-official, gaunt dignified face, grey-streaked short beard and thin moustache, weary solemn scholar's expression looking straight at the viewer, deep ochre-brown cross-collared scholar's robe.",
+    "status": "generated",
+    "file": "p0351.webp",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0352",
+    "name": "趙岐",
+    "gender": "male",
+    "role": "漢議郎、太僕、太常；隨太傅馬日磾宣揚國命，後因老病留荊州",
+    "source": "a03-064",
+    "evidence": "「及獻帝西都，復拜議郎，稍遷太僕。及李傕專政，使太傅馬日磾撫慰天下，以歧為副」(《後漢書·趙岐傳》)",
+    "appearance": "",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han civil dress: right-lapped cross collar, hair bound in a plain dark cloth cap, no Ming/Qing hats, opera paint, armour or fantasy elements. Subject 趙岐; gender male; role male civil official, 漢議郎、太僕、太常；隨太傅馬日磾宣揚國命，後因老病留荊州, Late Eastern Han. Verified historical excerpt: 「及獻帝西都，復拜議郎，稍遷太僕。及李傕專政，使太傅馬日磾撫慰天下，以歧為副」(《後漢書·趙岐傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Zhao Qi: elderly scholar-official, long kindly weathered face, white short beard and wispy moustache, calm composed scholar's expression looking straight at the viewer, deep ochre-brown cross-collared scholar's robe.",
+    "status": "generated",
+    "file": "p0352.webp",
+    "generator": "built-in imagegen"
   }
 ]

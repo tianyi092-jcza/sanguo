@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 96,
-  "remainingUnreviewedCount": 85,
+  "reviewedCount": 100,
+  "remainingUnreviewedCount": 81,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1865,6 +1865,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-23"
+    },
+    {
+      "id": "p0349",
+      "name": "種輯",
+      "gender": "male",
+      "role": "漢侍中；後拜越騎校尉，參與董承密詔誅曹操案",
+      "source": "a03-009",
+      "reviewNote": "《後漢書·獻帝紀》建安五年正月條載「車騎將軍董承、偏將軍王服、越騎校尉种輯受密詔誅曹操，事洩。壬午，曹操殺董承等，夷三族」；官職侍中、越騎校尉明確。密詔案屬漢廷政治行動，不作曹操正式部將。原文种字與種字通核。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-24"
+    },
+    {
+      "id": "p0350",
+      "name": "王服",
+      "gender": "male",
+      "role": "漢偏將軍，參與董承密詔誅曹操案；一名王子服",
+      "source": "a03-009",
+      "reviewNote": "《後漢書·獻帝紀》建安五年正月條載「車騎將軍董承、偏將軍王服、越騎校尉种輯受密詔誅曹操，事洩。壬午，曹操殺董承等，夷三族」；偏將軍身份明確，「王子服」為別名另標。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-24"
+    },
+    {
+      "id": "p0351",
+      "name": "馬日磾",
+      "gender": "male",
+      "role": "漢太傅，持節安集關東；被袁術拘留而憂憤死",
+      "source": "a04-046",
+      "reviewNote": "《三國志·吳書·孫策傳》載「太傅馬日磾杖節安集關東，在壽春以禮辟策，表拜懷義校尉」；漢太傅、持節使者身份明確，袁術奪節拘留而憂死，不是袁術幕僚。eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-24"
+    },
+    {
+      "id": "p0352",
+      "name": "趙岐",
+      "gender": "male",
+      "role": "漢議郎、太僕、太常；隨太傅馬日磾宣揚國命，後因老病留荊州",
+      "source": "a03-064",
+      "reviewNote": "《後漢書·趙岐傳》載「及獻帝西都，復拜議郎，稍遷太僕。及李傕專政，使太傅馬日磾撫慰天下，以歧為副」；議郎、太僕身份明確，留荊州因老病，非劉表府官；曹操推舉亦非直接統屬曹軍。eligible，文官，文士服飾。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-24"
     }
   ]
 }

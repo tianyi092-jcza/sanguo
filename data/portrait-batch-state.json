@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-23",
+  "batch": "portrait-batch-24",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 389,
+  "generatedCount": 393,
   "ids": [
-    "p0345",
-    "p0346",
-    "p0347",
-    "p0348"
+    "p0349",
+    "p0350",
+    "p0351",
+    "p0352"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-23：劉勳(p0345)、橋蕤(p0346)、樊能(p0347)、于糜(p0348)逐人適用性複核通過（《三國志·魏書·武帝紀》a04-001 / 《三國志·吳書·孫策傳》a04-046 引文已抽查核驗），四人皆為領兵武將（劉勳為袁術故吏、廬江太守，橋蕤為袁術部將，樊能、于糜為劉繇部將；于糜語料作「于麋」），戴頭盔、穿盔甲；未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩85人待複核。",
+  "note": "portrait-batch-24：種輯(p0349)、王服(p0350)、馬日磾(p0351)、趙岐(p0352)逐人適用性複核通過（《後漢書·獻帝紀》a03-009 密詔案引文、《三國志·吳書·孫策傳》a04-046、《後漢書·趙岐傳》a03-064 引文已抽查核驗），種輯、王服為領兵武將（侍中→越騎校尉、偏將軍；密詔案屬漢廷政治行動，非曹正式部將），戴頭盔、穿盔甲；馬日磾、趙岐為漢廷文官（太傅、議郎/太僕），著文士服飾；未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩81人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 385,
+  "previousCompletedEntriesUnchanged": 389,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 85,
+  "unlistedPortraitPeople": 81,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }
