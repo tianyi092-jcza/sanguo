@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 148,
-  "remainingUnreviewedCount": 33,
+  "reviewedCount": 152,
+  "remainingUnreviewedCount": 29,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2437,6 +2437,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-36"
+    },
+    {
+      "id": "p0437",
+      "name": "張牛角",
+      "gender": "male",
+      "role": "黑山賊首領；自號將兵從事，與張燕合，攻癭陶中流矢死",
+      "source": "a04-008",
+      "reviewNote": "《三國志·魏書·張燕傳》a04-008 裴注引《九州春秋》：「博陵張牛角亦起衆，自號將兵從事，與燕合。燕推牛角為帥，俱攻癭陶。牛角為飛矢所中，被創且死，令衆奉燕，告曰：『必以燕為帥。』」黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用張燕等他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-37"
+    },
+    {
+      "id": "p0438",
+      "name": "于毒",
+      "gender": "male",
+      "role": "黑山賊首領；與白繞、眭固等反，略魏郡、東郡",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001：「黑山賊于毒、白繞、眭固等眭，申隨反。十餘萬衆略魏郡、東郡，王肱不能禦。」黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-37"
+    },
+    {
+      "id": "p0439",
+      "name": "白繞",
+      "gender": "male",
+      "role": "黑山賊首領；曹操引兵入東郡，於濮陽擊破之",
+      "source": "a04-001",
+      "reviewNote": "《三國志·魏書·武帝紀》a04-001：「太祖引兵入東郡，擊白繞於濮陽，破之。」黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-37"
+    },
+    {
+      "id": "p0440",
+      "name": "管亥",
+      "gender": "male",
+      "role": "黃巾賊將；圍孔融於都昌",
+      "source": "a04-049",
+      "reviewNote": "《三國志·吳書·太史慈傳》a04-049：「時融以黃巾寇暴，出屯都昌，為賊管亥所圍。」黃巾賊將，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-37"
     }
   ]
 }

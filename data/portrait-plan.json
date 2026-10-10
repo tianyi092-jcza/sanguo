@@ -6271,5 +6271,57 @@
     "file": "p0436.webp",
     "generator": "built-in imagegen",
     "reviewNote": null
+  },
+  {
+    "id": "p0437",
+    "name": "張牛角",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain bandit commander",
+    "source": "a04-008",
+    "evidence": "《三國志·魏書·張燕傳》裴注引《九州春秋》：「博陵張牛角亦起衆，自號將兵從事，與燕合。燕推牛角為帥，俱攻癭陶。牛角為飛矢所中，被創且死，令衆奉燕，告曰：『必以燕為帥。』牛角死，衆奉燕，故改姓張。」",
+    "appearance": "無五官記載；不套用張燕或他人特徵。",
+    "status": "generated",
+    "file": "p0437.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 張牛角 (Zhang Niujiao). Sex male. Documentary role: late Eastern Han Black Mountain bandit commander; Records of the Three Kingdoms, Wei book vol. 8 (a04-008), biography of Zhang Yan, Pei Songzhi quotation of the Records of the Nine Provinces (九州春秋): 「博陵張牛角亦起衆，自號將兵從事，與燕合。燕推牛角為帥，俱攻癭陶。牛角為飛矢所中，被創且死，令衆奉燕，告曰：『必以燕為帥。』」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A sturdy, weathered rebel general with a resolute battle-worn expression and a short beard. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0438",
+    "name": "于毒",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain rebel chieftain",
+    "source": "a04-001",
+    "evidence": "《三國志·魏書·武帝紀》：「黑山賊于毒、白繞、眭固等眭，申隨反。十餘萬衆略魏郡、東郡，王肱不能禦。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0438.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 于毒 (Yu Du). Sex male. Documentary role: late Eastern Han Black Mountain rebel chieftain; Records of the Three Kingdoms, Wei book vol. 1 (a04-001), Annals of Emperor Wu: 「黑山賊于毒、白繞、眭固等眭，申隨反。十餘萬衆略魏郡、東郡，王肱不能禦。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A stern, lean rebel chieftain with a sharp hawkish gaze and a thin moustache. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0439",
+    "name": "白繞",
+    "gender": "male",
+    "role": "late Eastern Han Black Mountain rebel leader",
+    "source": "a04-001",
+    "evidence": "《三國志·魏書·武帝紀》：「太祖引兵入東郡，擊白繞於濮陽，破之。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0439.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 白繞 (Bai Rao). Sex male. Documentary role: late Eastern Han Black Mountain rebel leader; Records of the Three Kingdoms, Wei book vol. 1 (a04-001), Annals of Emperor Wu: 「太祖引兵入東郡，擊白繞於濮陽，破之。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A rugged, broad-shouldered rebel leader with a defiant glare and a full coarse beard. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0440",
+    "name": "管亥",
+    "gender": "male",
+    "role": "late Eastern Han Yellow Turban rebel general",
+    "source": "a04-049",
+    "evidence": "《三國志·吳書·太史慈傳》：「時融以黃巾寇暴，出屯都昌，為賊管亥所圍。」",
+    "appearance": "無五官記載；不套用他人特徵。",
+    "status": "generated",
+    "file": "p0440.webp",
+    "prompt": "Use case: historical-scene / original pixel portrait avatar. Produce ONE square head-and-shoulders portrait for a history reference website, intended at 120x120. The attached images are STYLE REFERENCES ONLY; do not copy their faces. 1990s Chinese strategy-game style, coarse hand-placed visible pixels, restrained earthy palette, subtle dithering, dark near-black olive background, crisp pixel clusters, not smooth painting or anime. Late Eastern Han military clothing: a plain Han-dynasty iron military helmet (no Ming/Qing hat, no fantasy horns or feathers), iron lamellar armour over a dark cross-collared robe. NO text, captions, watermark, frame or icons. Identity: 管亥 (Guan Hai). Sex male. Documentary role: late Eastern Han Yellow Turban rebel general; Records of the Three Kingdoms, Wu book vol. 4 (a04-049), biography of Taishi Ci: 「時融以黃巾寇暴，出屯都昌，為賊管亥所圍。」. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion. A fierce Yellow Turban commander with sun-darkened skin, heavy brow, and a short square-cut beard. Visibly different face from other portraits in this project. Exactly one person. Tight head and upper shoulders, centered. This is an original artistic depiction, not an authentic surviving likeness.",
+    "generator": "built-in imagegen"
   }
 ]
