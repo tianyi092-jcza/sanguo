@@ -1,22 +1,19 @@
 {
-  "batch": "portrait-batch-44",
+  "batch": "portrait-batch-45",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 473,
+  "generatedCount": 474,
   "ids": [
-    "p0466",
-    "p0467",
-    "p0468",
-    "p0469"
+    "p0470"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-44：羅市(p0466)、孫輕(p0467)、王當(p0468)、杜長(p0469)逐人適用性複核通過（a04-008《典略》注引《九州春秋》：羅市列於起兵諸部；「其小帥孫輕、王當等，各以部眾從燕」；「燕遣將杜長等助瓚」，原文已抽查核驗）；四人皆武將（黑山軍首領/小帥/軍將），戴頭盔、穿盔甲；四人均未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩1人待複核（壺壽 p0470）。",
+  "note": "portrait-batch-45：壺壽(p0470)適用性複核通過（a04-006：長安所署兾州牧，與于毒同軍被袁紹斬於朝歌鹿場山蒼巖谷，原文已抽查核驗）；武將（軍政長官、戰死），戴頭盔、穿盔甲；五官無載，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單全部完成（181人，含已做8人）。",
   "pending": 0,
-  "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 469,
+  "portraitEligibilityReviewComplete": true,
+  "previousCompletedEntriesUnchanged": 473,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +22,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 1,
+  "unlistedPortraitPeople": 0,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }

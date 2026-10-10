@@ -1,0 +1,13 @@
+[
+  {
+    "id": "p0470",
+    "name": "壺壽",
+    "gender": "male",
+    "role": "長安漢廷所署兾州牧；與于毒同軍被袁紹斬於朝歌鹿場山蒼巖谷",
+    "source": "a04-006",
+    "reviewNote": "a04-006（history.json reading，kind=reviewed）：「……乃引軍入朝歌鹿場山蒼巖谷討于毒，圍攻五日，破之，斬毒及長安所署兾州牧壺壽。」長安漢廷所署兾州牧，與于毒同軍被袁紹斬於朝歌鹿場山蒼巖谷，記載明確。eligible，武將（軍政長官、戰死），戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+    "decision": "eligible",
+    "portraitStatus": "generated",
+    "batch": "portrait-batch-45"
+  }
+]
