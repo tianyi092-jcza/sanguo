@@ -59,10 +59,16 @@ async function proxyGoogle(request, env, ctx) {
   if (tileMatch) {
     const [, z, x, y] = tileMatch;
     try {
+    // 用不带 session 的 key 查缓存，多用户共享
+    const cacheKey = `https://gtiles-cache.internal/2dtiles/${z}/${x}/${y}`;
+    const cache = caches.default;
+    let cached;
+    try { cached = await cache.match(cacheKey); } catch (e) { console.error('[gtiles] cache.match error:', e && e.message); }
+    if (cached) return cached;
+
     const params = new URLSearchParams(url.search);
     params.set('key', apiKey);
     // session 由前端传入（createSession 返回的 token）
-    // 注：暂时禁用 caches.default 缓存（曾导致 Worker 500），仅用并发控制防 429
     const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`, {
       headers: { 'referer': 'https://sanguo.720108.xyz/' },
     });
@@ -71,13 +77,15 @@ async function proxyGoogle(request, env, ctx) {
       console.error(`[gtiles] Google tile ${z}/${x}/${y} -> ${resp.status}: ${bodyText.slice(0, 300)}`);
       return new Response(`tile fetch failed: upstream ${resp.status}`, { status: resp.status });
     }
-    return new Response(await resp.arrayBuffer(), {
+    const out = new Response(await resp.arrayBuffer(), {
       status: 200,
       headers: {
         'content-type': resp.headers.get('content-type') || 'image/png',
         'cache-control': 'public, max-age=86400',
       },
     });
+    try { ctx.waitUntil(cache.put(cacheKey, out.clone())); } catch (e) { console.error('[gtiles] cache.put error:', e && e.message); }
+    return out;
     } catch (e) {
       console.error(`[gtiles] worker tile error ${z}/${x}/${y}:`, e && e.message, e && e.stack);
       return new Response('worker tile error: ' + (e && e.message), { status: 500 });
