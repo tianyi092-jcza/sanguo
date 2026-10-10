@@ -16182,6 +16182,1342 @@
       },
       "conclusions": [],
       "completedAt": null
+    },
+    {
+      "id": "p0190",
+      "name": "孫堅",
+      "status": "complete",
+      "excerpts": [
+        {
+          "id": "sj-hhs-lingdi-guanhu",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 20,
+          "from": "零陵人觀鵠自稱「平天將軍」",
+          "through": "長沙太守孫堅擊斬之",
+          "citation": "《後漢書·孝靈帝紀》所載"
+        },
+        {
+          "id": "sj-hhs-xiandi-wangrui",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 3,
+          "from": "孫堅殺荊州刺史王叡",
+          "through": "又殺南陽太守張咨",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "初平元年春正月"
+        },
+        {
+          "id": "sj-hhs-xiandi-yangren",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 4,
+          "from": "袁術遣將孫堅與董卓將胡軫戰於陽人",
+          "through": "軫軍大敗",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "二年春正月辛丑"
+        },
+        {
+          "id": "sj-hhs-xiandi-xiangyang",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "from": "袁術遣將孫堅攻劉表於襄陽",
+          "through": "堅戰歿",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "三年春正月丁丑"
+        },
+        {
+          "id": "sj-hhs-dongzhuo-canmou",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 3,
+          "from": "溫參軍事孫堅說慎曰",
+          "through": "慎不從",
+          "citation": "《後漢書·董卓傳》所載",
+          "context": "中平元年"
+        },
+        {
+          "id": "sj-hhs-dongzhuo-zhangzi",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 11,
+          "from": "潁川張咨為南陽太守",
+          "through": "後為孫堅所殺",
+          "citation": "《後漢書·董卓傳》所載"
+        },
+        {
+          "id": "sj-hhs-dongzhuo-liang",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 14,
+          "from": "時長沙太守孫堅亦率豫州諸郡兵討卓",
+          "through": "與戰，破堅",
+          "citation": "《後漢書·董卓傳》所載"
+        },
+        {
+          "id": "sj-hhs-dongzhuo-yangren-a",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 15,
+          "from": "明年，孫堅收合散卒，進屯梁縣之陽人",
+          "through": "堅追擊之，軫、布敗走",
+          "citation": "《後漢書·董卓傳》所載"
+        },
+        {
+          "id": "sj-hhs-dongzhuo-yangren-b",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 15,
+          "from": "堅進洛陽宣陽城門",
+          "through": "堅乃埽除宗廟",
+          "citation": "《後漢書·董卓傳》所載"
+        },
+        {
+          "id": "sj-hhs-dongzhuo-xiaozhi",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 15,
+          "from": "卓謂長史劉艾曰",
+          "through": "諸將軍宜慎之",
+          "citation": "《後漢書·董卓傳》所載"
+        },
+        {
+          "id": "sj-hhs-dongzhuo-quanzhuo",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 18,
+          "from": "時孫堅為溫參軍",
+          "through": "溫不能從",
+          "citation": "《後漢書·董卓傳》所載"
+        },
+        {
+          "id": "sj-hhs-gongsunzan-zhouxin",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "術遣越隨其將孫堅",
+          "through": "越為流矢所中死",
+          "citation": "《後漢書·公孫瓚傳》所載"
+        },
+        {
+          "id": "sj-hhs-gongsunzan-shizui",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "又長沙太守孫堅",
+          "through": "使董卓乆不服誅",
+          "citation": "《後漢書·公孫瓚傳》所載"
+        },
+        {
+          "id": "sj-hhs-yuanshu-zhangzi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 19,
+          "from": "會長沙太守孫堅殺南陽太守張咨",
+          "through": "使率荊、豫之卒，擊破董卓於陽人",
+          "citation": "《後漢書·袁術傳》所載"
+        },
+        {
+          "id": "sj-hhs-yuanshu-yuzhou",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 20,
+          "from": "術從兄紹因堅討卓未反",
+          "through": "術怒，擊昕走之",
+          "citation": "《後漢書·袁術傳》所載"
+        },
+        {
+          "id": "sj-hhs-yuanshu-xiangyang",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 20,
+          "from": "初平三年，術遣孫堅擊劉表於襄陽",
+          "through": "堅戰死",
+          "citation": "《後漢書·袁術傳》所載",
+          "context": "初平三年"
+        },
+        {
+          "id": "sj-hhs-yuanshu-xi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 21,
+          "from": "又聞孫堅得傳國璽",
+          "through": "遂拘堅妻奪之",
+          "citation": "《後漢書·袁術傳》所載"
+        },
+        {
+          "id": "sj-hhs-yuanshu-ce",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 22,
+          "from": "自孫堅死",
+          "through": "子策復領其部曲",
+          "citation": "《後漢書·袁術傳》所載"
+        },
+        {
+          "id": "sj-hhs-yuanshu2-xiangyang-a",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 19,
+          "from": "故術共孫堅合從襲表",
+          "through": "餘衆退走",
+          "citation": "《後漢書·袁術傳》（漢川草廬版）所載"
+        },
+        {
+          "id": "sj-hhs-yuanshu2-xiangyang-b",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 19,
+          "from": "典略曰：「劉表夜遣將黃祖潛出兵",
+          "through": "應時物故",
+          "citation": "《後漢書·袁術傳》（漢川草廬版）所載"
+        },
+        {
+          "id": "sj-hhs-zhaoqi-xi",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 45,
+          "from": "孫堅從桂陽入雒討董卓",
+          "through": "乃拘堅妻求之",
+          "citation": "《後漢書·趙岐傳》引衛宏《漢舊儀》所載"
+        },
+        {
+          "id": "sj-hhs-yufu-xi",
+          "work": "houhanshu",
+          "source": "a03-120",
+          "paragraph": 27,
+          "from": "孫堅北討董卓",
+          "through": "堅使人浚得傳國璽",
+          "citation": "《後漢書·輿服志》引《吳書》所載"
+        },
+        {
+          "id": "sj-sg-yuanshu-zhangzi",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "from": "會長沙太守孫堅殺南陽太守張咨",
+          "through": "術得據其郡",
+          "citation": "《三國志·魏書·袁術傳》所載"
+        },
+        {
+          "id": "sj-sg-yuanshu-liushi",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 33,
+          "from": "與孫堅合從",
+          "through": "術遂不能勝表",
+          "citation": "《三國志·魏書·袁術傳》所載"
+        },
+        {
+          "id": "sj-sg-gongsunzan-yangcheng",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 4,
+          "from": "是時，術遣孫堅屯陽城拒卓",
+          "through": "紹使周昂奪其處",
+          "citation": "《三國志·魏書·公孫瓚傳》所載"
+        },
+        {
+          "id": "sj-sg-gongsunzan-shizui",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 4,
+          "from": "又長沙太守孫堅",
+          "through": "使卓不被誅",
+          "citation": "《三國志·魏書·公孫瓚傳》所載"
+        },
+        {
+          "id": "sj-sg-huanjie-xiaolian",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 1,
+          "from": "太守孫堅舉階孝廉",
+          "through": "除尚書郎",
+          "citation": "《三國志·魏書·桓階傳》所載"
+        },
+        {
+          "id": "sj-sg-huanjie-qisang",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 1,
+          "from": "會堅擊劉表戰死",
+          "through": "表義而與之",
+          "citation": "《三國志·魏書·桓階傳》所載"
+        },
+        {
+          "id": "sj-sg-liuba-zhangzi",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 4,
+          "from": "時孫堅舉兵討董卓",
+          "through": "不給軍糧，殺之",
+          "citation": "《三國志·蜀書·劉巴傳》所載"
+        },
+        {
+          "id": "sj-sg-zhouyu-xijia",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 2,
+          "from": "初，孫堅興義兵討董卓",
+          "through": "徙家於舒",
+          "citation": "《三國志·吳書·周瑜傳》所載"
+        },
+        {
+          "id": "sj-sg-chengpu-congzheng",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 1,
+          "from": "從孫堅征伐",
+          "through": "破董卓於陽人",
+          "citation": "《三國志·吳書·程普傳》所載"
+        },
+        {
+          "id": "sj-sg-zhuzhi-congzheng",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 1,
+          "from": "隨孫堅征伐",
+          "through": "從破董卓於陽人，入洛陽",
+          "citation": "《三國志·吳書·朱治傳》所載",
+          "context": "中平五年"
+        },
+        {
+          "id": "sj-sg-sunjun-shizu",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 27,
+          "from": "孫堅弟靜之曾孫也",
+          "through": "恭生峻",
+          "citation": "《三國志·吳書·孫峻傳》所載"
+        },
+        {
+          "id": "sj-sg-wufuren-hun",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 1,
+          "from": "孫堅聞其才貌",
+          "through": "於是遂許為婚，生四男一女",
+          "citation": "《三國志·吳書·吳夫人傳》所載"
+        },
+        {
+          "id": "sj-sg-huanggai-congzheng",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 6,
+          "from": "孫堅舉義兵",
+          "through": "蓋隨策及權",
+          "citation": "《三國志·吳書·黃蓋傳》所載"
+        },
+        {
+          "id": "sj-sg-handang-congzheng",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 11,
+          "from": "幸於孫堅",
+          "through": "陷敵擒虜，為別部司馬",
+          "citation": "《三國志·吳書·韓當傳》所載"
+        },
+        {
+          "id": "sj-sg-panjun-ruizhi",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 2,
+          "from": "從孫堅征伐有功",
+          "through": "堅薦祉為九江太守",
+          "citation": "《三國志·吳書·潘濬傳》所載"
+        },
+        {
+          "id": "sj-sg-pei-chuping2",
+          "work": "peizhu",
+          "source": "a04-051",
+          "paragraph": 17,
+          "from": "且孫堅以初平二年卒",
+          "through": "合三十一年",
+          "citation": "裴松之注案語所載",
+          "context": "初平二年"
+        },
+        {
+          "id": "sj-sg-pei-limiao",
+          "work": "peizhu",
+          "source": "a04-028",
+          "paragraph": 17,
+          "from": "黃初末",
+          "through": "為孫堅立廟",
+          "citation": "裴注引《世語》所載",
+          "context": "黃初末"
+        },
+        {
+          "id": "sj-sg-pei-songzhian",
+          "work": "peizhu",
+          "source": "a04-031",
+          "paragraph": 1,
+          "from": "義軍起，孫堅殺荊州刺史王叡",
+          "through": "不與焉同時也",
+          "citation": "裴松之注案語所載"
+        },
+        {
+          "id": "sj-js-yuezhi",
+          "work": "jinshu",
+          "source": "a05-023-ahcb",
+          "paragraph": 3,
+          "from": "孫堅奮迅猛志",
+          "through": "功蓋海內也",
+          "citation": "《晉書·樂志》所載"
+        }
+      ],
+      "exclusions": [
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 0,
+          "term": "孫堅傳",
+          "quote": "孫堅傳",
+          "reason": "本传篇首标题，无史实内容；本传已有文库全文收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 1,
+          "term": "孫堅",
+          "quote": "孫堅字文臺，吳郡富春人",
+          "reason": "本传开篇（家世、早年仕履），文库本传全文已收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 2,
+          "term": "堅",
+          "quote": "儁表請堅為佐軍司馬",
+          "reason": "本传篇幅（佐朱儁讨黄巾），文库本传全文已收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 3,
+          "term": "堅",
+          "quote": "溫表請堅與參軍事",
+          "reason": "本传篇幅（随张温征凉州、劝斩董卓），文库本传全文已收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-005",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 6,
+          "term": "堅",
+          "quote": "堅四子：策、權、翊、匡",
+          "reason": "本传篇幅（子嗣、谥武烈皇帝、庙墓），文库本传全文已收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-006",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 8,
+          "term": "堅",
+          "quote": "堅初興義兵，策將母徙居舒",
+          "reason": "本传附见孙策事（徙居舒、与周瑜交），主角为孙策，文库本传全文已收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-007",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 9,
+          "term": "堅",
+          "quote": "以堅部曲還策",
+          "reason": "本传附见孙策事（从袁术、复领父部曲），文库本传全文已收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-008",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "term": "堅",
+          "quote": "堅為朱儁所表",
+          "reason": "本传附见孙策事（江表传语），文库本传全文已收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-009",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 15,
+          "term": "評曰",
+          "quote": "孫堅勇摯剛毅",
+          "reason": "本传史臣评语，文库本传全文已收录，不重复摘录，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-010",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 0,
+          "term": "董卓",
+          "quote": "董卓",
+          "reason": "后汉书卷首标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-011",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 0,
+          "term": "袁紹子譚 劉表",
+          "quote": "袁紹子譚　劉表",
+          "reason": "后汉书卷目标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-012",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 0,
+          "term": "董卓傳",
+          "quote": "董卓傳",
+          "reason": "三国志篇首标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-013",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 31,
+          "term": "劉表傳",
+          "quote": "劉表傳",
+          "reason": "三国志篇首标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-014",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 16,
+          "term": "董昭傳",
+          "quote": "董昭傳",
+          "reason": "三国志篇首标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-015",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 20,
+          "term": "劉廙傳",
+          "quote": "劉廙傳",
+          "reason": "三国志篇首标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-016",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 43,
+          "term": "倭人傳",
+          "quote": "倭人傳",
+          "reason": "三国志篇首标题，无孙坚相关内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-017",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 14,
+          "term": "董允傳",
+          "quote": "董允傳",
+          "reason": "三国志篇首标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-018",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 0,
+          "term": "劉繇傳",
+          "quote": "劉繇傳",
+          "reason": "三国志篇首标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-019",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 0,
+          "term": "孫破虜吳夫人傳",
+          "quote": "孫破虜吳夫人傳",
+          "reason": "三国志篇首标题，无史实内容，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-020",
+          "work": "jinshu",
+          "source": "a05-009",
+          "paragraph": 100,
+          "term": "苻堅",
+          "quote": "諸將及苻堅戰于肥水",
+          "reason": "「苻堅」为前秦苻坚（淝水之战），同名误伤，与孙坚无关，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-021",
+          "work": "jinshu",
+          "source": "a05-110",
+          "paragraph": 30,
+          "term": "賈堅",
+          "quote": "斬儁太山太守賈堅",
+          "reason": "「賈堅」为前燕泰山太守贾坚，同名误伤，与孙坚无关，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-022",
+          "work": "jinshu",
+          "source": "a05-112",
+          "paragraph": 2,
+          "term": "慕容堅",
+          "quote": "時有說洪稱尊號者",
+          "reason": "「慕容堅」断词误伤（前燕慕容恪之弟慕容坚），与孙坚无关，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-023",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 7,
+          "term": "孫堅子",
+          "quote": "追尊謚皇妣王氏為靈懷皇后",
+          "reason": "献帝纪兴平元年事，「孫堅子」仅见于后妃系谱追述（灵怀皇后为孙坚子之妻类），无孙坚本人史实，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-024",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 5,
+          "term": "孫堅",
+          "quote": "巴復從交阯至蜀",
+          "reason": "裴注引《零陵先贤传》述刘巴行迹，孙坚仅在注文行迹中附带提及，无新史实，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-025",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 106,
+          "term": "—",
+          "quote": "遣大司馬吳漢擊五校賊於箕山",
+          "reason": "光武纪事，时代不合（东汉初），事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-026",
+          "work": "houhanshu",
+          "source": "a03-002",
+          "paragraph": 11,
+          "term": "—",
+          "quote": "遼東太守祭肜使鮮卑擊赤山烏桓",
+          "reason": "明帝纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-027",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 146,
+          "term": "—",
+          "quote": "鮮卑寇右北平",
+          "reason": "安帝纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-028",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 196,
+          "term": "—",
+          "quote": "鮮卑寇漁陽，漁陽太守張顯追擊戰沒",
+          "reason": "安帝纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-029",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 80,
+          "term": "—",
+          "quote": "南匈奴寇常山",
+          "reason": "和帝纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-030",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 155,
+          "term": "—",
+          "quote": "武陵澧中蠻叛",
+          "reason": "和帝纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-031",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 311,
+          "term": "—",
+          "quote": "越巂山崩",
+          "reason": "和帝纪灾异，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-032",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 223,
+          "term": "—",
+          "quote": "楊州刺史尹耀討賊范容",
+          "reason": "安帝纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-033",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 254,
+          "term": "—",
+          "quote": "歷陽賊華孟自稱黑帝",
+          "reason": "安帝纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-034",
+          "work": "houhanshu",
+          "source": "a03-015",
+          "paragraph": 18,
+          "term": "—",
+          "quote": "漢兵起，光武單馬遁走",
+          "reason": "光武纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-035",
+          "work": "houhanshu",
+          "source": "a03-045",
+          "paragraph": 16,
+          "term": "—",
+          "quote": "董卓忿紹術背己，誅隗及術兄基",
+          "reason": "董卓诛袁隗事，孙坚未被提及，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-036",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 27,
+          "term": "—",
+          "quote": "鮑勳與書諫董卓",
+          "reason": "鲍勋谏董卓事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-037",
+          "work": "houhanshu",
+          "source": "a03-060b",
+          "paragraph": 27,
+          "term": "—",
+          "quote": "董卓賓客議尊卓比太公",
+          "reason": "蔡邕事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-038",
+          "work": "houhanshu",
+          "source": "a03-060b",
+          "paragraph": 29,
+          "term": "—",
+          "quote": "卓重董邕才學",
+          "reason": "蔡邕事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-039",
+          "work": "houhanshu",
+          "source": "a03-062",
+          "paragraph": 15,
+          "term": "—",
+          "quote": "爽見董卓忍暴滋甚",
+          "reason": "荀爽谋图董卓事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-040",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 26,
+          "term": "—",
+          "quote": "盧植止何進召董卓",
+          "reason": "卢植传事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-041",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 24,
+          "term": "—",
+          "quote": "王允悉收斂蘭臺圖書",
+          "reason": "王允事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-042",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 30,
+          "term": "—",
+          "quote": "王允議罷卓軍",
+          "reason": "王允事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-043",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 1,
+          "term": "—",
+          "quote": "董卓字仲穎，卓別傳曰",
+          "reason": "董卓传异文（卓别传），不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-044",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 4,
+          "term": "—",
+          "quote": "紹勸何進徵董卓",
+          "reason": "袁绍传事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-045",
+          "work": "houhanshu",
+          "source": "a03-074b",
+          "paragraph": 3,
+          "term": "—",
+          "quote": "劉表以書諫譚曰",
+          "reason": "刘表谏袁谭书，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-046",
+          "work": "houhanshu",
+          "source": "a03-074b",
+          "paragraph": 17,
+          "term": "—",
+          "quote": "劉表字景升，山陽高平人",
+          "reason": "刘表传（汉川版）开篇，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-047",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 51,
+          "term": "—",
+          "quote": "劉表及荊州士大夫先服其才名",
+          "reason": "祢衡事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-048",
+          "work": "houhanshu",
+          "source": "a03-089",
+          "paragraph": 23,
+          "term": "—",
+          "quote": "北征匈奴",
+          "reason": "明帝纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-049",
+          "work": "houhanshu",
+          "source": "a03-100",
+          "paragraph": 4,
+          "term": "—",
+          "quote": "王莽使司徒王尋將兵至昆陽",
+          "reason": "光武纪述王莽事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-050",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 19,
+          "term": "—",
+          "quote": "更始諸將軍過雒陽",
+          "reason": "五行志服妖，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-051",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 68,
+          "term": "—",
+          "quote": "京都歌曰承樂世董逃",
+          "reason": "五行志歌谣，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-052",
+          "work": "houhanshu",
+          "source": "a03-105",
+          "paragraph": 30,
+          "term": "—",
+          "quote": "靈帝光和六年冬大寒",
+          "reason": "五行志灾异，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-053",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 1,
+          "term": "—",
+          "quote": "董卓字仲穎，隴西臨洮人",
+          "reason": "董卓传开篇人物介绍，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-054",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 7,
+          "term": "—",
+          "quote": "王允、呂布共謀誅卓",
+          "reason": "王允、吕布诛董卓事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-055",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 32,
+          "term": "—",
+          "quote": "劉表字景升，山陽高平人",
+          "reason": "刘表传开篇人物介绍，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-056",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 3,
+          "term": "—",
+          "quote": "王允與士孫瑞密謀誅卓",
+          "reason": "吕布传诛卓事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-057",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 1,
+          "term": "—",
+          "quote": "劉封者，本羅侯寇氏之子",
+          "reason": "刘封传事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-058",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 8,
+          "term": "—",
+          "quote": "劉敏與王平俱鎮漢中",
+          "reason": "刘敏传事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-059",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 11,
+          "term": "—",
+          "quote": "劉表從子磐數為寇",
+          "reason": "孙策拒刘磐、太史慈事，主角为孙策，不载孙坚史实，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-060",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 58,
+          "term": "—",
+          "quote": "潘璋字文珪，始往隨權",
+          "reason": "潘璋传事（随孙权），不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-061",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 70,
+          "term": "—",
+          "quote": "評曰：凡此諸將，皆江表之虎臣",
+          "reason": "吴书诸将史臣评语，不载孙坚史实，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-062",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 2,
+          "term": "—",
+          "quote": "權在吳，欲討黃祖",
+          "reason": "虞翻传事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-063",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 24,
+          "term": "—",
+          "quote": "亮又率眾十餘萬出斜谷",
+          "reason": "晋载记述诸葛亮北伐事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-064",
+          "work": "jinshu",
+          "source": "a05-003",
+          "paragraph": 124,
+          "term": "—",
+          "quote": "文淑討叛虜樹機能",
+          "reason": "晋书事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-065",
+          "work": "jinshu",
+          "source": "a05-004",
+          "paragraph": 91,
+          "term": "—",
+          "quote": "義陽蠻張昌舉兵反",
+          "reason": "晋书张昌事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-066",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 7,
+          "term": "—",
+          "quote": "劉聰寇太原",
+          "reason": "晋纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-067",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 5,
+          "term": "—",
+          "quote": "王彌起兵反",
+          "reason": "晋载记事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-068",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 16,
+          "term": "—",
+          "quote": "王彌寇洛陽",
+          "reason": "晋载记事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-069",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 40,
+          "term": "—",
+          "quote": "苟晞攻王彌別帥曹嶷",
+          "reason": "晋纪事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-070",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 105,
+          "term": "—",
+          "quote": "李雄使其將寇巴東",
+          "reason": "晋载记事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-071",
+          "work": "jinshu",
+          "source": "a05-007",
+          "paragraph": 30,
+          "term": "—",
+          "quote": "陶侃使楊謙攻峻于石頭",
+          "reason": "晋书苏峻事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-072",
+          "work": "jinshu",
+          "source": "a05-007",
+          "paragraph": 151,
+          "term": "—",
+          "quote": "石季龍侵張駿",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-073",
+          "work": "jinshu",
+          "source": "a05-010",
+          "paragraph": 102,
+          "term": "—",
+          "quote": "劉裕攻慕容超",
+          "reason": "晋书刘裕事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-074",
+          "work": "jinshu",
+          "source": "a05-027",
+          "paragraph": 105,
+          "term": "—",
+          "quote": "桓玄擅西夏，孫恩亂東國",
+          "reason": "晋书五行志，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-075",
+          "work": "jinshu",
+          "source": "a05-028",
+          "paragraph": 11,
+          "term": "—",
+          "quote": "太元中小兒以兩鐵相打",
+          "reason": "晋书五行志童谣，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-076",
+          "work": "jinshu",
+          "source": "a05-034",
+          "paragraph": 16,
+          "term": "—",
+          "quote": "祜樂山水，每風景必造峴山",
+          "reason": "羊祜登峴山事（「峴山」地名误召），不载孙坚，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-077",
+          "work": "jinshu",
+          "source": "a05-037",
+          "paragraph": 67,
+          "term": "—",
+          "quote": "敦遣魏乂等攻承",
+          "reason": "晋书王敦事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-078",
+          "work": "jinshu",
+          "source": "a05-044",
+          "paragraph": 30,
+          "term": "—",
+          "quote": "華表字偉容",
+          "reason": "晋书华表传，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-079",
+          "work": "jinshu",
+          "source": "a05-059",
+          "paragraph": 59,
+          "term": "—",
+          "quote": "殿中左右謀劫出乂",
+          "reason": "晋书八王事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-080",
+          "work": "jinshu",
+          "source": "a05-066",
+          "paragraph": 23,
+          "term": "—",
+          "quote": "蘇峻作逆，京都不守",
+          "reason": "晋书事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-081",
+          "work": "jinshu",
+          "source": "a05-082",
+          "paragraph": 8,
+          "term": "—",
+          "quote": "溥注春秋經傳，撰江表傳",
+          "reason": "虞溥传（注《江表传》者），不载孙坚史实，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-082",
+          "work": "jinshu",
+          "source": "a05-091",
+          "paragraph": 29,
+          "term": "—",
+          "quote": "劉琨承制于并州",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-083",
+          "work": "jinshu",
+          "source": "a05-104",
+          "paragraph": 11,
+          "term": "—",
+          "quote": "劉聰授勒征東大將軍",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-084",
+          "work": "jinshu",
+          "source": "a05-104",
+          "paragraph": 35,
+          "term": "—",
+          "quote": "勒將支雄攻劉演",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-085",
+          "work": "jinshu",
+          "source": "a05-104",
+          "paragraph": 38,
+          "term": "—",
+          "quote": "劉聰遣范龕策命勒",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-086",
+          "work": "jinshu",
+          "source": "a05-105",
+          "paragraph": 75,
+          "term": "—",
+          "quote": "石勒為劉元海輔漢將軍",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-087",
+          "work": "jinshu",
+          "source": "a05-106",
+          "paragraph": 51,
+          "term": "—",
+          "quote": "征士五人車一乘",
+          "reason": "晋载记事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-088",
+          "work": "jinshu",
+          "source": "a05-118",
+          "paragraph": 9,
+          "term": "—",
+          "quote": "姚沖討勃勃",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-089",
+          "work": "jinshu",
+          "source": "a05-119",
+          "paragraph": 7,
+          "term": "—",
+          "quote": "楊盛遣兄子倦入寇",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-090",
+          "work": "jinshu",
+          "source": "a05-123",
+          "paragraph": 9,
+          "term": "—",
+          "quote": "垂之發鄴中",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-091",
+          "work": "jinshu",
+          "source": "a05-125",
+          "paragraph": 4,
+          "term": "—",
+          "quote": "國仁率騎七千討之",
+          "reason": "十六国事，时代不合，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-092",
+          "work": "jinshu",
+          "source": "a05-128",
+          "paragraph": 12,
+          "term": "—",
+          "quote": "堅壁清野",
+          "reason": "「堅壁清野」断词误伤（东晋刘裕讨慕容超事），与孙坚无关，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-093",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 10,
+          "term": "—",
+          "quote": "焉徙治成都",
+          "reason": "华阳国志述刘焉事，不载孙坚，事件向量误召，排除"
+        },
+        {
+          "kind": "exclusion",
+          "id": "sunjian-excl-094",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 40,
+          "term": "—",
+          "quote": "劉表大儒南陽宋仲子",
+          "reason": "华阳国志述刘表交游事，不载孙坚，事件向量误召，排除"
+        }
+      ],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
+      },
+      "conclusions": [],
+      "completedAt": "2026-10-10T08:21:58.470085Z"
     }
   ]
 }
