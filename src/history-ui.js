@@ -314,7 +314,7 @@ async function loadTongjian(p){
       if(!document.body.contains(slot))return;
       const tmp=document.createElement('div');
       tmp.innerHTML=tongjianHTML(excerpts,p);
-      if(tmp.firstElementChild)slot.replaceWith(tmp.firstElementChild);
+      if(tmp.firstElementChild)slot.replaceWith(...tmp.childNodes);
       else slot.innerHTML='<span class="empty">未收錄與本人相關的通鑑記載。</span>';
       activateSourceExcerpts();
     }catch(err){
