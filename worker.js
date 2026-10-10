@@ -4,7 +4,32 @@
 
 const GOOGLE_TILE_HOST = 'https://tile.googleapis.com';
 
-async function proxyGoogle(request, env) {
+// 并发控制器：限制同时向 Google 发起的请求数，避免 429
+const MAX_CONCURRENT_GOOGLE = 4;
+let activeGoogleRequests = 0;
+const googleQueue = [];
+function acquireGoogleSlot() {
+  if (activeGoogleRequests < MAX_CONCURRENT_GOOGLE) {
+    activeGoogleRequests++;
+    return Promise.resolve();
+  }
+  return new Promise(resolve => googleQueue.push(resolve));
+}
+function releaseGoogleSlot() {
+  activeGoogleRequests--;
+  const next = googleQueue.shift();
+  if (next) { activeGoogleRequests++; next(); }
+}
+async function fetchGoogle(url, options) {
+  await acquireGoogleSlot();
+  try {
+    return await fetch(url, options);
+  } finally {
+    releaseGoogleSlot();
+  }
+}
+
+async function proxyGoogle(request, env, ctx) {
   const url = new URL(request.url);
   const apiKey = env.GOOGLE_MAPS_API_KEY;
   if (!apiKey) {
@@ -17,7 +42,7 @@ async function proxyGoogle(request, env) {
   // /api/gtiles/session → POST https://tile.googleapis.com/v1/createSession?key=...
   if (url.pathname === '/api/gtiles/session' && request.method === 'POST') {
     const body = await request.text();
-    const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/createSession?key=${encodeURIComponent(apiKey)}`, {
+    const resp = await fetchGoogle(`${GOOGLE_TILE_HOST}/v1/createSession?key=${encodeURIComponent(apiKey)}`, {
       method: 'POST',
       headers: {
         'content-type': 'application/json',
@@ -39,7 +64,7 @@ async function proxyGoogle(request, env) {
   if (url.pathname === '/api/gtiles/viewport') {
     const params = new URLSearchParams(url.search);
     params.set('key', apiKey);
-    const resp = await fetch(`${GOOGLE_TILE_HOST}/tile/v1/viewport?${params}`, {
+    const resp = await fetchGoogle(`${GOOGLE_TILE_HOST}/tile/v1/viewport?${params}`, {
       headers: {
         'accept': 'application/json',
         'referer': 'https://sanguo.720108.xyz/',
@@ -58,16 +83,22 @@ async function proxyGoogle(request, env) {
   const tileMatch = url.pathname.match(/^\/api\/gtiles\/2dtiles\/(\d+)\/(\d+)\/(\d+)$/);
   if (tileMatch) {
     const [, z, x, y] = tileMatch;
+    // 用不带 session 的 key 做缓存，多用户共享瓦片缓存
+    const cacheKey = new Request(`https://gtiles-cache.internal/2dtiles/${z}/${x}/${y}`, { method: 'GET' });
+    const cache = caches.default;
+    let cached = await cache.match(cacheKey);
+    if (cached) return cached;
+
     const params = new URLSearchParams(url.search);
     params.set('key', apiKey);
     // session 由前端传入（createSession 返回的 token）
-    const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`, {
+    const resp = await fetchGoogle(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`, {
       headers: { 'referer': 'https://sanguo.720108.xyz/' },
     });
     if (!resp.ok) {
       return new Response('tile fetch failed', { status: resp.status });
     }
-    return new Response(await resp.arrayBuffer(), {
+    const out = new Response(await resp.arrayBuffer(), {
       status: 200,
       headers: {
         'content-type': resp.headers.get('content-type') || 'image/png',
@@ -75,6 +106,9 @@ async function proxyGoogle(request, env) {
         'cache-control': 'public, max-age=86400',
       },
     });
+    // 写入缓存（不阻塞返回）
+    ctx.waitUntil(cache.put(cacheKey, out.clone()));
+    return out;
   }
 
   return null; // 非代理路径，交由静态资源处理
@@ -84,7 +118,7 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     if (url.pathname.startsWith('/api/gtiles/')) {
-      const proxied = await proxyGoogle(request, env);
+      const proxied = await proxyGoogle(request, env, ctx);
       if (proxied) return proxied;
       return new Response('not found', { status: 404 });
     }
