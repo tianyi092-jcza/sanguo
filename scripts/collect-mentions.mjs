@@ -11,6 +11,8 @@ const ROOT = '/home/hatch/workspace/sanguo';
 const CORPUS = '/home/hatch/workspace/sanguo-retrieval-poc/full_corpus.jsonl';
 
 const orig = JSON.parse(fs.readFileSync(`${ROOT}/data/original.json`, 'utf8'));
+// 人物顺序与 makeHistory（前端）一致：先滤除貂蝉，否则 p0128 之后全部错位
+const perList = orig.per.filter(p => p.n !== '貂蝉');
 const skip = JSON.parse(fs.readFileSync(`${ROOT}/data/wikisource-skip.json`, 'utf8'));
 const sources = JSON.parse(fs.readFileSync(`${ROOT}/data/history.json`, 'utf8')).sources;
 
@@ -42,7 +44,7 @@ function makeCitation(sourceId) {
 const out = { schemaVersion: 1, people: [] };
 for (const pid of pids) {
   const idx = parseInt(pid.slice(1)) - 1;
-  const per = orig.per[idx];
+  const per = perList[idx];
   if (!per) { console.log(`SKIP ${pid}: 无per记录`); continue; }
   const nameTrad = toTrad(per.n);
   // 晋前人物（卒<265）：晋书命中多为重名误伤，只收三国志；晋及以后/未知卒年：三国志+晋书

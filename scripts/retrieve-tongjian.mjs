@@ -28,12 +28,13 @@ for (const [vol, v] of Object.entries(segsDb)) {
   }
 }
 
-// 人物标识
+// 人物标识（人物顺序与 makeHistory（前端）一致：先滤除貂蝉，否则 p0128 之后全部错位）
+const perList = orig.per.filter(p => p.n !== '貂蝉');
 const pids = Object.keys(wsDb);
 const people = new Map(); // pid -> {name, zi, sheng}
 const KNOWN = new Set();
 for (const pid of pids) {
-  const per = orig.per[parseInt(pid.slice(1), 10) - 1];
+  const per = perList[parseInt(pid.slice(1), 10) - 1];
   if (!per) continue;
   const name = toTrad(per.n);
   const zi = per.z ? toTrad(per.z) : '';

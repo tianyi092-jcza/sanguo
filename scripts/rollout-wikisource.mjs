@@ -87,8 +87,9 @@ const db = fs.existsSync(DB)? JSON.parse(fs.readFileSync(DB, 'utf8')): {};
 const skip = fs.existsSync(SKIP)? JSON.parse(fs.readFileSync(SKIP, 'utf8')): {};
 
 // 待处理：有三国志本传、未接入、未跳过，按卷分组
-const byJuan = {};
-orig.per.forEach((p, i) => {
+// 人物 ID 必须与 makeHistory（前端）一致：先滤除貂蝉再编号，否则 p0128 之后全部错位
+const perList = orig.per.filter(p => p.n !== '貂蝉');
+perList.forEach((p, i) => {
 const pid = 'p' + String(i + 1).padStart(4, '0');
 if (db[pid] || skip[pid]) return;
 const src = bioSrcOf(p.s);
