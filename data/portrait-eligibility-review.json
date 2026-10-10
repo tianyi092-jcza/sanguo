@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 128,
-  "remainingUnreviewedCount": 53,
+  "reviewedCount": 132,
+  "remainingUnreviewedCount": 49,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2217,6 +2217,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-31"
+    },
+    {
+      "id": "p0413",
+      "name": "關統",
+      "gender": "male",
+      "role": "蜀漢虎賁中郎將；關興之子，尚公主",
+      "source": "a04-036",
+      "reviewNote": "《三國志·蜀書·關羽傳》裴注引蜀記 a04-036「子統嗣，尚公主，官至虎賁中郎將」。關興之子，蜀漢虎賁中郎將，尚公主，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父關興、祖父關羽特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-32"
+    },
+    {
+      "id": "p0414",
+      "name": "諸葛融",
+      "gender": "male",
+      "role": "吳鎭東將軍；諸葛瑾之子，與朱績不合",
+      "source": "a04-056",
+      "reviewNote": "《三國志·吳書》a04-056「建興元年，遷鎭東將軍」；與朱績不合、紀南之戰事亦詳載。諸葛瑾之子，吳鎭東將軍，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父諸葛瑾、其兄諸葛恪特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-32"
+    },
+    {
+      "id": "p0415",
+      "name": "朱異",
+      "gender": "male",
+      "role": "吳鎭南將軍、假節大都督；朱桓之子，救壽春被害",
+      "source": "a04-056",
+      "reviewNote": "《三國志·吳書》a04-056 記載詳盡：破文欽七屯遷鎭南將軍，東興督水軍破魏，太平二年假節為大都督救壽春，為孫綝所枉害；a04-047/048紀傳亦載。朱桓之子，記載充分。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用其父朱桓特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-32"
+    },
+    {
+      "id": "p0417",
+      "name": "全尚",
+      "gender": "male",
+      "role": "吳衞將軍、外戚；孫亮之后之父",
+      "source": "a04-050",
+      "reviewNote": "《三國志·吳書》a04-050「以尚為城門校尉，封都亭侯，代滕胤為太常、衞將軍，進封永平侯，錄尚書事」；與孫亮謀誅孫綝事敗見殺。孫亮之后之父，吳衞將軍，記載明確。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用全氏宗族他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-32"
     }
   ]
 }

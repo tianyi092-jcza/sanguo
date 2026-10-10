@@ -6095,5 +6095,57 @@
     "file": "p0412.webp",
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 蔣斌 (Jiang Bin), Shu Han general: son of the minister Jiang Wan; 護軍 (Protector of the Army); in 263 AD defended Hancheng against Zhong Hui's invasion. Primary source: Records of the Three Kingdoms, Shu book, Biography of Jiang Wei (a04-044): 「護軍蔣斌守漢城」; reviewed note: 蔣琬之子，護軍守漢城，記載明確. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure, including his father. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, calm resolute expression, adult male, with a light dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution design, strong dithering, limited ochre and earth palette, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No Ming/Qing costume, no fantasy pauldrons or horned helmet, no weapon, no text, label, watermark, frame, icon, border or overlay. Exactly one person. This is an original artistic depiction, not an authentic surviving likeness.",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0413",
+    "name": "關統",
+    "gender": "male",
+    "role": "蜀漢虎賁中郎將；關興之子，尚公主",
+    "source": "a04-036",
+    "evidence": "「子統嗣，尚公主，官至虎賁中郎將」(《三國志·蜀書·關羽傳》裴注引蜀記 a04-036)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0413.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 關統 (Guan Tong), Shu Han officer: son of Guan Xing (grandson of Guan Yu); married a Shu imperial princess; appointed 虎賁中郎將 (Commander of the Tiger-Guard Cavalry); died young leaving no heir. Primary source: Records of the Three Kingdoms, Shu book, Biography of Guan Yu, Pei Songzhi's annotation citing Shu Ji (a04-036): 「子統嗣，尚公主，官至虎賁中郎將」; reviewed note: 蜀漢虎賁中郎將，關興之子，尚公主，記載明確. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure, including his father Guan Xing and grandfather Guan Yu. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, composed youthful officer expression, young adult male, with a thin dark moustache, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0414",
+    "name": "諸葛融",
+    "gender": "male",
+    "role": "吳鎭東將軍；諸葛瑾之子，與朱績不合",
+    "source": "a04-056",
+    "evidence": "「建興元年，遷鎭東將軍」(《三國志·吳書》a04-056)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0414.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 諸葛融 (Zhuge Rong), Eastern Wu general: son of the elder Wu minister Zhuge Jin; appointed 鎭東將軍 (General Who Pacifies the East); quarrelled with Zhu Ji, failed to support him against the Wei general Wang Chang at Jinan, and was later executed together with his brother Zhuge Ke. Primary source: Records of the Three Kingdoms, Wu book (a04-056): 「建興元年，遷鎭東將軍」; reviewed note: 吳鎭東將軍，諸葛瑾之子，與朱績不合，記載明確. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure, including his father Zhuge Jin and brother Zhuge Ke. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, tense proud expression, adult male, with a full dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0415",
+    "name": "朱異",
+    "gender": "male",
+    "role": "吳鎭南將軍、假節大都督；朱桓之子，救壽春被害",
+    "source": "a04-056",
+    "evidence": "「建興元年，遷鎭南將軍。是歲魏遣胡遵、諸葛誕等出東興，異督水軍攻浮梁，壞之，魏軍大破」(《三國志·吳書》a04-056)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0415.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 朱異 (Zhu Yi), Eastern Wu general: son of the Wu general Zhu Huan; broke the seven Wei encampments of Wen Qin at Liuan, rose to 鎭南將軍 (General Who Pacifies the South), led the naval attack at the Dongxing victory of 252, and in 258 as Commander-in-Chief with a ceremonial axe (假節為大都督) went to relieve the siege of Shouchun, only to be wrongfully executed by the regent Sun Chen. Primary source: Records of the Three Kingdoms, Wu book (a04-056): 「建興元年，遷鎭南將軍。是歲魏遣胡遵、諸葛誕等出東興，異督水軍攻浮梁，壞之，魏軍大破」; reviewed note: 吳鎭南將軍、大都督，朱桓之子，壽春兵敗被害，記載充分. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure, including his father Zhu Huan. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, fierce unyielding loyal-minister expression, middle-aged adult male, with a full dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0417",
+    "name": "全尚",
+    "gender": "male",
+    "role": "吳衞將軍、外戚；孫亮之后之父",
+    "source": "a04-050",
+    "evidence": "「以尚為城門校尉，封都亭侯，代滕胤為太常、衞將軍，進封永平侯，錄尚書事」(《三國志·吳書》a04-050)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0417.webp",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 全尚 (Quan Shang), Eastern Wu imperial kinsman and general: his daughter became the empress of Sun Liang; he rose through 城門校尉 (Commandant of the City Gates) and 太常 (Grand Minister of Ceremonies) to 衛將軍 (General of the Guards) in charge of the palace armies, 錄尚書事 (Acting Imperial Secretariat), and plotted with Sun Liang to eliminate the regent Sun Chen before being discovered and executed. Primary source: Records of the Three Kingdoms, Wu book (a04-050): 「以尚為城門校尉，封都亭侯，代滕胤為太常、衛將軍，進封永平侯，錄尚書事」; reviewed note: 吳衛將軍、外戚（孫亮之后之父），記載明確. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure, including his relatives of the Quan clan. Give him a period iron helmet and simple iron lamellar shoulder armour over a dark cross-collared military robe, calm calculating courtier-general expression, middle-aged adult male, with a light dark beard, visibly different face from the style reference individuals and from the other generals of this batch. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "generator": "built-in imagegen"
   }
 ]
