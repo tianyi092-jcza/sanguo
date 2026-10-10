@@ -55,6 +55,8 @@ function isPlaceName(s) {
   return /(刺史|太守|州牧|國相|丞相|都督|校尉|將軍)$/.test(s) || /(州|郡|國|尹)$/.test(s);
 }
 const TRAIL_STRIP = new Set('卒薨檄表諷旨訓後黨結於爭屋戰敗禦降叛反斬殺走退還入出鎮守代為字曰云謂與及以因遂乃即便亦復又再將欲當上坐繫收執擒誅貶免死病所奉距'.split(''));
+// 明確超範圍的名單外人名（手工）：馬融（166年卒，南郡太守在184年前）
+const DENYLIST = new Set(['馬融']);
 function stripTrail(s) {
   while (s.length > 2 && TRAIL_STRIP.has(s[s.length - 1])) s = s.slice(0, -1);
   return s;
@@ -247,6 +249,8 @@ function addHit(unit, person, year, yearLabel, quote, source, pat, amb) {
   if (!person || !unit) return;
   if (year !== null && (year < 184 || year > 265)) return;
   const pid = person.id || null;
+  const nm0 = person.nm.replace(/麋/g, '糜').replace(/叡/g, '睿');
+  if (!pid && DENYLIST.has(nm0)) return;
   const isJin = source.corpus.startsWith('a05');
   if (isJin && amb && !pid) return; // 晉書年号歧義（如建興元年223/313）且非名單人物，剔除
   if (year === null) {
@@ -431,12 +435,23 @@ for (const r of results) {
   const ys = r.evidence.map(e => e.y).filter(y => y != null);
   const y0 = ys.length ? Math.min(...ys) : null;
   const e0 = r.evidence[0];
-  const h = { n: r.person, pid: r.personId, y: y0, yl: y0 != null ? r.evidence.find(e => e.y === y0).yl : null, ev: r.evidence.map(e => ({ q: e.q, s: e.s, c: e.c, u: e.u })) };
+  // 排序鍵：明確年份 > 生卒推算（取中年） > 無法判斷
+  let sk = 9999;
+  if (y0 != null) sk = y0;
+  else if (r.personId) {
+    const bd = personBD.get(r.personId);
+    if (bd) {
+      if (bd.b != null && bd.d != null) sk = Math.round((bd.b + bd.d) / 2);
+      else if (bd.d != null) sk = bd.d - 10;
+      else if (bd.b != null) sk = bd.b + 35;
+    }
+  }
+  const h = { n: r.person, pid: r.personId, y: y0, yl: y0 != null ? r.evidence.find(e => e.y === y0).yl : null, sk, ev: r.evidence.map(e => ({ q: e.q, s: e.s, c: e.c, u: e.u })) };
   if (r.kind === 'zhou') out.zhou[r.place][r.office].push(h);
   else out.cmd[r.place].holders.push(h);
 }
-for (const z of Object.values(out.zhou)) for (const k of Object.keys(z)) z[k].sort((a, b) => (a.y ?? 9999) - (b.y ?? 9999));
-for (const c of Object.values(out.cmd)) c.holders.sort((a, b) => (a.y ?? 9999) - (b.y ?? 9999));
+for (const z of Object.values(out.zhou)) for (const k of Object.keys(z)) z[k].sort((a, b) => a.sk - b.sk);
+for (const c of Object.values(out.cmd)) c.holders.sort((a, b) => a.sk - b.sk);
 fs.writeFileSync('data/offices.json', JSON.stringify(out, null, 1));
 let nH = 0; for (const z of Object.values(out.zhou)) for (const k of Object.keys(z)) nH += z[k].length;
 for (const c of Object.values(out.cmd)) nH += c.holders.length;
