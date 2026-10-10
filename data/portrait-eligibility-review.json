@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 80,
-  "remainingUnreviewedCount": 101,
+  "reviewedCount": 84,
+  "remainingUnreviewedCount": 97,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1685,6 +1685,54 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-19"
+    },
+    {
+      "id": "p0331",
+      "name": "李傕",
+      "gender": "male",
+      "role": "董卓部將；車騎將軍、池陽侯、領司隷校尉",
+      "source": "a04-006",
+      "reviewNote": "《三國志·魏書·董二袁劉傳》載李傕為董卓部將、校尉，192年與郭汜、樊稠、張濟舉兵攻入長安、誅王允，後為車騎將軍、池陽侯、領司隷校尉、假節，「傕、汜、稠擅朝政」。領兵大將，武將身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-20",
+      "publicVerifiedAt": "2026-10-10T03:54:11.232Z"
+    },
+    {
+      "id": "p0332",
+      "name": "郭汜",
+      "gender": "male",
+      "role": "董卓部將；後將軍、美陽侯",
+      "source": "a04-006",
+      "reviewNote": "《三國志·魏書·董二袁劉傳》載郭汜為董卓部將，192年與李傕等攻入長安、誅王允，官至後將軍、美陽侯，「英雄記曰：汜，張掖人，一名多」。領兵大將，武將身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-20",
+      "publicVerifiedAt": "2026-10-10T03:54:11.232Z"
+    },
+    {
+      "id": "p0333",
+      "name": "樊稠",
+      "gender": "male",
+      "role": "董卓故部曲；右將軍、萬年侯",
+      "source": "a04-006",
+      "reviewNote": "《三國志·魏書·董二袁劉傳》載樊稠為董卓故部曲，192年與李傕等合圍長安城，「十日城陷，與布戰城中，布敗走」，官至右將軍、萬年侯，「傕、汜、稠擅朝政」。領兵大將，武將身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-20",
+      "publicVerifiedAt": "2026-10-10T03:54:11.232Z"
+    },
+    {
+      "id": "p0334",
+      "name": "張濟",
+      "gender": "male",
+      "role": "董卓部將；驃騎將軍、平陽侯，屯弘農",
+      "source": "a04-006",
+      "reviewNote": "《三國志·魏書·董二袁劉傳》載張濟為董卓部將，初為校尉略陳留、潁川，192年與李傕等舉兵入長安，官至驃騎將軍、平陽侯，屯弘農；武帝紀建安元年條「張濟自關中走南陽」。領兵大將，武將身份明確，eligible，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-20",
+      "publicVerifiedAt": "2026-10-10T03:54:11.232Z"
     }
   ]
 }

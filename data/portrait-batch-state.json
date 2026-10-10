@@ -1,19 +1,19 @@
 {
-  "batch": "portrait-batch-19",
+  "batch": "portrait-batch-20",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 373,
+  "generatedCount": 377,
   "ids": [
-    "p0324",
-    "p0326",
-    "p0327",
-    "p0329"
+    "p0331",
+    "p0332",
+    "p0333",
+    "p0334"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-19：公孫恭(p0324)、難升米(p0326)、都市牛利(p0327)、位宮(p0329)逐人適用性複核通過（引文已抽查核驗），公孫恭/位宮為領兵首領、武將戴盔甲，難升米/都市牛利為倭國使節著文士服飾；120×120頭像本地導入完成未推送；173人名單剩101人待複核。",
+  "note": "portrait-batch-20：李傕(p0331)、郭汜(p0332)、樊稠(p0333)、張濟(p0334)逐人適用性複核通過（董二袁劉傳引文已抽查核驗），四人皆董卓部將、領兵大將，戴頭盔、穿盔甲；張濟首版有藍色邊框退回重生成，重生成版已目檢通過；120×120頭像本地導入完成未推送；173人名單剩97人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
   "previousCompletedEntriesUnchanged": 349,
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 101,
+  "unlistedPortraitPeople": 97,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }
