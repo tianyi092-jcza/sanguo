@@ -5731,5 +5731,57 @@
     "status": "generated",
     "file": "p0352.webp",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0353",
+    "name": "伏完",
+    "gender": "male",
+    "role": "漢不其侯、輔國將軍；尚陽安長公主（漢桓帝女），伏湛五世孫",
+    "source": "a03-010b-full",
+    "evidence": "「皇女華，延熹元年封陽安長公主，適不其侯輔國將軍伏完。完，伏湛五世孫。」(《後漢書·皇后紀下》)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0353.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 伏完; gender male; role male military officer, 漢不其侯、輔國將軍；尚陽安長公主（漢桓帝女），伏湛五世孫, Late Eastern Han. Verified historical excerpt: 「皇女華，延熹元年封陽安長公主，適不其侯輔國將軍伏完。完，伏湛五世孫。」(《後漢書·皇后紀下》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Fu Wan: middle-aged Han Chinese officer-nobleman, long dignified face, straight thin eyebrows, short dark moustache and neatly trimmed beard, solemn guarded expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0354",
+    "name": "徐榮",
+    "gender": "male",
+    "role": "董卓部將；討董卓之役破孫堅於梁，生禽潁川太守李旻",
+    "source": "a03-072",
+    "evidence": "「卓先遣將徐榮、李蒙四出虜掠。榮遇堅於梁……與戰，破堅，生禽潁川太守李旻」(《後漢書·董卓傳》)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0354.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 徐榮; gender male; role male military general, 董卓部將；討董卓之役先遣四出虜掠，於梁破孫堅、生禽潁川太守李旻, Late Eastern Han. Verified historical excerpt: 「卓先遣將徐榮、李蒙四出虜掠。榮遇堅於梁……與戰，破堅，生禽潁川太守李旻」(《後漢書·董卓傳》). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Xu Rong: hardened middle-aged Han Chinese battlefield commander, broad weathered square face, thick straight eyebrows, full dark beard and heavy moustache, stern battle-hardened glare looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0355",
+    "name": "馮習",
+    "gender": "male",
+    "role": "蜀漢將領，字休元，南郡人；隨先主入蜀，東征吳為領軍統諸軍，敗死於猇亭",
+    "source": "a04-045",
+    "evidence": "「休元名習，南郡人。隨先主入蜀。先主東征吳，習為領軍，統諸軍，大敗於猇亭」(《三國志·蜀書·楊戲傳》季漢輔臣贊)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0355.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 馮習; gender male; role male military general, 蜀漢將領，字休元，南郡人；隨先主入蜀，先主東征吳時為領軍統諸軍，大敗於猇亭, Three Kingdoms. Verified historical excerpt: 「休元名習，南郡人。隨先主入蜀。先主東征吳，習為領軍，統諸軍，大敗於猇亭」(《三國志·蜀書·楊戲傳》季漢輔臣贊). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Feng Xi: young middle-aged Han Chinese officer from Jing, square jaw, straight medium eyebrows, short dark moustache and light sparse beard, grim determined expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0356",
+    "name": "張南",
+    "gender": "male",
+    "role": "蜀漢將領，字文進，荊州人；領兵從先主征吳，與馮習俱死",
+    "source": "a04-045",
+    "evidence": "「文進名南，亦自荊州隨先主入蜀，領兵從先主征吳，與習俱死」(《三國志·蜀書·楊戲傳》季漢輔臣贊)",
+    "appearance": "",
+    "status": "generated",
+    "file": "p0356.webp",
+    "prompt": "Use case: historical-scene, stylized pixel portrait. Generate ONE original SQUARE head-and-shoulders avatar for a history reference site, designed to be displayed at exactly 120x120. The two attached images are STYLE REFERENCES ONLY; do not copy their faces. Coarse visible pixel clusters, tiny 1990s strategy game portrait palette, hand-dithered shading, near-black olive background, warm earth tones, crisp not blurred, no smooth digital painting. No text, watermark, icons or borders anywhere. Late Eastern Han military dress: right-lapped cross collar under armour, no Ming/Qing robes, opera paint, fantasy pauldrons or huge crown. Subject 張南; gender male; role male military general, 蜀漢將領，字文進，荊州人；隨先主入蜀，領兵從先主征吳，與馮習俱死, Three Kingdoms. Verified historical excerpt: 「文進名南，亦自荊州隨先主入蜀，領兵從先主征吳，與習俱死」(《三國志·蜀書·楊戲傳》季漢輔臣贊). The source provides no verified individual facial measurements, so all ordinary facial details are artistic interpretation, not asserted historical traits. Make a face clearly different from the reference individuals. Zhang Nan: young Han Chinese officer, lean angular face, medium slanted eyebrows, light short dark beard and thin moustache, fierce unwavering expression looking straight at the viewer. Dark iron helmet with a modest front ridge, dark iron lamellar armour over a dark brown cross-collared under-robe.",
+    "generator": "built-in imagegen"
   }
 ]

@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 100,
-  "remainingUnreviewedCount": 81,
+  "reviewedCount": 104,
+  "remainingUnreviewedCount": 77,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -1909,6 +1909,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-24"
+    },
+    {
+      "id": "p0353",
+      "name": "伏完",
+      "gender": "male",
+      "role": "漢不其侯、輔國將軍；尚陽安長公主（漢桓帝女），伏湛五世孫",
+      "source": "a03-010b-full",
+      "reviewNote": "《後漢書·皇后紀下》載「皇女華，延熹元年封陽安長公主，適不其侯輔國將軍伏完。完，伏湛五世孫」；不其侯、輔國將軍、尚公主身份明確，記載足夠。eligible，武將（輔國將軍銜），戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-25"
+    },
+    {
+      "id": "p0354",
+      "name": "徐榮",
+      "gender": "male",
+      "role": "董卓部將；討董卓之役破孫堅於梁，生禽潁川太守李旻",
+      "source": "a03-072",
+      "reviewNote": "《後漢書·董卓傳》載「卓先遣將徐榮、李蒙四出虜掠。榮遇堅於梁……與戰，破堅，生禽潁川太守李旻」；董卓部將身份明確，戰績有載，記載足夠。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-25"
+    },
+    {
+      "id": "p0355",
+      "name": "馮習",
+      "gender": "male",
+      "role": "蜀漢將領，字休元，南郡人；隨先主入蜀，東征吳為領軍統諸軍，敗死於猇亭",
+      "source": "a04-045",
+      "reviewNote": "《三國志·蜀書·楊戲傳》季漢輔臣贊載「休元名習，南郡人。隨先主入蜀。先主東征吳，習為領軍，統諸軍，大敗於猇亭」；蜀漢領軍身份明確，記載足夠。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-25"
+    },
+    {
+      "id": "p0356",
+      "name": "張南",
+      "gender": "male",
+      "role": "蜀漢將領，字文進，荊州人；領兵從先主征吳，與馮習俱死",
+      "source": "a04-045",
+      "reviewNote": "《三國志·蜀書·楊戲傳》季漢輔臣贊載「文進名南，亦自荊州隨先主入蜀，領兵從先主征吳，與習俱死」；蜀漢將領身份明確，記載足夠。eligible，武將，戴頭盔、穿盔甲。未核得本人五官特徵；採普通比例原創藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-25"
     }
   ]
 }
