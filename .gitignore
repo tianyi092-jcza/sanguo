@@ -19,3 +19,5 @@ output/*.log
 /.aws/
 /.codegraph/
 /data/bio-vectors.npz
+/data/tongjian/vectors.npz
+/data/tongjian/embed-progress.json

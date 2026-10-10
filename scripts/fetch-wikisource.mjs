@@ -223,7 +223,7 @@ function buildEntry(personId, juan, section, paragraphs, keepBioParagraphs) {
   return { entry, noteCount };
 }
 
-export { fetchChapter, listHeaders, extractSection, parseWikitext, buildEntry };
+export { fetchChapter, listHeaders, extractSection, parseWikitext, buildEntry, extractBalanced, splitTopLevel, inline };
 
 async function main() {
   const [personId, juan, section] = process.argv.slice(2);

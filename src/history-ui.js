@@ -173,6 +173,12 @@ function biographyFullHTML(wsBio,p){
   }).join('');
   return `<article class="source-excerpt biography-full"><div class="source-citation">${esc(p.s||'本傳')} · 全文</div><div class="src">底本：維基文庫<a href="${wsBio.url}" target="_blank" rel="noopener noreferrer">《三國志》${esc(wsBio.pageLabel)}</a>（原文照錄；注文以「裴注」標籤呈現，懸停查看）</div><div class="biography-text">${body}</div><button type="button" class="source-expand" aria-expanded="false">展開全文</button></article>`;
 }
+// 三 · 資治通鑑：有摘錄者占位懒加载，无摘錄者显示空态
+function tongjianSectionHTML(p){
+  const vols=(typeof TJ_INDEX!=='undefined'&&TJ_INDEX[p.id])||null;
+  if(vols&&vols.length)return `<div data-tj-person="${p.id}"><span class="empty">通鑑摘錄載入中…</span></div>`;
+  return '<span class="empty">未收錄與本人相關的通鑑記載。</span>';
+}
 // 新三段式：一三國志（含裴注）/二晉書/三資治通鑑；wsBio 为 null 时表示无三国志本传，本传区留空
 function newExcerptsHTML(excerpts,p,wsBio){
   const mains=excerpts.filter(x=>x.work!=='peizhu');
@@ -209,7 +215,7 @@ function newExcerptsHTML(excerpts,p,wsBio){
   html+=`</section>`;
   const jinGroups=citationGroups(otherMains.filter(m=>m.work==='jinshu'));
   html+=`<section class="source-work"><h4>二 · 晉書</h4>${jinGroups.length?excerptCardsHTML(jinGroups,p,'jinshu',attached):'<span class="empty">未收錄與本人相關的記載。</span>'}</section>`;
-  html+=`<section class="source-work"><h4>三 · 資治通鑑</h4><span class="empty">語料接入中，敬請期待。</span></section>`;
+  html+=`<section class="source-work"><h4>三 · 資治通鑑</h4>${tongjianSectionHTML(p)}</section>`;
   if(orphans.length)html+=`<section class="source-work"><h4>附 · 裴注</h4><article class="source-excerpt"><div class="source-citation">所注正文未收錄</div>${peiNotesHTML(orphans)}</article></section>`;
   return html;
 }
@@ -259,6 +265,61 @@ async function loadWsBiography(p){
     }
   })();
   return wsBioPromises[p.id];
+}
+// 通鑑摘錄懒加载：单文件离线版读内嵌数据，dist 版按卷 fetch
+let tjDataCache=null;
+function tjData(){
+  if(tjDataCache)return tjDataCache;
+  const el=document.getElementById('tj-data');
+  tjDataCache=el?JSON.parse(el.textContent):{};
+  return tjDataCache;
+}
+const tjPromises={};
+function tongjianHTML(excerpts,p){
+  const byYear=new Map();
+  for(const e of excerpts){
+    if(!byYear.has(e.yearLabel))byYear.set(e.yearLabel,{ceYear:e.ceYear,items:[]});
+    byYear.get(e.yearLabel).items.push(e);
+  }
+  const years=[...byYear.keys()].sort((a,b)=>byYear.get(a).ceYear-byYear.get(b).ceYear);
+  return years.map(yl=>{
+    const items=byYear.get(yl).items;
+    const quoteId=`source-quote-${p.id}-tongjian-${yl}`;
+    return `<article class="source-excerpt"><div class="source-citation">《資治通鑑》${esc(yl)}</div>`+
+      items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${item.html}</blockquote>`+
+        (item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:'')
+      ).join('')+
+      `<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
+  }).join('');
+}
+async function loadTongjian(p){
+  const vols=(typeof TJ_INDEX!=='undefined'&&TJ_INDEX[p.id])||null;
+  const slot=document.querySelector(`[data-tj-person="${p.id}"]`);
+  if(!vols||!vols.length||!slot||slot.dataset.tjLoaded)return tjPromises[p.id];
+  slot.dataset.tjLoaded='1';
+  tjPromises[p.id]=(async()=>{
+    try{
+      let excerpts=tjData()[p.id];
+      if(!excerpts){
+        excerpts=[];
+        for(const vol of vols){
+          const r=await fetch('tongjian/'+vol+'.json');
+          if(!r.ok)throw new Error('HTTP '+r.status);
+          const j=await r.json();
+          excerpts.push(...j.segments.filter(s=>s.pid===p.id));
+        }
+        excerpts.sort((a,b)=>a.ceYear-b.ceYear||(a.id<b.id?-1:1));
+      }
+      if(!document.body.contains(slot))return;
+      const tmp=document.createElement('div');
+      tmp.innerHTML=tongjianHTML(excerpts,p);
+      slot.replaceWith(tmp.firstElementChild);
+      activateSourceExcerpts();
+    }catch(err){
+      if(document.body.contains(slot))slot.innerHTML='<span class="empty">通鑑摘錄載入失敗，請稍後再試。</span>';
+    }
+  })();
+  return tjPromises[p.id];
 }
 // 「本传亦载」跳转：展开本传卡片并滚动到对应段落；本传尚未载入时先等待加载
 document.addEventListener('click',e=>{
@@ -324,6 +385,7 @@ function openPerson(p){
   activateSourceExcerpts();
   activatePeiTags();
   loadWsBiography(p);
+  loadTongjian(p);
 }
 function portraitHTML(p){
  const entry=PORTRAITS.people[p.id];
