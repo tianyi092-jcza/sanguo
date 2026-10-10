@@ -32,6 +32,8 @@ button,input,select{font:inherit}button{touch-action:manipulation}button:focus-v
 #tlBar .btn{background:#f9f7f1;border:1px solid #b9c0b4;color:#3b4941;border-radius:4px;padding:7px 9px;font-size:12px}#tlBar .btn:hover{background:#e3e8dd}#tlBar .play-button{background:#35493f;border-color:#35493f;color:#fff;padding-left:12px;padding-right:12px}
 .timeline-key{display:flex;flex:none;align-items:center;gap:20px;padding:11px 30px;font-size:12px;color:#777b71;flex-wrap:wrap;border-bottom:1px solid var(--paper-line)}
 .timeline-key span{display:flex;align-items:center;gap:6px}.timeline-key i{display:inline-block;width:20px;height:9px;border:1px solid #7b8e7d;border-radius:2px;background:#dce3d5}.timeline-key .key-dashed{border-style:dashed;background:#eff0e8}.timeline-key .key-none{background:#eeeae3;border-color:#8e8a80}.timeline-key .key-unknown{background:repeating-linear-gradient(135deg,#dddcd4 0 1px,transparent 1px 4px);border-style:dashed;border-color:#999b91}.timeline-key .timeline-hint{margin-left:auto;color:#96988e}
+.timeline-key .faction-key{border-left:1px solid var(--paper-line);padding-left:16px;gap:10px;flex-wrap:wrap}
+.timeline-key .faction-chip{white-space:nowrap}
 #timelineHelp{border:0;background:none;color:#7e6144;font-size:12px;cursor:pointer;padding:0}
 #timelineViewport{flex:1;overflow:auto;overscroll-behavior:contain;position:relative;scrollbar-color:#b7b8ab #eeede6;scrollbar-width:thin;min-height:150px}
 #timelineSurface{position:relative;min-width:100%;isolation:isolate}

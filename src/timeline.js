@@ -66,6 +66,10 @@ function updateTimelineRows(){
   const dated=timelineState.rows.filter(p=>historyOf(p).segments.length).length;
   $('#timelineCount').textContent=DATA.per.filter(p=>!historyOf(p).outside).length;
   $('#timelineStatus').textContent=`顯示 ${timelineState.rows.length} 人 · ${dated} 人有可定位記載 · 按已核史料繫年排序`;
+  /* 势力颜色图例：随当前筛选动态显示用得最多的 12 个势力 */
+  const fcount=new Map();
+  for(const p of timelineState.rows)for(const s of historyOf(p).segments)fcount.set(s.faction,(fcount.get(s.faction)||0)+1);
+  $('#factionKey').innerHTML=[...fcount.entries()].sort((a,b)=>b[1]-a[1]).slice(0,12).map(([id])=>{const f=factionInfo(id);return `<span class="faction-chip"><i style="background:${f.background};border-color:${f.color}"></i>${esc(f.label)}</span>`;}).join('');
   clearMountedRows();
 }
 function clearMountedRows(){timelineState.mounted.clear();tlRows.replaceChildren();}
@@ -206,7 +210,11 @@ function positionTimelineTooltip(e){const tip=$('#timelineTooltip');tip.style.le
 function hideTimelineTooltip(){$('#timelineTooltip').hidden=true;}
 tlViewport.addEventListener('scroll',scheduleTimelinePaint,{passive:true});
 $('#zoomIn').onclick=()=>zoomTimeline(timelineState.scale*1.5);$('#zoomOut').onclick=()=>zoomTimeline(timelineState.scale/1.5);$('#zoomFit').onclick=()=>{zoomTimeline((tlViewport.clientWidth-nameWidth()-TL_PAD*2-12)/TL_SPAN);tlViewport.scrollLeft=0;};
-$('#personFilter').addEventListener('input',e=>{timelineState.query=e.target.value;tlViewport.scrollTop=0;updateTimelineRows();mountVisibleRows();});
+const personFilterEl=$('#personFilter');
+const applyPersonFilter=()=>{timelineState.query=personFilterEl.value;tlViewport.scrollTop=0;updateTimelineRows();mountVisibleRows();};
+/* IME 组字过程中不触发过滤，避免拼音中间态把列表清空；选字上屏瞬间过滤 */
+personFilterEl.addEventListener('input',e=>{if(e.isComposing)return;applyPersonFilter();});
+personFilterEl.addEventListener('compositionend',applyPersonFilter);
 $('#factionFilter').onchange=e=>{timelineState.faction=e.target.value;tlViewport.scrollTop=0;updateTimelineRows();mountVisibleRows();};
 $('#evidenceFilter').onchange=e=>{timelineState.evidence=e.target.value;tlViewport.scrollTop=0;updateTimelineRows();mountVisibleRows();};
 $('#goBtn').onclick=()=>gotoYear($('#goYear').value);$('#goYear').oninput=()=>$('#goYear').setCustomValidity('');$('#goYear').onkeydown=e=>{if(e.key==='Enter')gotoYear(e.target.value);};

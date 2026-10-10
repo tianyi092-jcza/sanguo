@@ -7,7 +7,7 @@
       <div class="zoom-control" role="group" aria-label="時間軸縮放"><button id="zoomOut" type="button" aria-label="縮小時間軸" title="縮小">−</button><output id="zoomValue" aria-live="polite">100%</output><button id="zoomIn" type="button" aria-label="放大時間軸" title="放大">＋</button><button id="zoomFit" type="button">全程</button></div>
       <div class="year-controls"><input type="number" id="goYear" min="184" max="280" placeholder="年份" aria-label="跳轉年份，184 至 280"><button class="btn" id="goBtn" type="button">前往</button><button class="btn play-button" id="playBtn" type="button">▶ 巡覽</button></div>
     </div>
-    <div class="timeline-key"><span><i class="key-solid"></i>有據可考</span><span><i class="key-dashed"></i>年代推定／邊界不詳</span><span><i class="key-none"></i>無勢力</span><span><i class="key-unknown"></i>歸屬不詳</span><span class="timeline-hint">點選色帶看史料 · 點選姓名看人物</span><button id="timelineHelp" type="button" aria-label="閱讀時間軸凡例">凡例 ↗</button></div>
+    <div class="timeline-key"><span><i class="key-solid"></i>有據可考</span><span><i class="key-dashed"></i>年代推定／邊界不詳</span><span><i class="key-none"></i>無勢力</span><span><i class="key-unknown"></i>歸屬不詳</span><span id="factionKey" class="faction-key" aria-label="当前列表中的势力颜色"></span><span class="timeline-hint">點選色帶看史料 · 點選姓名看人物</span><button id="timelineHelp" type="button" aria-label="閱讀時間軸凡例">凡例 ↗</button></div>
     <div id="timelineViewport" tabindex="0" aria-label="人物歸屬時間軸，可水平與垂直捲動">
       <div id="timelineSurface">
         <div id="timelineHeader">
