@@ -257,7 +257,8 @@ async function loadWsBiography(p){
       if(!document.body.contains(slot))return;
       const tmp=document.createElement('div');
       tmp.innerHTML=biographyFullHTML(bio,p);
-      slot.replaceWith(tmp.firstElementChild);
+      if(tmp.firstElementChild)slot.replaceWith(tmp.firstElementChild);
+      else slot.innerHTML='<span class="empty">本傳全文載入失敗，請稍後再試。</span>';
       activateSourceExcerpts();
       activatePeiTags();
     }catch(err){
@@ -313,7 +314,8 @@ async function loadTongjian(p){
       if(!document.body.contains(slot))return;
       const tmp=document.createElement('div');
       tmp.innerHTML=tongjianHTML(excerpts,p);
-      slot.replaceWith(tmp.firstElementChild);
+      if(tmp.firstElementChild)slot.replaceWith(tmp.firstElementChild);
+      else slot.innerHTML='<span class="empty">未收錄與本人相關的通鑑記載。</span>';
       activateSourceExcerpts();
     }catch(err){
       if(document.body.contains(slot))slot.innerHTML='<span class="empty">通鑑摘錄載入失敗，請稍後再試。</span>';
