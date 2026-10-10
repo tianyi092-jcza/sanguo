@@ -19,7 +19,11 @@ async function proxyGoogle(request, env) {
     const body = await request.text();
     const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/createSession?key=${encodeURIComponent(apiKey)}`, {
       method: 'POST',
-      headers: { 'content-type': 'application/json' },
+      headers: {
+        'content-type': 'application/json',
+        // 满足 API Key 的 HTTP Referrer 限制
+        'referer': 'https://sanguo.720108.xyz/',
+      },
       body: body || '{}',
     });
     return new Response(await resp.arrayBuffer(), {
@@ -36,7 +40,10 @@ async function proxyGoogle(request, env) {
     const params = new URLSearchParams(url.search);
     params.set('key', apiKey);
     const resp = await fetch(`${GOOGLE_TILE_HOST}/tile/v1/viewport?${params}`, {
-      headers: { 'accept': 'application/json' },
+      headers: {
+        'accept': 'application/json',
+        'referer': 'https://sanguo.720108.xyz/',
+      },
     });
     return new Response(await resp.arrayBuffer(), {
       status: resp.status,
@@ -54,7 +61,9 @@ async function proxyGoogle(request, env) {
     const params = new URLSearchParams(url.search);
     params.set('key', apiKey);
     // session 由前端传入（createSession 返回的 token）
-    const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`);
+    const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`, {
+      headers: { 'referer': 'https://sanguo.720108.xyz/' },
+    });
     if (!resp.ok) {
       return new Response('tile fetch failed', { status: resp.status });
     }
