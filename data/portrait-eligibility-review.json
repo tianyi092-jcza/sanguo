@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 164,
-  "remainingUnreviewedCount": 17,
+  "reviewedCount": 168,
+  "remainingUnreviewedCount": 13,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2613,6 +2613,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-40"
+    },
+    {
+      "id": "p0454",
+      "name": "青牛角",
+      "gender": "male",
+      "role": "黑山賊首領；《九州春秋》所列諸部之一",
+      "source": "a03-071",
+      "reviewNote": "《後漢書·卷七十一·列傳第六十一》a03-071 注引《九州春秋》：「自黃巾賊後，復有黑山、黃龍、白波、左校、郭大賢、于氐根、青牛角、張白騎、劉石……並起山谷閒，不可勝數。」（原文已抽查核驗）；《三國志·魏書·袁紹傳》a04-006 注引《英雄記》：「擊劉石、青牛角、黃龍、左校……」。黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-41"
+    },
+    {
+      "id": "p0455",
+      "name": "張白騎",
+      "gender": "male",
+      "role": "黑山賊首領；《九州春秋》「騎白馬者為張白騎」",
+      "source": "a03-071",
+      "reviewNote": "《後漢書·卷七十一》a03-071 注引《九州春秋》：「自黃巾賊後，復有黑山……青牛角、張白騎……並起山谷閒，不可勝數。」；「騎白馬者為張白騎」——其綽號由來為本人史料自載，非套用他人特徵（半身像不呈馬）。eligible，武將，戴頭盔、穿盔甲，五官面容採普通比例藝術示意。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-41"
+    },
+    {
+      "id": "p0456",
+      "name": "劉石",
+      "gender": "male",
+      "role": "黑山賊首領；《九州春秋》所列諸部之一",
+      "source": "a03-071",
+      "reviewNote": "《後漢書·卷七十一》a03-071 注引《九州春秋》：「自黃巾賊後，復有黑山……張白騎、劉石……並起山谷閒，不可勝數。」（原文已抽查核驗）；《三國志·魏書·袁紹傳》a04-006 注引《英雄記》：「擊劉石、青牛角、黃龍、左校……」。黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-41"
+    },
+    {
+      "id": "p0457",
+      "name": "平漢",
+      "gender": "male",
+      "role": "黑山賊首領；《九州春秋》所列諸部之一",
+      "source": "a03-071",
+      "reviewNote": "《後漢書·卷七十一》a03-071 注引《九州春秋》：「自黃巾賊後，復有黑山……劉石、左髭丈八、平漢……並起山谷閒，不可勝數。」（原文已抽查核驗）；《三國志·魏書·張燕傳》a04-008 注引《九州春秋》：「黑山、白波、黃龍、左校、牛角、五鹿、羝根、苦蝤、劉石、平漢……」。黑山賊首領，記載明確。eligible，武將，戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-41"
     }
   ]
 }
