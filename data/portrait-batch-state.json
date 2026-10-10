@@ -1,22 +1,22 @@
 {
-  "batch": "portrait-batch-34",
+  "batch": "portrait-batch-35",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 433,
+  "generatedCount": 437,
   "ids": [
-    "p0424",
-    "p0425",
-    "p0427",
-    "p0428"
+    "p0429",
+    "p0430",
+    "p0431",
+    "p0432"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-34：荀爽(p0424)、黃琬(p0425)、張咨(p0427)、王睿(p0428)逐人適用性複核通過（《後漢書·荀爽傳》a03-062 / 《後漢書·黃瓊傳附》a03-061 / 《三國志·吳書·孫破虜討逆傳》裴注引《英雄記》a04-046，原文已抽查核驗）；四人皆文官（司空/太尉/南陽太守/荊州刺史），著文士服飾（張咨原表名張咨，資格名單作張諮，同一人）；荀爽論曰已黃髮，老年示意；餘未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩41人待複核。",
+  "note": "portrait-batch-35：趙韙(p0429)、龐羲(p0430)、嚴綱(p0431)、公孫越(p0432)逐人適用性複核通過（《三國志·蜀書·劉焉劉璋傳》a04-031 / 《三國志·魏書·公孫瓚傳》a04-008，原文已抽查核驗）；四人皆武將（征東中郎將/巴西太守領兵/公孫瓚部將/公孫瓚之弟從軍），戴頭盔、穿盔甲；均未核得五官特徵，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單剩37人待複核。",
   "pending": 0,
   "portraitEligibilityReviewComplete": false,
-  "previousCompletedEntriesUnchanged": 429,
+  "previousCompletedEntriesUnchanged": 433,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",
@@ -25,7 +25,7 @@
   "scheduleNote": "定时续作配置在本次心跳启动后更新为PAUSED；本批已完成上线，保持暂停等待用户确认，不自动恢复。",
   "sourceRepositoryUploaded": true,
   "stage": "generated-local",
-  "unlistedPortraitPeople": 41,
+  "unlistedPortraitPeople": 37,
   "verificationBuild": "1dbb0f9f-f4a1-4bef-9a24-2db8c107484f",
   "verificationCommit": "92749334312cfd294f4eab6fce42494971aee76e"
 }

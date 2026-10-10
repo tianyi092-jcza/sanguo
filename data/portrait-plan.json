@@ -6159,5 +6159,61 @@
     "file": "p0428.webp",
     "generator": "built-in imagegen",
     "reviewNote": null
+  },
+  {
+    "id": "p0429",
+    "name": "趙韙",
+    "gender": "male",
+    "role": "益州將領；征東中郎將，後叛劉璋稱兵內向，兵敗被殺",
+    "source": "a04-031",
+    "evidence": "《三國志·蜀書·劉焉劉璋傳》a04-031：「以韙為征東中郎將，率衆擊劉表」；「趙韙素得人心，璋委任之。韙因民怨謀叛……趙韙稱兵內向，衆散見殺」",
+    "appearance": "未核得五官特徵，採普通比例藝術示意，未套用他人特徵",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 趙韙 (Zhao Wei, late Eastern Han military commander in Yizhou: a former Han 太倉令 who followed Liu Yan into Shu, was appointed 征東中郎將 (General Who Conquers the East) and led troops against Liu Biao; later, trusted by Liu Zhang, he raised a rebellion (「稱兵內向」), winning over Shu, Guanghan and Qianwei, besieged Chengdu, and was killed when his followers scattered. Primary source: Records of the Three Kingdoms, Book of Shu, Biography of Liu Yan and Liu Zhang (a04-031): 「以韙為征東中郎將，率衆擊劉表」; 「趙韙稱兵內向，衆散見殺」). No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a dark iron war helmet over a bound topknot, dark iron lamellar shoulder armour over a dark cross-collared robe, stern resolute battle commander expression, mature adult male with a short dark beard, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "status": "generated",
+    "file": "p0429.webp",
+    "generator": "built-in imagegen",
+    "reviewNote": null
+  },
+  {
+    "id": "p0430",
+    "name": "龐羲",
+    "gender": "male",
+    "role": "漢議郎→巴西太守領兵禦張魯→劉備左將軍司馬",
+    "source": "a04-031",
+    "evidence": "《三國志·蜀書·劉焉劉璋傳》a04-031：「議郎河南龐羲與焉通家，乃募將焉諸孫入蜀」；「璋累遣龐羲等攻魯……故以羲為巴西太守，領兵禦魯」；「先主定蜀，羲為左將軍司馬」",
+    "appearance": "未核得五官特徵，採普通比例藝術示意，未套用他人特徵",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 龐羲 (Pang Xi, late Eastern Han 議郎 and military commander in Yizhou: a 河南議郎 on close terms with Liu Yan's family, who recruited and escorted Liu Yan's grandsons into Shu; under Liu Zhang he attacked Zhang Lu repeatedly and was appointed 巴西太守, leading troops to hold the line against Zhang Lu (「領兵禦魯」); after Liu Bei took Shu he served as 左將軍司馬. Primary source: Records of the Three Kingdoms, Book of Shu (a04-031): 「議郎河南龐羲與焉通家，乃募將焉諸孫入蜀」; 「故以羲為巴西太守，領兵禦魯」; 「先主定蜀，羲為左將軍司馬」). No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a dark iron war helmet over a bound topknot, dark iron lamellar shoulder armour over a dark cross-collared robe, calm experienced commander expression, mature adult male with a short dark beard, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "status": "generated",
+    "file": "p0430.webp",
+    "generator": "built-in imagegen",
+    "reviewNote": null
+  },
+  {
+    "id": "p0431",
+    "name": "嚴綱",
+    "gender": "male",
+    "role": "公孫瓚部將，署冀州；界橋前戰被麴義生擒",
+    "source": "a04-008",
+    "evidence": "《三國志·魏書·公孫瓚傳》a04-008：「以嚴綱為兾州……紹軍廣川，令將麴義先登與瓚戰，生禽綱」",
+    "appearance": "未核得五官特徵，採普通比例藝術示意，未套用他人特徵",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 嚴綱 (Yan Gang, military officer under Gongsun Zan: appointed to hold 冀州 by Gongsun Zan after the victory over Yuan Shao; later captured alive by Yuan Shao's vanguard general Qu Yi at Guangchuan (「生禽綱」). Primary source: Records of the Three Kingdoms, Book of Wei, Biography of Gongsun Zan (a04-008): 「以嚴綱為兾州……紹軍廣川，令將麴義先登與瓚戰，生禽綱」). No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a dark iron war helmet over a bound topknot, dark iron lamellar shoulder armour over a dark cross-collared robe, stern battle-worn expression, adult male with a short dark beard, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "status": "generated",
+    "file": "p0431.webp",
+    "generator": "built-in imagegen",
+    "reviewNote": null
+  },
+  {
+    "id": "p0432",
+    "name": "公孫越",
+    "gender": "male",
+    "role": "公孫瓚之弟；與孫堅合攻周昂，中流矢死",
+    "source": "a04-008",
+    "evidence": "《三國志·魏書·公孫瓚傳》a04-008：「術遣越與堅攻昂，不勝，越為流矢所中死。瓚怒曰：「余弟死，禍起於紹。」」",
+    "appearance": "未核得五官特徵，採普通比例藝術示意，未套用他人特徵",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 公孫越 (Gongsun Yue, younger brother of Gongsun Zan, military officer: sent by Yuan Shu together with Sun Jian to attack Zhou Ang at Yangcheng, was struck by a stray arrow and died (「越為流矢所中死」); his death enraged Gongsun Zan and sparked the Gongsun–Yuan war (「余弟死，禍起於紹」). Primary source: Records of the Three Kingdoms, Book of Wei, Biography of Gongsun Zan (a04-008): 「術遣越與堅攻昂，不勝，越為流矢所中死。瓚怒曰：「余弟死，禍起於紹。」」). No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a dark iron war helmet over a bound topknot, dark iron lamellar shoulder armour over a dark cross-collared robe, bold youthful commander expression, younger adult male with a short dark beard, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "status": "generated",
+    "file": "p0432.webp",
+    "generator": "built-in imagegen",
+    "reviewNote": null
   }
 ]

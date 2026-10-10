@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 140,
-  "remainingUnreviewedCount": 41,
+  "reviewedCount": 144,
+  "remainingUnreviewedCount": 37,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2349,6 +2349,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-34"
+    },
+    {
+      "id": "p0429",
+      "name": "趙韙",
+      "gender": "male",
+      "role": "益州將領；征東中郎將，後叛劉璋稱兵內向，兵敗被殺",
+      "source": "a04-031",
+      "reviewNote": "《三國志·蜀書·劉焉劉璋傳》a04-031「以韙為征東中郎將，率衆擊劉表」；「趙韙素得人心，璋委任之。韙因民怨謀叛……趙韙稱兵內向，衆散見殺」。記載明確。eligible，武將（征東中郎將/叛軍首領），戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-35"
+    },
+    {
+      "id": "p0430",
+      "name": "龐羲",
+      "gender": "male",
+      "role": "漢議郎→巴西太守領兵禦張魯→劉備左將軍司馬",
+      "source": "a04-031",
+      "reviewNote": "《三國志·蜀書·劉焉劉璋傳》a04-031「議郎河南龐羲與焉通家，乃募將焉諸孫入蜀」；「故以羲為巴西太守，領兵禦魯」；「先主定蜀，羲為左將軍司馬」。記載明確。eligible，武將（巴西太守領兵禦魯），戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-35"
+    },
+    {
+      "id": "p0431",
+      "name": "嚴綱",
+      "gender": "male",
+      "role": "公孫瓚部將，署冀州；界橋前戰被麴義生擒",
+      "source": "a04-008",
+      "reviewNote": "《三國志·魏書·公孫瓚傳》a04-008「以嚴綱為兾州……紹軍廣川，令將麴義先登與瓚戰，生禽綱」。記載明確。eligible，武將（公孫瓚部將），戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-35"
+    },
+    {
+      "id": "p0432",
+      "name": "公孫越",
+      "gender": "male",
+      "role": "公孫瓚之弟；與孫堅合攻周昂，中流矢死",
+      "source": "a04-008",
+      "reviewNote": "《三國志·魏書·公孫瓚傳》a04-008「術遣越與堅攻昂，不勝，越為流矢所中死。瓚怒曰：「余弟死，禍起於紹。」」。記載明確。eligible，武將（公孫瓚之弟，率兵從軍），戴頭盔、穿盔甲。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-35"
     }
   ]
 }
