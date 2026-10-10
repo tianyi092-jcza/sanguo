@@ -103,6 +103,22 @@ main{flex:1;position:relative;overflow:hidden}
 #tbl thead th{background:var(--paper-deep);font-weight:600;white-space:nowrap}
 #tbl tbody tr:nth-child(even){background:#efece2}
 #tbl tbody tr:hover{background:#e7e3d5}
+#tbl tr.zhou-row td{background:#e4ddc9;font-weight:600}
+#tbl tr.zhou-row:hover td{background:#dcd4bd}
+.off-holders{line-height:2}
+.off-pill{display:inline-block;border:1px solid #a89c7d;border-radius:6px;padding:1px 7px;margin:1px 2px;background:#fffdf6;color:var(--paper-ink);cursor:pointer;white-space:nowrap}
+.off-pill:hover{background:#f3ecd9;border-color:#8a7c58}
+.off-raw{color:#a09a8a;margin:1px 2px;white-space:nowrap}
+.off-sep{color:#b3a988;margin:0 1px}
+.off-role{color:#7d7666;font-size:11px;margin-right:2px}
+#modal.office-modal{background:#f7f3e8;color:#2b2620;border-color:#d8cfae}
+#modal.office-modal h2{color:#2b2620}
+#modal.office-modal #mClose{color:#7d7666}
+.off-ev-list{margin-top:12px}
+.off-ev{border:1px solid #ddd3b8;border-radius:8px;padding:10px 12px;margin-bottom:10px;background:#fffdf6}
+.off-ev-q{font-family:var(--serif);line-height:1.9;font-size:13.5px;color:#2b2620;text-align:justify}
+.off-ev-s{font-size:11.5px;color:#8a8272;margin-top:6px}
+.off-ev-s a{color:#7a6c4f}
 table{width:100%;border-collapse:collapse;font-size:13px}
 th{position:sticky;top:0;background:#232b37;color:#d8cfb8;padding:8px 10px;text-align:left;font-weight:600;z-index:2}
 td{padding:6px 10px;border-bottom:1px solid #232b37;color:var(--ink2)}
@@ -203,7 +219,7 @@ tr:hover td{background:#ffffff08}
   <section class="view" id="v-tbl">
     <div id="tblWrap">
       <input id="tblQ" type="text" placeholder="筛选郡县（名称 / 治所 / 今址）…">
-      <table id="tbl"><thead><tr><th>郡国</th><th>治所</th><th>今址</th><th>建安五年(200)</th><th>建安二十四年(219)</th><th>景元四年(263)</th></tr></thead><tbody></tbody></table>
+      <table id="tbl"><thead><tr><th>郡国</th><th>治所</th><th>今址</th><th>历任主官</th><th>建安五年(200)</th><th>建安二十四年(219)</th><th>景元四年(263)</th></tr></thead><tbody></tbody></table>
     </div>
   </section>
   <section class="view" id="v-about"><div id="about"></div></section>
@@ -625,7 +641,7 @@ function openEvent(ev){
     <div class="src">依据：${esc(ev.s)}</div>`;
   $("#mask").style.display="flex";$("#mClose").onclick=closeModal;
 }
-function closeModal(){$("#mask").style.display="none";$("#modal").classList.remove('person-modal');}
+function closeModal(){$("#mask").style.display="none";$("#modal").classList.remove('person-modal');$("#modal").classList.remove('office-modal');}
 $("#mask").addEventListener("click",e=>{if(e.target.id==="mask")closeModal();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal();});
 
@@ -661,15 +677,68 @@ function gotoPerson(p){
   }else openPerson(p);
 }
 
-/* ================= 郡县表 ================= */
+/* ================= 郡县表（含州分组 + 历任主官） ================= */
+function offHolderHTML(h, placeKey, officeKey){
+  const attrs = ` data-ph="${esc(placeKey)}" data-oh="${esc(officeKey)}" data-pn="${esc(h.n)}"`;
+  if(h.pid) return `<span class="off-pill"${attrs}>${esc(h.n)}</span>`;
+  return `<span class="off-raw">${esc(h.n)}</span>`;
+}
+function offHoldersHTML(holders, placeKey, officeKey){
+  return (holders||[]).map((h,i)=>(i?'<span class="off-sep">⇢</span>':'')+offHolderHTML(h,placeKey,officeKey)).join('');
+}
 function renderTbl(){
   const tb=document.querySelector("#tbl tbody");
   const draw=()=>{
     const v=$("#tblQ").value.trim();
-    tb.innerHTML=DATA.cmd.filter(c=>!v||c.n.includes(v)||c.seat.includes(v)||c.mod.includes(v))
-      .map(c=>`<tr><td>${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`).join("");
+    const nq = typeof normalizeSearch==='function' ? normalizeSearch(v) : v;
+    const match=c=>!nq||normalizeSearch(c.n+c.seat+c.mod).includes(nq);
+    let html='';
+    for(const z of OFFICE_ZHOU){
+      const cmds=DATA.cmd.filter(c=>OFFICE_CMD_ZHOU[c.n]===z&&match(c));
+      if(!cmds.length) continue;
+      const zo=OFFICES.zhou[z]||{'刺史':[],'牧':[]};
+      const zCell=`<span class="off-role">刺史</span>${offHoldersHTML(zo['刺史'],z,'刺史')||'<span class="off-raw">—</span>'}<br><span class="off-role">牧</span>${offHoldersHTML(zo['牧'],z,'牧')||'<span class="off-raw">—</span>'}`;
+      html+=`<tr class="zhou-row"><td>${esc(z)}</td><td></td><td></td><td>${zCell}</td><td></td><td></td><td></td></tr>`;
+      for(const c of cmds){
+        const co=OFFICES.cmd[c.n];
+        const holders=co?co.holders:[];
+        const okey=co?co.office:'太守';
+        html+=`<tr><td>${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td><div class="off-holders">${offHoldersHTML(holders,c.n,okey)||'<span class="off-raw">—</span>'}</div></td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
+      }
+    }
+    // 未分组的郡国（以防万一）
+    const rest=DATA.cmd.filter(c=>!OFFICE_CMD_ZHOU[c.n]&&match(c));
+    for(const c of rest){
+      const co=OFFICES.cmd[c.n];
+      const holders=co?co.holders:[];
+      const okey=co?co.office:'太守';
+      html+=`<tr><td>${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td><div class="off-holders">${offHoldersHTML(holders,c.n,okey)||'<span class="off-raw">—</span>'}</div></td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
+    }
+    tb.innerHTML=html;
   };
   $("#tblQ").addEventListener("input",draw);draw();
+  // 历任主官引文弹窗（事件委托）
+  document.querySelector("#tbl").addEventListener("click",ev=>{
+    const t=ev.target.closest(".off-pill");
+    if(!t) return;
+    ev.stopPropagation();
+    showOfficePopup(t.dataset.ph,t.dataset.oh,t.dataset.pn);
+  });
+}
+function showOfficePopup(placeKey,officeKey,personName){
+  let holder=null;
+  const z=OFFICES.zhou[placeKey];
+  if(z&&(z[officeKey]||[]).length) holder=z[officeKey].find(h=>h.n===personName);
+  if(!holder){
+    const c=OFFICES.cmd[placeKey];
+    if(c) holder=c.holders.find(h=>h.n===personName);
+  }
+  if(!holder) return;
+  const evs=holder.ev.map(e=>`<div class="off-ev"><div class="off-ev-q">「${esc(e.q)}」</div><div class="off-ev-s">出處：${esc(e.s)}　章節：${esc(e.c)}${e.u?`　<a href="${esc(e.u)}" target="_blank" rel="noopener">鏈接</a>`:''}</div></div>`).join('');
+  $("#modal").innerHTML=`<button id="mClose">✕</button><h2>${esc(personName)} <span style="font-size:14px;color:#7d7666">· ${esc(placeKey)}${esc(officeKey)}</span></h2><div class="off-ev-list">${evs}</div>`;
+  $("#modal").classList.add('office-modal');
+  $("#mask").style.display="flex";
+  $("#mClose").onclick=()=>{$("#mask").style.display="none";$("#modal").classList.remove('office-modal');};
 }
 renderTbl();
 
