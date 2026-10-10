@@ -109,7 +109,7 @@ main{flex:1;position:relative;overflow:hidden}
 .off-pill{display:inline-block;border:1px solid #a89c7d;border-radius:6px;padding:1px 7px;margin:1px 2px;background:#fffdf6;color:var(--paper-ink);cursor:pointer;white-space:nowrap}
 .off-pill:hover{background:#f3ecd9;border-color:#8a7c58}
 .off-raw{color:#a09a8a;margin:1px 2px;white-space:nowrap}
-.off-sep{color:#b3a988;margin:0 1px}
+.off-sep{color:#b3a988;margin:0 4px}
 .off-role{color:#7d7666;font-size:11px;margin-right:2px}
 #modal.office-modal{background:#f7f3e8;color:#2b2620;border-color:#d8cfae}
 #modal.office-modal h2{color:#2b2620}
@@ -684,7 +684,7 @@ function offHolderHTML(h, placeKey, officeKey){
   return `<span class="off-raw">${esc(h.n)}</span>`;
 }
 function offHoldersHTML(holders, placeKey, officeKey){
-  return (holders||[]).map((h,i)=>(i?'<span class="off-sep">⇢</span>':'')+offHolderHTML(h,placeKey,officeKey)).join('');
+  return (holders||[]).map((h,i)=>(i?'<span class="off-sep"> </span>':'')+offHolderHTML(h,placeKey,officeKey)).join('');
 }
 function renderTbl(){
   const tb=document.querySelector("#tbl tbody");

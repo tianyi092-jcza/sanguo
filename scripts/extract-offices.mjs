@@ -4,14 +4,15 @@
  * 用法：node scripts/extract-offices.mjs → data/offices.json
  */
 import fs from 'node:fs';
-import { makeHistory, traditional } from './history.mjs';
+import { traditional } from './history.mjs';
 import { NIANHAO as NIANHAO_BASE } from '/home/hatch/workspace/sanguo-retrieval-poc/time_table.mjs';
 // offices 專用：補上檢索用年号表刻意省略的晉候選（太和366、永和345），使歧義年号能被標記
 const NIANHAO = { ...NIANHAO_BASE };
 NIANHAO['太和'] = [...NIANHAO['太和'], { start: 366, dyn: 'jin' }];
 NIANHAO['永和'] = [...NIANHAO['永和'], { start: 345, dyn: 'jin' }];
 
-const { data } = makeHistory(JSON.parse(fs.readFileSync('data/original.json', 'utf8')));
+// 人物表直接讀緩存（不經 makeHistory，避免 appraisal 綁定舊文本；文本已切換為維基文庫版）
+const data = { per: JSON.parse(fs.readFileSync('data/person-list.json', 'utf8')) };
 const name2id = new Map();
 for (const p of data.per) {
   name2id.set(p.n, p.id);
@@ -61,7 +62,7 @@ function stripTrail(s) {
   while (s.length > 2 && TRAIL_STRIP.has(s[s.length - 1])) s = s.slice(0, -1);
   return s;
 }
-const VERBS = '拜|除|遷|轉|徙|出為|為|領|行|署|表(?!乃|遂|即|便)|以|授'; // 表后跟乃/遂/即/便是主语（表乃…），非动词
+const VERBS = '拜|除|遷|轉|徙|歷|出為|為|領|行|署|表(?!乃|遂|即|便)|以|授'; // 表后跟乃/遂/即/便是主语（表乃…），非动词
 const officePat = new RegExp(`(${VERBS})([^，。；：、]{0,8}?)(${fullAlt})(?!事|伯)`, 'g');
 const afterPat = new RegExp(`(${fullAlt})(?!事|伯)([^，。；：、]{1,10})`, 'g');
 const preVerbPat = new RegExp(`([\u4e00-\u9fff]{1,4})(領|拜|除|授|為)(${fullAlt})(?!事|伯)`, 'g'); // X為南郡太守：被任命者在動詞前
@@ -77,7 +78,7 @@ function hasTitle(s) {
 }
 const VERB1 = new Set('斬殺討擊攻破擒執收遣命使拜除授封賜率領鎮守戍伐征平定安撫慰勞賞罰黜陟舉辟召奉將從救迎往赴距開叛城麤'.split('')); // 切片首字/扩展位不能是动词
 const BOUNDARY = new Set('等、，。，；：卒薨奔討攻擊破救迎往至率領遣使詣降叛斬殺走退還入出鎮守代為字曰云謂與及以因遂乃即便亦復又再將欲當上表坐繫收執擒誅貶免死病所奉距'.split(''));
-const SINGLE_CHAR = { '琦': '劉琦' }; // 單字指代：語料中琦幾乎都是劉琦
+const SINGLE_CHAR = { '琦': '劉琦', '攸': '荀攸', '允': '王允' }; // 單字指代：琦~劉琦，攸~荀攸，允~王允
 const ADVERB1 = new Set('初頃既已遂乃因復又再皆悉俱並亦仍猶尚方始終每常數輒便即就纔才乍暫漸稍略頗甚極殊尤益愈更重複屢頻累迭交互相共咸盡遍滿充具'.split('')); // 單字副詞：初為X太守的"初"不是人名
 const POS1 = new Set('上下先後今此彼其我吾汝爾卿朕孤臣'.split(''));
 const ALIAS = { '先主': '劉備', '武烈': '孫堅', '曹公': '曹操' };
@@ -117,6 +118,7 @@ function expandSingleChar(ch, fileText, nearIdx) {
   let m, best = null;
   while ((m = re.exec(fileText))) {
     if (FUNC1.has(m[1]) || m[1] === '史' || m[1] === '守' || m[1] === '刺') continue;
+    if (['子', '女', '兄', '弟', '姊', '妹', '父', '母', '妻', '夫', '甥', '婿'].includes(m[1])) continue; // 子璋=兒子璋（劉璋），非表字
     if (m.index >= nearIdx - 2) continue; // 排除与匹配点重叠（如"表琦"的表）
     const cand = m[1] + ch;
     const d = Math.abs(m.index - nearIdx);
@@ -194,6 +196,14 @@ function resolveAfter(after, fileText, nearIdx) {
     if (nx === undefined || BOUNDARY.has(nx) || TITLES.some(t => t.length > 1 && rest.startsWith(t))) best = { nm: cand, id: null }; // 取最长合法（傅羣主簿 -> 傅羣）
   }
   if (best) return best;
+  // 單字名 + 連詞：攸及潁川郭嘉 → 攸（荀攸）是蜀郡太守，郭嘉是另一個被薦者，不抓後面的人
+  const sc = after.match(/^([\u4e00-\u9fff])([及與和同並、，])/);
+  if (sc && !FUNC1.has(sc[1]) && !VERB1.has(sc[1])) {
+    if (SINGLE_CHAR[sc[1]]) return { nm: SINGLE_CHAR[sc[1]], id: name2id.get(SINGLE_CHAR[sc[1]]) || null };
+    const ex = expandSingleChar(sc[1], fileText, nearIdx);
+    if (ex && ex.id) return ex;
+    return null;
+  }
   const ff = findFirstName(after); // 册文体（高陽鄉侯臣吳壹）：人名不在开头
   if (ff) return ff;
   const chm = after.match(/^([\u4e00-\u9fff])/);
@@ -207,6 +217,23 @@ function resolveMention(mention, fileText, nearIdx, sectionPerson) {
   const m = cleanMention(mention);
   if (!m) return 'EMPTY'; // 動詞與地名之間無字：由調用方按動詞類型處理
   return resolveMentionCore(m, fileText, nearIdx, sectionPerson);
+}
+// 傳記開頭確立的話題人物：徐奕字季才 → 徐奕；允字子師 → 王允（用於仕途動詞省略主語時）
+function topicFromBioOpen(text, idx) {
+  const back = text.slice(Math.max(0, idx - 300), idx);
+  // 兩字名：徐奕字季才
+  let bm = back.match(/([\u4e00-\u9fff]{2})字[\u4e00-\u9fff]{1,2}/);
+  if (bm && name2id.has(bm[1])) {
+    return { nm: bm[1], id: name2id.get(bm[1]) };
+  }
+  // 單字：允字子師 → 查 SINGLE_CHAR
+  bm = back.match(/([\u4e00-\u9fff])字[\u4e00-\u9fff]{1,2}/);
+  if (bm && SINGLE_CHAR[bm[1]]) {
+    const nm = SINGLE_CHAR[bm[1]];
+    const id = name2id.get(nm);
+    if (id) return { nm, id };
+  }
+  return null;
 }
 function resolveMentionCore(m, fileText, nearIdx, sectionPerson) {
   m = m.replace(/^(長子|次子|幼子|長男|從子|從弟)/, ''); // 長子琦 -> 琦
@@ -247,29 +274,25 @@ const results = [];
 const seen = new Set();
 function addHit(unit, person, year, yearLabel, quote, source, pat, amb) {
   if (!person || !unit) return;
-  if (year !== null && (year < 184 || year > 265)) return;
   const pid = person.id || null;
+  if (!pid) return; // 2026-10-10 用戶決定：只保留 471 名單內人物，取消名單外
+  if (year !== null && (year < 184 || year > 265)) return;
   const nm0 = person.nm.replace(/麋/g, '糜').replace(/叡/g, '睿');
-  if (!pid && DENYLIST.has(nm0)) return;
+  if (DENYLIST.has(nm0)) return;
   const isJin = source.corpus.startsWith('a05');
-  if (isJin && amb && !pid) return; // 晉書年号歧義（如建興元年223/313）且非名單人物，剔除
+  if (isJin && amb) return; // 晉書歧義年号（如建興223/313、太和227/366）一律剔除
   if (year === null) {
-    if (!pid && isJin) return; // 晉書無年份的名单外人名多為晉人，剔除
-    if (pid) {
-      const bd = personBD.get(pid);
-      if (bd && ((bd.b && bd.b > 265) || (bd.d && bd.d < 184))) return; // 生卒落在範圍外
-    }
-  } else if (pid) {
+    const bd = personBD.get(pid);
+    if (bd && ((bd.b && bd.b > 265) || (bd.d && bd.d < 184))) return; // 生卒落在範圍外
+  } else {
     const bd = personBD.get(pid); // 年份與生卒矛盾（如建興元年誤取223而陶侃生於259），剔除
     if (bd && ((bd.b && year < bd.b - 1) || (bd.d && year > bd.d + 1))) return;
   }
-  const nm = person.nm.replace(/麋/g, '糜').replace(/叡/g, '睿'); // 異體字歸一
-  const key = `${unit.place}|${unit.office}|${nm}`; // 按歸一化人名去重（王叡/王睿、麋芳/糜芳合併）
+  const nm = id2name.get(pid).replace(/麋/g, '糜').replace(/叡/g, '睿'); // 一律用標準名（防簡繁重複）
+  const key = `${unit.place}|${unit.office}|${nm}`;
   const ev = { q: quote, s: source.label, c: source.chapter, u: source.url, pat, y: year, yl: yearLabel };
   if (seen.has(key)) {
-    const ex = results.find(r => r.key === key);
-    ex.evidence.push(ev);
-    if (!ex.personId && pid) ex.personId = pid; // 優先保留 471 id
+    results.find(r => r.key === key).evidence.push(ev);
     return;
   }
   seen.add(key);
@@ -304,14 +327,26 @@ function scanText(text, fileText, source, sectionPerson, yearOverride) {
       const afterRaw = text.slice(m.index + full.length, m.index + full.length + 12);
       if (!/^[，。；：、？！。\s　]/.test(afterRaw)) {
         person = resolveAfter(afterRaw, fileText, m.index); // 領江夏太守周瑜 / 領南郡太守史郃
-        if (person) { /* AFTER 命中 */ }
-        else if (['領', '拜', '除', '授'].includes(verb)) continue; // P3 會處理
-        else person = nearestBefore(text, m.index);
+        if (!person) {
+          if (['領', '拜', '除', '授'].includes(verb)) continue; // P3 會處理
+          // 仕途動詞（出為/轉/徙/遷/歷）無句內主語：試傳記開頭話題人物，否則用 sectionPerson
+          if (['出為', '轉', '徙', '遷', '歷'].includes(verb)) {
+            person = topicFromBioOpen(text, m.index) || sectionPerson;
+          }
+          if (!person) continue; // 寧闕毋妄
+        }
       } else if (['領', '拜', '除', '授'].includes(verb)) continue; // 吳人蘇代領長沙太守：P3 處理
-      else person = aliasHit(text.slice(Math.max(0, m.index - 12), m.index)) || nearestBefore(text, m.index); // 李勝出為荊州刺史 / 糜芳…為南郡太守（先試別名如先主）
+      else {
+        person = aliasHit(text.slice(Math.max(0, m.index - 12), m.index)); // 先主 → 劉備
+        if (!person && ['出為', '轉', '徙', '遷', '歷', '為'].includes(verb)) {
+          // 仕途動詞無句內主語：傳記開頭話題人物 > sectionPerson（徐奕出為魏郡太守；王允歷豫州刺史）
+          person = topicFromBioOpen(text, m.index) || sectionPerson;
+        }
+        if (!person) continue; // 寧闕毋妄
+      }
     }
-    else if (r === 'AFTER') person = resolveAfter(text.slice(m.index + full.length, m.index + full.length + 10), fileText, m.index) || sectionPerson;
-    else if (r === 'BEFORE') person = nearestBefore(text, m.index) || sectionPerson;
+    else if (r === 'AFTER') person = resolveAfter(text.slice(m.index + full.length, m.index + full.length + 10), fileText, m.index);
+    else if (r === 'BEFORE') person = nearestBefore(text, m.index);
     else person = r;
     if (!person) continue;
     const yo = extractYear(text, m.index) || yearOverride;
@@ -342,7 +377,7 @@ function scanText(text, fileText, source, sectionPerson, yearOverride) {
     const who2 = who.replace(/^(因|乃|遂|即|便|既|已|而|則|亦|復|又|再|所|其|之|為|以|與|于|於|自|從)+/, '');
     let person = null;
     if (!who2) {
-      person = nearestBefore(text, m.index) || sectionPerson; // 因領南郡太守：被任命者在前
+      continue; // 寧闕毋妄：被任命者不明，不隨機猜
     } else if (who2.includes('自')) {
       // 自與領江夏太守周瑜：被任命者在職官後
       const afterRaw = text.slice(m.index + full.length, m.index + full.length + 12);
@@ -399,11 +434,14 @@ for (const f of files.sort()) {
     url: d.url || '',
   };
   const paras = d.paragraphs || [];
-  const fileText = paras.map(p => typeof p === 'string' ? p : (p.text || '')).join('\n');
+  // 維基文本異體歸一：爲→為（動詞表用為）
+  const norm = s => s.replace(/爲/g, '為');
+  const fileText = norm(paras.map(p => typeof p === 'string' ? p : (p.text || '')).join('\n'));
   let sectionPerson = null;
   for (const p of paras) {
-    const t = typeof p === 'string' ? p : (p.text || '');
-    if (!t) continue;
+    const t0 = typeof p === 'string' ? p : (p.text || '');
+    if (!t0) continue;
+    const t = norm(t0);
     const hm = t.match(/^(.{1,8})(傳|紀|志)$/);
     if (hm && !/[，。；：、曰]/.test(t)) {
       const nm = hm[1];
@@ -417,7 +455,7 @@ const tjSegs = JSON.parse(fs.readFileSync('data/tongjian/segments.json', 'utf8')
 for (const [vol, v] of Object.entries(tjSegs)) {
   const src = { corpus: `tongjian-${vol}`, label: '《資治通鑑》', chapter: `卷${vol}`, url: v.url || '' };
   for (const s of v.segments) {
-    const text = (s.text || '').replace(/<[^>]+>/g, '');
+    const text = (s.text || '').replace(/<[^>]+>/g, '').replace(/爲/g, '為');
     if (!text) continue;
     const yo = s.ceYear ? { year: s.ceYear, label: `${s.ceYear}年` } : null;
     scanText(text, text, src, null, yo);
