@@ -726,8 +726,8 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 136,
-  "remainingUnreviewedCount": 45,
+  "reviewedCount": 140,
+  "remainingUnreviewedCount": 41,
   "portraitEligibilityReviewComplete": false,
   "entries": [
     {
@@ -2305,6 +2305,50 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-33"
+    },
+    {
+      "id": "p0424",
+      "name": "荀爽",
+      "gender": "male",
+      "role": "東漢名儒、司空；荀彧從祖父，以經學著稱，初平元年卒",
+      "source": "a03-062",
+      "reviewNote": "《後漢書·荀爽傳》a03-062「進拜司空」「爽自被徵命及登台司，九十五日……會病薨，年六十三」。東漢名儒（荀彧從祖父），董卓朝徵拜司空，記載明確。eligible，文官，著文士服飾。論曰已黃髮（老年），五官餘無載，採普通比例藝術示意，未套用荀彧等他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-34"
+    },
+    {
+      "id": "p0425",
+      "name": "黃琬",
+      "gender": "male",
+      "role": "東漢太尉；與司徒王允同謀誅董卓，城破被害",
+      "source": "a03-061",
+      "reviewNote": "《後漢書·黃瓊傳附》a03-061「琬字子琰。少失父。早而辯慧」；七歲日食之對聞名京師，累遷太尉，與王允同謀誅董卓，城破被害，海內痛之。記載明確。eligible，文官，著文士服飾。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-34"
+    },
+    {
+      "id": "p0427",
+      "name": "張諮",
+      "gender": "male",
+      "role": "東漢南陽太守；孫堅討董卓過南陽，咨不給軍糧被殺",
+      "source": "a04-046",
+      "reviewNote": "《三國志·吳書·孫破虜討逆傳》裴注引《英雄記》a04-046「咨字子議，潁川人，亦知名」；南陽太守，孫堅移檄請軍糧不與，酒酣被執殺之（原表名「張咨」，資格名單作「張諮」，同一人）。eligible，文官（郡守），著文士服飾。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-34"
+    },
+    {
+      "id": "p0428",
+      "name": "王睿",
+      "gender": "male",
+      "role": "東漢荊州刺史；與孫堅有隙，堅起兵過荊州，睿吞金自殺",
+      "source": "a04-046",
+      "reviewNote": "《三國志·吳書·孫破虜討逆傳》裴注 a04-046「叡見堅……叡窮迫，刮金飲之而死」。荊州刺史，與孫堅有隙，記載明確。eligible，文官（刺史），著文士服飾。未核得五官特徵，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-34"
     }
   ]
 }

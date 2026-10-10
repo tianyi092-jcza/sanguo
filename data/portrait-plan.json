@@ -6103,5 +6103,61 @@
     "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 郭泰 (Guo Tai, styled Linzong), Eastern Han scholar and recluse: a celebrated teacher who declined every official summons and taught thousands of disciples; the History records him as tall and imposing, wearing broad robes with a wide sash. Primary source: Book of the Later Han, Biography of Guo Tai (a03-068): 「身長八尺，容貌魁偉，襃衣博帶……弟子以千數」; reviewed note: 東漢名儒隱士，記載明確，非白波軍郭泰. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure, and do not borrow facial features from any other historical figure. Give him a plain dark cloth headwrap and loose wide-sleeved dark scholar's robe with a broad sash (襃衣博帶）, unarmoured shoulders, composed wise expression, middle-aged male, long grey-flecked beard, suggesting a tall imposing presence, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
     "file": "p0423.webp",
     "generator": "built-in imagegen"
+  },
+  {
+    "id": "p0424",
+    "name": "荀爽",
+    "gender": "male",
+    "role": "東漢名儒、司空（荀彧從祖父）；以經學著稱，初平元年卒",
+    "source": "a03-062",
+    "evidence": "《後漢書·荀爽傳》：「進拜司空」；論曰「爽已黃髮矣」",
+    "appearance": "年老黃髮（論曰已黃髮），採普通比例藝術示意，未套用荀彧等他人特徵",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 荀爽 (Xun Shuang, styled Ciming), Eastern Han scholar and 司空 (Minister of Works): a celebrated Confucian classicist who wrote commentaries on the Rites, the Changes and other classics; summoned by Dong Zhuo's court, he rose from recluse to Minister of Works within ninety-five days and died in 192 AD. Primary source: Book of the Later Han, Biography of Xun Shuang (a03-062): appointed Minister of Works; the commentary notes he was already grey-haired in old age (「爽已黃髮矣」). Verified appearance: elderly with greying hair; all other ordinary facial details are artistic interpretation and do not borrow facial features from his kinsman Xun Yu or any other historical figure. Give him a dignified dark cross-collared scholar's robe with a scholar's cap, calm composed expression, elderly male with a grey beard, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "status": "generated",
+    "file": "p0424.webp",
+    "generator": "built-in imagegen",
+    "reviewNote": null
+  },
+  {
+    "id": "p0425",
+    "name": "黃琬",
+    "gender": "male",
+    "role": "東漢太尉；與王允同謀誅董卓，城破被害",
+    "source": "a03-061",
+    "evidence": "《後漢書·黃瓊傳附》：「琬字子琰。少失父。早而辯慧」；太尉，與司徒王允同謀誅董卓，城破被害",
+    "appearance": "未核得五官特徵，採普通比例藝術示意，未套用他人特徵",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 黃琬 (Huang Wan, styled Ziyan), Eastern Han 太尉 (Grand Commandant): a brilliant youth famed at age seven for his clever answer on a solar eclipse; he rose to Grand Commandant, plotted with Wang Yun against Dong Zhuo, and was killed when the capital fell, mourned across the land. Primary source: Book of the Later Han, appended biography in the Biography of Huang Qiong (a03-061): a fatherless youth of precocious wit, famed in the capital. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a dignified dark cross-collared scholar's robe with a scholar's cap, calm resolute expression, mature adult male with a dark beard, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "status": "generated",
+    "file": "p0425.webp",
+    "generator": "built-in imagegen",
+    "reviewNote": null
+  },
+  {
+    "id": "p0427",
+    "name": "張咨",
+    "gender": "male",
+    "role": "東漢南陽太守；孫堅討董卓，咨不給軍糧被殺",
+    "source": "a04-046",
+    "evidence": "《三國志·吳書·孫破虜討逆傳》裴注引《英雄記》：「咨字子議，潁川人，亦知名」；孫堅移檄請軍糧不與，酒酣被執殺之（資格名單作「張諮」）",
+    "appearance": "未核得五官特徵，採普通比例藝術示意，未套用他人特徵",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 張咨 (Zhang Zi, styled Ziyi), Eastern Han 南陽太守 (Grand Administrator of Nanyang): a man of reputation; when Sun Jian marched against Dong Zhuo and demanded grain, Zhang Zi refused and was executed in 191 AD. Primary source: Records of the Three Kingdoms, Wu book, Biography of Sun Jian, Pei commentary quoting the Heroic Records (a04-046): a man of Yingchuan, also of repute. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a dignified dark cross-collared scholar's robe with a scholar's cap, composed expression, mature adult male with a dark beard, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "status": "generated",
+    "file": "p0427.webp",
+    "generator": "built-in imagegen",
+    "reviewNote": null
+  },
+  {
+    "id": "p0428",
+    "name": "王睿",
+    "gender": "male",
+    "role": "東漢荊州刺史；與孫堅有隙，堅過荊州，睿窮迫吞金自殺",
+    "source": "a04-046",
+    "evidence": "《三國志·吳書·孫破虜討逆傳》裴注：「叡窮迫，刮金飲之而死」；荊州刺史，與孫堅有隙",
+    "appearance": "未核得五官特徵，採普通比例藝術示意，未套用他人特徵",
+    "prompt": "Use case: historical-scene. Asset type: one 120x120 display avatar for a Three Kingdoms historical reference site. Create ONE original square head-and-shoulders portrait of 王睿 (Wang Rui, styled Tongyao), Eastern Han 荊州刺史 (Inspector of Jing Province): he held a grudge against Sun Jian; when Sun Jian marched past Jing Province with his army, Wang Rui, cornered, swallowed gold and died in 189 AD. Primary source: Records of the Three Kingdoms, Wu book, Biography of Sun Jian, Pei commentary (a04-046): cornered and desperate, he scraped gold and swallowed it to die. No verified individual facial description; all ordinary facial details are artistic interpretation, not a historical assertion, and do not borrow facial features from any other historical figure. Give him a dignified dark cross-collared scholar's robe with a scholar's cap, grave expression, mature adult male with a dark beard, visibly different face from the style reference individuals. Tight head and upper shoulders, centered, designed to be displayed at exactly 120x120. Style: the two attached images are STYLE REFERENCES ONLY, do not copy their faces. Retro 1990s Chinese historical strategy-game pixel portrait: coarse hand-placed pixel clusters, crisp low-resolution blocky rendering, limited ochre and earth palette, near-black olive background, strong dithering. No text, labels, watermarks, decorative frame or overlay.",
+    "status": "generated",
+    "file": "p0428.webp",
+    "generator": "built-in imagegen",
+    "reviewNote": null
   }
 ]
