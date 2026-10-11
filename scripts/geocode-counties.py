@@ -102,9 +102,38 @@ def worklist(cty, results):
         out.append(i)
     return out
 
+def county_tail(body):
+    """County-level name segment of a mod body (leading 今 already stripped).
+
+    Handles prefecture prefixes and county-level cities:
+      長治市屯留區 -> 屯留區, 十堰市丹江口市 -> 丹江口市, 榆林市 -> 榆林市
+    """
+    if '市' in body:
+        parts = [p for p in body.split('市') if p]
+        if body.endswith('市') and len(parts) >= 2:
+            return parts[-1] + '市'   # county-level city, e.g. 丹江口市
+        if not body.endswith('市'):
+            return parts[-1]          # prefecture prefix, e.g. 長治市屯留區
+    return body
+
 def query_for(mod):
     q = mod[1:] if mod.startswith('今') else mod
     return q
+
+def fallback_queries(mod):
+    """Simpler queries when the full-path query returns empty.
+
+    Full hierarchical queries (e.g. 河南駐馬店市桐柏縣) sometimes miss
+    places OSM does have; the county-level tail alone (桐柏縣) resolves
+    them. Returns simplified variants of the tail only.
+    """
+    body = mod[1:] if mod.startswith('今') else mod
+    tail = county_tail(body)
+    out = []
+    for cand in (tail, norm(tail)):
+        if cand and cand != body and cand not in out:
+            out.append(cand)
+    return out
 
 def geocode(query):
     params = urllib.parse.urlencode({
@@ -123,11 +152,7 @@ def split_mod(mod):
         prov, rest = body[:3], body[3:]
     else:
         prov, rest = body[:2], body[2:]
-    if '市' in rest and not rest.endswith('市'):
-        # prefecture-level city prefix, e.g. 長治市屯留區 -> 屯留區
-        # (a trailing 市 is the county-level suffix itself, e.g. 榆林市)
-        rest = rest.split('市')[-1]
-    core = rest
+    core = county_tail(rest)
     # strip at most ONE county-level admin suffix; 關/鄉/鎮 can be part of
     # the real name (壺關, 武鄉) and must not be stripped
     if core and core[-1] in '縣市區旗州府':
@@ -164,6 +189,16 @@ def run_chunk(n):
         q = query_for(c['mod'])
         try:
             data = geocode(q)
+            if not data:
+                # fallback: full hierarchical path sometimes misses what the
+                # county-level tail alone resolves (e.g. 河南駐馬店市桐柏縣 ->
+                # 桐柏縣). Try tail variants before giving up.
+                for fq in fallback_queries(c['mod']):
+                    time.sleep(SLEEP_S)
+                    data = geocode(fq)
+                    if data:
+                        q = fq
+                        break
             if data:
                 r = data[0]
                 st.update({
