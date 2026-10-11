@@ -1,0 +1,1157 @@
+[
+ {
+  "pid": "p0003",
+  "field": "affiliations",
+  "src": "a04-019",
+  "score": "0.30"
+ },
+ {
+  "pid": "p0008",
+  "field": "affiliations",
+  "src": "a04-009",
+  "score": "0.58"
+ },
+ {
+  "pid": "p0009",
+  "field": "affiliations",
+  "src": "a04-009",
+  "score": "0.49"
+ },
+ {
+  "pid": "p0014",
+  "field": "affiliations",
+  "src": "a05-003",
+  "score": "0.09"
+ },
+ {
+  "pid": "p0018",
+  "field": "affiliations",
+  "src": "a04-009",
+  "score": "0.16"
+ },
+ {
+  "pid": "p0018",
+  "field": "affiliations",
+  "src": "a04-009",
+  "score": "0.62"
+ },
+ {
+  "pid": "p0021",
+  "field": "appraisals",
+  "src": "a04-010",
+  "score": "0.41"
+ },
+ {
+  "pid": "p0022",
+  "field": "appraisals",
+  "src": "a04-010",
+  "score": "0.41"
+ },
+ {
+  "pid": "p0067",
+  "field": "affiliations",
+  "src": "a04-028",
+  "score": "0.27"
+ },
+ {
+  "pid": "p0068",
+  "field": "affiliations",
+  "src": "a04-028",
+  "score": "0.35"
+ },
+ {
+  "pid": "p0069",
+  "field": "affiliations",
+  "src": "a04-028",
+  "score": "0.27"
+ },
+ {
+  "pid": "p0070",
+  "field": "affiliations",
+  "idx": 0,
+  "src": "a05-001",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0070",
+  "field": "affiliations",
+  "idx": 1,
+  "src": "a05-001",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0070",
+  "field": "affiliations",
+  "idx": 2,
+  "src": "a05-001",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0071",
+  "field": "affiliations",
+  "src": "a05-002",
+  "score": "0.33"
+ },
+ {
+  "pid": "p0072",
+  "field": "affiliations",
+  "src": "a05-002",
+  "score": "0.07"
+ },
+ {
+  "pid": "p0073",
+  "field": "affiliations",
+  "src": "a05-037",
+  "score": "0.27"
+ },
+ {
+  "pid": "p0073",
+  "field": "affiliations",
+  "src": "a05-037",
+  "score": "0.64"
+ },
+ {
+  "pid": "p0073",
+  "field": "affiliations",
+  "src": "a05-037",
+  "score": "0.29"
+ },
+ {
+  "pid": "p0075",
+  "field": "affiliations",
+  "src": "a04-016",
+  "score": "0.71"
+ },
+ {
+  "pid": "p0075",
+  "field": "affiliations",
+  "src": "a04-016",
+  "score": "0.72"
+ },
+ {
+  "pid": "p0075",
+  "field": "hanOffices",
+  "src": "a04-016",
+  "score": "0.71"
+ },
+ {
+  "pid": "p0076",
+  "field": "affiliations",
+  "src": "a04-015",
+  "score": "0.31"
+ },
+ {
+  "pid": "p0076",
+  "field": "hanOffices",
+  "src": "a04-015",
+  "score": "0.31"
+ },
+ {
+  "pid": "p0083",
+  "field": "affiliations",
+  "src": "a04-029",
+  "score": "0.35"
+ },
+ {
+  "pid": "p0094",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.10"
+ },
+ {
+  "pid": "p0094",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.10"
+ },
+ {
+  "pid": "p0094",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.10"
+ },
+ {
+  "pid": "p0096",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.13"
+ },
+ {
+  "pid": "p0098",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.11"
+ },
+ {
+  "pid": "p0099",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.64"
+ },
+ {
+  "pid": "p0117",
+  "field": "affiliations",
+  "src": "a04-031",
+  "score": "0.35"
+ },
+ {
+  "pid": "p0118",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.58"
+ },
+ {
+  "pid": "p0118",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.72"
+ },
+ {
+  "pid": "p0127",
+  "field": "affiliations",
+  "src": "a04-032",
+  "score": "0.26"
+ },
+ {
+  "pid": "p0127",
+  "field": "affiliations",
+  "src": "a04-032",
+  "score": "0.62"
+ },
+ {
+  "pid": "p0127",
+  "field": "affiliations",
+  "src": "a04-032",
+  "score": "0.26"
+ },
+ {
+  "pid": "p0129",
+  "field": "affiliations",
+  "src": "a04-035",
+  "score": "0.36"
+ },
+ {
+  "pid": "p0129",
+  "field": "affiliations",
+  "src": "a04-035",
+  "score": "0.35"
+ },
+ {
+  "pid": "p0133",
+  "field": "affiliations",
+  "src": "a04-036",
+  "score": "0.12"
+ },
+ {
+  "pid": "p0133",
+  "field": "hanOffices",
+  "src": "a04-036",
+  "score": "0.23"
+ },
+ {
+  "pid": "p0136",
+  "field": "affiliations",
+  "src": "a04-037",
+  "score": "0.15"
+ },
+ {
+  "pid": "p0138",
+  "field": "affiliations",
+  "src": "a04-038",
+  "score": "0.69"
+ },
+ {
+  "pid": "p0138",
+  "field": "affiliations",
+  "src": "a04-038",
+  "score": "0.40"
+ },
+ {
+  "pid": "p0138",
+  "field": "hanOffices",
+  "src": "a04-038",
+  "score": "0.69"
+ },
+ {
+  "pid": "p0143",
+  "field": "affiliations",
+  "src": "a04-038",
+  "score": "0.42"
+ },
+ {
+  "pid": "p0147",
+  "field": "affiliations",
+  "src": "a04-039",
+  "score": "0.40"
+ },
+ {
+  "pid": "p0147",
+  "field": "affiliations",
+  "src": "a04-039",
+  "score": "0.15"
+ },
+ {
+  "pid": "p0149",
+  "field": "affiliations",
+  "src": "a04-039",
+  "score": "0.65"
+ },
+ {
+  "pid": "p0149",
+  "field": "affiliations",
+  "src": "a04-039",
+  "score": "0.65"
+ },
+ {
+  "pid": "p0160",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.16"
+ },
+ {
+  "pid": "p0160",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.16"
+ },
+ {
+  "pid": "p0160",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.13"
+ },
+ {
+  "pid": "p0161",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.58"
+ },
+ {
+  "pid": "p0161",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.30"
+ },
+ {
+  "pid": "p0161",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.53"
+ },
+ {
+  "pid": "p0163",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.15"
+ },
+ {
+  "pid": "p0165",
+  "field": "affiliations",
+  "src": "a04-042",
+  "score": "0.54"
+ },
+ {
+  "pid": "p0168",
+  "field": "affiliations",
+  "src": "a04-043",
+  "score": "0.37"
+ },
+ {
+  "pid": "p0169",
+  "field": "affiliations",
+  "src": "a04-043",
+  "score": "0.47"
+ },
+ {
+  "pid": "p0171",
+  "field": "affiliations",
+  "src": "a04-043",
+  "score": "0.38"
+ },
+ {
+  "pid": "p0172",
+  "field": "affiliations",
+  "src": "a04-043",
+  "score": "0.45"
+ },
+ {
+  "pid": "p0172",
+  "field": "affiliations",
+  "src": "a04-043",
+  "score": "0.45"
+ },
+ {
+  "pid": "p0172",
+  "field": "affiliations",
+  "src": "a04-043",
+  "score": "0.20"
+ },
+ {
+  "pid": "p0173",
+  "field": "affiliations",
+  "src": "a04-045",
+  "score": "0.22"
+ },
+ {
+  "pid": "p0176",
+  "field": "affiliations",
+  "src": "a04-044",
+  "score": "0.17"
+ },
+ {
+  "pid": "p0176",
+  "field": "affiliations",
+  "src": "a04-044",
+  "score": "0.17"
+ },
+ {
+  "pid": "p0182",
+  "field": "affiliations",
+  "src": "a04-042",
+  "score": "0.60"
+ },
+ {
+  "pid": "p0182",
+  "field": "affiliations",
+  "src": "a04-042",
+  "score": "0.60"
+ },
+ {
+  "pid": "p0184",
+  "field": "affiliations",
+  "src": "a04-036",
+  "score": "0.32"
+ },
+ {
+  "pid": "p0188",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.74"
+ },
+ {
+  "pid": "p0188",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.74"
+ },
+ {
+  "pid": "p0188",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.67"
+ },
+ {
+  "pid": "p0189",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.65"
+ },
+ {
+  "pid": "p0189",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.64"
+ },
+ {
+  "pid": "p0189",
+  "field": "affiliations",
+  "src": "a04-041",
+  "score": "0.64"
+ },
+ {
+  "pid": "p0190",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.20"
+ },
+ {
+  "pid": "p0191",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.20"
+ },
+ {
+  "pid": "p0191",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.13"
+ },
+ {
+  "pid": "p0191",
+  "field": "hanOffices",
+  "src": "a04-046",
+  "score": "0.15"
+ },
+ {
+  "pid": "p0192",
+  "field": "affiliations",
+  "src": "a04-047",
+  "score": "0.43"
+ },
+ {
+  "pid": "p0192",
+  "field": "appraisals",
+  "src": "a04-046",
+  "score": "0.69"
+ },
+ {
+  "pid": "p0194",
+  "field": "affiliations",
+  "src": "a04-048",
+  "score": "0.43"
+ },
+ {
+  "pid": "p0196",
+  "field": "affiliations",
+  "src": "a04-059",
+  "score": "0.34"
+ },
+ {
+  "pid": "p0196",
+  "field": "affiliations",
+  "src": "a04-059",
+  "score": "0.21"
+ },
+ {
+  "pid": "p0198",
+  "field": "affiliations",
+  "src": "a04-049",
+  "score": "0.49"
+ },
+ {
+  "pid": "p0198",
+  "field": "affiliations",
+  "src": "a04-049",
+  "score": "0.21"
+ },
+ {
+  "pid": "p0198",
+  "field": "affiliations",
+  "src": "a04-049",
+  "score": "0.21"
+ },
+ {
+  "pid": "p0199",
+  "field": "affiliations",
+  "src": "a04-049",
+  "score": "0.16"
+ },
+ {
+  "pid": "p0199",
+  "field": "affiliations",
+  "src": "a04-049",
+  "score": "0.65"
+ },
+ {
+  "pid": "p0199",
+  "field": "hanOffices",
+  "src": "a04-049",
+  "score": "0.16"
+ },
+ {
+  "pid": "p0200",
+  "field": "affiliations",
+  "src": "a04-052",
+  "score": "0.35"
+ },
+ {
+  "pid": "p0200",
+  "field": "affiliations",
+  "src": "a04-052",
+  "score": "0.21"
+ },
+ {
+  "pid": "p0201",
+  "field": "affiliations",
+  "src": "a04-053",
+  "score": "0.15"
+ },
+ {
+  "pid": "p0201",
+  "field": "affiliations",
+  "src": "a04-053",
+  "score": "0.17"
+ },
+ {
+  "pid": "p0201",
+  "field": "hanOffices",
+  "src": "a04-053",
+  "score": "0.17"
+ },
+ {
+  "pid": "p0202",
+  "field": "affiliations",
+  "src": "a04-052",
+  "score": "0.72"
+ },
+ {
+  "pid": "p0209",
+  "field": "affiliations",
+  "src": "a04-054",
+  "score": "0.33"
+ },
+ {
+  "pid": "p0226",
+  "field": "affiliations",
+  "src": "a04-056",
+  "score": "0.65"
+ },
+ {
+  "pid": "p0227",
+  "field": "affiliations",
+  "src": "a04-056",
+  "score": "0.25"
+ },
+ {
+  "pid": "p0230",
+  "field": "affiliations",
+  "src": "a04-060",
+  "score": "0.38"
+ },
+ {
+  "pid": "p0231",
+  "field": "affiliations",
+  "src": "a04-060",
+  "score": "0.69"
+ },
+ {
+  "pid": "p0232",
+  "field": "affiliations",
+  "src": "a04-060",
+  "score": "0.17"
+ },
+ {
+  "pid": "p0234",
+  "field": "affiliations",
+  "src": "a04-058",
+  "score": "0.64"
+ },
+ {
+  "pid": "p0236",
+  "field": "affiliations",
+  "src": "a04-057",
+  "score": "0.36"
+ },
+ {
+  "pid": "p0236",
+  "field": "affiliations",
+  "src": "a04-057",
+  "score": "0.29"
+ },
+ {
+  "pid": "p0241",
+  "field": "affiliations",
+  "src": "a04-061",
+  "score": "0.25"
+ },
+ {
+  "pid": "p0241",
+  "field": "affiliations",
+  "src": "a04-061",
+  "score": "0.23"
+ },
+ {
+  "pid": "p0241",
+  "field": "affiliations",
+  "src": "a04-061",
+  "score": "0.19"
+ },
+ {
+  "pid": "p0243",
+  "field": "affiliations",
+  "src": "a04-062",
+  "score": "0.42"
+ },
+ {
+  "pid": "p0243",
+  "field": "affiliations",
+  "src": "a04-062",
+  "score": "0.23"
+ },
+ {
+  "pid": "p0243",
+  "field": "affiliations",
+  "src": "a04-062",
+  "score": "0.36"
+ },
+ {
+  "pid": "p0249",
+  "field": "affiliations",
+  "src": "a04-064",
+  "score": "0.38"
+ },
+ {
+  "pid": "p0251",
+  "field": "affiliations",
+  "src": "a04-051",
+  "score": "0.64"
+ },
+ {
+  "pid": "p0252",
+  "field": "affiliations",
+  "src": "a04-051",
+  "score": "0.17"
+ },
+ {
+  "pid": "p0253",
+  "field": "affiliations",
+  "src": "a04-051",
+  "score": "0.14"
+ },
+ {
+  "pid": "p0262",
+  "field": "facts",
+  "src": "a05-034",
+  "score": "0.51"
+ },
+ {
+  "pid": "p0262",
+  "field": "affiliations",
+  "src": "a05-034",
+  "score": "0.45"
+ },
+ {
+  "pid": "p0262",
+  "field": "affiliations",
+  "src": "a05-034",
+  "score": "0.46"
+ },
+ {
+  "pid": "p0262",
+  "field": "affiliations",
+  "src": "a05-034",
+  "score": "0.16"
+ },
+ {
+  "pid": "p0263",
+  "field": "facts",
+  "src": "a05-034",
+  "score": "0.14"
+ },
+ {
+  "pid": "p0263",
+  "field": "facts",
+  "src": "a05-034",
+  "score": "0.68"
+ },
+ {
+  "pid": "p0263",
+  "field": "facts",
+  "src": "a05-034",
+  "score": "0.14"
+ },
+ {
+  "pid": "p0263",
+  "field": "affiliations",
+  "src": "a05-034",
+  "score": "0.68"
+ },
+ {
+  "pid": "p0263",
+  "field": "affiliations",
+  "src": "a05-034",
+  "score": "0.23"
+ },
+ {
+  "pid": "p0263",
+  "field": "affiliations",
+  "src": "a05-034",
+  "score": "0.47"
+ },
+ {
+  "pid": "p0264",
+  "field": "facts",
+  "src": "a05-042",
+  "score": "0.54"
+ },
+ {
+  "pid": "p0264",
+  "field": "affiliations",
+  "src": "a05-042",
+  "score": "0.64"
+ },
+ {
+  "pid": "p0269",
+  "field": "affiliations",
+  "src": "a03-035",
+  "score": "0.18"
+ },
+ {
+  "pid": "p0269",
+  "field": "affiliations",
+  "src": "a03-035",
+  "score": "0.23"
+ },
+ {
+  "pid": "p0269",
+  "field": "affiliations",
+  "src": "a03-035",
+  "score": "0.12"
+ },
+ {
+  "pid": "p0269",
+  "field": "hanOffices",
+  "src": "a03-035",
+  "score": "0.18"
+ },
+ {
+  "pid": "p0272",
+  "field": "affiliations",
+  "src": "a03-058",
+  "score": "0.70"
+ },
+ {
+  "pid": "p0272",
+  "field": "hanOffices",
+  "src": "a03-058",
+  "score": "0.70"
+ },
+ {
+  "pid": "p0280",
+  "field": "affiliations",
+  "idx": 0,
+  "src": "a03-010b-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0280",
+  "field": "hanOffices",
+  "idx": 0,
+  "src": "a03-010b-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0291",
+  "field": "affiliations",
+  "idx": 0,
+  "src": "a03-074",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0291",
+  "field": "affiliations",
+  "idx": 1,
+  "src": "a03-074",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0293",
+  "field": "facts",
+  "src": "a04-001",
+  "score": "0.62"
+ },
+ {
+  "pid": "p0296",
+  "field": "affiliations",
+  "idx": 0,
+  "src": "a03-074",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0300",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.15"
+ },
+ {
+  "pid": "p0302",
+  "field": "affiliations",
+  "src": "a04-006",
+  "score": "0.36"
+ },
+ {
+  "pid": "p0303",
+  "field": "affiliations",
+  "src": "a04-006",
+  "score": "0.46"
+ },
+ {
+  "pid": "p0307",
+  "field": "affiliations",
+  "src": "a04-037",
+  "score": "0.22"
+ },
+ {
+  "pid": "p0309",
+  "field": "affiliations",
+  "src": "a04-008",
+  "score": "0.14"
+ },
+ {
+  "pid": "p0310",
+  "field": "affiliations",
+  "src": "a04-032",
+  "score": "0.26"
+ },
+ {
+  "pid": "p0311",
+  "field": "affiliations",
+  "src": "a04-049",
+  "score": "0.26"
+ },
+ {
+  "pid": "p0311",
+  "field": "affiliations",
+  "src": "a04-049",
+  "score": "0.41"
+ },
+ {
+  "pid": "p0313",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.30"
+ },
+ {
+  "pid": "p0314",
+  "field": "affiliations",
+  "src": "a04-051",
+  "score": "0.11"
+ },
+ {
+  "pid": "p0326",
+  "field": "affiliations",
+  "src": "a04-030",
+  "score": "0.61"
+ },
+ {
+  "pid": "p0327",
+  "field": "affiliations",
+  "src": "a04-030",
+  "score": "0.61"
+ },
+ {
+  "pid": "p0330",
+  "field": "affiliations",
+  "src": "a04-043",
+  "score": "0.38"
+ },
+ {
+  "pid": "p0345",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.13"
+ },
+ {
+  "pid": "p0345",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.28"
+ },
+ {
+  "pid": "p0345",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.25"
+ },
+ {
+  "pid": "p0347",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.19"
+ },
+ {
+  "pid": "p0348",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.19"
+ },
+ {
+  "pid": "p0351",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.28"
+ },
+ {
+  "pid": "p0351",
+  "field": "hanOffices",
+  "src": "a04-046",
+  "score": "0.28"
+ },
+ {
+  "pid": "p0353",
+  "field": "affiliations",
+  "idx": 0,
+  "src": "a03-010b-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0353",
+  "field": "hanOffices",
+  "idx": 0,
+  "src": "a03-010b-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0374",
+  "field": "affiliations",
+  "src": "a04-028",
+  "score": "0.27"
+ },
+ {
+  "pid": "p0376",
+  "field": "facts",
+  "src": "a05-036",
+  "score": "0.36"
+ },
+ {
+  "pid": "p0376",
+  "field": "affiliations",
+  "src": "a05-036",
+  "score": "0.36"
+ },
+ {
+  "pid": "p0378",
+  "field": "affiliations",
+  "idx": 0,
+  "src": "a05-036-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0378",
+  "field": "affiliations",
+  "idx": 1,
+  "src": "a05-036-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0381",
+  "field": "affiliations",
+  "src": "a04-005",
+  "score": "0.56"
+ },
+ {
+  "pid": "p0381",
+  "field": "affiliations",
+  "src": "a04-005",
+  "score": "0.52"
+ },
+ {
+  "pid": "p0386",
+  "field": "affiliations",
+  "src": "a04-051",
+  "score": "0.25"
+ },
+ {
+  "pid": "p0386",
+  "field": "affiliations",
+  "src": "a04-051",
+  "score": "0.65"
+ },
+ {
+  "pid": "p0388",
+  "field": "affiliations",
+  "src": "a04-050",
+  "score": "0.19"
+ },
+ {
+  "pid": "p0400",
+  "field": "affiliations",
+  "src": "a04-042",
+  "score": "0.30"
+ },
+ {
+  "pid": "p0409",
+  "field": "affiliations",
+  "src": "a04-043",
+  "score": "0.41"
+ },
+ {
+  "pid": "p0410",
+  "field": "affiliations",
+  "src": "a04-044",
+  "score": "0.16"
+ },
+ {
+  "pid": "p0410",
+  "field": "affiliations",
+  "src": "a04-044",
+  "score": "0.12"
+ },
+ {
+  "pid": "p0411",
+  "field": "affiliations",
+  "src": "a04-044",
+  "score": "0.12"
+ },
+ {
+  "pid": "p0413",
+  "field": "affiliations",
+  "src": "a04-036",
+  "score": "0.32"
+ },
+ {
+  "pid": "p0415",
+  "field": "affiliations",
+  "src": "a04-056",
+  "score": "0.58"
+ },
+ {
+  "pid": "p0426",
+  "field": "affiliations",
+  "idx": 0,
+  "src": "a03-050-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0426",
+  "field": "affiliations",
+  "idx": 1,
+  "src": "a03-050-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0427",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.25"
+ },
+ {
+  "pid": "p0427",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.25"
+ },
+ {
+  "pid": "p0427",
+  "field": "hanOffices",
+  "src": "a04-046",
+  "score": "0.25"
+ },
+ {
+  "pid": "p0428",
+  "field": "affiliations",
+  "src": "a04-046",
+  "score": "0.17"
+ },
+ {
+  "pid": "p0429",
+  "field": "affiliations",
+  "src": "a04-031",
+  "score": "0.51"
+ },
+ {
+  "pid": "p0430",
+  "field": "affiliations",
+  "src": "a04-031",
+  "score": "0.51"
+ },
+ {
+  "pid": "p0446",
+  "field": "affiliations",
+  "idx": 0,
+  "src": "a03-008-full",
+  "reason": "无缓存"
+ },
+ {
+  "pid": "p0471",
+  "field": "affiliations",
+  "src": "a05-003",
+  "score": "0.15"
+ },
+ {
+  "pid": "p0471",
+  "field": "affiliations",
+  "src": "a05-003",
+  "score": "0.13"
+ }
+]
