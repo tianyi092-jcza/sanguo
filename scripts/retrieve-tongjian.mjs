@@ -29,8 +29,10 @@ for (const [vol, v] of Object.entries(segsDb)) {
 }
 
 // 人物标识（人物顺序与 makeHistory（前端）一致：先滤除貂蝉，否则 p0128 之后全部错位）
+// 有本传（wikisource.json）+ 无本传（wikisource-skip.json）都要跑通鉴匹配
 const perList = orig.per.filter(p => p.n !== '貂蝉');
-const pids = Object.keys(wsDb);
+const skipDb = JSON.parse(fs.readFileSync('data/wikisource-skip.json', 'utf8'));
+const pids = [...new Set([...Object.keys(wsDb), ...Object.keys(skipDb)])];
 const people = new Map(); // pid -> {name, zi, sheng}
 const KNOWN = new Set();
 for (const pid of pids) {
