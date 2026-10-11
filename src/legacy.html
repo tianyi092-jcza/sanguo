@@ -104,6 +104,8 @@ main{flex:1;position:relative;overflow:hidden}
 #tbl tbody tr:nth-child(even){background:#efece2}
 #tbl tbody tr:hover{background:#e7e3d5}
 #tbl tr.zhou-row td{background:#e2dcc8;font-weight:700;color:var(--paper-ink)}
+#tbl tr.cty-row td{background:#f5f2e8;color:#6b6b5e}
+#tbl tr.cty-row td:first-child{color:#a0a090}
 table{width:100%;border-collapse:collapse;font-size:13px}
 th{position:sticky;top:0;background:#232b37;color:#d8cfb8;padding:8px 10px;text-align:left;font-weight:600;z-index:2}
 td{padding:6px 10px;border-bottom:1px solid #232b37;color:var(--ink2)}
@@ -666,11 +668,18 @@ function gotoPerson(p){
 /* ================= 郡县表（按州分组） ================= */
 function renderTbl(){
   const tb=document.querySelector("#tbl tbody");
+  const expandedCmds=new Set(); // 已展开的郡名
   const draw=()=>{
     const v=$("#tblQ").value.trim();
     const nq = typeof normalizeSearch==='function' ? normalizeSearch(v) : v;
     const match=c=>!nq||normalizeSearch(c.n+c.seat+c.mod).includes(nq);
     const matchCty=t=>!nq||normalizeSearch(t.n+t.c+t.mod).includes(nq);
+    // 搜索时若县命中，自动展开其父郡
+    if(nq){
+      for(const t of (DATA.cty||[])){
+        if(matchCty(t)) expandedCmds.add(t.c);
+      }
+    }
     let html='', idx=0;
     for(const z of ZHOU_ORDER){
       const cmds=DATA.cmd.filter(c=>CMD_ZHOU[c.n]===z&&match(c));
@@ -678,12 +687,18 @@ function renderTbl(){
       html+=`<tr class="zhou-row"><td colspan="7">【${esc(z)}】</td></tr>`;
       for(const c of cmds){
         idx++;
-        html+=`<tr><td>${idx}</td><td>　${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
-        // 所属县（交州7郡有县数据）
-        const ctys=(DATA.cty||[]).filter(t=>t.c===c.n&&matchCty(t));
-        for(const t of ctys){
-          idx++;
-          html+=`<tr><td>${idx}</td><td>　　${esc(t.n)}</td><td>—</td><td>${esc(t.mod)}</td><td>—</td><td>—</td><td>—</td></tr>`;
+        const ctys=(DATA.cty||[]).filter(t=>t.c===c.n);
+        const hasCty=ctys.length>0;
+        const isExp=expandedCmds.has(c.n);
+        const icon=hasCty?`<span class="cty-toggle" data-cmd="${esc(c.n)}" style="cursor:pointer;color:#8a93a6;">${isExp?'▼':'▶'}</span> `:``;
+        const cnt=hasCty?` <span style="color:#8a93a6;font-size:11px;">(${ctys.length})</span>`:``;
+        html+=`<tr><td>${idx}</td><td>${icon}　${esc(c.n)}${cnt}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
+        // 展开时才渲染所属县
+        if(isExp){
+          const showCtys=ctys.filter(t=>matchCty(t));
+          for(const t of showCtys){
+            html+=`<tr class="cty-row"><td></td><td>　　${esc(t.n)}</td><td>—</td><td>${esc(t.mod)}</td><td>—</td><td>—</td><td>—</td></tr>`;
+          }
         }
       }
     }
@@ -695,6 +710,15 @@ function renderTbl(){
     }
     tb.innerHTML=html;
   };
+  // 点击展开/收起
+  tb.addEventListener("click",e=>{
+    const tg=e.target.closest(".cty-toggle");
+    if(!tg)return;
+    const cmd=tg.dataset.cmd;
+    if(expandedCmds.has(cmd))expandedCmds.delete(cmd);
+    else expandedCmds.add(cmd);
+    draw();
+  });
   $("#tblQ").addEventListener("input",draw);draw();
 }
 renderTbl();
