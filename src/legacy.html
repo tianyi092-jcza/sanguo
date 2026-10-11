@@ -669,6 +669,7 @@ function renderTbl(){
     const v=$("#tblQ").value.trim();
     const nq = typeof normalizeSearch==='function' ? normalizeSearch(v) : v;
     const match=c=>!nq||normalizeSearch(c.n+c.seat+c.mod).includes(nq);
+    const matchCty=t=>!nq||normalizeSearch(t.n+t.c+t.mod).includes(nq);
     let html='', idx=0;
     for(const z of ZHOU_ORDER){
       const cmds=DATA.cmd.filter(c=>CMD_ZHOU[c.n]===z&&match(c));
@@ -677,6 +678,12 @@ function renderTbl(){
       for(const c of cmds){
         idx++;
         html+=`<tr><td>${idx}</td><td>　${esc(c.n)}</td><td>${esc(c.seat)}</td><td>${esc(c.mod)}</td><td>${chip(c.c2,C2C[c.c2]||"#8a93a6")}</td><td>${chip(c.c219,C219C[c.c219]||"#8a93a6")}</td><td>${chip(c.c263,C263C[c.c263]||"#8a93a6")}</td></tr>`;
+        // 所属县（交州7郡有县数据）
+        const ctys=(DATA.cty||[]).filter(t=>t.c===c.n&&matchCty(t));
+        for(const t of ctys){
+          idx++;
+          html+=`<tr><td>${idx}</td><td>　　${esc(t.n)}</td><td>—</td><td>${esc(t.mod)}</td><td>—</td><td>—</td><td>—</td></tr>`;
+        }
       }
     }
     // 未归属州的郡国（容错）
@@ -696,7 +703,7 @@ $("#about").innerHTML=`
 <h2>一、资料依据</h2>
 <div>人物本传全文以 <b>中文维基文库《三国志》</b>（zh.wikisource.org）为底本；裴松之注随文标注。郡国治所与今地名对照，依据《续汉书·郡国志》及谭其骧《中国历史地图集》通行考证。生卒年阙如者标「不详」，卒年存疑者于「备考」注明。<b>凡记忆未审之原文，一律不录，宁阙毋妄。</b></div>
 <h2>二、地图使用</h2>
-<div>· 右上角选择归属时点：可切换 <b>建安五年（200）、建安二十四年（219）、景元四年（263）</b> 三个断面，郡国圆点按当时控制势力着色；<br>· 底图可切换：示意图／<b>高德街道</b>／<b>高德卫星影像</b>／纯点位；在线底图模式下滚轮缩放、拖拽平移（坐标已做 WGS-84→GCJ-02 校正）；所有标识与文字保持固定大小，不随缩放变化；<br>· 点击圆点（郡国）／菱形（城池·战场）／三角（关隘），右侧面板显示 <b>治所、今址</b> 与三个时点归属；<br>· 「郡县总表」按 <b>州→郡国</b> 层级分组显示，首列为序号；可按名称/治所/今址筛选。</div>
+<div>· 右上角选择归属时点：可切换 <b>建安五年（200）、建安二十四年（219）、景元四年（263）</b> 三个断面，郡国圆点按当时控制势力着色；<br>· 底图可切换：示意图／<b>高德街道</b>／<b>高德卫星影像</b>／纯点位；在线底图模式下滚轮缩放、拖拽平移（坐标已做 WGS-84→GCJ-02 校正）；所有标识与文字保持固定大小，不随缩放变化；<br>· 点击圆点（郡国）／菱形（城池·战场）／三角（关隘），右侧面板显示 <b>治所、今址</b> 与三个时点归属；<br>· 「郡县总表」按 <b>州→郡国→县</b> 层级分组显示，首列为序号；交州7郡下有56县（据《续汉书·郡国志》）；可按名称/治所/今址筛选。</div>
 <h2>三、时间轴使用</h2>
 <div>· 横轴为公元年份（150–285），纵列人物按势力分组；<b>●为出生、✕为卒年</b>，实线连接生卒；生卒不详者以虚线示意并汇总于底部；<br>· 顶部为事件旗标：⚔战争 ★政治 ◈外交 ●其他；点击旗标或人名，弹出原文摘录弹窗；<br>· 「播放」按钮以动画巡览184–280年大事；<br>· 顶部检索框支持 <b>人名、事件名、年份、地名</b> 四类查询，选中后自动平滑滚动定位并高亮。</div>
 <h2>四、颜色与标志</h2>
