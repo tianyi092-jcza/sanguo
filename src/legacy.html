@@ -100,7 +100,7 @@ main{flex:1;position:relative;overflow:hidden}
 #tblQ{width:280px;padding:7px 12px;border-radius:8px;border:1px solid #c5c9bf;background:#fffdf8;color:var(--paper-ink);outline:none;margin-bottom:10px;font-size:12px}
 #tbl{border-collapse:collapse;width:100%;font-size:12px}
 #tbl th,#tbl td{border:1px solid var(--paper-line);padding:7px 10px;text-align:left}
-#tbl thead th{background:var(--paper-deep);font-weight:600;white-space:nowrap}
+#tbl thead th{background:var(--paper-deep);font-weight:600;white-space:nowrap;color:#000}
 #tbl tbody tr:nth-child(even){background:#efece2}
 #tbl tbody tr:hover{background:#e7e3d5}
 #tbl tr.zhou-row td{background:#e2dcc8;font-weight:700;color:var(--paper-ink)}
@@ -169,7 +169,7 @@ tr:hover td{background:#ffffff08}
         </select>
         <label style="color:var(--ink2);font-size:12px;display:flex;gap:4px;align-items:center"><input type="checkbox" id="showCities" checked> 显示著名城池</label>
         <label style="color:var(--ink2);font-size:12px;display:flex;gap:4px;align-items:center"><input type="checkbox" id="showPass" checked> 显示关隘/谷道</label>
-        <label style="color:var(--ink2);font-size:12px;display:flex;gap:4px;align-items:center"><input type="checkbox" id="showCounty"> 显示属县（交州56县）</label>
+        <label style="color:var(--ink2);font-size:12px;display:flex;gap:4px;align-items:center"><input type="checkbox" id="showCounty"> 显示属县</label>
         <div style="display:flex;gap:6px"><button id="zin">＋</button><button id="zout">－</button><button id="zreset">复位</button></div>
       </div>
       <div id="mapPanel"></div>
