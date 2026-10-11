@@ -343,6 +343,7 @@ function drawFeatures(ov,P){
       t.textContent=c.n;ov.appendChild(t);}
   });
   if($("#showCounty").checked)DATA.cty.forEach(c=>{
+    if(!c.lon||!c.lat)return;
     const [px,py]=P(c.lon,c.lat);
     if(px<-30||py<-30||px>ov.clientWidth+30||py>ov.clientHeight+30)return;
     const d=el("circle",{cx:px,cy:py,r:2.6,fill:"#8fd0aa",stroke:"#0e1218cc","stroke-width":.8});
@@ -636,7 +637,7 @@ DATA.per.forEach(p=>idx.push({t:"人",k:p.n+(p.z||""),n:p.n,sub:(p.b||"?")+"-"+(
 DATA.ev.forEach(ev=>idx.push({t:"事",k:ev.n+ev.pl+ev.f,n:ev.n,sub:ev.y+"年 · "+ev.pl,col:EVCH[ev.t],act:()=>{gotoYear(ev.y);setTimeout(()=>{const f=[...document.querySelectorAll(".evFlag")].find(f=>+f.dataset.y===ev.y&&f.dataset.n===ev.n);if(f){pulse(f);f.scrollIntoView({block:"nearest",inline:"center",behavior:"smooth"});}},700);}}));
 DATA.cmd.forEach(c=>idx.push({t:"地",k:c.n+c.seat+c.mod,n:c.n,sub:"郡国 · 治所"+c.seat+" · "+c.mod,col:"#8a93a6",act:()=>gotoPlace(c.lon,c.lat,()=>showPanel(c))}));
 DATA.cit.forEach(c=>idx.push({t:"城",k:c.n+c.mod+c.note,n:c.n,sub:"城池 · "+c.mod,col:"#d8cfb8",act:()=>gotoPlace(c.lon,c.lat,()=>showCity(c))}));
-DATA.cty.forEach(c=>idx.push({t:"县",k:c.n+c.c+c.mod,n:c.n,sub:c.c+"属县 · "+c.mod,col:"#7fa88f",act:()=>gotoPlace(c.lon,c.lat,()=>showCity({n:c.n+"（"+c.c+"属县）",mod:c.mod,note:"见《续汉书·郡国志五》"}))}));
+DATA.cty.forEach(c=>{if(!c.lon||!c.lat)return;idx.push({t:"县",k:c.n+c.c+c.mod,n:c.n,sub:c.c+"属县 · "+c.mod,col:"#7fa88f",act:()=>gotoPlace(c.lon,c.lat,()=>showCity({n:c.n+"（"+c.c+"属县）",mod:c.mod,note:"见《续汉书·郡国志》"}))})});
 DATA.passes.forEach(c=>idx.push({t:"隘",k:c.n+c.mod+c.note,n:c.n,sub:"关隘 · "+c.mod,col:"#e0a458",act:()=>gotoPlace(c.lon,c.lat,()=>showCity(c))}));
 for(let y=150;y<=286;y++)idx.push({t:"年",k:String(y),n:y+"年",sub:"大事 "+DATA.ev.filter(e=>e.y===y).length+" 件",col:"#e0b84f",act:()=>gotoYear(y)});
 $("#q").addEventListener("input",()=>{
