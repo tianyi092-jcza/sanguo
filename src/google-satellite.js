@@ -67,6 +67,17 @@ class GoogleSatelliteLayer{
     this.config=config;this.active=false;this.session=null;this.pendingSession=null;
     this.images=new Map();this.revision=0;this.timer=null;this.viewportController=null;
     this.frame=null;this.requestedKey="";this.fetching=false;this.blocked=false;this.errorStatus=null;
+    // 前端瓦片并发控制：避免瞬间30个请求打到Worker→Google触发429
+    this.tileSlots=0;this.tileQueue=[];
+  }
+  acquireTileSlot(){
+    if(this.tileSlots<4){this.tileSlots++;return Promise.resolve();}
+    return new Promise(r=>this.tileQueue.push(r));
+  }
+  releaseTileSlot(){
+    this.tileSlots--;
+    const n=this.tileQueue.shift();
+    if(n){this.tileSlots++;n();}
   }
   showStatus(message,retry=false){
     // 若有捕获到的具体错误，附加显示
@@ -160,7 +171,10 @@ class GoogleSatelliteLayer{
         img.style.cssText="position:absolute;width:256px;height:256px;user-select:none";
         const tileUrl="/api/gtiles/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+new URLSearchParams({session:session.token});
         // 用 fetch 加载以便捕获具体 HTTP 错误（img.onerror 拿不到状态码）
+        // 并发限4，避免burst触发Google 429
         const loadTile=async (isRetry)=>{
+          await this.acquireTileSlot();
+          try{
           try{
             const resp=await fetch(tileUrl);
             if(this.images.get(id)!==record)return;
@@ -183,6 +197,8 @@ class GoogleSatelliteLayer{
             console.error("[gtiles] tile failed after retry:",e.message);
             record.failed=true;record.errorMsg=e.message;this.lastTileError=e.message;
             img.style.visibility="hidden";this.updateStatus();
+          }finally{
+            this.releaseTileSlot();
           }
         };
         img.onload=()=>{if(this.images.get(id)!==record)return;record.loaded=true;this.updateStatus();};
