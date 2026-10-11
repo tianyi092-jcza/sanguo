@@ -175,7 +175,6 @@ class GoogleSatelliteLayer{
         const loadTile=async (isRetry)=>{
           await this.acquireTileSlot();
           try{
-          try{
             const resp=await fetch(tileUrl);
             if(this.images.get(id)!==record)return;
             if(!resp.ok){
