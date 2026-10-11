@@ -153,7 +153,23 @@ function citationGroups(items){
 function excerptCardsHTML(groups,p,work,attached){
   return groups.map((g,gi)=>{
     const quoteId=`source-quote-${p.id}-${work}-${gi}`;
-    return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${esc(item.quote)}</blockquote>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
+    return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>{
+      let body;
+      if(item.segs&&item.segs.length){
+        let html='',i=0;
+        const segs=item.segs;
+        while(i<segs.length){
+          if(segs[i].t==='pei'){
+            let j=i;
+            while(j<segs.length&&segs[j].t==='pei')j++;
+            html+=`<span class="pei-group">${segs.slice(i,j).map(s=>peiTagHTML('裴注',s.h)).join('')}</span>`;
+            i=j;
+          }else{html+=segs[i].h;i++;}
+        }
+        body=html;
+      }else{body=esc(item.quote);}
+      return `<blockquote${ii?'':' id="'+quoteId+'"'}>${body}</blockquote>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`;
+    }).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('');
 }
 // 舊版渲染：無維基文库本传全文的人物沿用
@@ -210,6 +226,7 @@ function newExcerptsHTML(excerpts,p,wsBio){
   const taGroups=citationGroups(otherMains.filter(m=>m.work==='sanguozhi'));
   if(taGroups.length){
     if(wsBio)html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`;
+    else html+=`<div class="src" style="margin:14px 0 4px">以下為他傳所載（提及本人之傳記摘錄）：</div>`;
     html+=excerptCardsHTML(taGroups,p,'sanguozhi',attached);
   }
   html+=`</section>`;
