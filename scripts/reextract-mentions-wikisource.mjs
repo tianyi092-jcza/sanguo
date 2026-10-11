@@ -28,12 +28,19 @@ if (fs.existsSync(OUT)) output = JSON.parse(fs.readFileSync(OUT, 'utf8'));
 const outById = new Map(output.people.map(p => [p.id, p]));
 
 // 收集需要处理的 source -> persons
+// 注意：不能只从旧 mentions 取（旧数据有遗漏，如伏皇后0条就从没被处理）
+// 改为：每卷扫描全部 skip 表人物，做全量匹配
+const skipPids = Object.keys(JSON.parse(fs.readFileSync(`${ROOT}/data/wikisource-skip.json`, 'utf8')));
 const sourcePersons = new Map(); // source -> Set<pid>
 for (const p of oldMentions.people) {
   for (const e of p.excerpts) {
     if (!sourcePersons.has(e.source)) sourcePersons.set(e.source, new Set());
     sourcePersons.get(e.source).add(p.id);
   }
+}
+// 补全：每个 source 都加上全部 skip 人物，确保不遗漏
+for (const src of sourcePersons.keys()) {
+  for (const pid of skipPids) sourcePersons.get(src).add(pid);
 }
 
 // source 如 a04-001 -> {work:'sanguozhi', juan:'01'}, a05-003 -> {work:'jinshu', juan:'03'}
@@ -57,14 +64,23 @@ async function fetchJinshuChapter(juan) {
   return j.parse.wikitext;
 }
 
-// 获取人物姓名/字（繁体）
+// 获取人物姓名/字（繁体），含变体
 function getPersonNames(pid) {
   const idx = parseInt(pid.slice(1), 10) - 1;
   const per = perList[idx];
   if (!per) return [];
   const names = [toTrad(per.n)];
   if (per.z) names.push(toTrad(per.z));
-  return names;
+  // 皇后/夫人等：加 皇后+姓+氏、姓+后 变体（不加 bare 氏，太宽泛易误匹配如"貴人伏氏"）
+  // 如 伏皇后 -> 皇后伏氏、伏后
+  const n = toTrad(per.n);
+  const m = n.match(/^(.+?)(皇后|夫人|太后|妃)$/);
+  if (m) {
+    const xing = m[1], title = m[2];
+    names.push(title + xing + '氏');
+    names.push(xing + '后');
+  }
+  return [...new Set(names)];
 }
 
 // 在段落中查找人名（返回匹配的段落索引）
