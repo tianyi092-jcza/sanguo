@@ -153,7 +153,11 @@ function citationGroups(items){
 function excerptCardsHTML(groups,p,work,attached){
   return groups.map((g,gi)=>{
     const quoteId=`source-quote-${p.id}-${work}-${gi}`;
-    return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>{
+    // 引用加原文链接（sidneyluo），方便看上下文
+    const src0=g.items[0]?.source||'';
+    const m=src0.match(/^(a0[345])-(\d+[a-z]*)/);
+    const srcLink=m?` <a href="http://www.sidneyluo.net/a/${m[1]}/${m[2]}.html" target="_blank" rel="noopener noreferrer" style="font-size:11px;color:#999">原文</a>`:'';
+    return `<article class="source-excerpt"><div class="source-citation">${esc(g.citation)}${srcLink}</div>${g.provisional?'<small>此段尚待正文、注文與本人身分的二次復核。</small>':''}${g.items.map((item,ii)=>{
       let body;
       if(item.segs&&item.segs.length){
         let html='',i=0;
