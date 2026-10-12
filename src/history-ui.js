@@ -168,7 +168,8 @@ function excerptCardsHTML(groups,p,work,attached){
         }
         body=html;
       }else{body=esc(item.quote);}
-      return `<blockquote${ii?'':' id="'+quoteId+'"'}>${body}</blockquote>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`;
+      const delId=`${p.id}|${work}|${item.id||ii}|${esc(g.citation)}`;
+      return `<div class="excerpt-wrap" data-del-id="${esc(delId)}" style="position:relative"><button type="button" class="excerpt-del" data-del-id="${esc(delId)}" title="删除此条（误摘）" style="position:absolute;top:2px;right:4px;border:none;background:transparent;color:#999;font-size:16px;cursor:pointer;padding:2px 6px;z-index:5">×</button><blockquote${ii?'':' id="'+quoteId+'"'}>${body}</blockquote></div>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`;
     }).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('');
 }
@@ -364,7 +365,42 @@ document.addEventListener('click',e=>{
   const person=(typeof DATA!=='undefined'&&(DATA.per||[]).find(x=>x.id===pid))||{id:pid};
   Promise.resolve(loadWsBiography(person)).then(()=>setTimeout(done,80));
 });
+// 摘录删除按钮：右上角×，localStorage记录，支持导出
+document.addEventListener('click',e=>{
+  const btn=e.target.closest('.excerpt-del');
+  if(!btn)return;
+  e.preventDefault();e.stopPropagation();
+  const delId=btn.dataset.delId;
+  const wrap=btn.closest('.excerpt-wrap');
+  if(!confirm('确定删除此条摘录？（误摘，如"淮南王允"非"王允"）'))return;
+  // 存 localStorage
+  try{
+    const key='sanguo-excerpt-deletions';
+    const arr=JSON.parse(localStorage.getItem(key)||'[]');
+    if(!arr.includes(delId)){arr.push(delId);localStorage.setItem(key,JSON.stringify(arr));}
+  }catch(_){}
+  if(wrap)wrap.style.display='none';
+});
+// 导出已删除摘录ID（在控制台运行 copy(exportExcerptDeletions())）
+window.exportExcerptDeletions=function(){
+  try{
+    const arr=JSON.parse(localStorage.getItem('sanguo-excerpt-deletions')||'[]');
+    return JSON.stringify(arr,null,1);
+  }catch(_){return '[]';}
+};
+window.clearExcerptDeletions=function(){
+  try{localStorage.removeItem('sanguo-excerpt-deletions');}catch(_){}
+  document.querySelectorAll('.excerpt-wrap').forEach(w=>w.style.display='');
+};
 function activateSourceExcerpts(){
+  // 应用已删除的摘录（localStorage）
+  let deletedIds=[];
+  try{deletedIds=JSON.parse(localStorage.getItem('sanguo-excerpt-deletions')||'[]');}catch(_){}
+  if(deletedIds.length){
+    $('#modal').querySelectorAll('.excerpt-wrap').forEach(w=>{
+      if(deletedIds.includes(w.dataset.delId))w.style.display='none';
+    });
+  }
   $('#modal').querySelectorAll('.source-excerpt').forEach(card=>{
     const targets=[...card.querySelectorAll('blockquote')];
     const bio=card.querySelector('.biography-text');
