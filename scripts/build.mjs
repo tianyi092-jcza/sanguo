@@ -3,8 +3,14 @@ import crypto from 'node:crypto';
 import vm from 'node:vm';
 import {makeHistory,traditional} from './history.mjs';
 import {loadMapConfig} from './map-config.mjs';
+import {applyWikisourceOverrides} from './wikisource-overrides.mjs';
 const read=p=>fs.readFileSync(p,'utf8');
 const {data,history,chars,audit}=makeHistory(JSON.parse(read('data/original.json')));
+// 考據引文维基迁移（持久化在 data/wikisource-overrides.json，构建时应用；
+// data/history.json 是构建产物，直接改它会被重生成覆盖）
+// 重新生成 overrides 时先 SKIP_OVERRIDES=1 npm run build 得到 pristine，再跑 build-wikisource-overrides.mjs
+const ovStats=process.env.SKIP_OVERRIDES ? {skipped:true} : applyWikisourceOverrides(history);
+if(!ovStats.skipped)console.log(JSON.stringify({wikisourceOverrides:ovStats}));
 const mapConfig=loadMapConfig();
 fs.mkdirSync('output',{recursive:true});fs.writeFileSync('output/data-audit.json',JSON.stringify(audit,null,2));
 if(audit.missingAnchors.length){console.error(JSON.stringify(audit.missingAnchors,null,2));throw new Error('Every dated segment must resolve to a source-text anchor.');}
