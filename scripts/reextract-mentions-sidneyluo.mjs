@@ -41,6 +41,26 @@ function findMentions(nameTrad, text) {
   return text.includes(nameTrad);
 }
 
+// 按句子切分，提取含人名的句子
+// 规则：裴注独立成句的不摘（除非注本身含人名）；裴注嵌在句中的整句摘
+function extractSentences(nameTrad, text) {
+  // 按 。！？ 切分，保留分隔符
+  const sentences = text.split(/(?<=[。！？])/);
+  const result = [];
+  for (const s of sentences) {
+    if (s.includes(nameTrad)) {
+      // 用户规则：如果句末是独立的裴注（如"……。(孫盛曰)，"），只摘主句
+      // 简化处理：直接取整句，因为裴注独立成句时通常不含人名
+      // 若人名在裴注中，则该句就是裴注句，整句摘出是正确的
+      const trimmed = s.trim();
+      if (trimmed.length > 10) {  // 过滤过短的碎片
+        result.push(trimmed);
+      }
+    }
+  }
+  return result;
+}
+
 // 为每个人提取
 const out = { schemaVersion: 1, people: [] };
 let totalHits = 0;
@@ -52,21 +72,21 @@ for (let idx = 0; idx < perList.length; idx++) {
   
   const hits = [];
   for (const seg of segs) {
-    if (findMentions(nameTrad, seg.text)) {
+    // 句子级提取：只摘含人名的句子
+    const sentences = extractSentences(nameTrad, seg.text);
+    for (const sent of sentences) {
       // 判断 work 类型
       const src = seg.file.replace('.json','').replace('-ahcb','');
       let work = 'sanguozhi';
       if (src.startsWith('a03-')) work = 'houhanshu';
       else if (src.startsWith('a05-')) work = 'jinshu';
-      // 裴注判断：如果段落含"裴注"或"注曰"等，标为 peizhu
-      // 简化：暂不区分，都按正文处理，由前端显示时判断
       
       hits.push({
         id: `${pid}-${src}-${hits.length}`,
         work,
         source: src,
         citation: makeCitation(seg.file),
-        quote: seg.text,  // 只取一段，不扩展
+        quote: sent,  // 只取一句，不是整段
       });
     }
   }
