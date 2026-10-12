@@ -59,6 +59,29 @@ function peiTagHTML(label,tipHTML){
 function peiNotesHTML(list){
   return `<span class="pei-group">${list.map(pei=>peiTagHTML('裴注',`<div class="pei-tip-citation">${esc(pei.citation)}</div><div>${esc(pei.quote)}</div>`)).join('')}</span>`;
 }
+// 裴注标记：sidneyluo 文本中的注文引子
+const PEI_MARKERS=['臣松之案','臣松之以為','臣松之謂','臣松之云','魏略曰','吳書曰','孫盛曰','魚豢曰','王沈魏書曰','習鑿齒曰','干寶曰','孫盛魏氏春秋曰','魏氏春秋曰','江表傳曰','吳錄曰','九州春秋曰','典略曰','傅子曰','世語曰','漢晉春秋曰'];
+// 把 quote 按裴注标记切分成 segs：[{t:'main',h},{t:'pei',h}]
+function parsePeiSegs(quote){
+  if(!quote||typeof quote!=='string')return null;
+  const segs=[];
+  // 按句子切分，判断每句是否为裴注
+  const sentences=quote.split(/(?<=[。！？])/);
+  let buf='',bufIsPei=false;
+  const flush=()=>{if(buf){segs.push({t:bufIsPei?'pei':'main',h:esc(buf)});buf='';}};
+  for(const s of sentences){
+    const t=s.trim();
+    if(!t)continue;
+    const isPei=PEI_MARKERS.some(m=>t.startsWith(m));
+    if(isPei!==bufIsPei&&buf){flush();}
+    bufIsPei=isPei;
+    buf+=s;
+  }
+  flush();
+  // 如果全是 main（无裴注），返回 null 用原文渲染
+  if(segs.length===1&&segs[0].t==='main')return null;
+  return segs.length?segs:null;
+}
 let peiTipEl=null,peiDocBound=false;
 function showPeiTip(anchor){
   hidePeiTip();
@@ -171,7 +194,22 @@ function excerptCardsHTML(groups,p,work,attached){
           }else{html+=segs[i].h;i++;}
         }
         body=html;
-      }else{body=esc(item.quote);}
+      }else{
+        // 无 segs 时，尝试从 sidneyluo 文本解析裴注
+        const parsed=parsePeiSegs(item.quote);
+        if(parsed){
+          let html='',i=0;
+          while(i<parsed.length){
+            if(parsed[i].t==='pei'){
+              let j=i;
+              while(j<parsed.length&&parsed[j].t==='pei')j++;
+              html+=`<span class="pei-group">${parsed.slice(i,j).map(s=>peiTagHTML('裴注',s.h)).join('')}</span>`;
+              i=j;
+            }else{html+=parsed[i].h;i++;}
+          }
+          body=html;
+        }else{body=esc(item.quote);}
+      }
       const delId=`${p.id}|${work}|${item.id||ii}|${esc(g.citation)}`;
       const excerptId=item.id||'';
       return `<div class="excerpt-wrap" data-del-id="${esc(delId)}" style="position:relative"><button type="button" class="excerpt-del" data-del-id="${esc(delId)}" data-excerpt-id="${esc(excerptId)}" title="删除此条（误摘）" style="position:absolute;top:2px;right:4px;border:none;background:transparent;color:#999;font-size:16px;cursor:pointer;padding:2px 6px;z-index:5">×</button><blockquote${ii?'':' id="'+quoteId+'"'}>${body}</blockquote></div>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`;
