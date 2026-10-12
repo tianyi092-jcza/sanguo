@@ -21,8 +21,8 @@ CREATE INDEX idx_excerpts_person ON excerpts(person_id);
 let count = 0;
 for (const p of m.people) {
   for (const e of p.excerpts) {
-    // 转义单引号
-    const esc = s => String(s || '').replace(/'/g, "''");
+    // 转义单引号，去掉换行（D1 Console 按行解析）
+    const esc = s => String(s || '').replace(/'/g, "''").replace(/\r?\n/g, ' ');
     sql += `INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('${esc(e.id)}', '${esc(p.id)}', '${esc(e.work)}', '${esc(e.source)}', '${esc(e.citation)}', '${esc(e.quote)}');\n`;
     count++;
   }

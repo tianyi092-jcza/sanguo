@@ -1247,38 +1247,7 @@ INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p00
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0050-a03-021-12', 'p0050', 'houhanshu', 'a03-021', '《後漢書·卷二十一》', '八年，東郡、濟陰盜賊羣起，遣大司空李通、橫野大將軍王常擊之。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0050-a03-022-13', 'p0050', 'houhanshu', 'a03-022', '《後漢書·卷二十二》', '明年，大司空李通罷，以成行大司空事，居府如真，數月復拜揚武將軍。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0050-a03-022-14', 'p0050', 'houhanshu', 'a03-022', '《後漢書·卷二十二》', '永平中，顯宗追感前世功臣，乃圖畫二十八將於南宮雲臺，其外又有王常、李通、竇融、卓茂，合三十二人。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0050-a03-022-15', 'p0050', 'houhanshu', 'a03-022', '《後漢書·卷二十二》', '太傅高密侯鄧禹　
-                  中山太守全椒侯馬成
-                  大司馬廣平侯吳漢
-                  河南尹阜成侯王梁
-                  左將軍膠東侯賈復
-                  琅邪太守祝阿侯陳俊
-                  建威大將軍好畤侯耿弇
-                  驃騎大將軍參蘧侯杜茂
-                  執金吾雍奴侯寇恂
-                  積弩將軍昆陽侯傅俊
-                  征南大將軍舞陽侯岑彭
-                  左曹合肥侯堅鐔
-                  征西大將軍陽夏侯馮異
-                  上谷太守淮陽侯王霸
-                  建義大將軍鬲侯朱祐
-                  信都太守阿陵侯任光
-                  征虜將軍潁陽侯祭遵
-                  豫章太守中水侯李忠
-                  驃騎大將軍櫟陽侯景丹
-                  右將軍槐里侯萬脩
-                  虎牙大將軍安平侯蓋延
-                  太常靈壽侯邳彤
-                  衞尉安成侯銚期
-                  驍騎將軍昌成侯劉植
-                  東郡太守東光侯耿純
-                  橫野大將軍山桑侯王常
-                  城門校尉朗陵侯臧宮
-                  大司空固始侯李通
-                  捕虜將軍楊虛侯馬武
-                  大司空安豐侯竇融
-                  驃騎將軍慎侯劉隆
-                  太傅宣德侯卓茂');
+INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0050-a03-022-15', 'p0050', 'houhanshu', 'a03-022', '《後漢書·卷二十二》', '太傅高密侯鄧禹　                   中山太守全椒侯馬成                   大司馬廣平侯吳漢                   河南尹阜成侯王梁                   左將軍膠東侯賈復                   琅邪太守祝阿侯陳俊                   建威大將軍好畤侯耿弇                   驃騎大將軍參蘧侯杜茂                   執金吾雍奴侯寇恂                   積弩將軍昆陽侯傅俊                   征南大將軍舞陽侯岑彭                   左曹合肥侯堅鐔                   征西大將軍陽夏侯馮異                   上谷太守淮陽侯王霸                   建義大將軍鬲侯朱祐                   信都太守阿陵侯任光                   征虜將軍潁陽侯祭遵                   豫章太守中水侯李忠                   驃騎大將軍櫟陽侯景丹                   右將軍槐里侯萬脩                   虎牙大將軍安平侯蓋延                   太常靈壽侯邳彤                   衞尉安成侯銚期                   驍騎將軍昌成侯劉植                   東郡太守東光侯耿純                   橫野大將軍山桑侯王常                   城門校尉朗陵侯臧宮                   大司空固始侯李通                   捕虜將軍楊虛侯馬武                   大司空安豐侯竇融                   驃騎將軍慎侯劉隆                   太傅宣德侯卓茂');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0050-a03-036-16', 'p0050', 'houhanshu', 'a03-036', '《後漢書·卷三十六》', '元以才高著名，辟司空李通府。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0050-a03-036-17', 'p0050', 'houhanshu', 'a03-036', '《後漢書·卷三十六》', '李通罷，元後復辟司徒歐陽歙府，數陳當世便事、郊廟之禮，帝不能用。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0050-a03-070-18', 'p0050', 'houhanshu', 'a03-070', '《後漢書·卷七十》', '若要離焚妻子以徇吳，李通誅宗族以從漢之類也。');
@@ -5470,20 +5439,7 @@ INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p01
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0192-a04-035-134', 'p0192', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '袁子曰：張子布薦亮於孫權，亮不肯留。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0192-a04-035-135', 'p0192', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '亮聞孫權破曹休，魏兵東下，關中虛弱。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0192-a04-035-136', 'p0192', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '」漢晉春秋曰：是歲，孫權稱尊號，其羣臣以並尊二帝來告。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0192-a04-035-137', 'p0192', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '諸葛氏集目錄
-                    　　開府作牧第一　　　權制第二
-                    　　南征第三　　　　　北出第四
-                  　　計筭第五　　　　　訓厲第六
-                  　　綜覈上第七　　　　綜覈下第八
-                  　　雜言上第九　　　　雜言下第十
-                  　　貴和第十一　　　　兵要第十二
-                  　　傳運第十三　　　　與孫權書第十四
-                  　　與諸葛瑾書第十五　與孟達書第十六
-                  　　廢李平第十七　　　法檢上第十八
-                  　　法檢下第十九　　　科令上第二十
-                  　　科令下第二十一　　軍令上第二十二
-                  　　軍令中第二十三　　軍令下第二十四
-                  　右二十四篇，凡十萬四千一百一十二字。');
+INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0192-a04-035-137', 'p0192', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '諸葛氏集目錄                     　　開府作牧第一　　　權制第二                     　　南征第三　　　　　北出第四                   　　計筭第五　　　　　訓厲第六                   　　綜覈上第七　　　　綜覈下第八                   　　雜言上第九　　　　雜言下第十                   　　貴和第十一　　　　兵要第十二                   　　傳運第十三　　　　與孫權書第十四                   　　與諸葛瑾書第十五　與孟達書第十六                   　　廢李平第十七　　　法檢上第十八                   　　法檢下第十九　　　科令上第二十                   　　科令下第二十一　　軍令上第二十二                   　　軍令中第二十三　　軍令下第二十四                   　右二十四篇，凡十萬四千一百一十二字。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0192-a04-035-138', 'p0192', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '亮時年二十七，乃建奇策，身使孫權，求援吳會。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0192-a04-035-139', 'p0192', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '初，亮未有子，求喬為嗣，瑾啟孫權遣喬來西，亮以喬為己適子，故易其字焉。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0192-a04-035-140', 'p0192', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '延熈十四年，以校尉使吳，值孫權病篤，不自見建。');
@@ -5847,20 +5803,7 @@ INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p02
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0203-a04-009-3', 'p0203', 'sanguozhi', 'a04-009', '《三國志·魏書九》', '權將諸葛瑾與尚軍對江，瑾渡入江中渚，而分水軍於江中。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0203-a04-017-4', 'p0203', 'sanguozhi', 'a04-017', '《三國志·魏書十七》', '明帝即位，拒吳將諸葛瑾於襄陽。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0203-a04-023-5', 'p0203', 'sanguozhi', 'a04-023', '《三國志·魏書二十三》', '時吳使朱然、諸葛瑾攻圍樊城，遣船兵於峴山東斫材，牂牁人兵作食，有先熟者呼後熟者，言：「共食來。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0203-a04-035-6', 'p0203', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '諸葛氏集目錄
-                    　　開府作牧第一　　　權制第二
-                    　　南征第三　　　　　北出第四
-                  　　計筭第五　　　　　訓厲第六
-                  　　綜覈上第七　　　　綜覈下第八
-                  　　雜言上第九　　　　雜言下第十
-                  　　貴和第十一　　　　兵要第十二
-                  　　傳運第十三　　　　與孫權書第十四
-                  　　與諸葛瑾書第十五　與孟達書第十六
-                  　　廢李平第十七　　　法檢上第十八
-                  　　法檢下第十九　　　科令上第二十
-                  　　科令下第二十一　　軍令上第二十二
-                  　　軍令中第二十三　　軍令下第二十四
-                  　右二十四篇，凡十萬四千一百一十二字。');
+INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0203-a04-035-6', 'p0203', 'sanguozhi', 'a04-035', '《三國志·蜀書五》', '諸葛氏集目錄                     　　開府作牧第一　　　權制第二                     　　南征第三　　　　　北出第四                   　　計筭第五　　　　　訓厲第六                   　　綜覈上第七　　　　綜覈下第八                   　　雜言上第九　　　　雜言下第十                   　　貴和第十一　　　　兵要第十二                   　　傳運第十三　　　　與孫權書第十四                   　　與諸葛瑾書第十五　與孟達書第十六                   　　廢李平第十七　　　法檢上第十八                   　　法檢下第十九　　　科令上第二十                   　　科令下第二十一　　軍令上第二十二                   　　軍令中第二十三　　軍令下第二十四                   　右二十四篇，凡十萬四千一百一十二字。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0203-a04-047-7', 'p0203', 'sanguozhi', 'a04-047', '《三國志·吳書二》', '招延俊秀，聘求名士，魯肅、諸葛瑾等始為賔客。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0203-a04-047-8', 'p0203', 'sanguozhi', 'a04-047', '《三國志·吳書二》', '權以備已得益州，令諸葛瑾從求荊州諸郡。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0203-a04-047-9', 'p0203', 'sanguozhi', 'a04-047', '《三國志·吳書二》', '權令諸葛瑾報，更尋盟好，遂分荊州長沙、江夏、桂陽以東屬權，南郡、零陵、武陵以西屬備。');
@@ -6969,8 +6912,7 @@ INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p02
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0263-a03-109-116', 'p0263', 'houhanshu', 'a03-109', '《二十四史-後漢書-志第十九‧郡國一》', '中牟左傳宣元年諸侯救鄭，遇于北林，杜預曰縣西南有林亭，在鄭北。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0263-a03-109-117', 'p0263', 'houhanshu', 'a03-109', '《二十四史-後漢書-志第十九‧郡國一》', '左傳閔二年遇于清，杜預曰縣有清陽亭。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0263-a03-109-118', 'p0263', 'houhanshu', 'a03-109', '《二十四史-後漢書-志第十九‧郡國一》', '杜預曰管國也，在京縣東北。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0263-a03-109-119', 'p0263', 'houhanshu', 'a03-109', '《二十四史-後漢書-志第十九‧郡國一》', '開封左傳哀十四年「逢澤有介麋」，杜預曰在縣東北，遠，疑
-非。');
+INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0263-a03-109-119', 'p0263', 'houhanshu', 'a03-109', '《二十四史-後漢書-志第十九‧郡國一》', '開封左傳哀十四年「逢澤有介麋」，杜預曰在縣東北，遠，疑 非。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0263-a03-109-120', 'p0263', 'houhanshu', 'a03-109', '《二十四史-後漢書-志第十九‧郡國一》', '左傳宣元年諸侯會于棐林，杜預曰縣東南有林鄉。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0263-a03-109-121', 'p0263', 'houhanshu', 'a03-109', '《二十四史-後漢書-志第十九‧郡國一》', '左傳成十六年諸侯遷於制田，杜預曰縣東有制澤。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0263-a03-109-122', 'p0263', 'houhanshu', 'a03-109', '《二十四史-後漢書-志第十九‧郡國一》', '左傳襄十一年諸侯之師次于瑣，杜預曰縣東有瑣侯亭。');
