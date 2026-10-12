@@ -19,7 +19,7 @@
   "d1_databases": [
     {
       "binding": "SANGUO_DB",
-      "database_id": "REPLACE_WITH_D1_DATABASE_ID",
+      "database_id": "87e119a3-1c8e-4f45-b7cb-5d44f0ad0ef3",
       "database_name": "sanguo-excerpts"
     }
   ]
