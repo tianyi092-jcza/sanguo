@@ -169,7 +169,8 @@ function excerptCardsHTML(groups,p,work,attached){
         body=html;
       }else{body=esc(item.quote);}
       const delId=`${p.id}|${work}|${item.id||ii}|${esc(g.citation)}`;
-      return `<div class="excerpt-wrap" data-del-id="${esc(delId)}" style="position:relative"><button type="button" class="excerpt-del" data-del-id="${esc(delId)}" title="删除此条（误摘）" style="position:absolute;top:2px;right:4px;border:none;background:transparent;color:#999;font-size:16px;cursor:pointer;padding:2px 6px;z-index:5">×</button><blockquote${ii?'':' id="'+quoteId+'"'}>${body}</blockquote></div>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`;
+      const excerptId=item.id||'';
+      return `<div class="excerpt-wrap" data-del-id="${esc(delId)}" style="position:relative"><button type="button" class="excerpt-del" data-del-id="${esc(delId)}" data-excerpt-id="${esc(excerptId)}" title="删除此条（误摘）" style="position:absolute;top:2px;right:4px;border:none;background:transparent;color:#999;font-size:16px;cursor:pointer;padding:2px 6px;z-index:5">×</button><blockquote${ii?'':' id="'+quoteId+'"'}>${body}</blockquote></div>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`;
     }).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('');
 }
@@ -365,21 +366,38 @@ document.addEventListener('click',e=>{
   const person=(typeof DATA!=='undefined'&&(DATA.per||[]).find(x=>x.id===pid))||{id:pid};
   Promise.resolve(loadWsBiography(person)).then(()=>setTimeout(done,80));
 });
-// 摘录删除按钮：右上角×，localStorage记录，支持导出
-document.addEventListener('click',e=>{
+// 摘录删除按钮：右上角×，直接调 DELETE /api/excerpts/:id 真删
+document.addEventListener('click',async e=>{
   const btn=e.target.closest('.excerpt-del');
   if(!btn)return;
   e.preventDefault();e.stopPropagation();
   const delId=btn.dataset.delId;
-  const wrap=btn.closest('.excerpt-wrap');
-  if(!confirm('确定删除此条摘录？（误摘，如"淮南王允"非"王允"）'))return;
-  // 存 localStorage
+  // delId 格式：pid|work|itemId|citation，需解析出真正的 excerpt id
+  // 实际存储的 id 在 data-excerpt-id 属性
+  const excerptId=btn.dataset.excerptId;
+  if(!excerptId){alert('无法删除：缺少摘录ID');return;}
+  if(!confirm('确定删除此条摘录？（误摘，如"淮南王允"非"王允"）\n删除后即时生效，不可撤销。'))return;
   try{
-    const key='sanguo-excerpt-deletions';
-    const arr=JSON.parse(localStorage.getItem(key)||'[]');
-    if(!arr.includes(delId)){arr.push(delId);localStorage.setItem(key,JSON.stringify(arr));}
-  }catch(_){}
-  if(wrap)wrap.style.display='none';
+    const r=await fetch('/api/excerpts/'+encodeURIComponent(excerptId),{method:'DELETE'});
+    const j=await r.json();
+    if(!r.ok)throw new Error(j.error||('HTTP '+r.status));
+    if(j.deleted>0){
+      const wrap=btn.closest('.excerpt-wrap');
+      if(wrap)wrap.style.display='none';
+    }else{
+      alert('删除失败：未找到该摘录');
+    }
+  }catch(err){
+    alert('删除失败：'+err.message+'\n（可能是 D1 未配置，回退到本地标记模式）');
+    // 回退：localStorage 标记
+    try{
+      const key='sanguo-excerpt-deletions';
+      const arr=JSON.parse(localStorage.getItem(key)||'[]');
+      if(!arr.includes(delId)){arr.push(delId);localStorage.setItem(key,JSON.stringify(arr));}
+    }catch(_){}
+    const wrap=btn.closest('.excerpt-wrap');
+    if(wrap)wrap.style.display='none';
+  }
 });
 // 导出已删除摘录ID（在控制台运行 copy(exportExcerptDeletions())）
 window.exportExcerptDeletions=function(){
@@ -433,7 +451,7 @@ function openPerson(p){
     ${personFactsHTML(h)}
     ${sec('一 · 實際統屬',affiliationEvidenceHTML(h))}
     ${hanOfficesHTML(h)}
-    ${sec('二 · 史料摘錄',personSourceExcerptsHTML(h,p),'相關原文尚待核對，本頁不補寫傳記。')}
+    ${sec('二 · 史料摘錄',`<div data-excerpts="${p.id}"><span class="empty">摘錄載入中…</span></div>`,'相關原文尚待核對，本頁不補寫傳記。')}
     ${sec('三 · 相貌與服飾記載',appearance?esc(appearance)+(portrait?.appearanceSource?'<div class="src">'+sourceLink(portrait.appearanceSource)+'</div>':''):'','未收錄已核對的記載；不據演義補寫。')}
     ${sec('四 · 陳壽評曰',chenAppraisalsHTML(h))}
     <p class="source-audit-note">「歸屬不詳」表示證據不足；「無勢力」只用於有記載支持的未仕、退居或獨立活動。生卒、繫年存在推定或異說時，依條目說明閱讀。原始資料已另存備份。</p></div>`;
@@ -442,6 +460,35 @@ function openPerson(p){
   activatePeiTags();
   loadWsBiography(p);
   loadTongjian(p);
+  loadExcerpts(p,h);
+}
+// 摘录动态加载：优先调 /api/excerpts/:pid（D1），失败回退静态 h.sourceExcerpts
+async function loadExcerpts(p,h){
+  const slot=document.querySelector(`[data-excerpts="${p.id}"]`);
+  if(!slot||slot.dataset.loaded)return;
+  slot.dataset.loaded='1';
+  let excerpts=null;
+  try{
+    const r=await fetch('/api/excerpts/'+p.id);
+    if(r.ok){excerpts=await r.json();}
+  }catch(_){}
+  if(!excerpts){
+    // 回退：静态数据
+    excerpts=h.sourceExcerpts||[];
+    if(h.reading){
+      const source=h.reading.source,work=source?.startsWith('a04-')?'sanguozhi':source?.startsWith('a03-')?'houhanshu':source?.startsWith('a05-')?'jinshu':null;
+      if(work)excerpts=[{work,quote:h.reading.quote,citation:HISTORY.sources[source]?.title||source,provisional:work==='sanguozhi'},...excerpts];
+    }
+    excerpts=[...excerpts,...(h.verifiedPeiExcerpts||[])];
+  }
+  if(!document.body.contains(slot))return;
+  const wsBio=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
+  const tmp=document.createElement('div');
+  tmp.innerHTML=newExcerptsHTML(excerpts,p,wsBio);
+  if(tmp.firstElementChild)slot.replaceWith(tmp.firstElementChild);
+  else slot.innerHTML='<span class="empty">未收錄與本人相關的記載。</span>';
+  activateSourceExcerpts();
+  activatePeiTags();
 }
 function portraitHTML(p){
  const entry=PORTRAITS.people[p.id];

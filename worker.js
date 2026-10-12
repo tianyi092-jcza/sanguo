@@ -103,6 +103,10 @@ export default {
       if (proxied) return proxied;
       return new Response('not found', { status: 404 });
     }
+    // 摘录 API：D1 动态数据
+    if (url.pathname.startsWith('/api/excerpts/')) {
+      return handleExcerptsAPI(request, env, url);
+    }
     // 静态资源：交由 Cloudflare Assets 处理
     // 注意：wrangler.jsonc 需配置 [assets] 且本 Worker 为入口时，需用 env.ASSETS.fetch
     if (env.ASSETS) {
@@ -111,3 +115,50 @@ export default {
     return new Response('assets not configured', { status: 500 });
   },
 };
+
+// 摘录 API：GET /api/excerpts/:pid 取某人摘录；DELETE /api/excerpts/:id 删一条
+async function handleExcerptsAPI(request, env, url) {
+  const db = env.SANGUO_DB;
+  if (!db) {
+    return new Response(JSON.stringify({ error: 'D1 not configured' }), {
+      status: 500, headers: { 'content-type': 'application/json' },
+    });
+  }
+  const parts = url.pathname.split('/');
+  // parts: ['', 'api', 'excerpts', ':id']
+  const id = parts[3];
+
+  if (request.method === 'GET' && id) {
+    // 取某人的全部摘录：/api/excerpts/p0086
+    try {
+      const { results } = await db.prepare(
+        'SELECT id, person_id, work, source, citation, quote FROM excerpts WHERE person_id = ? ORDER BY source, id'
+      ).bind(id).all();
+      return new Response(JSON.stringify(results), {
+        headers: { 'content-type': 'application/json', 'cache-control': 'no-store' },
+      });
+    } catch (e) {
+      return new Response(JSON.stringify({ error: String(e) }), {
+        status: 500, headers: { 'content-type': 'application/json' },
+      });
+    }
+  }
+
+  if (request.method === 'DELETE' && id) {
+    // 删一条：/api/excerpts/p0086-a04-001-0
+    try {
+      const res = await db.prepare('DELETE FROM excerpts WHERE id = ?').bind(id).run();
+      return new Response(JSON.stringify({ deleted: res.meta.changes }), {
+        headers: { 'content-type': 'application/json' },
+      });
+    } catch (e) {
+      return new Response(JSON.stringify({ error: String(e) }), {
+        status: 500, headers: { 'content-type': 'application/json' },
+      });
+    }
+  }
+
+  return new Response(JSON.stringify({ error: 'method not allowed' }), {
+    status: 405, headers: { 'content-type': 'application/json' },
+  });
+}
