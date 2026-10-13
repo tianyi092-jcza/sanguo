@@ -216,56 +216,26 @@ function excerptCardsHTML(groups,p,work,attached){
     }).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('');
 }
-// 舊版渲染：無維基文库本传全文的人物沿用
-function biographyFullHTML(wsBio,p){
-  const body=wsBio.paragraphs.map((para,pi)=>{
-    let html='',i=0;
-    const segs=para.segs;
-    while(i<segs.length){
-      if(segs[i].t==='pei'){
-        let j=i;
-        while(j<segs.length&&segs[j].t==='pei')j++;
-        html+=`<span class="pei-group">${segs.slice(i,j).map(s=>peiTagHTML('裴注',s.h)).join('')}</span>`;
-        i=j;
-      }else{html+=segs[i].h;i++;}
-    }
-    return `<p id="bio-p-${p.id}-${pi}">${html}</p>`;
-  }).join('');
-  return `<article class="source-excerpt biography-full"><div class="source-citation">${esc(p.s||'本傳')} · 全文</div><div class="src">底本：維基文庫<a href="${wsBio.url}" target="_blank" rel="noopener noreferrer">《三國志》${esc(wsBio.pageLabel)}</a>（原文照錄；注文以「裴注」標籤呈現，懸停查看）</div><div class="biography-text">${body}</div><button type="button" class="source-expand" aria-expanded="false">展開全文</button></article>`;
-}
 // 三 · 資治通鑑：有摘錄者占位懒加载，无摘錄者显示空态
 function tongjianSectionHTML(p){
   const vols=(typeof TJ_INDEX!=='undefined'&&TJ_INDEX[p.id])||null;
   if(vols&&vols.length)return `<div data-tj-person="${p.id}"><span class="empty">通鑑摘錄載入中…</span></div>`;
   return '<span class="empty">未收錄與本人相關的通鑑記載。</span>';
 }
-// 新三段式：一三國志（含裴注）/二晉書/三資治通鑑；wsBio 为 null 时表示无三国志本传，本传区留空
-function newExcerptsHTML(excerpts,p,wsBio){
+// 新三段式：一三國志（含裴注）/二晉書/三資治通鑑
+function newExcerptsHTML(excerpts,p){
   const mains=excerpts.filter(x=>x.work!=='peizhu');
   let otherMains, attached, orphans;
-  if(wsBio){
-    const bioSrc=biographySourceId(p).replace(/-(ahcb|full)$/,'');
-    const normSrc=s=>String(s||'').replace(/-(ahcb|full)$/,'');
-    // 本传判定：同源文件 +（多传合卷时）段落落在本人传记范围内；全文已收录则不再重复展示
-    const range=wsBio.bioParagraphs;
-    const inBioRange=m=>{
-      if(!bioSrc||normSrc(m.source)!==bioSrc)return false;
-      if(!range||m.paragraph==null)return true;
-      return m.paragraph>=range[0]&&m.paragraph<=range[1];
-    };
-    otherMains=mains.filter(m=>!(m.work==='sanguozhi'&&inBioRange(m)));
-    ({attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu'&&!inBioRange(x))));
-  }else{
-    // 无本传：全部视为他传/裴注，不做本传去重
-    otherMains=mains;
-    ({attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu')));
-  }
+  // 本传去重已在 loadExcerpts 按 bio_name 完成，此处不再过滤
+  otherMains=mains;
+  ({attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu')));
   let html=`<section class="source-work"><h4>一 · 三國志（含裴注）</h4>`;
+  // 本传全文：从 sidneyluo 按需加载
+  html+=`<div data-sl-bio="${p.id}"><span class="empty">本傳全文載入中…</span></div>`;
   const taGroups=citationGroups(otherMains.filter(m=>m.work==='sanguozhi'));
   if(taGroups.length){
+    html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`;
     html+=excerptCardsHTML(taGroups,p,'sanguozhi',attached);
-  }else{
-    html+=`<span class="empty">未收錄與本人相關的記載。</span>`;
   }
   html+=`</section>`;
   const jinGroups=citationGroups(otherMains.filter(m=>m.work==='jinshu'));
@@ -284,43 +254,7 @@ function personSourceExcerptsHTML(h,p){
     }
     excerpts.push(...(h.verifiedPeiExcerpts||[]));
   }
-  const wsBio=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
-  return newExcerptsHTML(excerpts,p,wsBio);
-}
-// 本传全文懒加载：单文件离线版读内嵌数据，dist 版按需 fetch
-let wsBioDataCache=null;
-function wsBioData(){
-  if(wsBioDataCache)return wsBioDataCache;
-  const el=document.getElementById('ws-bio-data');
-  wsBioDataCache=el?JSON.parse(el.textContent):{};
-  return wsBioDataCache;
-}
-const wsBioPromises={};
-async function loadWsBiography(p){
-  const meta=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
-  const slot=document.querySelector(`[data-ws-bio="${p.id}"]`);
-  if(!meta||!slot||slot.dataset.wsLoaded)return wsBioPromises[p.id];
-  slot.dataset.wsLoaded='1';
-  wsBioPromises[p.id]=(async()=>{
-    try{
-      let bio=wsBioData()[p.id];
-      if(!bio){
-        const r=await fetch('wikisource/'+p.id+'.json');
-        if(!r.ok)throw new Error('HTTP '+r.status);
-        bio=await r.json();
-      }
-      if(!document.body.contains(slot))return;
-      const tmp=document.createElement('div');
-      tmp.innerHTML=biographyFullHTML(bio,p);
-      if(tmp.firstElementChild)slot.replaceWith(tmp.firstElementChild);
-      else slot.innerHTML='<span class="empty">本傳全文載入失敗，請稍後再試。</span>';
-      activateSourceExcerpts();
-      activatePeiTags();
-    }catch(err){
-      if(document.body.contains(slot))slot.innerHTML='<span class="empty">本傳全文載入失敗，請稍後再試。</span>';
-    }
-  })();
-  return wsBioPromises[p.id];
+  return newExcerptsHTML(excerpts,p);
 }
 // 通鑑摘錄懒加载：单文件离线版读内嵌数据，dist 版按卷 fetch
 let tjDataCache=null;
@@ -400,7 +334,7 @@ document.addEventListener('click',e=>{
   if(done())return;
   const pid=link.dataset.pid;
   const person=(typeof DATA!=='undefined'&&(DATA.per||[]).find(x=>x.id===pid))||{id:pid};
-  Promise.resolve(loadWsBiography(person)).then(()=>setTimeout(done,80));
+  Promise.resolve(loadSidneyluoBio(person)).then(()=>setTimeout(done,80));
 });
 // 摘录删除按钮：右上角×，直接调 DELETE /api/excerpts/:id 真删
 document.addEventListener('click',async e=>{
@@ -496,16 +430,52 @@ function openPerson(p){
   activatePeiTags();
   loadTongjian(p);
   loadExcerpts(p,h);
+  loadSidneyluoBio(p);
+}
+// 本传全文：从 /api/biography/:pid 取 sidneyluo 全文
+async function loadSidneyluoBio(p){
+  const slot=document.querySelector(`[data-sl-bio="${p.id}"]`);
+  if(!slot||slot.dataset.loaded)return;
+  slot.dataset.loaded='1';
+  try{
+    const r=await fetch('/api/biography/'+p.id);
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    const bio=await r.json();
+    if(!document.body.contains(slot))return;
+    // 裴注解析
+    const segs=parsePeiSegs(bio.full_text)||[{t:'main',h:esc(bio.full_text)}];
+    let html='',i=0,pi=0;
+    while(i<segs.length){
+      if(segs[i].t==='pei'){
+        let j=i;
+        while(j<segs.length&&segs[j].t==='pei')j++;
+        html+=`<span class="pei-group">${segs.slice(i,j).map(s=>peiTagHTML('裴注',s.h)).join('')}</span>`;
+        i=j;
+      }else{html+=`<p id="bio-p-${p.id}-${pi}">${segs[i].h}</p>`;pi++;i++;}
+    }
+    const tmp=document.createElement('div');
+    tmp.innerHTML=`<article class="source-excerpt biography-full"><div class="source-citation">${esc(bio.bio_name)} · 全文</div><div class="src">底本：sidneyluo.net <a href="http://www.sidneyluo.net/a/${bio.volume.slice(0,3)}/${bio.volume.slice(4)}.html" target="_blank" rel="noopener noreferrer">《三國志》${esc(bio.volume)}</a>（原文照錄；注文以「裴注」標籤呈現，懸停查看）</div><div class="biography-text">${html}</div><button type="button" class="source-expand" aria-expanded="false">展開全文</button></article>`;
+    if(tmp.firstElementChild)slot.replaceWith(tmp.firstElementChild);
+    else slot.innerHTML='<span class="empty">本傳全文載入失敗。</span>';
+    activateSourceExcerpts();
+    activatePeiTags();
+  }catch(err){
+    if(document.body.contains(slot))slot.innerHTML='<span class="empty">（無三國志本傳）</span>';
+  }
 }
 // 摘录动态加载：优先调 /api/excerpts/:pid（D1），失败回退静态 h.sourceExcerpts
 async function loadExcerpts(p,h){
   const slot=document.querySelector(`[data-excerpts="${p.id}"]`);
   if(!slot||slot.dataset.loaded)return;
   slot.dataset.loaded='1';
-  let excerpts=null;
+  let excerpts=null, ownBio=null;
   try{
-    const r=await fetch('/api/excerpts/'+p.id);
-    if(r.ok){excerpts=await r.json();}
+    const [er, br] = await Promise.all([
+      fetch('/api/excerpts/'+p.id).catch(()=>null),
+      fetch('/api/biography/'+p.id).catch(()=>null),
+    ]);
+    if(er && er.ok){ excerpts=await er.json(); }
+    if(br && br.ok){ ownBio=await br.json(); }
   }catch(_){}
   if(!excerpts){
     // 回退：静态数据
@@ -516,10 +486,13 @@ async function loadExcerpts(p,h){
     }
     excerpts=[...excerpts,...(h.verifiedPeiExcerpts||[])];
   }
+  // 本传已有全文展示，从他传摘录里去掉本传条目，避免重复
+  if(ownBio && ownBio.bio_name){
+    excerpts = excerpts.filter(m => !(m.work==='sanguozhi' && m.bio===ownBio.bio_name));
+  }
   if(!document.body.contains(slot))return;
-  const wsBio=(typeof WS_BIOGRAPHIES!=='undefined'&&WS_BIOGRAPHIES[p.id])||null;
   const tmp=document.createElement('div');
-  tmp.innerHTML=newExcerptsHTML(excerpts,p,wsBio);
+  tmp.innerHTML=newExcerptsHTML(excerpts,p);
   if(tmp.firstElementChild)slot.replaceWith(tmp.firstElementChild);
   else slot.innerHTML='<span class="empty">未收錄與本人相關的記載。</span>';
   activateSourceExcerpts();
