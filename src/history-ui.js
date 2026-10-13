@@ -261,17 +261,11 @@ function newExcerptsHTML(excerpts,p,wsBio){
     ({attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu')));
   }
   let html=`<section class="source-work"><h4>一 · 三國志（含裴注）</h4>`;
-  if(wsBio){
-    // 本传全文按需加载：先占位，openPerson 后 fetch 填充
-    html+=`<div data-ws-bio="${p.id}"><span class="empty">本傳全文載入中…</span></div>`;
-  }else{
-    html+=`<div class="src" style="margin:4px 0 8px">（無三國志本傳）</div>`;
-  }
   const taGroups=citationGroups(otherMains.filter(m=>m.work==='sanguozhi'));
   if(taGroups.length){
-    if(wsBio)html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`;
-    else html+=`<div class="src" style="margin:14px 0 4px">以下為他傳所載（提及本人之傳記摘錄）：</div>`;
     html+=excerptCardsHTML(taGroups,p,'sanguozhi',attached);
+  }else{
+    html+=`<span class="empty">未收錄與本人相關的記載。</span>`;
   }
   html+=`</section>`;
   const jinGroups=citationGroups(otherMains.filter(m=>m.work==='jinshu'));
@@ -500,7 +494,6 @@ function openPerson(p){
   activateModal(p.n+'人物資料');
   activateSourceExcerpts();
   activatePeiTags();
-  loadWsBiography(p);
   loadTongjian(p);
   loadExcerpts(p,h);
 }
