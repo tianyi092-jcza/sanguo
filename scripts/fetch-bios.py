@@ -4,7 +4,20 @@ import json, re, urllib.request, time, os
 
 NAME_TRAD = 'data/name-trad.json' if os.path.exists('data/name-trad.json') else '/tmp/name-trad.json'
 
-TOKEN = open('/tmp/d1_token.txt').read().strip()
+def _d1_token():
+    import os as _os
+    t = _os.environ.get("CLOUDFLARE_D1_TOKEN")
+    if not t:
+        for _p in (_os.path.expanduser("~/.config/sanguo/cloudflare-d1-token"),
+                   "/tmp/d1_token.txt"):
+            if _os.path.exists(_p):
+                t = open(_p).read().strip()
+                if t:
+                    break
+    if not t:
+        raise SystemExit("缺少 Cloudflare D1 token：请设置环境变量 CLOUDFLARE_D1_TOKEN，或写入 ~/.config/sanguo/cloudflare-d1-token")
+    return t
+TOKEN = _d1_token()
 ACCT = "7cf57c12af6006a749d4df3c773dce90"
 DB = "87e119a3-1c8e-4f45-b7cb-5d44f0ad0ef3"
 URL = f"https://api.cloudflare.com/client/v4/accounts/{ACCT}/d1/database/{DB}/query"
