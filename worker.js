@@ -104,7 +104,7 @@ export default {
       return new Response('not found', { status: 404 });
     }
     // 摘录 API：D1 动态数据
-    if (url.pathname.startsWith('/api/excerpts/')) {
+    if (url.pathname.startsWith('/api/excerpts/') || url.pathname.startsWith('/api/biography/')) {
       return handleExcerptsAPI(request, env, url);
     }
     // 静态资源：交由 Cloudflare Assets 处理
@@ -117,6 +117,7 @@ export default {
 };
 
 // 摘录 API：GET /api/excerpts/:pid 取某人摘录；DELETE /api/excerpts/:id 删一条
+// 本传 API：GET /api/biography/:pid 取某人本传全文（sidneyluo）
 async function handleExcerptsAPI(request, env, url) {
   const db = env.SANGUO_DB;
   if (!db) {
@@ -125,10 +126,31 @@ async function handleExcerptsAPI(request, env, url) {
     });
   }
   const parts = url.pathname.split('/');
-  // parts: ['', 'api', 'excerpts', ':id']
+  // parts: ['', 'api', 'excerpts'|'biography', ':id']
+  const kind = parts[2];
   const id = parts[3];
 
-  if (request.method === 'GET' && id) {
+  if (kind === 'biography' && request.method === 'GET' && id) {
+    try {
+      const row = await db.prepare(
+        'SELECT person_id, volume, bio_name, full_text FROM biographies WHERE person_id = ?'
+      ).bind(id).first();
+      if (!row) {
+        return new Response(JSON.stringify({ error: 'not found' }), {
+          status: 404, headers: { 'content-type': 'application/json' },
+        });
+      }
+      return new Response(JSON.stringify(row), {
+        headers: { 'content-type': 'application/json', 'cache-control': 'public, max-age=3600' },
+      });
+    } catch (e) {
+      return new Response(JSON.stringify({ error: String(e) }), {
+        status: 500, headers: { 'content-type': 'application/json' },
+      });
+    }
+  }
+
+  if (kind === 'excerpts' && request.method === 'GET' && id) {
     // 取某人的全部摘录：/api/excerpts/p0086
     try {
       const { results } = await db.prepare(
