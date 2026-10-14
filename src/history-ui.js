@@ -430,7 +430,6 @@ function openPerson(p){
   activatePeiTags();
   loadTongjian(p);
   loadExcerpts(p,h);
-  loadSidneyluoBio(p);
 }
 // 本传全文：从 /api/biography/:pid 取 sidneyluo 全文
 async function loadSidneyluoBio(p){
@@ -497,6 +496,8 @@ async function loadExcerpts(p,h){
   else slot.innerHTML='<span class="empty">未收錄與本人相關的記載。</span>';
   activateSourceExcerpts();
   activatePeiTags();
+  // 摘录渲染完后，槽位已存在，再加载本传全文
+  loadSidneyluoBio(p);
 }
 function portraitHTML(p){
  const entry=PORTRAITS.people[p.id];
