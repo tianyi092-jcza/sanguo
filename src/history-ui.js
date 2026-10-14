@@ -443,12 +443,19 @@ async function loadSidneyluoBio(p){
     if(!document.body.contains(slot))return;
     // 裴注解析
     const segs=parsePeiSegs(bio.full_text)||[{t:'main',h:esc(bio.full_text)}];
+    // 裴注标签跟在正文段内，不单独成行
     let html='',i=0,pi=0;
     while(i<segs.length){
       if(segs[i].t==='pei'){
         let j=i;
         while(j<segs.length&&segs[j].t==='pei')j++;
-        html+=`<span class="pei-group">${segs.slice(i,j).map(s=>peiTagHTML('裴注',s.h)).join('')}</span>`;
+        const tag=`<span class="pei-group">${segs.slice(i,j).map(s=>peiTagHTML('裴注',s.h)).join('')}</span>`;
+        // 追加到上一个段落内；若开头即裴注，则独立成段
+        if(html.endsWith('</p>')){
+          html=html.slice(0,-4)+tag+'</p>';
+        }else{
+          html+=`<p id="bio-p-${p.id}-${pi}">${tag}</p>`;pi++;
+        }
         i=j;
       }else{html+=`<p id="bio-p-${p.id}-${pi}">${segs[i].h}</p>`;pi++;i++;}
     }
