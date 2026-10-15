@@ -168,8 +168,12 @@ async function handleExcerptsAPI(request, env, url) {
 
   if (request.method === 'DELETE' && id) {
     // 删一条：/api/excerpts/p0086-a04-001-0
+    // 同时记入 excerpt_deletions 表，防重导时复活
     try {
       const res = await db.prepare('DELETE FROM excerpts WHERE id = ?').bind(id).run();
+      if (res.meta.changes > 0) {
+        await db.prepare('INSERT OR IGNORE INTO excerpt_deletions (id) VALUES (?)').bind(id).run();
+      }
       return new Response(JSON.stringify({ deleted: res.meta.changes }), {
         headers: { 'content-type': 'application/json' },
       });
