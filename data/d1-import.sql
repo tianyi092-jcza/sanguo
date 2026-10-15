@@ -2133,16 +2133,11 @@ INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p00
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a04-016-39', 'p0086', 'sanguozhi', 'a04-016', '《三國志·魏書十六》', '後又與王允謀共誅卓，泰脫身自武關走，東歸。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a04-032-40', 'p0086', 'sanguozhi', 'a04-032', '《三國志·蜀書二》', '故將王允被害，莫敢近者，戩棄官收歛之。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-003-41', 'p0086', 'jinshu', 'a05-003', '《晉書·卷三》', '改封南陽王柬為秦王，始平王瑋為楚王，濮陽王允為淮南王，並假節之國，各統方州軍事。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-003-42', 'p0086', 'jinshu', 'a05-003', '《晉書·卷三》', '說者紛然，久而不定，竟用王佑之謀，遣太子母弟秦王柬都督關中，楚王瑋、淮南王允並鎮守要害，以彊帝室。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-004-43', 'p0086', 'jinshu', 'a05-004', '《晉書·卷四》', '癸酉，鎮南將軍楚王瑋、鎮東將軍淮南王允來朝。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-004-44', 'p0086', 'jinshu', 'a05-004', '《晉書·卷四》', '丁酉，以梁王肜為太宰，左光祿大夫何劭為司徒，右光祿大夫劉寔為司空，淮南王允為驃騎將軍。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-004-45', 'p0086', 'jinshu', 'a05-004', '《晉書·卷四》', '秋八月，淮南王允舉兵討趙王倫，不剋，允及其二子秦王郁、漢王迪皆遇害。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-007-46', 'p0086', 'jinshu', 'a05-007', '《晉書·卷七》', '乙未，將軍王允之及逸戰於溧陽，獲之。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-007-47', 'p0086', 'jinshu', 'a05-007', '《晉書·卷七》', '癸丑，帝觀兵于廣莫門，分命諸將，遣將軍劉仕救歷陽，平西將軍趙胤屯慈湖，龍驤將軍路永戍牛渚，建武將軍王允之戍蕪湖。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-007-48', 'p0086', 'jinshu', 'a05-007', '《晉書·卷七》', '庾懌嘗送酒於江州刺史王允之，允之與犬，犬斃，懼而表之。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-007-49', 'p0086', 'jinshu', 'a05-007', '《晉書·卷七》', '以江州刺史王允之為衞將軍。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-007-50', 'p0086', 'jinshu', 'a05-007', '《晉書·卷七》', '冬十月甲午，衞將軍王允之卒。');
-INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0086-a05-037-51', 'p0086', 'jinshu', 'a05-037', '《晉書-卷三十七・列傳第七》', '出爲安東將軍、都督揚州諸軍事，代淮南王允鎮壽春，未發。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0087-a03-008-full-0', 'p0087', 'houhanshu', 'a03-008-full', '《後漢書·卷八》', '遣中郎將董卓攻張角，不剋。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0087-a03-008-full-1', 'p0087', 'houhanshu', 'a03-008-full', '《後漢書·卷八》', '又遣中郎將董卓討先零羌。');
 INSERT INTO excerpts (id, person_id, work, source, citation, quote) VALUES ('p0087-a03-008-full-2', 'p0087', 'houhanshu', 'a03-008-full', '《後漢書·卷八》', '并州牧董卓殺執金吾丁原。');
