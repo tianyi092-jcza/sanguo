@@ -1,8 +1,20 @@
 #!/usr/bin/env node
 // 生成 D1 导入 SQL：data/mentions.json -> excerpts 表
 import fs from 'node:fs';
+import { refreshLedgerFromD1 } from './sync-excerpt-deletions.mjs';
 
 const ROOT = new URL('..', import.meta.url).pathname;
+
+// 重导前先尽力把用户在 D1 的 × 删除同步进 ledger（防复活）。
+// D1 不可达时只告警、用本地 ledger 继续，不阻塞重导。
+try {
+  const r = await refreshLedgerFromD1();
+  if (r.warning) console.warn(`[ledger 同步] ${r.warning}`);
+  else if (r.added > 0) console.log(`[ledger 同步] 从 D1 新同步 ${r.added} 条 × 删除`);
+} catch (e) {
+  console.warn(`[ledger 同步] 跳过：${e.message}`);
+}
+
 const m = JSON.parse(fs.readFileSync(`${ROOT}/data/mentions.json`, 'utf-8'));
 
 // 人工校对删除 ledger：用户在弹窗点 × 真删的 D1 摘录，重导时必须过滤，
