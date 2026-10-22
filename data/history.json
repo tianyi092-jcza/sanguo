@@ -70206,552 +70206,254 @@
       ],
       "sourceExcerpts": [
         {
-          "id": "p0191-a03-009-0",
+          "id": "ce-hhs-xiandi-qua",
           "work": "houhanshu",
           "source": "a03-009",
-          "citation": "《後漢書·卷九》",
-          "quote": "是歲，楊州刺史劉繇與袁術將孫策戰于曲阿，策字伯符，孫堅子。"
+          "paragraph": 7,
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "quote": "是歲，楊州刺史劉繇與袁術將孫策戰于曲阿，策字伯符，孫堅子。曲阿，今潤州縣。繇軍敗績，孫策遂據江東。",
+          "display": true
         },
         {
-          "id": "p0191-a03-009-1",
+          "id": "ce-hhs-xiandi-qua-wuzhi",
           "work": "houhanshu",
           "source": "a03-009",
-          "citation": "《後漢書·卷九》",
-          "quote": "繇軍敗績，孫策遂據江東。"
+          "paragraph": 7,
+          "citation": "《後漢書·孝獻帝紀》引《吳志》所載",
+          "quote": "吳志曰：「孫策旣破繇，遂度兵據會稽，策自領會稽太守。」",
+          "display": true
         },
         {
-          "id": "p0191-a03-009-2",
+          "id": "ce-hhs-xiandi-fenggong",
           "work": "houhanshu",
           "source": "a03-009",
-          "citation": "《後漢書·卷九》",
-          "quote": "吳志曰：「孫策旣破繇，遂度兵據會稽，策自領會稽太守。"
+          "paragraph": 10,
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "quote": "孫策遣使奉貢。",
+          "display": true
         },
         {
-          "id": "p0191-a03-009-3",
+          "id": "ce-hhs-xiandi-sunce-si",
           "work": "houhanshu",
           "source": "a03-009",
-          "citation": "《後漢書·卷九》",
-          "quote": "是歲，孫策死，為許貢客所射傷。"
+          "paragraph": 13,
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "quote": "是歲，孫策死，為許貢客所射傷。弟權襲其餘業。",
+          "display": true
         },
         {
-          "id": "p0191-a03-031-4",
+          "id": "ce-hhs-lukang-sunce-gong",
           "work": "houhanshu",
           "source": "a03-031",
-          "citation": "《後漢書·卷三十一》",
-          "quote": "術大怒，遣其將孫策攻康，圍城數重。"
+          "paragraph": 54,
+          "citation": "《後漢書·陸康傳》所載",
+          "quote": "術大怒，遣其將孫策攻康，圍城數重。康固守，吏士有先受休假者，皆遁伏還赴，暮夜緣城而入。受敵二年，城陷。",
+          "display": true
         },
         {
-          "id": "p0191-a03-045-5",
+          "id": "ce-hhs-yuanzhong-sunce-pohuiji",
           "work": "houhanshu",
           "source": "a03-045",
-          "citation": "《後漢書·卷四十五》",
-          "quote": "後孫策破會稽，忠等浮海南投交阯。"
+          "paragraph": 23,
+          "citation": "《後漢書·袁忠傳》所載",
+          "quote": "後孫策破會稽，忠等浮海南投交阯。",
+          "display": true
         },
         {
-          "id": "p0191-a03-068-6",
+          "id": "ce-hhs-xushao-pingwu-nanben",
           "work": "houhanshu",
           "source": "a03-068",
-          "citation": "《後漢書·卷六十八》",
-          "quote": "及孫策平吳，劭與繇南奔豫章而卒，時年四十六。"
+          "paragraph": 29,
+          "citation": "《後漢書·許劭傳》所載",
+          "quote": "及孫策平吳，劭與繇南奔豫章而卒，時年四十六。",
+          "display": true
         },
         {
-          "id": "p0191-a03-070-7",
+          "id": "ce-hhs-xunyu-sanfujue-lishu",
           "work": "houhanshu",
           "source": "a03-070",
-          "citation": "《後漢書·卷七十》",
-          "quote": "後為孫策廬江太守李術所殺。"
+          "paragraph": 34,
+          "citation": "《後漢書·荀彧傳》引《三輔決錄》所載",
+          "quote": "後為孫策廬江太守李術所殺。",
+          "display": true
         },
         {
-          "id": "p0191-a03-075-8",
+          "id": "ce-hhs-yuanshu-pochun-weizhi",
           "work": "houhanshu",
           "source": "a03-075",
-          "citation": "《後漢書·卷七十五》",
-          "quote": "魏志曰「勳字子臺，琅邪人，與太祖有舊，為孫策破後，自歸太祖，封列侯。"
+          "paragraph": 25,
+          "citation": "《後漢書·袁術傳》引《魏志》所載",
+          "quote": "為孫策破後，自歸太祖，封列侯。",
+          "display": true
         },
         {
-          "id": "p0191-a03-075-9",
+          "id": "ce-hhs-yuanshu-pochun-zhengwen",
           "work": "houhanshu",
           "source": "a03-075",
-          "citation": "《後漢書·卷七十五》",
-          "quote": "孫策破勳，復見收視，術女入孫權宮，子曜仕吳為郎中。"
+          "paragraph": 25,
+          "citation": "《後漢書·袁術傳》所載",
+          "quote": "孫策破勳，復見收視，術女入孫權宮，子曜仕吳為郎中。",
+          "display": true
         },
         {
-          "id": "p0191-a03-076-10",
+          "id": "ce-hhs-liuyao-poyao-zhengwen",
           "work": "houhanshu",
           "source": "a03-076",
-          "citation": "《後漢書·卷七十六》",
-          "quote": "袁術遣孫策攻破繇，因奔豫章，病卒。"
+          "paragraph": 58,
+          "citation": "《後漢書·劉繇傳》所載",
+          "quote": "袁術遣孫策攻破繇，因奔豫章，病卒。",
+          "display": true
         },
         {
-          "id": "p0191-a03-112-11",
+          "id": "ce-hhs-junguo-lulingjun",
           "work": "houhanshu",
           "source": "a03-112",
-          "citation": "《二十四史-後漢書-志第二十二‧郡國四》",
-          "quote": "」　新淦　宜春　廬陵興平元年，孫策分立廬陵郡。"
+          "paragraph": 42,
+          "citation": "《後漢書·郡國志》所載",
+          "quote": "興平元年，孫策分立廬陵郡。",
+          "display": true
         },
         {
-          "id": "p0191-a04-001-12",
+          "id": "ce-sgz-wudiji-dujiang-zhengwen",
           "work": "sanguozhi",
           "source": "a04-001",
-          "citation": "《三國志·魏書一》",
-          "quote": "是歲，孫策受袁術使渡江，數年閒遂有江東。"
-        },
-        {
-          "id": "p0191-a04-001-13",
-          "work": "sanguozhi",
-          "source": "a04-001",
-          "citation": "《三國志·魏書一》",
-          "quote": "孫策聞公與紹相持，乃謀襲許，未發，為刺客所殺。"
-        },
-        {
-          "id": "p0191-a04-006-14",
-          "work": "sanguozhi",
-          "source": "a04-006",
-          "citation": "《三國志·魏書六》",
-          "quote": "妻子依術故吏廬江太守劉勳，孫策破勳，復見收視。"
-        },
-        {
-          "id": "p0191-a04-007-15",
-          "work": "sanguozhi",
-          "source": "a04-007",
-          "citation": "《三國志·魏書七》",
-          "quote": "孫策遣軍攻登於匡琦城。"
-        },
-        {
-          "id": "p0191-a04-010-16",
-          "work": "sanguozhi",
-          "source": "a04-010",
-          "citation": "《三國志·魏書十》",
-          "quote": "建安五年，為孫策廬江太守李術所殺，時年三十八。"
-        },
-        {
-          "id": "p0191-a04-012-17",
-          "work": "sanguozhi",
-          "source": "a04-012",
-          "citation": "《三國志·魏書十二》",
-          "quote": "避難江東，孫策禮命之。"
-        },
-        {
-          "id": "p0191-a04-012-18",
-          "work": "sanguozhi",
-          "source": "a04-012",
-          "citation": "《三國志·魏書十二》",
-          "quote": "後為廬江太守，為孫策所破，自歸太祖，封列侯，遂從在散伍議中。"
-        },
-        {
-          "id": "p0191-a04-013-19",
-          "work": "sanguozhi",
-          "source": "a04-013",
-          "citation": "《三國志·卷十三‧魏書十三》",
-          "quote": "孫策略地江東，歆知策善用兵，乃幅巾奉迎。"
-        },
-        {
-          "id": "p0191-a04-013-20",
-          "work": "sanguozhi",
-          "source": "a04-013",
-          "citation": "《三國志·卷十三‧魏書十三》",
-          "quote": "胡冲吳歷曰：孫策擊豫章，先遣虞翻說歆。"
-        },
-        {
-          "id": "p0191-a04-013-21",
-          "work": "sanguozhi",
-          "source": "a04-013",
-          "citation": "《三國志·卷十三‧魏書十三》",
-          "quote": "華嶠譜叙曰：孫策略有揚州，盛兵徇豫章，一郡大恐。"
-        },
-        {
-          "id": "p0191-a04-013-22",
-          "work": "sanguozhi",
-          "source": "a04-013",
-          "citation": "《三國志·卷十三‧魏書十三》",
-          "quote": "虞溥江表傳曰：孫策在椒丘，遣虞翻說歆。"
-        },
-        {
-          "id": "p0191-a04-013-23",
-          "work": "sanguozhi",
-          "source": "a04-013",
-          "citation": "《三國志·卷十三‧魏書十三》",
-          "quote": "獻帝春秋曰：孫策率軍如閩、越討朗。"
-        },
-        {
-          "id": "p0191-a04-013-24",
-          "work": "sanguozhi",
-          "source": "a04-013",
-          "citation": "《三國志·卷十三‧魏書十三》",
-          "quote": "」　漢晉春秋曰：孫策之始得朗也，譴讓之。"
-        },
-        {
-          "id": "p0191-a04-013-25",
-          "work": "sanguozhi",
-          "source": "a04-013",
-          "citation": "《三國志·卷十三‧魏書十三》",
-          "quote": "太祖問曰：「孫策何以得至此邪？"
-        },
-        {
-          "id": "p0191-a04-014-26",
-          "work": "sanguozhi",
-          "source": "a04-014",
-          "citation": "《三國志·魏書十四》",
-          "quote": "孫策轉鬬千里，盡有江東，聞太祖與袁紹相持於官渡，將渡江北襲許。"
-        },
-        {
-          "id": "p0191-a04-014-27",
-          "work": "sanguozhi",
-          "source": "a04-014",
-          "citation": "《三國志·魏書十四》",
-          "quote": "又本傳稱嘉料孫策輕佻，必死於匹夫之手，誠為明於見事。"
-        },
-        {
-          "id": "p0191-a04-014-28",
-          "work": "sanguozhi",
-          "source": "a04-014",
-          "citation": "《三國志·魏書十四》",
-          "quote": "孫策惡之，遣使卑辭厚幣，以書說勳曰：「上繚宗民，數欺下國，忿之有年矣。"
-        },
-        {
-          "id": "p0191-a04-015-29",
-          "work": "sanguozhi",
-          "source": "a04-015",
-          "citation": "《三國志·魏書十五》",
-          "quote": "後孫策所置廬江太守李述攻殺揚州刺史嚴象，廬江梅乾、雷緒、陳蘭等聚衆數萬在江、淮間，郡縣殘破。"
-        },
-        {
-          "id": "p0191-a04-022-30",
-          "work": "sanguozhi",
-          "source": "a04-022",
-          "citation": "《三國志·魏書二十二》",
-          "quote": "避亂江東及東城，辭孫策、袁術之命，還本郡。"
-        },
-        {
-          "id": "p0191-a04-022-31",
-          "work": "sanguozhi",
-          "source": "a04-022",
-          "citation": "《三國志·魏書二十二》",
-          "quote": "避亂江東，又辭孫策之命，還本郡。"
-        },
-        {
-          "id": "p0191-a04-035-32",
-          "work": "sanguozhi",
-          "source": "a04-035",
-          "citation": "《三國志·蜀書五》",
-          "quote": "劉繇、王朗各據州郡，論安言計，動引聖人，羣疑滿腹，衆難塞胷，今歲不戰，明年不征，使孫策坐大，遂并江東，此臣之未解二也。"
-        },
-        {
-          "id": "p0191-a04-038-33",
-          "work": "sanguozhi",
-          "source": "a04-038",
-          "citation": "《三國志·蜀書八》",
-          "quote": "孫策東渡江，皆走交州以避其難，靖身坐岸邊，先載附從，踈親悉發，乃從後去，當時見者莫不歎息。"
-        },
-        {
-          "id": "p0191-a04-038-34",
-          "work": "sanguozhi",
-          "source": "a04-038",
-          "citation": "《三國志·蜀書八》",
-          "quote": "許靖羇客會稽，閭閻之士，孫策之來，於靖何為？"
-        },
-        {
-          "id": "p0191-a04-046-35",
-          "work": "sanguozhi",
-          "source": "a04-046",
-          "citation": "《三國志·吳書一》",
-          "quote": "初，吳郡太守許貢上表於漢帝曰：「孫策驍雄，與項籍相似，宜加貴寵，召還京邑。"
-        },
-        {
-          "id": "p0191-a04-046-36",
-          "work": "sanguozhi",
-          "source": "a04-046",
-          "citation": "《三國志·吳書一》",
-          "quote": "孫策雖威行江外，略有六郡，然黃祖乘其上流，陳登間其心腹，且深險彊宗未盡歸復，曹、袁虎爭，勢傾山海，策豈暇遠師汝、潁，而遷帝於吳、越哉？"
-        },
-        {
-          "id": "p0191-a04-047-37",
-          "work": "sanguozhi",
-          "source": "a04-047",
-          "citation": "《三國志·吳書二》",
-          "quote": "傅子曰：孫策為人明果獨斷，勇蓋天下，以父堅戰死，少而合其兵將以報讎，轉鬬千里，盡有江南之地，誅其名豪，威行鄰國。"
-        },
-        {
-          "id": "p0191-a04-049-38",
-          "work": "sanguozhi",
-          "source": "a04-049",
-          "citation": "《三國志·吳書四》",
-          "quote": "漢命加繇為牧，振武將軍，衆數萬人，孫策東渡，破英、能等。"
-        },
-        {
-          "id": "p0191-a04-049-39",
-          "work": "sanguozhi",
-          "source": "a04-049",
-          "citation": "《三國志·吳書四》",
-          "quote": "楊州刺史劉繇與慈同郡，慈自遼東還，未與相見，暫渡江到曲阿見繇，未去，會孫策至。"
-        },
-        {
-          "id": "p0191-a04-050-40",
-          "work": "sanguozhi",
-          "source": "a04-050",
-          "citation": "《三國志·吳書五》",
-          "quote": "孫策與孫河、呂範依景，合衆共討涇縣山賊祖郎，郎敗走。"
-        },
-        {
-          "id": "p0191-a04-050-41",
-          "work": "sanguozhi",
-          "source": "a04-050",
-          "citation": "《三國志·吳書五》",
-          "quote": "堅薨，隨孫策討樊能、于麋等於橫江，擊張英於當利口，而船少，欲駐軍更求。"
-        },
-        {
-          "id": "p0191-a04-050-42",
-          "work": "sanguozhi",
-          "source": "a04-050",
-          "citation": "《三國志·吳書五》",
-          "quote": "漢末，其母攜將徙廬江，廬江為孫策所破，皆東渡江，以美麗得幸於權，寵冠後庭。"
-        },
-        {
-          "id": "p0191-a04-051-43",
-          "work": "sanguozhi",
-          "source": "a04-051",
-          "citation": "《三國志·吳書六》",
-          "quote": "孫輔字國儀，賁弟也，以揚武校尉佐孫策平三郡。"
-        },
-        {
-          "id": "p0191-a04-051-44",
-          "work": "sanguozhi",
-          "source": "a04-051",
-          "citation": "《三國志·吳書六》",
-          "quote": "孫策愛之，賜姓為孫，列之屬籍。"
-        },
-        {
-          "id": "p0191-a04-051-45",
-          "work": "sanguozhi",
-          "source": "a04-051",
-          "citation": "《三國志·吳書六》",
-          "quote": "孫策平定吳、會，誅其英豪，憲素有高名，策深忌之。"
-        },
-        {
-          "id": "p0191-a04-052-46",
-          "work": "sanguozhi",
-          "source": "a04-052",
-          "citation": "《三國志·吳書七》",
-          "quote": "孫策創業，命昭為長史、撫軍中郎將，升堂拜母，如比肩之舊，文武之事，一以委昭。"
-        },
-        {
-          "id": "p0191-a04-052-47",
-          "work": "sanguozhi",
-          "source": "a04-052",
-          "citation": "《三國志·吳書七》",
-          "quote": "孫策蒞事日淺，恩澤未洽，一旦傾隕，士民狼狽，頗有同異。"
-        },
-        {
-          "id": "p0191-a04-052-48",
-          "work": "sanguozhi",
-          "source": "a04-052",
-          "citation": "《三國志·吳書七》",
-          "quote": "典略曰：余曩聞劉荊州甞自作書欲與孫伯符，以示禰正平，正平蚩之，言：「如是為欲使孫策帳下兒讀之邪，將使張子布見乎？"
-        },
-        {
-          "id": "p0191-a04-052-49",
-          "work": "sanguozhi",
-          "source": "a04-052",
-          "citation": "《三國志·吳書七》",
-          "quote": "值孫策卒，孫權姊壻曲阿弘咨見而異之，薦之於權，與魯肅等並見賔待，後為權長史，轉中司馬。"
-        },
-        {
-          "id": "p0191-a04-053-50",
-          "work": "sanguozhi",
-          "source": "a04-053",
-          "citation": "《三國志·吳書八》",
-          "quote": "初，紘同郡秦松字文表，陳端字子正，並與紘見待於孫策，參與謀謨。"
-        },
-        {
-          "id": "p0191-a04-053-51",
-          "work": "sanguozhi",
-          "source": "a04-053",
-          "citation": "《三國志·吳書八》",
-          "quote": "評曰：張紘文理意正，為世令器，孫策待之亞於張昭，誠有以也。"
-        },
-        {
-          "id": "p0191-a04-054-52",
-          "work": "sanguozhi",
-          "source": "a04-054",
-          "citation": "《三國志·吳書九》",
-          "quote": "臣松之案：孫策于時始得豫章、廬陵，尚未能得定江夏。"
-        },
-        {
-          "id": "p0191-a04-054-53",
-          "work": "sanguozhi",
-          "source": "a04-054",
-          "citation": "《三國志·吳書九》",
-          "quote": "時孫策已薨，權尚住吳，瑜謂肅曰：「昔馬援荅光武云『當今之世，非但君擇臣，臣亦擇君』。"
-        },
-        {
-          "id": "p0191-a04-054-54",
-          "work": "sanguozhi",
-          "source": "a04-054",
-          "citation": "《三國志·吳書九》",
-          "quote": "當為孫策將，數討山越。"
-        },
-        {
-          "id": "p0191-a04-055-55",
-          "work": "sanguozhi",
-          "source": "a04-055",
-          "citation": "《三國志·吳書十》",
-          "quote": "堅薨，復隨孫策在淮南，從攻廬江，拔之，還俱東渡。"
-        },
-        {
-          "id": "p0191-a04-055-56",
-          "work": "sanguozhi",
-          "source": "a04-055",
-          "citation": "《三國志·吳書十》",
-          "quote": "及孫策東渡，從討三郡，遷先登校尉，授兵二千，騎五十匹。"
-        },
-        {
-          "id": "p0191-a04-055-57",
-          "work": "sanguozhi",
-          "source": "a04-055",
-          "citation": "《三國志·吳書十》",
-          "quote": "孫策之襲袁術，欽隨從給事。"
-        },
-        {
-          "id": "p0191-a04-055-58",
-          "work": "sanguozhi",
-          "source": "a04-055",
-          "citation": "《三國志·吳書十》",
-          "quote": "與蔣欽隨孫策為左右，服事恭敬，數戰有功。"
-        },
-        {
-          "id": "p0191-a04-055-59",
-          "work": "sanguozhi",
-          "source": "a04-055",
-          "citation": "《三國志·吳書十》",
-          "quote": "孫策在壽春，武往脩謁，時年十八，長七尺七寸，因從渡江，征討有功，拜別部司馬。"
-        },
-        {
-          "id": "p0191-a04-055-60",
-          "work": "sanguozhi",
-          "source": "a04-055",
-          "citation": "《三國志·吳書十》",
-          "quote": "孫策入郡，襲迎於高遷亭，策見而偉之，到署門下賊曹。"
-        },
-        {
-          "id": "p0191-a04-055-61",
-          "work": "sanguozhi",
-          "source": "a04-055",
-          "citation": "《三國志·吳書十》",
-          "quote": "父操，輕俠有膽氣，孫策初興，每從征伐，常冠軍履鋒。"
-        },
-        {
-          "id": "p0191-a04-056-62",
-          "work": "sanguozhi",
-          "source": "a04-056",
-          "citation": "《三國志·吳書十一》",
-          "quote": "後避亂壽春，孫策見而異之，範遂自委昵，將私客百人歸策。"
-        },
-        {
-          "id": "p0191-a04-057-63",
-          "work": "sanguozhi",
-          "source": "a04-057",
-          "citation": "《三國志·吳書十二》",
-          "quote": "孫策征會稽，翻時遭父喪，衰絰詣府門，朗欲就之，翻乃脫衰入見，勸朗避策。"
-        },
-        {
-          "id": "p0191-a04-057-64",
-          "work": "sanguozhi",
-          "source": "a04-057",
-          "citation": "《三國志·吳書十二》",
-          "quote": "翻未至豫章，聞孫策向會稽，翻乃還。"
-        },
-        {
-          "id": "p0191-a04-057-65",
-          "work": "sanguozhi",
-          "source": "a04-057",
-          "citation": "《三國志·吳書十二》",
-          "quote": "而傳云孫策之來，翻衰絰詣府門，勸朗避策，則為大異。"
-        },
-        {
-          "id": "p0191-a04-057-66",
-          "work": "sanguozhi",
-          "source": "a04-057",
-          "citation": "《三國志·吳書十二》",
-          "quote": "江表傳曰：策書謂翻曰：「今日之事，當與卿共之，勿謂孫策作郡吏相待也。"
-        },
-        {
-          "id": "p0191-a04-057-67",
-          "work": "sanguozhi",
-          "source": "a04-057",
-          "citation": "《三國志·吳書十二》",
-          "quote": "然王公拒戰，華逆請服，實由孫策初起，名微衆寡，故王能舉兵，豈武勝哉？"
-        },
-        {
-          "id": "p0191-a04-057-68",
-          "work": "sanguozhi",
-          "source": "a04-057",
-          "citation": "《三國志·吳書十二》",
-          "quote": "」因述孫策才略殊異，用兵之奇，歆乃荅云當去。"
-        },
-        {
-          "id": "p0191-a04-057-69",
-          "work": "sanguozhi",
-          "source": "a04-057",
-          "citation": "《三國志·吳書十二》",
-          "quote": "孫策在吳，張昭、張紘、秦松為上賔，共論四海未泰，須當用武治而平之，績年少末坐，遙大聲言曰：「昔管夷吾相齊桓公，九合諸侯，一匡天下，不用兵車。"
-        },
-        {
-          "id": "p0191-a04-058-70",
-          "work": "sanguozhi",
-          "source": "a04-058",
-          "citation": "《三國志·吳書十三》",
-          "quote": "當禦備時，諸將軍或是孫策時舊將，或公室貴戚，各自矜恃，不相聽從。"
-        },
-        {
-          "id": "p0191-a04-058-71",
-          "work": "sanguozhi",
-          "source": "a04-058",
-          "citation": "《三國志·吳書十三》",
-          "quote": "抗字幼節，孫策外孫也。"
-        },
-        {
-          "id": "p0191-a04-060-72",
-          "work": "sanguozhi",
-          "source": "a04-060",
-          "citation": "《三國志·吳書十五》",
-          "quote": "建安元年，孫策臨郡，察齊孝廉。"
-        },
-        {
-          "id": "p0191-a04-060-73",
-          "work": "sanguozhi",
-          "source": "a04-060",
-          "citation": "《三國志·吳書十五》",
-          "quote": "孫策到吳，柔舉兵先附，策表柔為丹楊都尉。"
-        },
-        {
-          "id": "p0191-a04-061-74",
-          "work": "sanguozhi",
-          "source": "a04-061",
-          "citation": "《三國志·吳書十六》",
-          "quote": "玄兄良，字文鸞，隨孫策平定江東，策以為會稽東部都尉，卒，玄領良兵，拜奮武中郎將，以功封溧陽侯。"
-        },
-        {
-          "id": "p0191-a04-062-75",
-          "work": "sanguozhi",
-          "source": "a04-062",
-          "citation": "《三國志·吳書十七》",
-          "quote": "孫策領會稽太守，綜年十四，為門下循行，留吳與孫權共讀書。"
-        },
-        {
-          "id": "p0191-a05-015-76",
-          "work": "jinshu",
-          "source": "a05-015",
-          "citation": "《晉書·卷十五》",
-          "quote": "獻帝興平中，孫策分豫章立廬陵郡。"
-        },
-        {
-          "id": "p0191-a05-037-77",
-          "work": "jinshu",
-          "source": "a05-037",
-          "citation": "《晉書-卷三十七・列傳第七》",
-          "quote": "自孫策至權，奕世相繼，惟強與弱，不在一禁。"
+          "paragraph": 7,
+          "citation": "《三國志·武帝紀》所載",
+          "quote": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
+          "display": true
         }
-      ]
+      ],
+      "secondReview": {
+        "status": "pilot",
+        "coverage": {
+          "sanguozhi": "in-progress",
+          "peizhu": "in-progress",
+          "houhanshu": "in-progress",
+          "huayang": "in-progress",
+          "jinshu": "in-progress"
+        },
+        "conclusions": [],
+        "evidence": {
+          "ce-hhs-xiandi-qua": {
+            "id": "ce-hhs-xiandi-qua",
+            "work": "houhanshu",
+            "source": "a03-009",
+            "paragraph": 7,
+            "citation": "《後漢書·孝獻帝紀》所載",
+            "quote": "是歲，楊州刺史劉繇與袁術將孫策戰于曲阿，策字伯符，孫堅子。曲阿，今潤州縣。繇軍敗績，孫策遂據江東。",
+            "display": true
+          },
+          "ce-hhs-xiandi-qua-wuzhi": {
+            "id": "ce-hhs-xiandi-qua-wuzhi",
+            "work": "houhanshu",
+            "source": "a03-009",
+            "paragraph": 7,
+            "citation": "《後漢書·孝獻帝紀》引《吳志》所載",
+            "quote": "吳志曰：「孫策旣破繇，遂度兵據會稽，策自領會稽太守。」",
+            "display": true
+          },
+          "ce-hhs-xiandi-fenggong": {
+            "id": "ce-hhs-xiandi-fenggong",
+            "work": "houhanshu",
+            "source": "a03-009",
+            "paragraph": 10,
+            "citation": "《後漢書·孝獻帝紀》所載",
+            "quote": "孫策遣使奉貢。",
+            "display": true
+          },
+          "ce-hhs-xiandi-sunce-si": {
+            "id": "ce-hhs-xiandi-sunce-si",
+            "work": "houhanshu",
+            "source": "a03-009",
+            "paragraph": 13,
+            "citation": "《後漢書·孝獻帝紀》所載",
+            "quote": "是歲，孫策死，為許貢客所射傷。弟權襲其餘業。",
+            "display": true
+          },
+          "ce-hhs-lukang-sunce-gong": {
+            "id": "ce-hhs-lukang-sunce-gong",
+            "work": "houhanshu",
+            "source": "a03-031",
+            "paragraph": 54,
+            "citation": "《後漢書·陸康傳》所載",
+            "quote": "術大怒，遣其將孫策攻康，圍城數重。康固守，吏士有先受休假者，皆遁伏還赴，暮夜緣城而入。受敵二年，城陷。",
+            "display": true
+          },
+          "ce-hhs-yuanzhong-sunce-pohuiji": {
+            "id": "ce-hhs-yuanzhong-sunce-pohuiji",
+            "work": "houhanshu",
+            "source": "a03-045",
+            "paragraph": 23,
+            "citation": "《後漢書·袁忠傳》所載",
+            "quote": "後孫策破會稽，忠等浮海南投交阯。",
+            "display": true
+          },
+          "ce-hhs-xushao-pingwu-nanben": {
+            "id": "ce-hhs-xushao-pingwu-nanben",
+            "work": "houhanshu",
+            "source": "a03-068",
+            "paragraph": 29,
+            "citation": "《後漢書·許劭傳》所載",
+            "quote": "及孫策平吳，劭與繇南奔豫章而卒，時年四十六。",
+            "display": true
+          },
+          "ce-hhs-xunyu-sanfujue-lishu": {
+            "id": "ce-hhs-xunyu-sanfujue-lishu",
+            "work": "houhanshu",
+            "source": "a03-070",
+            "paragraph": 34,
+            "citation": "《後漢書·荀彧傳》引《三輔決錄》所載",
+            "quote": "後為孫策廬江太守李術所殺。",
+            "display": true
+          },
+          "ce-hhs-yuanshu-pochun-weizhi": {
+            "id": "ce-hhs-yuanshu-pochun-weizhi",
+            "work": "houhanshu",
+            "source": "a03-075",
+            "paragraph": 25,
+            "citation": "《後漢書·袁術傳》引《魏志》所載",
+            "quote": "為孫策破後，自歸太祖，封列侯。",
+            "display": true
+          },
+          "ce-hhs-yuanshu-pochun-zhengwen": {
+            "id": "ce-hhs-yuanshu-pochun-zhengwen",
+            "work": "houhanshu",
+            "source": "a03-075",
+            "paragraph": 25,
+            "citation": "《後漢書·袁術傳》所載",
+            "quote": "孫策破勳，復見收視，術女入孫權宮，子曜仕吳為郎中。",
+            "display": true
+          },
+          "ce-hhs-liuyao-poyao-zhengwen": {
+            "id": "ce-hhs-liuyao-poyao-zhengwen",
+            "work": "houhanshu",
+            "source": "a03-076",
+            "paragraph": 58,
+            "citation": "《後漢書·劉繇傳》所載",
+            "quote": "袁術遣孫策攻破繇，因奔豫章，病卒。",
+            "display": true
+          },
+          "ce-hhs-junguo-lulingjun": {
+            "id": "ce-hhs-junguo-lulingjun",
+            "work": "houhanshu",
+            "source": "a03-112",
+            "paragraph": 42,
+            "citation": "《後漢書·郡國志》所載",
+            "quote": "興平元年，孫策分立廬陵郡。",
+            "display": true
+          },
+          "ce-sgz-wudiji-dujiang-zhengwen": {
+            "id": "ce-sgz-wudiji-dujiang-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-001",
+            "paragraph": 7,
+            "citation": "《三國志·武帝紀》所載",
+            "quote": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
+            "display": true
+          }
+        },
+        "unresolved": []
+      }
     },
     "p0192": {
       "first": {
