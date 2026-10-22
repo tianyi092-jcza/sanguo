@@ -17589,6 +17589,46 @@
           "citation": "《後漢書·袁忠傳》所載",
           "context": "忠弃官客會稽上虞",
           "note": "袁忠（字正甫）避亂客居會稽上虞；孫策破會稽後，忠等浮海南投交阯。為孫策平定會稽之旁證。"
+        },
+        {
+          "id": "ce-hhs-xushao-pingwu-nanben",
+          "work": "houhanshu",
+          "source": "a03-068",
+          "paragraph": 29,
+          "from": "及孫策平吳，劭與繇南奔豫章而卒，",
+          "through": "時年四十六。",
+          "citation": "《後漢書·許劭傳》所載",
+          "note": "許劭（字子將）避亂依揚州刺史劉繇於曲阿；「孫策平吳」後，劭隨繇南奔豫章，卒年四十六。為孫策平定吳地（曲阿破劉繇後）之旁證；本段主體為許劭行止，僅作平吳旁證。"
+        },
+        {
+          "id": "ce-hhs-xunyu-sanfujue-lishu",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 34,
+          "from": "後為孫策廬江太守李術所殺。",
+          "through": "後為孫策廬江太守李術所殺。",
+          "citation": "《後漢書·荀彧傳》引《三輔決錄》所載",
+          "note": "注文層（三輔決錄）：嚴象為揚州刺史，後為孫策所置廬江太守李術所殺。為孫策據江東後置吏治郡之證；李術係孫策所任命之廬江太守，非孫權、孫翊等人。"
+        },
+        {
+          "id": "ce-hhs-yuanshu-pochun-weizhi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 25,
+          "from": "為孫策破後，自歸太祖，封列侯。",
+          "through": "為孫策破後，自歸太祖，封列侯。",
+          "citation": "《後漢書·袁術傳》引《魏志》所載",
+          "note": "注文層（魏志）：廬江太守劉勳為孫策所破後自歸曹操，封列侯。為孫策破劉勳之旁證；本條主體為劉勳行止。"
+        },
+        {
+          "id": "ce-hhs-yuanshu-pochun-zhengwen",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 25,
+          "from": "孫策破勳，復見收視，",
+          "through": "子曜仕吳為郎中。",
+          "citation": "《後漢書·袁術傳》所載",
+          "note": "正文：袁術死後妻子依故吏劉勳；孫策破劉勳，術女入孫權宮、子袁曜仕吳為郎中。為孫策破劉勳、收袁術家屬之史證。"
         }
       ],
       "exclusions": [],
