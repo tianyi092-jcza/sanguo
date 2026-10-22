@@ -17522,10 +17522,18 @@
     {
       "id": "p0191",
       "name": "孫策",
-      "status": "unreviewed",
+      "status": "pilot",
       "excerpts": [],
       "exclusions": [],
-      "unresolved": []
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
