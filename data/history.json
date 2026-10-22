@@ -70339,6 +70339,33 @@
           "citation": "《三國志·袁術傳》所載",
           "quote": "妻子依術故吏廬江太守劉勳，孫策破勳，復見收視。",
           "display": true
+        },
+        {
+          "id": "ce-sgz-simazhi-liuxun-peizhu",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 32,
+          "citation": "《三國志·卷十二 ‧ 魏書十二　崔毛徐何邢鮑司馬傳第十二 司馬芝傳》裴注引魏略",
+          "quote": "後為廬江太守，為孫策所破，自歸太祖，封列侯，遂從在散伍議中。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-huaxin-yingfeng-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 9,
+          "citation": "《三國志·卷十三 ‧ 魏書十三　鍾繇華歆王朗傳第十三 華歆傳》",
+          "quote": "孫策略地江東，歆知策善用兵，乃幅巾奉迎。策以其長者，待以上賔之禮。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-wanglang-pohuaiji-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 16,
+          "citation": "《三國志·卷十三 ‧ 魏書十三　鍾繇華歆王朗傳第十三 王朗傳》",
+          "quote": "孫策渡江略地。朗功曹虞翻以為力不能拒，不如避之。朗自以身為漢吏，宜保城邑，遂舉兵與策戰，敗績，浮海至東冶。策又追擊，大破之。朗乃詣策。策以朗儒雅，詰讓而不害。",
+          "display": true
         }
       ],
       "secondReview": {
@@ -70485,6 +70512,33 @@
             "paragraph": 30,
             "citation": "《三國志·袁術傳》所載",
             "quote": "妻子依術故吏廬江太守劉勳，孫策破勳，復見收視。",
+            "display": true
+          },
+          "ce-sgz-simazhi-liuxun-peizhu": {
+            "id": "ce-sgz-simazhi-liuxun-peizhu",
+            "work": "sanguozhi",
+            "source": "a04-012",
+            "paragraph": 32,
+            "citation": "《三國志·卷十二 ‧ 魏書十二　崔毛徐何邢鮑司馬傳第十二 司馬芝傳》裴注引魏略",
+            "quote": "後為廬江太守，為孫策所破，自歸太祖，封列侯，遂從在散伍議中。",
+            "display": true
+          },
+          "ce-sgz-huaxin-yingfeng-zhengwen": {
+            "id": "ce-sgz-huaxin-yingfeng-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-013",
+            "paragraph": 9,
+            "citation": "《三國志·卷十三 ‧ 魏書十三　鍾繇華歆王朗傳第十三 華歆傳》",
+            "quote": "孫策略地江東，歆知策善用兵，乃幅巾奉迎。策以其長者，待以上賔之禮。",
+            "display": true
+          },
+          "ce-sgz-wanglang-pohuaiji-zhengwen": {
+            "id": "ce-sgz-wanglang-pohuaiji-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-013",
+            "paragraph": 16,
+            "citation": "《三國志·卷十三 ‧ 魏書十三　鍾繇華歆王朗傳第十三 王朗傳》",
+            "quote": "孫策渡江略地。朗功曹虞翻以為力不能拒，不如避之。朗自以身為漢吏，宜保城邑，遂舉兵與策戰，敗績，浮海至東冶。策又追擊，大破之。朗乃詣策。策以朗儒雅，詰讓而不害。",
             "display": true
           }
         },
