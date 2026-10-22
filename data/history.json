@@ -16779,90 +16779,290 @@
       "hanOffices": [],
       "sourceExcerpts": [
         {
-          "id": "p0002-a04-032-0",
+          "id": "cp-sg-xianzhu-quanjin",
           "work": "sanguozhi",
           "source": "a04-032",
-          "citation": "《三國志·蜀書二》",
-          "quote": "太傅許靖、安漢將軍糜笁、軍師將軍諸葛亮、太常賴恭、光祿勳黃柱、少府王謀等上言：「曹丕篡弒，湮滅漢室，竊據神器，劫迫忠良，酷烈無道。"
+          "paragraph": 21,
+          "citation": "《三國志·卷三十二 ‧ 蜀書二　先主傳第二》",
+          "quote": "曹丕篡弒，湮滅漢室，竊據神器，劫迫忠良，酷烈無道。",
+          "display": true
         },
         {
-          "id": "p0002-a04-035-1",
+          "id": "cp-sg-liang-tuogu",
           "work": "sanguozhi",
           "source": "a04-035",
-          "citation": "《三國志·蜀書五》",
-          "quote": "章武三年春，先主於永安病篤，召亮於成都，屬以後事，謂亮曰：「君才十倍曹丕，必能安國，終定大事。"
+          "paragraph": 5,
+          "citation": "《三國志·卷三十五 ‧ 蜀書五　諸葛亮傳第五》",
+          "quote": "君才十倍曹丕，必能安國，終定大事。",
+          "display": true
         },
         {
-          "id": "p0002-a04-035-2",
-          "work": "sanguozhi",
-          "source": "a04-035",
-          "citation": "《三國志·蜀書五》",
-          "quote": "然後吳更違盟，關羽毀敗，秭歸蹉跌，曹丕稱帝。"
-        },
-        {
-          "id": "p0002-a04-042-3",
+          "id": "cp-sg-duwei-shu",
           "work": "sanguozhi",
           "source": "a04-042",
-          "citation": "《三國志·蜀書十二》",
-          "quote": "」微自乞老病求歸，亮又與書荅曰：「曹丕篡弒，自立為帝，是猶土龍芻狗之有名也。"
+          "paragraph": 1,
+          "citation": "《三國志·卷四十二 ‧ 蜀書十二　杜周杜許孟來尹李譙郤傳第十二》",
+          "quote": "曹丕篡弒，自立為帝，是猶土龍芻狗之有名也。",
+          "display": true
         },
         {
-          "id": "p0002-a04-047-4",
+          "id": "cp-sg-wuzhu-guangling",
           "work": "sanguozhi",
           "source": "a04-047",
-          "citation": "《三國志·吳書二》",
-          "quote": "權令趙達筭之，曰：「曹丕走矣，雖然，吳衰庚子歲。"
+          "paragraph": 22,
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二》",
+          "quote": "慮曹丕乘空弄態，而反求和。",
+          "display": true
         },
         {
-          "id": "p0002-a04-047-5",
-          "work": "sanguozhi",
-          "source": "a04-047",
-          "citation": "《三國志·吳書二》",
-          "quote": "權謂芝曰：「山民作亂，江邊守兵多徹，慮曹丕乘空弄態，而反求和。"
-        },
-        {
-          "id": "p0002-a04-047-6",
-          "work": "sanguozhi",
-          "source": "a04-047",
-          "citation": "《三國志·吳書二》",
-          "quote": "孽臣曹丕遂奪神器，丕子叡繼世作慝，淫名亂制。"
-        },
-        {
-          "id": "p0002-a04-052-7",
-          "work": "sanguozhi",
-          "source": "a04-052",
-          "citation": "《三國志·吳書七》",
-          "quote": "又別咨瑾曰：「近得伯言表，以為曹丕已死，毒亂之民，當望旌瓦解，而更靜然。"
-        },
-        {
-          "id": "p0002-a04-053-8",
-          "work": "sanguozhi",
-          "source": "a04-053",
-          "citation": "《三國志·吳書八》",
-          "quote": "」初，魏文帝即位，權嘗從容問羣臣曰：「曹丕以盛年即位，恐孤不能及之，諸卿以為何如？"
-        },
-        {
-          "id": "p0002-a04-056-9",
+          "id": "cp-sg-zhuhuan-ruxu",
           "work": "sanguozhi",
           "source": "a04-056",
-          "citation": "《三國志·吳書十一》",
-          "quote": "雖曹丕自來，尚不足憂，況仁等邪！"
+          "paragraph": 32,
+          "citation": "《三國志·卷五十六 ‧ 吳書十一　朱治朱然呂範朱桓傳第十一》",
+          "quote": "雖曹丕自來，尚不足憂，況仁等邪！",
+          "display": true
         },
         {
-          "id": "p0002-a04-057-10",
+          "id": "cp-hhs-juan70-lun",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 27,
+          "citation": "《後漢書·卷七十 ‧ 列傳第六十》",
+          "quote": "代終謂代漢祚之終也。身後謂曹丕受禪也。",
+          "display": true
+        },
+        {
+          "id": "cp-hhs-juan79-lun",
+          "work": "houhanshu",
+          "source": "a03-079b-ahcb",
+          "paragraph": 66,
+          "citation": "《後漢書·卷七十九下 ‧ 儒林列傳第六十九下》",
+          "quote": "代德終其祚謂曹丕即位，廢獻帝爲山陽公，自廢至薨十四年，以壽終。",
+          "display": true
+        },
+        {
+          "id": "cp-sg-liang-houchu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 11,
+          "citation": "《三國志·卷三十五 ‧ 蜀書五　諸葛亮傳第五》",
+          "quote": "然後吳更違盟，關羽毀敗，秭歸蹉跌，曹丕稱帝。",
+          "display": true
+        },
+        {
+          "id": "cp-sg-wuzhu-gaotian",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 27,
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二》",
+          "quote": "孽臣曹丕遂奪神器，丕子叡繼世作慝，淫名亂制。",
+          "display": true
+        },
+        {
+          "id": "cp-sg-zhugejin-sunquanping",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 26,
+          "citation": "《三國志·卷五十二 ‧ 吳書七　張顧諸葛步傳第七 諸葛瑾傳》",
+          "quote": "近得伯言表，以為曹丕已死，毒亂之民，當望旌瓦解，而更靜然。聞皆選用忠良，寬刑罰，布恩惠，薄賦省役，以恱民心，其患更深於操時。孤以為不然。操之所行，其惟殺伐小為過差，及離閒人骨肉，以為酷耳。至於將御，自古少有。比之於操，萬不及也。今叡之不如丕，猶丕不如操也。其所以務崇小惠，必以其父新死，自度衰微，恐困苦之民一朝崩沮，故彊屈曲以求民心，欲以自安住耳，寧是興隆之漸邪！聞任陳長文、曹子丹輩，或文人諸生，或宗室戚臣，寧能御雄才虎將以制天下乎？夫威柄不專，則其事乖錯，如昔張耳、陳餘，非不敦睦，至於秉勢，自還相賊，乃事理使然也。又長文之徒，昔所以能守善者，以操笮其頭，畏操威嚴，故竭心盡意，不敢為非耳。逮丕繼業，年已長大，承操之後，以恩情加之，用能感義。今叡幼弱，隨人東西，此曹等輩，必當因此弄巧行態，阿黨比周，各助所附。如此之日，姧讒並起，更相陷懟，轉成嫌貳。一爾已往，羣下爭利，主幼不御，其為敗也焉得乆乎？所以知其然者，自古至今，安有四五人把持刑柄，而不離刺轉相蹄齧者也！彊當陵弱，弱當求援，此亂亡之道也。子瑜，卿但側耳聽之，伯言常長於計校，恐此一事小短也。",
+          "display": true
+        },
+        {
+          "id": "cp-sg-kanze-bushi",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 14,
+          "citation": "《三國志·卷五十三 ‧ 吳書八　張嚴程闞薛傳第八 闞澤傳》",
+          "quote": "初，魏文帝即位，權嘗從容問羣臣曰：「曹丕以盛年即位，恐孤不能及之，諸卿以為何如？」羣臣未對，澤曰：「不及十年，丕其沒矣，大王勿憂也。」權曰：「何以知之？」澤曰：「以字言之，不十為丕，此其數也。」文帝果七年而崩。",
+          "display": true
+        },
+        {
+          "id": "cp-sg-zhangwen-huaisi",
           "work": "sanguozhi",
           "source": "a04-057",
-          "citation": "《三國志·吳書十二》",
-          "quote": "後聞曹丕自出淮、泗，故豫勑溫有急便出，而溫悉內諸將，布於深山，被命不至。"
+          "paragraph": 19,
+          "citation": "《三國志·卷五十七 ‧ 吳書十二　虞陸張駱陸吾朱傳第十二 張溫傳》",
+          "quote": "後聞曹丕自出淮、泗，故豫勑溫有急便出，而溫悉內諸將，布於深山，被命不至。賴丕自退，不然，已往豈可深計。",
+          "display": true
         },
         {
-          "id": "p0002-a04-058-11",
+          "id": "cp-sg-luxun-sanfang",
           "work": "sanguozhi",
           "source": "a04-058",
-          "citation": "《三國志·吳書十三》",
-          "quote": "權以問遜，遜與朱然、駱統以為曹丕大合士衆，外託助國討備，內實有姦心，謹決計輒還。"
+          "paragraph": 11,
+          "citation": "《三國志·卷五十八 ‧ 吳書十三　陸遜傳第十三》",
+          "quote": "遜與朱然、駱統以為曹丕大合士衆，外託助國討備，內實有姦心，謹決計輒還。無幾，魏軍果出，三方受敵也。",
+          "display": true
+        },
+        {
+          "id": "cp-sg-wendi-identity",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 0,
+          "citation": "《三國志·卷二 ‧ 魏書二　文帝紀第二》",
+          "quote": "文皇帝諱丕，字子桓，武帝太子也。中平四年冬，生于譙。",
+          "display": true
+        },
+        {
+          "id": "cp-sg-wendi-chanwei",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 12,
+          "citation": "《三國志·卷二 ‧ 魏書二　文帝紀第二》",
+          "quote": "告祠高廟。使兼御史大夫張音持節奉璽綬禪位，",
+          "display": true
         }
-      ]
+      ],
+      "secondReview": {
+        "status": "pilot",
+        "coverage": {
+          "sanguozhi": "in-progress",
+          "peizhu": "in-progress",
+          "houhanshu": "in-progress",
+          "huayang": "in-progress",
+          "jinshu": "in-progress"
+        },
+        "conclusions": [],
+        "evidence": {
+          "cp-sg-xianzhu-quanjin": {
+            "id": "cp-sg-xianzhu-quanjin",
+            "work": "sanguozhi",
+            "source": "a04-032",
+            "paragraph": 21,
+            "citation": "《三國志·卷三十二 ‧ 蜀書二　先主傳第二》",
+            "quote": "曹丕篡弒，湮滅漢室，竊據神器，劫迫忠良，酷烈無道。",
+            "display": true
+          },
+          "cp-sg-liang-tuogu": {
+            "id": "cp-sg-liang-tuogu",
+            "work": "sanguozhi",
+            "source": "a04-035",
+            "paragraph": 5,
+            "citation": "《三國志·卷三十五 ‧ 蜀書五　諸葛亮傳第五》",
+            "quote": "君才十倍曹丕，必能安國，終定大事。",
+            "display": true
+          },
+          "cp-sg-duwei-shu": {
+            "id": "cp-sg-duwei-shu",
+            "work": "sanguozhi",
+            "source": "a04-042",
+            "paragraph": 1,
+            "citation": "《三國志·卷四十二 ‧ 蜀書十二　杜周杜許孟來尹李譙郤傳第十二》",
+            "quote": "曹丕篡弒，自立為帝，是猶土龍芻狗之有名也。",
+            "display": true
+          },
+          "cp-sg-wuzhu-guangling": {
+            "id": "cp-sg-wuzhu-guangling",
+            "work": "sanguozhi",
+            "source": "a04-047",
+            "paragraph": 22,
+            "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二》",
+            "quote": "慮曹丕乘空弄態，而反求和。",
+            "display": true
+          },
+          "cp-sg-zhuhuan-ruxu": {
+            "id": "cp-sg-zhuhuan-ruxu",
+            "work": "sanguozhi",
+            "source": "a04-056",
+            "paragraph": 32,
+            "citation": "《三國志·卷五十六 ‧ 吳書十一　朱治朱然呂範朱桓傳第十一》",
+            "quote": "雖曹丕自來，尚不足憂，況仁等邪！",
+            "display": true
+          },
+          "cp-hhs-juan70-lun": {
+            "id": "cp-hhs-juan70-lun",
+            "work": "houhanshu",
+            "source": "a03-070",
+            "paragraph": 27,
+            "citation": "《後漢書·卷七十 ‧ 列傳第六十》",
+            "quote": "代終謂代漢祚之終也。身後謂曹丕受禪也。",
+            "display": true
+          },
+          "cp-hhs-juan79-lun": {
+            "id": "cp-hhs-juan79-lun",
+            "work": "houhanshu",
+            "source": "a03-079b-ahcb",
+            "paragraph": 66,
+            "citation": "《後漢書·卷七十九下 ‧ 儒林列傳第六十九下》",
+            "quote": "代德終其祚謂曹丕即位，廢獻帝爲山陽公，自廢至薨十四年，以壽終。",
+            "display": true
+          },
+          "cp-sg-liang-houchu": {
+            "id": "cp-sg-liang-houchu",
+            "work": "sanguozhi",
+            "source": "a04-035",
+            "paragraph": 11,
+            "citation": "《三國志·卷三十五 ‧ 蜀書五　諸葛亮傳第五》",
+            "quote": "然後吳更違盟，關羽毀敗，秭歸蹉跌，曹丕稱帝。",
+            "display": true
+          },
+          "cp-sg-wuzhu-gaotian": {
+            "id": "cp-sg-wuzhu-gaotian",
+            "work": "sanguozhi",
+            "source": "a04-047",
+            "paragraph": 27,
+            "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二》",
+            "quote": "孽臣曹丕遂奪神器，丕子叡繼世作慝，淫名亂制。",
+            "display": true
+          },
+          "cp-sg-zhugejin-sunquanping": {
+            "id": "cp-sg-zhugejin-sunquanping",
+            "work": "sanguozhi",
+            "source": "a04-052",
+            "paragraph": 26,
+            "citation": "《三國志·卷五十二 ‧ 吳書七　張顧諸葛步傳第七 諸葛瑾傳》",
+            "quote": "近得伯言表，以為曹丕已死，毒亂之民，當望旌瓦解，而更靜然。聞皆選用忠良，寬刑罰，布恩惠，薄賦省役，以恱民心，其患更深於操時。孤以為不然。操之所行，其惟殺伐小為過差，及離閒人骨肉，以為酷耳。至於將御，自古少有。比之於操，萬不及也。今叡之不如丕，猶丕不如操也。其所以務崇小惠，必以其父新死，自度衰微，恐困苦之民一朝崩沮，故彊屈曲以求民心，欲以自安住耳，寧是興隆之漸邪！聞任陳長文、曹子丹輩，或文人諸生，或宗室戚臣，寧能御雄才虎將以制天下乎？夫威柄不專，則其事乖錯，如昔張耳、陳餘，非不敦睦，至於秉勢，自還相賊，乃事理使然也。又長文之徒，昔所以能守善者，以操笮其頭，畏操威嚴，故竭心盡意，不敢為非耳。逮丕繼業，年已長大，承操之後，以恩情加之，用能感義。今叡幼弱，隨人東西，此曹等輩，必當因此弄巧行態，阿黨比周，各助所附。如此之日，姧讒並起，更相陷懟，轉成嫌貳。一爾已往，羣下爭利，主幼不御，其為敗也焉得乆乎？所以知其然者，自古至今，安有四五人把持刑柄，而不離刺轉相蹄齧者也！彊當陵弱，弱當求援，此亂亡之道也。子瑜，卿但側耳聽之，伯言常長於計校，恐此一事小短也。",
+            "display": true
+          },
+          "cp-sg-kanze-bushi": {
+            "id": "cp-sg-kanze-bushi",
+            "work": "sanguozhi",
+            "source": "a04-053",
+            "paragraph": 14,
+            "citation": "《三國志·卷五十三 ‧ 吳書八　張嚴程闞薛傳第八 闞澤傳》",
+            "quote": "初，魏文帝即位，權嘗從容問羣臣曰：「曹丕以盛年即位，恐孤不能及之，諸卿以為何如？」羣臣未對，澤曰：「不及十年，丕其沒矣，大王勿憂也。」權曰：「何以知之？」澤曰：「以字言之，不十為丕，此其數也。」文帝果七年而崩。",
+            "display": true
+          },
+          "cp-sg-zhangwen-huaisi": {
+            "id": "cp-sg-zhangwen-huaisi",
+            "work": "sanguozhi",
+            "source": "a04-057",
+            "paragraph": 19,
+            "citation": "《三國志·卷五十七 ‧ 吳書十二　虞陸張駱陸吾朱傳第十二 張溫傳》",
+            "quote": "後聞曹丕自出淮、泗，故豫勑溫有急便出，而溫悉內諸將，布於深山，被命不至。賴丕自退，不然，已往豈可深計。",
+            "display": true
+          },
+          "cp-sg-luxun-sanfang": {
+            "id": "cp-sg-luxun-sanfang",
+            "work": "sanguozhi",
+            "source": "a04-058",
+            "paragraph": 11,
+            "citation": "《三國志·卷五十八 ‧ 吳書十三　陸遜傳第十三》",
+            "quote": "遜與朱然、駱統以為曹丕大合士衆，外託助國討備，內實有姦心，謹決計輒還。無幾，魏軍果出，三方受敵也。",
+            "display": true
+          },
+          "cp-sg-wendi-identity": {
+            "id": "cp-sg-wendi-identity",
+            "work": "sanguozhi",
+            "source": "a04-002",
+            "paragraph": 0,
+            "citation": "《三國志·卷二 ‧ 魏書二　文帝紀第二》",
+            "quote": "文皇帝諱丕，字子桓，武帝太子也。中平四年冬，生于譙。",
+            "display": true
+          },
+          "cp-sg-wendi-chanwei": {
+            "id": "cp-sg-wendi-chanwei",
+            "work": "sanguozhi",
+            "source": "a04-002",
+            "paragraph": 12,
+            "citation": "《三國志·卷二 ‧ 魏書二　文帝紀第二》",
+            "quote": "告祠高廟。使兼御史大夫張音持節奉璽綬禪位，",
+            "display": true
+          }
+        },
+        "unresolved": []
+      }
     },
     "p0003": {
       "first": null,
@@ -70744,18 +70944,33 @@
           "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 太史慈傳》",
           "quote": "嘗從策討麻保賊，賊於屯裏緣樓上行詈，以手持樓棼，慈引弓射之，矢貫手着棼，圍外萬人莫不稱善。",
           "display": true
+        },
+        {
+          "id": "ce-sgz-taishici-shouci-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 10,
+          "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 太史慈傳》",
+          "quote": "是時，策已平定宣城以東，惟涇以西六縣未服。慈因進住涇縣，立屯府，大為山越所附。策躬自攻討，遂見囚執。策即解縛，捉其手曰：「寧識神亭時邪？若卿爾時得我云何？」慈曰：「未可量也。」策大笑曰：「今日之事，當與卿共之。」",
+          "display": true
         }
       ],
       "secondReview": {
-        "status": "pilot",
+        "status": "complete",
         "coverage": {
-          "sanguozhi": "in-progress",
-          "peizhu": "in-progress",
-          "houhanshu": "in-progress",
-          "huayang": "in-progress",
-          "jinshu": "in-progress"
+          "sanguozhi": "checked",
+          "peizhu": "checked",
+          "houhanshu": "checked",
+          "huayang": "checked",
+          "jinshu": "checked"
         },
-        "conclusions": [],
+        "conclusions": [
+          "本輪共覆核 219 段候選，錄正摘錄 61 條（《三國志》48、《後漢書》13，裴注另層分離），排除 161 條（向量誤擊為主，如地理志縣名表、傳目小題、同名誤擊），未解決 0 條。",
+          "辨人：與父孫堅、弟孫權等嚴格區分；單字命中均核實確指孫策本人後方錄入。",
+          "勢力繫年：興平二年渡江前依附袁術（如遣策攻廬江陸康），渡江後自立平定江東，兩階段分開標記，未整段一刀切。",
+          "生卒：生 175 年；卒建安五年（200 年）為許貢客所射傷而死，與本傳（《三國志·孫破虜討逆傳》）互證確定。",
+          "本傳全文由 D1 本傳庫承載（卷46 孫破虜討逆傳，與父孫堅同卷），本輪未重複摘錄，與孫堅（p0190）處理一致。"
+        ],
         "evidence": {
           "ce-hhs-xiandi-qua": {
             "id": "ce-hhs-xiandi-qua",
@@ -71295,6 +71510,15 @@
             "paragraph": 12,
             "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 太史慈傳》",
             "quote": "嘗從策討麻保賊，賊於屯裏緣樓上行詈，以手持樓棼，慈引弓射之，矢貫手着棼，圍外萬人莫不稱善。",
+            "display": true
+          },
+          "ce-sgz-taishici-shouci-zhengwen": {
+            "id": "ce-sgz-taishici-shouci-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-049",
+            "paragraph": 10,
+            "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 太史慈傳》",
+            "quote": "是時，策已平定宣城以東，惟涇以西六縣未服。慈因進住涇縣，立屯府，大為山越所附。策躬自攻討，遂見囚執。策即解縛，捉其手曰：「寧識神亭時邪？若卿爾時得我云何？」慈曰：「未可量也。」策大笑曰：「今日之事，當與卿共之。」",
             "display": true
           }
         },
