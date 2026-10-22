@@ -17523,7 +17523,41 @@
       "id": "p0191",
       "name": "孫策",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ce-hhs-xiandi-qua",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 7,
+          "from": "是歲，楊州刺史劉繇與袁術將孫策戰于曲阿",
+          "through": "孫策遂據江東。",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "興平元年",
+          "note": "孫策時為袁術部將；曲阿破劉繇後據江東。段落內附策字伯符、孫堅子之身份，今潤州縣注為曲阿。"
+        },
+        {
+          "id": "ce-hhs-xiandi-qua-wuzhi",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 7,
+          "from": "吳志曰：「孫策旣破繇",
+          "through": "策自領會稽太守。」",
+          "citation": "《後漢書·孝獻帝紀》引《吳志》所載",
+          "context": "興平元年",
+          "note": "注文層（韋曜《吳書》）；策渡兵據會稽、自領會稽太守，不與正文合併為同一層。"
+        },
+        {
+          "id": "ce-hhs-xiandi-fenggong",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 10,
+          "from": "孫策遣使奉貢。",
+          "through": "孫策遣使奉貢。",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "二年春",
+          "note": "繫年為建安二年（袁術自稱天子之年）；孫策遣使向朝廷奉貢。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
