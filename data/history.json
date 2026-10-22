@@ -70393,6 +70393,87 @@
           "citation": "《三國志·卷三十八 ‧ 蜀書八　許麋孫簡伊秦傳第八 許靖傳》",
           "quote": "許靖羇客會稽，閭閻之士，孫策之來，於靖何為？",
           "display": true
+        },
+        {
+          "id": "ce-sgz-liuyao-dujiang-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 2,
+          "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 劉繇傳》",
+          "quote": "衆數萬人，孫策東渡，破英、能等。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-taishici-shenting-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 9,
+          "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 太史慈傳》",
+          "quote": "暫渡江到曲阿見繇，未去，會孫策至。或勸繇可以慈為大將軍，繇曰：「我若用子義，許子將不當笑我邪？」但使慈偵視輕重。時獨與一騎卒遇策。策從騎十三，皆韓當、宋謙、黃蓋輩也。慈便前鬬，正與策對。策刺慈馬，而擥得慈項上手戟，慈亦得策兜鍪。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-wujing-yueshu-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 2,
+          "citation": "《三國志·卷五十 ‧ 吳書五　妃嬪傳第五 孫破虜吳夫人傳》",
+          "quote": "術後僭號，策以書喻術，術不納，便絕江津，不與通，使人告景。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-wufeipin-xukun-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 8,
+          "citation": "《三國志·卷五十 ‧ 吳書五　妃嬪傳第五 吳主權徐夫人傳》",
+          "quote": "堅薨，隨孫策討樊能、于麋等於橫江，擊張英於當利口，而船少，欲駐軍更求。琨母時在軍中，謂琨曰：「恐州家多發水軍來逆人，則不利矣，如何可駐邪？宜伐蘆葦以為泭，佐船渡軍。」泭音敷。郭璞注方言曰：「泭，水中𥱼也。」琨具啟策，策即行之，衆悉俱濟，遂破英，擊走笮融、劉繇，事業克定。策表琨領丹楊太守，會吳景委廣陵來東，復為丹楊守，",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-wufeipin-bufuren-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 11,
+          "citation": "《三國志·卷五十 ‧ 吳書五　妃嬪傳第五 吳主權步夫人傳》",
+          "quote": "漢末，其母攜將徙廬江，廬江為孫策所破，皆東渡江，以美麗得幸於權，寵冠後庭。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-zongshi-sunfu-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 12,
+          "citation": "《三國志·卷五十一 ‧ 吳書六　宗室傳第六 孫輔傳》",
+          "quote": "孫輔字國儀，賁弟也，以揚武校尉佐孫策平三郡。策討丹楊七縣，使輔西屯歷陽以拒袁術，并招誘餘民，鳩合遺散。又從策討陵陽，生得祖郎等。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-zongshi-sunshao-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 19,
+          "citation": "《三國志·卷五十一 ‧ 吳書六　宗室傳第六 孫韶傳》",
+          "quote": "孫策愛之，賜姓為孫，列之屬籍。吳書曰：河，堅族子也，出後姑俞氏，後復姓為孫。河質性忠直，訥言敏行，有氣幹，能服勤。少從堅征討，常為前驅，後領左右兵，典知內事，待以腹心之任。又從策平定吳、會，從權討李術，術破，拜威寇中郎將，領廬江太守。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-zongshi-sunshao-peizhu",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 20,
+          "citation": "《三國志·卷五十一 ‧ 吳書六　宗室傳第六 孫韶傳》裴注",
+          "quote": "孫策平定吳、會，誅其英豪，憲素有高名，策深忌之。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-zhangzhao-zhongtuo-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 2,
+          "citation": "《三國志·卷五十二 ‧ 吳書七　張顧諸葛步傳第七 張昭傳》",
+          "quote": "策臨亡，以弟權託昭，昭率羣僚立而輔之。",
+          "display": true
         }
       ],
       "secondReview": {
@@ -70593,6 +70674,87 @@
             "paragraph": 3,
             "citation": "《三國志·卷三十八 ‧ 蜀書八　許麋孫簡伊秦傳第八 許靖傳》",
             "quote": "許靖羇客會稽，閭閻之士，孫策之來，於靖何為？",
+            "display": true
+          },
+          "ce-sgz-liuyao-dujiang-zhengwen": {
+            "id": "ce-sgz-liuyao-dujiang-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-049",
+            "paragraph": 2,
+            "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 劉繇傳》",
+            "quote": "衆數萬人，孫策東渡，破英、能等。",
+            "display": true
+          },
+          "ce-sgz-taishici-shenting-zhengwen": {
+            "id": "ce-sgz-taishici-shenting-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-049",
+            "paragraph": 9,
+            "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 太史慈傳》",
+            "quote": "暫渡江到曲阿見繇，未去，會孫策至。或勸繇可以慈為大將軍，繇曰：「我若用子義，許子將不當笑我邪？」但使慈偵視輕重。時獨與一騎卒遇策。策從騎十三，皆韓當、宋謙、黃蓋輩也。慈便前鬬，正與策對。策刺慈馬，而擥得慈項上手戟，慈亦得策兜鍪。",
+            "display": true
+          },
+          "ce-sgz-wujing-yueshu-zhengwen": {
+            "id": "ce-sgz-wujing-yueshu-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-050",
+            "paragraph": 2,
+            "citation": "《三國志·卷五十 ‧ 吳書五　妃嬪傳第五 孫破虜吳夫人傳》",
+            "quote": "術後僭號，策以書喻術，術不納，便絕江津，不與通，使人告景。",
+            "display": true
+          },
+          "ce-sgz-wufeipin-xukun-zhengwen": {
+            "id": "ce-sgz-wufeipin-xukun-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-050",
+            "paragraph": 8,
+            "citation": "《三國志·卷五十 ‧ 吳書五　妃嬪傳第五 吳主權徐夫人傳》",
+            "quote": "堅薨，隨孫策討樊能、于麋等於橫江，擊張英於當利口，而船少，欲駐軍更求。琨母時在軍中，謂琨曰：「恐州家多發水軍來逆人，則不利矣，如何可駐邪？宜伐蘆葦以為泭，佐船渡軍。」泭音敷。郭璞注方言曰：「泭，水中𥱼也。」琨具啟策，策即行之，衆悉俱濟，遂破英，擊走笮融、劉繇，事業克定。策表琨領丹楊太守，會吳景委廣陵來東，復為丹楊守，",
+            "display": true
+          },
+          "ce-sgz-wufeipin-bufuren-zhengwen": {
+            "id": "ce-sgz-wufeipin-bufuren-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-050",
+            "paragraph": 11,
+            "citation": "《三國志·卷五十 ‧ 吳書五　妃嬪傳第五 吳主權步夫人傳》",
+            "quote": "漢末，其母攜將徙廬江，廬江為孫策所破，皆東渡江，以美麗得幸於權，寵冠後庭。",
+            "display": true
+          },
+          "ce-sgz-zongshi-sunfu-zhengwen": {
+            "id": "ce-sgz-zongshi-sunfu-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-051",
+            "paragraph": 12,
+            "citation": "《三國志·卷五十一 ‧ 吳書六　宗室傳第六 孫輔傳》",
+            "quote": "孫輔字國儀，賁弟也，以揚武校尉佐孫策平三郡。策討丹楊七縣，使輔西屯歷陽以拒袁術，并招誘餘民，鳩合遺散。又從策討陵陽，生得祖郎等。",
+            "display": true
+          },
+          "ce-sgz-zongshi-sunshao-zhengwen": {
+            "id": "ce-sgz-zongshi-sunshao-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-051",
+            "paragraph": 19,
+            "citation": "《三國志·卷五十一 ‧ 吳書六　宗室傳第六 孫韶傳》",
+            "quote": "孫策愛之，賜姓為孫，列之屬籍。吳書曰：河，堅族子也，出後姑俞氏，後復姓為孫。河質性忠直，訥言敏行，有氣幹，能服勤。少從堅征討，常為前驅，後領左右兵，典知內事，待以腹心之任。又從策平定吳、會，從權討李術，術破，拜威寇中郎將，領廬江太守。",
+            "display": true
+          },
+          "ce-sgz-zongshi-sunshao-peizhu": {
+            "id": "ce-sgz-zongshi-sunshao-peizhu",
+            "work": "sanguozhi",
+            "source": "a04-051",
+            "paragraph": 20,
+            "citation": "《三國志·卷五十一 ‧ 吳書六　宗室傳第六 孫韶傳》裴注",
+            "quote": "孫策平定吳、會，誅其英豪，憲素有高名，策深忌之。",
+            "display": true
+          },
+          "ce-sgz-zhangzhao-zhongtuo-zhengwen": {
+            "id": "ce-sgz-zhangzhao-zhongtuo-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-052",
+            "paragraph": 2,
+            "citation": "《三國志·卷五十二 ‧ 吳書七　張顧諸葛步傳第七 張昭傳》",
+            "quote": "策臨亡，以弟權託昭，昭率羣僚立而輔之。",
             "display": true
           }
         },
