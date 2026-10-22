@@ -19620,7 +19620,40 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "cp-sg-xianzhu-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 21,
+          "from": "曹丕篡弒，湮滅漢室",
+          "through": "劫迫忠良，酷烈無道。",
+          "citation": "《三國志·卷三十二 ‧ 蜀書二　先主傳第二》",
+          "note": "劉備稱帝前群臣勸進表（章武元年，221年）；斥曹丕篡弒、湮滅漢室，為蜀漢不承認曹魏正統之史證。"
+        },
+        {
+          "id": "cp-sg-liang-tuogu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 5,
+          "from": "君才十倍曹丕",
+          "through": "終定大事。",
+          "citation": "《三國志·卷三十五 ‧ 蜀書五　諸葛亮傳第五》",
+          "context": "章武三年春",
+          "note": "章武三年（223年）劉備永安託孤；以曹丕為諸葛亮才力之參照，囑其輔佐嗣子、安定國家。"
+        },
+        {
+          "id": "cp-sg-duwei-shu",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 1,
+          "from": "曹丕篡弒，自立為帝",
+          "through": "土龍芻狗之有名也。",
+          "citation": "《三國志·卷四十二 ‧ 蜀書十二　杜周杜許孟來尹李譙郤傳第十二》",
+          "context": "建興二年",
+          "note": "建興二年（224年）諸葛亮與杜微書；斥曹丕篡弒自立為土龍芻狗，欲以正道滅之，為亮北伐政治主張之史證。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
