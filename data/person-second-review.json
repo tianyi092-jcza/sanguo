@@ -20597,8 +20597,40 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "cz-sg-chidao-simamen",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 6,
+          "from": "植嘗乘車行馳道中",
+          "through": "而植寵日衰。",
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+          "note": "建安年間（曹操在世）曹植乘車行馳道、開司馬門出，太祖大怒，公車令坐死；由是重諸侯科禁，而植寵日衰。"
+        },
+        {
+          "id": "cz-sg-jiuren-zui",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 6,
+          "from": "太祖以植為南中郎將，行征虜將軍。",
+          "through": "於是悔而罷之。",
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+          "context": "二十四年，曹仁為關羽所圍",
+          "note": "建安二十四年（219年）關羽圍曹仁於樊，太祖欲遣植救仁，以為南中郎將行征虜將軍；植醉不能受命，太祖悔而罷之，救仁不成。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "cz-excl-001",
+          "work": "houhanshu",
+          "source": "a03-018",
+          "paragraph": 44,
+          "term": "曹植結交篇",
+          "quote": "曹植結交篇曰：「利劔鳴手中。」",
+          "reason": "《後漢書》卷十八論贊注文引曹植《結交篇》詩句為論據修辭（證「撫嗚劔而扺掌」），與曹植本人史實無關；按「不把後世修辭當本人史實」規則排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
