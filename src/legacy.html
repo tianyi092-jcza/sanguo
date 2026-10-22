@@ -239,7 +239,7 @@ document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
 });
 
 /* ================= 地图 ================= */
-const MW=1920,MH=1460,LON0=86,LON1=136,LAT0=16,LAT1=49.5;
+const BMV=DATA.basemap.view,MW=BMV.mw,MH=BMV.mh,LON0=BMV.lon0,LON1=BMV.lon1,LAT0=BMV.lat0,LAT1=BMV.lat1;
 const mx=lo=>(lo-LON0)/(LON1-LON0)*MW, my=la=>(LAT1-la)/(LAT1-LAT0)*MH;
 let vb={x:0,y:0,w:MW,h:MH};
 let view={lon:108.5,lat:34.5,z:5};
@@ -370,9 +370,10 @@ function renderDemo(){
   svg.setAttribute("viewBox",`${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
   const ov=$("#ovSvg");ov.innerHTML="";
   const sc=W/vb.w;
-  const pts=DATA.outline.map(p=>mx(p[0]).toFixed(1)+","+my(p[1]).toFixed(1)).join(" ");
-  svg.innerHTML=`<polygon points="${pts}" fill="#1c2634" stroke="#3a4a5f" stroke-width="1.2"/>
-  <circle cx="${mx(109.8)}" cy="${my(19.2)}" r="${my(18.6)-my(19.6)}" fill="#1c2634" stroke="#3a4a5f"/>`;
+  let bs="";
+  for(const n of DATA.basemap.neighbors)bs+=`<path d="${n.d}" fill="#141a24" stroke="#2c3a4e" stroke-width="1"/>`;
+  DATA.basemap.provinces.forEach((p,i)=>{bs+=`<path d="${p.d}" fill="${i%2?"#1b2534":"#1f2a3a"}" stroke="#41546f" stroke-width="1"/>`;});
+  svg.innerHTML=bs;
   drawFeatures(ov,(lo,la)=>[(mx(lo)-vb.x)*sc,(my(la)-vb.y)*sc]);
 }
 

@@ -6,6 +6,8 @@ import {loadMapConfig} from './map-config.mjs';
 import {applyWikisourceOverrides} from './wikisource-overrides.mjs';
 const read=p=>fs.readFileSync(p,'utf8');
 const {data,history,chars,audit}=makeHistory(JSON.parse(read('data/original.json')));
+// 示意底图矢量数据（DataV 省级 + Natural Earth 周边国家，已裁剪/简化/投影为 SVG 路径，见 data/basemap.json）
+data.basemap=JSON.parse(traditional(read('data/basemap.json')));
 // 考據引文维基迁移（持久化在 data/wikisource-overrides.json，构建时应用；
 // data/history.json 是构建产物，直接改它会被重生成覆盖）
 // 重新生成 overrides 时先 SKIP_OVERRIDES=1 npm run build 得到 pristine，再跑 build-wikisource-overrides.mjs
