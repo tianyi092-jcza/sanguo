@@ -17556,6 +17556,39 @@
           "citation": "《後漢書·孝獻帝紀》所載",
           "context": "二年春",
           "note": "繫年為建安二年（袁術自稱天子之年）；孫策遣使向朝廷奉貢。"
+        },
+        {
+          "id": "ce-hhs-xiandi-sunce-si",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 13,
+          "from": "是歲，孫策死，為許貢客所射傷。",
+          "through": "弟權襲其餘業。",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "五年春正月",
+          "note": "繫年為建安五年（200年）：孫策為許貢客所射傷而死，弟孫權襲其餘業。與本傳（《三國志·孫破虜討逆傳》）建安五年策遇刺身死互證，卒年確定。"
+        },
+        {
+          "id": "ce-hhs-lukang-sunce-gong",
+          "work": "houhanshu",
+          "source": "a03-031",
+          "paragraph": 54,
+          "from": "術大怒，遣其將孫策攻康，圍城數重。",
+          "through": "受敵二年，城陷。",
+          "citation": "《後漢書·陸康傳》所載",
+          "context": "時袁術屯兵壽春",
+          "note": "時孫策依附袁術：術怒陸康閉門不通，遣孫策攻廬江，圍城數重，康固守二年城陷。為孫策興平二年渡江自立前依附袁術之史證。"
+        },
+        {
+          "id": "ce-hhs-yuanzhong-sunce-pohuiji",
+          "work": "houhanshu",
+          "source": "a03-045",
+          "paragraph": 23,
+          "from": "後孫策破會稽，忠等浮海南投交阯。",
+          "through": "後孫策破會稽，忠等浮海南投交阯。",
+          "citation": "《後漢書·袁忠傳》所載",
+          "context": "忠弃官客會稽上虞",
+          "note": "袁忠（字正甫）避亂客居會稽上虞；孫策破會稽後，忠等浮海南投交阯。為孫策平定會稽之旁證。"
         }
       ],
       "exclusions": [],
