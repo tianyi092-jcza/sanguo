@@ -70321,6 +70321,24 @@
           "citation": "《三國志·武帝紀》所載",
           "quote": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
           "display": true
+        },
+        {
+          "id": "ce-sgz-wudiji-mouxi-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "citation": "《三國志·武帝紀》所載",
+          "quote": "孫策聞公與紹相持，乃謀襲許，未發，為刺客所殺。",
+          "display": true
+        },
+        {
+          "id": "ce-sgz-yuanshu-liuxun-peizhu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 30,
+          "citation": "《三國志·袁術傳》所載",
+          "quote": "妻子依術故吏廬江太守劉勳，孫策破勳，復見收視。",
+          "display": true
         }
       ],
       "secondReview": {
@@ -70449,6 +70467,24 @@
             "paragraph": 7,
             "citation": "《三國志·武帝紀》所載",
             "quote": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
+            "display": true
+          },
+          "ce-sgz-wudiji-mouxi-zhengwen": {
+            "id": "ce-sgz-wudiji-mouxi-zhengwen",
+            "work": "sanguozhi",
+            "source": "a04-001",
+            "paragraph": 15,
+            "citation": "《三國志·武帝紀》所載",
+            "quote": "孫策聞公與紹相持，乃謀襲許，未發，為刺客所殺。",
+            "display": true
+          },
+          "ce-sgz-yuanshu-liuxun-peizhu": {
+            "id": "ce-sgz-yuanshu-liuxun-peizhu",
+            "work": "sanguozhi",
+            "source": "a04-006",
+            "paragraph": 30,
+            "citation": "《三國志·袁術傳》所載",
+            "quote": "妻子依術故吏廬江太守劉勳，孫策破勳，復見收視。",
             "display": true
           }
         },
