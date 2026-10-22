@@ -39,6 +39,13 @@ main{flex:1;position:relative;overflow:hidden}
 #tiles{position:absolute;inset:0;overflow:hidden;background:#0b0f15}
 #mapSvg:active{cursor:grabbing}
 #mapTip{position:absolute;pointer-events:none;background:rgba(10,14,20,.92);border:1px solid var(--line);border-radius:6px;padding:6px 10px;font-size:12px;display:none;z-index:20;max-width:280px}
+#loading{position:fixed;inset:0;background:#0e1420;z-index:9999;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;transition:opacity .6s}
+#loading.hide{opacity:0;pointer-events:none}
+#loading .spin{width:54px;height:54px;border-radius:50%;border:3px solid #263144;border-top-color:#c8a46b;animation:loadspin .9s linear infinite}
+#loading .lt{font-family:var(--serif);font-size:20px;color:#d8c391;letter-spacing:.35em;text-indent:.35em}
+#loading .ls{font-size:12px;color:#57606e;letter-spacing:.5em;text-indent:.5em;animation:loadpulse 1.6s ease-in-out infinite}
+@keyframes loadspin{to{transform:rotate(360deg)}}
+@keyframes loadpulse{0%,100%{opacity:.35}50%{opacity:1}}
 #mapPanel{position:absolute;top:12px;right:12px;width:300px;max-height:calc(100% - 90px);overflow:auto;background:rgba(24,30,40,.95);border:1px solid var(--line);border-radius:10px;padding:14px;display:none;z-index:15}
 #mapPanel h3{font-family:var(--serif);font-size:18px;margin-bottom:6px}
 #mapPanel .row{display:flex;gap:6px;margin:4px 0;font-size:13px}
@@ -131,6 +138,7 @@ tr:hover td{background:#ffffff08}
 </style>
 </head>
 <body>
+<div id="loading"><div class="spin"></div><div class="lt">三國志・疆域與年表</div><div class="ls">載入中</div></div>
 <header>
   <h1>三国志 · 疆域与年表<small>陈寿《三国志》及裴松之注 · 资料整理工具</small></h1>
   <div id="searchBox">
@@ -371,8 +379,8 @@ function renderDemo(){
   const ov=$("#ovSvg");ov.innerHTML="";
   const sc=W/vb.w;
   let bs="";
-  for(const n of DATA.basemap.neighbors)bs+=`<path d="${n.d}" fill="#141a24" stroke="#2c3a4e" stroke-width="1"/>`;
-  DATA.basemap.provinces.forEach((p,i)=>{bs+=`<path d="${p.d}" fill="${i%2?"#1b2534":"#1f2a3a"}" stroke="#41546f" stroke-width="1"/>`;});
+  for(const n of DATA.basemap.neighbors)bs+=`<path d="${n.d}" data-name="${n.name}" fill="#141a24" stroke="#2c3a4e" stroke-width="1"/>`;
+  DATA.basemap.provinces.forEach((p,i)=>{bs+=`<path d="${p.d}" data-name="${p.name}" fill="${i%2?"#1b2534":"#1f2a3a"}" stroke="#41546f" stroke-width="1"/>`;});
   svg.innerHTML=bs;
   drawFeatures(ov,(lo,la)=>[(mx(lo)-vb.x)*sc,(my(la)-vb.y)*sc]);
 }
@@ -414,9 +422,12 @@ function renderMap(){
 
 /* ---------- 缩放与拖拽（双模式统一） ---------- */
 function isDemo(){return $("#baseSel").value==="demo";}
-$("#zin").onclick=()=>{if(isDemo()){const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;vb.w=Math.min(MW,Math.max(460,vb.w*0.72));vb.h=vb.w*MH/MW;vb.x=Math.min(Math.max(cx-vb.w/2,0),MW-vb.w);vb.y=Math.min(Math.max(cy-vb.h/2,0),MH-vb.h);}else view.z=Math.min(17,view.z+1);renderMap();};
-$("#zout").onclick=()=>{if(isDemo()){const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;vb.w=Math.min(MW,Math.max(460,vb.w*1.38));vb.h=vb.w*MH/MW;vb.x=Math.min(Math.max(cx-vb.w/2,0),MW-vb.w);vb.y=Math.min(Math.max(cy-vb.h/2,0),MH-vb.h);}else view.z=Math.max(3,view.z-1);renderMap();};
-$("#zreset").onclick=()=>{vb={x:0,y:0,w:MW,h:MH};view={lon:108.5,lat:34.5,z:5};renderMap();};
+function clampVB(){vb.x=Math.min(Math.max(vb.x,Math.min(0,MW-vb.w)),Math.max(0,MW-vb.w));vb.y=Math.min(Math.max(vb.y,Math.min(0,MH-vb.h)),Math.max(0,MH-vb.h));}
+function coverVB(){const wr=$("#mapWrap"),W=wr.clientWidth,H=wr.clientHeight;if(!W||!H)return;const s=Math.max(W/MW,H/MH);vb.w=W/s;vb.h=H/s;vb.x=(MW-vb.w)/2;vb.y=Math.min(Math.max(my(35)-vb.h/2,0),Math.max(0,MH-vb.h));}
+function zoomDemo(f){const wr=$("#mapWrap"),W=wr.clientWidth,H=wr.clientHeight;if(!W||!H)return;const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;const maxW=W/Math.max(W/MW,H/MH);vb.w=Math.min(maxW,Math.max(150,vb.w*f));vb.h=Math.min(MH,vb.w*H/W);vb.x=cx-vb.w/2;vb.y=cy-vb.h/2;clampVB();}
+$("#zin").onclick=()=>{if(isDemo())zoomDemo(0.72);else view.z=Math.min(19,view.z+1);renderMap();};
+$("#zout").onclick=()=>{if(isDemo())zoomDemo(1.38);else view.z=Math.max(3,view.z-1);renderMap();};
+$("#zreset").onclick=()=>{coverVB();view={lon:108.5,lat:34.5,z:5};renderMap();};
 let drag=null;
 $("#mapWrap").addEventListener("mousedown",e=>{if(e.button!==0||e.target.closest("#mapPanel,.mapCtl,#mapTileStatus,#mapAttribution"))return;drag={x:e.clientX,y:e.clientY};});
 window.addEventListener("mousemove",e=>{
@@ -424,17 +435,19 @@ window.addEventListener("mousemove",e=>{
   const dx=e.clientX-drag.x,dy=e.clientY-drag.y;drag={x:e.clientX,y:e.clientY};
   if(isDemo()){
     const s=$("#mapWrap").clientWidth/vb.w;
-    vb.x=Math.min(Math.max(vb.x-dx/s,0),MW-vb.w);vb.y=Math.min(Math.max(vb.y-dy/s,0),MH-vb.h);
+    vb.x-=dx/s;vb.y-=dy/s;clampVB();
   }else{
     panOnlineMap(dx,dy);
   }
   scheduleMapRender();
 });
 window.addEventListener("mouseup",()=>drag=null);
-$("#mapWrap").addEventListener("wheel",e=>{if(e.target.closest("#mapPanel,.mapCtl,#mapTileStatus,#mapAttribution"))return;e.preventDefault();if(isDemo()){const f=e.deltaY>0?1.15:0.87;const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;vb.w=Math.min(MW,Math.max(460,vb.w*f));vb.h=vb.w*MH/MW;vb.x=Math.min(Math.max(cx-vb.w/2,0),MW-vb.w);vb.y=Math.min(Math.max(cy-vb.h/2,0),MH-vb.h);}else view.z=Math.max(3,Math.min(17,view.z+(e.deltaY>0?-1:1)));scheduleMapRender();},{passive:false});
+$("#mapWrap").addEventListener("wheel",e=>{if(e.target.closest("#mapPanel,.mapCtl,#mapTileStatus,#mapAttribution"))return;e.preventDefault();if(isDemo())zoomDemo(e.deltaY>0?1.15:0.87);else view.z=Math.max(3,Math.min(19,view.z+(e.deltaY>0?-1:1)));scheduleMapRender();},{passive:false});
 $("#periodSel").onchange=renderMap;$("#showCities").onchange=renderMap;$("#showPass").onchange=renderMap;$("#showCounty").onchange=renderMap;
 $("#baseSel").onchange=()=>{$("#mapPanel").style.display="none";renderMap();};
 $("#mapWrap").addEventListener("click",e=>{if(e.target.id==="mapWrap"||e.target.tagName==="svg"||e.target.id==="tiles")$("#mapPanel").style.display="none";});
+$("#mapWrap").addEventListener("mousemove",e=>{if(!isDemo())return;if(drag){hideTip();return;}const p=e.target&&e.target.closest?e.target.closest("#mapSvg path[data-name]"):null;if(p)tip(e,esc(p.getAttribute("data-name")));else if(!e.target.closest||!e.target.closest("#ovSvg *"))hideTip();});
+$("#mapWrap").addEventListener("mouseleave",hideTip);
 function gotoPlace(lon,lat,cb){
   if(curView!=="map")document.querySelector('.tab[data-v="map"]').click();
   if(isDemo()){
@@ -740,7 +753,10 @@ $("#about").innerHTML=`
 <div>随工具附 CSV 资料表（郡国经纬与今址、人物生卒、大事年表），可直接导入 Excel / GIS 继续整理。</div>`;
 
 /* init */
+setTimeout(()=>{const l=$("#loading");if(l){l.classList.add("hide");setTimeout(()=>l.remove(),700);}},15000);
+coverVB();
 renderMap();
+{const l=$("#loading");if(l){l.classList.add("hide");setTimeout(()=>l.remove(),700);}}
 </script>
 </body>
 </html>
