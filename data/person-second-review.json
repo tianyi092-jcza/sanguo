@@ -21466,6 +21466,33 @@
           "from": "二十四年春正月，仁屠宛，斬音。",
           "through": "二十四年春正月，仁屠宛，斬音。",
           "citation": "《三國志·魏書一　武帝紀》"
+        },
+        {
+          "id": "cr-sg-wdj2-dasima",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 18,
+          "from": "己卯，以大將軍曹仁為大司馬。",
+          "through": "己卯，以大將軍曹仁為大司馬。",
+          "citation": "《三國志·魏書二　文帝紀》"
+        },
+        {
+          "id": "cr-sg-wdj2-hong",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 27,
+          "from": "丁未，大司馬曹仁薨。",
+          "through": "丁未，大司馬曹仁薨。",
+          "citation": "《三國志·魏書二　文帝紀》"
+        },
+        {
+          "id": "cr-sg-sdj-taoyin",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 53,
+          "from": "征南將軍曹仁討平音，表余行狀，并脩祭醊。",
+          "through": "征南將軍曹仁討平音，表余行狀，并脩祭醊。",
+          "citation": "《三國志·魏書四　三少帝紀》"
         }
       ],
       "exclusions": [],
