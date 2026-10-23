@@ -21655,9 +21655,37 @@
           "from": "夏四月，以車騎將軍曹仁為大將軍。",
           "through": "五月，鄭甘復叛，遣曹仁討斬之。",
           "citation": "《三國志·卷二 ‧ 魏書二　文帝紀第二》"
+        },
+        {
+          "id": "cr-sg-mdj-peixiang",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 15,
+          "from": "夏五月壬申，詔祀故大將軍夏侯惇、大司馬曹仁、車騎將軍程昱於太祖廟庭。",
+          "through": "於是以惇等配饗之。",
+          "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》"
+        },
+        {
+          "id": "cr-sg-crz-kaipian",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 16,
+          "from": "曹仁字子孝，太祖從弟也。",
+          "through": "太祖軍還，為繡所追，軍不利，士卒喪氣，仁率厲將士甚奮，太祖壯之，遂破繡。",
+          "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九 曹仁傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "cr-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 15,
+          "term": "曹仁",
+          "quote": "曹仁傳",
+          "reason": "僅為本傳傳目標題段落，無實質史料內容，排除。"
+        }
+      ],
       "unresolved": [],
       "conclusions": []
     }
