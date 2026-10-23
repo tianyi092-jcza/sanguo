@@ -21574,6 +21574,33 @@
           "from": "二十四年，曹仁為關羽所圍。",
           "through": "植醉不能受命，於是悔而罷之。",
           "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 曹植傳》"
+        },
+        {
+          "id": "cr-sg-mc-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 4,
+          "from": "關羽圍襄陽，寵助征南將軍曹仁屯樊城拒之",
+          "through": "關羽圍襄陽，寵助征南將軍曹仁屯樊城拒之",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六 滿寵傳》"
+        },
+        {
+          "id": "cr-sg-gy-fan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 5,
+          "from": "是歲，羽率衆攻曹仁於樊。",
+          "through": "曹公遣于禁助仁。",
+          "citation": "《三國志·卷三十六 ‧ 蜀書六　關張馬黃趙傳第六 關羽傳》"
+        },
+        {
+          "id": "cr-sg-wz-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "留曹仁、徐晃於江陵，使樂進守襄陽。",
+          "through": "時甘寧在夷陵，為仁黨所圍，用呂蒙計，留凌統以拒仁，以其半救寧，軍以勝反。",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二 吳主傳》"
         }
       ],
       "exclusions": [],

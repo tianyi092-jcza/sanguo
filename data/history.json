@@ -17696,6 +17696,33 @@
           "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 曹植傳》",
           "quote": "二十四年，曹仁為關羽所圍。太祖以植為南中郎將，行征虜將軍。欲遣救仁，呼有所勑戒。植醉不能受命，於是悔而罷之。",
           "display": true
+        },
+        {
+          "id": "cr-sg-mc-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 4,
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六 滿寵傳》",
+          "quote": "關羽圍襄陽，寵助征南將軍曹仁屯樊城拒之",
+          "display": true
+        },
+        {
+          "id": "cr-sg-gy-fan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 5,
+          "citation": "《三國志·卷三十六 ‧ 蜀書六　關張馬黃趙傳第六 關羽傳》",
+          "quote": "是歲，羽率衆攻曹仁於樊。曹公遣于禁助仁。",
+          "display": true
+        },
+        {
+          "id": "cr-sg-wz-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二 吳主傳》",
+          "quote": "留曹仁、徐晃於江陵，使樂進守襄陽。時甘寧在夷陵，為仁黨所圍，用呂蒙計，留凌統以拒仁，以其半救寧，軍以勝反。",
+          "display": true
         }
       ],
       "secondReview": {
@@ -17869,6 +17896,33 @@
             "paragraph": 6,
             "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 曹植傳》",
             "quote": "二十四年，曹仁為關羽所圍。太祖以植為南中郎將，行征虜將軍。欲遣救仁，呼有所勑戒。植醉不能受命，於是悔而罷之。",
+            "display": true
+          },
+          "cr-sg-mc-fancheng": {
+            "id": "cr-sg-mc-fancheng",
+            "work": "sanguozhi",
+            "source": "a04-026",
+            "paragraph": 4,
+            "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六 滿寵傳》",
+            "quote": "關羽圍襄陽，寵助征南將軍曹仁屯樊城拒之",
+            "display": true
+          },
+          "cr-sg-gy-fan": {
+            "id": "cr-sg-gy-fan",
+            "work": "sanguozhi",
+            "source": "a04-036",
+            "paragraph": 5,
+            "citation": "《三國志·卷三十六 ‧ 蜀書六　關張馬黃趙傳第六 關羽傳》",
+            "quote": "是歲，羽率衆攻曹仁於樊。曹公遣于禁助仁。",
+            "display": true
+          },
+          "cr-sg-wz-jiangling": {
+            "id": "cr-sg-wz-jiangling",
+            "work": "sanguozhi",
+            "source": "a04-047",
+            "paragraph": 8,
+            "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二 吳主傳》",
+            "quote": "留曹仁、徐晃於江陵，使樂進守襄陽。時甘寧在夷陵，為仁黨所圍，用呂蒙計，留凌統以拒仁，以其半救寧，軍以勝反。",
             "display": true
           }
         },
