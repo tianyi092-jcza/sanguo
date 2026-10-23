@@ -22768,6 +22768,15 @@
           "from": "蔣濟曰：「曹真之勳，",
           "through": "帝不聽。",
           "citation": "《晉書·卷一 ‧ 帝紀第一　宣帝紀》"
+        },
+        {
+          "id": "cz-js-zhiguan-dudu",
+          "work": "jinshu",
+          "source": "a05-024-ahcb",
+          "paragraph": 19,
+          "from": "又上軍大將軍曹真都督中外諸軍事、假黃鉞，",
+          "through": "則總統內外諸軍矣。",
+          "citation": "《晉書·卷二十四 ‧ 志第十四　職官志》"
         }
       ],
       "exclusions": [
@@ -22779,6 +22788,24 @@
           "term": "曹真",
           "quote": "曹真傳",
           "reason": "僅為本卷〈曹真傳〉傳名標題，無正文內容、無可摘錄信息，排除。"
+        },
+        {
+          "id": "cz-excl-a05-090-ahcb-2",
+          "work": "jinshu",
+          "source": "a05-090-ahcb",
+          "paragraph": 2,
+          "term": "曹真",
+          "quote": "辟大司馬曹真掾，轉臨淄侯文學",
+          "reason": "僅為他人傳記中以曹真官職為履歷參照的附帶提及（某人被辟為曹真掾、參大司馬軍事），無曹真本人新史實，排除。"
+        },
+        {
+          "id": "cz-excl-a05-094-ahcb-31",
+          "work": "jinshu",
+          "source": "a05-094-ahcb",
+          "paragraph": 31,
+          "term": "曹真",
+          "quote": "任功曹真人也",
+          "reason": "「任功曹真人也」為「功曹」與「真人」的分詞連讀（蔣秀歎旭之為人），非指曹真本人，屬字面誤報，排除。"
         }
       ],
       "unresolved": [],
