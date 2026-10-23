@@ -22606,6 +22606,33 @@
           "from": "初，曹真、曹休亦與質等俱在渤海游處",
           "through": "出為列將，而質故為長史。",
           "citation": "《三國志·卷二十一 ‧ 魏書二十一　王衛二劉傅傳第二十一 吳質傳》"
+        },
+        {
+          "id": "cz-sg-chenqun-yizhao",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 7,
+          "from": "帝寢疾，羣與曹真、司馬宣王等並受遺詔輔政。",
+          "through": "與征東大將軍曹休、中軍大將軍曹真、撫軍大將軍司馬宣王並開府。",
+          "citation": "《三國志·卷二十二 ‧ 魏書二十二　桓二陳徐衛盧傳第二十二 陳羣傳》"
+        },
+        {
+          "id": "cz-sg-chenqun-fashu",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 8,
+          "from": "太和中，曹真表欲數道伐蜀，從斜谷入。",
+          "through": "會霖雨積日，羣又以為宜詔真還，帝從之。",
+          "citation": "《三國志·卷二十二 ‧ 魏書二十二　桓二陳徐衛盧傳第二十二 陳羣傳》"
+        },
+        {
+          "id": "cz-sg-duxi-junshi",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 21,
+          "from": "諸葛亮出秦川，大將軍曹真督諸軍拒亮，",
+          "through": "真薨，司馬宣王代之，襲復為軍師，增邑三百，并前五百五十戶。",
+          "citation": "《三國志·卷二十三 ‧ 魏書二十三　和常楊杜趙裴傳第二十三 杜襲傳》"
         }
       ],
       "exclusions": [
