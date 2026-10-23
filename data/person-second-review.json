@@ -21844,6 +21844,33 @@
           "from": "及蜀將關羽圍曹仁於樊，于禁等七軍皆沒，脩、方果降羽，而仁圍甚急焉。",
           "through": "及蜀將關羽圍曹仁於樊，于禁等七軍皆沒，脩、方果降羽，而仁圍甚急焉。",
           "citation": "《晉書·卷一·帝紀第一·宣帝紀》"
+        },
+        {
+          "id": "cr-js-crs-zhenxiangyang",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 4,
+          "from": "時曹仁鎮襄陽，請召仁還宛。",
+          "through": "仁遂焚棄二城，權果不為寇，魏文悔之。",
+          "citation": "《晉書·卷一·帝紀第一·宣帝紀》"
+        },
+        {
+          "id": "cr-sg-crz-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 19,
+          "from": "從平荊州，以仁行征南將軍，留屯江陵，拒吳將周瑜。",
+          "through": "太祖益壯之，轉封安平亭侯。",
+          "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九 曹仁傳》"
+        },
+        {
+          "id": "cr-sg-crz-xiangyang2",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 22,
+          "from": "後召還屯宛。孫權遣將陳邵據襄陽，詔仁討之。",
+          "through": "黃初四年薨，謚曰忠侯。",
+          "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九 曹仁傳》"
         }
       ],
       "exclusions": [
