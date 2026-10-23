@@ -21412,7 +21412,35 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "cr-sg-wdj-duhe",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "from": "使史渙、曹仁渡河擊之",
+          "through": "交戰，大破之，斬固。",
+          "citation": "《三國志·魏書一　武帝紀》"
+        },
+        {
+          "id": "cr-sg-wdj-liubei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "公使曹仁擊破之",
+          "through": "備走，遂破辟屯。",
+          "citation": "《三國志·魏書一　武帝紀》"
+        },
+        {
+          "id": "cr-sg-wdj-tongguan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "馬超遂與韓遂、楊秋、李堪、成宜等叛",
+          "through": "遣曹仁討之。",
+          "citation": "《三國志·魏書一　武帝紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "conclusions": []
