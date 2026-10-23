@@ -25429,8 +25429,41 @@
       "id": "p0010",
       "name": "曹純",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "cx-sgz-caochun-wenpin-changban",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 15,
+          "from": "授聘兵",
+          "through": "追討劉備於長阪",
+          "citation": "《三國志·卷十八 ‧ 魏書十八　二李臧文呂許典二龐閻傳第十八　文聘傳》原文",
+          "context": "",
+          "note": "建安十三年（208）荊州之役後，太祖授文聘兵，使與曹純追討劉備於長阪。他傳正文單字命中確指曹純本人，與曹純本傳「從征荊州，追劉備於長坂，獲其二女輜重，收其散卒」互證。勢力歸屬：曹操。"
+        },
+        {
+          "id": "cx-sgz-caochun-bio-core",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 23,
+          "from": "初以議郎參司空軍事，督虎豹騎從圍南皮。",
+          "through": "追謚曰威侯。",
+          "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九　曹純傳》所載",
+          "context": "",
+          "note": "曹純本傳正文核心。以議郎參司空軍事，督虎豹騎從圍南皮（建安十年 205，純建策「今千里蹈敵」急攻，麾下騎斬袁譚首）；北征三郡部騎獲單于蹹頓（建安十二年 207 白狼山）；以前後功封高陵亭侯（三百戶）；從征荊州追劉備於長坂（建安十三年 208，獲其二女輜重）；建安十五年（210）薨，文帝追謚威侯。勢力全程屬曹操。段內所引《英雄記》出身語、《魏書》虎豹騎選督語及子嗣附記另層，留待後續條目。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "cx-sgz-caochun-excl-houhanshu-nanpi",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 1,
+          "term": "曹純",
+          "quote": "譚敗，乃引兵還南皮。",
+          "reason": "《後漢書·袁紹傳》附載曹操度河攻袁譚、譚尚爭冀州、南皮之戰始末，全段無「曹純」字樣，僅為事件（南皮斬袁譚）加權命中；斬譚之事見《三國志·曹純傳》本傳正文，不在此段。排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
