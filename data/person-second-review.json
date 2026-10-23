@@ -25651,6 +25651,33 @@
           "term": "曹純",
           "quote": "勒將支雄攻劉演於廩丘",
           "reason": "《晉書·卷一百四 ‧ 載記第四》石勒永嘉年間戰事，全段無「曹純」字樣；繫年遠在曹純卒後（建安十五年 210），事件加權「白狼山從征蹋頓」誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhanshu-xunli",
+          "work": "houhanshu",
+          "source": "a03-076.json",
+          "paragraph": 14,
+          "term": "曹純",
+          "quote": "延到，選集武略之士千人",
+          "reason": "《後漢書·卷七十六 ‧ 循吏列傳第六十六》任延等循吏傳，全段無「曹純」字樣；事件加權「白狼山從征蹋頓」誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhanshu-dongzhuo",
+          "work": "houhanshu",
+          "source": "a03-072.json",
+          "paragraph": 18,
+          "term": "曹純",
+          "quote": "時孫堅為溫參軍，勸溫陳兵斬之",
+          "reason": "《後漢書·卷七十二 ‧ 列傳第六十二》董卓傳，載董卓殺張溫、孫堅勸溫斬卓事，全段無「曹純」字樣；事件加權「南皮斬袁譚」誤命中（斬袁譚事見曹純本傳，與此段無涉）。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-jinshu-shijilong",
+          "work": "jinshu",
+          "source": "a05-106-ahcb.json",
+          "paragraph": 31,
+          "term": "曹純",
+          "quote": "段遼於密雲山遣使詐降",
+          "reason": "《晉書·卷一百六 ‧ 載記第六》石季龍載記，載段遼詐降、慕容恪襲麻秋事，全段無「曹純」字樣；繫年遠在曹純卒後（建安十五年 210），事件加權「白狼山從征蹋頓」誤命中。排除。"
         }
       ],
       "unresolved": [],
