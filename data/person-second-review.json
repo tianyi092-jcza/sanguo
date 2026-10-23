@@ -24156,6 +24156,24 @@
           "source": "a05-012-ahcb",
           "paragraph": 90,
           "reason": "四庫全書本同條異文，與 a05-012:76 為同一日食條（僅「羣臣/群臣」「荅/答」等字形差異，且缺末句「嘉平元年二月己未朔，日有蝕之」），無新增史事，故排除。"
+        },
+        {
+          "id": "cs-js-tianwen13-ahcb-zhengshu-zhushuang",
+          "source": "a05-013-ahcb",
+          "paragraph": 4,
+          "reason": "四庫全書本《晉書·卷十三‧志第三》天文志條：正始五年「曹爽征蜀」與已錄 cs-sgz-shaodiji-fashu、cs-js-xuandi-fashu、cs-js-wendi-fashu 等征蜀摘錄異源重複；「嘉平元年，天子謁陵，宣帝奏誅曹爽等」與已錄 cs-js-wendi-gaopingling-mimou、cs-sgz-jiangji-zhushuang 等高平陵摘錄異源重複；無新增史事，故排除。（四庫本作「五年二月」，底本 a05-013:14 作「五年三月」，月份異文不影響史事同一性。）"
+        },
+        {
+          "id": "cs-js-tianwen13-zhengshu",
+          "source": "a05-013",
+          "paragraph": 14,
+          "reason": "《晉書·卷十三‧志第三》天文志條「五年三月，曹爽征蜀」，與已錄 cs-sgz-shaodiji-fashu、cs-js-xuandi-fashu、cs-js-wendi-fashu、cs-sgz-zhongyu-fashu 等征蜀摘錄異源重複，無新增史事，故排除。（四庫本 a05-013-ahcb:4 作「五年二月」，月份異文不影響史事同一性。）"
+        },
+        {
+          "id": "cs-js-tianwen13-zhushuang",
+          "source": "a05-013",
+          "paragraph": 15,
+          "reason": "《晉書·卷十三‧志第三》天文志條「嘉平元年，天子謁陵，宣帝奏誅曹爽等。天子野宿，於是失勢」，與已錄 cs-js-wendi-gaopingling-mimou、cs-sgz-jiangji-zhushuang 等高平陵摘錄異源重複，無新增史事，故排除。"
         }
       ],
       "unresolved": [],
