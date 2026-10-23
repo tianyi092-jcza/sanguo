@@ -25462,6 +25462,33 @@
           "term": "曹純",
           "quote": "譚敗，乃引兵還南皮。",
           "reason": "《後漢書·袁紹傳》附載曹操度河攻袁譚、譚尚爭冀州、南皮之戰始末，全段無「曹純」字樣，僅為事件（南皮斬袁譚）加權命中；斬譚之事見《三國志·曹純傳》本傳正文，不在此段。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhanshu-wuhuan",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 13,
+          "term": "曹純",
+          "quote": "大破蹋頓於柳城，斬之",
+          "reason": "《後漢書》烏桓傳段載建安十二年曹操自征烏桓、大破蹋頓於柳城始末，全段無「曹純」字樣，僅為事件（白狼山從征蹋頓）加權命中；白狼山事見《三國志·曹純傳》本傳正文，已錄條目 cx-sgz-caochun-bio-core。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-sanguozhi-wangxiu",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 21,
+          "term": "曹純",
+          "quote": "太祖遂引軍攻譚於南皮",
+          "reason": "《三國志·魏書卷十一》王脩傳段載袁譚南皮前後事，全段無「曹純」字樣，僅為事件（南皮斬袁譚）加權命中；斬譚之事見《三國志·曹純傳》本傳正文（督虎豹騎從圍南皮，麾下騎斬譚首），已錄條目 cx-sgz-caochun-bio-core。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhanshu-yufu",
+          "work": "houhanshu",
+          "source": "a03-119",
+          "paragraph": 18,
+          "term": "曹純",
+          "quote": "最後一車懸豹尾",
+          "reason": "《後漢書》輿服志段載屬車豹尾制度，全段無「曹純」字樣，為事件「督虎豹騎」關鍵詞誤命中（豹尾≠虎豹騎）。排除。"
         }
       ],
       "unresolved": [],
