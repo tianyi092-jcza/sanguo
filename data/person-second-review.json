@@ -22741,6 +22741,33 @@
           "from": "魏遣曹真、夏侯尚、張郃等攻江陵，魏文帝自住宛，為其勢援，連屯圍城。",
           "through": "尚等不能克，乃徹攻退還。",
           "citation": "《三國志·卷五十六 ‧ 吳書十一　朱治朱然呂範朱桓傳第十一　朱然傳》"
+        },
+        {
+          "id": "cz-js-xuandi-guming",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 13,
+          "from": "及天子疾篤，",
+          "through": "慎勿疑之。",
+          "citation": "《晉書·卷一 ‧ 帝紀第一　宣帝紀》"
+        },
+        {
+          "id": "cz-js-xuandi-fashu230",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 20,
+          "from": "四年，遷大將軍，",
+          "through": "遇雨，班師。",
+          "citation": "《晉書·卷一 ‧ 帝紀第一　宣帝紀》"
+        },
+        {
+          "id": "cz-js-xuandi-gaopingling",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 61,
+          "from": "蔣濟曰：「曹真之勳，",
+          "through": "帝不聽。",
+          "citation": "《晉書·卷一 ‧ 帝紀第一　宣帝紀》"
         }
       ],
       "exclusions": [
