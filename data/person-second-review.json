@@ -27010,18 +27010,36 @@
     {
       "id": "p0012",
       "name": "曹芳",
-      "status": "pilot",
-      "excerpts": [],
+      "status": "complete",
+      "excerpts": [
+        {
+          "id": "ce-sgz-zhugeke-ping-caofang",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 25,
+          "from": "夫以曹芳闇劣，而政在私門",
+          "through": "彼之臣民，固有離心。",
+          "citation": "《三國志·吳書十九 諸葛恪傳》所載",
+          "context": "恪將悉衆伐魏",
+          "note": "吳方敵國之辭：恪稱曹芳「闇劣」、魏「政在私門」（指司馬氏專權），僅存其說，不作實評依據。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪向量＋全字匹配全庫僅得 1 段候選（諸葛恪傳貶語），錄正摘錄 1 條，排除 0 條，未解決 0 條。帝紀行文多稱「帝」「上」「齊王」而非名，「曹芳」之名全庫僅見此一處（grep 全庫核實），字「蘭卿」未作獨立別名擴展（寧缺毋濫）。",
+        "辨人：諸葛恪傳中「曹芳」確指魏齊王本人，無同名異人疑義；與曹髦、曹奐等嚴格區分。",
+        "勢力繫年：段落繫於諸葛恪伐魏前（正元年間），「政在私門」指司馬氏專權時期，不作曹魏整段勢力標記依據。",
+        "生卒：生 232 年、卒 274 年（晉泰始十年），見原庫 data.per 記錄，與三少帝紀互證無出入。",
+        "本傳全文由 D1 本傳庫承載（卷4 三少帝紀·齊王紀），本輪未重複摘錄，與前人處理一致。"
+      ]
     }
   ]
 }
