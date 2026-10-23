@@ -23455,6 +23455,22 @@
         "生卒與大事（本傳他傳互證）：太和二年（228）督張郃破馬謖於街亭，拒諸葛亮箕谷疑軍及陳倉之圍；太和四年（230）由斜谷伐蜀遇雨還；太和五年（231）三月薨，葬後祀於太祖廟庭，晉初蔣濟議「曹真之勳力，不宜絕祀」，以族孫曹熈嗣。",
         "本傳在《三國志·卷九 諸夏侯曹傳第九 曹真傳》，本輪擇要摘錄本傳 3 段（出身虎豹騎、曹爽連坐哭語、絕祀續封之裴注引晉紀），其餘由他傳（帝紀、張郃/諸葛亮/趙雲/杜襲傳等）及晉書宣帝紀、職官志互證補足。"
       ]
+    },
+    {
+      "id": "p0007",
+      "name": "曹爽",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
