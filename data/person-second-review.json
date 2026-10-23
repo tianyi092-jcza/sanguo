@@ -24597,7 +24597,7 @@
     {
       "id": "p0008",
       "name": "曹休",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "cx-sgz-wendi-tuogu",
@@ -25063,11 +25063,11 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": {}
     }
