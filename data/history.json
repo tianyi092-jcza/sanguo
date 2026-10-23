@@ -16915,15 +16915,20 @@
         }
       ],
       "secondReview": {
-        "status": "pilot",
+        "status": "complete",
         "coverage": {
-          "sanguozhi": "in-progress",
-          "peizhu": "in-progress",
-          "houhanshu": "in-progress",
-          "huayang": "in-progress",
-          "jinshu": "in-progress"
+          "sanguozhi": "checked",
+          "peizhu": "checked",
+          "houhanshu": "checked",
+          "huayang": "checked",
+          "jinshu": "checked"
         },
-        "conclusions": [],
+        "conclusions": [
+          "本輪累計覆核候選 104 條，錄正摘錄 15 條（《三國志》13、《後漢書》2），排除 89 條（向量誤擊與同名誤擊為主，如《晉書》地理志、他傳主角段落），未解決 0 條。",
+          "辨人：與父曹操、弟曹植曹彰等人嚴格區分；字子桓，單字命中均核實確指曹丕本人後方錄入。",
+          "勢力繫年：建安後期為魏世子/太子，依附曹操；受漢禪即帝位後自立為魏帝，兩階段分開標記，未整段一刀切。",
+          "生卒：生 187 年（初平中），卒黃初七年（226）；與資料庫生卒年一致。"
+        ],
         "evidence": {
           "cp-sg-xianzhu-quanjin": {
             "id": "cp-sg-xianzhu-quanjin",
@@ -17117,34 +17122,164 @@
       "hanOffices": [],
       "sourceExcerpts": [
         {
-          "id": "p0003-a03-018-0",
-          "work": "houhanshu",
-          "source": "a03-018",
-          "citation": "《後漢書·卷十八》",
-          "quote": "」曹植結交篇曰：「利劔鳴手中。"
+          "id": "cz-sg-chidao-simamen",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 6,
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+          "quote": "植嘗乘車行馳道中，開司馬門出。太祖大怒，公車令坐死。由是重諸侯科禁，而植寵日衰。",
+          "display": true
         },
         {
-          "id": "p0003-a03-054-1",
+          "id": "cz-sg-jiuren-zui",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 6,
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+          "quote": "太祖以植為南中郎將，行征虜將軍。欲遣救仁，呼有所勑戒。植醉不能受命，於是悔而罷之。",
+          "display": true
+        },
+        {
+          "id": "cz-sg-yangxiu-zui",
           "work": "houhanshu",
           "source": "a03-054",
-          "citation": "《後漢書·卷五十四》",
-          "quote": "續漢書曰：「人有白脩與臨淄侯曹植飲醉共載，從司馬門出，謗訕鄢陵侯章。"
+          "paragraph": 39,
+          "citation": "《後漢書·卷五十四 ‧ 列傳第四十四　楊震傳附楊脩》",
+          "quote": "人有白脩與臨淄侯曹植飲醉共載，從司馬門出，謗訕鄢陵侯章。",
+          "display": true
         },
         {
-          "id": "p0003-a03-111-2",
-          "work": "houhanshu",
-          "source": "a03-111",
-          "citation": "《二十四史-後漢書-志第二十一‧郡國三》",
-          "quote": "」曹植禹廟讚曰：「有禹祠，植移于其城，城本名杞城。"
-        },
-        {
-          "id": "p0003-a03-115-3",
+          "id": "cz-hhs-nanzhonglang",
           "work": "houhanshu",
           "source": "a03-115",
-          "citation": "《二十四史-後漢書-志第二十五‧百官二》",
-          "quote": "董卓為東中郎將，盧植為北中郎將，獻帝以曹植為南中郎將。"
+          "paragraph": 17,
+          "citation": "《後漢書·志第二十五·百官二》",
+          "quote": "獻帝以曹植為南中郎將。",
+          "display": true
+        },
+        {
+          "id": "cz-sg-taizizhizheng",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 5,
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+          "quote": "植旣以才見異，而丁儀、丁廙、楊脩等為之羽翼。太祖狐疑，幾為太子者數矣。而植任性而行，不自彫勵，飲酒不節。文帝御之以術，矯情自飾，宮人左右並為之說，故遂定為嗣。",
+          "display": true
+        },
+        {
+          "id": "cz-sg-huangchu-bianjue",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 7,
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+          "quote": "黃初二年，監國謁者灌均希指，奏「植醉酒悖慢，劫脅使者」。有司請治罪，帝以太后故，貶爵安鄉侯。",
+          "display": true
+        },
+        {
+          "id": "cz-sg-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 34,
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+          "quote": "評曰：任城武藝壯猛，有將領之氣。陳思文才富豔，足以自通後葉，然不能克讓遠防，終致攜隙。傳曰「楚則失之矣。而齊亦未為得也」，其此之謂歟！魚豢曰：諺言「貧不學儉，卑不學恭」，非人性分也，勢使然耳。此實然之勢，信不虛矣。假令太祖防遏植等，在於疇昔，此賢之心，何緣有窺望乎？彰之挾恨，尚無所至。至於植者，豈能興難？乃令楊脩以倚注遇害，丁儀以希意族滅，哀夫！余每覽植之華采，思若有神。以此推之，太祖之動心，亦良有以也。",
+          "display": true
+        },
+        {
+          "id": "cz-sg-fengchenwang",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 31,
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+          "quote": "其二月，以陳四縣封植為陳王，邑三千五百戶。植每欲求別見獨談，論及時政，幸兾試用，終不能得。旣還，悵然絕望。時法制，待藩國旣自峻迫，寮屬皆賈豎下才，兵人給其殘老，大數不過二百人。又植以前過，事復減半，十一年中而三徙都，常汲汲無歡，遂發疾薨，時年四十一。",
+          "display": true
         }
-      ]
+      ],
+      "secondReview": {
+        "status": "pilot",
+        "coverage": {
+          "sanguozhi": "in-progress",
+          "peizhu": "in-progress",
+          "houhanshu": "in-progress",
+          "huayang": "in-progress",
+          "jinshu": "in-progress"
+        },
+        "conclusions": [],
+        "evidence": {
+          "cz-sg-chidao-simamen": {
+            "id": "cz-sg-chidao-simamen",
+            "work": "sanguozhi",
+            "source": "a04-019",
+            "paragraph": 6,
+            "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+            "quote": "植嘗乘車行馳道中，開司馬門出。太祖大怒，公車令坐死。由是重諸侯科禁，而植寵日衰。",
+            "display": true
+          },
+          "cz-sg-jiuren-zui": {
+            "id": "cz-sg-jiuren-zui",
+            "work": "sanguozhi",
+            "source": "a04-019",
+            "paragraph": 6,
+            "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+            "quote": "太祖以植為南中郎將，行征虜將軍。欲遣救仁，呼有所勑戒。植醉不能受命，於是悔而罷之。",
+            "display": true
+          },
+          "cz-sg-yangxiu-zui": {
+            "id": "cz-sg-yangxiu-zui",
+            "work": "houhanshu",
+            "source": "a03-054",
+            "paragraph": 39,
+            "citation": "《後漢書·卷五十四 ‧ 列傳第四十四　楊震傳附楊脩》",
+            "quote": "人有白脩與臨淄侯曹植飲醉共載，從司馬門出，謗訕鄢陵侯章。",
+            "display": true
+          },
+          "cz-hhs-nanzhonglang": {
+            "id": "cz-hhs-nanzhonglang",
+            "work": "houhanshu",
+            "source": "a03-115",
+            "paragraph": 17,
+            "citation": "《後漢書·志第二十五·百官二》",
+            "quote": "獻帝以曹植為南中郎將。",
+            "display": true
+          },
+          "cz-sg-taizizhizheng": {
+            "id": "cz-sg-taizizhizheng",
+            "work": "sanguozhi",
+            "source": "a04-019",
+            "paragraph": 5,
+            "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+            "quote": "植旣以才見異，而丁儀、丁廙、楊脩等為之羽翼。太祖狐疑，幾為太子者數矣。而植任性而行，不自彫勵，飲酒不節。文帝御之以術，矯情自飾，宮人左右並為之說，故遂定為嗣。",
+            "display": true
+          },
+          "cz-sg-huangchu-bianjue": {
+            "id": "cz-sg-huangchu-bianjue",
+            "work": "sanguozhi",
+            "source": "a04-019",
+            "paragraph": 7,
+            "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+            "quote": "黃初二年，監國謁者灌均希指，奏「植醉酒悖慢，劫脅使者」。有司請治罪，帝以太后故，貶爵安鄉侯。",
+            "display": true
+          },
+          "cz-sg-pingyue": {
+            "id": "cz-sg-pingyue",
+            "work": "sanguozhi",
+            "source": "a04-019",
+            "paragraph": 34,
+            "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+            "quote": "評曰：任城武藝壯猛，有將領之氣。陳思文才富豔，足以自通後葉，然不能克讓遠防，終致攜隙。傳曰「楚則失之矣。而齊亦未為得也」，其此之謂歟！魚豢曰：諺言「貧不學儉，卑不學恭」，非人性分也，勢使然耳。此實然之勢，信不虛矣。假令太祖防遏植等，在於疇昔，此賢之心，何緣有窺望乎？彰之挾恨，尚無所至。至於植者，豈能興難？乃令楊脩以倚注遇害，丁儀以希意族滅，哀夫！余每覽植之華采，思若有神。以此推之，太祖之動心，亦良有以也。",
+            "display": true
+          },
+          "cz-sg-fengchenwang": {
+            "id": "cz-sg-fengchenwang",
+            "work": "sanguozhi",
+            "source": "a04-019",
+            "paragraph": 31,
+            "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九 陳思王傳》",
+            "quote": "其二月，以陳四縣封植為陳王，邑三千五百戶。植每欲求別見獨談，論及時政，幸兾試用，終不能得。旣還，悵然絕望。時法制，待藩國旣自峻迫，寮屬皆賈豎下才，兵人給其殘老，大數不過二百人。又植以前過，事復減半，十一年中而三徙都，常汲汲無歡，遂發疾薨，時年四十一。",
+            "display": true
+          }
+        },
+        "unresolved": []
+      }
     },
     "p0004": {
       "first": null,
