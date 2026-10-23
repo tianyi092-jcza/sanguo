@@ -25489,6 +25489,33 @@
           "term": "曹純",
           "quote": "最後一車懸豹尾",
           "reason": "《後漢書》輿服志段載屬車豹尾制度，全段無「曹純」字樣，為事件「督虎豹騎」關鍵詞誤命中（豹尾≠虎豹騎）。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhanshu-nanpi2",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 12,
+          "term": "曹純",
+          "quote": "譚被髮驅馳，追者意非恒人，趨奔之。",
+          "reason": "《後漢書·袁紹傳》異本段載建安十年正月南皮攻袁譚、譚墮馬被斬始末，全段無「曹純」字樣，僅為事件（南皮斬袁譚）加權命中；斬譚之事見《三國志·曹純傳》本傳正文，已錄條目 cx-sgz-caochun-bio-core。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-sanguozhi-yanrou",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 4,
+          "term": "曹純",
+          "quote": "臨陣斬蹋頓首，死者被野",
+          "reason": "《三國志·魏書卷三十》閻柔傳附烏丸傳段載建安十一年太祖自征蹋頓於柳城始末，全段無「曹純」字樣，僅為事件（白狼山從征蹋頓）加權命中；白狼山從征事見《三國志·曹純傳》本傳正文，已錄條目 cx-sgz-caochun-bio-core。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-sanguozhi-dongxi",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 31,
+          "term": "曹純",
+          "quote": "今日之會，斷紲之功也",
+          "reason": "《三國志·吳書卷十》董襲傳段載建安十三年孫權討黃祖、董襲斷紲破蒙衝始末，全段無「曹純」字樣，與曹純無涉，僅為事件關鍵詞加權誤命中。排除。"
         }
       ],
       "unresolved": [],
