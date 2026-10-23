@@ -23460,7 +23460,41 @@
       "id": "p0007",
       "name": "曹爽",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "cs-sgz-shaodi-fuzheng",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 1,
+          "from": "景初三年正月丁亥朔，帝甚病，乃立為皇太子",
+          "through": "大將軍曹爽、太尉司馬宣王輔政。",
+          "citation": "《三國志·卷四 ‧ 魏書四　三少帝紀第四》所載",
+          "context": "景初三年（239）正月",
+          "note": "明帝病危立齊王芳為皇太子，芳即位後詔以大將軍曹爽、太尉司馬宣王輔政。曹爽奉明帝遺命輔政，屬魏室正統，此階段非獨立勢力。"
+        },
+        {
+          "id": "cs-sgz-gaopingling-bian",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 17,
+          "from": "太傅司馬宣王奏免大將軍曹爽",
+          "through": "夷三族。語在爽傳。",
+          "citation": "《三國志·卷四 ‧ 魏書四　三少帝紀第四》所載",
+          "context": "嘉平元年（249）正月",
+          "note": "司馬懿乘曹芳謁高平陵發動政變，罷曹爽兄弟官職，繼而以謀反罪夷爽三族。曹爽生平敗亡終結點。裴注（孔衍漢魏春秋）另層，未併入。"
+        },
+        {
+          "id": "cs-sgz-biozhuan-fuzhu",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 44,
+          "from": "初，張當私以所擇才人張、何等與爽",
+          "through": "皆伏誅，夷三族。",
+          "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九》所載",
+          "context": "嘉平元年（249）",
+          "note": "本傳正文記曹爽伏誅經過：黃門張當供出爽與何晏等陰謀反逆，公卿廷議定為大逆不道，皆伏誅，夷三族。裴注（魏略曰鄧颺、丁謐事）另層，未併入。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
