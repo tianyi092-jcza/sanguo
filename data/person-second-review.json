@@ -21601,6 +21601,33 @@
           "from": "留曹仁、徐晃於江陵，使樂進守襄陽。",
           "through": "時甘寧在夷陵，為仁黨所圍，用呂蒙計，留凌統以拒仁，以其半救寧，軍以勝反。",
           "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二 吳主傳》"
+        },
+        {
+          "id": "cr-sg-wz-xiangyang",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 17,
+          "from": "二十四年，關羽圍曹仁於襄陽，曹公遣左將軍于禁救之。",
+          "through": "驛傳權書，使曹仁以弩射示羽。",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二 吳主傳》"
+        },
+        {
+          "id": "cr-sg-wz-rusu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 21,
+          "from": "三月，曹仁遣將軍常彫等，以兵五千，乘油舩，晨渡濡須中州。",
+          "through": "是月，魏軍皆退。",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二 吳主傳》"
+        },
+        {
+          "id": "cr-sg-zy-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 5,
+          "from": "曹公留曹仁等守江陵城，徑自北歸。",
+          "through": "曹公留曹仁等守江陵城，徑自北歸。",
+          "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 周瑜傳》"
         }
       ],
       "exclusions": [],
