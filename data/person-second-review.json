@@ -24631,9 +24631,38 @@
           "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》所載",
           "context": "十二月",
           "note": "明帝即位後十二月大封群臣：曹休由征東大將軍遷大司馬，與曹真、陳羣、司馬懿等同列輔政重臣，位居三公之首。"
+        },
+        {
+          "id": "cx-sgz-mingdi-shiting-zhong",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 5,
+          "from": "秋九月，曹休率諸軍至皖，與吳將陸議戰於石亭，敗績。",
+          "through": "庚子，大司馬曹休薨。",
+          "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》所載",
+          "context": "秋九月",
+          "note": "繫年太和二年（228）：秋九月曹休率諸軍至皖，與吳將陸議（陸遜）戰於石亭，敗績；是年庚子日，大司馬曹休薨。"
+        },
+        {
+          "id": "cx-sgz-shaodi-miaoting-si",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 9,
+          "from": "秋七月，詔祀故大司馬曹真、曹休",
+          "through": "於太祖廟庭。",
+          "citation": "《三國志·卷四 ‧ 魏書四　三少帝紀第四》所載",
+          "context": "秋七月",
+          "note": "繫年正始四年（243）七月：齊王芳詔祀故大司馬曹真、曹休等功臣於太祖廟庭。曹休卒於太和二年（228），薨後十五年配享太祖廟庭，見其功臣地位。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "cx-sgz-caoxiuchuan-mulu",
+          "source": "a04-009",
+          "paragraph": 29,
+          "reason": "僅為「曹休傳」傳目/章節標題行，無實際敘述文字，不含史事信息，故排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
