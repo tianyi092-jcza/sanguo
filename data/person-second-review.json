@@ -21493,6 +21493,33 @@
           "from": "征南將軍曹仁討平音，表余行狀，并脩祭醊。",
           "through": "征南將軍曹仁討平音，表余行狀，并脩祭醊。",
           "citation": "《三國志·魏書四　三少帝紀》"
+        },
+        {
+          "id": "cr-sg-jx-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 26,
+          "from": "故曹仁守江陵，敗不旋踵，何撫安之得行，稽服之可期？",
+          "through": "故曹仁守江陵，敗不旋踵，何撫安之得行，稽服之可期？",
+          "citation": "《三國志·魏書十　荀彧荀攸賈詡傳》"
+        },
+        {
+          "id": "cr-sg-dz-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 23,
+          "from": "及關羽圍曹仁於樊",
+          "through": "圍裏聞之，志氣百倍。",
+          "citation": "《三國志·魏書十四　程郭董劉蔣劉傳》"
+        },
+        {
+          "id": "cr-sg-jj-zhengwu",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 39,
+          "from": "黃初三年，與大司馬曹仁征吳，濟別襲羨溪。",
+          "through": "仁薨，復以濟為東中郎將，代領其兵。",
+          "citation": "《三國志·魏書十四　程郭董劉蔣劉傳》"
         }
       ],
       "exclusions": [],
