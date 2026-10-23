@@ -22633,6 +22633,33 @@
           "from": "諸葛亮出秦川，大將軍曹真督諸軍拒亮，",
           "through": "真薨，司馬宣王代之，襲復為軍師，增邑三百，并前五百五十戶。",
           "citation": "《三國志·卷二十三 ‧ 魏書二十三　和常楊杜趙裴傳第二十三 杜襲傳》"
+        },
+        {
+          "id": "cz-sg-xinpi-jiangling222",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 5,
+          "from": "上軍大將軍曹真征朱然于江陵",
+          "through": "毗行軍師。",
+          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 辛毗傳》"
+        },
+        {
+          "id": "cz-sg-yangfu-fashu",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 18,
+          "from": "是時大司馬曹真伐蜀，遇雨不進。",
+          "through": "帝即召諸軍還。",
+          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
+        },
+        {
+          "id": "cz-sg-houzhu-fashu230",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 9,
+          "from": "八年秋，魏使司馬懿由西城，張郃由子午，曹真由斜谷",
+          "through": "真等皆還。",
+          "citation": "《三國志·卷三十三 ‧ 蜀書三　後主傳第三》"
         }
       ],
       "exclusions": [
