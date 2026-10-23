@@ -24598,7 +24598,41 @@
       "id": "p0008",
       "name": "曹休",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "cx-sgz-wendi-tuogu",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 35,
+          "from": "夏五月丙辰，帝疾篤，召中軍大將軍曹真、鎮軍大將軍陳羣、征東大將軍曹休",
+          "through": "並受遺詔輔嗣主。",
+          "citation": "《三國志·卷二 ‧ 魏書二　文帝紀第二》所載",
+          "context": "夏五月丙辰",
+          "note": "黃初七年（226）五月，文帝病篤，召曹真、陳羣、曹休、司馬懿並受遺詔輔嗣主。曹休時任征東大將軍，與諸臣共受託孤輔佐少主（明帝），屬魏室正統之列。"
+        },
+        {
+          "id": "cx-sgz-xunyang-pojun",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 2,
+          "from": "征東大將軍曹休又破其別將於尋陽",
+          "through": "征東大將軍曹休又破其別將於尋陽。",
+          "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》所載",
+          "context": "吳將諸葛瑾、張霸等寇襄陽",
+          "note": "明帝即位之初，吳將諸葛瑾、張霸寇襄陽，司馬懿討破之斬霸；征東大將軍曹休又破吳別將於尋陽。曹休鎮守東方、拒吳有功，此階段為魏臣守土。"
+        },
+        {
+          "id": "cx-sgz-bai-dasima",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 2,
+          "from": "征東大將軍曹休為大司馬",
+          "through": "征東大將軍曹休為大司馬，中軍大將軍曹真為大將軍",
+          "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》所載",
+          "context": "十二月",
+          "note": "明帝即位後十二月大封群臣：曹休由征東大將軍遷大司馬，與曹真、陳羣、司馬懿等同列輔政重臣，位居三公之首。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
