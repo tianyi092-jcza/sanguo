@@ -21628,6 +21628,33 @@
           "from": "曹公留曹仁等守江陵城，徑自北歸。",
           "through": "曹公留曹仁等守江陵城，徑自北歸。",
           "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 周瑜傳》"
+        },
+        {
+          "id": "cr-sg-zh-rusu",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 32,
+          "from": "黃武元年，魏使大司馬曹仁步騎數萬向濡須，",
+          "through": "臨陣斬溺，死者千餘。",
+          "citation": "《三國志·卷五十六 ‧ 吳書十一　朱治朱然呂範朱桓傳第十一 朱桓傳》"
+        },
+        {
+          "id": "cr-sg-wdj-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 32,
+          "from": "鄉侯劉展、",
+          "through": "等勸進曰：",
+          "citation": "《三國志·卷一 ‧ 魏書一　武帝紀第一》"
+        },
+        {
+          "id": "cr-sg-wdj2-zhengan",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 17,
+          "from": "夏四月，以車騎將軍曹仁為大將軍。",
+          "through": "五月，鄭甘復叛，遣曹仁討斬之。",
+          "citation": "《三國志·卷二 ‧ 魏書二　文帝紀第二》"
         }
       ],
       "exclusions": [],
