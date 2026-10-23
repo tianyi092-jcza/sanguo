@@ -25570,6 +25570,33 @@
           "term": "曹純",
           "quote": "最後車懸豹尾",
           "reason": "《晉書·卷二十五 ‧ 志第十五》載鹵簿輿服制度「法駕屬車三十六乘。最後車懸豹尾」，全段無「曹純」字樣；「豹尾」與曹純督虎豹騎無關。僅為「豹」字面加權誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhan-zhangyan",
+          "work": "houhanshu",
+          "source": "a03-071.json",
+          "paragraph": 23,
+          "term": "曹純",
+          "quote": "燕乃遣使至京師，奏書乞降，遂拜燕平難中郎將",
+          "reason": "《後漢書·卷七十一 ‧ 列傳第六十一》張燕傳：全段記黑山賊張燕事，無「曹純」字樣；事件加權「白狼山從征蹋頓」誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-jinshu-wangbao",
+          "work": "jinshu",
+          "source": "a05-089-ahcb.json",
+          "paragraph": 14,
+          "term": "曹純",
+          "quote": "豹致牋於冏曰",
+          "reason": "《晉書·卷八十九 ‧ 列傳第五十九》王豹傳：王豹為齊王冏主簿致牋，全段無「曹純」字樣；事件加權「督虎豹騎」誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-jinshu-mengxun",
+          "work": "jinshu",
+          "source": "a05-126-ahcb.json",
+          "paragraph": 31,
+          "term": "曹純",
+          "quote": "蒙遜進圍姑臧",
+          "reason": "《晉書·卷一百二十六 ‧ 載記第二十六》沮渠蒙遜圍姑臧事，全段無「曹純」字樣；事件加權「白狼山從征蹋頓」誤命中。排除。"
         }
       ],
       "unresolved": [],
