@@ -26044,7 +26044,7 @@
     {
       "id": "p0011",
       "name": "曹叡",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "cx-sgz-caorui-jiangwan-zhaowen",
@@ -26986,13 +26986,26 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": {
+        "death": {
+          "year": 239,
+          "precision": "exact",
+          "preferredSource": "sanguozhi",
+          "evidence": [
+            "cx-sgz-caorui-caoshuang-tuogu",
+            "cx-jin-caorui-tuogu"
+          ],
+          "variants": [],
+          "note": "明帝紀繫景初三年（239）正月崩；曹爽傳他傳載寢疾之際引曹爽入臥內、拜大將軍都督中外諸軍事、與司馬宣王並受遺詔輔少主，為崩前託孤之他傳旁證。辛憲英傳於嘉平元年（249）追述「明皇帝臨崩，把太傅臂，屬以後事」，為託孤說之晋書旁證。生年存異說，本輪不立結論。"
+        }
+      },
+      "reviewedOn": "2026-10-24"
     }
   ]
 }
