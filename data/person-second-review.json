@@ -25597,6 +25597,33 @@
           "term": "曹純",
           "quote": "蒙遜進圍姑臧",
           "reason": "《晉書·卷一百二十六 ‧ 載記第二十六》沮渠蒙遜圍姑臧事，全段無「曹純」字樣；事件加權「白狼山從征蹋頓」誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhan-yufu",
+          "work": "houhanshu",
+          "source": "a03-119.json",
+          "paragraph": 8,
+          "term": "曹純",
+          "quote": "一曰闟猪車，親校獵乘之",
+          "reason": "《後漢書·志第二十九 ‧ 輿服上》載獵車制式闟猪車條目，全段無「曹純」字樣；事件加權「督虎豹騎」誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-jinshu-jilong",
+          "work": "jinshu",
+          "source": "a05-106-ahcb.json",
+          "paragraph": 68,
+          "term": "曹純",
+          "quote": "季龍性既好獵",
+          "reason": "《晉書·卷一百六 ‧ 載記第六》石季龍好獵造獵車事，全段無「曹純」字樣；事件加權「督虎豹騎」誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhan-yueji",
+          "work": "houhanshu",
+          "source": "a03-117.json",
+          "paragraph": 39,
+          "term": "曹純",
+          "quote": "越騎校尉一人，比二千石",
+          "reason": "《後漢書·志第二十七 ‧ 百官四》越騎校尉官制條，全段無「曹純」字樣；事件加權「督虎豹騎」誤命中。排除。"
         }
       ],
       "unresolved": [],
