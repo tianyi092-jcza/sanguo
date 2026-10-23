@@ -27045,8 +27045,39 @@
       "id": "p0013",
       "name": "曹髦",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "caomao-exc-001",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 27,
+          "from": "丁丑，令曰：「東海王霖，高祖文皇帝之子",
+          "through": "其以為明皇帝嗣。」",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "齊王芳廢後，皇太后令立東海定王霖子髦為明皇帝（曹叡）嗣。髦時封高貴鄉公，241年生，即位時年十四；此後為曹魏皇帝，然實權在司馬氏。"
+        },
+        {
+          "id": "caomao-exc-002",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 27,
+          "from": "魏書曰：景王復與羣臣共奏永寧宮曰：「臣等聞人道親親故尊祖",
+          "through": "臣請徵公詣洛陽宮。」",
+          "citation": "《三國志·三少帝紀》裴注引《魏書》所載",
+          "note": "裴注層：司馬師（景王）與群臣奏永寧宮（皇太后），以「大宗無嗣擇支子之賢者」擇立高貴鄉公髦承明帝統，徵迎於元城。與正文立嗣令分層記錄。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "caomao-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 27,
+          "term": "高貴鄉公",
+          "quote": "魏世譜曰：晉受禪，封齊王為邵陵縣公。年四十三，泰始十年薨，謚曰厲公。",
+          "reason": "同段裴注引《魏世譜》記齊王芳（曹芳）晉受禪後封爵薨謚，與曹髦無關；本段候選命中「高貴鄉公」來自立嗣令與《魏書》奏兩層，此層不錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
