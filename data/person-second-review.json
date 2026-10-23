@@ -25624,6 +25624,33 @@
           "term": "曹純",
           "quote": "越騎校尉一人，比二千石",
           "reason": "《後漢書·志第二十七 ‧ 百官四》越騎校尉官制條，全段無「曹純」字樣；事件加權「督虎豹騎」誤命中。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-jinshu-jilong-quma",
+          "work": "jinshu",
+          "source": "a05-106-ahcb.json",
+          "paragraph": 54,
+          "term": "曹純",
+          "quote": "季龍又取州郡吏馬一萬四千餘匹",
+          "reason": "《晉書·卷一百六 ‧ 載記第六》石季龍取州郡吏馬配曜武關將事，全段無「曹純」字樣；事件加權「督虎豹騎」誤命中（馬/騎語義漂移）。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-houhan-xiandi-nanpi",
+          "work": "houhanshu",
+          "source": "a03-009.json",
+          "paragraph": 18,
+          "term": "曹純",
+          "quote": "十年春正月，曹操破袁譚於青州，斬之",
+          "reason": "《後漢書·卷九 ‧ 孝獻帝紀》建安十年條，全段無「曹純」字樣；南皮戰事曹純本傳已有核心條目，帝紀僅宏觀敘事、無新增信息。排除。"
+        },
+        {
+          "id": "cx-sgz-caochun-excl-jinshu-shile-liaoqiu",
+          "work": "jinshu",
+          "source": "a05-104-ahcb.json",
+          "paragraph": 35,
+          "term": "曹純",
+          "quote": "勒將支雄攻劉演於廩丘",
+          "reason": "《晉書·卷一百四 ‧ 載記第四》石勒永嘉年間戰事，全段無「曹純」字樣；繫年遠在曹純卒後（建安十五年 210），事件加權「白狼山從征蹋頓」誤命中。排除。"
         }
       ],
       "unresolved": [],
