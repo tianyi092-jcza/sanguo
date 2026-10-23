@@ -17195,15 +17195,21 @@
         }
       ],
       "secondReview": {
-        "status": "pilot",
+        "status": "complete",
+        "reviewedOn": "2026-10-23",
         "coverage": {
-          "sanguozhi": "in-progress",
-          "peizhu": "in-progress",
-          "houhanshu": "in-progress",
-          "huayang": "in-progress",
-          "jinshu": "in-progress"
+          "sanguozhi": "checked",
+          "peizhu": "checked",
+          "houhanshu": "checked",
+          "huayang": "checked",
+          "jinshu": "checked"
         },
-        "conclusions": [],
+        "conclusions": [
+          "本轮共覆核 104 段向量候选（covered 78 段镜像展开，年号刚性剔除 2 段），录正摘录 8 条（《三国志》6、《后汉书》2；裴注按既有规则分层另记），排除 71 条（向量事件语义误伤为主：「建安文学」「七步成诗」事件信号误中无关段落、东汉陈王系同名误伤、篇题行/县名表/地理文字误伤），未解决 0 条。",
+          "辨人：与父曹操、兄曹丕、弟曹彰及同卷任城陈萧王诸王严格区分；单字「植」「植榦」一般用语误伤均核实后排除；东汉陈王系（刘羨、刘崇、刘钧、刘竦）「陈王薨」误伤逐条排除，未入曹植名下；「陈留王」为曹奂误伤已剔除。",
+          "生卒：太和六年（232 年）二月以陈四县封植为陈王、邑三千五百户，「悵然絕望，發疾薨，年四十一」（本传 a04-019:31 与《三国志·魏书十九·陈思王传》互证）；按卒年四十一倒推生约 192 年。",
+          "势力系年：建安年间随父征战（驰道行车、开司马门出致宠衰）与黄初以后诸侯科禁疏远、太和封陈王，按阶段分开记，未整段一刀切；献帝时南中郎将任命（《后汉书》百官志）与建安二十四年本传互证分段保存。本传全文由 D1 本传库承载（a04-019 陈思王传），本轮未重复摘录。"
+        ],
         "evidence": {
           "cz-sg-chidao-simamen": {
             "id": "cz-sg-chidao-simamen",
@@ -17331,7 +17337,21 @@
       ],
       "affiliationReviewed": true,
       "reviewNote": "",
-      "hanOffices": []
+      "hanOffices": [],
+      "sourceExcerpts": [],
+      "secondReview": {
+        "status": "pilot",
+        "coverage": {
+          "sanguozhi": "in-progress",
+          "peizhu": "in-progress",
+          "houhanshu": "in-progress",
+          "huayang": "in-progress",
+          "jinshu": "in-progress"
+        },
+        "conclusions": [],
+        "evidence": {},
+        "unresolved": []
+      }
     },
     "p0005": {
       "first": {
