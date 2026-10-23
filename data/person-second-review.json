@@ -21808,6 +21808,33 @@
           "from": "曹仁出濡須，戰有功",
           "through": "曹仁出濡須，戰有功",
           "citation": "《三國志·卷五十五 ‧ 吳書十　程黃韓蔣周陳董甘凌徐潘丁傳第十》"
+        },
+        {
+          "id": "cr-sg-gn-nanjun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 36,
+          "from": "攻曹仁於南郡，未拔",
+          "through": "攻曹仁於南郡，未拔",
+          "citation": "《三國志·卷五十五 ‧ 吳書十　程黃韓蔣周陳董甘凌徐潘丁傳第十 甘寧傳》"
+        },
+        {
+          "id": "cr-sg-lt-nanjun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 45,
+          "from": "遂攻曹仁，遷為校尉",
+          "through": "遂攻曹仁，遷為校尉",
+          "citation": "《三國志·卷五十五 ‧ 吳書十　程黃韓蔣周陳董甘凌徐潘丁傳第十 凌統傳》"
+        },
+        {
+          "id": "cr-sg-lt2-rushu",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 26,
+          "from": "黃武初，曹仁攻濡須",
+          "through": "黃武初，曹仁攻濡須",
+          "citation": "《三國志·卷五十七 ‧ 吳書十二　虞陸張駱陸吾朱傳第十二 駱統傳》"
         }
       ],
       "exclusions": [
