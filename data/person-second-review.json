@@ -22414,6 +22414,50 @@
       ],
       "unresolved": [],
       "conclusions": []
+    },
+    {
+      "id": "p0006",
+      "name": "曹真",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [
+        {
+          "id": "cz-sg-cz-bio1",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 36,
+          "from": "曹真字子丹，太祖族子也。太祖起兵，真父邵募徒衆，為州郡所殺。",
+          "through": "太祖壯其鷙勇，使將虎豹騎。",
+          "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九 曹真傳》"
+        },
+        {
+          "id": "cz-sg-mdj-jieting",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 5,
+          "from": "遣大將軍曹真都督關右，並進兵。",
+          "through": "亮敗走，三郡平。",
+          "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》"
+        },
+        {
+          "id": "cz-sg-zhanghe-gongtong",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 18,
+          "from": "詔郃與曹真討安定盧水胡及東羌",
+          "through": "遣南與夏侯尚擊江陵。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七 張郃傳》"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "conclusions": []
     }
   ]
 }
