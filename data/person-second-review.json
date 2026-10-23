@@ -22579,6 +22579,33 @@
           "from": "太和中，遣曹真從子午道伐蜀，車駕東幸許昌。",
           "through": "時秋大雨，詔真引軍還。",
           "citation": "《三國志·卷十三 ‧ 魏書十三　鍾繇華歆王朗傳第十三 華歆傳》"
+        },
+        {
+          "id": "cz-sg-wangsu-jianfashu",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 24,
+          "from": "四年，大司馬曹真征蜀，肅上疏曰：「",
+          "through": "於是遂罷。",
+          "citation": "《三國志·卷十三 ‧ 魏書十三　鍾繇華歆王朗傳第十三 王肅傳》"
+        },
+        {
+          "id": "cz-sg-sunzi-zhaohuan",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 48,
+          "from": "文皇帝始召曹真還時，親詔臣以重慮",
+          "through": "纖介不間。",
+          "citation": "《三國志·卷十四 ‧ 魏書十四　程郭董劉蔣劉傳第十四 孫資傳》"
+        },
+        {
+          "id": "cz-sg-wuzhi-bohai",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 15,
+          "from": "初，曹真、曹休亦與質等俱在渤海游處",
+          "through": "出為列將，而質故為長史。",
+          "citation": "《三國志·卷二十一 ‧ 魏書二十一　王衛二劉傅傳第二十一 吳質傳》"
         }
       ],
       "exclusions": [
