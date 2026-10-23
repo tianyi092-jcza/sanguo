@@ -27994,6 +27994,22 @@
         "生卒：生 241 年；卒甘露五年五月己丑（260 年），南阙下为太子舍人成济所弑，年二十；与《三国志·三少帝纪》正文、《汉晋春秋》及《晋书·文帝纪》互证确定。",
         "本传在《三国志》卷四三少帝纪（a04-004），本轮正文、裴注、他传分层摘录；皇后为卞隆女（卞氏）；遇害后以王礼葬（司马孚上表，裴注引《汉晋春秋》松之驳附记）。"
       ]
+    },
+    {
+      "id": "p0014",
+      "name": "曹奐",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
