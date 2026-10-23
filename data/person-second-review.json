@@ -22453,6 +22453,33 @@
           "from": "詔郃與曹真討安定盧水胡及東羌",
           "through": "遣南與夏侯尚擊江陵。",
           "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七 張郃傳》"
+        },
+        {
+          "id": "cz-sg-zhugeliang-jigu228",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 11,
+          "from": "六年春，揚聲由斜谷道取郿，使趙雲、鄧芝為疑軍，據箕谷，魏大將軍曹真舉衆拒之。",
+          "through": "六年春，揚聲由斜谷道取郿，使趙雲、鄧芝為疑軍，據箕谷，魏大將軍曹真舉衆拒之。",
+          "citation": "《三國志·卷三十五 ‧ 蜀書五　諸葛亮傳第五》"
+        },
+        {
+          "id": "cz-sg-zhugeliang-chencang228",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 12,
+          "from": "冬，亮復出散關，圍陳倉，曹真拒之，亮糧盡而還。",
+          "through": "冬，亮復出散關，圍陳倉，曹真拒之，亮糧盡而還。",
+          "citation": "《三國志·卷三十五 ‧ 蜀書五　諸葛亮傳第五》"
+        },
+        {
+          "id": "cz-sg-zhaoyun-jigu228",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "from": "明年，亮出軍，揚聲由斜谷道，曹真遣大衆當之。",
+          "through": "明年，亮出軍，揚聲由斜谷道，曹真遣大衆當之。",
+          "citation": "《三國志·卷三十六 ‧ 蜀書六　關張馬黃趙傳第六 趙雲傳》"
         }
       ],
       "exclusions": [],
