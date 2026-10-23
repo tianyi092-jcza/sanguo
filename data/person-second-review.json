@@ -21835,6 +21835,15 @@
           "from": "黃武初，曹仁攻濡須",
           "through": "黃武初，曹仁攻濡須",
           "citation": "《三國志·卷五十七 ‧ 吳書十二　虞陸張駱陸吾朱傳第十二 駱統傳》"
+        },
+        {
+          "id": "cr-js-xd-fancheng",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 3,
+          "from": "及蜀將關羽圍曹仁於樊，于禁等七軍皆沒，脩、方果降羽，而仁圍甚急焉。",
+          "through": "及蜀將關羽圍曹仁於樊，于禁等七軍皆沒，脩、方果降羽，而仁圍甚急焉。",
+          "citation": "《晉書·卷一·帝紀第一·宣帝紀》"
         }
       ],
       "exclusions": [
@@ -21846,6 +21855,24 @@
           "term": "曹仁",
           "quote": "曹仁傳",
           "reason": "僅為本傳傳目標題段落，無實質史料內容，排除。"
+        },
+        {
+          "id": "cr-excl-002",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 4,
+          "term": "曹仁",
+          "quote": "及蜀將關羽圍曹仁於樊，于禁等七軍皆沒，脩、方果降羽，而仁圍甚急焉。",
+          "reason": "與 sidneyluo 本 a05-001 第 3 段同文（Ancient China Books 異版再載），已依 sidneyluo 本立摘錄 cr-js-xd-fancheng，不重複摘錄，排除。"
+        },
+        {
+          "id": "cr-excl-003",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 8,
+          "term": "曹仁",
+          "quote": "時曹仁鎮襄陽，請召仁還宛。",
+          "reason": "與 sidneyluo 本 a05-001 第 4 段同文（Ancient China Books 異版再載），候選中已有 sidneyluo 本對應段（a05-001:4），留待以 sidneyluo 本立摘錄，此處不重複摘錄，排除。"
         }
       ],
       "unresolved": [],
