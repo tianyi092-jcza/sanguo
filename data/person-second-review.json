@@ -22687,6 +22687,33 @@
           "from": "以曹真欲三道向漢川，亮命嚴將二萬人赴漢中。",
           "through": "以曹真欲三道向漢川，亮命嚴將二萬人赴漢中。",
           "citation": "《三國志·卷四十 ‧ 蜀書十　劉彭廖李劉魏楊傳第十　李嚴傳》"
+        },
+        {
+          "id": "cz-sg-wuzhu-weinan222",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 20,
+          "from": "魏乃命曹休、張遼、臧霸出洞口，曹仁出濡須，曹真、夏侯尚、張郃、徐晃圍南郡。",
+          "through": "魏乃命曹休、張遼、臧霸出洞口，曹仁出濡須，曹真、夏侯尚、張郃、徐晃圍南郡。",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二　吳主傳》"
+        },
+        {
+          "id": "cz-sg-wuzhu-jiangzhou223",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 21,
+          "from": "二年春正月，曹真分軍據江陵中州。",
+          "through": "二年春正月，曹真分軍據江陵中州。",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二　吳主傳》"
+        },
+        {
+          "id": "cz-sg-zhugejin-wulu223",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 24,
+          "from": "吳錄曰：曹真、夏侯尚等圍朱然於江陵，又分據中州，瑾以大兵為之救援。",
+          "through": "瑾進攻浮橋，真等退走。",
+          "citation": "《三國志·卷五十二 ‧ 吳書七　張顧諸葛步傳第七　諸葛瑾傳》"
         }
       ],
       "exclusions": [
