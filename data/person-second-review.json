@@ -33911,6 +33911,22 @@
           "note": "《三國志》卷二文帝紀載黃初四年六月甲申太尉賈詡薨，卒年223年。"
         }
       }
+    },
+    {
+      "id": "p0023",
+      "name": "郭嘉",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
