@@ -29200,6 +29200,33 @@
           "from": "與夏侯淵討黃巾餘賊徐和等",
           "through": "遷徐州刺史。",
           "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu18-lvjian-huijixuhe",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 19,
+          "from": "虔引兵與夏侯淵會擊之",
+          "through": "斬首獲生數千人。",
+          "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu18-yanwen-gaoji",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 34,
+          "from": "州乃遣溫密出，告急於夏侯淵。",
+          "through": "州乃遣溫密出，告急於夏侯淵。",
+          "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu23-duxi-yangpingmo",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 19,
+          "from": "夏侯淵為劉備所沒",
+          "through": "三軍遂定。",
+          "citation": "《三國志·魏書二十三·和常楊杜趙裴傳》"
         }
       ],
       "exclusions": [
