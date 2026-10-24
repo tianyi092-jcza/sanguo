@@ -36726,6 +36726,16 @@
           "through": "及文帝踐阼，改為司空，進封樂平鄉侯。",
           "citation": "《三國志·魏書十三 鍾繇華歆王朗傳》",
           "note": "正文層；文帝踐阼，朗改任司空，進封樂平鄉侯。"
+        },
+        {
+          "id": "lang-sg-jian-yujin",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "from": "朗異之，薦禁才任大將軍。",
+          "through": "朗異之，薦禁才任大將軍。",
+          "citation": "《三國志·魏書十七 于禁傳》",
+          "note": "正文層；于禁傳載，禁屬將軍王朗，朗異之，薦其才可任大將軍。"
         }
       ],
       "exclusions": [
@@ -36791,6 +36801,24 @@
           "term": "王朗",
           "quote": "王朗傳子名肅",
           "reason": "僅交代王朗之子名肅，無王朗本人言行事蹟，不單獨立為摘錄。"
+        },
+        {
+          "id": "lang-excl-pingyue-fanzan",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 31,
+          "term": "王朗",
+          "quote": "王朗文博富贍，誠皆一時之俊偉也",
+          "reason": "評曰與鍾繇、華歆並列泛贊，無王朗本人具體言行事蹟；本段後半主角為其子王肅，不單獨立為摘錄。"
+        },
+        {
+          "id": "lang-excl-wangcan-dianlue",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 3,
+          "term": "王朗",
+          "quote": "鍾繇、王朗等雖各為魏卿相，至於朝廷奏議，皆閣筆不能措手",
+          "reason": "典略僅以王朗為襯托對比王粲辯才，無王朗本人具體言行事蹟，不單獨立為摘錄。"
         }
       ],
       "conclusions": [],
