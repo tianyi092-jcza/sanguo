@@ -35425,6 +35425,22 @@
         "勢力繫年：所錄各條皆繫於曹魏朝事，依段落繫年分開標記，未整段一刀切。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0028",
+      "name": "鍾繇",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
