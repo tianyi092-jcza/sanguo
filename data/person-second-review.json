@@ -27998,7 +27998,7 @@
     {
       "id": "p0014",
       "name": "曹奐",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "caohuan-sg-accession",
@@ -28635,13 +28635,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪累計覆核候選 16 條向量候選位點（連同前序輪次共覆核 70 個段落位點），錄正摘錄 4 條（《三國志·三少帝紀》3：即位/禪位正文分層、《晉書·武帝紀》1：降封陳留王），排除 66 條（向量事件信號誤擊為主，如「咸熙二年禪位司馬炎」「降封陳留王」語義相近段落），未解決 0 條。",
+        "辨人：與齊王曹芳、常道鄉公曹髦及司馬昭嚴格區分；「陳留王」為禪位後降封封號，凡僅因「陳留」地名或東漢封王舊事命中者一律排除；單字命中均核實確指曹奐本人後方錄入。",
+        "勢力繫年：甘露五年曹髦被弒後由司馬昭立為帝，咸熙年間（264—265）為曹魏名義皇帝；咸熙二年禪位於司馬炎，降封陳留王，未整段一刀切。",
+        "本傳在《三國志》卷四魏書四·三少帝紀（a04-004）與曹芳、曹髦同卷，本輪正文、裴注分層摘錄；禪位後降封陳留王事與《晉書·武帝紀》互證確定。"
+      ]
     }
   ]
 }
