@@ -36537,6 +36537,55 @@
         "本傳在《三國志》卷十三鍾繇華歆王朗傳第十三（a04-013），本輪摘錄本傳正文開篇、仕歷、舉管寧轉太尉 3 段，其餘由 D1 本傳庫承載，不重複摘錄。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0030",
+      "name": "王朗",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [
+        {
+          "id": "lang-hhs-huanye-taishou",
+          "work": "houhanshu",
+          "source": "a03-037",
+          "paragraph": 26,
+          "from": "太守王朗餉給糧食、布帛、牛羊",
+          "through": "一無所留。",
+          "citation": "《後漢書·桓曄傳》引《東觀記》所載",
+          "context": "初平中",
+          "note": "注文層（東觀記）；桓曄避地會稽時，王朗任會稽太守，餉給糧食布帛牛羊，曄一無所留。"
+        },
+        {
+          "id": "lang-hhs-yuanzhong-taishou",
+          "work": "houhanshu",
+          "source": "a03-045",
+          "paragraph": 23,
+          "from": "一見太守王朗徒從整飾",
+          "through": "遂稱病自絕。",
+          "citation": "《後漢書·袁忠傳》所載",
+          "context": "初平中",
+          "note": "正文層；袁忠客會稽上虞時見王朗徒從整飾而心嫌，稱病自絕。注文另載王朗字景興、王肅之父，不與正文合併。"
+        },
+        {
+          "id": "lang-hhs-wangchong-lunheng",
+          "work": "houhanshu",
+          "source": "a03-049",
+          "paragraph": 2,
+          "from": "其後王朗為會稽太守",
+          "through": "時人稱其才進。",
+          "citation": "《後漢書·王充傳》引《袁山松書》所載",
+          "note": "注文層（袁山松書）；王朗任會稽太守時又得《論衡》，還許下後時人稱其才進。"
+        }
+      ],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
