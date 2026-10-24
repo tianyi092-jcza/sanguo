@@ -28850,6 +28850,33 @@
           "from": "後權乞降，太祖還，留霸與夏侯惇等屯居巢。",
           "through": "後權乞降，太祖還，留霸與夏侯惇等屯居巢。",
           "citation": "《三國志·魏書十八·臧霸傳》"
+        },
+        {
+          "id": "xiahoudun-sg-dianwei",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 25,
+          "from": "後屬夏侯惇，數斬首有功，拜司馬。",
+          "through": "後屬夏侯惇，數斬首有功，拜司馬。",
+          "citation": "《三國志·魏書十八·典韋傳》"
+        },
+        {
+          "id": "xiahoudun-sg-weizhen",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 26,
+          "from": "夏侯惇為陳留太守，舉臻計吏",
+          "through": "惇怒，執臻，旣而赦之。",
+          "citation": "《三國志·魏書二十二·衛臻傳》"
+        },
+        {
+          "id": "xiahoudun-sg-xianzhu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 4,
+          "from": "曹公遣夏侯惇往，不能救，為順所敗",
+          "through": "曹公遣夏侯惇往，不能救，為順所敗",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
