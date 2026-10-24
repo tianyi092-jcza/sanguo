@@ -29281,6 +29281,33 @@
           "from": "建安二十四年，於漢中定軍山擊夏侯淵。",
           "through": "一戰斬淵，淵軍大敗。",
           "citation": "《三國志·蜀書六·黃忠傳》"
+        },
+        {
+          "id": "xiahouyuan-zhaoyun-dingjunshan-xu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "from": "夏侯淵敗，曹公爭漢中地，運米北山下，數千萬囊。",
+          "through": "夏侯淵敗，曹公爭漢中地，運米北山下，數千萬囊。",
+          "citation": "《三國志·蜀書六·趙雲傳》"
+        },
+        {
+          "id": "xiahouyuan-fazheng-dingjunshan-ce",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 12,
+          "from": "留夏侯淵、張郃屯守，身遽北還，",
+          "through": "大破淵軍，淵等授首。",
+          "citation": "《三國志·蜀書七·法正傳》"
+        },
+        {
+          "id": "xiahouyuan-liaoli-shenru-ba",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 14,
+          "from": "旣亡漢中，使夏侯淵、張郃深入于巴，幾喪一州。",
+          "through": "旣亡漢中，使夏侯淵、張郃深入于巴，幾喪一州。",
+          "citation": "《三國志·蜀書十·廖立傳》"
         }
       ],
       "exclusions": [
