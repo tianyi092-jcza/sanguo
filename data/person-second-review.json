@@ -34204,6 +34204,56 @@
           "note": "《三國志》卷十四郭嘉傳載年三十八，自柳城還，疾篤而薨；柳城之役在建安十二年，故卒年207年。"
         }
       }
+    },
+    {
+      "id": "p0024",
+      "name": "程昱",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "chengyu-hhs-xunyu-shuofandonga",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 31,
+          "from": "彧乃使程昱說范、東阿",
+          "through": "卒全三城以待操焉。",
+          "citation": "《後漢書·荀彧傳》所載",
+          "context": "興平元年",
+          "note": "興平元年兖州之亂，荀彧使程昱說范、東阿固守，卒全甄（鄄）、范、東阿三城以待操。段中「魏志：昱字仲德，東郡東阿人」及范、東阿縣注為注文層，僅作身份與地名注，不與正文事件合併。"
+        },
+        {
+          "id": "chengyu-sgz-wudi-baojuancheng",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 8,
+          "from": "荀彧、程昱保鄄城",
+          "through": "太祖乃引軍還。",
+          "citation": "《三國志·武帝紀》所載",
+          "context": "會張邈與陳宮叛迎呂布",
+          "note": "興平元年，張邈、陳宮叛迎呂布，郡縣皆應，荀彧、程昱保鄄城，范、東阿二縣固守，太祖引軍還。與後漢書荀彧傳說范、東阿事互證。"
+        },
+        {
+          "id": "chengyu-sgz-wudi-quanyingtianzi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "荀彧、程昱勸之",
+          "through": "洪不得進。",
+          "citation": "《三國志·武帝紀》所載",
+          "context": "建安元年春正月",
+          "note": "建安元年（196年），太祖將迎天子，諸將或疑，荀彧、程昱勸之，遂遣曹洪將兵西迎。程昱由兖州舊臣轉入迎駕階段之佐證。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
