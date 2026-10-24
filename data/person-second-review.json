@@ -29227,6 +29227,33 @@
           "from": "夏侯淵為劉備所沒",
           "through": "三軍遂定。",
           "citation": "《三國志·魏書二十三·和常楊杜趙裴傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu26-guohuai-yuhaidingjun",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 28,
+          "from": "淵與備戰，淮時有疾不出。淵遇害，軍中擾擾，淮收散卒，推盪寇將軍張郃為軍主，諸營乃定。",
+          "through": "淵與備戰，淮時有疾不出。淵遇害，軍中擾擾，淮收散卒，推盪寇將軍張郃為軍主，諸營乃定。",
+          "citation": "《三國志·魏書二十六·滿田牽郭傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu30-weilue-xirong-agui",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 51,
+          "from": "超破之後，阿貴為夏侯淵所攻滅，千萬西南入蜀，其部落不能去，皆降。",
+          "through": "超破之後，阿貴為夏侯淵所攻滅，千萬西南入蜀，其部落不能去，皆降。",
+          "citation": "《三國志·魏書三十·烏丸鮮卑東夷傳》"
+        },
+        {
+          "id": "xiahouyuan-shushu2-xianzhu-fanbajie",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 15,
+          "from": "曹公使夏侯淵、張郃屯漢中，數數犯暴巴界。",
+          "through": "曹公使夏侯淵、張郃屯漢中，數數犯暴巴界。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
