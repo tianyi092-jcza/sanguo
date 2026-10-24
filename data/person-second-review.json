@@ -28787,9 +28787,37 @@
           "from": "夏侯惇字元讓，沛國譙人，夏侯嬰之後也。",
           "through": "夏侯惇字元讓，沛國譙人，夏侯嬰之後也。",
           "citation": "《三國志·魏書九·夏侯惇傳》"
+        },
+        {
+          "id": "xiahoudun-sg-hanhao",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 4,
+          "from": "夏侯惇聞其名，請與相見，大奇之，使領兵從征伐。",
+          "through": "夏侯惇聞其名，請與相見，大奇之，使領兵從征伐。",
+          "citation": "《三國志·魏書九·夏侯惇傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xiahoudun-excl-title",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 0,
+          "term": "夏侯惇",
+          "quote": "夏侯惇傳",
+          "reason": "僅本傳卷首傳名標題，無事實內容，不錄為摘錄。"
+        },
+        {
+          "id": "xiahoudun-excl-xiashang",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 32,
+          "term": "夏侯惇",
+          "quote": "夏侯惇薨，以休為鎮南將軍，假節都督諸軍事，車駕臨送，上乃下輿執手而別。",
+          "reason": "段落主角為夏侯尚（休），夏侯惇僅以「薨」作紀年參照出現，無本人事蹟，不錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
