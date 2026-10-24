@@ -34424,7 +34424,7 @@
     {
       "id": "p0025",
       "name": "董昭",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "dongzhao-hhs-xunyu-jianweigongyi",
@@ -34676,13 +34676,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪向量候選池已枯竭（重跑得 0 段新候選）、未解決 0 條，依收尾規則結案。累計錄正摘錄 21 條（《三國志》17、《後漢書》3、《晉書》1，裴注按層分離），排除 3 條（本傳卷題、晉書天文志異版重複、同名異人晉軍督護董昭）。",
+        "辨人：董昭字公仁，濟陰定陶人；與東晉初祖逖軍中督護董昭（同名異人）嚴格區分；廮陶長即癭陶長異寫，與本傳仕歷相合，確指本人早年任職，非同名誤認。",
+        "勢力繫年：早年為袁紹參軍事，後歸曹操終身屬曹魏，無轉投——建安元年都許之議、建安十七年勸進國公九錫、樊城獻策應孫權以密而內露之，文帝朝論曹休渡江事，明帝朝由衞尉遷司徒；各階段依段落繫年分開標記，未整段一刀切。",
+        "生卒：卒青龍四年（236 年）五月乙卯，卒官司徒，《三國志·明帝紀》與《晉書·天文志》互證；生年按原庫 156 年。",
+        "本傳全文由 D1 本傳庫承載（卷十四，董昭傳與程昱、郭嘉等同卷），本輪他傳摘錄與本傳段落分層並列，不重複摘錄。"
+      ]
     }
   ]
 }
