@@ -34513,6 +34513,36 @@
           "citation": "《後漢書·賈琮傳》所載",
           "context": "乃以琮為兾州刺史",
           "note": "賈琮為冀州刺史時，唯癭陶長董昭等當官待琮；董昭本傳載除廮陶長（廮陶即癭陶異寫），籍貫濟陰定陶亦合，確指本人早年任職，非同名異人。"
+        },
+        {
+          "id": "dongzhao-hhs-xunyu-zhiyi",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 42,
+          "from": "及阻董昭之議",
+          "through": "豈數也夫！",
+          "citation": "《後漢書·荀彧傳》論曰所載",
+          "note": "荀彧傳論曰：荀彧因阻董昭之議（勸曹操受九錫）以致非命；此處董昭確指本人，非同名異人。"
+        },
+        {
+          "id": "dongzhao-wudi-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 32,
+          "from": "軍師祭酒千秋亭侯董昭",
+          "through": "南鄉亭侯董蒙",
+          "citation": "《三國志·武帝紀》所載",
+          "note": "建安十八年（213年）勸進九錫名單：董昭時任軍師祭酒、封千秋亭侯，列名勸進；此段為勸進群臣名單，非本傳正文，僅證其當時官職爵位。"
+        },
+        {
+          "id": "dongzhao-mingdi-situ",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 14,
+          "from": "秋七月，以衞尉董昭為司徒。",
+          "through": "九月，行幸摩陂，",
+          "citation": "《三國志·明帝紀》所載",
+          "note": "太和六年（232年）秋七月，董昭由衞尉遷為司徒；繫年與其生平晚年相合。"
         }
       ],
       "exclusions": [
