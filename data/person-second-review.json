@@ -28975,7 +28975,35 @@
       "id": "p0016",
       "name": "夏侯淵",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xiahouyuan-hhs-songjian",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 27,
+          "from": "冬十月，曹操遣將夏侯淵討宋建于枹罕，獲之。",
+          "through": "冬十月，曹操遣將夏侯淵討宋建于枹罕，獲之。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "xiahouyuan-hhs-songjian2",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 36,
+          "from": "曹操因遣夏侯淵擊建，斬之，涼州悉平。",
+          "through": "曹操因遣夏侯淵擊建，斬之，涼州悉平。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "xiahouyuan-sg-shangyao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "太原商曜等以大陵叛，遣夏侯淵、徐晃圍破之。",
+          "through": "太原商曜等以大陵叛，遣夏侯淵、徐晃圍破之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
