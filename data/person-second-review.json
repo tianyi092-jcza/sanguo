@@ -28706,6 +28706,33 @@
           "from": "公遣夏侯惇救之，不利。",
           "through": "備為順所敗。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xiahoudun-sg-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 32,
+          "from": "伏波將軍高安侯夏侯惇、揚武將軍都亭侯王忠",
+          "through": "伏波將軍高安侯夏侯惇、揚武將軍都亭侯王忠",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xiahoudun-sg-juchao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 37,
+          "from": "三月，王引軍還，留夏侯惇、曹仁、張遼等屯居巢。",
+          "through": "三月，王引軍還，留夏侯惇、曹仁、張遼等屯居巢。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xiahoudun-sg-wangwei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "from": "魏氏春秋曰：夏侯惇謂王曰：「天下咸知漢祚已盡，異代方起。",
+          "through": "惇追恨前言，發病卒。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "exclusions": [],
