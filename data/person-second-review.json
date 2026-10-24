@@ -29594,6 +29594,33 @@
           "term": "夏侯尚",
           "quote": "四月，征南大將軍夏侯尚薨。",
           "reason": "他版文本重複：與 a05-013 第 3 段同為《晉書》卷十三天文志黃初七年四月夏侯尚薨條（僅「疑／宜」一字異文），已從 a05-013 錄入，本輪不重錄。"
+        },
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-026",
+          "work": "houhanshu",
+          "source": "a03-026",
+          "paragraph": 58,
+          "term": "夏侯尚",
+          "quote": "以大夏侯尚書敎授，大夏侯名勝，宣帝時人也。",
+          "reason": "「大、小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-027a",
+          "work": "houhanshu",
+          "source": "a03-027",
+          "paragraph": 14,
+          "term": "夏侯尚",
+          "quote": "習小夏侯尚書。夏侯建，大夏侯勝之從兄子也。建受尚書於勝，號小夏侯。",
+          "reason": "「大、小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-027b",
+          "work": "houhanshu",
+          "source": "a03-027",
+          "paragraph": 36,
+          "term": "夏侯尚",
+          "quote": "又治尚書，學通師法，東觀記曰：「良習大夏侯尚書。」",
+          "reason": "「大、小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
         }
       ],
       "unresolved": [],
