@@ -28008,6 +28008,33 @@
           "from": "使使持節行中護軍中壘將軍司馬炎北迎常道鄉公璜嗣明帝後。",
           "through": "請自今殿下令書，皆稱詔制，如先代故事。",
           "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "caohuan-sg-abdication",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 86,
+          "from": "十二月壬戌",
+          "through": "時年二十。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "caohuan-sg-weishipu",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 86,
+          "from": "魏世譜曰",
+          "through": "謚曰元皇帝。",
+          "citation": "《三國志·魏書四·三少帝紀》（裴注引魏世譜）"
+        },
+        {
+          "id": "caohuan-jin-chenliu",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 9,
+          "from": "詔陳留王載天子旌旗",
+          "through": "上書不稱臣。",
+          "citation": "《晉書》卷三·武帝紀"
         }
       ],
       "exclusions": [
