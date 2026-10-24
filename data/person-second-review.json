@@ -31290,15 +31290,21 @@
     {
       "id": "p0019",
       "name": "夏侯玄",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪候選池 96 段全部處置：錄正摘錄 27 條（《三國志》15、《晉書》11、《華陽國志》1，裴注另層分離），排除 69 條（向量誤擊為主，如地理志縣名表、傳目小題、同名誤擊及全段未提及夏侯玄者），未解決 0 條。",
+        "辨人：與從父夏侯霸、曹爽等嚴格區分；夏侯霸傳所載玄為霸從子、爽外弟僅作親屬旁證，不與玄本人事混記；單字命中均核實確指本人後方錄入。",
+        "勢力繫年：正始年間附曹爽（任征西將軍、參與正始五年伐蜀），嘉平元年曹爽被誅後被召東還、任太常，嘉平六年與李豐等謀廢司馬師見誅；依附、轉折、見誅三階段分開標記，未整段一刀切。",
+        "生卒：生 209 年；卒嘉平六年（254 年），《三國志·三少帝紀》與《晉書·景帝紀》互證（李豐之變，玄與豐等皆伏誅、夷三族）。",
+        "字泰初，正始中名勢正盛：裴注引《魏氏春秋》何晏稱玄「唯深也，故能通天下之志，夏侯泰初是也」，與正始名士圈（傅嘏、荀粲、應貞等）往來諸條互證。"
+      ],
       "excerpts": [
         {
           "id": "xiahouxuan-sgz-lifeng-004",
