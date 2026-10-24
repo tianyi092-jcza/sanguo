@@ -35429,13 +35429,13 @@
     {
       "id": "p0028",
       "name": "鍾繇",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "excerpts": [
         {
@@ -36117,7 +36117,12 @@
           "reason": "華陽國志先賢志張裔條載許靖稱張裔之才為鍾元常之輩，與已錄三國志張裔傳「是中夏鍾元常之倫」（a04-041:9，zy-sg-zhangyi-yuanchang-lun）同為許靖評張裔比鍾繇之史實，僅底本表述略異，不重複錄入。"
         }
       ],
-      "conclusions": [],
+      "conclusions": [
+        "收尾輪：向量候選已枯竭（retrieve.py 回 0 段，covered 62 段經鏡像展開 67 段、年號剛性剔除 1 段），未解決 0 條；正摘錄 56 條（《三國志》42、裴注 6、《晉書》5、《後漢書》2、《華陽國志》1），排除 7 條，五源覆蓋置 checked，標記 complete。",
+        "本傳在《三國志》卷十三鍾繇華歆王朗傳第十三：魏國初建遷相國賜五熟釜、明帝即位進封定陵侯遷太傅、太和四年薨諡成侯，三條本傳正文層已錄。",
+        "辨人：與子鍾毓、從子鍾會及同卷合傳人物嚴格區分；僅借鍾繇舊例（如何曾進太宰比附劍履上殿）或以其書法自比（如王羲之自比）者列 exclusion，不錄為本人事蹟；卷十三首段傳目行僅標傳主名，亦列 exclusion。",
+        "勢力繫年：關中都督平定關中、從征張魯、魏國相國至太傅，皆附曹魏一系；正文、裴注、異說分層錄入，未整段一刀切。"
+      ],
       "unresolved": []
     }
   ]
