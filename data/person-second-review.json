@@ -34358,6 +34358,36 @@
           "through": "籌畫所料是其倫也",
           "citation": "《三國志·程昱傳》評曰所載",
           "note": "本條僅錄卷末評曰對程昱等五人的總評：才策謀略為世之奇士，籌畫所料與荀攸為倫；此為史論而非敘事。其後評劉放、孫資部分與程昱無關，不併入本條。"
+        },
+        {
+          "id": "chengyu-sgz-zhangfei-wanrenzhidi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 12,
+          "from": "魏謀臣程昱等咸稱羽",
+          "through": "萬人之敵也",
+          "citation": "《三國志·張飛傳》所載",
+          "note": "本條僅錄《張飛傳》開篇所載評價：魏謀臣程昱等咸稱關羽、張飛為萬人之敵；此為時人評價而非敘事，程昱列名於眾謀臣之首。"
+        },
+        {
+          "id": "chengyu-sgz-benchuan-weishu-gaiming",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 3,
+          "from": "魏書曰：昱少時常夢上泰山",
+          "through": "更名昱也",
+          "citation": "《三國志·程昱傳》魏書曰所載",
+          "note": "本條僅錄本傳末段所引魏書曰：程昱少時夢上泰山、兩手捧日，荀彧以夢告太祖，太祖謂其當終為腹心；昱本名立，太祖於其名上加「日」更名為昱。此為魏書曰異說，非本傳正文敘事。"
+        },
+        {
+          "id": "chengyu-sgz-benchuan-quanzu-lianshao",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 4,
+          "from": "時昱使適還，引見，因言曰",
+          "through": "太祖乃止",
+          "citation": "《三國志·程昱傳》所載",
+          "note": "本條僅錄正文：袁紹使人說太祖遣家連和、欲使太祖遷家居鄴，太祖軍食盡將許之，程昱自外還而諫止，謂袁紹智不能濟、兖州尚有三城能戰之士不下萬人，太祖乃止。其後魏略所載田橫之說為異說，不併入本條。"
         }
       ],
       "exclusions": [
