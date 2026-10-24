@@ -33982,6 +33982,39 @@
           "citation": "《後漢書·卷七十·荀彧傳》",
           "context": "及鍾繇、郭嘉",
           "note": "後漢書正文層：荀彧薦郭嘉，曹操謂使孤成大業者必此人。"
+        },
+        {
+          "id": "gj-hhs-yuanshao-zan-jiuzhou",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 28,
+          "from": "郭嘉曰：『劉表坐談客耳",
+          "through": "雖違國遠征，無憂矣。』",
+          "citation": "《後漢書·卷七十四下·袁紹傳》",
+          "context": "矜彊少成，坐談奚望。",
+          "note": "後漢書注層：袁紹傳贊注引《九州春秋》，郭嘉斷劉表坐談客、不能任用劉備，故遠征烏桓無憂；與武帝紀「惟郭嘉策表必不能任備」互證。"
+        },
+        {
+          "id": "gj-sg-wudi-wuhuan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 22,
+          "from": "惟郭嘉策表必不能任備",
+          "through": "勸公行。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "context": "將北征三郡烏丸",
+          "note": "建安十二年北征烏丸前，諸將憂劉備說劉表襲許，惟郭嘉斷劉表必不能任備、勸曹操行；正文層。"
+        },
+        {
+          "id": "gj-sg-shaodi-peizhu-peixiang",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 10,
+          "from": "至於升程昱而遺郭嘉",
+          "through": "則未詳厥趣也。",
+          "citation": "《三國志·魏書四·三少帝紀》",
+          "context": "詔祀故尚書令荀攸於太祖廟庭",
+          "note": "裴注層：裴松之論太祖廟庭配饗，謂升程昱而遺郭嘉、先鍾繇而後荀攸，未詳其趣；此為配饗評議，非郭嘉生平事蹟。"
         }
       ],
       "exclusions": [],
