@@ -34491,9 +34491,41 @@
           "citation": "《三國志·吳質傳》所載",
           "context": "太和中",
           "note": "太和中吳質入朝，自言欲溺鄉里，謂司徒董昭曰我欲溺鄉里耳；昭答年已八十、不能老為君溺攢。此為吳質傳正文，證董昭晚年官至司徒、時年八十。"
+        },
+        {
+          "id": "dongzhao-jin-tianwen-zhaosi",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 6,
+          "from": "四年五月，司徒董昭薨。",
+          "through": "其五月丁亥，太白晝見，積三十餘日。",
+          "citation": "《晉書·卷十三·志第三·天文下》",
+          "context": "青龍二年三月辛卯",
+          "note": "天文志青龍二年條下續記「四年五月，司徒董昭薨」，即青龍四年（236年）；證董昭卒於236年、卒官司徒，與本傳晚年官至司徒相合。"
+        },
+        {
+          "id": "dongzhao-hhs-jiacong-yingtao",
+          "work": "houhanshu",
+          "source": "a03-031",
+          "paragraph": 49,
+          "from": "唯癭陶長濟陰董昭、觀津長梁國黃就當官待琮",
+          "through": "於是州界翕然。",
+          "citation": "《後漢書·賈琮傳》所載",
+          "context": "乃以琮為兾州刺史",
+          "note": "賈琮為冀州刺史時，唯癭陶長董昭等當官待琮；董昭本傳載除廮陶長（廮陶即癭陶異寫），籍貫濟陰定陶亦合，確指本人早年任職，非同名異人。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "dongzhao-excl-001",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 2,
+          "term": "董昭",
+          "quote": "四年五月，司徒董昭薨。",
+          "reason": "《晉書·卷十三·志第三·天文下》異版（ahcb）再載，與 a05-013 第 6 段同文（僅孫韶／孫昭、災／灾等字形小異），已錄正條，不重複立條。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
