@@ -28974,7 +28974,7 @@
     {
       "id": "p0016",
       "name": "夏侯淵",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "xiahouyuan-hhs-songjian",
@@ -29440,13 +29440,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪向量候選枯竭（0 段）、無 unresolved 備忘，依收尾規則結案。累計錄正摘錄 47 條（《三國志》43、《後漢書》2、《華陽國志》2，裴注按層分離），排除 4 條，未解決 0 條。",
+        "辨人：與兄夏侯惇、同傳夏侯尚及曹氏諸將嚴格區分；本傳《魏書九·諸夏侯曹傳》與夏侯惇同卷，勿把惇的段落記到夏侯淵名下；單字命中均核實確指本人後方錄入。",
+        "勢力繫年：終身屬曹操（曹魏）集團，歷別部司馬、都督關中、征西將軍守漢中；按段落繫年與生平階段分段標記，未整段一刀切。",
+        "生卒：卒建安二十四年（219 年）漢中陽平之戰，為劉備軍所殺，與本傳、《武帝紀》互證確定；本傳全文由 D1 本傳庫承載（卷9 諸夏侯曹傳），本輪未重複摘錄。"
+      ]
     }
   ]
 }
