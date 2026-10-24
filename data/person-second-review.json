@@ -28760,6 +28760,33 @@
           "from": "夏五月壬申，詔祀故大將軍夏侯惇、大司馬曹仁、車騎將軍程昱於太祖廟庭。",
           "through": "夏五月壬申，詔祀故大將軍夏侯惇、大司馬曹仁、車騎將軍程昱於太祖廟庭。",
           "citation": "《三國志·魏書三·明帝紀》"
+        },
+        {
+          "id": "xiahoudun-sg-lvbu",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 12,
+          "from": "太祖遣夏侯惇救備，為順所敗。",
+          "through": "太祖遣夏侯惇救備，為順所敗。",
+          "citation": "《三國志·魏書七·呂布傳》"
+        },
+        {
+          "id": "xiahoudun-sg-zhanglu",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 26,
+          "from": "遣故大將軍夏侯惇、將軍許褚呼山上兵還。",
+          "through": "遣故大將軍夏侯惇、將軍許褚呼山上兵還。",
+          "citation": "《三國志·魏書八·張魯傳》注引董昭表"
+        },
+        {
+          "id": "xiahoudun-sg-identity",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 1,
+          "from": "夏侯惇字元讓，沛國譙人，夏侯嬰之後也。",
+          "through": "夏侯惇字元讓，沛國譙人，夏侯嬰之後也。",
+          "citation": "《三國志·魏書九·夏侯惇傳》"
         }
       ],
       "exclusions": [],
