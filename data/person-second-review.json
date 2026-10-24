@@ -29942,7 +29942,7 @@
         {
           "id": "xiahoushang-excl-a05-014-ahcb-129",
           "work": "jinshu",
-          "source": "a05-014",
+          "source": "a05-014-ahcb",
           "paragraph": 129,
           "term": "夏侯尚",
           "quote": "并州依舊名不改，統上黨、太原、雲中",
@@ -29969,11 +29969,29 @@
         {
           "id": "xiahoushang-excl-a05-024-ahcb-93",
           "work": "jinshu",
-          "source": "a05-024",
+          "source": "a05-024-ahcb",
           "paragraph": 93,
           "term": "夏侯尚",
           "quote": "武帝置南蠻校尉於襄陽",
           "reason": "《晉書·卷二十四　職官志》第93段為護羌、夷、蠻等校尉沿革志文，段內無夏侯尚字樣；候選系「都督南方諸軍事」向量誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-a05-014-83",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 83,
+          "term": "夏侯尚",
+          "quote": "平州初置，以慕容廆為刺史，遂屬永嘉之亂，廆為衆所推。",
+          "reason": "《晉書·卷十四‧志第四　地理志上》第83段為平州建置沿革純地理志內容，段內無夏侯尚字樣；候選系事件「從平冀州」向量誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-a05-014-ahcb-128",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 128,
+          "term": "夏侯尚",
+          "quote": "平州初置，以慕容廆爲刺史，遂屬永嘉之亂，廆爲眾所推。",
+          "reason": "《晉書·卷十四‧志第四　地理志上》第128段為平州建置沿革純地理志內容，段內無夏侯尚字樣；候選系事件「從平冀州」向量誤命中，不錄。"
         }
       ],
       "unresolved": [],
