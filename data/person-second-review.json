@@ -36426,6 +36426,36 @@
           "through": "泰與華歆、荀攸善。",
           "citation": "《三國志·卷十六 ‧ 魏書十六　任蘇杜鄭倉傳第十六 鄭渾傳》",
           "note": "裴注引晉陽秋：鄭泰與華歆、荀攸友善，附於泰子袤事後。"
+        },
+        {
+          "id": "hx-chen-deng-jing-hua-ziyu",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 17,
+          "from": "淵清玉絜",
+          "through": "吾敬華子魚；",
+          "citation": "《三國志·卷二十二 ‧ 魏書二十二　桓二陳徐衛盧傳第二十二 陳矯傳》",
+          "note": "陳登向陳矯歷數所敬之人，稱華子魚淵清玉絜、有禮有法。"
+        },
+        {
+          "id": "hx-jiangbiao-ci-bao-hua-ziyu",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 10,
+          "from": "慈見策曰：「華子魚良德也",
+          "through": "子魚亦覩視之而已。」",
+          "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 太史慈傳》",
+          "note": "裴注引江表傳：太史慈自豫章還，向孫策匯報華子魚在豫章的治理——良德而非籌略才，自守而已，不能諧廬陵、鄱陽，海昏上繚亦不服從。"
+        },
+        {
+          "id": "hx-lang-qian-fan-jian-hua-xin",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 1,
+          "from": "朗使翻見豫章太守華歆",
+          "through": "圖起義兵。",
+          "citation": "《三國志·卷五十七 ‧ 吳書十二　虞陸張駱陸吾朱傳第十二 虞翻傳》",
+          "note": "裴注引翻別傳：王朗遣虞翻往見豫章太守華歆，圖起義兵；翻未至豫章即聞孫策向會稽而還。"
         }
       ],
       "exclusions": [
