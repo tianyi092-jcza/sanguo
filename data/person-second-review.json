@@ -29119,6 +29119,33 @@
           "from": "魏書曰：淵為將，赴急疾，常出敵之不意，",
           "through": "「典軍校尉夏侯淵，三日五百，六日一千。」",
           "citation": "《三國志·魏書九·諸夏侯曹傳》（魏書）"
+        },
+        {
+          "id": "xiahouyuan-weishu14-sunzibiezhuan",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 46,
+          "from": "又自往拔出夏侯淵軍，數言",
+          "through": "言其深險，喜出淵軍之辭也。",
+          "citation": "《三國志·魏書十四·蔣濟高柔劉放孫資傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu15-zhangji-taosongjian",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 16,
+          "from": "又與夏侯淵討宋建",
+          "through": "別攻臨洮、狄道，平之。",
+          "citation": "《三國志·魏書十五·劉司馬梁張賈傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu15-dianlue-huan",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 17,
+          "from": "及夏侯淵還",
+          "through": "使閻行留後。",
+          "citation": "《三國志·魏書十五·劉司馬梁張賈傳》"
         }
       ],
       "exclusions": [
