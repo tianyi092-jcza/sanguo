@@ -28877,6 +28877,33 @@
           "from": "曹公遣夏侯惇往，不能救，為順所敗",
           "through": "曹公遣夏侯惇往，不能救，為順所敗",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "xiahoudun-sg-xianzhu-bowang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 8,
+          "from": "使拒夏侯惇、于禁等於博望。",
+          "through": "乆之，先主設伏兵，一旦自燒屯偽遁，惇等追之，為伏兵所破。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "xiahoudun-sg-zhaoyun",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 21,
+          "from": "先是，與夏侯惇戰於博望，生獲夏侯蘭。",
+          "through": "先是，與夏侯惇戰於博望，生獲夏侯蘭。",
+          "citation": "《三國志·蜀書六·趙雲傳》"
+        },
+        {
+          "id": "xiahoudun-peizhu-zhilin",
+          "work": "peizhu",
+          "source": "a04-046",
+          "paragraph": 13,
+          "from": "案夏侯元讓與石威則書「袁紹破後也。",
+          "through": "書授孫賁以長沙，業張津以零、桂。」",
+          "citation": "《三國志·吳書一·孫策傳》裴注引《志林》"
         }
       ],
       "exclusions": [
