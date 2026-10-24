@@ -34048,9 +34048,41 @@
           "citation": "《三國志·魏書十·荀攸傳》",
           "context": "至下邳，布敗退固守",
           "note": "荀攸傳：下邳攻呂布久不拔、太祖欲還時，荀攸與郭嘉同勸急攻，謂布三戰皆北、銳氣已衰，進急攻之可拔；後引沂、泗灌城，城潰生禽布。"
+        },
+        {
+          "id": "gj-sg-chengyu-liubei",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 5,
+          "from": "昱與郭嘉說太祖曰",
+          "through": "必有異心。」",
+          "citation": "《三國志·魏書十四·程昱傳》",
+          "context": "劉備失徐州，來歸太祖",
+          "note": "程昱傳：劉備失徐州來歸、太祖遣備至徐州要擊袁術時，程昱與郭嘉同勸太祖，謂前日不圖備已失策、今借兵與備必有異心；太祖悔而追之不及。"
+        },
+        {
+          "id": "gj-sg-guojia-shisheng",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 9,
+          "from": "嘉竊料之",
+          "through": "此道勝一也。",
+          "citation": "《三國志·魏書十四·郭嘉傳》",
+          "context": "太祖謂嘉曰",
+          "note": "郭嘉傳：太祖問討袁紹之策，郭嘉以袁紹有十敗、太祖有十勝料其必敗，此為十勝之首（道勝）。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "gj-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 8,
+          "term": "郭嘉傳",
+          "quote": "郭嘉傳",
+          "reason": "僅為卷內郭嘉傳的傳名標題，無正文內容可摘。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
