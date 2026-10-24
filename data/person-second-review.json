@@ -36646,6 +36646,36 @@
           "citation": "《三國志·魏書三 明帝紀》",
           "context": "十月，詔公卿近臣舉良將各一人。",
           "note": "正文層；王朗卒於任司徒期間，明帝紀繫於太和二年十一月。"
+        },
+        {
+          "id": "lang-sg-sanshaodi-yizhuan",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 11,
+          "from": "十二月辛亥，詔故司徒王朗所作易傳",
+          "through": "令學者得以課試。",
+          "citation": "《三國志·魏書四 三少帝紀》",
+          "note": "正文層；三少帝紀載詔以故司徒王朗所作易傳令學者課試，見其著述入官學。"
+        },
+        {
+          "id": "lang-sg-wenzhao-gaoci",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 10,
+          "from": "明帝即位，有司奏請追謚，使司空王朗持節奉策以太牢告祠于陵，又別立寢廟。",
+          "through": "明帝即位，有司奏請追謚，使司空王朗持節奉策以太牢告祠于陵，又別立寢廟。",
+          "citation": "《三國志·魏書五 后妃傳》",
+          "note": "正文層；明帝即位後追謚文昭皇后，司空王朗持節奉策以太牢告祠于陵。"
+        },
+        {
+          "id": "lang-sg-zanghong-qiu",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 16,
+          "from": "時選三署郎以補縣長",
+          "through": "東海王朗菑丘長，洪即丘長。",
+          "citation": "《三國志·魏書七 呂布臧洪傳》",
+          "note": "正文層；臧洪傳附見王朗舉孝廉為郎後選補菑丘長。"
         }
       ],
       "exclusions": [
