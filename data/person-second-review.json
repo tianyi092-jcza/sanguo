@@ -34988,7 +34988,40 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "jj-sg-taiwei",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 8,
+          "context": "秋七月甲申",
+          "from": "乙酉，以領軍將軍蔣濟為太尉。",
+          "through": "乙酉，以領軍將軍蔣濟為太尉。",
+          "citation": "《三國志·卷四‧魏書四　三少帝紀第四》",
+          "note": "領軍將軍蔣濟拜太尉。"
+        },
+        {
+          "id": "jj-sg-death",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 18,
+          "context": "夏四月乙丑，改年",
+          "from": "丙子，太尉蔣濟薨。",
+          "through": "丙子，太尉蔣濟薨。",
+          "citation": "《三國志·卷四‧魏書四　三少帝紀第四》",
+          "note": "薨於太尉任上。"
+        },
+        {
+          "id": "jj-pei-zhinang",
+          "work": "peizhu",
+          "source": "a04-009",
+          "paragraph": 43,
+          "from": "宣王謂蔣濟曰",
+          "through": "爽必不能用也。",
+          "citation": "《三國志·魏書九》裴注引干寶《晉書》",
+          "note": "裴注引干寶《晉書》：宣王稱桓範為智囊，蔣濟謂爽必不能用範計。注文層，不與正文合併。"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
