@@ -34425,7 +34425,41 @@
       "id": "p0025",
       "name": "董昭",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "dongzhao-hhs-xunyu-jianweigongyi",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 41,
+          "from": "十七年，董昭等",
+          "through": "事遂寑。",
+          "citation": "《後漢書·荀彧傳》所載",
+          "context": "十七年",
+          "note": "建安十七年董昭等欲共進曹操爵國公、備九錫，密訪荀彧，彧以君子愛人以德、不宜如此反對，事遂寢。段中「昭字公仁，濟陰人也」及九錫名目為注文層，僅作身份與名目注，不與正文事件合併。"
+        },
+        {
+          "id": "dongzhao-sgz-wudi-duxu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "太祖遂至洛陽，衞京都",
+          "through": "董昭等勸太祖都許。",
+          "citation": "《三國志·武帝紀》所載",
+          "context": "建安元年",
+          "note": "建安元年太祖至洛陽後，董昭等勸太祖都許，為迎駕奉天子、都許之議的一環。「等」字表明非董昭一人獨倡，勿記為獨倡。"
+        },
+        {
+          "id": "dongzhao-sgz-zhanglu-biao",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 26,
+          "from": "魏名臣奏載董昭表曰",
+          "through": "幸而克獲。",
+          "citation": "《三國志·張魯傳》所載",
+          "context": "建安二十年",
+          "note": "建安二十年征張魯陽平之役，董昭表述武帝初信張魯易攻、臨履不如所聞、欲還軍而誤入賊營反得克獲的經過。此為董昭表文層（魏名臣奏所載），非張魯傳正文敘事，勿與正文混同。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
