@@ -31286,6 +31286,22 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0019",
+      "name": "夏侯玄",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
