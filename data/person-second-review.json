@@ -34976,6 +34976,22 @@
         "本傳全文由 D1 本傳庫承載（卷十四，劉曄傳與程昱、郭嘉、董昭、蔣濟、劉放同卷），本輪他傳摘錄與本傳段落分層並列，不重複摘錄。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0027",
+      "name": "蔣濟",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
