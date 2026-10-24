@@ -29452,6 +29452,22 @@
         "勢力繫年：終身屬曹操（曹魏）集團，歷別部司馬、都督關中、征西將軍守漢中；按段落繫年與生平階段分段標記，未整段一刀切。",
         "生卒：卒建安二十四年（219 年）漢中陽平之戰，為劉備軍所殺，與本傳、《武帝紀》互證確定；本傳全文由 D1 本傳庫承載（卷9 諸夏侯曹傳），本輪未重複摘錄。"
       ]
+    },
+    {
+      "id": "p0017",
+      "name": "夏侯尚",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
