@@ -28679,6 +28679,33 @@
           "from": "曹操遣夏侯惇救備。",
           "through": "為順所敗。",
           "citation": "《後漢書·呂布傳》"
+        },
+        {
+          "id": "xiahoudun-sg-kinship",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 0,
+          "from": "吳人作曹瞞傳及郭頒世語並云：嵩，夏侯氏之子，夏侯惇之叔父。",
+          "through": "吳人作曹瞞傳及郭頒世語並云：嵩，夏侯氏之子，夏侯惇之叔父。",
+          "citation": "《三國志·魏書一·武帝紀》注引《曹瞞傳》及《郭頒世語》"
+        },
+        {
+          "id": "xiahoudun-sg-mubing",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 4,
+          "from": "太祖兵少，乃與夏侯惇等詣揚州募兵，",
+          "through": "刺史陳溫、丹楊太守周昕與兵四千餘人。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xiahoudun-sg-jiubei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "公遣夏侯惇救之，不利。",
+          "through": "備為順所敗。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "exclusions": [],
