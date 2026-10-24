@@ -29335,6 +29335,33 @@
           "from": "魏武以巴夷王杜濩朴胡袁約為三\n巴太守留征西將軍夏侯淵及張郃益州刺史趙顒\n等守漢中遷其民於關隴",
           "through": "魏武以巴夷王杜濩朴胡袁約為三\n巴太守留征西將軍夏侯淵及張郃益州刺史趙顒\n等守漢中遷其民於關隴",
           "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "xiahouyuan-hygz-wudu-changzheng",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "from": "魏將夏侯淵張郃徐晃征伐常由此郡",
+          "through": "魏將夏侯淵張郃徐晃征伐常由此郡",
+          "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "xiahouyuan-sg-leixu-shangyao-209",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 7,
+          "from": "十四年，以淵為行領軍。太祖征孫權還，使淵督諸將擊廬江叛者雷緒，緒破，又行征西護軍，督徐晃擊太原賊，攻下二十餘屯，斬賊帥商曜，屠其城。",
+          "through": "十四年，以淵為行領軍。太祖征孫權還，使淵督諸將擊廬江叛者雷緒，緒破，又行征西護軍，督徐晃擊太原賊，攻下二十餘屯，斬賊帥商曜，屠其城。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "xiahouyuan-sg-ansding-yangqiu-209",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 7,
+          "from": "從征韓遂等，戰於渭南。又督朱靈平隃糜、汧氐。與太祖會安定，降楊秋。",
+          "through": "從征韓遂等，戰於渭南。又督朱靈平隃糜、汧氐。與太祖會安定，降楊秋。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
         }
       ],
       "exclusions": [
@@ -29355,6 +29382,15 @@
           "term": "夏侯淵",
           "quote": "與夏侯尚等征孫權，擊牛渚屯，破之。",
           "reason": "段落主角為曹真，所記「夏侯尚」為族弟尚非本人，無夏侯淵事蹟，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-xiahoudun-juchao",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 11,
+          "term": "夏侯淵",
+          "quote": "留霸與夏侯惇等屯居巢",
+          "reason": "段落主角為臧霸，所記「夏侯惇」為族兄惇非本人，無夏侯淵事蹟，不錄。"
         }
       ],
       "unresolved": [],
