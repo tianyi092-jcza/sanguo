@@ -29146,6 +29146,33 @@
           "from": "及夏侯淵還",
           "through": "使閻行留後。",
           "citation": "《三國志·魏書十五·劉司馬梁張賈傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu16-zhenghun-zhuliangxing",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 35,
+          "from": "太祖使夏侯淵就助郡擊之",
+          "through": "斬興及其支黨。",
+          "citation": "《三國志·魏書十六·任蘇杜鄭倉傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu17-zhangliao-weichangxi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 2,
+          "from": "與夏侯淵圍昌豨於東海",
+          "through": "數月糧盡，議引軍還，",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu17-zhanghe-taoliangxing",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 17,
+          "from": "與夏侯淵討鄜賊梁興及武都氐",
+          "through": "及武都氐。",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
         }
       ],
       "exclusions": [
