@@ -29529,6 +29529,24 @@
           "from": "曹真、夏侯尚等圍朱然於江陵，",
           "through": "瑾以大兵為之救援。",
           "citation": "《三國志·卷五十二 ‧ 吳書七　張顧諸葛步傳第七 諸葛瑾傳》裴注引《吳錄》"
+        },
+        {
+          "id": "xiahoushang-sgz-zhuran-012",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 12,
+          "from": "魏遣曹真、夏侯尚、張郃等攻江陵，魏文帝自住宛，為其勢援，連屯圍城。",
+          "through": "尚等不能克，乃徹攻退還。",
+          "citation": "《三國志·卷五十六 ‧ 吳書十一　朱治朱然呂範朱桓傳第十一 朱然傳》原文"
+        },
+        {
+          "id": "xiahoushang-js-tianwenzhi-003",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 3,
+          "from": "四月，征南大將軍夏侯尚薨。",
+          "through": "四月，征南大將軍夏侯尚薨。",
+          "citation": "《晉書·卷十三·志第三·天文下》"
         }
       ],
       "exclusions": [
@@ -29567,6 +29585,15 @@
           "term": "夏侯尚",
           "quote": "夏侯尚字伯仁，淵從子也。",
           "reason": "夏侯尚本傳正文段落（《三國志·魏書九·諸夏侯曹傳第九》），已有本傳全文機制載入，不錄為他傳摘錄。"
+        },
+        {
+          "id": "xiahoushang-excl-ahcb-tianwen-000",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 0,
+          "term": "夏侯尚",
+          "quote": "四月，征南大將軍夏侯尚薨。",
+          "reason": "他版文本重複：與 a05-013 第 3 段同為《晉書》卷十三天文志黃初七年四月夏侯尚薨條（僅「疑／宜」一字異文），已從 a05-013 錄入，本輪不重錄。"
         }
       ],
       "unresolved": [],
