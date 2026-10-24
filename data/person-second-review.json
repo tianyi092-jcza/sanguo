@@ -33231,7 +33231,38 @@
       "id": "p0021",
       "name": "荀攸",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xunyou-wudi-xiapi-guanshui",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "用荀攸、郭嘉計，遂決泗、沂水以灌城。",
+          "through": "用荀攸、郭嘉計，遂決泗、沂水以灌城。",
+          "citation": "《三國志·卷一·武帝紀第一》原文",
+          "note": "建安三年曹操圍呂布於下邳，用荀攸、郭嘉之計，決泗、沂水灌城，月餘城降。"
+        },
+        {
+          "id": "xunyou-wudi-baima-ce",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "荀攸說公曰：「今兵少不敵，分其勢乃可。公到延津，若將渡兵向其後者，紹必西應之，然後輕兵襲白馬，掩其不備，顏良可禽也。」",
+          "through": "荀攸說公曰：「今兵少不敵，分其勢乃可。公到延津，若將渡兵向其後者，紹必西應之，然後輕兵襲白馬，掩其不備，顏良可禽也。」",
+          "citation": "《三國志·卷一·武帝紀第一》原文",
+          "note": "建安五年白馬之戰，荀攸獻分勢之計：佯向延津渡河引袁紹分兵西應，再輕兵襲白馬，曹操從之，斬顏良、解白馬圍。"
+        },
+        {
+          "id": "xunyou-wudi-yanjin-erdi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "荀攸曰：「此所以餌敵，如何去之！」",
+          "through": "荀攸曰：「此所以餌敵，如何去之！」",
+          "citation": "《三國志·卷一·武帝紀第一》原文",
+          "note": "延津之戰，曹操以輜重餌敵，諸將欲棄輜重還保營，荀攸言此正所以餌敵、不可棄去，遂縱兵大破文醜。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
