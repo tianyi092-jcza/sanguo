@@ -28904,6 +28904,35 @@
           "from": "案夏侯元讓與石威則書「袁紹破後也。",
           "through": "書授孫賁以長沙，業張津以零、桂。」",
           "citation": "《三國志·吳書一·孫策傳》裴注引《志林》"
+        },
+        {
+          "id": "xiahoudun-jinshu-zhiguan-dudu",
+          "work": "jinshu",
+          "source": "a05-024-ahcb",
+          "paragraph": 19,
+          "from": "二十一年，征孫權還，夏侯惇督二十六軍是也。",
+          "through": "二十一年，征孫權還，夏侯惇督二十六軍是也。",
+          "citation": "《晉書·卷二十四·職官志》（異版文本）",
+          "note": "職官志述都督制度沿革，以建安二十一年征孫權還、夏侯惇督二十六軍為史例；與本傳「二十一年，從征孫權還，使惇都督二十六軍」互證。"
+        },
+        {
+          "id": "xiahoudun-huayang-zhuxian",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 4,
+          "from": "公使夏侯惇助先主不\n能克",
+          "through": "公使夏侯惇助先主不\n能克",
+          "citation": "《華陽國志·卷六》",
+          "note": "建安三年曹操遣夏侯惇助劉備攻呂布，不克；事在曹操自征下邳擒布之前。"
+        },
+        {
+          "id": "xiahoudun-sg-congzheng-shangmu",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 2,
+          "from": "太祖自徐州還，惇從征呂布，為流矢所中，傷左目。",
+          "through": "太祖自徐州還，惇從征呂布，為流矢所中，傷左目。",
+          "citation": "《三國志·魏書九·夏侯惇傳》"
         }
       ],
       "exclusions": [
