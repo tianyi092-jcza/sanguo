@@ -36136,7 +36136,38 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "hx-sg-caoman-shouhou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "from": "公遣華歆勒兵入宮收后",
+          "through": "遂將后殺之",
+          "citation": "《三國志·卷一‧魏書一　武帝紀第一》",
+          "note": "異說層，非陳壽正文：武帝紀建安十九年十一月伏后廢黜事所引《曹瞞傳》詳述，曹操遣華歆勒兵入宮收伏后，后匿壁中被牽出，遂被殺。此為《曹瞞傳》說法，不與正文敘事合併。"
+        },
+        {
+          "id": "hx-sg-yushi-dafu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 37,
+          "from": "六月，以軍師華歆為御史大夫。",
+          "through": "六月，以軍師華歆為御史大夫。",
+          "citation": "《三國志·卷一‧魏書一　武帝紀第一》",
+          "note": "建安二十二年（217）六月，正文：以軍師華歆為御史大夫。"
+        },
+        {
+          "id": "hx-sg-wendi-cefeng",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 0,
+          "from": "今使使持節御史大夫華歆奉策詔授丕丞相印綬、魏王璽紱，領兾州牧。",
+          "through": "今使使持節御史大夫華歆奉策詔授丕丞相印綬、魏王璽紱，領兾州牧。",
+          "citation": "《三國志·卷二‧魏書二　文帝紀第二》",
+          "note": "文帝紀引文層，非陳壽正文：袁宏《漢紀》所載漢帝詔，建安二十五年（220）曹操崩後，漢帝使持節御史大夫華歆奉策，授曹丕丞相印綬、魏王璽紱，領冀州牧。"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
