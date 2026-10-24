@@ -29458,7 +29458,35 @@
       "name": "夏侯尚",
       "status": "pilot",
       "excerpts": [],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-003",
+          "work": "houhanshu",
+          "source": "a03-003",
+          "paragraph": 42,
+          "term": "夏侯尚",
+          "quote": "孝宣皇帝以為去聖乆遠，學不厭博，故遂立大、小夏侯尚書，後又立京氏易。",
+          "reason": "「大、小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-036",
+          "work": "houhanshu",
+          "source": "a03-036",
+          "paragraph": 40,
+          "term": "夏侯尚",
+          "quote": "逵數為帝言古文尚書與經傳爾雅詁訓相應，詔令撰歐陽、大小夏侯尚書古文同異。",
+          "reason": "「大小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-079",
+          "work": "houhanshu",
+          "source": "a03-079",
+          "paragraph": 38,
+          "term": "夏侯尚",
+          "quote": "以大夏侯尚書敎授。",
+          "reason": "「大夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
