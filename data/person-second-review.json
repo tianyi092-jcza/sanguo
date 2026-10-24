@@ -36581,9 +36581,40 @@
           "through": "時人稱其才進。",
           "citation": "《後漢書·王充傳》引《袁山松書》所載",
           "note": "注文層（袁山松書）；王朗任會稽太守時又得《論衡》，還許下後時人稱其才進。"
+        },
+        {
+          "id": "lang-hhs-zhaoyi-fuyuan",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 32,
+          "from": "府掾孔融、王朗並修刺候焉",
+          "through": "府掾孔融、王朗並修刺候焉。",
+          "citation": "《後漢書·趙壹傳》所載",
+          "note": "正文層；王朗曾任大將軍何進府掾，與孔融同修刺候趙壹。段末「朗字景興，魏志有傳」為注文，不與正文合併。"
+        },
+        {
+          "id": "lang-sg-wendi-yushi",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 1,
+          "from": "壬戌，以大中大夫賈詡為太尉",
+          "through": "大理王朗為御史大夫。",
+          "citation": "《三國志·魏書二 文帝紀》",
+          "context": "元年二月",
+          "note": "正文層；黃初元年二月壬戌，王朗由大理遷御史大夫。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "lang-excl-quanjin-mingdan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 32,
+          "term": "王朗",
+          "quote": "關內侯王粲、傅巽、祭酒王選、袁奐、王朗、張承、任藩、杜襲",
+          "reason": "勸進群臣名單中僅具名王朗，無其本人言行事蹟，不單獨立為摘錄。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
