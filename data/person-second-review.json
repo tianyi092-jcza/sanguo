@@ -36846,6 +36846,16 @@
           "through": "其後乃革。",
           "citation": "《晉書·卷二十一·志第十一》",
           "note": "正文層；漢魏舊禮公主居第、尚公主者來第成婚，司空王朗以為不可，其後乃革。見王朗任司空期間對公主婚禮之議。"
+        },
+        {
+          "id": "lang-jinshu-xingfa-furouxing-yi",
+          "work": "jinshu",
+          "source": "a05-030-ahcb",
+          "paragraph": 13,
+          "from": "是時太傅鍾繇又上疏求復肉刑",
+          "through": "帝以吳蜀未平，又寢。",
+          "citation": "《晉書·卷三十·志第二十》",
+          "note": "正文層；魏時太傅鍾繇上疏求復肉刑，詔下其奏，司徒王朗議不同，百餘議者多與朗同，帝以吳蜀未平而寢。見王朗任司徒期間對復肉刑之議。"
         }
       ],
       "exclusions": [
@@ -36992,6 +37002,24 @@
           "term": "王朗",
           "quote": "使司空王朗持節奉策告祠于陵",
           "reason": "二十四史原文版，與 a05-019-ahcb 第 48 段同段異本再載（原文版止於「奏可」，未載太和元年立鄴廟、景初元年廢鄴廟之後文）；同事件已立晉書禮志引文，不重複立條。"
+        },
+        {
+          "id": "lang-excl-jinshu-konglinzhi-yinwanglang-zhi",
+          "work": "jinshu",
+          "source": "a05-030-ahcb",
+          "paragraph": 32,
+          "term": "王朗",
+          "quote": "用王朗、夏侯玄之旨",
+          "reason": "段落主體為東晉安帝元興末孔琳之駁復肉刑之議，僅引王朗、夏侯玄舊旨為據，非王朗本人言行，不另立條。"
+        },
+        {
+          "id": "lang-excl-jinshu-wanglang-furen-fengjun",
+          "work": "jinshu",
+          "source": "a05-031-ahcb",
+          "paragraph": 14,
+          "term": "王朗",
+          "quote": "外曾祖母故司徒王朗夫人楊氏",
+          "reason": "段落主體為晉帝追封王朗夫人楊氏及從母為鄉君，僅以「故司徒王朗夫人」稱楊氏，非王朗本人事蹟，不另立條。"
         }
       ],
       "conclusions": [],
