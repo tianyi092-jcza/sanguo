@@ -28970,6 +28970,22 @@
         "生卒：卒黃初元年（220 年）四月庚午，見《文帝紀》；明帝時配享太祖廟庭；生年本傳未載。",
         "本傳全文由 D1 本傳庫承載（卷九 夏侯惇傳），本輪摘錄與之互補未重複；《曹瞞傳》「夏侯氏之子、惇之叔父」之說僅記裴注層，不作正史斷語。"
       ]
+    },
+    {
+      "id": "p0016",
+      "name": "夏侯淵",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
