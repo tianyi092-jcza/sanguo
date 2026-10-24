@@ -28733,6 +28733,33 @@
           "from": "魏氏春秋曰：夏侯惇謂王曰：「天下咸知漢祚已盡，異代方起。",
           "through": "惇追恨前言，發病卒。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xiahoudun-sg-dajiangjun",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 3,
+          "from": "已卯，以前將軍夏侯惇為大將軍。",
+          "through": "已卯，以前將軍夏侯惇為大將軍。",
+          "citation": "《三國志·魏書二·文帝紀》"
+        },
+        {
+          "id": "xiahoudun-sg-hong",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 4,
+          "from": "庚午，大將軍夏侯惇薨。",
+          "through": "庚午，大將軍夏侯惇薨。",
+          "citation": "《三國志·魏書二·文帝紀》"
+        },
+        {
+          "id": "xiahoudun-sg-peixiang",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 15,
+          "from": "夏五月壬申，詔祀故大將軍夏侯惇、大司馬曹仁、車騎將軍程昱於太祖廟庭。",
+          "through": "夏五月壬申，詔祀故大將軍夏侯惇、大司馬曹仁、車騎將軍程昱於太祖廟庭。",
+          "citation": "《三國志·魏書三·明帝紀》"
         }
       ],
       "exclusions": [],
