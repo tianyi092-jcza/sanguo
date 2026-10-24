@@ -28647,6 +28647,50 @@
         "勢力繫年：甘露五年曹髦被弒後由司馬昭立為帝，咸熙年間（264—265）為曹魏名義皇帝；咸熙二年禪位於司馬炎，降封陳留王，未整段一刀切。",
         "本傳在《三國志》卷四魏書四·三少帝紀（a04-004）與曹芳、曹髦同卷，本輪正文、裴注分層摘錄；禪位後降封陳留王事與《晉書·武帝紀》互證確定。"
       ]
+    },
+    {
+      "id": "p0015",
+      "name": "夏侯惇",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "xiahoudun-hhs-zhencheng",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 31,
+          "from": "彧將往，東郡太守夏侯惇等止之。",
+          "through": "彧將往，東郡太守夏侯惇等止之。",
+          "citation": "《後漢書·荀彧傳》"
+        },
+        {
+          "id": "xiahoudun-hhs-yuzhi",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 4,
+          "from": "太祖令夏侯惇喻之。",
+          "through": "太祖令夏侯惇喻之。",
+          "citation": "《後漢書·劉虞傳》注引《魏志》"
+        },
+        {
+          "id": "xiahoudun-hhs-jiubei",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 38,
+          "from": "曹操遣夏侯惇救備。",
+          "through": "為順所敗。",
+          "citation": "《後漢書·呂布傳》"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
