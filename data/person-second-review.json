@@ -29621,6 +29621,33 @@
           "term": "夏侯尚",
           "quote": "又治尚書，學通師法，東觀記曰：「良習大夏侯尚書。」",
           "reason": "「大、小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-030a",
+          "work": "houhanshu",
+          "source": "a03-030a-ahcb",
+          "paragraph": 10,
+          "term": "夏侯尚",
+          "quote": "樂益部風俗，因留家新都，代修儒學，以夏侯尚書相傳。",
+          "reason": "「大、小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-036b",
+          "work": "houhanshu",
+          "source": "a03-036",
+          "paragraph": 32,
+          "term": "夏侯尚",
+          "quote": "弱冠能誦左氏傳及五經本文，以大夏侯尚書敎授，雖為古學",
+          "reason": "「大、小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-daxiahou-shangshu-041",
+          "work": "houhanshu",
+          "source": "a03-041",
+          "paragraph": 34,
+          "term": "夏侯尚",
+          "quote": "意字伯志。父京，以大夏侯尚書敎授，夏侯勝也。",
+          "reason": "「大、小夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
         }
       ],
       "unresolved": [],
