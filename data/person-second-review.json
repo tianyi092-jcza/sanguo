@@ -36256,6 +36256,36 @@
           "through": "歆慙曰：「自桓、靈以來，雖多英彥，未有幼童若此者。」",
           "citation": "《三國志·卷四十七‧吳書二　吳主傳第二》",
           "note": "裴注引《吳錄》：沈友十一歲時，華歆行風俗見而異之，呼其登車共語；沈友以禮婉拒，華歆慙稱自桓、靈以來雖多英彥，未有如此幼童。"
+        },
+        {
+          "id": "hx-jin-taihe5-huaxin-zhong",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 1,
+          "from": "十二月，太尉華歆薨。",
+          "through": "十二月，太尉華歆薨。",
+          "citation": "《晉書·卷十三‧志第三》",
+          "note": "晉書天文志繫年：明帝太和五年十二月，太尉華歆薨。"
+        },
+        {
+          "id": "hx-jin-taihe5-huaxin-zhong-b",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 4,
+          "from": "十二月，太尉華歆薨。",
+          "through": "十二月，太尉華歆薨。",
+          "citation": "《晉書·卷十三‧志第三》",
+          "note": "此為《晉書》卷十三另一底本的同文記載：太和五年十二月，太尉華歆薨。"
+        },
+        {
+          "id": "hx-hhs-yushi-dafu",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 30,
+          "from": "二十二年夏六月，丞相軍師華歆為御史大夫。",
+          "through": "二十二年夏六月，丞相軍師華歆為御史大夫。",
+          "citation": "《後漢書·卷九‧孝獻帝紀第九》",
+          "note": "後漢書孝獻帝紀載：二十二年夏六月，丞相軍師華歆為御史大夫。"
         }
       ],
       "exclusions": [],
