@@ -32205,15 +32205,36 @@
     {
       "id": "p0020",
       "name": "荀彧",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": {
+        "birth": {
+          "year": 163,
+          "precision": "inferred",
+          "preferredSource": "sanguozhi",
+          "evidence": [
+            "xunyu-ben-zhuan-011"
+          ],
+          "variants": [],
+          "note": "本傳載建安十七年薨，年五十，按傳統虛歲倒推約163年；非原文明載，出生月日未詳。"
+        },
+        "death": {
+          "year": 212,
+          "precision": "exact-year",
+          "preferredSource": "sanguozhi",
+          "evidence": [
+            "xunyu-ben-zhuan-011"
+          ],
+          "variants": [],
+          "note": "本傳正文載建安十七年勞軍留譙、疾留壽春以憂薨，謚敬侯；進爵國公之議的異說另層，不併入卒年判定。"
+        }
+      },
       "excerpts": [
         {
           "id": "xunyu-hhs-heyong-075",
