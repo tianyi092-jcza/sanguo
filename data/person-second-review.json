@@ -28796,6 +28796,33 @@
           "from": "夏侯惇聞其名，請與相見，大奇之，使領兵從征伐。",
           "through": "夏侯惇聞其名，請與相見，大奇之，使領兵從征伐。",
           "citation": "《三國志·魏書九·夏侯惇傳》"
+        },
+        {
+          "id": "xiahoudun-sg-zhaozhi",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 2,
+          "from": "彧知邈為亂，即勒兵設備，馳召東郡太守夏侯惇，而兖州諸城皆應布矣。",
+          "through": "彧知邈為亂，即勒兵設備，馳召東郡太守夏侯惇，而兖州諸城皆應布矣。",
+          "citation": "《三國志·魏書十·荀彧傳》"
+        },
+        {
+          "id": "xiahoudun-sg-tianchou",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "疇素與夏侯惇善，太祖語惇曰：",
+          "through": "惇就疇宿，如太祖所戒。",
+          "citation": "《三國志·魏書十一·田疇傳》"
+        },
+        {
+          "id": "xiahoudun-sg-congwu",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 9,
+          "from": "建安二十二年，與夏侯惇、臧霸等征吳。到居巢，軍士大疫，朗躬巡視，致醫藥。",
+          "through": "建安二十二年，與夏侯惇、臧霸等征吳。到居巢，軍士大疫，朗躬巡視，致醫藥。",
+          "citation": "《三國志·魏書十五·司馬朗傳》"
         }
       ],
       "exclusions": [
