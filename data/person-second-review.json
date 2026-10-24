@@ -33949,6 +33949,39 @@
           "citation": "《三國志·魏書一·武帝紀》",
           "context": "五年春正月",
           "note": "建安五年，郭嘉勸曹操東擊劉備；正文層。"
+        },
+        {
+          "id": "gj-sg-xunyu-jian",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 4,
+          "from": "先是，彧言策謀士，進戲志才",
+          "through": "志才卒，又進郭嘉。",
+          "citation": "《三國志·魏書十·荀彧傳》",
+          "context": "太祖以彧為知人",
+          "note": "荀彧舉薦戲志才卒後再薦郭嘉；正文層。"
+        },
+        {
+          "id": "gj-sg-xianzhu-peizhu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 6,
+          "from": "魏武帝遣先主統諸將要擊袁術",
+          "through": "郭嘉等並諫，魏武不從",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "context": "臣松之案",
+          "note": "裴注層：裴松之案引郭嘉諫阻曹操遣劉備擊袁術事。"
+        },
+        {
+          "id": "gj-hhs-xunyu-jian",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 34,
+          "from": "彧薦嘉，召見論天下事",
+          "through": "使孤成大業者，必此人也。",
+          "citation": "《後漢書·卷七十·荀彧傳》",
+          "context": "及鍾繇、郭嘉",
+          "note": "後漢書正文層：荀彧薦郭嘉，曹操謂使孤成大業者必此人。"
         }
       ],
       "exclusions": [],
