@@ -32214,7 +32214,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xunyu-hhs-heyong-075",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 75,
+          "from": "及彧為尚書令，遣人西迎叔父爽，并致顒屍，而葬之爽之冢傍。",
+          "through": "及彧為尚書令，遣人西迎叔父爽，并致顒屍，而葬之爽之冢傍。",
+          "citation": "《後漢書·卷六十七·黨錮列傳》原文",
+          "note": "荀彧任尚書令後，遣人西迎叔父荀爽，並將何顒遺體送至、葬於荀爽墓旁。何顒傳附載，見荀彧與荀爽之叔侄關係及尚書令任職。"
+        },
+        {
+          "id": "xunyu-hhs-shangshuling-034",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 34,
+          "from": "及帝都許，以彧為侍中，守尚書令。",
+          "through": "操每征伐在外，其軍國之事，皆與彧籌焉。",
+          "citation": "《後漢書·卷七十·鄭孔荀列傳》原文",
+          "note": "帝都許後，荀彧為侍中、守尚書令；曹操出征在外，軍國大事皆與彧商籌。居中持重之證。"
+        },
+        {
+          "id": "xunyu-hhs-faliubiao-040",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 40,
+          "from": "操將伐劉表，問彧所策。",
+          "through": "會表病死。",
+          "citation": "《後漢書·卷七十·鄭孔荀列傳》原文",
+          "note": "曹操將伐劉表，問荀彧之策；彧獻聲出宛、葉、閒行輕進掩其不意之計，操從之，會劉表病死。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
