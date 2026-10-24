@@ -33916,7 +33916,41 @@
       "id": "p0023",
       "name": "郭嘉",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "gj-sg-wudi-xiapi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "時公連戰，士卒罷，欲還，用荀攸、郭嘉計",
+          "through": "遂決泗、沂水以灌城。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "context": "三年春正月",
+          "note": "建安三年下邳之圍，郭嘉與荀攸共獻決泗、沂水灌城之計；正文層。"
+        },
+        {
+          "id": "gj-sg-wudi-liubei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "from": "程昱、郭嘉聞公遣備",
+          "through": "言於公曰：「劉備不可縱。」",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "context": "四年春二月",
+          "note": "建安四年，程昱、郭嘉聞曹操遣劉備截袁術，諫言劉備不可縱；正文層。"
+        },
+        {
+          "id": "gj-sg-wudi-dongzheng",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "郭嘉亦勸公",
+          "through": "遂東擊備，破之，生禽其將夏侯博。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "context": "五年春正月",
+          "note": "建安五年，郭嘉勸曹操東擊劉備；正文層。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
