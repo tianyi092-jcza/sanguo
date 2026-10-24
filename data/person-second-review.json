@@ -36009,7 +36009,7 @@
         },
         {
           "id": "zy-hyjgz-liuzhang-wenfa-zhanglu",
-          "work": "huayangguozhi",
+          "work": "huayang",
           "source": "a06-005",
           "paragraph": 12,
           "context": "",
@@ -36017,6 +36017,39 @@
           "through": "校尉鍾繇伐張魯有懼心",
           "citation": "《華陽國志·卷五　公孫述劉二牧志》",
           "note": "華陽國志劉璋事：建安十六年，劉璋聞曹操將遣時任司隸校尉的鍾繇伐張魯而生懼心，張松因而進言。證鍾繇建安十六年以司隸校尉受命伐張魯，與本傳相印證。"
+        },
+        {
+          "id": "zy-sg-weiguo-xiangguo-wushufu",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 3,
+          "context": "",
+          "from": "魏國初建，為大理，遷相國。",
+          "through": "楷茲度矩。」",
+          "citation": "《三國志·卷十三‧魏書十三　鍾繇華歆王朗傳第十三》",
+          "note": "本傳正文層：魏國初建，鍾繇為大理，遷相國；文帝在東宮賜繇五熟釜並為之作銘。證鍾繇魏國初建即居相國之位、文帝東宮時已受器重。正文層。"
+        },
+        {
+          "id": "zy-sg-mingdi-dingling-taifu",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 3,
+          "context": "",
+          "from": "明帝即位，進封定陵侯",
+          "through": "遂以為故事。",
+          "citation": "《三國志·卷十三‧魏書十三　鍾繇華歆王朗傳第十三》",
+          "note": "本傳正文層：明帝即位，進封定陵侯，增邑五百并前千八百戶，遷太傅；繇有膝疾拜起不便，時華歆亦以高年疾病，朝見皆使載輿車、虎賁舁上殿就坐，是後三公有疾遂以為故事。證其晚年官至太傅、封邑規模與三公疾朝之制所自。正文層。"
+        },
+        {
+          "id": "zy-sg-taihe-si-nian-hong-shichenghou",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 5,
+          "context": "",
+          "from": "太和四年，繇薨。",
+          "through": "謚曰成侯。",
+          "citation": "《三國志·卷十三‧魏書十三　鍾繇華歆王朗傳第十三》",
+          "note": "本傳正文層：太和四年鍾繇薨，帝素服臨弔，謚曰成侯。證其卒年為太和四年（230年）、謚成侯。正文層。"
         }
       ],
       "exclusions": [
