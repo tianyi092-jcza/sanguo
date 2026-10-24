@@ -34701,7 +34701,41 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "liuye-sgz-wendi-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 12,
+          "from": "魏王侍中劉廙、辛毗、劉曄、尚書令桓階、尚書陳矯、陳羣、給事黃門侍郎王毖、董遇等言",
+          "through": "莫不鳧藻。",
+          "citation": "《三國志·文帝紀》所載",
+          "context": "延康元年",
+          "note": "延康元年（220年）漢獻帝禪位前夕，劉曄以魏王侍中身份與劉廙、辛毗等聯名上言，考圖緯之言以效神明之應，勸曹丕受禪；此為羣臣勸進表文層，非文帝紀正文敘事。劉廙與劉曄為二人，勿混同。"
+        },
+        {
+          "id": "liuye-sgz-mingdi-shiyu",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 0,
+          "from": "世語曰：帝與朝士素不接",
+          "through": "才具微不及耳。」",
+          "citation": "《三國志·明帝紀》引《世語》所載",
+          "context": "即皇帝位",
+          "note": "明帝曹叡即位之初，獨見侍中劉曄，語盡日；劉曄出後評其才具為秦始皇、漢孝武之儔、微不及耳。此為裴注引《世語》層，非明帝紀正文，勿與正文混同。"
+        },
+        {
+          "id": "liuye-sgz-zhanglu-biao",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 26,
+          "from": "侍中辛毗、劉曄等在兵後",
+          "through": "幸而克獲。",
+          "citation": "《三國志·張魯傳》所載",
+          "context": "建安二十年",
+          "note": "建安二十年（215年）征張魯陽平之役，董昭表載：太祖欲還軍時，侍中辛毗、劉曄在兵後告知夏侯惇、許褚官兵已據賊要屯、賊已散走，惇親見後還白太祖，遂進兵定漢中。此為魏名臣奏載董昭表文層，非張魯傳正文敘事。"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
