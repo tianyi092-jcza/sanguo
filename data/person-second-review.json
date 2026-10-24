@@ -36006,6 +36006,17 @@
           "through": "此兒當及其曾祖。",
           "citation": "《晉書·卷三十九 ‧ 列傳第九　荀勖傳》所載",
           "note": "晉書荀勖傳：荀勖年十餘歲能屬文，從外祖魏太傅鍾繇，鍾繇稱「此兒當及其曾祖」。證鍾繇為荀勖外祖，及其對荀勖早慧可比曾祖荀爽的評價。"
+        },
+        {
+          "id": "zy-hyjgz-liuzhang-wenfa-zhanglu",
+          "work": "huayangguozhi",
+          "source": "a06-005",
+          "paragraph": 12,
+          "context": "",
+          "from": "十六年璋聞曹公將遣司隷",
+          "through": "校尉鍾繇伐張魯有懼心",
+          "citation": "《華陽國志·卷五　公孫述劉二牧志》",
+          "note": "華陽國志劉璋事：建安十六年，劉璋聞曹操將遣時任司隸校尉的鍾繇伐張魯而生懼心，張松因而進言。證鍾繇建安十六年以司隸校尉受命伐張魯，與本傳相印證。"
         }
       ],
       "exclusions": [
@@ -36053,6 +36064,24 @@
           "term": "鍾繇",
           "quote": "如漢相國蕭何、田千秋、魏太傅鍾繇故事",
           "reason": "晉初詔書進何曾為太宰時，以漢相國蕭何、田千秋及魏太傅鍾繇的朝會劍履乘輿上殿禮遇為先例比附，僅借鍾繇舊例說明何曾待遇，非鍾繇本人事蹟，不錄為摘錄。"
+        },
+        {
+          "id": "zy-excl-js-wangxizhi-bizhongyao",
+          "work": "jinshu",
+          "source": "a05-080-ahcb",
+          "paragraph": 7,
+          "term": "鍾繇",
+          "quote": "我書比鍾繇，當抗行",
+          "reason": "晉書王羲之傳載王羲之自稱其書比鍾繇當抗行，僅以鍾繇書法為自比標杆，言王羲之書法地位，非鍾繇本人事蹟，不錄為摘錄。"
+        },
+        {
+          "id": "zy-excl-hyjgz-zhangyi-yuanchang-bei",
+          "work": "huayangguozhi",
+          "source": "a06-010",
+          "paragraph": 23,
+          "term": "鍾元常",
+          "quote": "許文休稱其才鍾元常輩也",
+          "reason": "華陽國志先賢志張裔條載許靖稱張裔之才為鍾元常之輩，與已錄三國志張裔傳「是中夏鍾元常之倫」（a04-041:9，zy-sg-zhangyi-yuanchang-lun）同為許靖評張裔比鍾繇之史實，僅底本表述略異，不重複錄入。"
         }
       ],
       "conclusions": [],
