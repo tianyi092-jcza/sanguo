@@ -30596,7 +30596,7 @@
         },
         {
           "id": "xiahouba-huayang-guohaiguozhi-007",
-          "work": "huayangguozhi",
+          "work": "huayang",
           "source": "a06-007",
           "paragraph": 21,
           "from": "維出隴西與魏將郭淮夏侯霸\n戰剋之",
@@ -30606,13 +30606,46 @@
         },
         {
           "id": "xiahouba-huayang-taoxi-007",
-          "work": "huayangguozhi",
+          "work": "huayang",
           "source": "a06-007",
           "paragraph": 23,
           "from": "夏率車騎將軍夏侯霸及\n翼出狄道大破魏雍州剌史王經于洮西",
           "through": "夏率車騎將軍夏侯霸及\n翼出狄道大破魏雍州剌史王經于洮西",
           "citation": "《華陽國志·卷七 劉後主志》原文",
           "note": "延熙十八年（255），夏侯霸以車騎將軍從姜維出狄道，大破魏雍州刺史王經於洮西；霸奔蜀後蜀漢階段史實。"
+        },
+        {
+          "id": "xiahouba-sgz-houzhu-033",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 28,
+          "from": "右將軍夏侯霸來降",
+          "through": "右將軍夏侯霸來降",
+          "context": "十二年春正月，魏誅大將軍曹爽等，",
+          "citation": "《三國志·卷三十三 ‧ 蜀書三　後主傳第三》原文",
+          "note": "後主延熙十二年（249）春正月，曹爽等伏誅，右將軍夏侯霸來降蜀；霸奔蜀之關鍵繫年記載（後主傳）。"
+        },
+        {
+          "id": "xiahouba-sgz-zhaoyun-036",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "from": "夏侯霸遠來歸國，故復得謚",
+          "through": "夏侯霸遠來歸國，故復得謚",
+          "context": "陳祗寵待，特加殊獎，",
+          "citation": "《三國志·卷三十六 ‧ 蜀書六　關張馬黃趙傳第六 趙雲傳》原文",
+          "note": "後主時追謚功臣，夏侯霸以「遠來歸國」復得謚；霸奔蜀後受蜀漢禮遇之證（此段主敘趙雲追謚，霸僅附見一句）。"
+        },
+        {
+          "id": "xiahouba-sgz-jiangwei-taoxi-044",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 16,
+          "from": "復與車騎將軍夏侯霸等俱出狄道，大破魏雍州刺史王經於洮西",
+          "through": "復與車騎將軍夏侯霸等俱出狄道，大破魏雍州刺史王經於洮西",
+          "context": "拔河間、狄道、臨洮三縣民還，後十八年，",
+          "citation": "《三國志·卷四十四 ‧ 蜀書十四　蔣琬費禕姜維傳第十四 姜維傳》原文",
+          "note": "延熙十八年（255），車騎將軍夏侯霸與姜維俱出狄道，大破魏雍州刺史王經於洮西；與已錄華陽國志《劉後主志》洮西之戰同事件，此為姜維傳原文分層。"
         }
       ],
       "exclusions": [],
