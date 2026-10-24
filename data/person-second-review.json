@@ -33915,7 +33915,7 @@
     {
       "id": "p0023",
       "name": "郭嘉",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "gj-sg-wudi-xiapi",
@@ -34143,6 +34143,16 @@
           "through": "可一舉定也",
           "citation": "《三國志·卷十四 ‧ 魏書十四　程郭董劉蔣劉傳第十四 郭嘉傳》",
           "note": "本傳正文層：破袁紹後從討譚、尚於黎陽，諸將欲乘勝遂攻，郭嘉獻緩攻待變策——譚尚必交鬥相離，急之則相持、緩之則爭心生，不如南向荊州若征劉表以待其變；太祖從之，譚尚果爭兾州，後定鄴、南皮，嘉封洧陽亭侯。同段末傅子曰河北既平辟召皆嘉之謀為裴注層，不與正文合併。"
+        },
+        {
+          "id": "gj-sg-guojia-zheng-wuhuan",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 13,
+          "from": "太祖將征袁尚及三郡烏丸",
+          "through": "尚及兄熈走遼東",
+          "citation": "《三國志·卷十四 ‧ 魏書十四　程郭董劉蔣劉傳第十四 郭嘉傳》",
+          "note": "本傳正文層：太祖將征袁尚及三郡烏丸，諸將多懼劉表使劉備襲許，嘉力主北征——胡恃其遠必不設備，可卒然擊破；舍而南征則尚因烏丸之資招其死主之臣，青、兾非己有；斷劉表為坐談客、自知才不足以御備，重任恐不能制、輕任備不為用，故虛國遠征無憂；至易又獻留輜重、輕兵兼道、掩其不意策，太祖密出盧龍塞直指單于庭，大破斬蹋頓，尚及兄熈走遼東。正文層，不與裴注合併。"
         }
       ],
       "exclusions": [
@@ -34176,13 +34186,24 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": {
+        "death": {
+          "year": 207,
+          "precision": "exact-year",
+          "preferredSource": "sanguozhi",
+          "evidence": [
+            "gj-sg-guojia-liucheng-si"
+          ],
+          "variants": [],
+          "note": "《三國志》卷十四郭嘉傳載年三十八，自柳城還，疾篤而薨；柳城之役在建安十二年，故卒年207年。"
+        }
+      }
     }
   ]
 }
