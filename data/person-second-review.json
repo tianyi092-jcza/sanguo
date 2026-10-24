@@ -36456,6 +36456,36 @@
           "through": "圖起義兵。",
           "citation": "《三國志·卷五十七 ‧ 吳書十二　虞陸張駱陸吾朱傳第十二 虞翻傳》",
           "note": "裴注引翻別傳：王朗遣虞翻往見豫章太守華歆，圖起義兵；翻未至豫章即聞孫策向會稽而還。"
+        },
+        {
+          "id": "hx-jiangbiao-fan-shuo-xin-ying-ce",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 2,
+          "from": "翻旣去，歆明旦出城，遣吏迎策。",
+          "through": "翻旣去，歆明旦出城，遣吏迎策。",
+          "citation": "《三國志·卷五十七 ‧ 吳書十二　虞陸張駱陸吾朱傳第十二 虞翻傳》",
+          "note": "裴注引江表傳：孫策欲取豫章，遣虞翻勸說歆；翻去後，歆明旦出城，遣吏迎策。"
+        },
+        {
+          "id": "hx-luotong-mu-gaishi-xin",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 23,
+          "from": "統母改適，為華歆小妻",
+          "through": "遂與親客歸會稽。",
+          "citation": "《三國志·卷五十七 ‧ 吳書十二　虞陸張駱陸吾朱傳第十二 駱統傳》",
+          "note": "駱統母改嫁為華歆小妻，統時八歲，遂與親客歸會稽。"
+        },
+        {
+          "id": "hx-jinshu-fuyang-zhengmao",
+          "work": "jinshu",
+          "source": "a05-044-ahcb",
+          "paragraph": 0,
+          "from": "時華歆爲豫章太守，渾往依之",
+          "through": "撫養袤如己子。",
+          "citation": "《晉書·卷四十四 ‧ 列傳第十四　鄭袤傳》",
+          "note": "鄭渾避難江東往依豫章太守華歆，歆素與鄭泰善，撫養鄭袤如己子。"
         }
       ],
       "exclusions": [
