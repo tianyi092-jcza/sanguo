@@ -29308,6 +29308,33 @@
           "from": "旣亡漢中，使夏侯淵、張郃深入于巴，幾喪一州。",
           "through": "旣亡漢中，使夏侯淵、張郃深入于巴，幾喪一州。",
           "citation": "《三國志·蜀書十·廖立傳》"
+        },
+        {
+          "id": "xiahouyuan-huangquan-hanzhong-mou",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 1,
+          "from": "然卒破杜濩、朴胡，殺夏侯淵，據漢中，皆權本謀也。",
+          "through": "然卒破杜濩、朴胡，殺夏侯淵，據漢中，皆權本謀也。",
+          "citation": "《三國志·蜀書十三·黃權傳》"
+        },
+        {
+          "id": "xiahouyuan-lvmeng-hanzhong-wei",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 34,
+          "from": "左將軍在漢中，為夏侯淵所圍。",
+          "through": "左將軍在漢中，為夏侯淵所圍。",
+          "citation": "《三國志·吳書九·呂蒙傳》"
+        },
+        {
+          "id": "xiahouyuan-hygz-hanzhong-liushou",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 6,
+          "from": "魏武以巴夷王杜濩朴胡袁約為三\n巴太守留征西將軍夏侯淵及張郃益州刺史趙顒\n等守漢中遷其民於關隴",
+          "through": "魏武以巴夷王杜濩朴胡袁約為三\n巴太守留征西將軍夏侯淵及張郃益州刺史趙顒\n等守漢中遷其民於關隴",
+          "citation": "《華陽國志》卷二·四部叢刊本"
         }
       ],
       "exclusions": [
