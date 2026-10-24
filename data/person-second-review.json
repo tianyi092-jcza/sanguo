@@ -29002,6 +29002,33 @@
           "from": "太原商曜等以大陵叛，遣夏侯淵、徐晃圍破之。",
           "through": "太原商曜等以大陵叛，遣夏侯淵、徐晃圍破之。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xiahouyuan-sg-liangxing",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 27,
+          "from": "馬超餘衆梁興等屯藍田，使夏侯淵擊平之。",
+          "through": "馬超餘衆梁興等屯藍田，使夏侯淵擊平之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xiahouyuan-sg-diwang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 33,
+          "from": "馬超在漢陽，復因羌、胡為害，氐王千萬叛應超，屯興國。使夏侯淵討之。",
+          "through": "馬超在漢陽，復因羌、胡為害，氐王千萬叛應超，屯興國。使夏侯淵討之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xiahouyuan-sg-hansui",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "from": "韓遂徙金城，入氐王千萬部，率羌、胡萬餘騎與夏侯淵戰，擊，大破之，遂走西平。淵與諸將攻興國，屠之。",
+          "through": "韓遂徙金城，入氐王千萬部，率羌、胡萬餘騎與夏侯淵戰，擊，大破之，遂走西平。淵與諸將攻興國，屠之。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "exclusions": [],
