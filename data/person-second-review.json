@@ -36696,6 +36696,36 @@
           "through": "明府何慮？」",
           "citation": "《三國志·魏書十三 鍾繇華歆王朗傳》",
           "note": "裴注層；裴注引虞溥《江表傳》，孫策徇豫章時功曹劉壹舉王朗（字景興）會稽歸順見恕為例，勸華歆出城迎策。"
+        },
+        {
+          "id": "lang-sg-taoqian-qinwang",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 16,
+          "from": "朗為謙治中，與別駕趙昱等說謙曰",
+          "through": "朗會稽太守。",
+          "citation": "《三國志·魏書十三 鍾繇華歆王朗傳》",
+          "note": "正文層；朗為徐州刺史陶謙治中，與別駕趙昱說謙勤王遣使長安，天子拜謙安東將軍，朗為會稽太守。"
+        },
+        {
+          "id": "lang-sg-sunce-xiangce",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 16,
+          "from": "孫策渡江略地。",
+          "through": "策以朗儒雅，詰讓而不害。",
+          "citation": "《三國志·魏書十三 鍾繇華歆王朗傳》",
+          "note": "正文層；朗自以身為漢吏保城，與孫策戰敗，浮海至東冶，復為策追擊大破，乃詣策，策以其儒雅詰讓而不害。"
+        },
+        {
+          "id": "lang-sg-wendi-sikong-fenghou",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 19,
+          "from": "及文帝踐阼，改為司空，進封樂平鄉侯。",
+          "through": "及文帝踐阼，改為司空，進封樂平鄉侯。",
+          "citation": "《三國志·魏書十三 鍾繇華歆王朗傳》",
+          "note": "正文層；文帝踐阼，朗改任司空，進封樂平鄉侯。"
         }
       ],
       "exclusions": [
