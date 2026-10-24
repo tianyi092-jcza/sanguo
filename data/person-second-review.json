@@ -33261,9 +33261,38 @@
           "through": "荀攸曰：「此所以餌敵，如何去之！」",
           "citation": "《三國志·卷一·武帝紀第一》原文",
           "note": "延津之戰，曹操以輜重餌敵，諸將欲棄輜重還保營，荀攸言此正所以餌敵、不可棄去，遂縱兵大破文醜。"
+        },
+        {
+          "id": "xunyou-wudi-jianan8-quan-tan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 18,
+          "from": "諸將皆疑，荀攸勸公許之",
+          "through": "諸將皆疑，荀攸勸公許之",
+          "citation": "《三國志·卷一·武帝紀第一》原文",
+          "note": "建安八年袁譚遣辛毗乞降請救，諸將皆疑，荀攸勸曹操許之，曹操從之引軍還，為子整與譚結婚。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xunyou-excl-001",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 40,
+          "term": "荀攸",
+          "quote": "彧使荀攸深自陳讓，至于十數，乃止。",
+          "reason": "段落主角為荀彧（曹操上書表彧、為彧增封）；荀攸僅代彧深自陳讓一語，無荀攸本人謀劃事蹟，排除。"
+        },
+        {
+          "id": "xunyou-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 4,
+          "term": "荀攸",
+          "quote": "太祖問彧：「誰能代卿為我謀者？」彧言「荀攸、鍾繇」。",
+          "reason": "段落主角為荀彧（勸迎天子都許、舉薦謀士）；荀攸僅於彧答問中被舉為代彧謀者一語，無荀攸本人言行事蹟，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
