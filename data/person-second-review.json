@@ -32246,7 +32246,35 @@
           "note": "曹操將伐劉表，問荀彧之策；彧獻聲出宛、葉、閒行輕進掩其不意之計，操從之，會劉表病死。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xunyu-excl-001",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 9,
+          "term": "荀彧",
+          "quote": "魏志云諶，荀彧之弟。",
+          "reason": "段落主角為荀諶說韓馥讓冀州；荀彧僅於注文中被指為荀諶之兄，無荀彧本人言行事蹟，排除。"
+        },
+        {
+          "id": "xunyu-excl-002",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 18,
+          "term": "荀彧",
+          "quote": "魏太祖平荊州，與荀彧書曰：『不喜得荊州，喜得異度耳。』",
+          "reason": "段落主角為劉表入荊州、用蒯越平宗賊；荀彧僅於傅子注引曹操書信中出現，為蒯越事蹟旁證，非荀彧本人事蹟，排除。"
+        },
+        {
+          "id": "xunyu-excl-003",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 47,
+          "term": "荀文若",
+          "quote": "又問：「荀文若、趙稚長云何？」",
+          "reason": "段落主角為禰衡品評時人；荀文若僅為禰衡評品對象之一，無荀彧本人言行事蹟，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
