@@ -34689,6 +34689,22 @@
         "生卒：卒青龍四年（236 年）五月乙卯，卒官司徒，《三國志·明帝紀》與《晉書·天文志》互證；生年按原庫 156 年。",
         "本傳全文由 D1 本傳庫承載（卷十四，董昭傳與程昱、郭嘉等同卷），本輪他傳摘錄與本傳段落分層並列，不重複摘錄。"
       ]
+    },
+    {
+      "id": "p0026",
+      "name": "劉曄",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
