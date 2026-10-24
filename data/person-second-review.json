@@ -33594,8 +33594,39 @@
       "id": "p0022",
       "name": "賈詡",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "jiaxu-hhs-xiandi-eclipse-193",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 6,
+          "from": "賈詡奏曰：『立司候不明，疑誤上下，請付理官。』",
+          "through": "賈詡奏曰：『立司候不明，疑誤上下，請付理官。』",
+          "citation": "《後漢書》卷九·孝獻帝紀第九",
+          "note": "初平四年（193）正月日食，太史令王立先奏晷過度無變、朝臣皆賀，後日食果至；賈詡奏請以司候不明付理官，獻帝以天道遠、事驗難明不從，反自責不德。此句出自袁宏紀引文（後漢書注引），非本紀正文。"
+        },
+        {
+          "id": "jiaxu-hhs-liubiao-sui-zhangji-196",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 20,
+          "from": "濟引衆入荊州，賈詡隨之歸劉表。",
+          "through": "濟引衆入荊州，賈詡隨之歸劉表。",
+          "citation": "《後漢書》卷七十四下·劉表傳",
+          "note": "建安元年（196）張濟自關中走南陽、攻穰城中流矢死；獻帝春秋引文記賈詡隨張濟之衆入荊州至劉表處。此句出自獻帝春秋引文（後漢書注引），非本傳正文。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "jiaxu-excl-001",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 25,
+          "term": "賈詡",
+          "quote": "稟與賈詡有隙，脅扶風吏人為騰守槐里，欲共攻傕。",
+          "reason": "段落主角為馬騰、杜稟攻李傕之事；賈詡僅在獻帝紀引文中被提及與杜稟有隙，無賈詡本人言行事蹟，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
