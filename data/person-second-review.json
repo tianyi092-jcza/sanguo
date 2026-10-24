@@ -29254,6 +29254,33 @@
           "from": "曹公使夏侯淵、張郃屯漢中，數數犯暴巴界。",
           "through": "曹公使夏侯淵、張郃屯漢中，數數犯暴巴界。",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "xiahouyuan-zhugeliang-moji-yangping-qin",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 31,
+          "from": "而備猶出兵陽平，禽夏侯淵。",
+          "through": "而備猶出兵陽平，禽夏侯淵。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》（裴注引張儼《默記》）"
+        },
+        {
+          "id": "xiahouyuan-zhangfei-shouhanchuan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 10,
+          "from": "曹公破張魯，留夏侯淵、張郃守漢川。",
+          "through": "曹公破張魯，留夏侯淵、張郃守漢川。",
+          "citation": "《三國志·蜀書六·張飛傳》"
+        },
+        {
+          "id": "xiahouyuan-huangzhong-dingjunshan-zhan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 19,
+          "from": "建安二十四年，於漢中定軍山擊夏侯淵。",
+          "through": "一戰斬淵，淵軍大敗。",
+          "citation": "《三國志·蜀書六·黃忠傳》"
         }
       ],
       "exclusions": [
