@@ -35437,7 +35437,41 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zy-pei-songma",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 15,
+          "context": "將記述者欲以少見奇，非其實錄也。",
+          "from": "按鍾繇傳云：「公與紹相持，繇為司隷，送馬二千餘匹以給軍。」",
+          "through": "按鍾繇傳云：「公與紹相持，繇為司隷，送馬二千餘匹以給軍。」",
+          "citation": "《三國志·卷一‧魏書一　武帝紀第一》",
+          "note": "裴注松之案引鍾繇傳：官渡相持時繇為司隷，送馬二千餘匹給軍；松之案對馬數存疑（本紀稱騎六百餘匹）。注文層，不與正文合併。"
+        },
+        {
+          "id": "zy-sg-zhanglu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "context": "張魯據漢中，",
+          "from": "三月，遣鍾繇討之。",
+          "through": "公使淵等出河東與繇會。",
+          "citation": "《三國志·卷一‧魏書一　武帝紀第一》",
+          "note": "建安十六年三月遣鍾繇討張魯，夏侯淵等出河東與之會；關中諸將疑繇欲自襲，馬超等遂叛。"
+        },
+        {
+          "id": "zy-sg-xiangguo",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 36,
+          "context": "遂留魏，使右賢王去卑監其國。",
+          "from": "八月，以大理鍾繇為相國。",
+          "through": "八月，以大理鍾繇為相國。",
+          "citation": "《三國志·卷一‧魏書一　武帝紀第一》",
+          "note": "建安二十一年八月，以大理鍾繇為相國。"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
