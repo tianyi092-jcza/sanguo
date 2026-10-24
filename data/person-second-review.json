@@ -29083,9 +29083,64 @@
           "from": "以為安西將軍、持節，承夏侯淵處都督關中。",
           "through": "以為安西將軍、持節，承夏侯淵處都督關中。",
           "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "xiahouyuan-sg-kaipian-miaocai",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 6,
+          "from": "夏侯淵字妙才，惇族弟也。",
+          "through": "太祖營救之，得免。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "xiahouyuan-weilue-qi-yozi",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 6,
+          "from": "魏略曰：時兖、豫大亂，淵以饑乏，棄其幼子，而活亡弟孤女。",
+          "through": "魏略曰：時兖、豫大亂，淵以饑乏，棄其幼子，而活亡弟孤女。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》（魏略）"
+        },
+        {
+          "id": "xiahouyuan-sg-congzheng-liqian",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 6,
+          "from": "太祖起兵，以別部司馬、騎都尉從，遷陳留、潁川太守。",
+          "through": "淵將泰山、齊、平原郡兵擊，大破之，斬和，平諸縣，收其糧穀以給軍士。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "xiahouyuan-weishu-dianjun-sanyu",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 6,
+          "from": "魏書曰：淵為將，赴急疾，常出敵之不意，",
+          "through": "「典軍校尉夏侯淵，三日五百，六日一千。」",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》（魏書）"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xiahouyuan-excl-title",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 5,
+          "term": "夏侯淵",
+          "quote": "夏侯淵傳",
+          "reason": "僅本傳卷首傳名標題，無事實內容，不錄為摘錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-xiashang",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 36,
+          "term": "夏侯淵",
+          "quote": "與夏侯尚等征孫權，擊牛渚屯，破之。",
+          "reason": "段落主角為曹真，所記「夏侯尚」為族弟尚非本人，無夏侯淵事蹟，不錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
