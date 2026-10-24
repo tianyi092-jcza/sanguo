@@ -29457,7 +29457,26 @@
       "id": "p0017",
       "name": "夏侯尚",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xiahoushang-sgz-mingdiji-003",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 3,
+          "from": "達旣為文帝所寵，又與桓階、夏侯尚親善，及文帝崩，時桓、尚皆卒，達自以羈旅久在疆場，心不自安。",
+          "through": "達旣為文帝所寵，又與桓階、夏侯尚親善，及文帝崩，時桓、尚皆卒，達自以羈旅久在疆場，心不自安。",
+          "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》裴注引《魏略》"
+        },
+        {
+          "id": "xiahoushang-sgz-caozhen-009",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 36,
+          "from": "黃初三年還京都，以真為上軍大將軍，都督中外諸軍事，假節鉞。",
+          "through": "與夏侯尚等征孫權，擊牛渚屯，破之。",
+          "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九 曹真傳》原文"
+        }
+      ],
       "exclusions": [
         {
           "id": "xiahoushang-excl-daxiahou-shangshu-003",
@@ -29485,6 +29504,15 @@
           "term": "夏侯尚",
           "quote": "以大夏侯尚書敎授。",
           "reason": "「大夏侯尚書」為西漢《尚書》經學學派（夏侯勝、夏侯建所傳），非三國魏夏侯尚本人；候選系字面子串誤命中，不錄。"
+        },
+        {
+          "id": "xiahoushang-excl-benzhuan-009",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 47,
+          "term": "夏侯尚",
+          "quote": "夏侯尚字伯仁，淵從子也。",
+          "reason": "夏侯尚本傳正文段落（《三國志·魏書九·諸夏侯曹傳第九》），已有本傳全文機制載入，不錄為他傳摘錄。"
         }
       ],
       "unresolved": [],
