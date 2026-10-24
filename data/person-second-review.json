@@ -36124,6 +36124,22 @@
         "勢力繫年：關中都督平定關中、從征張魯、魏國相國至太傅，皆附曹魏一系；正文、裴注、異說分層錄入，未整段一刀切。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0029",
+      "name": "華歆",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
