@@ -28651,7 +28651,7 @@
     {
       "id": "p0015",
       "name": "夏侯惇",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "xiahoudun-hhs-zhencheng",
@@ -28957,13 +28957,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪共錄正摘錄 31 條（《三國志》本傳 3、《三國志》他傳 22、裴注 1、《後漢書》3、《晉書·職官志》1、《華陽國志》1），排除 2 條，未解決 0 條；向量候選已全部覆核完畢，無新候選。",
+        "辨人：與夏侯尚（休）、夏侯嬰等嚴格區分；本傳卷首傳名標題與夏侯尚傳「薨」作紀年參照段僅排除不錄，未混入本人事蹟。",
+        "勢力繫年：自初平從曹操起兵（揚州募兵、從征呂布傷左目）至曹魏始終未轉投；建安二十一年督二十六軍征吳還，居巢屯守，為方面大將，勢力單一無轉折。",
+        "生卒：卒黃初元年（220 年）四月庚午，見《文帝紀》；明帝時配享太祖廟庭；生年本傳未載。",
+        "本傳全文由 D1 本傳庫承載（卷九 夏侯惇傳），本輪摘錄與之互補未重複；《曹瞞傳》「夏侯氏之子、惇之叔父」之說僅記裴注層，不作正史斷語。"
+      ]
     }
   ]
 }
