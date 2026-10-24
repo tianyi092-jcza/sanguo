@@ -29475,6 +29475,33 @@
           "from": "黃初三年還京都，以真為上軍大將軍，都督中外諸軍事，假節鉞。",
           "through": "與夏侯尚等征孫權，擊牛渚屯，破之。",
           "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九 曹真傳》原文"
+        },
+        {
+          "id": "xiahoushang-sgz-jiangji-014",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 25,
+          "from": "大駕幸宛，征南大將軍夏侯尚等攻江陵，未拔。",
+          "through": "帝悟昭言，即詔尚等促出。",
+          "citation": "《三國志·卷十四 ‧ 魏書十四　程郭董劉蔣劉傳第十四 蔣濟傳》原文"
+        },
+        {
+          "id": "xiahoushang-sgz-zhanghe-017",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 18,
+          "from": "召郃與真並朝許宮，遣南與夏侯尚擊江陵。",
+          "through": "郃別督諸軍渡江，取洲上屯塢。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七 張郃傳》原文"
+        },
+        {
+          "id": "xiahoushang-sgz-wenpin-018",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 15,
+          "from": "文帝踐阼，進爵長安鄉侯，假節。與夏侯尚圍江陵，使聘別屯沔口，",
+          "through": "止石梵，自當一隊，禦賊有功",
+          "citation": "《三國志·卷十八 ‧ 魏書十八　二李臧文呂許典二龐閻傳第十八 文聘傳》原文"
         }
       ],
       "exclusions": [
