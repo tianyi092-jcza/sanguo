@@ -40585,6 +40585,36 @@
           "from": "留于禁屯河上",
           "through": "留于禁屯河上。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "yujin-sg-wudi-fancheng-beiqin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "context": "秋七月，以夫人卞氏為王后。",
+          "from": "遣于禁助曹仁擊關羽。",
+          "through": "羽獲禁，遂圍仁。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "yujin-sg-weishu-ba-yujin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 41,
+          "context": "知人善察，難眩以偽，",
+          "from": "拔于禁、樂進於行陣之間，",
+          "through": "皆佐命立功，列為名將；",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "yujin-sg-wendi-sunquan-songhuan",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 18,
+          "context": "秋八月，",
+          "from": "孫權遣使奉章，",
+          "through": "并遣于禁等還。",
+          "citation": "《三國志·魏書二·文帝紀》"
         }
       ],
       "exclusions": [
