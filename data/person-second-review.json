@@ -41728,6 +41728,33 @@
           "term": "鄧羌",
           "quote": "苻堅將鄧羌攻張育，滅之。",
           "reason": "向量候選以樊城之戰、潼關之戰事件信號命中，實為前秦苻堅、鄧羌攻張育事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-shizhan-xiapi",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 25,
+          "term": "石瞻",
+          "quote": "勒將兵都尉石瞻寇下邳，敗晉將軍劉長，遂寇蘭陵，又敗彭城內史劉續。",
+          "reason": "向量候選以潼關之戰事件信號命中，實為後趙石勒部將石瞻寇下邳事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-houhanshu-dongqiang-wudu",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 166,
+          "term": "凍羌",
+          "quote": "且凍羌寇武都，燒隴關。",
+          "reason": "向量候選以潼關之戰事件信號命中，實為凍羌寇武都、燒隴關事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-huanchong-xiangyang",
+          "work": "jinshu",
+          "source": "a05-114-ahcb",
+          "paragraph": 12,
+          "term": "桓沖",
+          "quote": "晉車騎將軍桓沖率眾十萬伐堅，遂攻襄陽。",
+          "reason": "向量候選以潼關之戰事件信號命中，實為東晉桓沖伐前秦苻堅、攻襄陽事，段中未提徐晃，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
