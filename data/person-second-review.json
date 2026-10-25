@@ -42160,6 +42160,33 @@
           "term": "合肥",
           "quote": "孫權率十萬衆攻圍合肥城百餘日",
           "reason": "段述建安十三年合肥守城事，段中未提李典，係合肥事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-015",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 2,
+          "term": "合肥",
+          "quote": "單馬造合肥空城",
+          "reason": "段述劉馥受命經營合肥、立州治、廣屯田備戰守事，段中未提李典，係合肥事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-016",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 22,
+          "term": "合肥",
+          "quote": "吳太傅諸葛恪圍合肥新城",
+          "reason": "段述嘉平五年諸葛恪圍合肥新城、張特守城事，段中未提李典，係合肥事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-017",
+          "work": "jinshu",
+          "source": "a05-081-ahcb",
+          "paragraph": 39,
+          "term": "合肥",
+          "quote": "軍次東關，破合肥",
+          "reason": "段述東晉陶寶討祖約、軍次東關破合肥事，段中未提李典，係合肥事件信號誤命中，排除。"
         }
       ],
       "unresolved": [],
