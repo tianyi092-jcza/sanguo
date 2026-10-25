@@ -37049,6 +37049,33 @@
           "term": "王朗",
           "quote": "解結欽王朗之跡",
           "reason": "史臣曰論贊中僅提及「王朗之跡」，未敘王朗本人事蹟，不另立條。"
+        },
+        {
+          "id": "lang-excl-jinshu-jilong-wanglang-ji",
+          "work": "jinshu",
+          "source": "a05-106-ahcb",
+          "paragraph": 3,
+          "term": "王朗",
+          "quote": "季龍遣將王朗擊之",
+          "reason": "後趙石季龍時將領，與三國魏司空王朗同名異人，不另立條。"
+        },
+        {
+          "id": "lang-excl-jinshu-lingjun-wanglang-jian",
+          "work": "jinshu",
+          "source": "a05-106-ahcb",
+          "paragraph": 61,
+          "term": "王朗",
+          "quote": "領軍王朗言之於季龍曰",
+          "reason": "後趙領軍王朗諫石季龍事，與三國王朗同名異人，不另立條。"
+        },
+        {
+          "id": "lang-excl-jinshu-cheqi-wanglang-jiebao",
+          "work": "jinshu",
+          "source": "a05-107-ahcb",
+          "paragraph": 19,
+          "term": "王朗",
+          "quote": "遵遣車騎王朗率精騎二萬",
+          "reason": "後趙石遵遣車騎王朗事，與三國王朗同名異人，不另立條。"
         }
       ],
       "conclusions": [],
