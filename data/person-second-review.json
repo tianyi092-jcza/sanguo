@@ -44576,7 +44576,7 @@
     {
       "id": "p0056",
       "name": "滿寵",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "manchong-hefei-xincheng-ju-sunquan",
@@ -44760,13 +44760,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "覆核處置共 18 段：錄正摘錄 15 條、排除 3 條、未解決 0 條；本輪以已覆蓋表重跑向量／人名候選為 0 段，候選枯竭，收尾。",
+        "辨人：本傳單字「寵」段與同卷田豫、徐晃、劉劭等傳人物嚴格分開，同句他傳人物事不串人；裴注孫資別傳另層分離；晉書天文志四庫本與二十四史本同句薨事不重複摘錄。",
+        "生平繫年：字伯寧，山陽昌邑人；為汝南太守平袁紹本郡壁壘，樊城被圍時諫止曹仁夜遁，後以征東將軍屢拒孫權於合肥、新城，晚年遷太尉，正始三年三月薨，《三國志·齊王紀》與《晉書·天文志》互證；卷末評曰「立志剛毅，勇而有謀」。",
+        "勢力繫年：始終為魏方守將，合肥、新城抗吳諸段不得記為吳勢力；太和二年東關從征、青龍中合肥請兵皆按當時職任與戰役階段記。",
+        "史源覆蓋：三國志正文、裴注、晉書均已核；《後漢書》《華陽國志》無人名命中段落，已核。"
+      ]
     }
   ]
 }
