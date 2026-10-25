@@ -39007,7 +39007,35 @@
       "id": "p0035",
       "name": "徐幹",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xg-sg-jiaoyou",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 4,
+          "from": "粲與北海徐幹字偉長",
+          "through": "並見友善。",
+          "citation": "《三國志·魏書二十一·王粲傳》"
+        },
+        {
+          "id": "xg-sg-jianan22-zu",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 9,
+          "from": "瑀以十七年卒。",
+          "through": "幹、琳、瑒、楨二十二年卒。",
+          "citation": "《三國志·魏書二十一·王粲傳》"
+        },
+        {
+          "id": "xg-hhs-liuzhen-zhang",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 26,
+          "from": "與徐幹",
+          "through": "俱以章知名，",
+          "citation": "《後漢書·卷八十下·文苑列傳下》"
+        }
+      ],
       "exclusions": [
         {
           "id": "xg-hhs-banchao-jiashima",
