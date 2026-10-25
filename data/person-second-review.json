@@ -37255,6 +37255,36 @@
           "through": "於太祖廟庭。",
           "citation": "《三國志·魏書四 三少帝紀》所載",
           "note": "正文層（三少帝紀）；詔祀故臣於太祖廟庭，陳羣以故司空列名其中。"
+        },
+        {
+          "id": "qun-wendi-taihou-feng",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 5,
+          "from": "尚書陳羣奏曰",
+          "through": "非先王之令典也。",
+          "citation": "《三國志·魏書五 后妃傳》所載",
+          "note": "正文層（后妃傳）；黃初中，文帝欲追封太后父母，陳羣引典籍力諫，謂無婦人分土命爵之制，文帝從其議。"
+        },
+        {
+          "id": "qun-sunsheng-kangyan",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 12,
+          "from": "陳羣雖抗言",
+          "through": "猶有闕乎！",
+          "citation": "《三國志·魏書五 后妃傳》所載",
+          "note": "裴注層（孫盛曰）；孫盛評陳羣雖抗言、楊阜引事比並，然皆未能極陳先王之禮、明封建繼嗣之義。"
+        },
+        {
+          "id": "qun-ping-houfei",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 24,
+          "from": "追觀陳羣之議",
+          "through": "垂憲範乎後葉矣。",
+          "citation": "《三國志·魏書五 后妃傳》所載",
+          "note": "評曰層（后妃傳評）；評曰稱陳羣之議、棧潛之論足為百王之規典、垂憲範乎後葉。"
         }
       ],
       "exclusions": [],
