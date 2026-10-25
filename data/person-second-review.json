@@ -42324,8 +42324,38 @@
       "id": "p0050",
       "name": "李通",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "tong-sgz-langling",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 6,
+          "from": "以俠聞於江、汝之間",
+          "through": "由是盜賊不敢犯。",
+          "citation": "《三國志·魏書十八·李通傳》所載",
+          "note": "正文層（魏略注句已另層分離，不併入）：李通與郡人陳恭起兵朗陵，殺周直、破陳郃、禽黃巾吳霸，歲饑傾家振施，盜賊不敢犯。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "tong-excl-001",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 8,
+          "term": "李通",
+          "quote": "柱天大將軍李通為西平王",
+          "reason": "更始政權柱天大將軍李通（封西平王），東漢初人物，與三國魏將李通（江夏平春人）同名異人，排除。"
+        },
+        {
+          "id": "tong-excl-002",
+          "work": "houhanshu",
+          "source": "a03-022",
+          "paragraph": 47,
+          "term": "李通",
+          "quote": "大司空固始侯李通",
+          "reason": "東漢初雲台功臣固始侯李通，與三國魏將李通同名異人，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
