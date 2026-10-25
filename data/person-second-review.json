@@ -39952,6 +39952,33 @@
           "from": "丁亥令曰",
           "through": "為郎中。」",
           "citation": "《三國志·魏書二·文帝紀》"
+        },
+        {
+          "id": "maojie-bio-early",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 10,
+          "from": "毛玠字孝先",
+          "through": "轉幕府功曹。",
+          "citation": "《三國志·魏書十二·毛玠傳》"
+        },
+        {
+          "id": "maojie-hekui-mention",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 20,
+          "from": "尚書傅巽謂夔曰",
+          "through": "子宜少下之！」",
+          "citation": "《三國志·魏書十二·何夔傳》"
+        },
+        {
+          "id": "maojie-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 38,
+          "from": "毛玠清公素履",
+          "through": "不吐剛茹柔。",
+          "citation": "《三國志·魏書十二·評曰》"
         }
       ],
       "exclusions": [],
