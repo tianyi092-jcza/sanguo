@@ -37932,6 +37932,33 @@
           "term": "王粲",
           "quote": "王粲傳",
           "reason": "本傳篇首標題，僅標明傳主，無事迹內容，不單獨錄為摘錄；本傳正文各段已另行覆核，排除以免候選重複。"
+        },
+        {
+          "id": "wc-excl-jinwangcan",
+          "work": "jinshu",
+          "source": "a05-102-ahcb",
+          "paragraph": 23,
+          "term": "王粲",
+          "quote": "晉王粲宜登儲副",
+          "reason": "晉書劉聰載記中司馬乂上表自陳事，『晉王粲宜登儲副』一句時代在王粲卒（建安二十二年）後近百年，所指非三國王粲，僅因字面含『王粲』誤中，排除，不當本人史實。"
+        },
+        {
+          "id": "wc-excl-furong-nizhi",
+          "work": "jinshu",
+          "source": "a05-114-ahcb",
+          "paragraph": 54,
+          "term": "王粲",
+          "quote": "時人擬之王粲",
+          "reason": "晉書苻堅載記苻融事，記融耳聞則誦、過目不忘，『時人擬之王粲』僅以後世人物才名為比擬，非王粲本人事迹，不當本人史實，排除。"
+        },
+        {
+          "id": "wc-excl-liubiao-title",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 31,
+          "term": "王粲",
+          "quote": "劉表傳",
+          "reason": "卷內篇題，僅標明《劉表傳》一篇之目，無正文內容，王粲依劉表事當見劉表傳正文他段，此段無可錄內容，排除以免候選重複。"
         }
       ],
       "unresolved": [],
