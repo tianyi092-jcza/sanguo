@@ -40645,6 +40645,36 @@
           "from": "關羽攻樊，時漢水暴溢，于禁等七軍皆沒，",
           "through": "禁降羽。",
           "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "yujin-sg-wangsu-hanbin",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 29,
+          "context": "肅曰：「",
+          "from": "昔關羽率荊州之衆，降于禁於漢濵，",
+          "through": "遂有北向爭天下之志。",
+          "citation": "《三國志·卷十三 ‧ 魏書十三　鍾繇華歆王朗傳第十三　王肅傳》"
+        },
+        {
+          "id": "yujin-sg-jiangji-shuimo-feizhan",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 37,
+          "context": "司馬宣王及濟說太祖曰：「",
+          "from": "于禁等為水所沒，非戰攻之失，",
+          "through": "於國家大計未足有損。",
+          "citation": "《三國志·卷十四 ‧ 魏書十四　程郭董劉蔣劉傳第十四　蔣濟傳》"
+        },
+        {
+          "id": "yujin-sg-zhangliao-chenglan-weijiang",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 4,
+          "context": "陳蘭、梅成以氐六縣叛，",
+          "from": "太祖遣于禁、臧霸等討成，",
+          "through": "成遂將其衆就蘭，",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　張遼傳》"
         }
       ],
       "exclusions": [
