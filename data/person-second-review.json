@@ -40574,7 +40574,7 @@
     {
       "id": "p0046",
       "name": "于禁",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yujin-sg-wudi-tunheshang",
@@ -40945,15 +40945,24 @@
           "term": "于禁",
           "quote": "入于禁中",
           "reason": "「于」為介詞、「禁中」指宮禁，並非人名于禁，僅字面連寫誤命中，排除。"
+        },
+        {
+          "id": "yujin-excl-sg-gongsun-wenze",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 5,
+          "term": "文則",
+          "quote": "瓚遣行人文則齎書告子續",
+          "reason": "僅見字「文則」而無姓氏；建安四年公孫瓚所遣行人，與時在曹操麾下的于禁不合，非本人，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": []
     }
