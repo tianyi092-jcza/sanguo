@@ -44637,9 +44637,39 @@
           "through": "又與滿寵討關羽於漢津，與曹仁擊周瑜於江陵。",
           "citation": "《三國志·魏書十七 徐晃傳》",
           "note": "徐晃傳記滿寵與徐晃同討關羽於漢津；後半句與曹仁擊周瑜於江陵主語為徐晃，非滿寵事，不可串人。"
+        },
+        {
+          "id": "manchong-qinglong-hefei-qingbing",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 27,
+          "from": "青龍中，吳圍合肥，時東方吏士皆分休，征東將軍滿寵表請中軍兵，并召休將士，須集擊之。",
+          "through": "青龍中，吳圍合肥，時東方吏士皆分休，征東將軍滿寵表請中軍兵，并召休將士，須集擊之。",
+          "citation": "《三國志·魏書二十一 劉劭傳》",
+          "note": "青龍中吳圍合肥，滿寵時為征東將軍，表請中軍兵并召休將士以待集擊；段中「劭議」為劉劭之議，帝從之，吳軍退還，議者非滿寵，不可串人。"
+        },
+        {
+          "id": "manchong-boning-changyi-duyou",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 1,
+          "from": "滿寵字伯寧，山陽昌邑人也。",
+          "through": "即日考竟，遂棄官歸。",
+          "citation": "《三國志·魏書二十六 滿寵傳》",
+          "note": "本傳開篇：滿寵字伯寧，山陽昌邑人；年十八為郡督郵，糾治擁部曲害民的李朔等人；後守高平令，收治貪穢的郡督郵張苞，考竟後棄官歸。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "manchong-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 0,
+          "term": "滿寵",
+          "quote": "滿寵",
+          "reason": "僅本傳篇首題名，無事實內容可摘，故排除；本傳正文自第1段起另行摘錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
