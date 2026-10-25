@@ -40364,6 +40364,33 @@
           "from": "拔于禁、樂進於行陣之間",
           "through": "皆佐命立功，列為名將；",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "yuejin-sg-qiwangji-peixiang",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 9,
+          "from": "右將軍樂進、太尉華歆",
+          "through": "於太祖廟庭。",
+          "citation": "《三國志·魏書四·齊王紀》"
+        },
+        {
+          "id": "yuejin-sg-yuanshao-gaogan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 26,
+          "from": "遣樂進、李典擊之",
+          "through": "未拔。",
+          "citation": "《三國志·魏書六·袁紹傳》"
+        },
+        {
+          "id": "yuejin-sg-wenhui-yangzhou",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 22,
+          "from": "又語張遼、樂進等曰",
+          "through": "動靜與共咨議。",
+          "citation": "《三國志·魏書十五·溫恢傳》"
         }
       ],
       "exclusions": [],
