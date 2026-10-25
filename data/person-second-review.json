@@ -40853,6 +40853,33 @@
           "from": "及蜀將關羽圍曹仁於樊",
           "through": "于禁等七軍皆沒",
           "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "yujin-jin-xuandi-shuimo-feizhan",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 3,
+          "from": "禁等為水所沒",
+          "through": "於國家大計未有所損",
+          "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "yujin-jin-sima-fu-huan",
+          "work": "jinshu",
+          "source": "a05-037",
+          "paragraph": 3,
+          "from": "後禁至",
+          "through": "果以疾遲留",
+          "citation": "《晉書》卷三十七"
+        },
+        {
+          "id": "yujin-hy-liuxianzhu-fan-qin",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "from": "魏王遣左將軍于禁督七軍",
+          "through": "皆爲羽所獲",
+          "citation": "《華陽國志·劉先主志》"
         }
       ],
       "exclusions": [
