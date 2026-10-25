@@ -38150,6 +38150,33 @@
           "term": "王粲",
           "quote": "袁紹子譚　劉表",
           "reason": "該段僅為袁紹劉表列傳卷首目錄行，列袁紹子譚、劉表二傳名，全段未提王粲；「依劉表」事件向量誤中，排除。"
+        },
+        {
+          "id": "wc-excl-sgz-liuyi-title",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 20,
+          "term": "王粲",
+          "quote": "劉廙傳",
+          "reason": "卷內篇題，僅標明《劉廙傳》一篇之目，無正文內容，全段未提王粲；「依劉表」事件向量誤中，排除。"
+        },
+        {
+          "id": "wc-excl-hhs-taichang-bai-caocao-xiang",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 46,
+          "term": "王粲",
+          "quote": "使持節拜曹操為丞相",
+          "reason": "該段述拜太常、使持節拜曹操為丞相及以相讓璆事，全段未提王粲；「歸曹操」事件向量誤中，排除。"
+        },
+        {
+          "id": "wc-excl-hhs-xiandi-jianan21-weiwang",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 29,
+          "term": "王粲",
+          "quote": "曹操自進號魏王",
+          "reason": "該段為建安二十一年紀事，述曹操自進魏王、日食、匈奴南單于來朝、殺琅邪王熙等，全段未提王粲；「歸曹操」事件向量誤中，排除。"
         }
       ],
       "unresolved": [],
