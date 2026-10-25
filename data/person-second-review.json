@@ -39924,7 +39924,7 @@
     {
       "id": "p0041",
       "name": "毛玠",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "maojie-sg-quanjin",
@@ -40066,13 +40066,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：錄正摘錄 14 條（《三國志》本傳、他傳與裴注 13 條、《晉書》1 條）、排除 1 條（本傳篇名標題），未解決 0 條；向量候選原始 13 段皆已覆蓋，無新增候選。",
+        "辨人：毛玠字孝先；與崔琰並稱典選舉、與何夔、桓階、和洽、徐邈等同卷人物嚴格區分；本傳單字「玠」命中均核實確指本人後方錄入。",
+        "勢力繫年：曹操幕府功曹起家，後與崔琰並以忠清幹事、典選舉、先尚儉節，官至吏部尚書，屬曹操勢力；曾被白謗毀太祖、和洽求案實其事。",
+        "卒：崔琰既死，玠內不悅，遂免黜，卒于家；太祖賜棺器錢帛，拜子機郎中。評曰毛玠清公素履，不吐剛茹柔。生卒年本輪摘錄未確證，不另立新說。"
+      ]
     }
   ]
 }
