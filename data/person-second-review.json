@@ -38204,6 +38204,33 @@
           "term": "王粲",
           "quote": "劉表大儒南陽宋仲子逺慕其名皆與交好",
           "reason": "華陽國志卷十此段記劉璋辟為治中、劉表大儒宋仲子遠慕其名交好、薦致名士等事，全段未提王粲；「依劉表」事件向量誤中，排除；不把此段人物事迹記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-sgz-juan49-liuyao-pianming",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 0,
+          "term": "王粲",
+          "quote": "劉繇傳",
+          "reason": "三國志卷四十九卷首傳題行，全段僅「劉繇傳」三字，未提王粲；「依劉表」事件向量誤中，排除；不把劉繇傳題記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hhs-juan09-xiandi-shanwei",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 33,
+          "term": "王粲",
+          "quote": "二十五年春正月庚子，魏王曹操薨",
+          "reason": "後漢書卷九此段記建安二十五年曹操薨、曹丕襲位、獻帝禪位於魏王事，全段未提王粲；「歸曹操」事件向量誤中，排除；不把此段記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hhs-yuanshao-tanbei",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 11,
+          "term": "王粲",
+          "quote": "曹操之圍鄴也，譚復背之",
+          "reason": "後漢書此段記曹操圍鄴、袁譚背曹操、略取甘陵安平勃海河閒、攻袁尚於中山事，全段未提王粲；「歸曹操」事件向量誤中，排除；不把袁譚事迹記為王粲事迹。"
         }
       ],
       "unresolved": [],
