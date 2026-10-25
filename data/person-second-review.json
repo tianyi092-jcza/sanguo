@@ -39722,7 +39722,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "cui-hhs-zhengxuan-menren",
+          "work": "houhanshu",
+          "source": "a03-035",
+          "paragraph": 28,
+          "from": "其門人山陽郗慮至御史大夫，東萊王基、清河崔琰著名於世。",
+          "through": "琰字季珪，魏東曹掾，遷中尉。",
+          "citation": "《後漢書·鄭玄傳》",
+          "note": "正文層：鄭玄門人中清河崔琰著名於世；後文補其字季珪及魏東曹掾遷中尉之官歷。"
+        },
+        {
+          "id": "cui-sg-peizhu-weishi-shangshu",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 33,
+          "from": "魏氏春秋曰：以荀攸為尚書令，涼茂為僕射，毛玠、崔琰、常林、徐奕、何夔為尚書，王粲、杜襲、衞覬、和洽為侍中。",
+          "through": "魏氏春秋曰：以荀攸為尚書令，涼茂為僕射，毛玠、崔琰、常林、徐奕、何夔為尚書，王粲、杜襲、衞覬、和洽為侍中。",
+          "citation": "《三國志·魏書一·武帝紀》裴注引《魏氏春秋》",
+          "note": "裴注層：魏氏春秋所載初置尚書等官，毛玠、崔琰等為尚書；與武帝紀正文分層，不合併。"
+        },
+        {
+          "id": "cui-sg-peizhu-sunsheng-huji",
+          "work": "peizhu",
+          "source": "a04-006",
+          "paragraph": 20,
+          "from": "孫盛評曰：案魏武謂崔琰曰「昨案貴州戶籍，可得三十萬衆」。",
+          "through": "孫盛評曰：案魏武謂崔琰曰「昨案貴州戶籍，可得三十萬衆」。",
+          "citation": "《三國志·魏書六·袁紹傳》裴注引孫盛評",
+          "note": "裴注層：孫盛評引魏武謂崔琰論戶籍人數；底本原文作「貴州」，照錄不改。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
