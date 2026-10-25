@@ -40722,6 +40722,24 @@
           "from": "惇不聽，與于禁追之，典留守。",
           "through": "惇等果入賊伏裏，戰不利，典往救，備望見救至，軍散退。",
           "citation": "《三國志·卷十八 ‧ 魏書十八　二李臧文呂許典二龐閻傳第十八　李典傳》"
+        },
+        {
+          "id": "yujin-sg-zangba-changxi",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 11,
+          "from": "又與于禁討昌豨",
+          "through": "討昌豨，",
+          "citation": "《三國志·卷十八 ‧ 魏書十八　二李臧文呂許典二龐閻傳第十八　臧霸傳》"
+        },
+        {
+          "id": "yujin-sg-zhaoyan-tunyin",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 24,
+          "from": "時于禁屯潁陰",
+          "through": "遂相親睦。",
+          "citation": "《三國志·卷二十三 ‧ 魏書二十三　和常楊杜趙裴傳第二十三　趙儼傳》"
         }
       ],
       "exclusions": [
@@ -40751,6 +40769,15 @@
           "term": "于禁傳",
           "quote": "于禁傳",
           "reason": "僅為于禁傳篇目小標題，無正文內容，排除。"
+        },
+        {
+          "id": "yujin-excl-sg-chentai-jinzhong",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 15,
+          "term": "于禁",
+          "quote": "入于禁中",
+          "reason": "「于」為介詞、「禁中」指宮禁，並非人名于禁，僅字面連寫誤命中，排除。"
         }
       ],
       "unresolved": [],
