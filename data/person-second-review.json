@@ -41539,6 +41539,33 @@
           "term": "漢中",
           "quote": "漢中郡秦置。統縣八，戶一萬五千。",
           "reason": "向量候選以漢中之戰事件信號命中，實為地理志漢中郡建置、統縣與戶數條目，段中未提徐晃，與徐晃建安二十年漢中戰事無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-liucong-changan-yiren-hanzhong",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 49,
+          "term": "漢中",
+          "quote": "長安遺人四千餘家奔漢中。",
+          "reason": "向量候選以漢中之戰事件信號命中，實為劉聰使子粲攻陷長安、南陽王模遇害後長安遺人奔漢中，段中未提徐晃，與徐晃生平漢中戰事無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-zhonghui-fashu-jiange",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 47,
+          "term": "劍閣",
+          "quote": "維與張翼、廖化合軍守劍閣，鍾會攻之。",
+          "reason": "向量候選以潼關之戰事件信號命中，實為鍾會伐蜀：分兵入斜谷、攻陽安關城，姜維退守劍閣，段中未提徐晃，亦非潼關之戰，排除。"
+        },
+        {
+          "id": "xuhuang-excl-sanguozhi-zhugeliang-chencang-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 7,
+          "term": "漢中",
+          "quote": "破之，斬雙，還漢中。",
+          "reason": "向量候選以漢中之戰事件信號命中，實為諸葛亮出祁山、圍陳倉、斬魏將王雙後還漢中，段中未提徐晃，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
