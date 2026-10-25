@@ -39148,7 +39148,35 @@
       "id": "p0036",
       "name": "應瑒",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yy-hhs-zhang",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 26,
+          "from": "與徐幹、陳琳、阮瑀、應瑒俱以章知名",
+          "through": "俱以章知名，",
+          "citation": "《後漢書·卷八十下·文苑列傳下》"
+        },
+        {
+          "id": "yy-sg-jiaoyou",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 4,
+          "from": "汝南應瑒字德璉",
+          "through": "並見友善。",
+          "citation": "《三國志·魏書二十一·王粲傳》"
+        },
+        {
+          "id": "yy-sg-jianan22-zu",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 9,
+          "from": "幹、琳、瑒、楨二十二年卒。",
+          "through": "一時俱逝。",
+          "citation": "《三國志·魏書二十一·王粲傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
