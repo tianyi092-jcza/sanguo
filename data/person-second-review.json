@@ -40575,8 +40575,38 @@
       "id": "p0046",
       "name": "于禁",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "yujin-sg-wudi-tunheshang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "context": "秋八月",
+          "from": "留于禁屯河上",
+          "through": "留于禁屯河上。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "yujin-excl-hhs-xunli-jinzhong",
+          "work": "houhanshu",
+          "source": "a03-076",
+          "paragraph": 1,
+          "term": "于禁",
+          "quote": "逐惡鬼于禁中",
+          "reason": "「于」為介詞、「禁中」指宮禁，並非人名于禁，僅字面連寫誤命中，排除。"
+        },
+        {
+          "id": "yujin-excl-hhs-liyi-jinzhong",
+          "work": "houhanshu",
+          "source": "a03-095",
+          "paragraph": 16,
+          "term": "于禁",
+          "quote": "以逐惡鬼于禁中",
+          "reason": "「于」為介詞、「禁中」指宮禁，並非人名于禁，僅字面連寫誤命中，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
