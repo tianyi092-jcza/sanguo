@@ -41620,6 +41620,33 @@
           "term": "漢中",
           "quote": "欲攻漢中",
           "reason": "向量候選以漢中之戰事件信號命中，實為建興八年（230）魏三路攻漢中、諸葛亮拒於城固赤阪事，晚於徐晃卒年（227），段中亦未提徐晃，與漢中之戰（217—219）並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-shuzhi-feiyi-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 24,
+          "term": "漢中",
+          "quote": "大將軍費禕至漢中，行圍守",
+          "reason": "向量候選以漢中之戰事件信號命中，實為費禕至漢中行圍守事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-simaxun-hanzhong",
+          "work": "jinshu",
+          "source": "a05-121-ahcb",
+          "paragraph": 20,
+          "term": "漢中",
+          "quote": "晉建威將軍司馬勳屯漢中",
+          "reason": "向量候選以漢中之戰事件信號命中，實為晉司馬勳屯漢中、李壽攻陷南鄭事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-shuzhi-zhanghe-hanchuan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 10,
+          "term": "漢川",
+          "quote": "留夏侯淵、張郃守漢川",
+          "reason": "向量候選以漢中之戰、潼關之戰事件信號命中，實為曹公破張魯後留夏侯淵、張郃守漢川，張郃下巴西與張飛相拒事，段中未提徐晃，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
