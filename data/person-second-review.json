@@ -44476,9 +44476,38 @@
           "through": "盡滅關氏家。",
           "citation": "《三國志·關羽傳》裴注所載",
           "note": "裴注引蜀記：龐德之子龐會隨鍾會、鄧艾伐蜀，蜀破後盡滅關氏家。此為龐德死後其子復讎事，非龐德生前事迹；與正文分層錄入，未合併。"
+        },
+        {
+          "id": "pangde-pingyang-qin-zhan-guoyuan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 14,
+          "from": "騰遣超隨繇討郭援",
+          "through": "超將龐德親斬援首。",
+          "citation": "《三國志·馬超傳》",
+          "note": "馬超傳正文記馬騰遣馬超隨鍾繇討郭援、高幹於平陽，超將龐德親斬援首。此為龐德早年從馬超事迹，屬馬超傳側面記事；同段裴注引典略另載超自破斬援首，兩說分層並存，未合併。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "pangde-excl-pangdegong",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 1,
+          "term": "龐德公",
+          "quote": "諸葛孔明為卧龍，龐士元為鳳雛，司馬德操為水鏡，皆龐德公語也。",
+          "reason": "龐德公為襄陽名士、龐統族中長輩，非魏將龐德（龐令明）；僅「龐德」二字重合，排除。"
+        },
+        {
+          "id": "pangde-excl-cheji-yinyong",
+          "work": "jinshu",
+          "source": "a05-089-ahcb",
+          "paragraph": 56,
+          "term": "龐德",
+          "quote": "吾雖才非龐德，而受任同之。",
+          "reason": "晉書載記車濟臨難自述借龐德為忠節典範，屬後世修辭性追慕，非龐德生平史實；不錄為本人摘錄，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
