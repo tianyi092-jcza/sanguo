@@ -41701,6 +41701,33 @@
           "term": "延岑",
           "quote": "延岑自稱武安王於漢中。",
           "reason": "向量候選以漢中之戰事件信號命中，實為東漢初延岑據漢中事，段中未提徐晃，僅漢中地名觸發信號，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-madai-niujin",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 13,
+          "term": "馬岱",
+          "quote": "蜀將馬岱入寇，帝遣將軍牛金擊走之，斬千餘級。",
+          "reason": "向量候選以潼關之戰事件信號命中，實為宣帝紀馬岱入寇、牛金擊走事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-houhanshu-wuhan-chengdu",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 145,
+          "term": "吳漢",
+          "quote": "秋七月，吳漢拔成都，斬史歆等。",
+          "reason": "向量候選以漢中之戰事件信號命中，實為東漢初吳漢平蜀拔成都事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-dengqiang-zhangyu",
+          "work": "jinshu",
+          "source": "a05-009-ahcb",
+          "paragraph": 37,
+          "term": "鄧羌",
+          "quote": "苻堅將鄧羌攻張育，滅之。",
+          "reason": "向量候選以樊城之戰、潼關之戰事件信號命中，實為前秦苻堅、鄧羌攻張育事，段中未提徐晃，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
