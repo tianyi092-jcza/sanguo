@@ -40615,6 +40615,36 @@
           "from": "孫權遣使奉章，",
           "through": "并遣于禁等還。",
           "citation": "《三國志·魏書二·文帝紀》"
+        },
+        {
+          "id": "yujin-sg-sanshaodi-gun-sima",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 53,
+          "context": "賜穀千斛。",
+          "from": "衮後為于禁司馬",
+          "through": "衮後為于禁司馬，見魏略游說傳。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "yujin-sg-xiayuan-changxi",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 6,
+          "context": "時軍食少，淵傳饋相繼，軍以復振。",
+          "from": "昌狶反，遣于禁擊之，",
+          "through": "狶詣禁降。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "yujin-sg-caoren-fancheng-jiang",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 20,
+          "context": "還屯樊，即拜征南將軍。",
+          "from": "關羽攻樊，時漢水暴溢，于禁等七軍皆沒，",
+          "through": "禁降羽。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
         }
       ],
       "exclusions": [
