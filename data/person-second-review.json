@@ -40274,6 +40274,33 @@
           "from": "文帝將出游獵，勛停車上疏曰",
           "through": "唯陛下察焉。」",
           "citation": "《三國志·魏書十二·鮑勛傳》"
+        },
+        {
+          "id": "baoxun-sg-gongzheng",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 28,
+          "from": "黃初四年，尚書令陳羣、僕射司馬宣王並舉勛為宮正",
+          "through": "罔不肅然。",
+          "citation": "《三國志·魏書十二·鮑勛傳》"
+        },
+        {
+          "id": "baoxun-sg-jian-zhengwu",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 28,
+          "from": "六年秋，帝欲征吳，羣臣大議，勛面諫曰",
+          "through": "左遷勛為治書執法。",
+          "citation": "《三國志·魏書十二·鮑勛傳》"
+        },
+        {
+          "id": "baoxun-sg-beizhu",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 29,
+          "from": "帝從壽春還，屯陳留郡界。",
+          "through": "莫不為勛歎恨。",
+          "citation": "《三國志·魏書十二·鮑勛傳》"
         }
       ],
       "exclusions": [
@@ -40296,9 +40323,7 @@
           "reason": "此段僅為本傳篇題，無正文內容；本傳正文自下段（25）起，已錄身份摘錄，故篇題本身不另作摘錄，排除。"
         }
       ],
-      "unresolved": [
-        "本傳 a04-012:28（諫征吳）與 :29（被誅、家無餘財）尚未補錄：本傳續段用簡體「勛」，retrieve 的 ming 僅認繁體「勳」故未入候選，需下輪直接按段補錄後再收尾。"
-      ],
+      "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
         "peizhu": "in-progress",
