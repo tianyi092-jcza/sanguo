@@ -40770,6 +40770,35 @@
           "from": "典略曰：備於是起館舍",
           "through": "禽于禁於樊。",
           "citation": "《三國志·卷三十二 ‧ 蜀書二　先主傳第二　先主傳》"
+        },
+        {
+          "id": "yujin-sg-zhugeliang-moji-shenghuo",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 31,
+          "from": "羽圍襄陽",
+          "through": "生獲于禁",
+          "citation": "《三國志·卷三十五 ‧ 蜀書五　諸葛亮傳第五　諸葛亮傳》"
+        },
+        {
+          "id": "yujin-sg-guanyu-fancheng-shuimo-jiang",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 5,
+          "context": "是歲，羽率衆攻曹仁於樊。",
+          "from": "曹公遣于禁助仁",
+          "through": "禁降羽",
+          "citation": "《三國志·卷三十六 ‧ 蜀書六　關張馬黃趙傳第六　關羽傳》"
+        },
+        {
+          "id": "yujin-sg-wuzhu-fancheng-lu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 17,
+          "context": "二十四年，關羽圍曹仁於襄陽，",
+          "from": "曹公遣左將軍于禁救之",
+          "through": "送江陵，惟城未拔",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二　吳主傳》"
         }
       ],
       "exclusions": [
