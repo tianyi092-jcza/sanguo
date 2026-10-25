@@ -41485,6 +41485,33 @@
           "term": "潼關",
           "quote": "劉裕克潼關",
           "reason": "向量候選以潼關之戰事件信號命中，實為劉裕克潼關事，段中未提徐晃，與徐晃建安十六年潼關戰事並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-guanzhong-duyuan",
+          "work": "jinshu",
+          "source": "a05-004-ahcb",
+          "paragraph": 39,
+          "term": "關中",
+          "quote": "都督雍梁二州諸軍事，鎮關中",
+          "reason": "向量候選以漢中、潼關之戰事件信號命中，實為晉惠帝時匈奴度元反、梁王肜都督雍梁鎮關中事，段中未提徐晃，與徐晃建安十六年潼關、建安二十年漢中戰事並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-tongguan-maodezu",
+          "work": "jinshu",
+          "source": "a05-119-ahcb",
+          "paragraph": 13,
+          "term": "潼關",
+          "quote": "奔固潼關",
+          "reason": "向量候選以潼關之戰事件信號命中，實為劉裕北伐時毛德祖攻蠡城、殺晉守者奔固潼關事，段中未提徐晃，與徐晃建安十六年潼關戰事並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-sg-hanzhong-feiyi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 27,
+          "term": "漢中",
+          "quote": "大將軍費禕出屯漢中",
+          "reason": "向量候選以漢中之戰事件信號命中，實為蜀漢延熙十一年費禕出屯漢中、鄧芝討涪陵夷人事，段中未提徐晃，與徐晃建安二十年漢中戰事並非同一事，排除。"
         }
       ],
       "unresolved": [],
