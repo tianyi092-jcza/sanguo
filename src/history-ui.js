@@ -502,12 +502,14 @@ async function loadExcerpts(p,h){
   if(!document.body.contains(slot))return;
   const tmp=document.createElement('div');
   tmp.innerHTML=newExcerptsHTML(excerpts,p);
-  if(tmp.firstElementChild)slot.replaceWith(tmp.firstElementChild);
+  // newExcerptsHTML 返回三節（三國志/晉書/通鑑），須全數插入；只取 firstElementChild 會丟掉晉書與通鑑節（比照 loadTongjian 的修法）
+  if(tmp.firstElementChild)slot.replaceWith(...tmp.childNodes);
   else slot.innerHTML='<span class="empty">未收錄與本人相關的記載。</span>';
   activateSourceExcerpts();
   activatePeiTags();
-  // 摘录渲染完后，槽位已存在，再加载本传全文
+  // 摘录渲染完后，槽位已存在，再加载本传全文与通鉴摘录
   loadSidneyluoBio(p);
+  loadTongjian(p);
 }
 function portraitHTML(p){
  const entry=PORTRAITS.people[p.id];
