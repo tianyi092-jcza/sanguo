@@ -39997,6 +39997,33 @@
           "from": "時毛玠、崔琰並以忠清幹事",
           "through": "其選用先尚儉節。",
           "citation": "《三國志·魏書二十三·和洽傳》"
+        },
+        {
+          "id": "maojie-heqia-slander-case",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 3,
+          "from": "後有白毛玠謗毀太祖",
+          "through": "求案實其事。",
+          "citation": "《三國志·魏書二十三·和洽傳》"
+        },
+        {
+          "id": "maojie-xumiao-qingsu",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 4,
+          "from": "往者毛孝先、崔季珪等用事",
+          "through": "故人以為通。",
+          "citation": "《三國志·魏書二十七·徐邈傳》"
+        },
+        {
+          "id": "maojie-jin-fuxian-praise",
+          "work": "jinshu",
+          "source": "a05-047-ahcb",
+          "paragraph": 13,
+          "from": "昔毛玠爲吏部尚書",
+          "through": "孤之法不如毛尚書。』",
+          "citation": "《晉書·卷四十七·傅玄傳》"
         }
       ],
       "exclusions": [
