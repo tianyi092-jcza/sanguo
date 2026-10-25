@@ -37285,6 +37285,36 @@
           "through": "垂憲範乎後葉矣。",
           "citation": "《三國志·魏書五 后妃傳》所載",
           "note": "評曰層（后妃傳評）；評曰稱陳羣之議、棧潛之論足為百王之規典、垂憲範乎後葉。"
+        },
+        {
+          "id": "qun-guming-fuzheng",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 36,
+          "from": "七年，文帝寢疾",
+          "through": "受遺詔輔政。",
+          "citation": "《三國志·魏書九 諸夏侯曹傳》所載",
+          "note": "正文所載；黃初七年文帝寢疾，曹真與陳羣、司馬宣王等受遺詔輔政。"
+        },
+        {
+          "id": "qun-xiangyin-chuanfa",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 56,
+          "from": "相印法本出陳長文",
+          "through": "以語許士宗。",
+          "citation": "《三國志·魏書九 諸夏侯曹傳》所載",
+          "note": "裴注引魏氏春秋（許允傳注文）；相印之法本出陳長文，經韋仲將、印工楊利傳於許士宗。"
+        },
+        {
+          "id": "qun-sg-miheng-changwen",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 4,
+          "from": "何不從陳長文",
+          "through": "司馬伯達乎？",
+          "citation": "《三國志·魏書十 荀彧荀攸賈詡傳》所載",
+          "note": "裴注引禰衡傳（荀彧傳注文）；建安初許都人士問禰衡何不從陳長文、司馬伯達，見當時陳羣與司馬朗並為士人推重；後漢書禰衡傳亦載同事。"
         }
       ],
       "exclusions": [],
