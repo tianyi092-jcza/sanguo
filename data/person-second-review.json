@@ -39008,7 +39008,35 @@
       "name": "徐幹",
       "status": "pilot",
       "excerpts": [],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xg-hhs-banchao-jiashima",
+          "work": "houhanshu",
+          "source": "a03-047",
+          "paragraph": 7,
+          "term": "徐幹",
+          "quote": "平陵人徐幹素與超同志，上疏願奮身佐超。",
+          "reason": "此徐幹為平陵人、班超部將（後任假司馬），活動於東漢班超經營西域時期；與建安七子徐幹（北海劇縣人，生170、卒217）籍貫、生卒皆不合，純屬同名異人，排除。"
+        },
+        {
+          "id": "xg-hhs-banchao-liuyi",
+          "work": "houhanshu",
+          "source": "a03-047",
+          "paragraph": 9,
+          "term": "徐幹",
+          "quote": "徐幹謂超曰：「邑前親毀君，欲敗西域，今何不緣詔書留之，更遣它吏送侍子乎？」",
+          "reason": "與上條同人：班超部將徐幹向班超進言處置李邑，非建安七子徐幹，同名異人，排除。"
+        },
+        {
+          "id": "xg-hhs-banchao-changshi",
+          "work": "houhanshu",
+          "source": "a03-047",
+          "paragraph": 14,
+          "term": "徐幹",
+          "quote": "乃以超為都護，徐幹為長史。",
+          "reason": "與上兩條同人：班超為都護、徐幹為長史之任命，非建安七子徐幹，同名異人，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
