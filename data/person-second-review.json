@@ -43255,6 +43255,33 @@
           "term": "臧霸",
           "quote": "使執金吾臧霸行太尉事，以特牛祠受禪壇。",
           "reason": "與 sidneyluo 本 a05-019:7 為同段異本（《晉書》卷十九志第九同一段落），該段已錄為 zangba-jin-fanchang；此處不再重複摘錄，記為排除以免候選重複出現。"
+        },
+        {
+          "id": "zangba-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 0,
+          "term": "臧霸",
+          "quote": "呂布傳",
+          "reason": "僅卷首題名，無正文內容；事件信號「從呂布」為向量誤檢（題名含呂布二字），無法摘錄，記排除以免重複候選。"
+        },
+        {
+          "id": "zangba-excl-004",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 143,
+          "term": "臧霸",
+          "quote": "吳孫權赤烏十一年二月，江東地仍震。是時，權聽讒，尋黜朱據，廢太子。",
+          "reason": "全段無臧霸字樣，亦無濡須事；事件信號「濡須破孫權」為向量語義誤檢，記排除以免重複候選。"
+        },
+        {
+          "id": "zangba-excl-005",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 14,
+          "term": "臧霸",
+          "quote": "遣其將諸葛瑾、張霸并攻襄陽",
+          "reason": "此「霸」為吳將張霸，非臧霸；同名異人誤檢（張霸與臧霸不同人），記排除以免重複候選。"
         }
       ],
       "unresolved": [],
