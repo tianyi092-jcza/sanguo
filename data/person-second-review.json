@@ -41674,6 +41674,33 @@
           "term": "杜曾",
           "quote": "王敦使武昌太守趙誘、襄陽太守朱軌、陵江將軍黃峻討猗，爲其將杜曾所敗",
           "reason": "向量候選以潼關之戰事件信號命中，實為王敦討杜曾、周訪破杜曾事，段中未提徐晃，亦無潼關，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-liuyu-tongguan",
+          "work": "jinshu",
+          "source": "a05-119-ahcb",
+          "paragraph": 19,
+          "term": "潼關",
+          "quote": "劉裕至潼關，遣將軍朱超石、徐猗之會薛帛于河北，以攻蒲阪。",
+          "reason": "向量候選以潼關之戰事件信號命中，實為東晉末劉裕北伐後秦事，段中未提徐晃，徐猗之亦非徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-houhanshu-zhongqiang",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 107,
+          "term": "鍾羌",
+          "quote": "秋七月庚戌，鍾羌寇隴西、漢陽。冬十月，護羌校尉馬續擊破之。",
+          "reason": "向量候選以潼關之戰事件信號命中，實為後漢順帝時鍾羌寇邊、馬續破羌事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-houhanshu-yancen-hanzhong",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 54,
+          "term": "延岑",
+          "quote": "延岑自稱武安王於漢中。",
+          "reason": "向量候選以漢中之戰事件信號命中，實為東漢初延岑據漢中事，段中未提徐晃，僅漢中地名觸發信號，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
