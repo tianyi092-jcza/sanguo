@@ -44345,8 +44345,39 @@
       "id": "p0054",
       "name": "典韋",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "dianwei-qiwang-miaoting",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 9,
+          "from": "秋七月，詔祀故大司馬曹真",
+          "through": "武猛校尉典韋於太祖廟庭。",
+          "citation": "《三國志·齊王紀》",
+          "note": "齊王紀詔祀故臣於太祖廟庭，典韋以武猛校尉列名其中，與曹真、曹休、夏侯尚、張郃、徐晃、張遼等人同列配饗。此為身後配饗紀事，非生前事迹；典韋生前事迹見本傳。"
+        },
+        {
+          "id": "dianwei-qiwang-peizhu-gonglie",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 10,
+          "from": "徐佗謀逆而許褚心動",
+          "through": "今祀韋而不及褚，文所未達也。",
+          "citation": "《三國志·齊王紀》裴注所載",
+          "note": "裴松之論太祖廟庭配祀：以許褚功烈有過典韋，質疑祀韋而不及褚。此為裴注評議，主體為許褚配祀之議，涉典韋者僅功烈比較與祀韋對照一句；典韋配饗事本身見齊王紀正文（另條），勿以此段為唯一依據。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "dianwei-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 24,
+          "term": "典韋",
+          "quote": "典韋傳",
+          "reason": "僅為本傳篇目題三字，無事迹內容，不錄為正摘錄；本傳正文自次段起。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
