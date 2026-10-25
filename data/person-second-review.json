@@ -41051,6 +41051,33 @@
           "from": "遣征南將軍夏侯尚",
           "through": "與達共襲封",
           "citation": "《三國志·蜀書十·劉封傳》"
+        },
+        {
+          "id": "xuhuang-wuzhu-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "留曹仁、徐晃於江陵",
+          "through": "使樂進守襄陽",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "xuhuang-luxun-shu-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 5,
+          "from": "聞徐晃等步騎駐旌",
+          "through": "闚望麾葆",
+          "citation": "《三國志·吳書十三·陸遜傳》"
+        },
+        {
+          "id": "xuhuang-huayang-fancheng",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "from": "徐晃救樊",
+          "through": "羽退還",
+          "citation": "《華陽國志·卷六》"
         }
       ],
       "exclusions": [],
