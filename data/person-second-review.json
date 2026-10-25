@@ -39979,9 +39979,37 @@
           "from": "毛玠清公素履",
           "through": "不吐剛茹柔。",
           "citation": "《三國志·魏書十二·評曰》"
+        },
+        {
+          "id": "maojie-huanjie-mention",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 2,
+          "from": "又毛玠、徐弈以剛蹇少黨",
+          "through": "賴階左右以自全保。",
+          "citation": "《三國志·魏書二十二·桓階傳》"
+        },
+        {
+          "id": "maojie-heqia-mention",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 2,
+          "from": "時毛玠、崔琰並以忠清幹事",
+          "through": "其選用先尚儉節。",
+          "citation": "《三國志·魏書二十三·和洽傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "maojie-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 9,
+          "term": "毛玠",
+          "quote": "毛玠傳",
+          "reason": "僅本傳篇名標題，無史實內容可摘；登記以防重複候選。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
