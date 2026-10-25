@@ -41222,6 +41222,33 @@
           "from": "未如張遼、徐晃之備詳也",
           "through": "未如張遼、徐晃之備詳也",
           "citation": "《三國志·魏書十七·徐晃傳》"
+        },
+        {
+          "id": "xuhuang-sg-yangping-chen-shi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 24,
+          "from": "備遣陳式等十餘營絕馬鳴閣道，晃別征破之",
+          "through": "賊自投山谷，多死者。",
+          "citation": "《三國志·魏書十七·徐晃傳》"
+        },
+        {
+          "id": "xuhuang-sg-fancheng-break-siege",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 24,
+          "from": "晃揚聲當攻圍頭屯，而密攻四冢",
+          "through": "破之，或自投沔水死。",
+          "citation": "《三國志·魏書十七·徐晃傳》"
+        },
+        {
+          "id": "xuhuang-sg-late-years",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 25,
+          "from": "文帝即王位，以晃為右將軍，進封逯鄉侯",
+          "through": "病篤，遺令歛以時服。",
+          "citation": "《三國志·魏書十七·徐晃傳》"
         }
       ],
       "exclusions": [
