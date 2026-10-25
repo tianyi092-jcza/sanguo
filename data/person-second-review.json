@@ -39143,6 +39143,22 @@
         "生卒：生年原庫記 170 年；卒建安二十二年（217），《三國志·王粲傳》載「幹、琳、瑒、楨二十二年卒」，文帝與吳質書稱「昔年疾疫，親故多離其災，徐、陳、應、劉，一時俱逝」；卒月未載。",
         "本傳附見於《三國志》卷二十一王粲傳（a04-021），本輪摘錄本傳正文交游、仕歷、卒年、評曰等段，其餘由 D1 本傳庫承載，不重複摘錄。"
       ]
+    },
+    {
+      "id": "p0036",
+      "name": "應瑒",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
