@@ -39061,6 +39061,24 @@
           "from": "魏武帝初封諸子爲侯，",
           "through": "俱爲臨淄侯文學，",
           "citation": "《晉書·卷四十四·鄭袤傳》"
+        },
+        {
+          "id": "xg-js-lizhong-xugan-yi",
+          "work": "jinshu",
+          "source": "a05-046-ahcb",
+          "paragraph": 9,
+          "from": "時太中大夫恬和表陳便宜，",
+          "through": "及禁百姓賣田宅。",
+          "citation": "《晉書·卷四十六·李重傳》"
+        },
+        {
+          "id": "xg-sg-sikong-junmou",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 5,
+          "from": "幹為司空軍謀祭酒掾屬，",
+          "through": "五官將文學。",
+          "citation": "《三國志·魏書二十一·王粲傳》"
         }
       ],
       "exclusions": [
@@ -39090,6 +39108,15 @@
           "term": "徐幹",
           "quote": "乃以超為都護，徐幹為長史。",
           "reason": "與上兩條同人：班超為都護、徐幹為長史之任命，非建安七子徐幹，同名異人，排除。"
+        },
+        {
+          "id": "xg-js-taikang-cishi",
+          "work": "jinshu",
+          "source": "a05-082-ahcb",
+          "paragraph": 4,
+          "term": "徐幹",
+          "quote": "刺史徐幹捨之，不謝而去。",
+          "reason": "太康中（280—289）任刺史之徐幹：建安七子徐幹卒於建安二十二年（217），不可能於太康中任刺史；同名異人，排除。"
         }
       ],
       "unresolved": [],
