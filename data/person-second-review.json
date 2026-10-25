@@ -37225,6 +37225,36 @@
           "citation": "《三國志·魏書二 文帝紀》所載",
           "context": "夏五月丙辰，帝疾篤",
           "note": "正文層（文帝紀）；黃初七年五月，文帝疾篤，召曹真、陳羣、曹休、司馬懿四臣受遺詔輔嗣主；其後「魏氏春秋曰」明帝送葬固諫為異說，不與正文合併。"
+        },
+        {
+          "id": "qun-mingdi-sikong",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 2,
+          "from": "鎮軍大將軍陳羣為司空",
+          "through": "鎮軍大將軍陳羣為司空",
+          "citation": "《三國志·魏書三 明帝紀》所載",
+          "note": "正文層（明帝紀）；陳羣由鎮軍大將軍遷為司空。"
+        },
+        {
+          "id": "qun-mingdi-hong",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 30,
+          "from": "十二月癸巳，司空陳羣薨。",
+          "through": "十二月癸巳，司空陳羣薨。",
+          "citation": "《三國志·魏書三 明帝紀》所載",
+          "note": "正文層（明帝紀）；司空陳羣薨。"
+        },
+        {
+          "id": "qun-qiwang-miaosi",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 9,
+          "from": "詔祀故大司馬曹真",
+          "through": "於太祖廟庭。",
+          "citation": "《三國志·魏書四 三少帝紀》所載",
+          "note": "正文層（三少帝紀）；詔祀故臣於太祖廟庭，陳羣以故司空列名其中。"
         }
       ],
       "exclusions": [],
