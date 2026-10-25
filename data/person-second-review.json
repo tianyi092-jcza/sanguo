@@ -41350,6 +41350,33 @@
           "term": "漢中",
           "quote": "魯奔走，漢中遂平。",
           "reason": "向量候選以「漢中之戰」事件／時間信號命中，實為劉曄傳太祖征張魯、劉曄督後軍獻策事，段中未提徐晃，非徐晃事跡，排除。"
+        },
+        {
+          "id": "xuhuang-excl-hhs-hanzhong",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 26,
+          "term": "漢中",
+          "quote": "二十年秋，曹公攻漢中，魯降。",
+          "reason": "向量候選以「漢中之戰」事件／時間信號命中，實為建安十七年至二十年劉璋失益州、曹公攻漢中張魯降的占驗敘述，段中未提徐晃，非徐晃事跡，排除。"
+        },
+        {
+          "id": "xuhuang-excl-sg-tongguan-machao",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 15,
+          "term": "潼關",
+          "quote": "進軍至潼關。",
+          "reason": "向量候選以「潼關之戰」事件／時間信號命中，實為馬超傳馬超、韓遂合從進軍潼關、曹公離間破之及馬超敗走事，正文與裴注全段未提徐晃，非徐晃事跡，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-fancheng-guojing",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 51,
+          "term": "樊城",
+          "quote": "勒驛敕敬退屯樊城",
+          "reason": "向量候選以「樊城之戰」事件／樊城地名信號命中，實為後趙石勒驛敕郭敬退屯樊城、詐退嚇走周撫而入襄陽事，時代遠在徐晃卒後，段中未提徐晃，與徐晃建安二十四年樊城解圍並非同一事，排除。"
         }
       ],
       "unresolved": [],
