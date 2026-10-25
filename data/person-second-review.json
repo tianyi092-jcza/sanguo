@@ -41647,6 +41647,33 @@
           "term": "漢川",
           "quote": "留夏侯淵、張郃守漢川",
           "reason": "向量候選以漢中之戰、潼關之戰事件信號命中，實為曹公破張魯後留夏侯淵、張郃守漢川，張郃下巴西與張飛相拒事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-guojia-zhangchong-wudang",
+          "work": "jinshu",
+          "source": "a05-009-ahcb",
+          "paragraph": 97,
+          "term": "武當",
+          "quote": "鷹揚將軍郭洽及苻堅將張崇戰于武當",
+          "reason": "向量候選以潼關之戰事件信號命中，實為鷹揚將軍郭洽與苻堅將張崇戰于武當事，段中未提徐晃，亦無潼關，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-dengding-hanzhong",
+          "work": "jinshu",
+          "source": "a05-057-ahcb",
+          "paragraph": 42,
+          "term": "漢中",
+          "quote": "鄧定等二千餘家，饑餓流入漢中",
+          "reason": "向量候選以漢中之戰事件信號命中，實為秦州人鄧定流入漢中、梁州刺史張殷討伐事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-wangdun-duzeng",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 11,
+          "term": "杜曾",
+          "quote": "王敦使武昌太守趙誘、襄陽太守朱軌、陵江將軍黃峻討猗，爲其將杜曾所敗",
+          "reason": "向量候選以潼關之戰事件信號命中，實為王敦討杜曾、周訪破杜曾事，段中未提徐晃，亦無潼關，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
