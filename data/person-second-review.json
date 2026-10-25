@@ -40336,7 +40336,7 @@
     {
       "id": "p0045",
       "name": "樂進",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yuejin-sg-wudi-huguan-gaogan",
@@ -40559,13 +40559,17 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪覆核：全庫別名精確匹配（樂進、樂文謙）與本傳單字「進」掃描皆已無未覆蓋段；錄正摘錄 20 條（《三國志》19、《華陽國志》1），排除 4 條，未解決 0 條。",
+        "辨人：與張郃、徐晃等同卷合傳人物嚴格區分；單字「進」動詞誤命中（張郃傳、徐晃傳「進封」）與本傳篇目已排除；樊城圍「樂進為救」一說因樂進已卒於建安二十三年而不取。",
+        "行狀：樂進字文謙，陽平衞國人，曹操部將，歷壺關、合肥、尋口、青泥諸役，遷右將軍，卒建安二十三年（218年），謚威侯；本輪未見轉投他主記載。"
+      ]
     }
   ]
 }
