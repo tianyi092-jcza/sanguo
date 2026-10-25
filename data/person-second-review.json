@@ -38231,6 +38231,33 @@
           "term": "王粲",
           "quote": "曹操之圍鄴也，譚復背之",
           "reason": "後漢書此段記曹操圍鄴、袁譚背曹操、略取甘陵安平勃海河閒、攻袁尚於中山事，全段未提王粲；「歸曹操」事件向量誤中，排除；不把袁譚事迹記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-sgz-juan09-caozhen-pianming",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 35,
+          "term": "王粲",
+          "quote": "曹真傳",
+          "reason": "三國志卷九此段僅為曹真傳篇題，全段未提王粲；「歸曹操」事件向量誤中，排除；不把曹真傳篇題記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hhs-xianyufu-guicao",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 21,
+          "term": "王粲",
+          "quote": "鮮于輔將其衆歸曹操",
+          "reason": "後漢書此段記鮮于輔將其衆歸曹操、操以輔為度遼將軍、閻柔從曹操擊烏桓事，全段未提王粲；「歸曹操」事件向量誤中，排除；不把鮮于輔、閻柔事迹記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hygs-juan06-xianzhu-lunzan",
+          "work": "huayangguozhi",
+          "source": "a06-006",
+          "paragraph": 27,
+          "term": "王粲",
+          "quote": "先主名微人鮮而能龍興鳯舉",
+          "reason": "華陽國志卷六此段為論贊先主之文，記先主龍興鳳舉、翻飛梁益、與吳魏鼎峙事，全段未提王粲；「依劉表」事件向量誤中，排除；不把先主事迹記為王粲事迹。"
         }
       ],
       "unresolved": [],
