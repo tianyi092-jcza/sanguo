@@ -40508,6 +40508,15 @@
           "from": "今樂進在清泥與關羽相拒",
           "through": "轉侵州界",
           "citation": "《華陽國志·卷五　公孫述劉二牧志》"
+        },
+        {
+          "id": "yuejin-bio-youjiangjun-shi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 10,
+          "from": "進遷右將軍",
+          "through": "謚曰威侯",
+          "citation": "《三國志·魏書十七·樂進傳》"
         }
       ],
       "exclusions": [
@@ -40528,6 +40537,24 @@
           "term": "樂進",
           "quote": "樂進、徐晃等為救",
           "reason": "張儼《默記》述佐篇論亮語，稱樊城圍時樂進為救；然樂進卒於建安二十三年（218年），樊城之圍在建安二十四年（219年），時樂進已卒，不可能參救，屬後人論述誤記，不錄為史實，排除。"
+        },
+        {
+          "id": "yuejin-excl-zhanghe-jinfeng",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 18,
+          "term": "進",
+          "quote": "及踐阼，進封鄚侯",
+          "reason": "此段為張郃傳，「進封」為動詞（進爵封侯）而非人名樂進；且文帝踐阼在建安二十五年（220年），樂進已卒於建安二十三年（218年），不可能參預其事，屬單字誤命中，不錄。"
+        },
+        {
+          "id": "yuejin-excl-xuhuang-jinfeng",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 25,
+          "term": "進",
+          "quote": "及踐阼，進封楊侯",
+          "reason": "此段為徐晃傳，「進封」為動詞而非人名樂進，與樂進無關，屬單字誤命中，不錄。"
         }
       ],
       "unresolved": [],
