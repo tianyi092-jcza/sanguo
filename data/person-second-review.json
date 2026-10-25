@@ -40463,6 +40463,24 @@
           "from": "與樂進討關羽於尋口",
           "through": "尋口，有功",
           "citation": "《三國志·魏書十八·文聘傳》"
+        },
+        {
+          "id": "yuejin-yangdi-tunshou",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 24,
+          "from": "時于禁屯潁陰，樂進屯陽翟，張遼屯長社",
+          "through": "遂相親睦",
+          "citation": "《三國志·魏書二十三·趙儼傳》"
+        },
+        {
+          "id": "yuejin-qingni-juyu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "又樂進在青泥與關羽相拒",
+          "through": "進必大克，轉侵州界",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
@@ -40474,6 +40492,15 @@
           "term": "樂進",
           "quote": "樂進傳",
           "reason": "僅為《樂進傳》篇目，無史實內容可錄，非正文史事，排除。"
+        },
+        {
+          "id": "yuejin-excl-moji-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 31,
+          "term": "樂進",
+          "quote": "樂進、徐晃等為救",
+          "reason": "張儼《默記》述佐篇論亮語，稱樊城圍時樂進為救；然樂進卒於建安二十三年（218年），樊城之圍在建安二十四年（219年），時樂進已卒，不可能參救，屬後人論述誤記，不錄為史實，排除。"
         }
       ],
       "unresolved": [],
