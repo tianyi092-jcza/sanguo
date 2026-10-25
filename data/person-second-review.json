@@ -43040,6 +43040,22 @@
         "辨人：與光武朝固始侯李通嚴格區分；向量誤命中（朱然、朱齡石、岑彭、毅移鎮等無李通段落）皆已排除；本傳篇目標題等無史實內容段亦已排除。",
         "行狀：李通起兵朗陵，殺周直、破陳郃、禽黃巾吳霸；建安初舉衆詣太祖於許，拜振威中郎將、裨將軍、封建功侯，領陽安都尉；官渡相拒時拒袁紹征南將軍拜與劉表陰招，斬紹使、送印綬詣太祖，定淮汝之地，改封都亭侯、拜汝南太守；陳壽評其與臧霸、文聘、呂虔鎮衞州郡並著威惠。本輪未見轉投他主記載。"
       ]
+    },
+    {
+      "id": "p0051",
+      "name": "臧霸",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
