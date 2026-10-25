@@ -40110,6 +40110,33 @@
           "from": "信乃與州吏萬潛等至東郡迎太祖領兖州牧",
           "through": "信力戰鬬死，僅而破之。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "baoxin-sg-qibing-mengzhu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 3,
+          "from": "同時俱起兵",
+          "through": "推紹為盟主。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "baoxin-hhs-xunyu-ying-yanzhou",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 32,
+          "from": "曹操初從東郡守鮑信等迎領兖州牧",
+          "through": "故能平定山東也。",
+          "citation": "《後漢書·荀彧傳》"
+        },
+        {
+          "id": "baoxin-sg-yujin-fucong",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "from": "黃巾起，鮑信招合徒衆",
+          "through": "禁附從焉。",
+          "citation": "《三國志·魏書十七·于禁傳》"
         }
       ],
       "exclusions": [],
