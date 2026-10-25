@@ -42133,6 +42133,33 @@
           "term": "合肥",
           "quote": "向合肥新城",
           "reason": "段述孫權攻合肥新城、帝親征事，段中未提李典，係合肥地名與事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-012",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 6,
+          "term": "合肥",
+          "quote": "合肥城南臨江湖",
+          "reason": "段述合肥新城守御、孫權圍攻事，段中未提李典，係合肥地名與事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-013",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 23,
+          "term": "合肥",
+          "quote": "孫權攻合肥",
+          "reason": "段述建安二十四年孫權攻合肥時諸州調動及樊城之事，段中未提李典，係合肥事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-014",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 3,
+          "term": "合肥",
+          "quote": "孫權率十萬衆攻圍合肥城百餘日",
+          "reason": "段述建安十三年合肥守城事，段中未提李典，係合肥事件信號誤命中，排除。"
         }
       ],
       "unresolved": [],
