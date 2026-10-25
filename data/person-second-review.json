@@ -40137,9 +40137,37 @@
           "from": "黃巾起，鮑信招合徒衆",
           "through": "禁附從焉。",
           "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "baoxin-hhs-shao-xizhuo",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 4,
+          "from": "騎都尉太山鮑信說紹曰",
+          "through": "紹畏卓，不敢發。",
+          "citation": "《後漢書·袁紹傳》"
+        },
+        {
+          "id": "baoxin-sg-dongzhuo-xizhuo",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 3,
+          "from": "進遣騎都尉太山鮑信所在募兵",
+          "through": "信遂還鄉里。",
+          "citation": "《三國志·魏書六·董卓傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "baoxin-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 8,
+          "term": "信",
+          "quote": "王子法、劉孔慈凶辯小才，信為腹心。",
+          "reason": "孔融傳此段「信」為信任、親信義，指孔融以王子法、劉孔慈為腹心，與泰山鮑信無關；本傳單字檢索誤中，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
