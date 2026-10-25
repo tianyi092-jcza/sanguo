@@ -40799,6 +40799,33 @@
           "from": "曹公遣左將軍于禁救之",
           "through": "送江陵，惟城未拔",
           "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二　吳主傳》"
+        },
+        {
+          "id": "yujin-sg-wuzhu-songhuan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 18,
+          "from": "自魏文帝踐阼",
+          "through": "遣于禁等還",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二　吳主傳》"
+        },
+        {
+          "id": "yujin-sg-wuzhu-haozhou-huan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 20,
+          "from": "昔討關羽，獲于將軍",
+          "through": "當發遣之",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二　吳主傳》"
+        },
+        {
+          "id": "yujin-sg-lumeng-fancheng-qin",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 37,
+          "from": "魏使于禁救樊",
+          "through": "羽盡禽禁等，人馬數萬",
+          "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 呂蒙傳》"
         }
       ],
       "exclusions": [
