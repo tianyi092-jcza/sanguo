@@ -38763,7 +38763,38 @@
       "id": "p0034",
       "name": "劉楨",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lz-sgz-xingyong-jian",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 23,
+          "from": "庶子劉楨書諫植曰",
+          "through": "以此反側。」",
+          "citation": "《三國志·魏書十二·崔琰傳附邢顒傳》",
+          "note": "正文層：劉楨任曹植庶子時，書諫曹植，稱家丞邢顒北土之彥、玄靜澹泊、真雅士，而己禮遇殊特、顒反疏簡，恐為上招謗。此條證劉楨曾為曹植庶子並與邢顒同在植門下，邢顒本傳主事不得與楨事迹合併。"
+        },
+        {
+          "id": "lz-sgz-wangcan-youshan",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 4,
+          "from": "東平劉楨字公幹並見友善。",
+          "through": "東平劉楨字公幹並見友善。",
+          "citation": "《三國志·魏書二十一·王粲傳》",
+          "note": "正文層：文帝為五官將、平原侯植皆好文學，王粲與徐幹、陳琳、阮瑀、應瑒及東平劉楨字公幹並見友善。此條證劉楨為建安文士圈中人，籍貫東平、字公幹。"
+        },
+        {
+          "id": "lz-sgz-wangcan-jianan22-zu",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 9,
+          "from": "幹、琳、瑒、楨二十二年卒。",
+          "through": "幹、琳、瑒、楨二十二年卒。",
+          "citation": "《三國志·魏書二十一·王粲傳》",
+          "note": "正文層：阮瑀建安十七年卒，徐幹、陳琳、應瑒、劉楨建安二十二年（217）卒於疾疫。同段後文引文帝書與《典論》評公幹（有逸氣、壯而不密），層次不同，不與本條卒年正文合併。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
