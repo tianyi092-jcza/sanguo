@@ -39205,7 +39205,36 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ry-hhs-jishi",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 23,
+          "from": "後為軍謀祭酒，與陳琳、阮瑀等典記室。",
+          "through": "後為軍謀祭酒，與陳琳、阮瑀等典記室。",
+          "citation": "《後漢書·孔融傳》引《典略》所載",
+          "note": "引文層（《典略》載路粹小傳）：路粹後為軍謀祭酒，與陳琳、阮瑀等同典記室。此條證阮瑀歸曹後典記室職事，孔融被誅為本段正文主事，不得與阮瑀事迹合併。"
+        },
+        {
+          "id": "ry-hhs-zhang",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 26,
+          "from": "與徐幹、陳琳、阮瑀、應瑒俱以章知名",
+          "through": "俱以章知名，",
+          "citation": "《後漢書·卷八十下·文苑列傳下》"
+        },
+        {
+          "id": "ry-sg-jiaoyou",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 4,
+          "from": "陳留阮瑀字元瑜",
+          "through": "並見友善。",
+          "citation": "《三國志·魏書二十一·王粲傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
