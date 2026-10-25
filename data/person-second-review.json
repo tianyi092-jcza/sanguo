@@ -37076,6 +37076,33 @@
           "term": "王朗",
           "quote": "遵遣車騎王朗率精騎二萬",
           "reason": "後趙石遵遣車騎王朗事，與三國王朗同名異人，不另立條。"
+        },
+        {
+          "id": "lang-excl-jinshu-houzhao-wanglang-benluoyang",
+          "work": "jinshu",
+          "source": "a05-107-ahcb",
+          "paragraph": 25,
+          "term": "王朗",
+          "quote": "王朗、麻秋自長安奔于洛陽",
+          "reason": "後趙王朗自長安奔洛陽、後奔襄國事，與三國王朗同名異人，不另立條。"
+        },
+        {
+          "id": "lang-excl-jinshu-houzhao-wanglang-faye",
+          "work": "jinshu",
+          "source": "a05-107-ahcb",
+          "paragraph": 26,
+          "term": "王朗",
+          "quote": "石琨及張舉、王朗率眾七萬伐鄴",
+          "reason": "後趙石琨、張舉、王朗伐鄴事，與三國王朗同名異人，不另立條。"
+        },
+        {
+          "id": "lang-excl-huayang-wangshang-jingxing-biyu",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 40,
+          "term": "王景興",
+          "quote": "中夏王景興軰也",
+          "reason": "華陽國志載許靖稱王商可比中夏王景興，僅借王朗之字為才學標杆作比擬，無王朗本人言行事蹟，不單獨立為摘錄。"
         }
       ],
       "conclusions": [],
