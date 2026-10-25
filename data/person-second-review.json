@@ -40970,7 +40970,35 @@
       "id": "p0048",
       "name": "徐晃",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xuhuang-pei-guandu",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "公使徐晃等擊其運車",
+          "through": "揚旌往還，曾無抵閡",
+          "citation": "裴松之按語"
+        },
+        {
+          "id": "xuhuang-sg-tongguan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "潛遣徐晃、朱靈等夜渡蒲阪津",
+          "through": "據河西為營",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xuhuang-sg-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "from": "晃攻羽，破之",
+          "through": "仁圍解",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
