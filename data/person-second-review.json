@@ -44778,7 +44778,35 @@
       "id": "p0057",
       "name": "田豫",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ty-pei-liaodong-sea",
+          "work": "peizhu",
+          "source": "a04-014",
+          "paragraph": 40,
+          "from": "司馬彪戰略曰：太和六年，明帝遣平州刺史田豫乘海渡",
+          "through": "豫行竟無成而還。",
+          "citation": "裴注引《司馬彪戰略》"
+        },
+        {
+          "id": "ty-pei-kebineng-siege",
+          "work": "peizhu",
+          "source": "a04-014",
+          "paragraph": 47,
+          "from": "魏氏春秋曰：烏丸校尉田豫帥西部鮮卑泄歸尼等出塞",
+          "through": "比能果釋豫而還。",
+          "citation": "裴注引《魏氏春秋》"
+        },
+        {
+          "id": "ty-pei-sunzi-feud",
+          "work": "peizhu",
+          "source": "a04-014",
+          "paragraph": 47,
+          "from": "鄉人司空掾田豫、梁相宗豔皆妬害之",
+          "through": "又致其子於本郡，以為孝廉。",
+          "citation": "裴注引《孫資別傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
