@@ -218,6 +218,12 @@ function excerptCardsHTML(groups,p,work,attached){
     }).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('');
 }
+// 二 · 晉書：有摘錄者占位懒加载，无摘錄者显示空态（与通鉴同模式）
+function jinshuSectionHTML(p){
+  const vols=(typeof JS_INDEX!=='undefined'&&JS_INDEX[p.id])||null;
+  if(vols&&vols.length)return `<div data-js-person="${p.id}"><span class="empty">晉書摘錄載入中…</span></div>`;
+  return '<span class="empty">未收錄與本人相關的晉書記載。</span>';
+}
 // 三 · 資治通鑑：有摘錄者占位懒加载，无摘錄者显示空态
 function tongjianSectionHTML(p){
   const vols=(typeof TJ_INDEX!=='undefined'&&TJ_INDEX[p.id])||null;
@@ -240,8 +246,8 @@ function newExcerptsHTML(excerpts,p){
     html+=excerptCardsHTML(taGroups,p,'sanguozhi',attached);
   }
   html+=`</section>`;
-  const jinGroups=citationGroups(otherMains.filter(m=>m.work==='jinshu'));
-  html+=`<section class="source-work"><h4>二 · 晉書</h4>${jinGroups.length?excerptCardsHTML(jinGroups,p,'jinshu',attached):'<span class="empty">未收錄與本人相關的記載。</span>'}</section>`;
+  // 晉書改与通鉴同模式：语料管线按卷懒加载（见 loadJinshu），不再渲染 D1 零散条目
+  html+=`<section class="source-work"><h4>二 · 晉書</h4>${jinshuSectionHTML(p)}</section>`;
   html+=`<section class="source-work"><h4>三 · 資治通鑑</h4>${tongjianSectionHTML(p)}</section>`;
   if(orphans.length)html+=`<section class="source-work"><h4>附 · 裴注</h4><article class="source-excerpt"><div class="source-citation">所注正文未收錄</div>${peiNotesHTML(orphans)}</article></section>`;
   return html;
@@ -313,6 +319,60 @@ async function loadTongjian(p){
     }
   })();
   return tjPromises[p.id];
+}
+// 晉書摘錄懒加载：与通鉴同模式（单文件版读内嵌 js-data，dist 版按卷 fetch）
+let jsDataCache=null;
+function jsData(){
+  if(jsDataCache)return jsDataCache;
+  const el=document.getElementById('js-data');
+  jsDataCache=el?JSON.parse(el.textContent):{};
+  return jsDataCache;
+}
+const jsPromises={};
+function jinshuHTML(excerpts,p){
+  const byVol=new Map();
+  for(const e of excerpts){
+    if(!byVol.has(e.citation))byVol.set(e.citation,[]);
+    byVol.get(e.citation).push(e);
+  }
+  return [...byVol.entries()].map(([citation,items])=>{
+    const quoteId=`source-quote-${p.id}-jinshu-${items[0].vol}`;
+    return `<article class="source-excerpt"><div class="source-citation">${esc(citation)}</div>`+
+      items.map((item,ii)=>`<blockquote${ii?'':' id="'+quoteId+'"'}>${item.html}</blockquote>`+
+        (item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:'')
+      ).join('')+
+      `<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
+  }).join('');
+}
+async function loadJinshu(p){
+  const vols=(typeof JS_INDEX!=='undefined'&&JS_INDEX[p.id])||null;
+  const slot=document.querySelector(`[data-js-person="${p.id}"]`);
+  if(!vols||!vols.length||!slot||slot.dataset.jsLoaded)return jsPromises[p.id];
+  slot.dataset.jsLoaded='1';
+  jsPromises[p.id]=(async()=>{
+    try{
+      let excerpts=jsData()[p.id];
+      if(!excerpts){
+        excerpts=[];
+        for(const vol of vols){
+          const r=await fetch('jinshu/'+vol+'.json');
+          if(!r.ok)throw new Error('HTTP '+r.status);
+          const j=await r.json();
+          excerpts.push(...j.segments.filter(s=>s.pid===p.id));
+        }
+        excerpts.sort((a,b)=>(a.vol<b.vol?-1:a.vol>b.vol?1:(a.id<b.id?-1:1)));
+      }
+      if(!document.body.contains(slot))return;
+      const tmp=document.createElement('div');
+      tmp.innerHTML=jinshuHTML(excerpts,p);
+      if(tmp.firstElementChild)slot.replaceWith(...tmp.childNodes);
+      else slot.innerHTML='<span class="empty">未收錄與本人相關的晉書記載。</span>';
+      activateSourceExcerpts();
+    }catch(err){
+      if(document.body.contains(slot))slot.innerHTML='<span class="empty">晉書摘錄載入失敗，請稍後再試。</span>';
+    }
+  })();
+  return jsPromises[p.id];
 }
 // 「本传亦载」跳转：展开本传卡片并滚动到对应段落；本传尚未载入时先等待加载
 document.addEventListener('click',e=>{
@@ -432,6 +492,7 @@ function openPerson(p){
   activateSourceExcerpts();
   activatePeiTags();
   loadTongjian(p);
+  loadJinshu(p);
   loadExcerpts(p,h);
 }
 // 本传全文：从 /api/biography/:pid 取 sidneyluo 全文
@@ -507,9 +568,10 @@ async function loadExcerpts(p,h){
   else slot.innerHTML='<span class="empty">未收錄與本人相關的記載。</span>';
   activateSourceExcerpts();
   activatePeiTags();
-  // 摘录渲染完后，槽位已存在，再加载本传全文与通鉴摘录
+  // 摘录渲染完后，槽位已存在，再加载本传全文、晉書与通鉴摘录
   loadSidneyluoBio(p);
   loadTongjian(p);
+  loadJinshu(p);
 }
 function portraitHTML(p){
  const entry=PORTRAITS.people[p.id];

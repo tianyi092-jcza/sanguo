@@ -99,12 +99,50 @@ for(const [vol,v] of Object.entries(tjSegs)){
   if(segs.length)fs.writeFileSync(`dist/tongjian/${vol}.json`,JSON.stringify({vol,page:v.page,url:v.url,segments:segs}));
 }
 if(Object.keys(tjLinks).length)fs.writeFileSync('dist/tongjian-links.json',JSON.stringify(tjLinks));
+// 晉書摘錄按需加载：与通鉴同一模式（每卷一篇静态 JSON，仅含有人物命中的段；首屏只嵌卷索引；单文件版内嵌每人摘錄）
+const jsSegs=fs.existsSync('data/jinshu/segments.json')?JSON.parse(read('data/jinshu/segments.json')):{};
+const jsMatches=fs.existsSync('data/jinshu/matches.json')?JSON.parse(read('data/jinshu/matches.json')):{};
+const jsLinks=fs.existsSync('data/jinshu-links.json')?JSON.parse(read('data/jinshu-links.json')):{};
+const jsSegById=new Map();
+for(const v of Object.values(jsSegs))for(const s of v.segments)jsSegById.set(s.id,s);
+const jsSegPids=new Map(); // segId -> [pid]
+for(const [pid,ms] of Object.entries(jsMatches))for(const m of ms){
+  if(!jsSegPids.has(m.segId))jsSegPids.set(m.segId,[]);
+  jsSegPids.get(m.segId).push(pid);
+}
+fs.mkdirSync('dist/jinshu',{recursive:true});
+const jsIndex={},jsPeople={};
+for(const [pid,ms] of Object.entries(jsMatches)){
+  if(!ms.length)continue;
+  const vols=new Set(),exs=[];
+  for(const m of ms){
+    const s=jsSegById.get(m.segId);
+    if(!s)continue;
+    vols.add(s.vol);
+    const link=jsLinks[pid]?.[m.segId];
+    exs.push({id:m.segId,vol:s.vol,citation:s.citation,html:s.html,bioPara:link?.para??null});
+  }
+  exs.sort((a,b)=>(a.vol<b.vol?-1:a.vol>b.vol?1:(a.id<b.id?-1:1)));
+  jsPeople[pid]=exs;
+  jsIndex[pid]=[...vols].sort();
+}
+for(const [vol,v] of Object.entries(jsSegs)){
+  const segs=[];
+  for(const s of v.segments){
+    for(const pid of jsSegPids.get(s.id)||[]){
+      const link=jsLinks[pid]?.[s.id];
+      segs.push({id:s.id,pid,vol:s.vol,citation:s.citation,html:s.html,bioPara:link?.para??null});
+    }
+  }
+  if(segs.length)fs.writeFileSync(`dist/jinshu/${vol}.json`,JSON.stringify({vol,page:v.page,url:v.url,segments:segs}));
+}
+if(Object.keys(jsLinks).length)fs.writeFileSync('dist/jinshu-links.json',JSON.stringify(jsLinks));
 const placeModernPath='data/place-modern.json';
 const placeModern=fs.existsSync(placeModernPath)?JSON.parse(read(placeModernPath)):{};
 const officePlaces=JSON.parse(read('data/office-places.json'));
 const cmdZhou={}; for(const c of officePlaces.cmd) cmdZhou[traditional(c.n)]=traditional(c.z);
 const zhouOrder=officePlaces.zhou.map(z=>traditional(z));
-const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst PLACE_MODERN=${traditional(JSON.stringify(placeModern))};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst WS_BIOGRAPHIES=${JSON.stringify(wsManifest)};\nconst TJ_INDEX=${JSON.stringify(tjIndex)};\nconst CMD_ZHOU=${JSON.stringify(cmdZhou)};\nconst ZHOU_ORDER=${JSON.stringify(zhouOrder)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
+const head=`const DATA=${JSON.stringify(data)};\nconst HISTORY=${JSON.stringify(history)};\nconst PORTRAITS=${JSON.stringify(portraits)};\nconst PLACE_MODERN=${traditional(JSON.stringify(placeModern))};\nconst MAP_CONFIG=${JSON.stringify(mapConfig)};\nconst SEARCH_CHARS=${JSON.stringify(chars)};\nconst WS_BIOGRAPHIES=${JSON.stringify(wsManifest)};\nconst TJ_INDEX=${JSON.stringify(tjIndex)};\nconst JS_INDEX=${JSON.stringify(jsIndex)};\nconst CMD_ZHOU=${JSON.stringify(cmdZhou)};\nconst ZHOU_ORDER=${JSON.stringify(zhouOrder)};\nconst normalizeSearch=s=>Array.from(String(s||'')).map(c=>SEARCH_CHARS[c]||c).join('').toLowerCase();\n`;
 js=head+'const ERA_CALENDAR='+read('data/calendar-eras.json').trim()+';\n'+traditional(js);
 new vm.Script(js);
 let css=html.match(/<style>([\s\S]*?)<\/style>/)[1]+'\n'+read('src/timeline.css')+'\n'+read('src/google-satellite.css');
@@ -113,7 +151,7 @@ html=traditional(html).replace('人物時間軸','人物列傳');
 // Keep the original entry point as a portable, offline-capable artifact.
 const standalone=html.replace('<!-- STYLE -->','<style>'+css.replace('./Oswald-Light.woff2','./assets/Oswald-Light.woff2')+'</style>').replace('<!-- SCRIPT -->','<script>'+js.replaceAll('</script','<\\/script')+'</script>');
 // 单文件离线版内嵌本传全文数据（dist 版改为按需 fetch）
-const standaloneWs=standalone.replace('</body>','<script type="application/json" id="ws-bio-data">'+JSON.stringify(wsBio).replaceAll('</script','<\\/script')+'</script><script type="application/json" id="tj-data">'+JSON.stringify(tjPeople).replaceAll('</script','<\\/script')+'</script></body>');
+const standaloneWs=standalone.replace('</body>','<script type="application/json" id="ws-bio-data">'+JSON.stringify(wsBio).replaceAll('</script','<\\/script')+'</script><script type="application/json" id="tj-data">'+JSON.stringify(tjPeople).replaceAll('</script','<\\/script')+'</script><script type="application/json" id="js-data">'+JSON.stringify(jsPeople).replaceAll('</script','<\\/script')+'</script></body>');
 fs.writeFileSync('三国志_郡国疆域与人物年表.html',standaloneWs);
 const hash=s=>crypto.createHash('sha256').update(s).digest('hex').slice(0,12);
 const fontBytes=fs.readFileSync('assets/Oswald-Light.woff2');
@@ -127,7 +165,7 @@ for(const file of fs.readdirSync('dist/assets'))if(/^(app|style)\.[a-f0-9]{12}\.
 fs.writeFileSync('dist/assets/'+fontName,fontBytes);
 fs.writeFileSync('dist/assets/'+jname,js);fs.writeFileSync('dist/assets/'+cname,css);
 fs.writeFileSync('dist/index.html',html.replace('<!-- STYLE -->',`<link rel="stylesheet" href="./assets/${cname}">`).replace('<!-- SCRIPT -->',`<script defer src="./assets/${jname}"></script>`));
-fs.writeFileSync('dist/_headers','/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/wikisource/*\n  Cache-Control: public, max-age=3600\n/tongjian/*\n  Cache-Control: public, max-age=3600\n/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n');
+fs.writeFileSync('dist/_headers','/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n/wikisource/*\n  Cache-Control: public, max-age=3600\n/tongjian/*\n  Cache-Control: public, max-age=3600\n/jinshu/*\n  Cache-Control: public, max-age=3600\n/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n');
 fs.writeFileSync('data/history.json',JSON.stringify(history,null,2));
 fs.writeFileSync('dist/404.html','<!doctype html><html lang="zh-Hant"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>頁面不存在</title><body><h1>頁面不存在</h1><a href="/">返回三國志資料集</a></body></html>');
 console.log(JSON.stringify({people:data.per.length,sourceReadings:audit.withReading,datedPeople:audit.withTimeline,appBytes:Buffer.byteLength(js),entry:'dist/index.html'},null,2));
