@@ -40997,6 +40997,33 @@
           "from": "晃攻羽，破之",
           "through": "仁圍解",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xuhuang-sg-caoren-xiangyang",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 22,
+          "from": "仁與徐晃攻破邵",
+          "through": "遂入襄陽",
+          "citation": "《三國志·魏書九·曹仁傳》"
+        },
+        {
+          "id": "xuhuang-sg-caozhen-yangping",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 36,
+          "from": "以真為征蜀護軍",
+          "through": "高詳於陽平",
+          "citation": "《三國志·魏書九·曹真傳》"
+        },
+        {
+          "id": "xuhuang-sg-zhangliao-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 6,
+          "from": "遼未至，徐晃已破關羽",
+          "through": "仁圍解",
+          "citation": "《三國志·魏書十七·張遼傳》"
         }
       ],
       "exclusions": [],
