@@ -39192,6 +39192,22 @@
         "文名與卒年：《後漢書·卷八十下·文苑列傳下》載與徐幹、陳琳、阮瑀俱以章知名；《三國志·王粲傳》載幹、琳、瑒、楨二十二年卒、一時俱逝，即建安二十二年（217）卒。",
         "本傳附見於《三國志》卷二十一王粲傳（a04-021），本輪摘錄本傳交游、卒年段及後漢書章表知名段，其餘由 D1 本傳庫承載，不重複摘錄。"
       ]
+    },
+    {
+      "id": "p0037",
+      "name": "阮瑀",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
