@@ -42187,6 +42187,33 @@
           "term": "合肥",
           "quote": "軍次東關，破合肥",
           "reason": "段述東晉陶寶討祖約、軍次東關破合肥事，段中未提李典，係合肥事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-018",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 7,
+          "term": "合肥",
+          "quote": "二十年，從權征合肥",
+          "reason": "段述建安二十年孫權征合肥、朱桓津南迎權事，段中未提李典，係合肥事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-019",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 62,
+          "term": "合肥",
+          "quote": "郗鑒自鄒山退守合肥",
+          "reason": "段述東晉郗鑒自鄒山退守合肥事，段中未提李典，係合肥事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-020",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 27,
+          "term": "合肥",
+          "quote": "諸葛恪圍合肥新城，不克，退歸",
+          "reason": "段述諸葛恪圍合肥新城不克、鄧艾論恪事，段中未提李典，係合肥事件信號誤命中，排除。"
         }
       ],
       "unresolved": [],
