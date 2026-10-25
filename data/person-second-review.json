@@ -43045,7 +43045,38 @@
       "id": "p0051",
       "name": "臧霸",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zangba-sgz-qingzhou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "from": "使臧霸等入青州破齊、北海、東安",
+          "through": "留于禁屯河上。",
+          "citation": "《三國志·魏書一·武帝紀》所載",
+          "note": "正文層：建安四年秋，曹操進軍黎陽，遣臧霸等入青州，破齊、北海、東安，留于禁屯河上。"
+        },
+        {
+          "id": "zangba-sgz-xiaojian",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 11,
+          "from": "建尋為臧霸所襲破，得建資實。",
+          "through": "霸後復與布和。",
+          "citation": "《三國志·魏書七·呂布傳》所載",
+          "note": "正文層：東海蕭建為琅邪相治莒，臧霸襲破之，得其資實；呂布自將步騎向莒，霸登城拒守，布不能拔引還下邳，後霸復與布和。"
+        },
+        {
+          "id": "zangba-sgz-meicheng",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "from": "後與臧霸等攻梅成",
+          "through": "成舉衆三千餘人降。",
+          "citation": "《三國志·魏書十七·于禁傳》所載",
+          "note": "正文層（于禁傳）：于禁與臧霸等攻梅成，張遼、張郃等討陳蘭；禁到，梅成舉衆三千餘人降。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
