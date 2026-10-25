@@ -40740,6 +40740,36 @@
           "from": "時于禁屯潁陰",
           "through": "遂相親睦。",
           "citation": "《三國志·卷二十三 ‧ 魏書二十三　和常楊杜趙裴傳第二十三　趙儼傳》"
+        },
+        {
+          "id": "yujin-sg-manchong-fancheng-yujinmo",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 4,
+          "context": "孫權數擾東陲，復召寵還為汝南太守，賜爵關內侯。",
+          "from": "關羽圍襄陽",
+          "through": "為羽所沒。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六　滿寵傳》"
+        },
+        {
+          "id": "yujin-sg-xianzhu-bowang-yujin",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 8,
+          "context": "此皆世俗妄說，非事實也。",
+          "from": "使拒夏侯惇、于禁等於博望",
+          "through": "為伏兵所破。",
+          "citation": "《三國志·卷三十二 ‧ 蜀書二　先主傳第二　先主傳》"
+        },
+        {
+          "id": "yujin-sg-xianzhu-dianlue-qinyujinfan",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 19,
+          "context": "於是還治成都。拔魏延為都督，鎮漢中。",
+          "from": "典略曰：備於是起館舍",
+          "through": "禽于禁於樊。",
+          "citation": "《三國志·卷三十二 ‧ 蜀書二　先主傳第二　先主傳》"
         }
       ],
       "exclusions": [
