@@ -44805,6 +44805,33 @@
           "from": "鄉人司空掾田豫、梁相宗豔皆妬害之",
           "through": "又致其子於本郡，以為孝廉。",
           "citation": "裴注引《孫資別傳》"
+        },
+        {
+          "id": "ty-sgz-qianzhao-rescue-yu",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 25,
+          "from": "太和二年，護烏丸校尉田豫出塞，為軻比能所圍於故馬邑城，移招求救。",
+          "through": "軍到故平城，便皆潰走。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六　牽招傳》原文"
+        },
+        {
+          "id": "ty-sgz-xumiao-zhao-honor",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 3,
+          "from": "六年，朝廷追思清節之士，詔曰：",
+          "through": "布告天下。",
+          "citation": "《三國志·卷二十七 ‧ 魏書二十七　徐胡二王傳第二十七　徐邈傳》原文"
+        },
+        {
+          "id": "ty-pei-weishu-yu-zhijie",
+          "work": "peizhu",
+          "source": "a04-028",
+          "paragraph": 3,
+          "from": "魏書曰：愚字公浩，本名浚，黃初中，為和戎護軍。",
+          "through": "遂以名之。",
+          "citation": "裴注引《魏書》"
         }
       ],
       "exclusions": [],
