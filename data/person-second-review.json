@@ -41213,9 +41213,37 @@
           "from": "魏將夏侯淵張郃徐晃征伐常由此郡",
           "through": "魏將夏侯淵張郃徐晃征伐常由此郡而蜀丞相",
           "citation": "《華陽國志·卷二》"
+        },
+        {
+          "id": "xuhuang-sg-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 28,
+          "from": "未如張遼、徐晃之備詳也",
+          "through": "未如張遼、徐晃之備詳也",
+          "citation": "《三國志·魏書十七·徐晃傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xuhuang-excl-bio-heading",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 21,
+          "term": "徐晃",
+          "quote": "徐晃傳",
+          "reason": "僅為本傳篇目小標題，無實質史事內容，不作摘錄。"
+        },
+        {
+          "id": "xuhuang-excl-moji-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 31,
+          "term": "徐晃",
+          "quote": "樂進、徐晃等為救，圍不即解",
+          "reason": "吳人張儼默記論諸葛、司馬處僅泛稱樂進、徐晃等救樊城、圍不即解，實質已由本傳及多條他傳摘錄覆蓋；段中新增信息為蔣子通徙許渡河之計，屬曹魏朝廷決策而非徐晃事跡，不重複摘錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
