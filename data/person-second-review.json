@@ -41159,6 +41159,33 @@
           "from": "晃說奉，令與天子還洛陽，奉從其計",
           "through": "封晃都亭侯",
           "citation": "《三國志·魏書十七·徐晃傳》"
+        },
+        {
+          "id": "xuhuang-sg-huanjie-fancheng-advice",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 2,
+          "from": "曹仁為關羽所圍，太祖遣徐晃救之，不解",
+          "through": "太祖善其言，駐軍於摩陂",
+          "citation": "《三國志·魏書二十二·桓階傳》"
+        },
+        {
+          "id": "xuhuang-sg-zhaoyan-fancheng-relief",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 26,
+          "from": "儼以議郎參仁軍事南行，與平寇將軍徐晃俱前",
+          "through": "諸將皆喜，便作地道，箭飛書與仁，消息數通",
+          "citation": "《三國志·魏書二十三·趙儼傳》"
+        },
+        {
+          "id": "xuhuang-sg-wuzhu-nanjun-siege",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 20,
+          "from": "魏乃命曹休、張遼、臧霸出洞口，曹仁出濡須，曹真、夏侯尚、張郃、徐晃圍南郡",
+          "through": "權遣呂範等督五軍，以舟軍拒休等",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [],
