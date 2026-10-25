@@ -173,6 +173,8 @@ function citationGroups(items){
   }
   return groups;
 }
+// 摘录删除功能开关：已禁用（2026-10-25 用户要求）。置 true 可恢复×按钮与 DELETE 删除。
+const EXCERPT_DELETE_ENABLED=false;
 function excerptCardsHTML(groups,p,work,attached){
   return groups.map((g,gi)=>{
     const quoteId=`source-quote-${p.id}-${work}-${gi}`;
@@ -212,7 +214,7 @@ function excerptCardsHTML(groups,p,work,attached){
       }
       const delId=`${p.id}|${work}|${item.id||ii}|${esc(g.citation)}`;
       const excerptId=item.id||'';
-      return `<div class="excerpt-wrap" data-del-id="${esc(delId)}" style="position:relative"><button type="button" class="excerpt-del" data-del-id="${esc(delId)}" data-excerpt-id="${esc(excerptId)}" title="删除此条（误摘）" style="position:absolute;top:2px;right:4px;border:none;background:transparent;color:#999;font-size:16px;cursor:pointer;padding:2px 6px;z-index:5">×</button><blockquote${ii?'':' id="'+quoteId+'"'}>${body}</blockquote></div>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`;
+      return `<div class="excerpt-wrap" data-del-id="${esc(delId)}" style="position:relative">${EXCERPT_DELETE_ENABLED?`<button type="button" class="excerpt-del" data-del-id="${esc(delId)}" data-excerpt-id="${esc(excerptId)}" title="删除此条（误摘）" style="position:absolute;top:2px;right:4px;border:none;background:transparent;color:#999;font-size:16px;cursor:pointer;padding:2px 6px;z-index:5">×</button>`:''}<blockquote${ii?'':' id="'+quoteId+'"'}>${body}</blockquote></div>${item.bioPara!=null?`<button type="button" class="bio-link" data-bio-jump="bio-p-${p.id}-${item.bioPara}" data-pid="${p.id}">本传亦载</button>`:''}${attached&&attached.has(item.id)?peiNotesHTML(attached.get(item.id)):''}`;
     }).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('');
 }
@@ -336,8 +338,9 @@ document.addEventListener('click',e=>{
   const person=(typeof DATA!=='undefined'&&(DATA.per||[]).find(x=>x.id===pid))||{id:pid};
   Promise.resolve(loadSidneyluoBio(person)).then(()=>setTimeout(done,80));
 });
-// 摘录删除按钮：右上角×，直接调 DELETE /api/excerpts/:id 真删
+// 摘录删除按钮：右上角×，直接调 DELETE /api/excerpts/:id 真删（已由 EXCERPT_DELETE_ENABLED 禁用）
 document.addEventListener('click',async e=>{
+  if(!EXCERPT_DELETE_ENABLED)return;
   const btn=e.target.closest('.excerpt-del');
   if(!btn)return;
   e.preventDefault();e.stopPropagation();
