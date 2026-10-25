@@ -39435,6 +39435,22 @@
       ],
       "unresolved": [],
       "reviewedOn": "2026-10-25"
+    },
+    {
+      "id": "p0038",
+      "name": "楊修",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
