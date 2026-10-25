@@ -41915,7 +41915,35 @@
       "id": "p0049",
       "name": "李典",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lidian-wudi-hefei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "from": "八月，孫權圍合肥",
+          "through": "張遼、李典擊破之",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "lidian-zhangliao-hefei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 5,
+          "from": "使遼與樂進、李典等將七千餘人屯合肥",
+          "through": "李典亦與遼同",
+          "citation": "《三國志·魏書十七·張遼傳》"
+        },
+        {
+          "id": "lidian-yuejin-guancheng",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 10,
+          "from": "遣進與李典擊之",
+          "through": "承破走，逃入海島",
+          "citation": "《三國志·魏書十七·樂進傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
