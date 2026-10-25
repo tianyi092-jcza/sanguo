@@ -41593,6 +41593,33 @@
           "term": "蓬關",
           "quote": "攻陳川于蓬關",
           "reason": "向量候選以潼關之戰事件信號命中，實為祖逖攻陳川于蓬關、石季龍救川而逖退屯梁國，段中未提徐晃，亦非潼關之戰，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-fujian-xucheng",
+          "work": "jinshu",
+          "source": "a05-113-ahcb",
+          "paragraph": 32,
+          "term": "徐成",
+          "quote": "鷹揚將軍徐成率步騎三萬入自劍閣",
+          "reason": "向量候選以潼關之戰事件信號命中，實為前秦苻堅攻蜀事：徐成為苻堅部將，與徐晃同姓不同人，段中未提徐晃，亦無潼關之戰，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-dengdun",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 46,
+          "term": "鄧敦",
+          "quote": "將軍鄧敦謂蜀未可討，帝斬以徇",
+          "reason": "向量候選以潼關之戰事件信號命中，實為晉武帝時軍發洛陽、斬諫將鄧敦事，段中未提徐晃，亦無潼關之戰，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-shuzhi-jianxing-banian-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 9,
+          "term": "漢中",
+          "quote": "欲攻漢中",
+          "reason": "向量候選以漢中之戰事件信號命中，實為建興八年（230）魏三路攻漢中、諸葛亮拒於城固赤阪事，晚於徐晃卒年（227），段中亦未提徐晃，與漢中之戰（217—219）並非同一事，排除。"
         }
       ],
       "unresolved": [],
