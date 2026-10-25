@@ -40826,6 +40826,33 @@
           "from": "魏使于禁救樊",
           "through": "羽盡禽禁等，人馬數萬",
           "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 呂蒙傳》"
+        },
+        {
+          "id": "yujin-sg-yufan-shi-jin",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 6,
+          "from": "魏將于禁為羽所獲",
+          "through": "權呵止之。",
+          "citation": "《三國志·卷五十七 ‧ 吳書十二　虞翻陸績張溫傳第十二 虞翻傳》"
+        },
+        {
+          "id": "yujin-sg-luxun-shu-jin-huo",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 5,
+          "from": "于禁等見獲",
+          "through": "蔑以尚茲。",
+          "citation": "《三國志·卷五十八 ‧ 吳書十三　陸遜傳第十三 陸遜傳》"
+        },
+        {
+          "id": "yujin-jin-xuandi-fan-jinmo",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 4,
+          "from": "及蜀將關羽圍曹仁於樊",
+          "through": "于禁等七軍皆沒",
+          "citation": "《晉書》卷一·宣帝紀"
         }
       ],
       "exclusions": [
