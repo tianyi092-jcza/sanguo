@@ -38123,6 +38123,33 @@
           "term": "王粲",
           "quote": "劉巴字子初，零陵烝陽人也",
           "reason": "三國志卷三十九該段記劉巴拒劉表辟舉、北詣曹公、遠適交阯事，全段未提王粲；「依劉表」事件向量誤中，排除；不把劉巴事迹記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hhs-jibeiwang-guochu",
+          "work": "houhanshu",
+          "source": "a03-055",
+          "paragraph": 31,
+          "term": "王粲",
+          "quote": "次立十七年薨，子鸞嗣",
+          "reason": "該段記濟北王次—鸞—政三代嗣位及建安十一年國除事，全段未提王粲；「建安七子」事件向量誤中，排除；不把宗室嗣位事記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hhs-xiandi-jianan20",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 28,
+          "term": "王粲",
+          "quote": "二十年春正月甲子，立貴人曹氏為皇后",
+          "reason": "該段記建安二十年立曹氏為皇后、賜爵及曹操破漢中、張魯降事，全段未提王粲；「歸曹操」事件向量誤中，排除；不把獻帝紀事記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hhs-yuanshao-liubiao-mulu",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 0,
+          "term": "王粲",
+          "quote": "袁紹子譚　劉表",
+          "reason": "該段僅為袁紹劉表列傳卷首目錄行，列袁紹子譚、劉表二傳名，全段未提王粲；「依劉表」事件向量誤中，排除。"
         }
       ],
       "unresolved": [],
