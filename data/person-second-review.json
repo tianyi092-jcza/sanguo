@@ -41914,7 +41914,7 @@
     {
       "id": "p0049",
       "name": "李典",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "lidian-wudi-hefei",
@@ -42295,17 +42295,30 @@
           "term": "合肥之戰",
           "quote": "八月癸亥，戰于襄垣，王師敗績",
           "reason": "段述襄垣之戰、陶侃攻杜弢平湘州事，段中未提李典，亦非合肥之戰事，係合肥之戰事件信號誤命中，與李典生平無關，排除。"
+        },
+        {
+          "id": "lidian-excl-030",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 138,
+          "term": "合肥之戰",
+          "quote": "十八年春二月，蜀郡守將史歆叛，遣大司馬吳漢率二將軍討之，圍成都。",
+          "reason": "段述蜀郡守將史歆叛、吳漢圍成都事，段中未提李典，亦非合肥之戰事，係合肥之戰事件信號誤命中，與李典生平無關，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪覆核：向量候選與合肥之戰事件信號皆已處理完畢（重跑檢索候選 0 段）；錄正摘錄 13 條（《三國志》正文 12、裴注 1），排除 30 條，未解決 0 條。",
+        "辨人：與北涼同名李典、妖巫李廣、李憲等人嚴格區分；合肥之戰事件信號誤命中（後漢書、晉書合肥地名或他事段落）皆已排除；本傳篇目小標題等無史實內容段亦已排除。",
+        "行狀：李典字曼成，曹操部將，歷壺關、合肥諸役，好學問、貴儒雅、不與諸將爭功，卒後謚愍侯；本輪未見轉投他主記載。"
+      ]
     }
   ]
 }
