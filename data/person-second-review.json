@@ -41105,6 +41105,33 @@
           "from": "督徐晃擊太原賊",
           "through": "屠其城",
           "citation": "《三國志·魏書九·夏侯淵傳》"
+        },
+        {
+          "id": "xuhuang-sg-xiayuan-bajun",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 11,
+          "from": "以淵行都護將軍",
+          "through": "督張郃、徐晃等平巴郡",
+          "citation": "《三國志·魏書九·夏侯淵傳》"
+        },
+        {
+          "id": "xuhuang-sg-caoren-fancheng-rescue",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 20,
+          "from": "徐晃救至",
+          "through": "羽退走",
+          "citation": "《三國志·魏書九·曹仁傳》"
+        },
+        {
+          "id": "xuhuang-sg-xunyou-guandu-grain",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 18,
+          "from": "攸曰：「徐晃可。」",
+          "through": "燒其輜重",
+          "citation": "《三國志·魏書十·荀攸傳》"
         }
       ],
       "exclusions": [],
