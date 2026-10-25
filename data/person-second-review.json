@@ -41755,6 +41755,33 @@
           "term": "桓沖",
           "quote": "晉車騎將軍桓沖率眾十萬伐堅，遂攻襄陽。",
           "reason": "向量候選以潼關之戰事件信號命中，實為東晉桓沖伐前秦苻堅、攻襄陽事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-liulaozhi-yanzhou",
+          "work": "jinshu",
+          "source": "a05-114-ahcb",
+          "paragraph": 26,
+          "term": "劉牢之",
+          "quote": "劉牢之伐兗州，堅刺史張崇棄鄄城奔於慕容垂。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為東晉劉牢之伐兗州、追苻堅刺史張崇事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-yaoxing-hucheng",
+          "work": "jinshu",
+          "source": "a05-117-ahcb",
+          "paragraph": 15,
+          "term": "姚興",
+          "quote": "興率眾寇湖城，晉弘農太守陶仲山、華山太守董邁皆降於興。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為姚興寇湖城、進寇上洛事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-liulaozhi-wuqiaoze",
+          "work": "jinshu",
+          "source": "a05-009-ahcb",
+          "paragraph": 116,
+          "term": "劉牢之",
+          "quote": "夏四月丙辰，劉牢之與沛郡太守周次及垂戰于五橋澤，王師又敗績。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為東晉劉牢之與慕容垂戰于五橋澤事，段中未提徐晃，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
