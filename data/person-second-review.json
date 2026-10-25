@@ -41024,6 +41024,33 @@
           "from": "遼未至，徐晃已破關羽",
           "through": "仁圍解",
           "citation": "《三國志·魏書十七·張遼傳》"
+        },
+        {
+          "id": "xuhuang-manchong-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 4,
+          "from": "會徐晃等救至",
+          "through": "羽遂退",
+          "citation": "《三國志·魏書二十六·滿寵傳》"
+        },
+        {
+          "id": "xuhuang-guanyu-shuji",
+          "work": "peizhu",
+          "source": "a04-036",
+          "paragraph": 5,
+          "from": "羽與晃宿相愛",
+          "through": "引軍退還",
+          "citation": "裴注引《蜀記》"
+        },
+        {
+          "id": "xuhuang-liufeng-xifeng",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 2,
+          "from": "遣征南將軍夏侯尚",
+          "through": "與達共襲封",
+          "citation": "《三國志·蜀書十·劉封傳》"
         }
       ],
       "exclusions": [],
