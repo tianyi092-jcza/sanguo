@@ -44577,7 +44577,38 @@
       "id": "p0056",
       "name": "滿寵",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "manchong-hefei-xincheng-ju-sunquan",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 22,
+          "from": "六月，征東將軍滿寵進軍拒之。",
+          "through": "權遁走，議、韶等亦退。",
+          "citation": "《三國志·明帝紀》",
+          "note": "明帝紀記孫權入居巢湖口、向合肥新城，征東將軍滿寵進軍拒之；寵欲拔新城守、致賊壽春，帝不聽，仍以三城之固拒賊，權遁走。此為明帝紀側面記事，合肥新城防禦戰之經過，本傳另有記載。"
+        },
+        {
+          "id": "manchong-qian-taiwei",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 2,
+          "from": "三月，以征東將軍滿寵為太尉。",
+          "through": "三月，以征東將軍滿寵為太尉。",
+          "citation": "《三國志·齊王紀》",
+          "note": "齊王紀記滿寵由征東將軍遷為太尉，接替轉任太傅之太尉。此為帝紀任免紀事，滿寵晚年官至太尉之證。"
+        },
+        {
+          "id": "manchong-zhengshi-sannian-hong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 8,
+          "from": "三月，太尉滿寵薨。",
+          "through": "三月，太尉滿寵薨。",
+          "citation": "《三國志·齊王紀》",
+          "note": "齊王紀記正始三年三月太尉滿寵薨，與本傳「正始三年薨」相合。此為帝紀薨卒紀事，滿寵卒年之證。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
