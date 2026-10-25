@@ -40078,6 +40078,22 @@
         "勢力繫年：曹操幕府功曹起家，後與崔琰並以忠清幹事、典選舉、先尚儉節，官至吏部尚書，屬曹操勢力；曾被白謗毀太祖、和洽求案實其事。",
         "卒：崔琰既死，玠內不悅，遂免黜，卒于家；太祖賜棺器錢帛，拜子機郎中。評曰毛玠清公素履，不吐剛茹柔。生卒年本輪摘錄未確證，不另立新說。"
       ]
+    },
+    {
+      "id": "p0042",
+      "name": "鮑信",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
