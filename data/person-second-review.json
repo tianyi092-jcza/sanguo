@@ -40418,9 +40418,37 @@
           "from": "樂進字文謙，陽平衞國人也",
           "through": "封廣昌亭侯。",
           "citation": "《三國志·魏書十七·樂進傳》"
+        },
+        {
+          "id": "yuejin-yujin-yanjin-shaoying",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "from": "復與樂進等將步騎五千，擊紹別營",
+          "through": "降紹將何茂、王摩等二十餘人。",
+          "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "yuejin-pingyue-xiaoguo",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 28,
+          "from": "樂進以驍果顯名",
+          "through": "未副所聞。",
+          "citation": "《三國志·魏書十七·評曰》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yuejin-excl-bio-heading",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 8,
+          "term": "樂進",
+          "quote": "樂進傳",
+          "reason": "僅為《樂進傳》篇目，無史實內容可錄，非正文史事，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
