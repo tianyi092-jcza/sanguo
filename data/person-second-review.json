@@ -37682,8 +37682,41 @@
       "id": "p0032",
       "name": "王粲",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "wc-hhs-dongzhuo-meng",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 20,
+          "from": "萌字文始，有才學，與王粲善，粲作詩贈萌。",
+          "through": "萌字文始，有才學，與王粲善，粲作詩贈萌。",
+          "citation": "《後漢書·董卓傳》注引《三輔決錄》所載",
+          "context": "三輔決錄曰",
+          "note": "注文層（《三輔決錄》引文），非正文：士孫萌字文始，有才學，與王粲交善，王粲曾作詩贈萌。僅記交游，不與董卓誅殺正文合併。"
+        },
+        {
+          "id": "wc-sgz-wudi-shi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "from": "是行也，侍中王粲作五言詩以美其事，曰：",
+          "through": "歌舞入鄴城，所願獲無違。",
+          "citation": "《三國志·武帝紀》所載",
+          "context": "二十年春正月",
+          "note": "繫年建安二十年（215年）：曹操征張魯還軍之行，時任侍中的王粲作五言詩美其事。專記王粲身份與詩作，不涉武帝紀征伐正文細節。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "wc-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 30,
+          "term": "王粲",
+          "quote": "其邯鄲淳事在王粲傳，蘇林事在劉邵、高堂隆傳，樂詳事在杜畿傳。",
+          "reason": "王肅傳末評語僅以「王粲傳」篇名作參照，提及邯鄲淳事見王粲傳，無王粲本人事迹，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
