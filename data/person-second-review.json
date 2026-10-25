@@ -38762,7 +38762,7 @@
     {
       "id": "p0034",
       "name": "劉楨",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "lz-sgz-xingyong-jian",
@@ -38984,13 +38984,24 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": {
+        "birth": null,
+        "death": {
+          "precision": "exact-year",
+          "preferredSource": "sanguozhi",
+          "evidence": [
+            "lz-sgz-wangcan-jianan22-zu"
+          ],
+          "variants": [],
+          "note": "《三國志·魏書二十一·王粲傳》載徐幹、陳琳、應瑒、劉楨建安二十二年（217）卒於疾疫；卒月未載。"
+        }
+      }
     }
   ]
 }
