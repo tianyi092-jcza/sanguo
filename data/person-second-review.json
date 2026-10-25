@@ -42106,6 +42106,33 @@
           "term": "合肥",
           "quote": "青龍中，吳圍合肥",
           "reason": "青龍中吳圍合肥事在李典卒後，段中未提李典，係合肥地名與事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-009",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 35,
+          "term": "合肥",
+          "quote": "師還，遂征合肥",
+          "reason": "段述呂蒙於合肥扞衞孫權，未提李典，係合肥事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-010",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 6,
+          "term": "合肥",
+          "quote": "到合肥，循行遼戰處",
+          "reason": "段述建安二十一年太祖至合肥循行張遼戰處，未提李典，係合肥地名與事件信號誤命中，排除。"
+        },
+        {
+          "id": "lidian-excl-011",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 22,
+          "term": "合肥",
+          "quote": "向合肥新城",
+          "reason": "段述孫權攻合肥新城、帝親征事，段中未提李典，係合肥地名與事件信號誤命中，排除。"
         }
       ],
       "unresolved": [],
