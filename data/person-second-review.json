@@ -41942,6 +41942,33 @@
           "from": "遣進與李典擊之",
           "through": "承破走，逃入海島",
           "citation": "《三國志·魏書十七·樂進傳》"
+        },
+        {
+          "id": "lidian-bio-origin",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 1,
+          "from": "李典字曼成，山陽鉅野人也",
+          "through": "為中郎將，將整軍",
+          "citation": "《三國志·魏書十八·李典傳》"
+        },
+        {
+          "id": "lidian-bio-peizhu",
+          "work": "peizhu",
+          "source": "a04-018",
+          "paragraph": 1,
+          "from": "魏書曰：典少好學",
+          "through": "遷離狐太守",
+          "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "lidian-zhaoyan-hujun",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 24,
+          "from": "太祖征荊州",
+          "through": "護于禁、張遼、張郃、朱靈、李典、路招、馮楷七軍",
+          "citation": "《三國志·魏書二十三·趙儼傳》"
         }
       ],
       "exclusions": [],
