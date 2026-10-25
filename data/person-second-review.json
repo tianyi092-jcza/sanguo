@@ -40969,7 +40969,7 @@
     {
       "id": "p0048",
       "name": "徐晃",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "xuhuang-pei-guandu",
@@ -41890,15 +41890,24 @@
           "term": "河南",
           "quote": "慕容彊爲前鋒都督、都督荊徐二州緣淮諸軍事，進據河南。",
           "reason": "向量候選以樊城之戰事件信號命中，實為慕容儁時慕容評鎮洛水、慕容彊據河南事，段中未提徐晃，河南僅為慕容彊進據地，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-liucong-henei",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 10,
+          "term": "河內",
+          "quote": "時劉聰攻河內，勒率騎會之，攻冠軍將軍梁巨于武德，懷帝遣兵救之。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為劉聰攻河內、石勒攻梁巨於武德事，段中未提徐晃，河內僅為劉聰攻地，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": {}
     }
