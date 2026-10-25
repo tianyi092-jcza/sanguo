@@ -40024,6 +40024,33 @@
           "from": "昔毛玠爲吏部尚書",
           "through": "孤之法不如毛尚書。』",
           "citation": "《晉書·卷四十七·傅玄傳》"
+        },
+        {
+          "id": "maojie-imprison-dismiss",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 12,
+          "from": "崔琰旣死，玠內不恱。",
+          "through": "玠遂免黜，卒于家。",
+          "citation": "《三國志·魏書十二·毛玠傳》"
+        },
+        {
+          "id": "maojie-pei-sunsheng-criticism",
+          "work": "peizhu",
+          "source": "a04-012",
+          "paragraph": 12,
+          "from": "孫盛曰：魏武於是失政刑矣。",
+          "through": "二主度量，豈不殊哉！",
+          "citation": "《三國志·魏書十二》裴注引孫盛曰"
+        },
+        {
+          "id": "maojie-posthumous-coffin",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 12,
+          "from": "太祖賜棺器錢帛",
+          "through": "拜子機郎中。",
+          "citation": "《三國志·魏書十二·毛玠傳》"
         }
       ],
       "exclusions": [
