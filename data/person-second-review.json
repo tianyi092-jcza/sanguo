@@ -41323,6 +41323,33 @@
           "term": "樊城",
           "quote": "吳大將朱然圍樊城，質輕軍赴之",
           "reason": "向量候選以「樊城之戰」事件／樊城地名信號命中，實為「質」赴援吳將朱然所圍之樊城事，與徐晃建安二十四年樊城解圍並非同一事，段中未提徐晃，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-shile-fancheng",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 48,
+          "term": "樊城",
+          "quote": "郭敬遂寇襄陽，屯于樊城。",
+          "reason": "向量候選以「樊城之戰」事件／樊城地名信號命中，實為後趙石勒部將郭敬寇襄陽、屯樊城事，時代遠在徐晃卒後，段中未提徐晃，與徐晃建安二十四年樊城解圍並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-shuzhi-hanzhong-dingjun",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 17,
+          "term": "漢中",
+          "quote": "先主遂有漢中。",
+          "reason": "向量候選以「漢中之戰」事件／時間信號命中，實為先主傳建安二十四年定軍山破夏侯淵、先主遂有漢中事，段中未提徐晃，非徐晃事跡，排除。"
+        },
+        {
+          "id": "xuhuang-excl-sg-liuye-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 31,
+          "term": "漢中",
+          "quote": "魯奔走，漢中遂平。",
+          "reason": "向量候選以「漢中之戰」事件／時間信號命中，實為劉曄傳太祖征張魯、劉曄督後軍獻策事，段中未提徐晃，非徐晃事跡，排除。"
         }
       ],
       "unresolved": [],
