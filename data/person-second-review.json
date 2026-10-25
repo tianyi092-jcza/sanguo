@@ -41996,6 +41996,33 @@
           "from": "破虜將軍李典",
           "through": "於太祖廟庭",
           "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "lidian-yuanshao-huguan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 26,
+          "from": "遣樂進、李典擊之",
+          "through": "未拔",
+          "citation": "《三國志·魏書六·董二袁劉傳》"
+        },
+        {
+          "id": "lidian-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 36,
+          "from": "李典貴尚儒雅",
+          "through": "義忘私隙，美矣",
+          "citation": "《三國志·魏書十八·李典傳》"
+        },
+        {
+          "id": "lidian-yexian-fubing",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 2,
+          "from": "賊無故退，疑必有伏",
+          "through": "不可追也",
+          "citation": "《三國志·魏書十八·李典傳》"
         }
       ],
       "exclusions": [],
