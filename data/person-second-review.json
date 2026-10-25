@@ -39713,15 +39713,20 @@
     {
       "id": "p0040",
       "name": "崔琰",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪收尾：錄正摘錄 17 條（《三國志》本傳與他傳、裴注、《後漢書》、《晉書》）、排除 2 條（本傳篇名標題 1 條、晉書異版重載 1 條），未解決 0 條。",
+        "辨人：崔琰字季珪，清河東武城人；與司馬朗相善、評其弟者為崔琰本人；與同卷邴原、毛玠、何夔等人嚴格區分；本傳單字「琰」命中均核實確指本人後方錄入。",
+        "勢力繫年：曹操破袁氏後辟為別駕從事，後為東曹掾與毛玠並典選舉、官至尚書，屬曹操勢力；與毛玠並以忠清幹事、貴清素之士。",
+        "卒：被誅而卒，傅子稱丁儀間之；生卒年本輪摘錄未確證，不另立新說。"
+      ],
       "excerpts": [
         {
           "id": "cui-hhs-zhengxuan-menren",
@@ -39903,6 +39908,15 @@
           "term": "崔琰",
           "quote": "崔琰傳",
           "reason": "僅本傳篇名標題，無史實內容可摘；登記以防重複候選。"
+        },
+        {
+          "id": "cui-excl-002",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 0,
+          "term": "崔琰",
+          "quote": "尚書清河崔琰與帝兄朗善",
+          "reason": "與 sidneyluo 本 a05-001 第 0 段同文（Ancient China Books 異版再載），已依 sidneyluo 本立摘錄 cui-js-xuandi-cuiyan，不重複摘錄，排除。"
         }
       ],
       "unresolved": []
