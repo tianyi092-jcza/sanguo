@@ -38177,6 +38177,33 @@
           "term": "王粲",
           "quote": "曹操自進號魏王",
           "reason": "該段為建安二十一年紀事，述曹操自進魏王、日食、匈奴南單于來朝、殺琅邪王熙等，全段未提王粲；「歸曹操」事件向量誤中，排除。"
+        },
+        {
+          "id": "wc-excl-hygs-yizhou-zhengliubiao",
+          "work": "huayangguozhi",
+          "source": "a06-005",
+          "paragraph": 10,
+          "term": "王粲",
+          "quote": "以韙爲征東中郎將率衆征劉表",
+          "reason": "華陽國志卷五記劉焉徙治成都、卒、劉璋襲位、趙韙為征東中郎將率衆征劉表等事，全段未提王粲；「依劉表」事件向量誤中，排除；不把劉焉、劉璋、趙韙事迹記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hhs-liubiao-jian-tan-yinyu",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 3,
+          "term": "王粲",
+          "quote": "劉表以書諫譚曰：",
+          "reason": "後漢書卷七十四下此段僅為劉表以書諫袁譚的引語，全段未提王粲；「依劉表」事件向量誤中，排除；不把劉表諫譚事記為王粲事迹。"
+        },
+        {
+          "id": "wc-excl-hygs-juan10-liubiao-jiaohao",
+          "work": "huayangguozhi",
+          "source": "a06-010",
+          "paragraph": 40,
+          "term": "王粲",
+          "quote": "劉表大儒南陽宋仲子逺慕其名皆與交好",
+          "reason": "華陽國志卷十此段記劉璋辟為治中、劉表大儒宋仲子遠慕其名交好、薦致名士等事，全段未提王粲；「依劉表」事件向量誤中，排除；不把此段人物事迹記為王粲事迹。"
         }
       ],
       "unresolved": [],
