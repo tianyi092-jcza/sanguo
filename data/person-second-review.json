@@ -40695,6 +40695,33 @@
           "from": "是時軍亂，各間行求太祖，禁獨勒所將數百人，且戰且引，雖有死傷不相離。",
           "through": "於是錄禁前後功，封益壽亭侯。",
           "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　于禁傳》"
+        },
+        {
+          "id": "yujin-sg-xuhuang-fancheng-yujinmo",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 24,
+          "from": "復遣晃助曹仁討關羽，屯宛。",
+          "through": "羽圍仁於樊，又圍將軍呂常於襄陽。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　徐晃傳》"
+        },
+        {
+          "id": "yujin-sg-pingyue-yujin-yizhong",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 28,
+          "from": "評曰：太祖建茲武功，而時之良將，五子為先。",
+          "through": "于禁最號毅重，然弗克其終。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七》"
+        },
+        {
+          "id": "yujin-sg-lidian-yujin-zhuiji-rufu",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 2,
+          "from": "惇不聽，與于禁追之，典留守。",
+          "through": "惇等果入賊伏裏，戰不利，典往救，備望見救至，軍散退。",
+          "citation": "《三國志·卷十八 ‧ 魏書十八　二李臧文呂許典二龐閻傳第十八　李典傳》"
         }
       ],
       "exclusions": [
