@@ -40083,7 +40083,35 @@
       "id": "p0042",
       "name": "鮑信",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "baoxin-hhs-taozhuo",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 6,
+          "from": "濟北相鮑信",
+          "through": "以討卓為名。",
+          "citation": "《後漢書·袁紹傳》"
+        },
+        {
+          "id": "baoxin-sg-jandai",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "from": "鮑信諫曰",
+          "through": "果為所殺。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "baoxin-sg-yingmu-zhansi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "from": "信乃與州吏萬潛等至東郡迎太祖領兖州牧",
+          "through": "信力戰鬬死，僅而破之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
