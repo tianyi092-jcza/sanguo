@@ -41078,6 +41078,33 @@
           "from": "徐晃救樊",
           "through": "羽退還",
           "citation": "《華陽國志·卷六》"
+        },
+        {
+          "id": "xuhuang-pei-weishu-recruit",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 41,
+          "from": "取張遼、徐晃於亡虜之內",
+          "through": "列為名將",
+          "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "xuhuang-qi-wang-miaoting",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 9,
+          "from": "詔祀故大司馬曹真",
+          "through": "於太祖廟庭",
+          "citation": "《三國志·魏書四·齊王紀》"
+        },
+        {
+          "id": "xuhuang-sg-xiayuan-taiyuan",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 7,
+          "from": "督徐晃擊太原賊",
+          "through": "屠其城",
+          "citation": "《三國志·魏書九·夏侯淵傳》"
         }
       ],
       "exclusions": [],
