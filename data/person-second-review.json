@@ -40391,6 +40391,33 @@
           "from": "又語張遼、樂進等曰",
           "through": "動靜與共咨議。",
           "citation": "《三國志·魏書十五·溫恢傳》"
+        },
+        {
+          "id": "yuejin-liao-yinan",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 3,
+          "from": "太祖還許，使遼與樂進拔陰安",
+          "through": "徙其民河南。",
+          "citation": "《三國志·魏書十七·張遼傳》"
+        },
+        {
+          "id": "yuejin-liao-hefei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 5,
+          "from": "太祖旣征孫權還",
+          "through": "屯合肥。",
+          "citation": "《三國志·魏書十七·張遼傳》"
+        },
+        {
+          "id": "yuejin-bio-origin",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 9,
+          "from": "樂進字文謙，陽平衞國人也",
+          "through": "封廣昌亭侯。",
+          "citation": "《三國志·魏書十七·樂進傳》"
         }
       ],
       "exclusions": [],
