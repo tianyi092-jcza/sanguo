@@ -41782,6 +41782,33 @@
           "term": "劉牢之",
           "quote": "夏四月丙辰，劉牢之與沛郡太守周次及垂戰于五橋澤，王師又敗績。",
           "reason": "向量候選以樊城之戰事件信號命中，實為東晉劉牢之與慕容垂戰于五橋澤事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-xuandi-fanwei",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 5,
+          "term": "樊圍",
+          "quote": "可喻權所，令掎其後，則樊圍自解。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為《晉書·宣帝紀》司馬懿諫魏武勿遷都、樊圍自解事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-shile-huguan",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 7,
+          "term": "壺關",
+          "quote": "勒敗秀於白田，秀死之，勒遂陷壺關。",
+          "reason": "向量候選以事件信號命中，實為石勒攻壺關事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-fujian-shimen",
+          "work": "jinshu",
+          "source": "a05-111-ahcb",
+          "paragraph": 16,
+          "term": "石門",
+          "quote": "猛部將梁成、洛州刺史鄧羌與臧戰于石門，臧師敗績，死者萬餘，遂相持于石門。",
+          "reason": "向量候選以事件信號命中，實為苻堅遣王猛伐慕容暐、石門之戰事，段中未提徐晃，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
