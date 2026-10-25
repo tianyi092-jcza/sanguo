@@ -41836,6 +41836,33 @@
           "term": "洛陽",
           "quote": "劉聰將趙固以洛陽歸順，恐勒襲之，遣參軍高少奉書推崇勒，請師討聰。",
           "reason": "向量候選以樊城之戰事件信號命中，實為劉聰、石勒十六國事，段中未提徐晃，洛陽僅為趙固歸順地，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-liucong-luoyang",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 27,
+          "term": "洛陽",
+          "quote": "劉聰攻洛陽西明門，不克。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為劉聰圍攻洛陽、石勒寇常山等永嘉年事，段中未提徐晃，洛陽僅為劉聰攻圍地，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-liulaozhi-wuqiaoze-zaiji",
+          "work": "jinshu",
+          "source": "a05-123-ahcb",
+          "paragraph": 17,
+          "term": "五橋澤",
+          "quote": "又戰于五橋澤，王師敗績。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為劉牢之救苻丕、追擊慕容垂之載記事（與孝武帝紀五橋澤條同事件異段），段中未提徐晃，五橋澤僅為戰地，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-xiexuan-juancheng",
+          "work": "jinshu",
+          "source": "a05-009-ahcb",
+          "paragraph": 110,
+          "term": "鄄城",
+          "quote": "前鋒都督謝玄攻苻堅將兗州刺史張崇于鄄城，克之。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為謝玄攻苻堅將張崇於鄄城事，段中未提徐晃，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
