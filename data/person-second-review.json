@@ -40238,9 +40238,37 @@
           "from": "崔琰高格最優，鮑勛秉正無虧",
           "through": "而皆不免其身，惜哉！",
           "citation": "《三國志·魏書十二·評曰》"
+        },
+        {
+          "id": "baoxun-sg-wendi-zhusi",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 19,
+          "from": "帝以宿嫌，欲枉法誅治書執法鮑勛",
+          "through": "勛死乃遣柔還寺。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "baoxun-jin-liuyin-chulin",
+          "work": "jinshu",
+          "source": "a05-088-ahcb",
+          "paragraph": 41,
+          "from": "宜上思召公咨商之義",
+          "through": "下念鮑勛觸鱗之誅也。",
+          "citation": "《晉書·卷八十八·劉殷傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "baoxun-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 32,
+          "term": "勳",
+          "quote": "征虜將軍劉勳，貴寵驕豪",
+          "reason": "此段主角為征虜將軍劉勳（魏略曰其字子臺），與鮑勳無關；本傳單字「勳」檢索誤中，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
