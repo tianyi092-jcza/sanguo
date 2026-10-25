@@ -44239,8 +44239,39 @@
       "id": "p0053",
       "name": "許褚",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "xuchu-qiwang-peizhu-zhongcheng",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 10,
+          "from": "徐佗謀逆而許褚心動",
+          "through": "今祀韋而不及褚，文所未達也。",
+          "citation": "《三國志·齊王紀》裴注所載",
+          "note": "裴松之論太祖廟庭配祀：徐佗謀逆時許褚心動、潼關之危非褚不濟，功烈有過典韋，卻祀韋而不及褚，松之以為未達。此為裴注評議，非齊王紀正文紀事；徐佗事與潼關事本身另見本傳，勿以此段為唯一依據。"
+        },
+        {
+          "id": "xuchu-zhanglu-peizhu-yangping",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 26,
+          "from": "武皇帝意沮",
+          "through": "呼山上兵還。",
+          "citation": "《三國志·張魯傳》裴注所載",
+          "note": "建安二十年征張魯、陽平關之役：太祖欲退兵，遣夏侯惇、許褚呼山上兵還。此為董昭表所載裴注，非張魯傳正文；正文僅記太祖攻破陽平、入蜀。許褚此役為奉命傳令，非主將。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "xuchu-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 20,
+          "term": "許褚",
+          "quote": "許褚傳",
+          "reason": "僅為本傳篇目題三字，無事迹內容，不錄為正摘錄；本傳正文自次段起。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
