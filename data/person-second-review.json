@@ -44657,6 +44657,36 @@
           "through": "即日考竟，遂棄官歸。",
           "citation": "《三國志·魏書二十六 滿寵傳》",
           "note": "本傳開篇：滿寵字伯寧，山陽昌邑人；年十八為郡督郵，糾治擁部曲害民的李朔等人；後守高平令，收治貪穢的郡督郵張苞，考竟後棄官歸。"
+        },
+        {
+          "id": "manchong-xincheng-tian-yu-jian",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 15,
+          "from": "後孫權號十萬衆攻新城，征東將軍滿寵欲率諸軍救之。",
+          "through": "後孫權號十萬衆攻新城，征東將軍滿寵欲率諸軍救之。",
+          "citation": "《三國志·魏書二十六 田豫傳》",
+          "note": "孫權號十萬衆攻新城，時任征東將軍的滿寵欲率諸軍往救；田豫諫以聽使攻城、挫其銳氣，天子從之，吳軍遁走。"
+        },
+        {
+          "id": "manchong-ping-gangyi-youmou",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 34,
+          "from": "評曰：滿寵立志剛毅，勇而有謀。",
+          "through": "評曰：滿寵立志剛毅，勇而有謀。",
+          "citation": "《三國志·魏書二十六 評曰》",
+          "note": "卷末評曰：滿寵立志剛毅，勇而有謀；與田豫、牽招、郭淮並評。"
+        },
+        {
+          "id": "manchong-zhengshi-sannian-hong-jinshu",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 4,
+          "from": "三年三月，太尉滿寵薨。",
+          "through": "三年三月，太尉滿寵薨。",
+          "citation": "《晉書·卷十三 志第三》",
+          "note": "晉書天文志繫於正始三年三月：太尉滿寵薨，與《三國志·齊王紀》正始三年三月之記載互證；志文以此應「大臣憂」之占。"
         }
       ],
       "exclusions": [
