@@ -39034,6 +39034,33 @@
           "from": "與徐幹",
           "through": "俱以章知名，",
           "citation": "《後漢書·卷八十下·文苑列傳下》"
+        },
+        {
+          "id": "xg-sg-pingyue-cui",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 38,
+          "from": "然其沖虛德宇，",
+          "through": "未若徐幹之粹也。",
+          "citation": "《三國志·魏書二十一·王粲傳》"
+        },
+        {
+          "id": "xg-sg-wangchang-jiezi",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 16,
+          "from": "北海徐偉長，",
+          "through": "願兒子師之。",
+          "citation": "《三國志·魏書二十七·王昶傳》"
+        },
+        {
+          "id": "xg-js-zhengmao-linzi",
+          "work": "jinshu",
+          "source": "a05-044-ahcb",
+          "paragraph": 1,
+          "from": "魏武帝初封諸子爲侯，",
+          "through": "俱爲臨淄侯文學，",
+          "citation": "《晉書·卷四十四·鄭袤傳》"
         }
       ],
       "exclusions": [
