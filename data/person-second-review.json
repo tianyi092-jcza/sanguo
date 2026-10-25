@@ -40481,6 +40481,33 @@
           "from": "又樂進在青泥與關羽相拒",
           "through": "進必大克，轉侵州界",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "yuejin-quan-shou-xiangyang",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "留曹仁、徐晃於江陵",
+          "through": "使樂進守襄陽",
+          "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "yuejin-quan-hefei-liaojin",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 13,
+          "from": "遼及樂進相遇",
+          "through": "舉軍歎恨",
+          "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "yuejin-hygz-qingni-juyu",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 15,
+          "from": "今樂進在清泥與關羽相拒",
+          "through": "轉侵州界",
+          "citation": "《華陽國志·卷五　公孫述劉二牧志》"
         }
       ],
       "exclusions": [
