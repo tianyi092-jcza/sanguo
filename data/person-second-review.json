@@ -42052,6 +42052,33 @@
           "term": "典",
           "quote": "使典北兵",
           "reason": "本段為文聘傳；「典」為動詞「掌管」（使文聘典北兵），非人名李典，排除。"
+        },
+        {
+          "id": "lidian-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 0,
+          "term": "李典傳",
+          "quote": "李典傳",
+          "reason": "本段僅為李典傳篇目小標題，無史實內容，排除。"
+        },
+        {
+          "id": "lidian-excl-004",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 49,
+          "term": "合肥",
+          "quote": "廬江太守袁真攻合肥，克之",
+          "reason": "段中未提李典，係合肥地名事件信號誤命中；袁真攻合肥事屬東晉，與李典生平無關，排除。"
+        },
+        {
+          "id": "lidian-excl-005",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 27,
+          "term": "合肥",
+          "quote": "廬江太守毛寶攻賊合肥戍，拔之",
+          "reason": "段中未提李典，係合肥地名事件信號誤命中；毛寶攻合肥戍事屬東晉，與李典生平無關，排除。"
         }
       ],
       "unresolved": [],
