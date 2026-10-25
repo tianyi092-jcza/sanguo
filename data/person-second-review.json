@@ -41404,6 +41404,33 @@
           "term": "樊城",
           "quote": "桓宣西伐樊城，走石勒將郭敬",
           "reason": "向量候選以「樊城」地名信號命中，實為東晉陶侃遣子斌與南中郎將桓宣西伐樊城、走後趙石勒將郭敬事，段中未提徐晃，與徐晃建安二十四年樊城解圍並非同一事，時代遠在徐晃卒後，排除。"
+        },
+        {
+          "id": "xuhuang-excl-sg-hanzhong-wangping",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 18,
+          "term": "漢中",
+          "quote": "魏大將軍曹爽率步騎十餘萬向漢川",
+          "reason": "向量候選以漢中之戰事件信號命中，實為曹爽伐蜀、王平守漢中事，段中未提徐晃，且在徐晃卒後，與徐晃生前參與的漢中戰事並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-tongguan-murongke-fujian",
+          "work": "jinshu",
+          "source": "a05-111-ahcb",
+          "paragraph": 28,
+          "term": "潼關",
+          "quote": "苻堅親將以備潼關",
+          "reason": "向量候選以潼關之戰事件信號命中，實為十六國時慕容恪圍洛陽、苻堅親將備潼關事，段中未提徐晃，時代遠在徐晃卒後，與建安十六年潼關之戰無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-fancheng-taihe-ernian",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 21,
+          "term": "樊城",
+          "quote": "朱然、孫倫圍樊城",
+          "reason": "向量候選以樊城之戰事件與樊城地名信號命中，實為太和二年吳將朱然等圍樊城、宣帝南征解圍事，段中未提徐晃，且在徐晃卒後，與徐晃建安二十四年樊城解圍並非同一事，排除。"
         }
       ],
       "unresolved": [],
