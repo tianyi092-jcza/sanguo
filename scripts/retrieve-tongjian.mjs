@@ -1,5 +1,8 @@
 // 通鉴段落按人检索：字符串锚定（人名/字直命中 + 省称带守卫）。
 // 用法：node scripts/retrieve-tongjian.mjs
+// 底本为 sidneyluo（漢川草廬）文本（segments.json 由 parse-tongjian-sidneyluo.mjs 生成）；
+// 该底本多用异体字（羣/醜/脩/勛/叡/卲/衞/种），检索时对文本与人名做「匹配专用」
+// 归一化（仅影响命中判定，展示文本保持原文）；于姓经 OpenCC 转写为「於」，另搜「于」形。
 // 输入：data/tongjian/segments.json、data/original.json、data/wikisource.json
 // 输出：data/tongjian/matches.json {pid: [{segId, tier}]}
 //   tier1: 姓名/字直命中（含长名守卫，如"王允之"不算"王允"）
@@ -12,7 +15,18 @@ import { NIANHAO } from '/home/hatch/workspace/sanguo-retrieval-poc/time_table.m
 
 const toTrad = OpenCC.Converter({ from: 'cn', to: 'tw' });
 
+// 异体字归一化（匹配专用，单字对单字、位置不变）：sidneyluo 底本字形 -> 通行字形
+const VARIANTS = { '羣': '群', '醜': '丑', '脩': '修', '勛': '勳', '叡': '睿', '卲': '邵', '衞': '衛', '种': '種' };
+const normMatch = s => [...s].map(c => VARIANTS[c] || c).join('');
+// 人名检索形：归一化本体 + 于/於姓变体（OpenCC 把姓氏「于」转成「於」，底本作「于」）
+function nameForms(name) {
+  const forms = [name];
+  if (name.startsWith('於')) forms.push('于' + name.slice(1));
+  return forms;
+}
+
 const segsDb = JSON.parse(fs.readFileSync('data/tongjian/segments.json', 'utf8'));
+for (const v of Object.values(segsDb)) for (const s of v.segments) s.ntext = normMatch(s.text);
 const orig = JSON.parse(fs.readFileSync('data/original.json', 'utf8'));
 const wsDb = JSON.parse(fs.readFileSync('data/wikisource.json', 'utf8'));
 
@@ -38,10 +52,10 @@ const KNOWN = new Set();
 for (const pid of pids) {
   const per = perList[parseInt(pid.slice(1), 10) - 1];
   if (!per) continue;
-  const name = toTrad(per.n);
-  const zi = per.z ? toTrad(per.z) : '';
+  const name = normMatch(toTrad(per.n));
+  const zi = per.z ? normMatch(toTrad(per.z)) : '';
   people.set(pid, { name, zi, sheng: name.slice(-1) });
-  KNOWN.add(name);
+  for (const f of nameForms(name)) KNOWN.add(f);
   if (zi) KNOWN.add(zi);
 }
 // 长名守卫：name 在 pos 处命中，若 name+后1~2字 构成已知人名，则此次命中无效
@@ -63,12 +77,31 @@ const EXTRA_ALIASES = [
   { pid: 'p0129', alias: '漢主', from: 223, to: 263 },
   { pid: 'p0381', alias: '甄夫人' },
   { pid: 'p0382', alias: '郭夫人' },
+  { pid: 'p0358', alias: '長子昂', from: 197, to: 198 },
 ];
 const extraByPid = new Map();
 for (const e of EXTRA_ALIASES) {
   if (!extraByPid.has(e.pid)) extraByPid.set(e.pid, []);
   extraByPid.get(e.pid).push(e);
   KNOWN.add(e.alias);
+}
+// 命中排除（按 pid 对姓名/字命中一律生效）：
+// - 归一化后「平原王叡」（曹叡）会误中王睿（p0428），其前文为「平原」时剔除
+// - 曹昂（p0358）字子脩，「淵與子脩」是公孫淵之子公孫脩，非曹昂，前文为「淵與」时剔除
+const HIT_EXCLUDES = [{ pid: 'p0428', before: '平原' }, { pid: 'p0358', before: '淵與' }];
+function filterExcluded(seg, pid, positions) {
+  let out = positions;
+  for (const ex of HIT_EXCLUDES) {
+    if (ex.pid !== pid) continue;
+    out = out.filter(pos => seg.ntext.slice(pos - ex.before.length, pos) !== ex.before);
+  }
+  return out;
+}
+function nameHit(seg, pid, name) {
+  return filterExcluded(seg, pid, nameForms(name).flatMap(f => findHits(seg.ntext, f))).length > 0;
+}
+function ziHit(seg, pid, zi) {
+  return filterExcluded(seg, pid, findHits(seg.ntext, zi)).length > 0;
 }
 function goodHit(text, name, pos) {
   for (const L of [1, 2]) {
@@ -104,14 +137,14 @@ const matches = {}; // pid -> Map(segId -> tier)
 let droppedByEra = 0;
 for (const [pid, { name, zi, sheng }] of people) {
   const hitSegs = new Map();
-  // tier1：全段扫描姓名/字/增补别名
+  // tier1：全段扫描姓名/字/增补别名（在归一化文本 ntext 上匹配）
   for (const [sid, seg] of segById) {
-    let hit = findHits(seg.text, name).length || (zi && findHits(seg.text, zi).length);
+    let hit = nameHit(seg, pid, name) || (zi && ziHit(seg, pid, zi));
     if (!hit) {
       for (const e of extraByPid.get(pid) || []) {
         if (e.from != null && seg.ceYear < e.from) continue;
         if (e.to != null && seg.ceYear >= e.to) continue;
-        if (findHits(seg.text, e.alias).length) { hit = true; break; }
+        if (findHits(seg.ntext, normMatch(e.alias)).length) { hit = true; break; }
       }
     }
     if (hit) hitSegs.set(sid, 1);
@@ -131,9 +164,9 @@ for (const [pid, { name, zi, sheng }] of people) {
       for (const seg of segsByYear.get(yk)) {
         if (hitSegs.has(seg.id)) continue;
         let p = -1, ok = false;
-        while ((p = seg.text.indexOf(sheng, p + 1)) >= 0) {
+        while ((p = seg.ntext.indexOf(sheng, p + 1)) >= 0) {
           // 省称不做长名守卫（单字），但做复合词守卫；同时排除姓名/字已命中的 trivial 情况无妨
-          if (goodSheng(seg.text, p)) { ok = true; break; }
+          if (goodSheng(seg.ntext, p)) { ok = true; break; }
         }
         if (ok) hitSegs.set(seg.id, 2);
       }
