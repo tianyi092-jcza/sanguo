@@ -44572,6 +44572,22 @@
         "勢力繫年：從馬騰、馬超轉降魏後為魏將守樊城拒關羽，不得記為馬超或蜀勢力；樊城之死在關羽傳、于禁傳、本傳三傳側寫為同一事的不同傳敘述，分層並存、未合併。",
         "史源覆蓋：《後漢書》《華陽國志》全庫人名命中皆為 0，已核；《晉書》僅車濟臨難修辭追慕 1 段已排除；裴注另層分離（關羽傳蜀記子會復讎、本傳段末王隱蜀記與松之案辨偽）。"
       ]
+    },
+    {
+      "id": "p0056",
+      "name": "滿寵",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
