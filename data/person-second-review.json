@@ -42319,6 +42319,22 @@
         "辨人：與北涼同名李典、妖巫李廣、李憲等人嚴格區分；合肥之戰事件信號誤命中（後漢書、晉書合肥地名或他事段落）皆已排除；本傳篇目小標題等無史實內容段亦已排除。",
         "行狀：李典字曼成，曹操部將，歷壺關、合肥諸役，好學問、貴儒雅、不與諸將爭功，卒後謚愍侯；本輪未見轉投他主記載。"
       ]
+    },
+    {
+      "id": "p0050",
+      "name": "李通",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
