@@ -40880,6 +40880,33 @@
           "from": "魏王遣左將軍于禁督七軍",
           "through": "皆爲羽所獲",
           "citation": "《華陽國志·劉先主志》"
+        },
+        {
+          "id": "yujin-sg-yujin-yanjin-yushao",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "from": "太祖初征袁紹，紹兵盛，禁願為先登",
+          "through": "擊紹別營於杜氏津，破之。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-changxi-zhan",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "from": "昌豨復叛，遣禁征之",
+          "through": "隕涕而斬之。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-fancheng-jiang",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 14,
+          "from": "建安二十四年，太祖在長安，使曹仁討關羽於樊，又遣禁助仁",
+          "through": "禁遂降，惟龐悳不屈節而死。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　于禁傳》"
         }
       ],
       "exclusions": [
