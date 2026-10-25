@@ -40206,6 +40206,50 @@
           "note": "武帝紀記迎太祖領兗州牧後，信力戰鬬死；按武帝紀敘事繫於初平三年青州黃巾戰役，與檢索配置卒年192一致。"
         }
       }
+    },
+    {
+      "id": "p0043",
+      "name": "鮑勳",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "baoxun-sg-wendi-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 12,
+          "from": "督軍御史中丞司馬懿、侍御史鄭渾、羊祕、鮑勛、武周等言",
+          "through": "惟德所在。",
+          "citation": "《三國志·魏書二·文帝紀》"
+        },
+        {
+          "id": "baoxun-sg-bio-shenfen",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 25,
+          "from": "鮑勛字叔業，泰山平陽人也",
+          "through": "遂家焉。",
+          "citation": "《三國志·魏書十二·鮑勛傳》"
+        },
+        {
+          "id": "baoxun-sg-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 38,
+          "from": "崔琰高格最優，鮑勛秉正無虧",
+          "through": "而皆不免其身，惜哉！",
+          "citation": "《三國志·魏書十二·評曰》"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
