@@ -39002,6 +39002,22 @@
           "note": "《三國志·魏書二十一·王粲傳》載徐幹、陳琳、應瑒、劉楨建安二十二年（217）卒於疾疫；卒月未載。"
         }
       }
+    },
+    {
+      "id": "p0035",
+      "name": "徐幹",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
