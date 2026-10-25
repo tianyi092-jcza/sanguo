@@ -42023,9 +42023,37 @@
           "from": "賊無故退，疑必有伏",
           "through": "不可追也",
           "citation": "《三國志·魏書十八·李典傳》"
+        },
+        {
+          "id": "lidian-death-posthumous",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 4,
+          "from": "典好學問，貴儒雅，不與諸將爭功",
+          "through": "謚典曰愍侯",
+          "citation": "《三國志·魏書十八·李典傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "lidian-excl-001",
+          "work": "jinshu",
+          "source": "a05-129-ahcb",
+          "paragraph": 10,
+          "term": "李典",
+          "quote": "蒙遜遣從事中郎李典聘于興",
+          "reason": "此李典為沮渠蒙遜從事中郎（五胡十六國北涼時期），與三國魏將李典同名異人，排除。"
+        },
+        {
+          "id": "lidian-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 15,
+          "term": "典",
+          "quote": "使典北兵",
+          "reason": "本段為文聘傳；「典」為動詞「掌管」（使文聘典北兵），非人名李典，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
