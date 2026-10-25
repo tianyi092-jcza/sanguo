@@ -36856,6 +36856,26 @@
           "through": "帝以吳蜀未平，又寢。",
           "citation": "《晉書·卷三十·志第二十》",
           "note": "正文層；魏時太傅鍾繇上疏求復肉刑，詔下其奏，司徒王朗議不同，百餘議者多與朗同，帝以吳蜀未平而寢。見王朗任司徒期間對復肉刑之議。"
+        },
+        {
+          "id": "lang-jinshu-pi-zhengmao",
+          "work": "jinshu",
+          "source": "a05-044-ahcb",
+          "paragraph": 1,
+          "from": "司空王朗辟爲掾",
+          "through": "後咸至大位，有重名。",
+          "citation": "《晉書·卷四十四 ‧ 列傳第十四　鄭袤傳》",
+          "note": "正文層；王朗任司空時辟鄭袤為掾，袤所舉高陽許允、扶風魯芝、東萊王基三人，朗皆命之，後咸至大位。見王朗任司空期間識拔人才。"
+        },
+        {
+          "id": "lang-jinshu-zhengmao-jian-luzhi",
+          "work": "jinshu",
+          "source": "a05-090-ahcb",
+          "paragraph": 2,
+          "from": "鄭袤薦於司空王朗",
+          "through": "朗即加禮命。",
+          "citation": "《晉書·卷九十 ‧ 列傳第六十　魯芝傳》",
+          "note": "正文層；鄭袤薦魯芝於司空王朗，朗即加禮命之。見王朗任司空期間依薦任用魯芝。"
         }
       ],
       "exclusions": [
@@ -37020,6 +37040,15 @@
           "term": "王朗",
           "quote": "外曾祖母故司徒王朗夫人楊氏",
           "reason": "段落主體為晉帝追封王朗夫人楊氏及從母為鄉君，僅以「故司徒王朗夫人」稱楊氏，非王朗本人事蹟，不另立條。"
+        },
+        {
+          "id": "lang-excl-jinshu-shichenlun-wanglang-zhi",
+          "work": "jinshu",
+          "source": "a05-071-ahcb",
+          "paragraph": 30,
+          "term": "王朗",
+          "quote": "解結欽王朗之跡",
+          "reason": "史臣曰論贊中僅提及「王朗之跡」，未敘王朗本人事蹟，不另立條。"
         }
       ],
       "conclusions": [],
