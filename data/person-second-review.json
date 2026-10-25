@@ -38526,7 +38526,38 @@
       "id": "p0033",
       "name": "陳琳",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "cl-hhs-zanghong-letter",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 33,
+          "from": "使洪邑人陳琳以書譬洪，示其禍福，責以恩義。",
+          "through": "使洪邑人陳琳以書譬洪，示其禍福，責以恩義。",
+          "citation": "《後漢書·臧洪傳》",
+          "note": "正文層：袁紹久圍臧洪不下，命與臧洪同邑的陳琳作書招降，示禍福、責恩義。注文《獻帝春秋》亦載紹使琳為書八條，可互證，不與正文合併。"
+        },
+        {
+          "id": "cl-hhs-hejin-jian",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 24,
+          "from": "主簿陳琳入諫曰",
+          "through": "功必不成，秖為亂階。」",
+          "citation": "《後漢書·何進傳》",
+          "note": "正文層：陳琳任何進主簿，諫阻何進召四方猛將外兵入京，謂大兵聚會、強者為雄必為亂階，何進不聽。"
+        },
+        {
+          "id": "cl-hhs-lucui-jishi",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 23,
+          "from": "後為軍謀祭酒，與陳琳、阮瑀等典記室。",
+          "through": "後為軍謀祭酒，與陳琳、阮瑀等典記室。",
+          "citation": "《後漢書·孔融傳》引《典略》所載",
+          "note": "引文層（《典略》載路粹小傳）：路粹後為軍謀祭酒，與陳琳、阮瑀等同典記室。此條僅順帶證陳琳歸曹後的軍謀祭酒、典記室職事，孔融被誅為本段正文主事，不得與陳琳事迹合併。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
