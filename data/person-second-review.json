@@ -41863,6 +41863,33 @@
           "term": "鄄城",
           "quote": "前鋒都督謝玄攻苻堅將兗州刺史張崇于鄄城，克之。",
           "reason": "向量候選以樊城之戰事件信號命中，實為謝玄攻苻堅將張崇於鄄城事，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-liucong-fengyi",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 94,
+          "term": "馮翊",
+          "quote": "劉聰陷馮翊，太守梁肅奔萬年。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為劉聰陷馮翊、梁肅奔萬年事，段中未提徐晃，馮翊僅為劉聰攻陷地，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-lugui-xiangyang",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 143,
+          "term": "襄陽",
+          "quote": "十二年春正月，姚泓使其將魯軌寇襄陽，雍州刺史趙倫之擊走之。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為姚泓遣魯軌寇襄陽、趙倫之擊走事，段中未提徐晃，襄陽僅為魯軌寇地，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-murongping-henan",
+          "work": "jinshu",
+          "source": "a05-110-ahcb",
+          "paragraph": 11,
+          "term": "河南",
+          "quote": "慕容彊爲前鋒都督、都督荊徐二州緣淮諸軍事，進據河南。",
+          "reason": "向量候選以樊城之戰事件信號命中，實為慕容儁時慕容評鎮洛水、慕容彊據河南事，段中未提徐晃，河南僅為慕容彊進據地，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
