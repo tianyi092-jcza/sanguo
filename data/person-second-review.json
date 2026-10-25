@@ -39920,6 +39920,50 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0041",
+      "name": "毛玠",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "maojie-sg-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 32,
+          "from": "於是中軍師王凌",
+          "through": "袁霸等勸進曰",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "maojie-pei-shangshu",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 33,
+          "from": "魏氏春秋曰：以荀攸為尚書令",
+          "through": "和洽為侍中。",
+          "citation": "裴注引《魏氏春秋》"
+        },
+        {
+          "id": "maojie-sg-posthumous",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 3,
+          "from": "丁亥令曰",
+          "through": "為郎中。」",
+          "citation": "《三國志·魏書二·文帝紀》"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
