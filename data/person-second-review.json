@@ -39448,7 +39448,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yx-sg-zhengwen-zhuxiu",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 6,
+          "from": "太祖旣慮終始之變，以楊脩頗有才策",
+          "through": "於是以罪誅脩。",
+          "citation": "《三國志·魏書十九·陳思王傳》",
+          "note": "正文層：楊脩附載於曹植傳。太祖以楊脩有才策且為袁氏之甥，慮終始之變而以罪誅之。此條為本傳正文對楊脩之死的直接記載，不得與裴注典略層合併。"
+        },
+        {
+          "id": "yx-sg-peizhu-dianlue",
+          "work": "peizhu",
+          "source": "a04-019",
+          "paragraph": 6,
+          "from": "典略曰：楊脩字德祖，太尉彪子也。",
+          "through": "事皆稱意。",
+          "citation": "《三國志·魏書十九·陳思王傳》裴注引《典略》",
+          "note": "裴注層（典略）：楊脩字德祖，太尉楊彪之子；建安中舉孝廉，除郎中，丞相署為倉曹屬主簿，總知外內，事皆稱意。此為出身與任官，與正文誅脩層分開記。"
+        },
+        {
+          "id": "yx-hhs-miheng",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 47,
+          "from": "唯善魯國孔融及弘農楊脩。",
+          "through": "餘子碌碌，莫足數也。",
+          "citation": "《後漢書·卷八十下·文苑列傳下》",
+          "note": "禰衡傳正文：禰衡唯善孔融及弘農楊脩，稱「大兒孔文舉，小兒楊德祖」。此為時人對楊脩才名的稱譽，非楊脩事迹本身，錄為名聲證據。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
