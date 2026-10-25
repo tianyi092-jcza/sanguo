@@ -44773,6 +44773,22 @@
         "勢力繫年：始終為魏方守將，合肥、新城抗吳諸段不得記為吳勢力；太和二年東關從征、青龍中合肥請兵皆按當時職任與戰役階段記。",
         "史源覆蓋：三國志正文、裴注、晉書均已核；《後漢書》《華陽國志》無人名命中段落，已核。"
       ]
+    },
+    {
+      "id": "p0057",
+      "name": "田豫",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
