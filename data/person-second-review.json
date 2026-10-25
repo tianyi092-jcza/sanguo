@@ -41458,6 +41458,33 @@
           "term": "洛陽",
           "quote": "劉粲率眾四萬寇洛陽",
           "reason": "向量候選以樊城／潼關之戰事件信號命中，實為劉粲、石勒寇洛陽、攻襄城繁昌事，段中既未提徐晃，亦無樊城、潼關字樣（「繁昌」非「樊城」），與徐晃樊城、潼關戰事無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-hhs-longyou-mawu",
+          "work": "houhanshu",
+          "source": "a03-002",
+          "paragraph": 9,
+          "term": "隴右",
+          "quote": "捕虜將軍馬武等與燒當羌戰",
+          "reason": "向量候選以樊城／漢中／潼關之戰事件信號命中，實為馬武等與燒當羌戰、戍隴右事，段中未提徐晃，亦無樊城、漢中、潼關字樣，與徐晃戰事無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-hanzhong-liguo",
+          "work": "jinshu",
+          "source": "a05-121-ahcb",
+          "paragraph": 3,
+          "term": "漢中",
+          "quote": "遣李國、李雲等率眾二萬寇漢中",
+          "reason": "向量候選以漢中之戰事件信號命中，實為李國、李雲等寇漢中、陷南鄭、徙漢中人事，段中未提徐晃，與徐晃建安年間漢中戰事並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-tongguan-liuyu",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 152,
+          "term": "潼關",
+          "quote": "劉裕克潼關",
+          "reason": "向量候選以潼關之戰事件信號命中，實為劉裕克潼關事，段中未提徐晃，與徐晃建安十六年潼關戰事並非同一事，排除。"
         }
       ],
       "unresolved": [],
