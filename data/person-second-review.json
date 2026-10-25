@@ -40436,6 +40436,33 @@
           "from": "樂進以驍果顯名",
           "through": "未副所聞。",
           "citation": "《三國志·魏書十七·評曰》"
+        },
+        {
+          "id": "yuejin-huguan-gaogan",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 2,
+          "from": "與樂進圍高幹於壺關",
+          "through": "皆破之。",
+          "citation": "《三國志·魏書十八·李典傳》"
+        },
+        {
+          "id": "yuejin-hefei-panquan",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 3,
+          "from": "與張遼、樂進屯合肥",
+          "through": "破走權。",
+          "citation": "《三國志·魏書十八·李典傳》"
+        },
+        {
+          "id": "yuejin-xunkou-guanyu",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 15,
+          "from": "與樂進討關羽於尋口",
+          "through": "尋口，有功",
+          "citation": "《三國志·魏書十八·文聘傳》"
         }
       ],
       "exclusions": [
