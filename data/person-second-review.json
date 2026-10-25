@@ -41512,6 +41512,33 @@
           "term": "漢中",
           "quote": "大將軍費禕出屯漢中",
           "reason": "向量候選以漢中之戰事件信號命中，實為蜀漢延熙十一年費禕出屯漢中、鄧芝討涪陵夷人事，段中未提徐晃，與徐晃建安二十年漢中戰事並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-guanzhong-mengguan",
+          "work": "jinshu",
+          "source": "a05-004-ahcb",
+          "paragraph": 51,
+          "term": "關中",
+          "quote": "以北中郎將、河間王顒爲鎮西將軍，鎮關中",
+          "reason": "向量候選以漢中之戰事件信號命中，實為孟觀伐氐、河間王顒鎮關中、成都王穎鎮鄴事，段中未提徐晃，亦無漢中字樣，與徐晃建安年間漢中戰事無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-henan-shile",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 60,
+          "term": "潼關",
+          "quote": "石勒遣騎寇河南",
+          "reason": "向量候選以潼關之戰事件信號命中，實為王敦擅權、甘卓被害、張龍寇巴東、石勒遣騎寇河南事，段中未提徐晃，亦無潼關字樣，與徐晃建安十六年潼關戰事無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-dili-hanzhongjun",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 192,
+          "term": "漢中",
+          "quote": "漢中郡秦置。統縣八，戶一萬五千。",
+          "reason": "向量候選以漢中之戰事件信號命中，實為地理志漢中郡建置、統縣與戶數條目，段中未提徐晃，與徐晃建安二十年漢中戰事無關，排除。"
         }
       ],
       "unresolved": [],
