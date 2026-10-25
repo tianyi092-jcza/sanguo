@@ -37159,7 +37159,41 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "qun-hhs-xunyu-jian",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 34,
+          "from": "陳羣、杜襲",
+          "through": "陳羣、杜襲",
+          "citation": "《後漢書·荀彧傳》所載",
+          "context": "彧又進操計謀之士",
+          "note": "正文層；荀彧向曹操進薦計謀之士，陳羣名列其中。段中「襲字子緒，潁川人」等為注文，不與正文合併。"
+        },
+        {
+          "id": "qun-hhs-miheng-changwen",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 47,
+          "from": "盍從陳長文、司馬伯達乎",
+          "through": "盍從陳長文、司馬伯達乎",
+          "citation": "《後漢書·禰衡傳》所載",
+          "context": "建安初，來遊許下",
+          "note": "正文層；建安初禰衡遊許下時，或問其何不從陳長文（陳羣）與司馬伯達，見陳羣當時為許都名士；「陳羣字長文」為注文，不與正文合併。"
+        },
+        {
+          "id": "qun-sg-wudi-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "from": "侍中陳羣、尚書桓階奏曰",
+          "through": "無所與讓也。",
+          "citation": "《三國志·魏書一 武帝紀》所載",
+          "context": "王軍摩陂",
+          "note": "正文層（武帝紀）；建安二十四年，侍中陳羣與尚書桓階上奏勸曹操應天命受禪，稱漢祚已盡、黃家當興；其後「魏氏春秋曰」為異說，不與正文合併。"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
