@@ -41566,6 +41566,33 @@
           "term": "漢中",
           "quote": "破之，斬雙，還漢中。",
           "reason": "向量候選以漢中之戰事件信號命中，實為諸葛亮出祁山、圍陳倉、斬魏將王雙後還漢中，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-houhanshu-wuhan-gaoliu",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 60,
+          "term": "高柳",
+          "quote": "擊賈覽於高柳",
+          "reason": "向量候選以漢中之戰事件信號命中，實為東漢建武十年大司馬吳漢率王霸等五將軍擊賈覽於高柳、匈奴救覽而諸將郤之，段中未提徐晃，亦無漢中戰事，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-houhanshu-liubei-hanzhong",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 32,
+          "term": "漢中",
+          "quote": "劉備取漢中。",
+          "reason": "向量候選以漢中之戰事件信號命中，實為建安二十四年劉備取漢中、自稱漢中王的本紀繫年，段中未提徐晃，與徐晃無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-zuti-pengguan",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 55,
+          "term": "蓬關",
+          "quote": "攻陳川于蓬關",
+          "reason": "向量候選以潼關之戰事件信號命中，實為祖逖攻陳川于蓬關、石季龍救川而逖退屯梁國，段中未提徐晃，亦非潼關之戰，與徐晃無關，排除。"
         }
       ],
       "unresolved": [],
