@@ -41431,6 +41431,33 @@
           "term": "樊城",
           "quote": "朱然、孫倫圍樊城",
           "reason": "向量候選以樊城之戰事件與樊城地名信號命中，實為太和二年吳將朱然等圍樊城、宣帝南征解圍事，段中未提徐晃，且在徐晃卒後，與徐晃建安二十四年樊城解圍並非同一事，排除。"
+        },
+        {
+          "id": "xuhuang-excl-hhs-xicheng-gongsunshu",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 13,
+          "term": "漢中",
+          "quote": "與公孫述將戰於西城",
+          "reason": "向量候選以「漢中之戰」事件信號命中，實為李通與公孫述將戰於漢中屬縣西城事，段中未提徐晃，與徐晃建安年間漢中戰事無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-hanzhong-xuluosheng",
+          "work": "jinshu",
+          "source": "a05-117-ahcb",
+          "paragraph": 47,
+          "term": "漢中",
+          "quote": "遣其將斂俱寇漢中",
+          "reason": "向量候選以「漢中之戰」事件／漢中地名信號命中，實為姚碩德伐仇池、斂俱寇漢中事，段中「徐洛生」為另一人，非徐晃，段中未提徐晃，與徐晃漢中戰事無關，排除。"
+        },
+        {
+          "id": "xuhuang-excl-jinshu-luoyang-liucan",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 12,
+          "term": "洛陽",
+          "quote": "劉粲率眾四萬寇洛陽",
+          "reason": "向量候選以樊城／潼關之戰事件信號命中，實為劉粲、石勒寇洛陽、攻襄城繁昌事，段中既未提徐晃，亦無樊城、潼關字樣（「繁昌」非「樊城」），與徐晃樊城、潼關戰事無關，排除。"
         }
       ],
       "unresolved": [],
