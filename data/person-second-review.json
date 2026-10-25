@@ -40675,6 +40675,26 @@
           "from": "太祖遣于禁、臧霸等討成，",
           "through": "成遂將其衆就蘭，",
           "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　張遼傳》"
+        },
+        {
+          "id": "yujin-sg-lejin-jianan11-huwei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 9,
+          "context": "從圍鄴，鄴定，從擊袁譚於南皮，先登，入譚東門。譚敗，別攻雍奴，破之。",
+          "from": "建安十一年，太祖表漢帝，稱進及于禁、張遼曰：",
+          "through": "於是禁為虎威；進，折衝；遼，盪寇將軍。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　樂進傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-yushui-zhengjun",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "context": "從至宛，降張繡。繡復叛，太祖與戰不利，軍敗，還舞陰。",
+          "from": "是時軍亂，各間行求太祖，禁獨勒所將數百人，且戰且引，雖有死傷不相離。",
+          "through": "於是錄禁前後功，封益壽亭侯。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　于禁傳》"
         }
       ],
       "exclusions": [
@@ -40695,6 +40715,15 @@
           "term": "于禁",
           "quote": "以逐惡鬼于禁中",
           "reason": "「于」為介詞、「禁中」指宮禁，並非人名于禁，僅字面連寫誤命中，排除。"
+        },
+        {
+          "id": "yujin-excl-sg-yujinzhuan-title",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 11,
+          "term": "于禁傳",
+          "quote": "于禁傳",
+          "reason": "僅為于禁傳篇目小標題，無正文內容，排除。"
         }
       ],
       "unresolved": [],
