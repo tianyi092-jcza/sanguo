@@ -49143,6 +49143,33 @@
           "term": "諸葛誕",
           "quote": "諸葛誕、毌丘儉、王昶、陳泰、胡遵都督四方",
           "reason": "本段僅為嘉平四年司馬師輔政後四方都督、州郡、選舉、計謀、朝議人員的名單羅列，誕只列名其一，無個人事蹟或職事詳情，不單獨立錄。"
+        },
+        {
+          "id": "zhugedan-excl-026",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 5,
+          "term": "諸葛誕",
+          "quote": "乃遣諸葛誕督豫州諸軍自安風向壽春",
+          "reason": "與已錄 zhugedan-wuqiu-xiang-shouchun（a05-002-ahcb:13）同為景帝紀毌丘儉、文欽之亂中遣誕督豫州諸軍自安風向壽春之記載，僅底本文字小異，事件已錄，不重複立錄。"
+        },
+        {
+          "id": "zhugedan-excl-027",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 7,
+          "term": "諸葛誕",
+          "quote": "統征東將軍胡遵、鎮東將軍諸葛誕伐吳，戰于東關",
+          "reason": "與已錄 zhugedan-dongguan-fawu（a05-002-ahcb:20）同為胡遵、諸葛誕伐吳、戰于東關而二軍敗績之記載，僅底本不同，事件已錄，不重複立錄。"
+        },
+        {
+          "id": "zhugedan-excl-028",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 9,
+          "term": "諸葛誕",
+          "quote": "鎮東大將軍諸葛誕殺揚州刺史樂綝，以淮南作亂",
+          "reason": "與已錄 zhugedan-huainan-zuoluan（a05-002-ahcb:26）同為甘露二年五月誕殺樂綝、舉淮南作亂並遣子靚為質於吳之記載，僅底本文字小異，事件已錄，不重複立錄。"
         }
       ],
       "unresolved": [],
