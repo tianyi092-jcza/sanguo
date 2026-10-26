@@ -46707,6 +46707,33 @@
           "from": "三年，誅楚王彪，又襲王淩於淮南。",
           "through": "淮南，東楚也。",
           "citation": "《晉書》卷十三·天文志下"
+        },
+        {
+          "id": "wangling-taiwei",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 18,
+          "from": "冬十二月辛卯，以司空王淩為太尉。",
+          "through": "冬十二月辛卯，以司空王淩為太尉。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "wangling-linghu-yu-moufei",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 39,
+          "from": "邵沒之後，十餘年間，愚為兖州刺史，果與王淩謀廢立，家屬誅滅。",
+          "through": "邵子華，時為弘農郡丞，以屬疏得不坐。",
+          "citation": "《三國志·魏書十六·任蘇杜鄭倉傳》"
+        },
+        {
+          "id": "wangling-liangxi-xianzhang",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 10,
+          "from": "後刺史梁習薦州界名士林及楊俊、王淩、王象、荀緯，太祖皆以為縣長。",
+          "through": "後刺史梁習薦州界名士林及楊俊、王淩、王象、荀緯，太祖皆以為縣長。",
+          "citation": "《三國志·魏書二十三·常林傳》"
         }
       ],
       "exclusions": [
