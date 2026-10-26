@@ -47995,6 +47995,33 @@
           "term": "毌丘儉",
           "quote": "三月戊午，詔下東海王越罪狀，",
           "reason": "本段記西晉詔下東海王越罪狀、苟晞為大將軍、東海王越薨事，全文未提及儉；僅因征討語義與儉東征事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-liaodongshuguo-xibuduyu",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 94,
+          "term": "毌丘儉",
+          "quote": "遼東屬國故邯鄉，西部都尉，安帝時以為屬國都尉，別領六城。",
+          "reason": "本段為《後漢書·郡國志》遼東屬國沿革注文，全文未提及儉；僅因遼東、西部都尉地名與儉鎮遼東事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-gaogouli-gongfangwu",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 94,
+          "term": "毌丘儉",
+          "quote": "庚申，高句驪遣使貢方物。",
+          "reason": "本段記算軍用稅米、立皇后杜氏、高句驪遣使貢方物事，全文未提及儉；僅因高句驪名與儉東征高句驪事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-liaodong-xibuduyu-fuzhi",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 181,
+          "term": "毌丘儉",
+          "quote": "十二月，復置遼東西部都尉官。",
+          "reason": "本段為《後漢書》安帝紀復置遼東西部都尉官事，全文未提及儉；僅因遼東、西部都尉地名與儉鎮遼東事相近被向量召回，不錄。"
         }
       ],
       "unresolved": [],
