@@ -45501,8 +45501,37 @@
       "id": "p0060",
       "name": "辛毗",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "xinpi-hhs-yuantan-qingjiu",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 2,
+          "from": "譚使毗詣太祖求和，毗見太祖致譚意。",
+          "through": "一旦求救於明公，此可知也。",
+          "citation": "《後漢書》卷七十四下·袁譚傳（注引魏志）"
+        },
+        {
+          "id": "xinpi-hhs-shenpei-zhi",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 10,
+          "from": "先賢行狀曰：「是日先縛配將詣帳下，辛毗等逆以馬鞭擊其頭，罵之曰：『奴，汝今日真死矣。』",
+          "through": "辛毗等號哭不已，乃殺之。」",
+          "citation": "《後漢書》卷七十四下·袁譚傳（注引《先賢行狀》）"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "xinpi-excl-001",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 40,
+          "term": "辛毗",
+          "quote": "評，辛毗兄也。",
+          "reason": "本段為《後漢書·袁紹傳上》官渡後審配留守鄴事，辛毗僅以「辛毗兄」界定辛評身分，全段未載辛毗本人事蹟，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
