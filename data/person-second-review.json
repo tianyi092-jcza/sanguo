@@ -48022,6 +48022,33 @@
           "term": "毌丘儉",
           "quote": "十二月，復置遼東西部都尉官。",
           "reason": "本段為《後漢書》安帝紀復置遼東西部都尉官事，全文未提及儉；僅因遼東、西部都尉地名與儉鎮遼東事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-lelang-junxian-liaodong",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 93,
+          "term": "毌丘儉",
+          "quote": "列口郭璞注山海經曰：「列，水名。列水在遼東。」",
+          "reason": "本段為《後漢書》郡國志樂浪郡屬縣名錄，全文未提及儉；僅因「遼東」地名與儉鎮遼東事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-juan5-gouxi-zhengdong",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 40,
+          "term": "毌丘儉",
+          "quote": "十二月，征東大將軍苟晞攻王彌別帥曹嶷，破之。",
+          "reason": "本段為《晉書》卷五帝紀苟晞破曹嶷、李洪作亂事，全文未提及儉；僅因「征東」二字與儉東征高句驪事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-juan86-zhangzuo-dongzheng",
+          "work": "jinshu",
+          "source": "a05-086-ahcb",
+          "paragraph": 55,
+          "term": "毌丘儉",
+          "quote": "大聚眾，聲言東征，實欲西保敦煌。",
+          "reason": "本段記張祚聞桓溫入關而大聚眾、聲言東征實欲西保敦煌事，全文未提及儉；僅因「東征」二字與儉東征高句驪事相近被向量召回，不錄。"
         }
       ],
       "unresolved": [],
