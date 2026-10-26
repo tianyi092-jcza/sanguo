@@ -46898,6 +46898,33 @@
           "term": "王淩",
           "quote": "兗州刺史令狐愚、太尉王淩貳於帝，謀立楚王彪。",
           "reason": "此句與已錄 sidneyluo 本《晉書》卷一·宣帝紀條目 wangling-jin-mou-biao（a05-001:30）文字完全相同，屬同條異本重複，不另錄為新摘錄。"
+        },
+        {
+          "id": "wangling-excl-013",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 68,
+          "term": "王淩",
+          "quote": "道經賈逵廟，淩呼曰：「賈梁道！王淩是大魏之忠臣，惟爾有神知之。」至項，仰鴆而死。",
+          "reason": "鏡像重複排除：此段夏四月面縛請降、賈逵廟呼冤至項仰鴆而死的敘事，與已錄 sidneyluo 本《晉書》卷一·宣帝紀條目 wangling-jin-mianfu-zisha（a05-001:31，自三年春正月詐言塞涂水至至項仰鴆而死）同文異本分段，不另錄；其後收餘黨夷三族、并殺彪、諸王置鄴監察為司馬懿事後處置，無王淩本人新事蹟。"
+        },
+        {
+          "id": "wangling-excl-014",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 70,
+          "term": "王淩",
+          "quote": "六月，帝寢疾，夢賈逵、王淩爲祟，甚惡之。",
+          "reason": "僅背景提及排除：此段主角為宣帝寢疾而崩，王淩僅在夢賈逵、王淩為祟一句中以亡魂入夢出現，無王淩本人新事蹟；該夢句亦見 sidneyluo 本 a05-001:31 同段後半，不另錄。"
+        },
+        {
+          "id": "wangling-excl-015",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 20,
+          "term": "王淩",
+          "quote": "及大軍討王淩，帝督淮北諸軍事，帥師會于項。增邑三百戶，假金印紫綬。",
+          "reason": "鏡像重複排除：此段與已錄 sidneyluo 本《晉書》卷二·文帝紀條目 wangling-jin-wendi-huixiang（a05-002:7）同文，屬同條異本重複；其後進號都督伐吳、東關敗績坐失侯為司馬昭事蹟，非王淩事蹟，不另錄。"
         }
       ],
       "unresolved": [],
