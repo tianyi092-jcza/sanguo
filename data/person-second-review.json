@@ -45496,6 +45496,22 @@
         "勢力繫年：袁紹時期至建安九年東詣太祖後歸曹，其後諸段皆記為魏方邊將，不得記為袁氏勢力。",
         "史源覆蓋：《三國志》正文已核（本傳文件 a04-026 逐段核對：全字名段與單字本傳段皆已處置）；裴注、《後漢書》、《華陽國志》、《晉書》全庫人名候選枯竭，已核。"
       ]
+    },
+    {
+      "id": "p0060",
+      "name": "辛毗",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
