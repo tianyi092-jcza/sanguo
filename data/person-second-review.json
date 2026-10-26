@@ -44859,9 +44859,37 @@
           "from": "三月，遣將軍周賀、校尉裴潛乘海之遼東。",
           "through": "秋九月，魏將田豫要擊，斬賀于成山。",
           "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二》原文"
+        },
+        {
+          "id": "ty-sgz-mingdi-chengshan",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 14,
+          "from": "冬十月，殄夷將軍田豫帥衆討吴將周賀於成山，殺賀。",
+          "through": "冬十月，殄夷將軍田豫帥衆討吴將周賀於成山，殺賀。",
+          "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》原文"
+        },
+        {
+          "id": "ty-sgz-zhang-daijun-yuji",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 2,
+          "from": "用田豫計，固守要隙，虜乃退散。",
+          "through": "用田豫計，固守要隙，虜乃退散。",
+          "citation": "《三國志·卷十九 ‧ 魏書十九　任城陳蕭王傳第十九　任城威王彰傳》原文"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "ty-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 8,
+          "term": "田豫",
+          "quote": "田豫",
+          "reason": "該段僅為本傳目題名，無史實內容，不可作摘錄；本傳正文另段處理。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
