@@ -46206,6 +46206,33 @@
           "from": "乃辭詣廷尉。柔問曰",
           "through": "班下天下，以禮為戒。",
           "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-shangshulang-licaoyuan",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 15,
+          "from": "魏國初建，為尚書郎。",
+          "through": "蒙活者甚衆。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-yingchuan-jianxiaoshi",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 16,
+          "from": "遷為潁川太守，復還為法曹掾。",
+          "through": "太祖殺之以謝於柔。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-shangshu-sangong",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 18,
+          "from": "魏初，三公無事，又希與朝政。",
+          "through": "帝嘉納焉。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
         }
       ],
       "exclusions": [
