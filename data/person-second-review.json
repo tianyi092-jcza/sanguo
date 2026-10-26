@@ -46788,6 +46788,15 @@
           "from": "先是，譚弟承與張休俱北征壽春，",
           "through": "淩軍用退。",
           "citation": "《三國志·吳書七·顧譚傳》"
+        },
+        {
+          "id": "wangling-jin-wudi-taishi-zhao",
+          "work": "jinshu",
+          "source": "a05-003",
+          "paragraph": 2,
+          "from": "詔曰：「昔王淩謀廢齊王，",
+          "through": "而王竟不足以守位。",
+          "citation": "《晉書》卷三·武帝紀"
         }
       ],
       "exclusions": [
@@ -46925,6 +46934,24 @@
           "term": "王淩",
           "quote": "及大軍討王淩，帝督淮北諸軍事，帥師會于項。增邑三百戶，假金印紫綬。",
           "reason": "鏡像重複排除：此段與已錄 sidneyluo 本《晉書》卷二·文帝紀條目 wangling-jin-wendi-huixiang（a05-002:7）同文，屬同條異本重複；其後進號都督伐吳、東關敗績坐失侯為司馬昭事蹟，非王淩事蹟，不另錄。"
+        },
+        {
+          "id": "wangling-excl-016",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 9,
+          "term": "王淩",
+          "quote": "詔曰：「昔王淩謀廢齊王，而王竟不足以守位。鄧艾雖矜功失節，然束手受罪。今大赦其家，還使立後。」",
+          "reason": "鏡像重複排除：此段與 sidneyluo 本《晉書》卷三·武帝紀條目 wangling-jin-wudi-taishi-zhao（a05-003:2，本輪同錄）同文異本分段（僅傜／徭異體字之差），不另錄。"
+        },
+        {
+          "id": "wangling-excl-017",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 17,
+          "term": "王淩",
+          "quote": "西禽孟達，東舉公孫，內夷曹爽，外襲王淩。",
+          "reason": "僅總括提及排除：此段主角為宣帝功業總評，王淩僅在四戰並舉句中以「外襲」二字一筆帶過，無王淩本人新事蹟；討王淩之役已錄《晉書》卷一·宣帝紀條目 wangling-jin-mianfu-zisha（a05-001:31）及卷二·文帝紀條目 wangling-jin-wendi-huixiang（a05-002:7），不另錄。"
         }
       ],
       "unresolved": [],
