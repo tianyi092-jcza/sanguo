@@ -45291,6 +45291,15 @@
           "from": "魏延將軍呉懿西入羗中大破魏後將軍費擢雍州",
           "through": "刺史郭淮于陽谿",
           "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "gh-hygz-longxi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 21,
+          "from": "維出隴西與魏將郭淮夏侯霸",
+          "through": "戰剋之",
+          "citation": "《華陽國志》卷七·劉後主志"
         }
       ],
       "exclusions": [
