@@ -46617,6 +46617,33 @@
           "from": "曹彪封楚王，年五十七，坐與王淩通謀，賜死。",
           "through": "曹彪封楚王，年五十七，坐與王淩通謀，賜死。",
           "citation": "《三國志·魏書二十九·朱建平傳》"
+        },
+        {
+          "id": "wangling-wuzhu-sunbu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 29,
+          "from": "中郎將孫布詐降以誘魏將王淩，淩以軍迎布。",
+          "through": "冬十月，權以大兵潛伏於阜陵俟之，淩覺而走。",
+          "citation": "《三國志·吳書二·吳主傳第二》"
+        },
+        {
+          "id": "wangling-wuzhu-shaobei",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 39,
+          "from": "琮與魏將王淩戰于芍陂",
+          "through": "中郎將秦晃等十餘人戰死。",
+          "citation": "《三國志·吳書二·吳主傳第二》"
+        },
+        {
+          "id": "wangling-wuli-mamao",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 43,
+          "from": "吳歷曰：茂本淮南鍾離長，而為王淩所失，叛歸吳，吳以為征西將軍、九江太守、外部督，封侯，領千兵。",
+          "through": "吳歷曰：茂本淮南鍾離長，而為王淩所失，叛歸吳，吳以為征西將軍、九江太守、外部督，封侯，領千兵。",
+          "citation": "《三國志·吳書二·吳主傳第二》"
         }
       ],
       "exclusions": [
