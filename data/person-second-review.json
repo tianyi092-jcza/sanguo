@@ -46233,6 +46233,33 @@
           "from": "魏初，三公無事，又希與朝政。",
           "through": "帝嘉納焉。",
           "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-baoxun-guzhi",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 19,
+          "from": "帝以宿嫌，欲枉法誅治書執法鮑勛，",
+          "through": "勛死乃遣柔還寺。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-boshi-chongru",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 20,
+          "from": "明帝即位，封柔延壽亭侯。",
+          "through": "帝納之。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-xingdian-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 21,
+          "from": "後大興殿舍，百姓勞役；",
+          "through": "帝報曰：「知卿忠允，乃心王室，輒克昌言；他復以聞。」",
+          "citation": "《三國志·魏書二十四·高柔傳》"
         }
       ],
       "exclusions": [
