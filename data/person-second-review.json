@@ -45377,7 +45377,7 @@
     {
       "id": "p0059",
       "name": "牽招",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "qz-sgz-wendi-hu-xianbei",
@@ -45470,17 +45470,32 @@
           "term": "牽招",
           "quote": "牽招",
           "reason": "僅為本傳小傳標題（人名標目），無史實敘述，排除。"
+        },
+        {
+          "id": "qz-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 26,
+          "term": "招",
+          "quote": "招子嘉嗣。",
+          "reason": "本傳附載子嗣事迹（嘉、弘、秀），非牽招本人事迹，僅首句言子嗣，不錄為本人摘錄。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "覆核處置共 11 段：錄正摘錄 9 條（皆《三國志》正文）、排除 2 條、未解決 0 條；向量候選重跑為 0 段，候選枯竭，收尾。",
+        "辨人：本傳單字「招」段（20–26）按本傳文件內語境判定；小傳標題標目（18）與子嗣附載（26，嘉、弘、秀事迹）排除；田豫傳提及段（13）僅錄牽招并護鮮卑一句，不串入田豫事迹。",
+        "生平繫年：摘錄覆蓋袁紹辟舉、東詣太祖、柳城說峭王、滅譚後歷任、文帝護鮮卑校尉屯昌平、鴈門太守治邊、明帝時救田豫病卒及評曰。",
+        "勢力繫年：袁紹時期至建安九年東詣太祖後歸曹，其後諸段皆記為魏方邊將，不得記為袁氏勢力。",
+        "史源覆蓋：《三國志》正文已核（本傳文件 a04-026 逐段核對：全字名段與單字本傳段皆已處置）；裴注、《後漢書》、《華陽國志》、《晉書》全庫人名候選枯竭，已核。"
+      ]
     }
   ]
 }
