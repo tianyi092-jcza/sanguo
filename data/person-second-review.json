@@ -48049,6 +48049,33 @@
           "term": "毌丘儉",
           "quote": "大聚眾，聲言東征，實欲西保敦煌。",
           "reason": "本段記張祚聞桓溫入關而大聚眾、聲言東征實欲西保敦煌事，全文未提及儉；僅因「東征」二字與儉東征高句驪事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-juan65-duanying-dongqiang",
+          "work": "houhanshu",
+          "source": "a03-065",
+          "paragraph": 45,
+          "term": "毌丘儉",
+          "quote": "凶醜奔破，連尸積俘，掠獲無筭。",
+          "reason": "本段為《後漢書》竇太后詔嘉段熲平定東羌事，全文未提及儉；僅因「東羌」與儉東征事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-juan3-sunhao-shouyang",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 63,
+          "term": "毌丘儉",
+          "quote": "三月，孫皓帥眾趨壽陽，遣大司馬望屯淮北以距之。",
+          "reason": "本段為《晉書》卷三帝紀孫皓趨壽陽、裴秀薨、何崇來降事，全文未提及儉；僅因「壽陽」地名與儉壽春起兵事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-juan97-pixi-fujian",
+          "work": "jinshu",
+          "source": "a05-097-ahcb",
+          "paragraph": 20,
+          "term": "毌丘儉",
+          "quote": "辟奚性仁厚慈惠。初聞苻堅之盛，遣使獻馬五十匹，金銀五百斤。",
+          "reason": "本段記辟奚聞苻堅之盛而遣使獻馬事，全文未提及儉；與儉東征高句驪事無關，屬向量誤召，不錄。"
         }
       ],
       "unresolved": [],
