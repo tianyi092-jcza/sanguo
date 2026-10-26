@@ -47752,6 +47752,33 @@
           "term": "毌丘儉",
           "quote": "高句驪寇郡界",
           "reason": "本段僅一句高句驪寇郡界，全文未提及儉；僅因高句驪事與儉東征高句驪事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-sgz-shouchun-zhugedan",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 51,
+          "term": "毌丘儉",
+          "quote": "大將軍司馬文王陷壽春城，斬諸葛誕",
+          "reason": "本段記司馬昭陷壽春、斬諸葛誕，屬諸葛誕壽春事，非儉之壽春起兵；全文未提及儉，僅因壽春地名與事件相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-gaogouli-wanggong",
+          "work": "houhanshu",
+          "source": "a03-085",
+          "paragraph": 12,
+          "term": "毌丘儉",
+          "quote": "後句驪王宮生而開目能視",
+          "reason": "本段記漢代高句驪王宮犯邊、幽州刺史等討伐事，時代在儉東征高句驪之前甚遠；全文未提及儉，僅因高句驪、遼東地名相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-fuling-shouchun",
+          "work": "houhanshu",
+          "source": "a03-042",
+          "paragraph": 55,
+          "term": "毌丘儉",
+          "quote": "賜延書與車駕會壽春",
+          "reason": "本段記漢章和元年帝幸九江、阜陵王延會於壽春事，屬漢代舊事；全文未提及儉，僅因壽春地名被向量召回，不錄為儉之摘錄。"
         }
       ],
       "unresolved": [],
