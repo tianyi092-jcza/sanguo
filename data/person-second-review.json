@@ -46734,6 +46734,33 @@
           "from": "後刺史梁習薦州界名士林及楊俊、王淩、王象、荀緯，太祖皆以為縣長。",
           "through": "後刺史梁習薦州界名士林及楊俊、王淩、王象、荀緯，太祖皆以為縣長。",
           "citation": "《三國志·魏書二十三·常林傳》"
+        },
+        {
+          "id": "wangling-wangchang-xiongshi",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 12,
+          "from": "少與同郡王淩俱知名。淩年長，昶兄事之。",
+          "through": "少與同郡王淩俱知名。淩年長，昶兄事之。",
+          "citation": "《三國志·魏書二十七·王昶傳》"
+        },
+        {
+          "id": "wangling-qingzhou-biejia",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 21,
+          "from": "是時青土初定，刺史王凌特表請基為別駕，後召為秘書郎，凌復請還。",
+          "through": "淩猶不遣。",
+          "citation": "《三國志·魏書二十七·王基傳》"
+        },
+        {
+          "id": "wangling-zaonian",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 1,
+          "from": "王淩字彥雲，太原祁人也。",
+          "through": "淩舉孝廉，為發干長，",
+          "citation": "《三國志·魏書二十八·王淩傳》"
         }
       ],
       "exclusions": [
