@@ -45021,7 +45021,35 @@
       "id": "p0058",
       "name": "郭淮",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "gh-pei-weishu-dun-rebellion",
+          "work": "peizhu",
+          "source": "a04-003",
+          "paragraph": 38,
+          "from": "魏書曰：九月，蜀陰平太守廖惇反，攻守善羌侯宕蕈營。",
+          "through": "贇為流矢所中死。",
+          "citation": "《三國志·卷三 ‧ 魏書三　明帝紀第三》裴注引《魏書》"
+        },
+        {
+          "id": "gh-sgz-cheqi-jiangjun",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 19,
+          "from": "二年夏五月，以征西將軍郭淮為車騎將軍。",
+          "through": "二年夏五月，以征西將軍郭淮為車騎將軍。",
+          "citation": "《三國志·卷四 ‧ 魏書四　三少帝紀第四》原文"
+        },
+        {
+          "id": "gh-pei-hanjin-didao-relief",
+          "work": "peizhu",
+          "source": "a04-004",
+          "paragraph": 22,
+          "from": "乃使郭淮、陳泰悉關中之衆，解狄道之圍",
+          "through": "姜維聞淮進兵，軍食少，乃退屯隴西界。",
+          "citation": "《三國志·卷四 ‧ 魏書四　三少帝紀第四》裴注引《漢晉春秋》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
