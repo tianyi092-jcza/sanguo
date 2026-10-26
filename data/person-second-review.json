@@ -45921,6 +45921,33 @@
           "from": "太祖征漢中，以阜為益州刺史。",
           "through": "洪立罷女樂，請阜還坐，肅然憚焉。",
           "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
+        },
+        {
+          "id": "yangfu-sgz-jian-gongshi-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 22,
+          "from": "帝旣新作許宮，又營洛陽宮殿觀閣。",
+          "through": "使國亡而臣可以獨存，臣又不言也；",
+          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
+        },
+        {
+          "id": "yangfu-pei-songzhi-ping-shangshu",
+          "work": "peizhu",
+          "source": "a04-025",
+          "paragraph": 22,
+          "from": "臣松之以為忠至之道，以亡己為理。",
+          "through": "斯言也，豈不傷讜烈之義，為一表之病乎！",
+          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》裴注"
+        },
+        {
+          "id": "yangfu-sgz-jian-gongshi-jieju",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 22,
+          "from": "君作元首，臣為股肱，",
+          "through": "會卒，家無餘財。孫豹嗣。",
+          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
         }
       ],
       "exclusions": [
