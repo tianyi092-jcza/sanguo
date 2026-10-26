@@ -45663,6 +45663,33 @@
           "from": "辛毗、楊阜，剛亮公直，正諫匪躬，亞乎汲黯之高風焉。",
           "through": "辛毗、楊阜，剛亮公直，正諫匪躬，亞乎汲黯之高風焉。",
           "citation": "《三國志·魏書二十五·辛毗傳》"
+        },
+        {
+          "id": "xinpi-pei-zhugeliang-chijie-zhizhan",
+          "work": "peizhu",
+          "source": "a04-035",
+          "paragraph": 14,
+          "from": "漢晉春秋曰：亮自至，數挑戰。宣王亦表固請戰。使衞尉辛毗持節以制之。",
+          "through": "漢晉春秋曰：亮自至，數挑戰。宣王亦表固請戰。使衞尉辛毗持節以制之。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "xinpi-sgz-wuzhu-mengshi-zhengrenzi",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 20,
+          "from": "魏乃遣侍中辛毗、尚書桓階往與盟誓，并徵任子，權辭讓不受。",
+          "through": "魏乃遣侍中辛毗、尚書桓階往與盟誓，并徵任子，權辭讓不受。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "xinpi-jin-xuandi-zhangjie-zhishi",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 25,
+          "from": "乃遣骨鯁臣衛尉辛毗杖節爲軍師以制之。",
+          "through": "毗杖節立軍門，帝乃止。",
+          "citation": "《晉書·卷一·宣帝紀》"
         }
       ],
       "exclusions": [
