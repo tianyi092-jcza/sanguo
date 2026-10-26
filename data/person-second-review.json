@@ -46386,6 +46386,15 @@
           "from": "與邈齊名，而在孫禮、盧毓先",
           "through": "與邈齊名，而在孫禮、盧毓先",
           "citation": "《三國志·魏書二十七·徐胡二王傳》"
+        },
+        {
+          "id": "sunli-luxiang-jiaoshi",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 30,
+          "from": "乃徙禮為魯相",
+          "through": "不從而敗。",
+          "citation": "《三國志·魏書二十四·孫禮傳》"
         }
       ],
       "exclusions": [
@@ -46469,6 +46478,24 @@
           "term": "禮",
           "quote": "崇明正禮",
           "reason": "單字泛稱排除：此段為韓曁傳正文論宗廟禮制，「崇明正禮」之「禮」指禮制，與孫禮人名無關。"
+        },
+        {
+          "id": "sunli-excl-010",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 15,
+          "term": "禮",
+          "quote": "以禮為首",
+          "reason": "單字泛稱排除：此段為高柔傳正文（丞相理曹掾柔啟論治定之化），「以禮為首」之「禮」指禮教禮制，與孫禮人名無關。"
+        },
+        {
+          "id": "sunli-excl-011",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 26,
+          "term": "竇禮",
+          "quote": "汝昔舉竇禮錢",
+          "reason": "同名異人排除：此段為高柔斷獄事，主角為護軍營士竇禮（為焦子文所殺、柔驗屍破案），竇禮與魏臣孫禮姓氏不同、非同一人，不作本人史實。"
         }
       ],
       "unresolved": [],
