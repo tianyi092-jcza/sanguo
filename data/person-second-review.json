@@ -50745,6 +50745,36 @@
           "through": "是月，蜀主劉禪詣艾降，巴蜀皆平。",
           "citation": "《三國志·三少帝紀》所載",
           "note": "鄧艾、鍾會伐蜀所至輙克，蜀主劉禪詣艾降，巴蜀皆平。見鍾會伐蜀之功。"
+        },
+        {
+          "id": "ce-sgz-xunyu-zhonghui-lun-yi",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 9,
+          "from": "紹子融，字伯雅，與王弼、鍾會俱知名，",
+          "through": "與弼、會論易、老義，傳於世。",
+          "citation": "《三國志·荀彧傳》所載",
+          "note": "荀氏家傳所載：荀融與王弼、鍾會俱知名，並與弼、會論易、老之義而傳於世。見鍾會早年以論易、老知名。"
+        },
+        {
+          "id": "ce-sgz-xunyu-zhonghui-yi-wuhuti",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 12,
+          "from": "嘗難鍾會「易無互體」，見稱於世。",
+          "through": "嘗難鍾會「易無互體」，見稱於世。",
+          "citation": "《三國志·荀彧傳》所載",
+          "note": "荀顗附傳所載：荀顗嘗以易學難鍾會「易無互體」，見稱於世。見鍾會易學論議為時人所難。"
+        },
+        {
+          "id": "ce-sgz-xuchu-zhonghui-sha-yi",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 23,
+          "from": "儀為鍾會所殺。",
+          "through": "儀為鍾會所殺。",
+          "citation": "《三國志·許褚傳》所載",
+          "note": "許褚傳所載：許褚子許儀嗣爵後為鍾會所殺。"
         }
       ],
       "exclusions": [],
