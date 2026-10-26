@@ -46563,6 +46563,33 @@
           "from": "丙午，聞太尉王淩謀廢帝，立楚王彪，太傅司馬宣王東征淩。",
           "through": "五月甲寅，淩自殺。",
           "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "wangling-zhubu",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 6,
+          "from": "脩與賈逵、王淩並為主簿",
+          "through": "而為植所友。",
+          "citation": "《三國志·魏書十九·陳思王植傳》"
+        },
+        {
+          "id": "wangling-yingbiao-xuchang",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 27,
+          "from": "嘉平元年，兖州刺史令狐愚與太尉王淩謀迎彪都許昌。",
+          "through": "嘉平元年，兖州刺史令狐愚與太尉王淩謀迎彪都許昌。",
+          "citation": "《三國志·魏書二十·楚王彪傳》"
+        },
+        {
+          "id": "wangling-ying-sunbu",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 5,
+          "from": "淩於後索兵不得，乃單遣一督將步騎七百人往迎之。",
+          "through": "布夜掩擊，督將迸走，死傷過半。",
+          "citation": "《三國志·魏書二十六·滿寵傳》"
         }
       ],
       "exclusions": [
