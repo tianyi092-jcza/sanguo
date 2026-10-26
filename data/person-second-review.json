@@ -45790,6 +45790,22 @@
         "勢力繫年：袁紹時期至建安年間東詣太祖後歸曹，其後諸段皆記為魏方，不得記為袁氏勢力；青龍二年制戰段按持節軍師職任記，不與司馬宣王事蹟混同。",
         "史源覆蓋：《三國志》正文已核（本傳文件 a04-025 逐段核對：全字名段與單字本傳段皆已處置，第 8 段正文與裴注分層錄入）；裴注、《後漢書》、《華陽國志》、《晉書》全庫人名候選枯竭，已核。"
       ]
+    },
+    {
+      "id": "p0061",
+      "name": "楊阜",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
