@@ -46544,7 +46544,7 @@
     {
       "id": "p0064",
       "name": "王凌",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "wangling-sikong",
@@ -47010,13 +47010,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "覆核處置共 51 段（摘錄 28 條、排除 23 條、未解決 0 條）；本輪向量候選重跑為 0，全語料「王凌／王淩」全字名 55 段經鏡像展開後皆已處置，收尾。",
+        "辨人：字彥雲，太原祁人；妹為郭淮妻，甥令狐愚；後世援引王淩舊事（如泰始詔、王敦案剖棺例）及異本鏡像皆排除，不作本人新事實。",
+        "生平繫年：梁習薦為縣長，舉孝廉為發干長；青州刺史時表王基為別駕；歷車騎將軍、司空、太尉；芍陂與吳戰、孫布詐降迎擊皆有錄；嘉平元年與令狐愚謀迎楚王彪都許昌，司馬宣王東征，至項仰鴆而死。",
+        "勢力繫年：終身為魏臣，謀廢齊王、謀立楚王彪屬魏室內部廢立，未轉投吳、蜀；晉書宣帝紀、文帝紀、武帝紀及天文志、五行志的追述與徵驗，僅作互證或背景排除，不另立新事實。",
+        "史源覆蓋：《三國志》正文與裴注、《晉書》已核；《後漢書》、《華陽國志》全語料無「王凌／王淩」全字名段落，故標已核。"
+      ]
     }
   ]
 }
