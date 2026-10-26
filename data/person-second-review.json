@@ -46761,6 +46761,15 @@
           "from": "王淩字彥雲，太原祁人也。",
           "through": "淩舉孝廉，為發干長，",
           "citation": "《三國志·魏書二十八·王淩傳》"
+        },
+        {
+          "id": "wangling-zou-qin-tancan",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 12,
+          "from": "王淩奏欽貪殘，不宜撫邊，求免官治罪，",
+          "through": "由是徵欽還。",
+          "citation": "《三國志·魏書二十八·毌丘儉傳》"
         }
       ],
       "exclusions": [
@@ -46817,6 +46826,24 @@
           "term": "王淩",
           "quote": "華後為兖州刺史，見王淩傳。",
           "reason": "僅互見提示排除：此句只說黃華事後見王淩傳，無王淩本人事實，不錄為史實摘錄。"
+        },
+        {
+          "id": "wangling-excl-007",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 0,
+          "term": "王淩",
+          "quote": "王淩",
+          "reason": "僅本卷傳主標題、無史實內容，不錄為史實摘錄。"
+        },
+        {
+          "id": "wangling-excl-008",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 15,
+          "term": "王淩",
+          "quote": "王淩之陰謀也，太傅司馬宣王潛軍東伐，",
+          "reason": "僅以王淩陰謀為繫年背景，正文主角為諸葛誕受任鎮東將軍，無王淩本人新事實，不錄為史實摘錄。"
         }
       ],
       "unresolved": [],
