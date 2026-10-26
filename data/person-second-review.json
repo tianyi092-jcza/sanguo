@@ -47941,6 +47941,33 @@
           "term": "毌丘儉",
           "quote": "遼東鮮卑圍無慮縣",
           "reason": "本段記遼東鮮卑圍無慮縣、攻夫犂營殺縣令事，全文未提及儉；遼東僅為地名，與儉鎮遼東事無關，僅因遼東地名相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-junguo-liaodong-hukou",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 88,
+          "term": "毌丘儉",
+          "quote": "遼東郡秦置。雒陽東北三千六百里。",
+          "reason": "本段為郡國志遼東郡總敘（置郡、里程、戶口），全文未提及儉；僅因遼東地名與儉鎮遼東事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-shijilong-gaogouli-chaoxian",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 151,
+          "term": "毌丘儉",
+          "quote": "十二月，高句驪遣使朝獻。",
+          "reason": "本段記石季龍侵張駿、謝艾拒戰及高句驪遣使朝獻，全文未提及儉；高句驪僅為朝獻方，與儉東征高句驪事無關，僅因地名相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-gaogouli-wei-xuantu",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 248,
+          "term": "毌丘儉",
+          "quote": "冬十二月，高句驪、馬韓、穢貊圍玄菟城",
+          "reason": "本段記高句驪、馬韓、穢貊圍玄菟城、夫餘遣子并力討破事，東漢時事，全文未提及儉；僅因高句驪地名與儉東征事相近被向量召回，不錄。"
         }
       ],
       "unresolved": [],
