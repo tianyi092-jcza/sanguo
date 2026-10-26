@@ -46098,6 +46098,33 @@
           "from": "二年秋八月甲寅，天子使太尉高柔授帝相國印綬，司空鄭沖致晉公茅土九錫，固辭。",
           "through": "二年秋八月甲寅，天子使太尉高柔授帝相國印綬，司空鄭沖致晉公茅土九錫，固辭。",
           "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "gaorou-fengce-feifang",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 26,
+          "from": "使兼太尉高柔奉策，用一元大武告于宗廟，遣芳歸藩于齊，以避皇位。",
+          "through": "使兼太尉高柔奉策，用一元大武告于宗廟，遣芳歸藩于齊，以避皇位。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "gaorou-situ-taiwei",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 42,
+          "from": "九月，以司徒高柔為太尉。",
+          "through": "九月，以司徒高柔為太尉。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "gaorou-taiwei-hong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 74,
+          "from": "秋九月，太尉高柔薨。",
+          "through": "秋九月，太尉高柔薨。",
+          "citation": "《三國志·魏書四·三少帝紀》"
         }
       ],
       "exclusions": [
