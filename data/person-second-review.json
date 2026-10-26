@@ -45102,9 +45102,37 @@
           "from": "夏侯淵為劉備所沒，軍喪元帥，將士失色。",
           "through": "襲與張郃、郭淮糾攝諸軍事，權宜以郃為督，以一衆心，三軍遂定。",
           "citation": "《三國志·卷二十三 ‧ 魏書二十三　和常楊杜趙裴傳第二十三》原文"
+        },
+        {
+          "id": "gh-sgz-bio-jianan-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 28,
+          "from": "建安中舉孝廉，除平原府丞。",
+          "through": "關中始定，民得安業。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六》原文"
+        },
+        {
+          "id": "gh-sgz-ping-guo-huai",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 34,
+          "from": "郭淮方策精詳，垂問秦、雍。",
+          "through": "郭淮方策精詳，垂問秦、雍。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六》原文"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "gh-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 27,
+          "term": "郭淮",
+          "quote": "郭淮",
+          "reason": "僅為本傳小傳標題（人名標目），無史實敘述，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
