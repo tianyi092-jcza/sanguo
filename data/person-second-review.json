@@ -47887,6 +47887,33 @@
           "term": "毌丘儉",
           "quote": "欲圖壽春，權以為不可",
           "reason": "本段記吳諸葛恪平定山越、受封賞及欲圖壽春而孫權不許事；主角為諸葛恪，全文未提及儉，壽春僅為恪欲圖之地而非儉壽春起兵事，僅因壽春地名相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-xing-shouchun",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 112,
+          "term": "毌丘儉",
+          "quote": "進幸壽春",
+          "reason": "本段僅記幸壽春事，全文未提及儉；壽春僅為地名，與儉壽春起兵事無關，僅因壽春地名相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-guangwu-shouchun-macheng",
+          "work": "houhanshu",
+          "source": "a03-012",
+          "paragraph": 23,
+          "term": "毌丘儉",
+          "quote": "光武幸壽春",
+          "reason": "本段記光武幸壽春、遣楊武將軍馬成等擊憲圍舒事，主角為光武與馬成，全文未提及儉；壽春僅為地名相近被向量召回，非儉壽春起兵事，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-dongwoju-gaogouli",
+          "work": "houhanshu",
+          "source": "a03-085",
+          "paragraph": 15,
+          "term": "毌丘儉",
+          "quote": "東沃沮在高句驪蓋馬大山之東",
+          "reason": "本段為東沃沮地理風俗記（地望、風俗、葬俗），全文未提及儉；高句驪僅為地理參照，非儉東征高句驪事，僅因高句驪地名相近被向量召回，不錄。"
         }
       ],
       "unresolved": [],
