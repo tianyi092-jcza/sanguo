@@ -46152,6 +46152,33 @@
           "from": "高柔明於法理",
           "through": "高柔明於法理",
           "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-yaobang-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 17,
+          "from": "今妖言者必戮，告之者輒賞。",
+          "through": "臣愚以為宜除妖謗賞告之法，以隆天父養物之仁。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-jingyuan-si-yuanhou",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 27,
+          "from": "景元四年，年九十薨，謚曰元侯。",
+          "through": "景元四年，年九十薨，謚曰元侯。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-juanchang-jiaoli",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 14,
+          "from": "太祖平袁氏，以柔為菅長。",
+          "through": "咸還，皆自勵，咸為佳吏。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
         }
       ],
       "exclusions": [
