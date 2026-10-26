@@ -49951,6 +49951,36 @@
           "through": "今大赦其家，還使立後。",
           "citation": "《晉書·卷三·武帝紀》",
           "note": "正文層級（武帝紀）：武帝詔謂鄧艾雖矜功失節、然束手受罪，今大赦其家、還使立後。"
+        },
+        {
+          "id": "dengai-wudi-zhao-she-ai-sidneyluo",
+          "work": "jinshu",
+          "source": "a05-003",
+          "paragraph": 2,
+          "from": "鄧艾雖矜功失節，然束手受罪。",
+          "through": "今大赦其家，還使立後。",
+          "citation": "《晉書·卷三·武帝紀》",
+          "note": "正文層級（武帝紀）：泰始元年詔謂鄧艾雖矜功失節、然束手受罪，今大赦其家、還使立後。"
+        },
+        {
+          "id": "dengai-xuandi-qu-ai-nong-suo",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 17,
+          "from": "爾乃取鄧艾於農瑣，",
+          "through": "委以文武，各善其事。",
+          "citation": "《晉書·卷五·懷帝紀》",
+          "note": "正文層級（懷帝紀）：追述宣帝取鄧艾於農瑣、委以文武、各善其事。"
+        },
+        {
+          "id": "dengai-shibao-yu-li",
+          "work": "jinshu",
+          "source": "a05-033-ahcb",
+          "paragraph": 44,
+          "from": "會謁者陽翟郭玄信奉使，求人爲御，司馬以苞及鄧艾給之。",
+          "through": "子後並當至卿相。",
+          "citation": "《晉書·卷三十三·石苞傳》",
+          "note": "正文層級（石苞傳）：鄧艾早年與石苞同為御隸，謁者郭玄信預言二人後並當至卿相。"
         }
       ],
       "exclusions": [
