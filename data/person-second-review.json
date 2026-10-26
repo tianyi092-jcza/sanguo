@@ -47028,7 +47028,41 @@
       "id": "p0065",
       "name": "毌丘儉",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "qj-sgz-mingdiji-zheng-yuan",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 34,
+          "from": "遣幽州刺史毌丘儉率諸軍及鮮卑、烏丸屯遼東南界，璽書徵公孫淵。",
+          "through": "詔儉引軍還。",
+          "citation": "《三國志·明帝紀》所載",
+          "context": "秋七月丁卯",
+          "note": "儉時任幽州刺史，率諸軍及鮮卑、烏丸屯遼東南界，奉璽書徵公孫淵；淵發兵反，儉進軍討之，遇連雨十日、遼水大漲，奉詔引軍還。"
+        },
+        {
+          "id": "qj-sgz-mingdiji-fu-peizhu",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 36,
+          "from": "毌丘儉志記云，",
+          "through": "時以儉為宣王副也。",
+          "citation": "《三國志·明帝紀》所載",
+          "context": "二年春正月",
+          "note": "裴注層：注引毌丘儉志記，司馬宣王帥衆討遼東時，以儉為其副；注文層，不與正文合併。"
+        },
+        {
+          "id": "qj-sgz-gongsunyuan-zheng",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 17,
+          "from": "景初元年，乃遣幽州刺史毌丘儉等齎璽書徵淵。",
+          "through": "儉等不利而還。",
+          "citation": "《三國志·公孫淵傳》所載",
+          "context": "景初元年",
+          "note": "公孫淵傳所載，與明帝紀同事件互證：儉奉璽書徵淵，淵發兵逆戰於遼隧，儉等不利而還。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
