@@ -45120,6 +45120,24 @@
           "from": "郭淮方策精詳，垂問秦、雍。",
           "through": "郭淮方策精詳，垂問秦、雍。",
           "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六》原文"
+        },
+        {
+          "id": "gh-sgz-wenqin-shu-huai-zu",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 10,
+          "from": "時郭淮已卒，欽未知，故有此書。",
+          "through": "時郭淮已卒，欽未知，故有此書。",
+          "citation": "《三國志·卷二十八 ‧ 魏書二十八　王毋丘諸葛鄧鍾傳第二十八》原文"
+        },
+        {
+          "id": "gh-sgz-dengai-ju-jiangwei",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 25,
+          "from": "嘉平元年，與征西將軍郭淮拒蜀偏將軍姜維。",
+          "through": "維退，淮因西擊羌。",
+          "citation": "《三國志·卷二十八 ‧ 魏書二十八　王毋丘諸葛鄧鍾傳第二十八》原文"
         }
       ],
       "exclusions": [
@@ -45131,6 +45149,15 @@
           "term": "郭淮",
           "quote": "郭淮",
           "reason": "僅為本傳小傳標題（人名標目），無史實敘述，排除。"
+        },
+        {
+          "id": "gh-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 12,
+          "term": "郭淮",
+          "quote": "前與毌丘儉、郭淮等俱舉義兵",
+          "reason": "文欽降吳表自稱與毌丘儉、郭淮俱舉義兵，然同卷前文明言其時郭淮已卒（「時郭淮已卒，欽未知，故有此書」），未與舉兵之實，係文欽牽附之辭，排除。"
         }
       ],
       "unresolved": [],
