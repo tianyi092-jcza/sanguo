@@ -47914,6 +47914,33 @@
           "term": "毌丘儉",
           "quote": "東沃沮在高句驪蓋馬大山之東",
           "reason": "本段為東沃沮地理風俗記（地望、風俗、葬俗），全文未提及儉；高句驪僅為地理參照，非儉東征高句驪事，僅因高句驪地名相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-junguo-youzhou-liaodong",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 3,
+          "term": "毌丘儉",
+          "quote": "遼東　玄菟　樂浪　遼東屬國",
+          "reason": "本段為後漢書郡國志幽州郡縣名錄，全文僅列郡縣名、未提及儉；遼東僅為地名，與儉鎮遼東事無關，僅因遼東地名相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-liaodong-guo",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 120,
+          "term": "毌丘儉",
+          "quote": "遼東國秦立爲郡",
+          "reason": "本段為晉書地理志遼東國建置沿革記（秦立郡、漢光武屬青州後還幽州、統縣八），全文未提及儉；遼東僅為地名，與儉鎮遼東事無關，僅因遼東地名相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-liaodong-xianbei-wulu",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 149,
+          "term": "毌丘儉",
+          "quote": "遼東鮮卑圍無慮縣",
+          "reason": "本段記遼東鮮卑圍無慮縣、攻夫犂營殺縣令事，全文未提及儉；遼東僅為地名，與儉鎮遼東事無關，僅因遼東地名相近被向量召回，不錄。"
         }
       ],
       "unresolved": [],
