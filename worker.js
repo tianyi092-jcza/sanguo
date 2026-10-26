@@ -38,6 +38,7 @@ async function proxyGoogle(request, env, ctx) {
   // /api/gtiles/viewport?... → GET https://tile.googleapis.com/tile/v1/viewport?key=...&...
   if (url.pathname === '/api/gtiles/viewport') {
     const params = new URLSearchParams(url.search);
+    params.delete('mt'); // 仅供本 Worker 分缓存用，不传给 Google
     params.set('key', apiKey);
     const resp = await fetch(`${GOOGLE_TILE_HOST}/tile/v1/viewport?${params}`, {
       headers: {
@@ -59,14 +60,17 @@ async function proxyGoogle(request, env, ctx) {
   if (tileMatch) {
     const [, z, x, y] = tileMatch;
     try {
-    // 用不带 session 的 key 查缓存，多用户共享
-    const cacheKey = `https://gtiles-cache.internal/2dtiles/${z}/${x}/${y}`;
+    // 用不带 session 的 key 查缓存，多用户共享；mt 区分底图类型，避免地形/卫星瓦片串缓存
+    const mtParam = new URLSearchParams(url.search).get('mt') || '';
+    const mt = /^[a-z]+$/.test(mtParam) ? mtParam : 'base';
+    const cacheKey = `https://gtiles-cache.internal/2dtiles/${mt}/${z}/${x}/${y}`;
     const cache = caches.default;
     let cached;
     try { cached = await cache.match(cacheKey); } catch (e) { console.error('[gtiles] cache.match error:', e && e.message); }
     if (cached) return cached;
 
     const params = new URLSearchParams(url.search);
+    params.delete('mt'); // 仅供本 Worker 分缓存用，不传给 Google
     params.set('key', apiKey);
     // session 由前端传入（createSession 返回的 token）
     const resp = await fetch(`${GOOGLE_TILE_HOST}/v1/2dtiles/${z}/${x}/${y}?${params}`, {

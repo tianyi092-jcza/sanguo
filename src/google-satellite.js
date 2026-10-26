@@ -1,4 +1,7 @@
-// Google Map Tiles API 2D satellite basemap: WGS-84 / Web Mercator.
+// Google Map Tiles API 2D terrain basemap: WGS-84 / Web Mercator.
+// Google 規定 terrain 會話必須帶 layerRoadmap（否則 createSession 回 400）；
+// 路網改以 styles 把 road/transit 設為不可見去掉（已實測瓦片對比：道路與路牌消失，
+// 山影、等高線、河流與地名保留）。
 // Only Amap uses GCJ-02; keep the application view in WGS-84 when panning.
 const MAP_TILE_SIZE=256;
 const wrapMapLongitude=lon=>((lon+180)%360+360)%360-180;
@@ -101,7 +104,7 @@ class GoogleSatelliteLayer{
     // 经 Cloudflare Worker 代理，API Key 由服务端注入，前端不再携带
     this.pendingSession=requestGoogleJson("/api/gtiles/session",{
       method:"POST",headers:{"Content-Type":"application/json"},
-      body:JSON.stringify({mapType:"satellite",language:this.config.language,region:this.config.region})
+      body:JSON.stringify({mapType:"terrain",language:this.config.language,region:this.config.region,layerTypes:["layerRoadmap"],styles:[{featureType:"road",stylers:[{visibility:"off"}]},{featureType:"transit",stylers:[{visibility:"off"}]}]})
     }).then(data=>{
       const expiry=Number(data.expiry)*1000;
       if(typeof data.session!=="string"||!data.session||!Number.isFinite(expiry)||expiry<=Date.now())throw new Error("Invalid Google Maps session");
@@ -117,7 +120,7 @@ class GoogleSatelliteLayer{
     if(!this.active){this.active=true;$("#googleMapTiles").replaceChildren();this.images.clear();}
     $("#googleMapTiles").hidden=false;
     if(!this.config.apiKey){
-      this.showStatus("Google 衛星圖尚未啟用，請先使用其他底圖。");
+      this.showStatus("Google 地形圖尚未啟用，請先使用其他底圖。");
       $("#googleMapTiles").dataset.state="unconfigured";return;
     }
     if(frame.key===this.requestedKey)return;
@@ -127,7 +130,7 @@ class GoogleSatelliteLayer{
     this.fetching=true;this.blocked=false;this.errorStatus=null;$("#googleMapTiles").dataset.state="loading";
     if(previous&&previous.z!==frame.z)this.clearImages();
     for(const record of this.images.values())this.position(record,frame);
-    if(!this.images.size)this.showStatus("正在載入 Google 衛星圖…");
+    if(!this.images.size)this.showStatus("正在載入 Google 地形圖…");
     else $("#mapTileStatus").hidden=true;
     this.timer=setTimeout(()=>this.loadFrame(frame,revision),180);
   }
@@ -149,9 +152,9 @@ class GoogleSatelliteLayer{
       this.fetching=false;this.blocked=true;this.errorStatus=error.status||0;$("#googleMapTiles").dataset.state="error";
       if(error.status===401||error.status===403)this.session=null;
       const message=error.status===401||error.status===403
-        ?"Google 衛星圖授權未通過，請先使用其他底圖。"
-        :error.status===429?"Google 衛星圖暫時無法提供服務，可稍後重試或切換底圖。"
-        :"Google 衛星圖載入失敗，請檢查連線、重試或切換底圖。";
+        ?"Google 地形圖授權未通過，請先使用其他底圖。"
+        :error.status===429?"Google 地形圖暫時無法提供服務，可稍後重試或切換底圖。"
+        :"Google 地形圖載入失敗，請檢查連線、重試或切換底圖。";
       this.showStatus(message,true);
     }
   }
@@ -169,7 +172,7 @@ class GoogleSatelliteLayer{
         record={img,x,y,loaded:false,failed:false};this.images.set(id,record);
         img.alt="";img.draggable=false;img.width=MAP_TILE_SIZE;img.height=MAP_TILE_SIZE;
         img.style.cssText="position:absolute;width:256px;height:256px;user-select:none";
-        const tileUrl="/api/gtiles/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+new URLSearchParams({session:session.token});
+        const tileUrl="/api/gtiles/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+new URLSearchParams({session:session.token,mt:"terrain"});
         // 用 fetch 加载以便捕获具体 HTTP 错误（img.onerror 拿不到状态码）
         // 并发限4，避免burst触发Google 429
         const loadTile=async (isRetry)=>{
@@ -210,7 +213,7 @@ class GoogleSatelliteLayer{
     for(const[id,record]of this.images)if(!keep.has(id)){record.img.remove();this.images.delete(id);}
     if(!this.images.size){
       this.blocked=true;$("#googleMapTiles").dataset.state="unavailable";
-      this.showStatus("這個範圍沒有此縮放層級的衛星影像，請縮小地圖或切換底圖。");return;
+      this.showStatus("這個範圍沒有此縮放層級的地形資料，請縮小地圖或切換底圖。");return;
     }
     this.updateStatus();
   }
@@ -219,7 +222,7 @@ class GoogleSatelliteLayer{
     const records=[...this.images.values()];
     if(records.some(r=>r.failed)){
       $("#googleMapTiles").dataset.state="error";
-      this.showStatus("部分 Google 衛星影像載入失敗，可重試或切換底圖。",true);
+      this.showStatus("部分 Google 地形圖載入失敗，可重試或切換底圖。",true);
     }else{
       $("#googleMapTiles").dataset.state=records.every(r=>r.loaded)?"ready":"loading";
       if(records.some(r=>r.loaded))$("#mapTileStatus").hidden=true;
@@ -232,10 +235,30 @@ function configureGoogleMapOption(){
   // API Key 已移至 Worker 服务端，前端不再校验，始终启用
   const option=$("#baseSel").querySelector('option[value="google"]');
   option.disabled=false;
-  option.textContent="底圖：Google 衛星";
+  option.textContent="底圖：Google 地形";
+}
+// Google 地形圖與矢量示意圖共用同一經緯度邊界（basemap.view：LON0–LON1 × LAT0–LAT1）。
+// 最小縮放取「覆蓋 fit」（與示意圖 coverVB 同語義：視口覆蓋邊界、一邊貼合、另一邊裁切），
+// 中心鉗制在邊界內：不顯示全球、不橫向重複世界、拖不出邊界。
+function clampGoogleView(width,height){
+  if(!width||!height)return;
+  const bw=(LON1-LON0)/360,bh=mercY(LAT0)-mercY(LAT1);
+  const zFit=Math.max(Math.log2(width/(MAP_TILE_SIZE*bw)),Math.log2(height/(MAP_TILE_SIZE*bh)));
+  const minZ=Math.max(3,Math.floor(zFit));
+  if(view.z<minZ)view.z=minZ;
+  const scale=MAP_TILE_SIZE*2**view.z;
+  const left=(LON0+180)/360*scale,right=(LON1+180)/360*scale;
+  const top=mercY(LAT1)*scale,bottom=mercY(LAT0)*scale;
+  let cx=(wrapMapLongitude(view.lon)+180)/360*scale,cy=mercY(view.lat)*scale;
+  cx=right-left<=width?(left+right)/2:Math.min(Math.max(cx,left+width/2),right-width/2);
+  cy=bottom-top<=height?(top+bottom)/2:Math.min(Math.max(cy,top+height/2),bottom-height/2);
+  view.lon=wrapMapLongitude(cx/scale*360-180);
+  view.lat=mapLatitudeFromPixel(cy,scale);
 }
 function renderGoogleSatellite(){
-  const wrap=$("#mapWrap"),frame=googleViewport(view,wrap.clientWidth,wrap.clientHeight);
+  const wrap=$("#mapWrap");
+  clampGoogleView(wrap.clientWidth,wrap.clientHeight);
+  const frame=googleViewport(view,wrap.clientWidth,wrap.clientHeight);
   $("#mapSvg").style.display="none";$("#tiles").style.display="none";
   const overlay=$("#ovSvg");overlay.replaceChildren();
   drawFeatures(overlay,(lon,lat)=>googleScreenPoint(lon,lat,frame));
