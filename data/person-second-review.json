@@ -46179,6 +46179,33 @@
           "from": "太祖平袁氏，以柔為菅長。",
           "through": "咸還，皆自勵，咸為佳吏。",
           "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-liugui-qinggaozhe",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 22,
+          "from": "柔表請告者名，帝大怒曰",
+          "through": "即還訊，各當其罪。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-gongsunhuang-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 24,
+          "from": "柔上疏曰",
+          "through": "賜以棺、衣，殯歛於宅。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-douli-yuanan",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 26,
+          "from": "乃辭詣廷尉。柔問曰",
+          "through": "班下天下，以禮為戒。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
         }
       ],
       "exclusions": [
