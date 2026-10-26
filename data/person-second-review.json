@@ -51564,6 +51564,22 @@
         "勢力繫年：終身為魏臣、司馬氏心腹謀士，伐蜀為魏朝廷統軍；成都之亂為矯太后遺詔謀廢司馬文王、自圖大事的魏室內部叛亂，非歸蜀、非歸吳；姜維降後籠絡同席僅為會利用之爪牙，不併入姜維名下。",
         "史源覆蓋：《三國志》正文與裴注、《晉書》、《華陽國志》已核；《後漢書》候選皆為同名、地名排除，已核。"
       ]
+    },
+    {
+      "id": "p0070",
+      "name": "司馬懿",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
