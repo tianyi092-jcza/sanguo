@@ -48686,8 +48686,39 @@
       "id": "p0067",
       "name": "諸葛誕",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "zhugedan-dongxing-xiance",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 21,
+          "from": "諸葛誕言於司馬景王曰：「致人而不至於人者，此之謂也。",
+          "through": "比救至，可大獲也。」",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "嘉平四年東興之役前，誕獻策於司馬景王：趁吳內侵，令文舒逼江陵、仲恭向武昌以羈吳之上流，再以精卒攻東興兩城，景王從之。"
+        },
+        {
+          "id": "zhugedan-zhendong-dajiangjun",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 31,
+          "from": "壬子，復特赦淮南士民諸為儉、欽所詿誤者。",
+          "through": "以鎮南將軍諸葛誕為鎮東大將軍。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "正元二年毌丘儉、文欽壽春起兵敗後，朝廷特赦淮南受詿誤士民，並以鎮南將軍諸葛誕升任鎮東大將軍。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhugedan-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 22,
+          "term": "諸葛誕",
+          "quote": "給事鎮東諸葛誕，誕不以為能也，欲遣還護軍。",
+          "reason": "本段為三少帝紀裴注引魏略張特守合肥新城事，誕僅以鎮東將軍舊任背景出現，言其不以張特為能、欲遣還護軍，非誕事蹟主體，不單獨立錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
