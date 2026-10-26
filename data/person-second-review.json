@@ -48157,6 +48157,33 @@
           "term": "毌丘儉",
           "quote": "昌遼，故天遼，屬遼西。何法盛晉書有青城山。　賔徒，故屬遼西。　徒河，故屬遼西。　無慮，有醫無慮山。　險瀆史記曰，王險，衞滿所都。　房",
           "reason": "本段為遼西屬縣地望雜記，全文未提及儉；僅遼西地名與儉鎮遼東相近，與儉事無關，屬向量誤召，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-a03-005-liaoxi-xianbei-jiang",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 219,
+          "term": "毌丘儉",
+          "quote": "遼西鮮卑降。",
+          "reason": "本段僅記遼西鮮卑降事，全文未提及儉；僅遼西地名與儉鎮遼東相近，與儉事無關，屬向量誤召，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-a05-014-ahcb-liaoxi-jun",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 114,
+          "term": "毌丘儉",
+          "quote": "遼西郡秦置。統縣三，戶二千八百。",
+          "reason": "本段為遼西郡建置統縣戶口之地志，全文未提及儉；僅遼西地名與儉鎮遼東相近，與儉事無關，屬向量誤召，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-a05-010-ahcb-cheng-dongfu",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 134,
+          "term": "毌丘儉",
+          "quote": "是歲，城東府。",
+          "reason": "本段僅記是歲城東府事，全文未提及儉；與儉鎮遼東、壽春起兵事無關，屬向量誤召，不錄。"
         }
       ],
       "unresolved": [],
