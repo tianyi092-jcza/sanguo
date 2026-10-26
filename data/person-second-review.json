@@ -47806,6 +47806,33 @@
           "term": "毌丘儉",
           "quote": "高句驪，遼山，遼水出",
           "reason": "本段為郡國志遼東屬縣地理，列高句驪、遼山、遼水、高顯、候城、遼陽等；全文未提及儉，僅因遼東、高句驪地名與儉東征事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-yuanjin-shouchun",
+          "work": "jinshu",
+          "source": "a05-113-ahcb",
+          "paragraph": 23,
+          "term": "毌丘儉",
+          "quote": "晉叛臣袁瑾固守壽春",
+          "reason": "本段記東晉大司馬桓溫圍壽春袁瑾事，全文未提及儉；僅因壽春地名與儉壽春起兵事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-murong-liaodong",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 35,
+          "term": "毌丘儉",
+          "quote": "鮮卑慕容廆襲遼東",
+          "reason": "本段記鮮卑慕容廆襲遼東事，全文未提及儉；僅因遼東、高句驪地名與儉東征高句驪、鎮遼東事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-liaodong-jun",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 79,
+          "term": "毌丘儉",
+          "quote": "遼東國秦立為郡",
+          "reason": "本段為遼東郡沿革與屬縣地理，全文未提及儉；僅因遼東地名與儉鎮遼東事相近被向量召回，不錄為儉之摘錄。"
         }
       ],
       "unresolved": [],
