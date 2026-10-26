@@ -45264,6 +45264,15 @@
           "from": "蜀將姜維攻隴西，車騎將軍郭淮討破之。",
           "through": "蜀將姜維攻隴西，車騎將軍郭淮討破之。",
           "citation": "《晉書》卷十三·志第三"
+        },
+        {
+          "id": "gh-jin-luzhi-biejia",
+          "work": "jinshu",
+          "source": "a05-090-ahcb",
+          "paragraph": 2,
+          "from": "魏車騎將軍郭淮爲雍州刺史，深敬重之。",
+          "through": "魏車騎將軍郭淮爲雍州刺史，深敬重之。",
+          "citation": "《晉書》卷九十·魯芝傳"
         }
       ],
       "exclusions": [
@@ -45293,6 +45302,24 @@
           "term": "淮",
           "quote": "必以淮北為守",
           "reason": "此段為滿寵合肥移城之議，「淮北」指淮水以北之地，非指郭淮其人；段中亦無郭淮史實，係本傳卷內單字「淮」誤觸，排除。"
+        },
+        {
+          "id": "gh-excl-004",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 10,
+          "term": "郭淮",
+          "quote": "雍州刺史郭淮等討亮",
+          "reason": "此段宣帝紀祁山討亮句與已錄 gh-jin-yongzhou-tao-liang（a05-001-ahcb:21）同文異版，僅分段與用字有異，內容已錄，為避免重複錄入而排除本版段落。"
+        },
+        {
+          "id": "gh-excl-005",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 12,
+          "term": "郭淮",
+          "quote": "雍州刺史郭淮共備陽遂",
+          "reason": "此段宣帝紀陽遂備亮句與已錄 gh-jin-yang-sui-bei-liang（a05-001-ahcb:24）同文異版，內容已錄，為避免重複錄入而排除本版段落。"
         }
       ],
       "unresolved": [],
