@@ -50041,6 +50041,36 @@
           "through": "是吾褊也。",
           "citation": "《晉書·卷四十二·王濬傳》",
           "note": "正文層級（王濬傳）：王濬自言因懼鄧艾之事、畏禍及身，才不得不在進見時言功訴枉，自認此為褊狹。"
+        },
+        {
+          "id": "dengai-tangbin-mi-cha-ai",
+          "work": "jinshu",
+          "source": "a05-042",
+          "paragraph": 38,
+          "from": "初，鄧艾之誅也",
+          "through": "願無以爲慮。",
+          "citation": "《晉書·卷四十二·唐彬傳》",
+          "note": "正文層級（唐彬傳）：文帝恐鄧艾被誅後隴右搔動，命唐彬密察；彬覆命稱艾忌克詭狹、失人心，隴右患苦、喜聞其禍，諸軍已至足可鎮壓。"
+        },
+        {
+          "id": "dengai-fuzhi-jihe-lun",
+          "work": "jinshu",
+          "source": "a05-047-ahcb",
+          "paragraph": 24,
+          "from": "自魏黃初大水之後",
+          "through": "至是復浸壞。",
+          "citation": "《晉書·卷四十七·傅祗傳》",
+          "note": "正文層級（傅祗傳）：傅祗為滎陽太守時，言自魏黃初大水後河濟汎溢，鄧艾嘗著濟河論、開石門而通之，至是復浸壞，祗乃造沈萊堰。"
+        },
+        {
+          "id": "dengai-duanzhuo-ai-zhenxi-sima",
+          "work": "jinshu",
+          "source": "a05-048-ahcb",
+          "paragraph": 4,
+          "from": "稍遷鄧艾鎮西司馬",
+          "through": "累遷議郎。",
+          "citation": "《晉書·卷四十八·段灼傳》",
+          "note": "正文層級（段灼傳）：段灼稍遷鄧艾鎮西司馬，從艾破蜀有功，封關內侯，累遷議郎。"
         }
       ],
       "exclusions": [
