@@ -46080,9 +46080,37 @@
           "from": "初，脩識高柔於弱冠，異王基於幼童，終皆遠至，世稱其知人。",
           "through": "初，脩識高柔於弱冠，異王基於幼童，終皆遠至，世稱其知人。",
           "citation": "《三國志·魏書十一·王脩傳》"
+        },
+        {
+          "id": "gaorou-jinshu-jiajie",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 29,
+          "from": "於是假司徒高柔節，行大將軍事，領爽營，謂柔曰：「君為周勃矣。」",
+          "through": "於是假司徒高柔節，行大將軍事，領爽營，謂柔曰：「君為周勃矣。」",
+          "citation": "《晉書·卷一·武帝紀》"
+        },
+        {
+          "id": "gaorou-jinshu-shouxiangguo",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 13,
+          "from": "二年秋八月甲寅，天子使太尉高柔授帝相國印綬，司空鄭沖致晉公茅土九錫，固辭。",
+          "through": "二年秋八月甲寅，天子使太尉高柔授帝相國印綬，司空鄭沖致晉公茅土九錫，固辭。",
+          "citation": "《晉書·卷二·文帝紀》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "gaorou-excl-001",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 61,
+          "term": "高柔",
+          "quote": "於是假司徒高柔節，行大將軍事，領爽營，謂柔曰：「君爲周勃矣。」",
+          "reason": "與 sidneyluo 本《晉書》卷一 a05-001:29 同事同句，僅底本異文（四庫本）；本輪已按 sidneyluo 本錄為摘錄，此條排除以免重複錄入。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
