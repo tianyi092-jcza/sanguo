@@ -51602,9 +51602,41 @@
           "citation": "《三國志·卷二十一 ‧ 魏書二十一　王衛二劉傅傳第二十一　吳質傳》",
           "context": "太和四年",
           "note": "太和四年（230年），吳質入為侍中，向明帝盛稱驃騎將軍司馬懿忠智至公、社稷之臣，而謂陳羣非國相之才；明帝納之，次日即切詔督責陳羣。此為吳質當時之言，見朝議對司馬懿之推重。"
+        },
+        {
+          "id": "ce-sgz-houzhuzhuan-simayi-gonghanzhong",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 9,
+          "from": "八年秋，魏使司馬懿由西城，張郃由子午，曹真由斜谷",
+          "through": "大雨道絕，真等皆還。",
+          "citation": "《三國志·卷三十三 ‧ 蜀書三　後主傳第三》",
+          "context": "八年秋",
+          "note": "建興八年（230年）秋，魏分三路攻漢中，司馬懿由西城一路；諸葛亮守城固、赤阪待之，遇大雨道絕，魏軍皆還。見司馬懿此時已任對蜀方面主將之一。"
+        },
+        {
+          "id": "ce-sgz-houzhuzhuan-simayi-jiuqishan",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 10,
+          "from": "魏司馬懿、張郃救祁山。",
+          "through": "魏司馬懿、張郃救祁山。",
+          "citation": "《三國志·卷三十三 ‧ 蜀書三　後主傳第三》",
+          "context": "九年春二月",
+          "note": "建興九年（231年）春，諸葛亮圍祁山，魏以司馬懿、張郃赴救；其後亮糧盡退軍，張郃追戰而死。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "simayi-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 0,
+          "term": "司馬仲達",
+          "quote": "誠非陳長文、司馬仲達所能頡頏",
+          "reason": "此為裴注評諸葛亮之語，僅以司馬仲達為比較對象，未記司馬懿本人事蹟，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
