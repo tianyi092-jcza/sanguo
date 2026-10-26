@@ -52297,7 +52297,28 @@
       "id": "p0072",
       "name": "司馬昭",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "smz-sg-260-1",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 59,
+          "from": "帝見威權日去",
+          "through": "今日當與卿等自出討之。」",
+          "citation": "《三國志·魏書四·三少帝紀》裴注",
+          "note": "裴注層：裴注引《漢晉春秋》——甘露五年（260），高貴鄉公曹髦稱「司馬昭之心，路人所知也」，欲自出討之。"
+        },
+        {
+          "id": "smz-sg-260-2",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 59,
+          "from": "文王聞",
+          "through": "天下其謂我何！」",
+          "citation": "《三國志·魏書四·三少帝紀》裴注",
+          "note": "裴注層：裴注引《漢晉春秋》——曹髦被殺後，文王（司馬昭）聞訊大驚，自投於地曰「天下其謂我何」。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
