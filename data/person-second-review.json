@@ -47094,9 +47094,41 @@
           "citation": "《三國志·毌丘儉傳》所載",
           "context": "是日",
           "note": "本傳所載：儉、欽兵敗後，儉聞欽戰敗恐懼夜走，衆潰，北至鎮縣獨與小弟秀及孫重藏水邊草中，為安風津都尉部民張屬射殺，傳首京都。"
+        },
+        {
+          "id": "qj-sgz-zhugedan-shouchun",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 16,
+          "from": "後毌丘儉、文欽反，遣使詣誕，招呼豫州士民。",
+          "through": "儉、欽之破也，誕先至壽春。",
+          "citation": "《三國志·諸葛誕傳》所載",
+          "context": "後毌丘儉、文欽反",
+          "note": "諸葛誕傳所載：儉、欽反後遣使招呼豫州士民，誕斬其使、露布天下；大將軍司馬景王東征，使誕督豫州諸軍渡安風津向壽春，儉、欽敗後誕先至壽春。"
+        },
+        {
+          "id": "qj-sgz-wuwan-weilue-liaodong",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 4,
+          "from": "魏畧曰：景初元年秋，遣幽州刺史毌丘儉率衆軍討遼東。",
+          "through": "封其渠帥三十餘為王，賜輿馬繒采各有差。",
+          "citation": "《三國志·烏丸傳》所載",
+          "context": "魏畧曰",
+          "note": "裴注層：注引魏畧，景初元年秋遣幽州刺史儉率衆軍討遼東，右北平、遼西烏丸聞儉軍至率衆降，渠帥三十餘封王；注文層，不與正文合併。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "guanqiujian-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 17,
+          "term": "毌丘儉",
+          "quote": "王淩、毌丘儉累見夷滅",
+          "reason": "本段為諸葛誕傳敘事，提及儉僅為誕懼不自安之背景，非儉事蹟；儉敗亡已見本傳 a04-028:10 所錄，不重複錄入。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
