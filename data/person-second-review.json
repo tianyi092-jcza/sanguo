@@ -46125,6 +46125,24 @@
           "from": "秋九月，太尉高柔薨。",
           "through": "秋九月，太尉高柔薨。",
           "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "gaorou-tingwei-qingxun",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 29,
+          "from": "守廷尉高柔等並表「勛父信有功於太祖」，求請勛罪。",
+          "through": "守廷尉高柔等並表「勛父信有功於太祖」，求請勛罪。",
+          "citation": "《三國志·魏書十二·鮑勛傳》"
+        },
+        {
+          "id": "gaorou-zi-wenhui",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 13,
+          "from": "高柔字文惠，陳留圉人也。父靖，為蜀郡都尉。",
+          "through": "高柔字文惠，陳留圉人也。父靖，為蜀郡都尉。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
         }
       ],
       "exclusions": [
@@ -46136,6 +46154,15 @@
           "term": "高柔",
           "quote": "於是假司徒高柔節，行大將軍事，領爽營，謂柔曰：「君爲周勃矣。」",
           "reason": "與 sidneyluo 本《晉書》卷一 a05-001:29 同事同句，僅底本異文（四庫本）；本輪已按 sidneyluo 本錄為摘錄，此條排除以免重複錄入。"
+        },
+        {
+          "id": "gaorou-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 12,
+          "term": "高柔",
+          "quote": "高柔傳",
+          "reason": "僅卷首傳名標題，無史事內容，不作摘錄；本傳正文自次段起錄。"
         }
       ],
       "unresolved": [],
