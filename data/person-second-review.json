@@ -48685,7 +48685,7 @@
     {
       "id": "p0067",
       "name": "諸葛誕",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "zhugedan-dongxing-xiance",
@@ -49395,17 +49395,27 @@
           "term": "諸葛公休",
           "quote": "姜伯約比中州名士夏侯太\n初諸葛公休不如也",
           "reason": "本段主角為姜維降附與鍾會圖謀事，誕僅為杜預以中州名士比況姜維的參照對象，無誕本人事蹟，不另立錄。"
+        },
+        {
+          "id": "zhugedan-excl-044",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 23,
+          "term": "郭誕",
+          "quote": "謁者陽翟郭玄信，武帝監軍郭誕元弈之子。",
+          "reason": "本段為鄧艾傳世語，述郭玄信家世：郭誕元弈為郭玄信之父、武帝監軍，與諸葛誕姓不同，僅同「誕」一字，非本人，不另立錄。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [],
+      "completedAt": "2026-10-26T13:54:30.190Z"
     }
   ]
 }
