@@ -50685,6 +50685,36 @@
           "through": "四年，鍾會、鄧艾伐蜀，剋之。二將反亂，皆誅。",
           "citation": "《晉書·天文志》所載",
           "note": "天文志占驗附述：景元三年彗星見亢之占，次年鍾會、鄧艾伐蜀克之，後二將反亂皆誅。僅取占應追述句，星占對應不作史實。"
+        },
+        {
+          "id": "ce-jinshu-tianwen-zhonghui-liuxing-erxing",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 82,
+          "from": "元帝景元四年六月，有大流星二並如斗，見西方，分流南北，光照地，隆隆有聲。",
+          "through": "鍾會既叛，三軍憤怒，隆隆有聲，兵將怒之徵也。",
+          "citation": "《晉書·天文志》所載",
+          "note": "天文志占驗附述：景元四年六月流星二並見西方、分流南北之占，謂二星蓋二帥之象、二帥相背為分流南北之應，鍾會既叛、三軍憤怒為隆隆有聲之徵。僅取占應追述句，星占對應不作史實。"
+        },
+        {
+          "id": "ce-jinshu-weiguan-zhonghui-yinhuai-yizhi",
+          "work": "jinshu",
+          "source": "a05-036-full",
+          "paragraph": 4,
+          "from": "鄧艾、鍾會之伐蜀也，瓘以本官持節監艾、會軍事",
+          "through": "會以瓘兵少，欲令艾殺瓘，因加艾罪。",
+          "citation": "《晉書·卷三十六·衛瓘傳》",
+          "note": "衛瓘傳所載：伐蜀後鍾會陰懷異志，因艾專擅密與瓘俱奏其狀，遣瓘先收艾並欲借艾殺瓘。僅取會謀艾一段，瓘夜收艾以下不錄。"
+        },
+        {
+          "id": "ce-jinshu-luoxian-zhonghui-si-baicheng-wuzhu",
+          "work": "jinshu",
+          "source": "a05-057-ahcb",
+          "paragraph": 1,
+          "from": "及鍾會、鄧艾死",
+          "through": "百城無主，",
+          "citation": "《晉書·卷五十七·羅憲傳》",
+          "note": "羅憲傳所載：鍾會、鄧艾死後，蜀地百城無主，吳趁機西上攻羅憲所守之永安。僅取會死後蜀地無主一句，不錄羅憲守城全事。"
         }
       ],
       "exclusions": [],
