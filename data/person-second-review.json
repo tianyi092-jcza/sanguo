@@ -47023,6 +47023,22 @@
         "勢力繫年：終身為魏臣，謀廢齊王、謀立楚王彪屬魏室內部廢立，未轉投吳、蜀；晉書宣帝紀、文帝紀、武帝紀及天文志、五行志的追述與徵驗，僅作互證或背景排除，不另立新事實。",
         "史源覆蓋：《三國志》正文與裴注、《晉書》已核；《後漢書》、《華陽國志》全語料無「王凌／王淩」全字名段落，故標已核。"
       ]
+    },
+    {
+      "id": "p0065",
+      "name": "毌丘儉",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
