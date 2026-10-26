@@ -48681,6 +48681,22 @@
         "勢力繫年：先為魏臣，壽春起兵為魏室內部反司馬氏之舉兵，非歸蜀；敗走入吳後為吳臣，入吳授官與被殺不併入毌丘儉名下。",
         "史源覆蓋：《三國志》正文與裴注、《晉書》已核；《後漢書》《華陽國志》本輪向量候選為 0，故標已核。"
       ]
+    },
+    {
+      "id": "p0067",
+      "name": "諸葛誕",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
