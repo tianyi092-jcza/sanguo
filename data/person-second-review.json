@@ -52828,7 +52828,35 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "sml-pei-heng",
+          "work": "peizhu",
+          "source": "a04-010",
+          "paragraph": 4,
+          "from": "或問之曰：「何不從陳長文、司馬伯達乎？」",
+          "through": "衡曰：「卿欲使我從屠沽兒輩也！」",
+          "citation": "《三國志·魏書十 荀彧傳》裴注引《典略》及《平原禰衡傳》"
+        },
+        {
+          "id": "sml-hhs-identity",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 47,
+          "from": "司馬朗字伯達",
+          "through": "河內溫人。",
+          "citation": "《後漢書·禰衡傳》"
+        },
+        {
+          "id": "sml-sg-cuiyan",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 7,
+          "from": "始琰與司馬朗善",
+          "through": "殆非子之所及也。」",
+          "citation": "《三國志·魏書十二 崔琰傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "conclusions": []
