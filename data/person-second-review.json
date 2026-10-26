@@ -45378,8 +45378,37 @@
       "id": "p0059",
       "name": "牽招",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "qz-sgz-wendi-hu-xianbei",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 13,
+          "from": "乃使豫持節護烏丸校尉，牽招、解儁并護鮮卑。",
+          "through": "乃使豫持節護烏丸校尉，牽招、解儁并護鮮卑。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六》原文"
+        },
+        {
+          "id": "qz-sgz-bio-early",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 19,
+          "from": "牽招字子經，安平觀津人也。",
+          "through": "由此顯名。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六》原文"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "qz-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 18,
+          "term": "牽招",
+          "quote": "牽招",
+          "reason": "僅為本傳小傳標題（人名標目），無史實敘述，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
