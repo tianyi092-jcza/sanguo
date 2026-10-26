@@ -48235,8 +48235,38 @@
       "id": "p0066",
       "name": "文欽",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "wenqin-shaodiji-zhengyuan-er",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 31,
+          "from": "二年春正月乙丑，鎮東將軍毌丘儉、楊州刺史文欽反。",
+          "through": "欽遁走，遂奔吳。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "欽時任揚州刺史，與鎮東將軍毌丘儉於正元二年正月起兵反司馬師；司馬景王親征，閏月破欽於樂嘉，欽遁走奔吳。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "wenqin-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 44,
+          "term": "文欽",
+          "quote": "又遣文欽令還淮南，皆謐之計。",
+          "reason": "本段為曹爽傳裴注引魏略丁謐事，遣欽還淮南僅為謐計之一端、非欽事蹟主體，不單獨立錄。"
+        },
+        {
+          "id": "wenqin-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 7,
+          "term": "文欽",
+          "quote": "正元中，毌丘儉、文欽反，毓持節至揚、豫州班行赦令，告諭士民",
+          "reason": "本段為鍾毓傳敘事，欽反僅為毓班行赦令之背景；欽起兵本事已見 a04-004:31 所錄，不重複錄入。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
