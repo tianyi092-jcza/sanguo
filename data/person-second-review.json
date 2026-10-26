@@ -52816,6 +52816,22 @@
         "勢力繫年：終身為魏臣，歷事文帝、明帝、三少帝，輔佐司馬氏執政而未自立；武帝受禪後為晉太傅、太宰，封安平王，死之日自稱「有魏貞士」，不把晉室建立記為其自立事蹟。",
         "史源覆蓋：《三國志》正文與裴注、《晉書》卷三十七本傳及卷二十禮志已核；《後漢書》《華陽國志》無孚相關段落可錄；向量候選為 0 且本傳補齊無殘留，故五項皆標已核。"
       ]
+    },
+    {
+      "id": "p0074",
+      "name": "司馬朗",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "conclusions": []
     }
   ]
 }
