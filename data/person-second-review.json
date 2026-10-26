@@ -51816,6 +51816,36 @@
           "through": "遷侍中、尚書右僕射。",
           "citation": "《晉書》卷一·宣帝紀",
           "note": "黃初二年督軍官罷，懿遷侍中、尚書右僕射。"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-nanxun-liuzhen",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 6,
+          "from": "五年，天子南巡，觀兵吳疆。",
+          "through": "加給事中、錄尚書事。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "天子南巡觀兵吳疆，帝留鎮許昌，改封向鄉侯，轉撫軍、假節，領兵五千，加給事中、錄尚書事；帝固辭，天子以分憂慰之。"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-guming-fuzheng",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 7,
+          "from": "及天子疾篤，帝與曹真、陳羣等見於崇華殿之南堂，並受顧命輔政。",
+          "through": "明帝即位，改封舞陽侯。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "天子疾篤，帝與曹真、陳羣等於崇華殿南堂並受顧命輔政；天子詔太子曰有間此三公者慎勿疑之，明帝即位後改封懿為舞陽侯。"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-mengda-beidao",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 8,
+          "from": "乃倍道兼行，八日到其城下。",
+          "through": "斬達，傳首京師。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "帝倍道兼行，八日到新城城下，分諸軍拒吳蜀援軍；渡水破柵、直造城下，八道攻之旬有六日，達甥鄧賢、將李輔等開門出降，斬達傳首京師。"
         }
       ],
       "exclusions": [
