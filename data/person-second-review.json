@@ -45690,6 +45690,24 @@
           "from": "乃遣骨鯁臣衛尉辛毗杖節爲軍師以制之。",
           "through": "毗杖節立軍門，帝乃止。",
           "citation": "《晉書·卷一·宣帝紀》"
+        },
+        {
+          "id": "xinpi-jin-xuandi-yi-liang-si",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 26,
+          "from": "辛毗以爲尚未可知。",
+          "through": "宜急追之。",
+          "citation": "《晉書·卷一·宣帝紀》"
+        },
+        {
+          "id": "xinpi-sgz-ping-xiabian-canzhi",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 2,
+          "from": "乆之，太祖遣都護曹洪平下辯，使毗與曹休參之，",
+          "through": "軍還，為丞相長史。",
+          "citation": "《三國志·魏書二十五·辛毗傳》"
         }
       ],
       "exclusions": [
@@ -45719,6 +45737,15 @@
           "term": "辛毗",
           "quote": "辛毗傳",
           "reason": "本段僅為《三國志·魏書二十五·辛毗傳》篇題，無史事內容，排除。"
+        },
+        {
+          "id": "xinpi-excl-004",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 12,
+          "term": "辛毗",
+          "quote": "辛毗杖節為軍師以制之",
+          "reason": "本段為《晉書·卷一·宣帝紀》另一底本長段，其辛毗相關內容（杖節制軍、疑諸葛亮死）已分別見 a05-001-ahcb:25 及本輪新錄 :26，其餘為司馬懿與諸葛亮渭南對峙、楊儀魏延爭權事，未載辛毗本人其他事蹟，排除以免與四庫本重複。"
         }
       ],
       "unresolved": [],
