@@ -49861,6 +49861,36 @@
           "through": "得免。",
           "citation": "《三國志·董允傳》",
           "note": "正文層級（董允傳）：鄧艾至蜀後聞黃皓姦險、收閉將殺之，皓厚賂艾左右得免。此段記平蜀後鄧艾處置黃皓事，非鄧艾本傳正文。"
+        },
+        {
+          "id": "dengai-huangchong-ju-ai-mianzhu-si",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 4,
+          "from": "權留蜀子崇，為尚書郎，隨衞將軍諸葛瞻拒鄧艾。",
+          "through": "臨陣見殺。",
+          "citation": "《三國志·黃權傳》所載",
+          "note": "正文層級（黃權傳）：黃權子崇隨諸葛瞻拒鄧艾，艾長驅而前，瞻敗於緜竹，崇帥厲軍士臨陣見殺。此段記鄧艾破瞻、入蜀經過中黃崇戰死事。"
+        },
+        {
+          "id": "dengai-jiangbin-yu-hui-fu",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 7,
+          "from": "後主旣降鄧艾，斌詣會於涪，待以交友之禮。",
+          "through": "為亂兵所殺。",
+          "citation": "《三國志·蔣琬傳》所載",
+          "note": "正文層級（蔣琬傳附子斌）：後主降鄧艾後，蔣斌詣鍾會於涪，隨會至成都為亂兵所殺。此段記降艾後蔣斌之死，非鄧艾本傳正文。"
+        },
+        {
+          "id": "dengai-yinping-jinggu-po-zhan-ju-chengdu",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 21,
+          "from": "鄧艾自陰平由景谷道傍入，遂破諸葛瞻於緜竹。",
+          "through": "艾前據成都。",
+          "citation": "《三國志·姜維傳》所載",
+          "note": "正文層級（姜維傳）：鄧艾自陰平由景谷道傍入，破諸葛瞻於緜竹，後主請降於艾，艾前據成都。此段記鄧艾陰平入蜀、破瞻、據成都事。"
         }
       ],
       "exclusions": [
