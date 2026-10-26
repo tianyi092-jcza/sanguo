@@ -45048,6 +45048,33 @@
           "from": "乃使郭淮、陳泰悉關中之衆，解狄道之圍",
           "through": "姜維聞淮進兵，軍食少，乃退屯隴西界。",
           "citation": "《三國志·卷四 ‧ 魏書四　三少帝紀第四》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "gh-sgz-guo-huai-death",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 31,
+          "from": "癸未，車騎將軍郭淮薨。",
+          "through": "癸未，車騎將軍郭淮薨。",
+          "citation": "《三國志·卷四 ‧ 魏書四　三少帝紀第四》原文"
+        },
+        {
+          "id": "gh-pei-weilue-xiahou-ba-flight",
+          "work": "peizhu",
+          "source": "a04-009",
+          "paragraph": 14,
+          "from": "霸聞曹爽被誅而玄又徵，以為禍必轉相及，心旣內恐；又霸先與雍州刺史郭淮不和，而淮代玄為征西，霸尤不安，故遂奔蜀。",
+          "through": "霸聞曹爽被誅而玄又徵，以為禍必轉相及，心旣內恐；又霸先與雍州刺史郭淮不和，而淮代玄為征西，霸尤不安，故遂奔蜀。",
+          "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九》裴注引《魏略》"
+        },
+        {
+          "id": "gh-pei-weilue-hanpin-anecdote",
+          "work": "peizhu",
+          "source": "a04-011",
+          "paragraph": 38,
+          "from": "車騎將軍郭淮以意氣呼之，問其所欲，亦不肯言。",
+          "through": "淮因與脯糒及衣，不取其衣，取其脯一朐、糒一升而止。",
+          "citation": "《三國志·卷十一 ‧ 魏書十一　袁張涼國田王邴管傳第十一》裴注引《魏略》"
         }
       ],
       "exclusions": [],
