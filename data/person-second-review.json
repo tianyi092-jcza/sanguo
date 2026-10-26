@@ -45795,7 +45795,35 @@
       "id": "p0061",
       "name": "楊阜",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yangfu-hhs-weizhi-pochao",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 36,
+          "from": "魏志曰：「阜字義山，天水兾人也。",
+          "through": "超遂南奔張魯。」",
+          "citation": "《後漢書》卷七十二·董卓傳（注引魏志）"
+        },
+        {
+          "id": "yangfu-sgz-mingdi-jian-gongshi",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 26,
+          "from": "是時，大治洛陽宮，起昭陽、太極殿，築緫章觀。",
+          "through": "雖不能聽，常優容之。",
+          "citation": "《三國志·魏書三·明帝紀》"
+        },
+        {
+          "id": "yangfu-pei-sunsheng-yinshi-bibing",
+          "work": "peizhu",
+          "source": "a04-005",
+          "paragraph": 12,
+          "from": "陳羣雖抗言，楊阜引事比並，",
+          "through": "忠至之辭，猶有闕乎！",
+          "citation": "《三國志·魏書五·后妃傳》裴注孫盛評"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
