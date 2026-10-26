@@ -44832,6 +44832,33 @@
           "from": "魏書曰：愚字公浩，本名浚，黃初中，為和戎護軍。",
           "through": "遂以名之。",
           "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "ty-sgz-wuhuan-xiaowei",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 7,
+          "from": "文帝踐阼，田豫為烏丸校尉，持節并護鮮卑，屯昌平。",
+          "through": "步度根部衆稍寡弱，將其衆萬餘落保太原、鴈門郡。",
+          "citation": "《三國志·卷三十 ‧ 魏書三十　烏丸鮮卑東夷傳第三十》原文"
+        },
+        {
+          "id": "ty-sgz-tianyu-hehe",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 9,
+          "from": "田豫和合，使不得相侵。",
+          "through": "帝復使豫招納安慰。",
+          "citation": "《三國志·卷三十 ‧ 魏書三十　烏丸鮮卑東夷傳第三十》原文"
+        },
+        {
+          "id": "ty-sgz-zhan-zhouhe-chengshan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 30,
+          "from": "三月，遣將軍周賀、校尉裴潛乘海之遼東。",
+          "through": "秋九月，魏將田豫要擊，斬賀于成山。",
+          "citation": "《三國志·卷四十七 ‧ 吳書二　吳主傳第二》原文"
         }
       ],
       "exclusions": [],
