@@ -45273,6 +45273,24 @@
           "from": "魏車騎將軍郭淮爲雍州刺史，深敬重之。",
           "through": "魏車騎將軍郭淮爲雍州刺史，深敬重之。",
           "citation": "《晉書》卷九十·魯芝傳"
+        },
+        {
+          "id": "gh-hygz-chenjie-wudu",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 8,
+          "from": "丞相亮遣䕶軍陳戒攻武都隂平魏雍州刺史郭淮",
+          "through": "淮退遂平二郡",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "gh-hygz-weiyan-yangxi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 9,
+          "from": "魏延將軍呉懿西入羗中大破魏後將軍費擢雍州",
+          "through": "刺史郭淮于陽谿",
+          "citation": "《華陽國志》卷七·劉後主志"
         }
       ],
       "exclusions": [
@@ -45320,6 +45338,15 @@
           "term": "郭淮",
           "quote": "雍州刺史郭淮共備陽遂",
           "reason": "此段宣帝紀陽遂備亮句與已錄 gh-jin-yang-sui-bei-liang（a05-001-ahcb:24）同文異版，內容已錄，為避免重複錄入而排除本版段落。"
+        },
+        {
+          "id": "gh-excl-006",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 19,
+          "term": "郭淮",
+          "quote": "淮攻維別將句安於麴，久而不決。",
+          "reason": "此段為《晉書》卷二文帝紀句安事的四庫本段落，與已錄 gh-jin-qu-ju-an 所述同事同文，內容已錄，為避免重複錄入而排除本版段落。"
         }
       ],
       "unresolved": [],
