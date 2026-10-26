@@ -45573,6 +45573,33 @@
           "from": "及引致當世知名郗慮、華歆、王朗、荀恱、杜襲、辛毗、趙儼之儔，終為卿相，以十數人。",
           "through": "及引致當世知名郗慮、華歆、王朗、荀恱、杜襲、辛毗、趙儼之儔，終為卿相，以十數人。",
           "citation": "《三國志·魏書十·荀彧傳》"
+        },
+        {
+          "id": "xinpi-sgz-xunyou-tan-qiujiang",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 19,
+          "from": "譚遣辛毗乞降請救，太祖將許之，以問羣下。",
+          "through": "譚遣辛毗乞降請救，太祖將許之，以問羣下。",
+          "citation": "《三國志·魏書十·荀攸傳》"
+        },
+        {
+          "id": "xinpi-sgz-baoxun-qingzui",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 29,
+          "from": "太尉鍾繇、司徒華歆、鎮軍大將軍陳羣、侍中辛毗、尚書衞臻、守廷尉高柔等並表「勛父信有功於太祖」，求請勛罪。",
+          "through": "太尉鍾繇、司徒華歆、鎮軍大將軍陳羣、侍中辛毗、尚書衞臻、守廷尉高柔等並表「勛父信有功於太祖」，求請勛罪。",
+          "citation": "《三國志·魏書十二·鮑勛傳》"
+        },
+        {
+          "id": "xinpi-sgz-guojia-tan-qiujiang",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 12,
+          "from": "譚為尚軍所敗，走保平原，遣辛毗乞降。太祖還救之，遂從定鄴。",
+          "through": "譚為尚軍所敗，走保平原，遣辛毗乞降。太祖還救之，遂從定鄴。",
+          "citation": "《三國志·魏書十四·郭嘉傳》"
         }
       ],
       "exclusions": [
