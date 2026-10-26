@@ -52855,6 +52855,33 @@
           "from": "始琰與司馬朗善",
           "through": "殆非子之所及也。」",
           "citation": "《三國志·魏書十二 崔琰傳》"
+        },
+        {
+          "id": "sml-sg-lishao",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 6,
+          "from": "後關東兵起，故兾州刺史李邵家居野王",
+          "through": "或為冦鈔。",
+          "citation": "《三國志·魏書十五 司馬朗傳》"
+        },
+        {
+          "id": "sml-sg-yangjun",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 13,
+          "from": "又司馬朗早有聲名",
+          "through": "實理但有優耳。」",
+          "citation": "《三國志·魏書二十三 楊俊傳》"
+        },
+        {
+          "id": "sml-sg-wangling",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 2,
+          "from": "初，淩與司馬朗、賈逵友善",
+          "through": "繼其名跡。",
+          "citation": "《三國志·魏書二十八 王淩傳》"
         }
       ],
       "exclusions": [],
