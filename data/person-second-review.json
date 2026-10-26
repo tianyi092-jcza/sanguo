@@ -47833,6 +47833,33 @@
           "term": "毌丘儉",
           "quote": "遼東國秦立為郡",
           "reason": "本段為遼東郡沿革與屬縣地理，全文未提及儉；僅因遼東地名與儉鎮遼東事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-feishui-shouchun",
+          "work": "jinshu",
+          "source": "a05-114-ahcb",
+          "paragraph": 14,
+          "term": "毌丘儉",
+          "quote": "融等攻陷壽春",
+          "reason": "本段記淝水之戰苻融、謝石等事，全文未提及儉；僅因壽春地名與儉壽春起兵事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-shizun-shouchun",
+          "work": "jinshu",
+          "source": "a05-107-ahcb",
+          "paragraph": 18,
+          "term": "毌丘儉",
+          "quote": "晉西中郎將陳逵進據壽春",
+          "reason": "本段記石遵遣李農拒晉、陳逵進據壽春事，全文未提及儉；僅因壽春地名與儉壽春起兵事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-jianlin-wu",
+          "work": "jinshu",
+          "source": "a05-037",
+          "paragraph": 14,
+          "term": "毌丘儉",
+          "quote": "望性儉吝而好聚斂",
+          "reason": "本段主角為望，「儉吝」之儉為形容其性吝，與毌丘儉無關；孫皓向壽春事亦與儉無關，係壽春地名與「儉」字誤召，不錄為儉之摘錄。"
         }
       ],
       "unresolved": [],
