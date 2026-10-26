@@ -47779,6 +47779,33 @@
           "term": "毌丘儉",
           "quote": "賜延書與車駕會壽春",
           "reason": "本段記漢章和元年帝幸九江、阜陵王延會於壽春事，屬漢代舊事；全文未提及儉，僅因壽春地名被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-sgz-zhugedan-shouchun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 36,
+          "term": "毌丘儉",
+          "quote": "諸葛誕據壽春以叛",
+          "reason": "本段記諸葛誕據壽春以叛、姜維率衆出駱谷事；全文未提及儉，壽春起兵主角為諸葛誕而非儉（儉壽春起兵已見本傳所錄），僅因壽春地名相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-huanwen-shouchun",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 89,
+          "term": "毌丘儉",
+          "quote": "桓溫征壽春，真病死",
+          "reason": "本段記晉海西太和四年至六年桓溫征壽春、袁真病死、壽春城陷事，時代在儉二百餘年後；全文未提及儉，僅因壽春地名被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-hhs-junguo-liaodong",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 91,
+          "term": "毌丘儉",
+          "quote": "高句驪，遼山，遼水出",
+          "reason": "本段為郡國志遼東屬縣地理，列高句驪、遼山、遼水、高顯、候城、遼陽等；全文未提及儉，僅因遼東、高句驪地名與儉東征事相近被向量召回，不錄為儉之摘錄。"
         }
       ],
       "unresolved": [],
