@@ -49981,6 +49981,36 @@
           "through": "子後並當至卿相。",
           "citation": "《晉書·卷三十三·石苞傳》",
           "note": "正文層級（石苞傳）：鄧艾早年與石苞同為御隸，謁者郭玄信預言二人後並當至卿相。"
+        },
+        {
+          "id": "dengai-weiguan-jian-ai-shou",
+          "work": "jinshu",
+          "source": "a05-036-full",
+          "paragraph": 4,
+          "from": "鄧艾、鍾會之伐蜀也，瓘以本官持節監艾、會軍事",
+          "through": "艾臥未起，父子俱被執。",
+          "citation": "《晉書·卷三十六·衛瓘傳》",
+          "note": "正文層級（衛瓘傳）：瓘以本官持節監艾、會軍事，蜀平後艾專擅，瓘夜至成都稱詔收艾，艾父子俱被執。"
+        },
+        {
+          "id": "dengai-weiguan-tianxu-sha-ai",
+          "work": "jinshu",
+          "source": "a05-036-full",
+          "paragraph": 6,
+          "from": "鄧艾本營將士復追破檻車出艾，還向成都。",
+          "through": "可以報江由之辱矣。",
+          "citation": "《晉書·卷三十六·衛瓘傳》",
+          "note": "正文層級（衛瓘傳）：瓘遣護軍田續至緜竹夜襲艾於三造亭，斬艾及其子忠；並記艾入江由時田續不進幾被斬之舊事。"
+        },
+        {
+          "id": "dengai-duyu-lun-weiguan-sha-ai",
+          "work": "jinshu",
+          "source": "a05-036-full",
+          "paragraph": 15,
+          "from": "初，杜預聞瓘殺鄧艾，言於眾曰",
+          "through": "終如預言。",
+          "citation": "《晉書·卷三十六·衛瓘傳》",
+          "note": "正文層級（衛瓘傳）：杜預聞瓘殺鄧艾，評瓘身為名士居總帥而無德音不御下，預言其不免，後終如預言。"
         }
       ],
       "exclusions": [
