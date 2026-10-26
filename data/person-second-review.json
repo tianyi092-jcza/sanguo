@@ -49481,6 +49481,36 @@
           "through": "維退軍還成都。",
           "citation": "《三國志·後主傳》所載",
           "note": "後主傳十九年秋，姜維為魏大將軍鄧艾所破于上邽，維退軍還成都。"
+        },
+        {
+          "id": "dengai-houhe-po-wei",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 41,
+          "from": "是歲，姜維復率衆出侯和，為鄧艾所破",
+          "through": "還住沓中。",
+          "citation": "《三國志·後主傳》所載",
+          "note": "後主傳景耀五年，姜維復出侯和，為鄧艾所破，還住沓中。"
+        },
+        {
+          "id": "dengai-bing-fa-shu-po-zhan",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 42,
+          "from": "六年夏，魏大興徒衆，命征西將軍鄧艾、鎮西將軍鍾會、雍州刺史諸葛緒數道並攻。",
+          "through": "冬，鄧艾破衞將軍諸葛瞻於緜竹。",
+          "citation": "《三國志·後主傳》所載",
+          "note": "後主傳景耀六年，魏以鄧艾、鍾會、諸葛緒數道伐蜀，冬鄧艾破衞將軍諸葛瞻於緜竹。"
+        },
+        {
+          "id": "dengai-yinping-po-zhugezhan",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 27,
+          "from": "六年冬，魏征西將軍鄧艾伐蜀，自陰平由景谷道旁入。",
+          "through": "艾長驅至成都。",
+          "citation": "《三國志·諸葛瞻傳》所載",
+          "note": "諸葛瞻傳景耀六年冬，鄧艾自陰平由景谷道旁入蜀，瞻督軍至涪、退住緜竹，戰敗死，艾長驅至成都。"
         }
       ],
       "exclusions": [],
