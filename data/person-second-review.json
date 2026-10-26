@@ -46260,6 +46260,24 @@
           "from": "後大興殿舍，百姓勞役；",
           "through": "帝報曰：「知卿忠允，乃心王室，輒克昌言；他復以聞。」",
           "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-jiehong-kuandai",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 23,
+          "from": "有司徒吏解弘遭父喪，",
+          "through": "帝乃詔曰：「孝哉弘也！其原之。」",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-jindi-lu",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 25,
+          "from": "是時，殺禁地鹿者身死，",
+          "through": "不如早取之為便也。」",
+          "citation": "《三國志·魏書二十四·高柔傳》"
         }
       ],
       "exclusions": [
