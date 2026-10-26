@@ -46952,6 +46952,33 @@
           "term": "王淩",
           "quote": "西禽孟達，東舉公孫，內夷曹爽，外襲王淩。",
           "reason": "僅總括提及排除：此段主角為宣帝功業總評，王淩僅在四戰並舉句中以「外襲」二字一筆帶過，無王淩本人新事蹟；討王淩之役已錄《晉書》卷一·宣帝紀條目 wangling-jin-mianfu-zisha（a05-001:31）及卷二·文帝紀條目 wangling-jin-wendi-huixiang（a05-002:7），不另錄。"
+        },
+        {
+          "id": "wangling-excl-018",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 1,
+          "term": "王淩",
+          "quote": "遂與王淩謀共立之。",
+          "reason": "五行志訛言徵驗條目排除：此段主角為白馬河妖馬訛言，王淩謀立楚王彪僅為訛言應驗的背景敘事；謀立彪與事泄伏誅已錄本傳條目 wangling-mouying-ben（a04-028:3）及晉書宣帝紀條目 wangling-jin-mou-biao（a05-001:30），不另錄。"
+        },
+        {
+          "id": "wangling-excl-019",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 53,
+          "term": "王淩",
+          "quote": "王淩、令狐愚聞此謠，謀立彪。",
+          "reason": "五行志謠言徵驗條目排除：此段主角為「白馬素羈」之謠與楚王小字朱虎，王淩聞謠謀立彪僅為謠言應驗的背景敘事；謀立彪與伏誅已錄上述本傳與宣帝紀兩條，不另錄。"
+        },
+        {
+          "id": "wangling-excl-020",
+          "work": "jinshu",
+          "source": "a05-037",
+          "paragraph": 7,
+          "term": "王淩",
+          "quote": "代王淩爲太尉。",
+          "reason": "僅接任提及排除：此段主角為安平王孚升遷，代王淩為太尉一句僅交代前任去職；王淩任太尉已錄條目 wangling-taiwei（a04-004:18），伏誅已錄謀廢諸條，不另錄。"
         }
       ],
       "unresolved": [],
