@@ -52296,7 +52296,7 @@
     {
       "id": "p0072",
       "name": "司馬昭",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "smz-sg-260-1",
@@ -52487,6 +52487,26 @@
           "through": "丕顯余一人之休命。",
           "citation": "《晉書》卷二·文帝紀",
           "note": "九錫詔結語：勗公祗服朕命、弘敷訓典、光澤庶方、永終明德。"
+        },
+        {
+          "id": "smz-js-wendi-018",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 24,
+          "from": "史臣曰：世宗以叡略創基，",
+          "through": "為帝之主，不亦難乎。",
+          "citation": "《晉書》卷二·文帝紀",
+          "note": "史臣曰合論世宗（司馬師）與太祖（司馬昭）：世宗以叡略創基、太祖以雄才成務；太祖部分謂其踰劔銷氛、浮淮靜亂。世宗部分非司馬昭事，讀時須與兄長分開。"
+        },
+        {
+          "id": "smz-js-wendi-019",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 25,
+          "from": "贊曰：世宗繼文，",
+          "through": "反雖討賊，終為弒君。",
+          "citation": "《晉書》卷二·文帝紀",
+          "note": "贊曰合論世宗與太祖：世宗繼文、邦權未分；太祖無外、靈關靜氛，末句繫於太祖。世宗部分非司馬昭事，讀時須與兄長分開。"
         }
       ],
       "exclusions": [
@@ -52556,11 +52576,11 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": []
     }
