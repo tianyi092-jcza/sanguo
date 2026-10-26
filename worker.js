@@ -69,6 +69,23 @@ async function proxyGoogle(request, env, ctx) {
     try { cached = await cache.match(cacheKey); } catch (e) { console.error('[gtiles] cache.match error:', e && e.message); }
     if (cached) return cached;
 
+    // L2：R2 持久緩存。新鮮期 30 天（Google 條款的緩存上限），過期視為未命中、回源刷新，
+    // 不長期存儲 Google 內容。R2 命中時瀏覽器與 Google 之間零遠端請求。
+    const bucket = env.GTILES_BUCKET;
+    const r2Key = `${mt}/${z}/${x}/${y}`;
+    if (bucket) {
+      try {
+        const obj = await bucket.get(r2Key);
+        if (obj && (Date.now() - obj.uploaded.getTime()) < 2592000000) {
+          const headers = new Headers();
+          obj.writeHttpMetadata(headers);
+          headers.set('cache-control', 'public, max-age=86400');
+          headers.set('x-tile-cache', 'r2');
+          return new Response(obj.body, { headers });
+        }
+      } catch (e) { console.error('[gtiles] r2 get error:', e && e.message); }
+    }
+
     const params = new URLSearchParams(url.search);
     params.delete('mt'); // 仅供本 Worker 分缓存用，不传给 Google
     params.set('key', apiKey);
@@ -81,14 +98,22 @@ async function proxyGoogle(request, env, ctx) {
       console.error(`[gtiles] Google tile ${z}/${x}/${y} -> ${resp.status}: ${bodyText.slice(0, 300)}`);
       return new Response(`tile fetch failed: upstream ${resp.status}`, { status: resp.status });
     }
-    const out = new Response(await resp.arrayBuffer(), {
+    const bytes = await resp.arrayBuffer();
+    const contentType = resp.headers.get('content-type') || 'image/png';
+    const out = new Response(bytes, {
       status: 200,
       headers: {
-        'content-type': resp.headers.get('content-type') || 'image/png',
+        'content-type': contentType,
         'cache-control': 'public, max-age=86400',
+        'x-tile-cache': 'google',
       },
     });
     try { ctx.waitUntil(cache.put(cacheKey, out.clone())); } catch (e) { console.error('[gtiles] cache.put error:', e && e.message); }
+    if (bucket) {
+      try {
+        ctx.waitUntil(bucket.put(r2Key, bytes, { httpMetadata: { contentType } }).catch(e => console.error('[gtiles] r2 put error:', e && e.message)));
+      } catch (e) { console.error('[gtiles] r2 put error:', e && e.message); }
+    }
     return out;
     } catch (e) {
       console.error(`[gtiles] worker tile error ${z}/${x}/${y}:`, e && e.message, e && e.stack);

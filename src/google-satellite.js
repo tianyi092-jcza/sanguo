@@ -175,14 +175,14 @@ class GoogleSatelliteLayer{
         const tileUrl="/api/gtiles/2dtiles/"+frame.z+"/"+requestX+"/"+y+"?"+new URLSearchParams({session:session.token,mt:"terrain"});
         // 用 fetch 加载以便捕获具体 HTTP 错误（img.onerror 拿不到状态码）
         // 并发限4，避免burst触发Google 429
-        const loadTile=async (isRetry)=>{
+        const loadTile=async (attempt)=>{
           await this.acquireTileSlot();
           try{
             const resp=await fetch(tileUrl);
             if(this.images.get(id)!==record)return;
             if(!resp.ok){
               const bodyText=await resp.text().catch(()=> '');
-              const errText=`tile ${frame.z}/${requestX}/${y} HTTP ${resp.status} ${bodyText.slice(0,120)}`+(isRetry?" (retry)":"");
+              const errText=`tile ${frame.z}/${requestX}/${y} HTTP ${resp.status} ${bodyText.slice(0,120)}`+(attempt?` (retry ${attempt})`:"");
               console.warn("[gtiles] "+errText);
               throw new Error(errText);
             }
@@ -191,12 +191,13 @@ class GoogleSatelliteLayer{
             img.src=URL.createObjectURL(blob);
           }catch(e){
             if(this.images.get(id)!==record)return;
-            if(!isRetry){
-              // 自动重试一次
-              setTimeout(()=>{ if(this.images.get(id)===record) loadTile(true); }, 1500);
+            if(attempt<3){
+              // 指數退避重試（1.5s/4s/10s＋隨機抖動）：429 多為瞬時限流，退避後大多能自癒
+              const delay=[1500,4000,10000][attempt]+Math.random()*500;
+              setTimeout(()=>{ if(this.images.get(id)===record) loadTile(attempt+1); }, delay);
               return;
             }
-            console.error("[gtiles] tile failed after retry:",e.message);
+            console.error("[gtiles] tile failed after retries:",e.message);
             record.failed=true;record.errorMsg=e.message;this.lastTileError=e.message;
             img.style.visibility="hidden";this.updateStatus();
           }finally{
@@ -204,7 +205,7 @@ class GoogleSatelliteLayer{
           }
         };
         img.onload=()=>{if(this.images.get(id)!==record)return;record.loaded=true;this.updateStatus();};
-        loadTile(false);
+        loadTile(0);
         $("#googleMapTiles").appendChild(img);
       }
       this.position(record,frame);
