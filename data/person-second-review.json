@@ -50071,6 +50071,36 @@
           "through": "累遷議郎。",
           "citation": "《晉書·卷四十八·段灼傳》",
           "note": "正文層級（段灼傳）：段灼稍遷鄧艾鎮西司馬，從艾破蜀有功，封關內侯，累遷議郎。"
+        },
+        {
+          "id": "dengai-shichen-duanzhuo-zhuili-ai",
+          "work": "jinshu",
+          "source": "a05-048-ahcb",
+          "paragraph": 18,
+          "from": "休然追遠",
+          "through": "理鄧艾以成名。",
+          "citation": "《晉書·卷四十八》",
+          "note": "史臣曰層級（卷末論贊）：休然即段灼，謂其追遠理鄧艾以成名，與向雄哭王經並舉為義舉。"
+        },
+        {
+          "id": "dengai-luoxian-ai-si-baicheng-wuzhu",
+          "work": "jinshu",
+          "source": "a05-057-ahcb",
+          "paragraph": 1,
+          "from": "及鍾會、鄧艾死",
+          "through": "百城無主，",
+          "citation": "《晉書·卷五十七·羅憲傳》",
+          "note": "正文層級（羅憲傳）：鍾會、鄧艾死後，蜀地百城無主，吳趁機西上攻羅憲所守之永安。"
+        },
+        {
+          "id": "dengai-duzhen-ai-zhi-chengdu-qianhong",
+          "work": "jinshu",
+          "source": "a05-090-ahcb",
+          "paragraph": 13,
+          "from": "時鄧艾至成都",
+          "through": "艾果遣其參軍牽弘自之郡，",
+          "citation": "《晉書·卷九十·杜軫傳》",
+          "note": "正文層級（杜軫傳）：鄧艾至成都，杜軫勸太守避去以全福，艾果然遣參軍牽弘往郡。"
         }
       ],
       "exclusions": [
