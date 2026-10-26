@@ -45500,7 +45500,7 @@
     {
       "id": "p0060",
       "name": "辛毗",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "xinpi-hhs-yuantan-qingjiu",
@@ -45708,6 +45708,33 @@
           "from": "乆之，太祖遣都護曹洪平下辯，使毗與曹休參之，",
           "through": "軍還，為丞相長史。",
           "citation": "《三國志·魏書二十五·辛毗傳》"
+        },
+        {
+          "id": "xinpi-sgz-jian-xi-shijia-shezhi",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 4,
+          "from": "帝欲徙兾州士家十萬戶實河南。",
+          "through": "後遂為之稀出。",
+          "citation": "《三國志·魏書二十五·辛毗傳》"
+        },
+        {
+          "id": "xinpi-sgz-qinglong-junshi-zhizhan",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 8,
+          "from": "青龍二年，諸葛亮率衆出渭南。",
+          "through": "莫敢犯違。",
+          "citation": "《三國志·魏書二十五·辛毗傳》"
+        },
+        {
+          "id": "xinpi-sgz-liangzu-weiwei-sushi",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 8,
+          "from": "亮卒，復還為衞尉。",
+          "through": "子敞嗣，咸熈中為河內太守。",
+          "citation": "《三國志·魏書二十五·辛毗傳》"
         }
       ],
       "exclusions": [
@@ -45750,13 +45777,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "覆核處置共 30 條（覆蓋 29 段，第 8 段正文分兩條分層錄入）：錄正摘錄 26 條、排除 4 條、未解決 0 條；本輪向量候選重跑僅餘本傳 2 段（a04-025:4、:8），錄入後候選枯竭，收尾。",
+        "辨人：與兄辛評、子辛敞、女辛憲英及同卷合傳人物嚴格區分；本傳單字「毗」段按本傳文件內語境判定確指辛毗本人後方錄入；第 8 段世語憲英長段為女兒事蹟，不另錄為辛毗本人事蹟。",
+        "生平繫年：摘錄覆蓋隨兄評從袁紹、譚使毗詣太祖求和歸曹、丞相長史、明帝時潁鄉侯與衞尉、直諫徙士家與修殿舍平北芒、青龍二年持節為大將軍軍師制司馬宣王、亮卒還為衞尉、薨謚肅侯及評曰。",
+        "勢力繫年：袁紹時期至建安年間東詣太祖後歸曹，其後諸段皆記為魏方，不得記為袁氏勢力；青龍二年制戰段按持節軍師職任記，不與司馬宣王事蹟混同。",
+        "史源覆蓋：《三國志》正文已核（本傳文件 a04-025 逐段核對：全字名段與單字本傳段皆已處置，第 8 段正文與裴注分層錄入）；裴注、《後漢書》、《華陽國志》、《晉書》全庫人名候選枯竭，已核。"
+      ]
     }
   ]
 }
