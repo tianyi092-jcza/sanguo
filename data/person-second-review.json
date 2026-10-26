@@ -50775,9 +50775,39 @@
           "through": "儀為鍾會所殺。",
           "citation": "《三國志·許褚傳》所載",
           "note": "許褚傳所載：許褚子許儀嗣爵後為鍾會所殺。"
+        },
+        {
+          "id": "ce-sgz-pangde-zhonghui-ying-de-shi",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 29,
+          "from": "王隱蜀記曰：鍾會平蜀，前後鼓吹，迎悳屍喪還葬鄴，冢中身首如生。",
+          "through": "王隱蜀記曰：鍾會平蜀，前後鼓吹，迎悳屍喪還葬鄴，冢中身首如生。",
+          "citation": "《三國志·龐悳傳》所載",
+          "note": "王隱蜀記云：鍾會平蜀後迎龐悳屍喪還葬鄴。然裴松之已駁此說為虛：悳死於樊城，文帝即位又遣使至悳墓所，其屍喪不應在蜀；此條僅存其說並附松之之駁，不作可信史實。"
+        },
+        {
+          "id": "ce-sgz-dengai-zhonghui-bai-ai",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 32,
+          "from": "鍾會、胡烈、師纂等皆白艾所作悖逆，變釁以結。",
+          "through": "鍾會、胡烈、師纂等皆白艾所作悖逆，變釁以結。",
+          "citation": "《三國志·鄧艾傳》所載",
+          "note": "鄧艾傳所載：鍾會與胡烈、師纂等共白鄧艾所作悖逆，致朝廷詔書檻車徵艾；此為鍾會譖艾、艾父子被囚前事。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhonghui-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 24,
+          "term": "鍾會之兄",
+          "quote": "鍾會之兄，以密言全子",
+          "reason": "裴松之論公孫晃案中所引類比，所言為鍾會之兄，非鍾會本人事蹟；與兄弟嚴格分開，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
