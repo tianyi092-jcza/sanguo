@@ -47338,6 +47338,16 @@
           "through": "儉帥諸將以為後繼。",
           "citation": "《晉書·文帝紀》所載",
           "note": "正文層：嘉平五年諸葛恪圍新城，帝使鎮東將軍儉與揚州刺史文欽等拒之；儉、欽請戰未許，帝命高壘相持，恪力屈後欽督銳卒要其歸路、儉帥諸將以為後繼。本條錄至儉為後繼止，恪遁後欽逆擊大破為欽事，不在本條範圍內。"
+        },
+        {
+          "id": "guanqiujian-jinshu-tianwen-huainan-pan",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 53,
+          "from": "鎮東大將軍毌丘儉等據淮南叛，景帝討平之。",
+          "through": "鎮東大將軍毌丘儉等據淮南叛，景帝討平之。",
+          "citation": "《晉書·天文志》所載",
+          "note": "天文志層：正元二年段以彗星占驗附會淮南之亂，記鎮東大將軍儉等據淮南叛、景帝討平之；本條僅錄叛亂敘事一句，後文「以孛為己應，遂起兵而敗」為占驗之辭，不在本條範圍內。"
         }
       ],
       "exclusions": [
@@ -47502,6 +47512,24 @@
           "term": "毌丘儉",
           "quote": "誕以毌丘儉輕疾傾覆，",
           "reason": "本段為 sidneyluo a05-002:9 的四庫本鏡像，僅異體字差異；晉書卷二底本以 sidneyluo 為準，不重複錄入，該句已在 guanqiujian-excl-003 處置。"
+        },
+        {
+          "id": "guanqiujian-excl-019",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 7,
+          "term": "毌丘儉",
+          "quote": "毌丘儉、文欽之亂，大軍東征，帝兼中領軍，留鎮洛陽。",
+          "reason": "本句主角為兼中領軍留鎮洛陽的文帝（司馬昭），儉僅以「毌丘儉、文欽之亂」事件名提及，起兵詳情見本傳；其四庫本鏡像已在 guanqiujian-excl-017 處置，判例一致。"
+        },
+        {
+          "id": "guanqiujian-excl-020",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 43,
+          "term": "毌丘儉",
+          "quote": "鎮東大將軍毌丘儉等據淮南叛，景帝討平之。",
+          "reason": "本段為 sidneyluo a05-013:53 的四庫本鏡像，僅異體字差異；晉書卷十三底本以 sidneyluo 為準，不重複錄入，該句已在本輪 guanqiujian-jinshu-tianwen-huainan-pan 處置。"
         }
       ],
       "unresolved": [],
