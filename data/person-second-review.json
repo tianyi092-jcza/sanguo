@@ -49420,7 +49420,7 @@
     {
       "id": "p0068",
       "name": "鄧艾",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "dengai-houhe-po-jiangwei",
@@ -50241,6 +50241,16 @@
           "through": "浮華之原塞矣。",
           "citation": "《三國志·魏書二十八 鄧艾傳》",
           "note": "本傳正文層級：諸葛恪圍合肥新城不克退歸，艾言景王謂恪內無其主、不念撫恤、虐用其民、悉國之眾頓於堅城，獲罪之日已至，恪歸果見誅；艾遷兗州刺史、加振威將軍，上言國之所急惟農與戰、食在兵前，考績之賞在於積粟富民則交游之路絕、浮華之原塞矣。"
+        },
+        {
+          "id": "dengai-fa-shu-meng",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 34,
+          "from": "初，艾當伐蜀，夢坐山上而有流水，以問殄虜護軍爰邵。",
+          "through": "艾憮然不樂。",
+          "citation": "《三國志·魏書二十八 鄧艾傳》",
+          "note": "本傳正文層級：艾當伐蜀，夢坐山上而有流水，以問殄虜護軍爰邵；邵以易卦蹇解之，謂利西南、不利東北，往必克蜀、殆不還，艾憮然不樂。"
         }
       ],
       "exclusions": [
@@ -50288,15 +50298,24 @@
           "term": "鄧艾",
           "quote": "初，艾為太尉，會為司徒，皆持節、都督諸軍如故，咸未受命而斃。",
           "reason": "本段主角為鍾會家屬善後（峻等原宥、毓密啟司馬文王），艾僅首句以拜太尉並提；太尉任命已錄於三少帝紀拜太尉條（a04-004:76），不重複錄入，排除。"
+        },
+        {
+          "id": "dengai-excl-006",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 37,
+          "term": "鄧艾",
+          "quote": "艾州里時輩南陽州泰，亦好立功業，善用兵，官至征虜將軍、假節都督江南諸軍事。景元二年薨，追贈衞將軍，謚曰壯侯。",
+          "reason": "本段主角為州泰（鄧艾同鄉時輩），附載於鄧艾傳末述其生平官歷與裴潛、司馬宣王知遇；僅首句以「艾州里時輩」提及鄧艾，非鄧艾本人事蹟，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": []
     }
