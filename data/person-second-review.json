@@ -45020,7 +45020,7 @@
     {
       "id": "p0058",
       "name": "郭淮",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "gh-pei-weishu-dun-rebellion",
@@ -45360,13 +45360,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "覆核處置共 37 段：錄正摘錄 31 條（《三國志》正文 17、裴注 6、《晉書》5、《華陽國志》3）、排除 6 條、未解決 0 條；本輪以已覆蓋表重跑全庫人名／本傳單字候選為 0 段，候選枯竭，收尾。",
+        "辨人：本傳單字「淮」僅在本傳文件內按動詞語境判定，「淮北」地名誤觸與小傳標題標目排除；文欽降吳表牽附郭淮舉兵之辭，以同卷「時郭淮已卒」明言排除；《晉書》正文版與四庫本同文異版按鏡像去重，不重複摘錄。",
+        "生平繫年：摘錄覆蓋其雍州、隴右抗蜀諸役（祁山、陽谿、麴城句安、隴西、洮西等）及本傳、裴注《魏略》諸段。",
+        "勢力繫年：諸段皆按當時職任與戰役階段記為魏方抗蜀，不得記為蜀、吳勢力。",
+        "史源覆蓋：《三國志》正文、裴注、《晉書》、《華陽國志》均已核；《後漢書》全庫無「郭淮／郭伯濟」人名命中段落，已核。"
+      ]
     }
   ]
 }
