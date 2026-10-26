@@ -45822,9 +45822,37 @@
           "from": "陳羣雖抗言，楊阜引事比並，",
           "through": "忠至之辭，猶有闕乎！",
           "citation": "《三國志·魏書五·后妃傳》裴注孫盛評"
+        },
+        {
+          "id": "yangfu-zhangji-lipi",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 19,
+          "from": "旣臨二州十餘年，政惠著聞，",
+          "through": "終皆有名位。",
+          "citation": "《三國志·魏書十五·張旣傳》"
+        },
+        {
+          "id": "yangfu-pei-yuanzi-zhishi",
+          "work": "peizhu",
+          "source": "a04-022",
+          "paragraph": 11,
+          "from": "袁子曰：或云「故少府楊阜豈非忠臣哉？",
+          "through": "未為忠臣也。",
+          "citation": "《三國志·魏書二十二·陳羣傳》裴注引袁子"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yangfu-excl-bio-title",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 9,
+          "term": "楊阜",
+          "quote": "楊阜傳",
+          "reason": "僅為楊阜傳篇目題名，無實質史事內容，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
