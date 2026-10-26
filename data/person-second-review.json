@@ -46332,8 +46332,37 @@
       "id": "p0063",
       "name": "孫禮",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "sunli-sikong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 18,
+          "from": "庚子，以司隷校尉孫禮為司空。",
+          "through": "庚子，以司隷校尉孫禮為司空。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "sunli-death",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 19,
+          "from": "十一月，司空孫禮薨。",
+          "through": "十一月，司空孫禮薨。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "sunli-excl-001",
+          "work": "houhanshu",
+          "source": "a03-030b-ahcb",
+          "paragraph": 31,
+          "term": "孫禮",
+          "quote": "同縣孫禮者，積惡凶暴，好游俠，與其同里人常慕顗名德，欲與親善。顗不顧，以此結怨，遂爲禮所殺。",
+          "reason": "同名異人排除：此為《後漢書·卷三十下·郎顗傳》所載北海安丘同縣孫禮，殺郎顗事；與魏涿郡容城孫禮（字德達，卒嘉平二年）籍貫、時代不合，不作本人史實。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
