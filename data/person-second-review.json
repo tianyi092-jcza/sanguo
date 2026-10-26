@@ -45894,6 +45894,33 @@
           "from": "魏明帝著繡帽，披縹紈半袖，常以見直臣楊阜，諫曰：「此禮何法服邪！」帝默然。",
           "through": "魏明帝著繡帽，披縹紈半袖，常以見直臣楊阜，諫曰：「此禮何法服邪！」帝默然。",
           "citation": "《晉書·卷二十七 ‧ 志第十七　五行志中》"
+        },
+        {
+          "id": "yangfu-huayang-wudu-zhi",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "from": "魏益州刺史天水楊阜治此郡阜以濱蜀境移\n其氐傁於汧雍及天水略陽",
+          "through": "魏益州刺史天水楊阜治此郡阜以濱蜀境移\n其氐傁於汧雍及天水略陽",
+          "citation": "《華陽國志·卷二》"
+        },
+        {
+          "id": "yangfu-sgz-qibing-taochao",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 12,
+          "from": "約誓旣明，十七年九月，與叙起兵於鹵城。",
+          "through": "阜與超戰，身被五創，宗族昆弟死者七人。超遂南奔張魯。",
+          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
+        },
+        {
+          "id": "yangfu-sgz-wudu-zecao-hong",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 14,
+          "from": "太祖征漢中，以阜為益州刺史。",
+          "through": "洪立罷女樂，請阜還坐，肅然憚焉。",
+          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
         }
       ],
       "exclusions": [
