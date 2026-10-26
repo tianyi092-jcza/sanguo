@@ -46331,7 +46331,7 @@
     {
       "id": "p0063",
       "name": "孫禮",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "sunli-sikong",
@@ -46527,13 +46527,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": {}
+      "conclusions": [
+        "覆核處置共 21 條（摘錄 10 條、排除 11 條、未解決 0 條）；本輪向量候選重跑為 0，經本傳文件 a04-024 全字名核對（孫禮／德達僅 :28 篇題、:29、:38 三段）皆已處置，收尾。",
+        "辨人：與北海同縣孫禮、護軍營士竇禮等同名異人嚴格區分；「子孫禮」跨詞偶合、禮制泛稱單字「禮」、本傳篇題皆排除，不作本人史實；與同卷韓曁、崔林、高柔、王觀分開。",
+        "生平繫年：摘錄覆蓋涿郡容城人字德達、太祖平幽州召為司空軍謀掾、崔琰稱其疏亮亢烈、魯相平賊、從曹休征吳諫不可深入、芍陂禦吳、清河平原爭界、并州刺史直諫宣王、遷司空後薨及評曰剛斷伉厲。",
+        "勢力繫年：歸曹後諸段皆記為魏方，不與同卷他方人物事蹟混同。",
+        "史源覆蓋：《三國志》正文已核（本傳 a04-024 全字名段皆已處置）；裴注、《後漢書》、《華陽國志》、《晉書》向量候選枯竭，已核。"
+      ]
     }
   ]
 }
