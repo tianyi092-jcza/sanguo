@@ -44949,6 +44949,24 @@
           "from": "後孫權號十萬衆攻新城，征東將軍滿寵欲率諸軍救之。",
           "through": "有頃，竟無賊。",
           "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六　田豫傳》原文"
+        },
+        {
+          "id": "ty-sgz-tianyu-qingjian",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 17,
+          "from": "豫清儉約素，賞賜皆散之將士。",
+          "through": "雖殊類，咸高豫節。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六　田豫傳》原文"
+        },
+        {
+          "id": "ty-pei-weilue-xianbei-gold",
+          "work": "peizhu",
+          "source": "a04-026",
+          "paragraph": 17,
+          "from": "魏畧曰：鮮卑素利等數來客見，多以牛馬遺豫；豫轉送官。",
+          "through": "後胡復來，以半與之。",
+          "citation": "裴注引《魏略》"
         }
       ],
       "exclusions": [
