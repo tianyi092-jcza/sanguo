@@ -52882,6 +52882,33 @@
           "from": "初，淩與司馬朗、賈逵友善",
           "through": "繼其名跡。",
           "citation": "《三國志·魏書二十八 王淩傳》"
+        },
+        {
+          "id": "sml-sg-dongzhuo",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 7,
+          "from": "是時董卓遷天子都長安",
+          "through": "卓曰：「吾亦悟之，卿言有意！」",
+          "citation": "《三國志·魏書十五 司馬朗傳》"
+        },
+        {
+          "id": "sml-pei-dongzhuo",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 7,
+          "from": "臣松之案朗此對",
+          "through": "客主之辭如為不相酬塞也。",
+          "citation": "《三國志·魏書十五 司馬朗傳》裴注"
+        },
+        {
+          "id": "sml-sg-return",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 8,
+          "from": "朗知卓必亡，恐見留",
+          "through": "不為衰世解業。",
+          "citation": "《三國志·魏書十五 司馬朗傳》"
         }
       ],
       "exclusions": [],
