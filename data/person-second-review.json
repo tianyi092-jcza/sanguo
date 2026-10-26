@@ -50323,7 +50323,40 @@
       "id": "p0069",
       "name": "鍾會",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ce-sgz-shaodiji-zhonghui-ping",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 29,
+          "from": "景王私曰：「上何如主也？」",
+          "through": "社稷之福也。」",
+          "citation": "《三國志·三少帝紀》所載",
+          "context": "十月己丑",
+          "note": "裴注引《魏氏春秋》：高貴鄉公即位罷朝後，景王司馬師私問鍾會對新君之評價，會答「才同陳思，武類太祖」。時在嘉平六年（254年），見鍾會早年即得司馬師賞識。"
+        },
+        {
+          "id": "ce-sgz-shaodiji-zhonghui-lunci",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 35,
+          "from": "於是侍郎鍾會退論次焉。",
+          "through": "於是侍郎鍾會退論次焉。",
+          "citation": "《三國志·三少帝紀》所載",
+          "context": "甘露元年",
+          "note": "裴注引《魏氏春秋》：甘露元年（256年）高貴鄉公宴羣臣論少康與漢高祖功德優劣，侍郎鍾會退而論次成篇。見鍾會以侍郎參預高貴鄉公經筵論議。"
+        },
+        {
+          "id": "ce-sgz-shaodiji-zhonghui-jiangyan",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 39,
+          "from": "傅暢晉諸公贊曰：帝常與中護軍司馬望",
+          "through": "望、會亦各有名號。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "裴注引傅暢《晉諸公贊》：高貴鄉公常與中護軍司馬望、侍中王沈、散騎常侍裴秀、黃門侍郎鍾會等講宴於東堂，各有名號。見鍾會以黃門侍郎參預東堂講宴文學之會。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
