@@ -46395,6 +46395,33 @@
           "from": "乃徙禮為魯相",
           "through": "不從而敗。",
           "citation": "《三國志·魏書二十四·孫禮傳》"
+        },
+        {
+          "id": "sunli-shaobei-yuwu",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 32,
+          "from": "吳大將全琮帥數萬衆來侵寇",
+          "through": "賊衆乃退。",
+          "citation": "《三國志·魏書二十四·孫禮傳》"
+        },
+        {
+          "id": "sunli-qinghe-pingyuan-jie",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 33,
+          "from": "禮到，案圖宜屬平原。",
+          "through": "劾禮怨望，結刑五歲。",
+          "citation": "《三國志·魏書二十四·孫禮傳》"
+        },
+        {
+          "id": "sunli-bingzhou-zhiyan",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 34,
+          "from": "乃以禮為并州刺史，加振武將軍，使持節，護匈奴中郎將。",
+          "through": "此禮之所以不恱也。",
+          "citation": "《三國志·魏書二十四·孫禮傳》"
         }
       ],
       "exclusions": [
