@@ -46662,6 +46662,33 @@
           "from": "三年春正月，王淩詐言吳人塞涂水，請發兵以討之。",
           "through": "至項，仰鴆而死。",
           "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "wangling-jin-wendi-huixiang",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 7,
+          "from": "及大軍討王淩，帝督淮北諸軍事，帥師會于項。",
+          "through": "假金印紫綬。",
+          "citation": "《晉書》卷二·文帝紀"
+        },
+        {
+          "id": "wangling-jin-tianwen-fuzhu",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 5,
+          "from": "三年七月，王淩與楚王彪有謀，皆伏誅",
+          "through": "人主遂卑。",
+          "citation": "《晉書》卷十三·天文志下"
+        },
+        {
+          "id": "wangling-jin-tianwen-hao-xiang",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 6,
+          "from": "是時，王淩謀立楚王彪，謂「斗中有星，當有暴貴者」，以問知星人浩詳。",
+          "through": "故淩計遂定。",
+          "citation": "《晉書》卷十三·天文志下"
         }
       ],
       "exclusions": [
