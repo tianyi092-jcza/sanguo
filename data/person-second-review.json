@@ -46545,8 +46545,37 @@
       "id": "p0064",
       "name": "王凌",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "wangling-sikong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 16,
+          "from": "秋九月，以車騎將軍王淩為司空。",
+          "through": "秋九月，以車騎將軍王淩為司空。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "wangling-moufei-zisha",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 20,
+          "from": "丙午，聞太尉王淩謀廢帝，立楚王彪，太傅司馬宣王東征淩。",
+          "through": "五月甲寅，淩自殺。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "wangling-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 22,
+          "term": "王淩",
+          "quote": "單固見王淩傳",
+          "reason": "傳目互見排除：此段為王脩傳附錄魏略傳目說明，僅注記單固事見王淩傳，無王凌本人事蹟，不作本人史實。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
