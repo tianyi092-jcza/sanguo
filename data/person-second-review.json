@@ -45075,6 +45075,33 @@
           "from": "車騎將軍郭淮以意氣呼之，問其所欲，亦不肯言。",
           "through": "淮因與脯糒及衣，不取其衣，取其脯一朐、糒一升而止。",
           "citation": "《三國志·卷十一 ‧ 魏書十一　袁張涼國田王邴管傳第十一》裴注引《魏略》"
+        },
+        {
+          "id": "gh-pei-weilue-tui-zhanghe",
+          "work": "peizhu",
+          "source": "a04-017",
+          "paragraph": 17,
+          "from": "淵司馬郭淮乃令衆曰：「張將軍，國家名將，劉備所憚；今日事急，非張將軍不能安也。」",
+          "through": "遂推郃為軍主。",
+          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七》裴注引《魏略》"
+        },
+        {
+          "id": "gh-sgz-chen-tai-qushan",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 12,
+          "from": "征西將軍郭淮與泰謀所以禦之",
+          "through": "維懼，遁走，安等孤縣，遂皆降。",
+          "citation": "《三國志·卷二十二 ‧ 魏書二十二　桓二陳徐衛盧傳第二十二》原文"
+        },
+        {
+          "id": "gh-sgz-du-xi-jushe",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 19,
+          "from": "夏侯淵為劉備所沒，軍喪元帥，將士失色。",
+          "through": "襲與張郃、郭淮糾攝諸軍事，權宜以郃為督，以一衆心，三軍遂定。",
+          "citation": "《三國志·卷二十三 ‧ 魏書二十三　和常楊杜趙裴傳第二十三》原文"
         }
       ],
       "exclusions": [],
