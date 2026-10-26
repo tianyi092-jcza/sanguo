@@ -45219,6 +45219,33 @@
           "from": "遣將軍胡遵、雍州剌史郭淮共備陽遂，與亮會于積石。",
           "through": "遣將軍胡遵、雍州剌史郭淮共備陽遂，與亮會于積石。",
           "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "gh-jin-qu-ju-an",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 7,
+          "from": "蜀將姜維之寇隴右也，征西將軍郭淮自長安距之。",
+          "through": "淮攻維別將句安於麴，久而不決。",
+          "citation": "《晉書》卷二·文帝紀"
+        },
+        {
+          "id": "gh-bio-beiyuan-yang-sui",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 30,
+          "from": "青龍二年，諸葛亮出斜谷，並田于蘭坑。",
+          "through": "其夜果攻陽遂，有備不得上。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六》原文"
+        },
+        {
+          "id": "gh-bio-ping-qiang",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 32,
+          "from": "八年，隴西、南安、金城、西平諸羌餓何、燒戈、伐同、蛾遮塞等相結叛亂，攻圍城邑，南招蜀兵，涼州名胡治無戴復叛應之。",
+          "through": "進討叛羌，斬餓何、燒戈，降服者萬餘落。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六》原文"
         }
       ],
       "exclusions": [
