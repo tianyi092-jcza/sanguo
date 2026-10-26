@@ -48706,6 +48706,36 @@
           "through": "以鎮南將軍諸葛誕為鎮東大將軍。",
           "citation": "《三國志·三少帝紀》所載",
           "note": "正元二年毌丘儉、文欽壽春起兵敗後，朝廷特赦淮南受詿誤士民，並以鎮南將軍諸葛誕升任鎮東大將軍。"
+        },
+        {
+          "id": "zhugedan-shouchun-po-wu",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 32,
+          "from": "甲子，吳大將孫峻等衆號十萬至壽春，",
+          "through": "獻捷于京都。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "吳大將孫峻等率眾號十萬至壽春，諸葛誕拒擊破之，斬吳左將軍留贊，並獻捷于京都。"
+        },
+        {
+          "id": "zhugedan-sikong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 45,
+          "from": "甲子，",
+          "through": "為司空。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "朝廷以征東大將軍諸葛誕為司空。"
+        },
+        {
+          "id": "zhugedan-bujiuzheng-fan",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 47,
+          "from": "乙亥，諸葛誕不就徵，",
+          "through": "殺揚州刺史樂綝。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "諸葛誕不就徵召，發兵反，殺揚州刺史樂綝，為其起兵反魏之始。"
         }
       ],
       "exclusions": [
