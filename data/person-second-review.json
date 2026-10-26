@@ -50011,6 +50011,36 @@
           "through": "終如預言。",
           "citation": "《晉書·卷三十六·衛瓘傳》",
           "note": "正文層級（衛瓘傳）：杜預聞瓘殺鄧艾，評瓘身為名士居總帥而無德音不御下，預言其不免，後終如預言。"
+        },
+        {
+          "id": "dengai-fu-tai-jiwei-longyou",
+          "work": "jinshu",
+          "source": "a05-037",
+          "paragraph": 7,
+          "from": "及蜀將姜維寇隴右",
+          "through": "維退。",
+          "citation": "《晉書·卷三十七·安平獻王孚傳》",
+          "note": "正文層級（安平獻王孚傳）：姜維寇隴右，王經戰敗，孚西鎮關中，征西將軍陳泰與安西將軍鄧艾進擊維，維退。"
+        },
+        {
+          "id": "dengai-liushi-yu-pingshu-bu-huan",
+          "work": "jinshu",
+          "source": "a05-041-ahcb",
+          "paragraph": 22,
+          "from": "鍾會、鄧艾之伐蜀也",
+          "through": "竟如其言。",
+          "citation": "《晉書·卷四十一·劉寔傳》",
+          "note": "正文層級（劉寔傳）：鍾會、鄧艾伐蜀時，有客問劉寔二將能否平蜀，寔斷言破蜀必矣而皆不還，後竟如其言。"
+        },
+        {
+          "id": "dengai-wangjun-ju-dengai-zhi-shi",
+          "work": "jinshu",
+          "source": "a05-042",
+          "paragraph": 31,
+          "from": "吾始懼鄧艾之事",
+          "through": "是吾褊也。",
+          "citation": "《晉書·卷四十二·王濬傳》",
+          "note": "正文層級（王濬傳）：王濬自言因懼鄧艾之事、畏禍及身，才不得不在進見時言功訴枉，自認此為褊狹。"
         }
       ],
       "exclusions": [
