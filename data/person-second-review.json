@@ -51906,6 +51906,36 @@
           "through": "以救時急。",
           "citation": "《晉書》卷一·宣帝紀",
           "note": "宣帝紀四年條：獲白鹿獻之，天子以周公素雉為比褒諭；遼東公孫淵反，帝料其計、對以「往百日，還百日，攻百日」一年足矣，並諫止宮室與軍旅並興。"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-chushi-liaodong",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 15,
+          "from": "景初二年，帥牛金",
+          "through": "晝夜攻之。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "景初二年司馬懿帥牛金、胡遵等步騎四萬征遼東：遼隧破公孫淵軍、直指襄平圍之；霖潦中斬言徙者以定軍心，駁諸將取樵之議，謂賊糧垂盡、圍落未合，雨止即合圍攻城。"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-pingxiangping",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 16,
+          "from": "時有長星，色白",
+          "through": "口三十餘萬。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "襄平城長星墜梁水，公孫淵大懼乞降被拒，復遣使亦被拒；淵突圍敗死於梁水，入城誅偽公卿以下，男子十五以上七千餘人皆殺以為京觀，收戶四萬、口三十餘萬。"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-shigongyuan",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 17,
+          "from": "初，文懿篡其叔父恭位而囚之。",
+          "through": "恣聽之。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "帝釋公孫恭之囚，封諫死將軍綸直、賈範之墓、顯其遺嗣，下令誅首惡而已、為文懿所詿誤者皆原之，中國人欲還舊鄉者恣聽之。"
         }
       ],
       "exclusions": [
