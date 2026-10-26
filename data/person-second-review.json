@@ -48234,7 +48234,7 @@
     {
       "id": "p0066",
       "name": "文欽",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "wenqin-shaodiji-zhengyuan-er",
@@ -48668,13 +48668,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "覆核處置共 45 段（摘錄 22 條、排除 23 條、未解決 0 條）；本輪向量候選重跑為 0，檢索配置所列傳源 a04-028 未覆蓋段落逐段核對：無「文欽」全名殘留，僅第 43 段「劉欽」與第 44 段「欽明」為同字異人／一般用語，不另立錄，收尾。",
+        "辨人：字仲若，譙郡人；父稷；與毌丘儉、諸葛誕、孫峻、孫綝及同卷劉欽等嚴格分開，單字「欽」須確認確指本人才錄。",
+        "生平繫年：魏諷連坐下獄當死因父故得赦，歷五營校督、牙門將、廬江太守、鷹揚將軍、冠軍將軍、前將軍、揚州刺史；正元二年與毌丘儉壽春起兵，樂嘉敗走入吳，得孫峻厚待，後為呂據、朱異所憎，吳太平年間被殺。",
+        "勢力繫年：先為魏臣，壽春起兵為魏室內部反司馬氏之舉兵，非歸蜀；敗走入吳後為吳臣，入吳授官與被殺不併入毌丘儉名下。",
+        "史源覆蓋：《三國志》正文與裴注、《晉書》已核；《後漢書》《華陽國志》本輪向量候選為 0，故標已核。"
+      ]
     }
   ]
 }
