@@ -49421,7 +49421,38 @@
       "id": "p0068",
       "name": "鄧艾",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "dengai-houhe-po-jiangwei",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 71,
+          "from": "冬十月，蜀大將姜維寇洮陽，",
+          "through": "維遁走。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "是年冬，姜維寇洮陽，鎮西將軍鄧艾拒之，破維於侯和，維遁走。"
+        },
+        {
+          "id": "dengai-bai-taiwei",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 76,
+          "from": "五年乙卯，以征西將軍鄧艾為太尉，",
+          "through": "鎮西將軍鍾會為司徒。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "五年，鄧艾由征西將軍遷太尉，與鍾會為司徒同日。"
+        },
+        {
+          "id": "dengai-jianche-jian-sha",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 77,
+          "from": "咸熈元年春正月壬戌，檻車徵鄧艾。",
+          "through": "鄧艾亦見殺。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "咸熈元年正月，鄧艾檻車被徵；是月鍾會反於蜀為衆所討，鄧艾亦見殺。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
