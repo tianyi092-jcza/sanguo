@@ -47725,6 +47725,33 @@
           "term": "毌丘儉",
           "quote": "石聰攻壽春，不克",
           "reason": "本段為晉書載記所載後趙石聰攻壽春事，全文未提及儉；僅因壽春地名與儉壽春起兵事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-zhugedan-shouchun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 67,
+          "term": "毌丘儉",
+          "quote": "魏大將軍諸葛誕據壽春來降",
+          "reason": "本段為三國志所載諸葛誕據壽春降吳、丁奉解圍事，全文未提及儉；僅因壽春地名與儉壽春起兵事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-wanghun-shouchun",
+          "work": "jinshu",
+          "source": "a05-042",
+          "paragraph": 3,
+          "term": "毌丘儉",
+          "quote": "遷安東將軍、都督揚州諸軍事，鎮壽春",
+          "reason": "本段為晉書所載王渾鎮壽春、破吳皖城屯田事，全文未提及儉；僅因壽春地名與儉壽春起兵事相近被向量召回，不錄為儉之摘錄。"
+        },
+        {
+          "id": "guanqiujian-excl-gaogouli-koujun",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 183,
+          "term": "毌丘儉",
+          "quote": "高句驪寇郡界",
+          "reason": "本段僅一句高句驪寇郡界，全文未提及儉；僅因高句驪事與儉東征高句驪事相近被向量召回，不錄為儉之摘錄。"
         }
       ],
       "unresolved": [],
