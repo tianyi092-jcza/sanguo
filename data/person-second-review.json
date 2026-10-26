@@ -51876,6 +51876,36 @@
           "through": "國以充實焉。",
           "citation": "《晉書》卷一·宣帝紀",
           "note": "宣帝紀青龍元年條：穿成國渠、築臨晉陂，溉田數千頃，國以充實焉（關中屯田水利之政）。"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-wuzhangyuan",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 12,
+          "from": "二年，亮又率衆十餘萬出斜谷",
+          "through": "有詔不許。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "宣帝紀青龍二年條：諸葛亮出斜谷壘於渭南，帝背水為壘拒戰，相持百餘日亮病卒，帝追至赤岸，時諺「死諸葛走生仲達」。（五丈原對壘）"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-taiwei",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 13,
+          "from": "三年，遷太尉",
+          "through": "輸于京師。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "宣帝紀三年條：遷太尉，累增封邑；遣牛金擊走入寇的蜀將馬岱，運長安粟五百萬斛輸於京師。"
+        },
+        {
+          "id": "ce-js-xuandiji-simayi-bailu-liaodong",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 14,
+          "from": "四年，獲白鹿",
+          "through": "以救時急。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "宣帝紀四年條：獲白鹿獻之，天子以周公素雉為比褒諭；遼東公孫淵反，帝料其計、對以「往百日，還百日，攻百日」一年足矣，並諫止宮室與軍旅並興。"
         }
       ],
       "exclusions": [
