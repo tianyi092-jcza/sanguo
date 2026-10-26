@@ -47968,6 +47968,33 @@
           "term": "毌丘儉",
           "quote": "冬十二月，高句驪、馬韓、穢貊圍玄菟城",
           "reason": "本段記高句驪、馬韓、穢貊圍玄菟城、夫餘遣子并力討破事，東漢時事，全文未提及儉；僅因高句驪地名與儉東征事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-sgz-gaogouli-bogu-liaodong",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 21,
+          "term": "毌丘儉",
+          "quote": "宮死，子伯固立。",
+          "reason": "本段記高句驪伯固犯遼東、助公孫度擊富山賊事，東漢順桓至公孫度時事，全文未提及儉；僅因遼東地名與儉鎮遼東、東征高句驪事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-shicong-shouyang",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 12,
+          "term": "毌丘儉",
+          "quote": "石勒將石聰攻壽陽，不克，",
+          "reason": "本段記東晉石聰攻壽陽、蘇峻遣韓晃討走事，全文未提及儉；僅因壽陽地名與儉壽春起兵事相近被向量召回，不錄。"
+        },
+        {
+          "id": "guanqiujian-excl-js-donghaiwangyue-zuizhuang",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 43,
+          "term": "毌丘儉",
+          "quote": "三月戊午，詔下東海王越罪狀，",
+          "reason": "本段記西晉詔下東海王越罪狀、苟晞為大將軍、東海王越薨事，全文未提及儉；僅因征討語義與儉東征事相近被向量召回，不錄。"
         }
       ],
       "unresolved": [],
