@@ -50715,6 +50715,36 @@
           "through": "百城無主，",
           "citation": "《晉書·卷五十七·羅憲傳》",
           "note": "羅憲傳所載：鍾會、鄧艾死後，蜀地百城無主，吳趁機西上攻羅憲所守之永安。僅取會死後蜀地無主一句，不錄羅憲守城全事。"
+        },
+        {
+          "id": "ce-sgz-shaodiji-zhonghui-suixing",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 49,
+          "from": "乃令散騎常侍裴秀、給事黃門侍郎鍾會咸與大將軍俱行。",
+          "through": "乃令散騎常侍裴秀、給事黃門侍郎鍾會咸與大將軍俱行。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "甘露二年（257年）諸葛誕反，司馬昭東征，詔令給事黃門侍郎鍾會與散騎常侍裴秀俱隨大將軍行。見鍾會在淮南之役前已隨司馬昭出征。"
+        },
+        {
+          "id": "ce-sgz-shaodiji-zhonghui-luogu-fashu",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 73,
+          "from": "又命鎮西將軍鍾會由駱谷伐蜀。",
+          "through": "又命鎮西將軍鍾會由駱谷伐蜀。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "景元四年（263年）夏五月詔命三路伐蜀，鎮西將軍鍾會由駱谷進軍，與鄧艾、諸葛緒分道並進。"
+        },
+        {
+          "id": "ce-sgz-shaodiji-zhonghui-pingshu",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 75,
+          "from": "自鄧艾、鍾會率衆伐蜀，所至輙克。",
+          "through": "是月，蜀主劉禪詣艾降，巴蜀皆平。",
+          "citation": "《三國志·三少帝紀》所載",
+          "note": "鄧艾、鍾會伐蜀所至輙克，蜀主劉禪詣艾降，巴蜀皆平。見鍾會伐蜀之功。"
         }
       ],
       "exclusions": [],
