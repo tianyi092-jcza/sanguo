@@ -44777,7 +44777,7 @@
     {
       "id": "p0057",
       "name": "田豫",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "ty-pei-liaodong-sea",
@@ -44967,6 +44967,33 @@
           "from": "魏畧曰：鮮卑素利等數來客見，多以牛馬遺豫；豫轉送官。",
           "through": "後胡復來，以半與之。",
           "citation": "裴注引《魏略》"
+        },
+        {
+          "id": "ty-sgz-tianyu-nanyang-shiqiu",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 12,
+          "from": "遷南陽太守。",
+          "through": "太祖善之。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六　田豫傳》原文"
+        },
+        {
+          "id": "ty-sgz-tianyu-bingzhou-ciwei",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 16,
+          "from": "景初末，增邑三百，并前五百戶。",
+          "through": "子彭祖嗣。",
+          "citation": "《三國志·卷二十六 ‧ 魏書二十六　滿田牽郭傳第二十六　田豫傳》原文"
+        },
+        {
+          "id": "ty-pei-weilue-tianyu-gui",
+          "work": "peizhu",
+          "source": "a04-026",
+          "paragraph": 16,
+          "from": "魏畧曰：豫罷官歸，居魏縣。",
+          "through": "又就為立碑銘。",
+          "citation": "裴注引《魏略》"
         }
       ],
       "exclusions": [
@@ -44982,11 +45009,11 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": []
     }
