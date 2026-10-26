@@ -47318,6 +47318,26 @@
           "through": "毌丘儉向武昌。",
           "citation": "《三國志·孫亮傳》所載",
           "note": "正文層：吳書孫亮傳所載，魏分路攻吳，諸葛誕、胡遵圍東興，王昶攻南郡，儉向武昌；本條僅錄魏軍部署中儉一路，東興交戰經過與本段後半裴注不在本條範圍內。"
+        },
+        {
+          "id": "guanqiujian-jinshu-jiaiping-dudu-sifang",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 2,
+          "from": "諸葛誕、毌丘儉",
+          "through": "胡遵都督四方，",
+          "citation": "《晉書·文帝紀》所載",
+          "note": "正文層：晉書卷二嘉平四年段，儉與諸葛誕、王昶、陳泰、胡遵同列都督四方；本條僅錄儉所在名單一句，其餘遷官、朝議不在本條範圍內。"
+        },
+        {
+          "id": "guanqiujian-jinshu-xincheng-ju-he",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 3,
+          "from": "帝於是使鎮東將軍毌丘儉、揚州刺史文欽等距之。",
+          "through": "儉帥諸將以為後繼。",
+          "citation": "《晉書·文帝紀》所載",
+          "note": "正文層：嘉平五年諸葛恪圍新城，帝使鎮東將軍儉與揚州刺史文欽等拒之；儉、欽請戰未許，帝命高壘相持，恪力屈後欽督銳卒要其歸路、儉帥諸將以為後繼。本條錄至儉為後繼止，恪遁後欽逆擊大破為欽事，不在本條範圍內。"
         }
       ],
       "exclusions": [
@@ -47473,6 +47493,15 @@
           "term": "毌丘儉",
           "quote": "毌丘儉、文欽之亂，大軍東征，帝兼中領軍，留鎮洛陽。",
           "reason": "本句主角為兼中領軍留鎮洛陽者，儉、欽之亂僅以事件名提及，起兵詳情見本傳；且本句與 sidneyluo a05-002:7 同句為四庫本鏡像，卷二底本以 sidneyluo 為準，不重複錄入。"
+        },
+        {
+          "id": "guanqiujian-excl-018",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 26,
+          "term": "毌丘儉",
+          "quote": "誕以毌丘儉輕疾傾覆，",
+          "reason": "本段為 sidneyluo a05-002:9 的四庫本鏡像，僅異體字差異；晉書卷二底本以 sidneyluo 為準，不重複錄入，該句已在 guanqiujian-excl-003 處置。"
         }
       ],
       "unresolved": [],
