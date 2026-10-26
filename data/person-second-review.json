@@ -46053,7 +46053,35 @@
       "id": "p0062",
       "name": "高柔",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "gaorou-taichang-sikong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 11,
+          "from": "八月丁卯，以太常高柔為司空。",
+          "through": "八月丁卯，以太常高柔為司空。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "gaorou-sikong-situ",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 16,
+          "from": "四月，以司空高柔為司徒；光祿大夫徐邈為司空，固辭不受。",
+          "through": "四月，以司空高柔為司徒；光祿大夫徐邈為司空，固辭不受。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "gaorou-wangxiu-zhiren",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 22,
+          "from": "初，脩識高柔於弱冠，異王基於幼童，終皆遠至，世稱其知人。",
+          "through": "初，脩識高柔於弱冠，異王基於幼童，終皆遠至，世稱其知人。",
+          "citation": "《三國志·魏書十一·王脩傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
