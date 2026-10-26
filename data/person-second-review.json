@@ -49451,6 +49451,36 @@
           "through": "鄧艾亦見殺。",
           "citation": "《三國志·三少帝紀》所載",
           "note": "咸熈元年正月，鄧艾檻車被徵；是月鍾會反於蜀為衆所討，鄧艾亦見殺。"
+        },
+        {
+          "id": "dengai-qu-gansong-ta-zhong",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 43,
+          "from": "四年秋，乃下詔使鄧艾、諸葛緒各統諸軍三萬餘人，艾趣甘松、沓中連綴維，",
+          "through": "緒趣武街、橋頭絕維歸路。",
+          "citation": "《三國志·鍾會傳》所載",
+          "note": "景元四年秋，魏下詔以鄧艾、諸葛緒各統三萬餘人伐蜀，艾趣甘松、沓中連綴姜維。"
+        },
+        {
+          "id": "dengai-shou-ai-ru-jianche",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 47,
+          "from": "於是詔書檻車徵艾。",
+          "through": "遂收艾入檻車。",
+          "citation": "《三國志·鍾會傳》所載",
+          "note": "鍾會密白鄧艾有反狀，詔書檻車徵艾；衞瓘宣喻艾軍，艾軍釋仗，艾遂被收入檻車。"
+        },
+        {
+          "id": "dengai-po-wei-shang-gui",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 35,
+          "from": "秋八月，維為魏大將軍鄧艾所破于上邽。",
+          "through": "維退軍還成都。",
+          "citation": "《三國志·後主傳》所載",
+          "note": "後主傳十九年秋，姜維為魏大將軍鄧艾所破于上邽，維退軍還成都。"
         }
       ],
       "exclusions": [],
