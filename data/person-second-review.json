@@ -53333,6 +53333,33 @@
           "term": "賈逵",
           "quote": "往者侍中賈逵摘讖互異三十餘事",
           "reason": "此段所言侍中賈逵摘讖，為東漢侍中賈逵（永元間人，卒於101年）；三國賈逵生於174年，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-jiakui-guoyu-060a",
+          "work": "houhanshu",
+          "source": "a03-060a",
+          "paragraph": 6,
+          "term": "賈逵",
+          "quote": "賈逵注云：「繯，還也。」",
+          "reason": "此段所引賈逵注國語，為東漢賈逵（永元間侍中，注《左傳》《國語》）；三國賈逵生於174年，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-jiakui-marong-060a",
+          "work": "houhanshu",
+          "source": "a03-060a",
+          "paragraph": 16,
+          "term": "賈逵",
+          "quote": "見賈逵、鄭衆注，乃曰：「賈君精而不博，鄭君博而不精。」",
+          "reason": "此段馬融所稱賈君，為東漢賈逵（與鄭衆並稱的注家，馬融同時代人）；三國賈逵生於174年，馬融卒於166年，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-jiakui-guoyu-060b",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 4,
+          "term": "賈逵",
+          "quote": "賈逵注國語曰：「小崩曰陁。」",
+          "reason": "此段所引賈逵注國語，為東漢賈逵；三國賈逵生於174年，時代不合，為同名異人，不錄。"
         }
       ],
       "unresolved": [],
