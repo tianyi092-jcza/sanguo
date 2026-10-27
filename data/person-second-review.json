@@ -54535,6 +54535,53 @@
         "jinshu": "checked"
       },
       "conclusions": []
+    },
+    {
+      "id": "p0079",
+      "name": "楊彪",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "yb-hhs-xiandi-sikong",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 1,
+          "from": "丙戌，太中大夫楊彪為司空。",
+          "through": "丙戌，太中大夫楊彪為司空。",
+          "citation": "《後漢書·卷九 孝獻帝紀第九》",
+          "note": "中平六年九月，太中大夫楊彪拜司空；時董卓專權、少帝甫立之際。"
+        },
+        {
+          "id": "yb-hhs-xiandi-situ",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 2,
+          "from": "十二月戊戌，司徒黃琬為太尉，司空楊彪為司徒，光祿勳荀爽為司空。",
+          "through": "十二月戊戌，司徒黃琬為太尉，司空楊彪為司徒，光祿勳荀爽為司空。",
+          "citation": "《後漢書·卷九 孝獻帝紀第九》",
+          "note": "中平六年十二月，司空楊彪遷司徒，與黃琬遷太尉、荀爽為司空同日。"
+        },
+        {
+          "id": "yb-hhs-xiandi-mian",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 3,
+          "from": "二月乙亥，太尉黃琬、司徒楊彪免。",
+          "through": "二月乙亥，太尉黃琬、司徒楊彪免。",
+          "citation": "《後漢書·卷九 孝獻帝紀第九》",
+          "note": "初平元年二月，太尉黃琬、司徒楊彪同免；山東起兵討董卓之初。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
