@@ -54897,6 +54897,33 @@
           "term": "楊彪",
           "quote": "尚後為遼東太守，數月，鮮卑率兵攻尚，與戰，破之",
           "reason": "《後漢書·卷三十八‧列傳第二十八》段落全文無「楊彪」字樣，主角為遼東太守尚（延熹九年卒於官），與楊彪生平無關，係向量事件相似誤命中，排除以免重複候選。"
+        },
+        {
+          "id": "yb-excl-hhs-jingsun-taiwei-wuming",
+          "work": "houhanshu",
+          "source": "a03-076",
+          "paragraph": 38,
+          "term": "楊彪",
+          "quote": "荊孫戫，靈帝時為太尉。",
+          "reason": "《後漢書》段落全文無「楊彪」字樣，僅記靈帝時太尉事，與楊彪生平無關，係「漢末太尉」事件相似誤命中，排除以免重複候選。"
+        },
+        {
+          "id": "yb-excl-hhs-hanan-bianshi-wuming",
+          "work": "houhanshu",
+          "source": "a03-089",
+          "paragraph": 54,
+          "term": "楊彪",
+          "quote": "漢安元年秋，順帝永和七年改為漢安元年也。",
+          "reason": "《後漢書》段落全文無「楊彪」字樣，記漢安元年邊事，與楊彪生平無關，係「漢末太尉」事件相似誤命中，排除以免重複候選。"
+        },
+        {
+          "id": "yb-excl-hhs-mari-di-liuyu-taiwei-wuming",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 22,
+          "term": "楊彪",
+          "quote": "太尉馬日磾免，幽州牧劉虞為太尉。",
+          "reason": "《後漢書》段落全文無「楊彪」字樣，主角為太尉馬日磾與繼任太尉劉虞，與楊彪生平無關，係「漢末太尉」事件相似誤命中，排除以免重複候選。"
         }
       ],
       "unresolved": [],
