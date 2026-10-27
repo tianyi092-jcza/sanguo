@@ -53441,6 +53441,33 @@
           "term": "賈逵",
           "quote": "賈逵論曆",
           "reason": "所列賈逵論曆屬東漢永元年間曆議（永元為和帝年號）；三國賈逵生於174年，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-zhangdi-luli",
+          "work": "houhanshu",
+          "source": "a03-092",
+          "paragraph": 2,
+          "term": "賈逵",
+          "quote": "賈逵問治曆者",
+          "reason": "章帝元和年間曆議中左中郎將賈逵問治曆者；三國賈逵生於174年，時代不合，為同名異人（東漢賈逵），不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-liuzong-jiakui",
+          "work": "houhanshu",
+          "source": "a03-098",
+          "paragraph": 12,
+          "term": "賈逵",
+          "quote": "賈逵曰：「六宗謂日宗、月宗、星宗、岱宗、海宗、河宗也。」",
+          "reason": "安帝元初六年六宗議引東漢賈逵舊說論六宗；元初六年為119年，早於三國賈逵生年174年，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-wuse-hujiang",
+          "work": "houhanshu",
+          "source": "a03-104",
+          "paragraph": 34,
+          "term": "賈逵",
+          "quote": "賈逵以為胡降徵也",
+          "reason": "此賈逵論宣帝、明帝時五色鳥為胡降之徵；宣帝、明帝皆在三國賈逵生年174年之前，為同名異人（東漢賈逵），不錄。"
         }
       ],
       "unresolved": [],
