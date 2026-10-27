@@ -54539,7 +54539,7 @@
     {
       "id": "p0079",
       "name": "楊彪",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yb-hhs-xiandi-sikong",
@@ -55279,15 +55279,24 @@
           "term": "楊彪",
           "quote": "脩字德祖，好學，有俊才，為丞相曹操主簿",
           "reason": "全段記楊彪之子楊脩事（為曹操主簿、雞肋決斷、因事被殺），全文無「楊彪」字樣，非楊彪本人事，排除以免父子串人。"
+        },
+        {
+          "id": "yb-excl-hhs-yangxiu-works",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 40,
+          "term": "楊彪",
+          "quote": "脩所著賦、頌、碑、讚、詩、哀辭、表、記、書凡十五篇。",
+          "reason": "全段為楊彪之子楊脩著作目錄（賦、頌、碑、讚等十五篇），無楊彪本人事，排除以免父子串人。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": []
     }
