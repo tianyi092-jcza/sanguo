@@ -55424,6 +55424,36 @@
           "through": "與蔡邕共奏定六經文字。",
           "citation": "《後漢書·卷七十九上 儒林列傳第六十九上》",
           "note": "張馴拜議郎後，與蔡邕共奏定六經文字。"
+        },
+        {
+          "id": "cy-hhs-hanshuo-youshan",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 14,
+          "from": "與議郎蔡邕友善。",
+          "through": "與議郎蔡邕友善。",
+          "citation": "《後漢書·卷八十二下 方術列傳第七十二下》",
+          "note": "韓說博通五經、尤善圖緯之學，與議郎蔡邕友善。"
+        },
+        {
+          "id": "cy-hhs-cao-e-bei",
+          "work": "houhanshu",
+          "source": "a03-084",
+          "paragraph": 27,
+          "from": "其後蔡邕又題八字曰：『黃絹幼婦，外孫虀臼。』",
+          "through": "其後蔡邕又題八字曰：『黃絹幼婦，外孫虀臼。』",
+          "citation": "《後漢書·卷八十四 列女傳第七十四》",
+          "note": "曹娥碑事：邯鄲淳為曹娥碑作銘後，蔡邕又題八字「黃絹幼婦，外孫虀臼」。"
+        },
+        {
+          "id": "cy-hhs-xianbei-yi",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 26,
+          "from": "大臣多有不同，乃召百官議朝堂。議郎蔡邕議曰：",
+          "through": "大臣多有不同，乃召百官議朝堂。議郎蔡邕議曰：",
+          "citation": "《後漢書·卷九十 列傳第八十》",
+          "note": "熹平六年議討鮮卑：大臣多有不同，朝廷召百官議於朝堂，議郎蔡邕發議。"
         }
       ],
       "exclusions": [],
