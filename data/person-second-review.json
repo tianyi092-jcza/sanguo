@@ -59241,7 +59241,7 @@
     {
       "id": "p0085",
       "name": "何進",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "hejin-hhs-001",
@@ -60603,15 +60603,42 @@
           "term": "何進",
           "quote": "武孫輔，時年二歲，逃竄得全。",
           "reason": "此段為竇武孫輔幼年逃竄得全、後為胡騰、張敞所匿養，主體為竇輔、胡騰與張敞，無何進人名與言行，排除。"
+        },
+        {
+          "id": "hejin-excl-062",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 11,
+          "term": "何進",
+          "quote": "初，武母產武而并產一蛇，送之林中。",
+          "reason": "此段為竇武母產武并產一蛇、葬母時大蛇至喪所擊柩涕血之祥，主體為竇武母子與竇氏之祥，無何進人名與言行，排除。"
+        },
+        {
+          "id": "hejin-excl-063",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 12,
+          "term": "何進",
+          "quote": "騰字子升。初，桓帝巡狩南陽，以騰為護駕從事。",
+          "reason": "此段為胡騰字子升、桓帝巡狩南陽時為護駕從事、上言整肅徵求而顯名、官至尚書，主體為胡騰，無何進人名與言行，排除。"
+        },
+        {
+          "id": "hejin-excl-064",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 13,
+          "term": "何進",
+          "quote": "張敞者，太尉溫之弟也。",
+          "reason": "此段僅介紹張敞為太尉張溫之弟，並引漢官儀述張溫封互鄉侯、為董卓笞殺於市，主體為張敞、張溫，無何進人名與言行，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": []
     }
