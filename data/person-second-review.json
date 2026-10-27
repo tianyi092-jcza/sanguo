@@ -55299,6 +55299,53 @@
         "jinshu": "checked"
       },
       "conclusions": []
+    },
+    {
+      "id": "p0080",
+      "name": "蔡邕",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "cy-hhs-lingdi-pingchengmen",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 10,
+          "from": "蔡邕曰：「平城門，正陽之門，與宮連，郊祀法駕所從出，門之最尊者。」",
+          "through": "蔡邕曰：「平城門，正陽之門，與宮連，郊祀法駕所從出，門之最尊者。」",
+          "citation": "《後漢書·卷八 孝靈帝紀第八》",
+          "note": "熹平六年二月，南宮平城門及武庫東垣屋自壞，蔡邕解說平城門為正陽之門、與宮連、郊祀法駕所從出、門之最尊者。"
+        },
+        {
+          "id": "cy-hhs-bin-qiming",
+          "work": "houhanshu",
+          "source": "a03-037",
+          "paragraph": 29,
+          "from": "彬少與蔡邕齊名。",
+          "through": "彬少與蔡邕齊名。",
+          "citation": "《後漢書·卷三十七 列傳第二十七》",
+          "note": "彬少時與蔡邕齊名。"
+        },
+        {
+          "id": "cy-hhs-zhumu-zixie",
+          "work": "houhanshu",
+          "source": "a03-043",
+          "paragraph": 22,
+          "from": "袁山松書曰：「穆著論甚美，蔡邕甞至其家自寫之。」",
+          "through": "袁山松書曰：「穆著論甚美，蔡邕甞至其家自寫之。」",
+          "citation": "《後漢書·卷四十三 列傳第三十三》",
+          "note": "袁山松書稱朱穆著論甚美，蔡邕曾至其家親自抄寫其論。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
