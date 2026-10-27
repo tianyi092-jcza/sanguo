@@ -55914,6 +55914,36 @@
           "through": "謐所列在郡國志。",
           "citation": "《後漢書·志第三 律曆下》",
           "note": "僅取結語一句：蔡邕所分星次度數與皇甫謐不同，且兼明氣節所在，故載於此；皇甫謐所列在郡國志。本段前面的晷景與星次長表不錄。"
+        },
+        {
+          "id": "cy-hhs-liyizhi-huguang",
+          "work": "houhanshu",
+          "source": "a03-094",
+          "paragraph": 1,
+          "from": "謝沈書曰：「太傅胡廣博綜舊儀",
+          "through": "譙周後改定以為禮儀志。」",
+          "citation": "《後漢書·志第四 禮儀上》",
+          "note": "禮儀志序引謝沈書：太傅胡廣博綜舊儀、立漢制度，蔡邕依之以為志，後由譙周改定為禮儀志。此條見蔡邕於禮儀志之著述淵源。"
+        },
+        {
+          "id": "cy-hhs-lichun-kuanda",
+          "work": "houhanshu",
+          "source": "a03-094",
+          "paragraph": 3,
+          "from": "月令曰：「命相布德和令。」",
+          "through": "蔡邕曰：「即此詔之謂也。」",
+          "citation": "《後漢書·志第四 禮儀上》",
+          "note": "立春寬大詔之後引《月令》與蔡邕說：蔡邕以《月令》命相布德和令解此詔，謂即此詔之謂。"
+        },
+        {
+          "id": "cy-hhs-wugeng-zhanglao",
+          "work": "houhanshu",
+          "source": "a03-094",
+          "paragraph": 11,
+          "from": "蔡邕曰：「五更",
+          "through": "長老之稱也。」",
+          "citation": "《後漢書·志第四 禮儀上》",
+          "note": "永平二年躬養三老五更段中，蔡邕釋五更為長老之稱。"
         }
       ],
       "exclusions": [
