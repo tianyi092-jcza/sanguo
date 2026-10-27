@@ -52996,6 +52996,34 @@
           "from": "而詔已拜杜畿為太守",
           "through": "畿已入界。",
           "citation": "《三國志·魏書十三 鍾繇傳》裴注引《魏略》"
+        },
+        {
+          "id": "dj-bio-early",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 9,
+          "from": "少孤，繼母苦之",
+          "through": "郡中奇其年少而有大意也。",
+          "citation": "《三國志·魏書十六 杜畿傳》"
+        },
+        {
+          "id": "dj-bio-hedong-appoint",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 10,
+          "from": "於是追拜畿為河東太守。",
+          "through": "畿至不得渡。",
+          "citation": "《三國志·魏書十六 杜畿傳》"
+        },
+        {
+          "id": "dj-bio-taizu-praise",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 12,
+          "from": "太祖下令曰：「河東太守杜畿",
+          "through": "增秩中二千石。」",
+          "citation": "《三國志·魏書十六 杜畿傳》",
+          "note": "同段末記畿在河東十六年，常為天下最。"
         }
       ],
       "exclusions": [
