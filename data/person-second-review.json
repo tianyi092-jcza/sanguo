@@ -56421,6 +56421,33 @@
           "term": "蔡邕",
           "quote": "蔡邕所謂周髀者，即蓋天之說也。",
           "reason": "此段為天文志文解說蔡邕所稱「周髀」即蓋天之說並詳述蓋天宇宙說，屬志文對其用語的解說引證，非蔡邕本人上書言論或生平事蹟，故不錄為摘錄。"
+        },
+        {
+          "id": "cy-excl-026",
+          "work": "jinshu",
+          "source": "a05-011.json",
+          "paragraph": 1,
+          "term": "蔡邕",
+          "quote": "而蔡邕、譙周各有撰錄，司馬彪採之，以繼前志。",
+          "reason": "天文志序僅將蔡邕與譙周並提為各有天文撰錄、為司馬彪所採，無蔡邕具體言論或事蹟，故不錄為摘錄；此段為 sidneyluo 本同段文字，與 cy-excl-024（a05-011-ahcb:0）同文，不重複處置。"
+        },
+        {
+          "id": "cy-excl-027",
+          "work": "jinshu",
+          "source": "a05-011.json",
+          "paragraph": 4,
+          "term": "蔡邕",
+          "quote": "漢靈帝時，蔡邕於朔方上書，言「宣夜之學，絕無師法。",
+          "reason": "此段為 sidneyluo 本《晉書·天文志》蔡邕朔方上書文字，與已錄摘錄 cy-jinshu-tianwen-shuofang-shangshu（a05-011-ahcb:1）同段同文，不重複錄為摘錄。"
+        },
+        {
+          "id": "cy-excl-028",
+          "work": "jinshu",
+          "source": "a05-011.json",
+          "paragraph": 5,
+          "term": "蔡邕",
+          "quote": "蔡邕所謂周髀者，即蓋天之說也。",
+          "reason": "此段為天文志文解說蔡邕所稱「周髀」即蓋天之說並詳述蓋天宇宙說，屬志文對其用語的解說引證，非蔡邕本人上書言論或生平事蹟，故不錄為摘錄；此段為 sidneyluo 本同段文字，與 cy-excl-025（a05-011-ahcb:2）同文。"
         }
       ],
       "unresolved": [],
