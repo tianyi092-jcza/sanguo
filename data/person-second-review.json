@@ -57356,6 +57356,33 @@
           "term": "禰衡",
           "quote": "曹爽傳",
           "reason": "段落僅為篇題，無禰衡字樣、無擊鼓事蹟，排除。"
+        },
+        {
+          "id": "mh-excl-059",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 179,
+          "term": "禰衡",
+          "quote": "二十三年春正月，南郡蠻叛，遣武威將軍劉尚討破之",
+          "reason": "段落記南郡蠻叛、徙其種人於江夏事，無禰衡字樣、無衡轉江夏黃祖事蹟，江夏僅為徙置地名，排除。"
+        },
+        {
+          "id": "mh-excl-060",
+          "work": "houhanshu",
+          "source": "a03-077",
+          "paragraph": 4,
+          "term": "禰衡",
+          "quote": "後江夏有劇賊夏喜等寇亂郡境",
+          "reason": "段落記江夏太守平夏喜等寇亂事，無禰衡字樣、無衡事蹟，江夏僅為郡名，排除。"
+        },
+        {
+          "id": "mh-excl-061",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 57,
+          "term": "禰衡",
+          "quote": "八月庚戌，劉琨奔于常山",
+          "reason": "段落記劉琨奔常山、乞師猗盧事，無禰衡字樣、無送劉表事蹟，排除。"
         }
       ],
       "unresolved": [],
