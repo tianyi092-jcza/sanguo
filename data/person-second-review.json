@@ -53360,6 +53360,33 @@
           "term": "賈逵",
           "quote": "賈逵注國語曰：「小崩曰陁。」",
           "reason": "此段所引賈逵注國語，為東漢賈逵；三國賈逵生於174年，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-luzhi-guwen",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 22,
+          "term": "賈逵",
+          "quote": "中興以來，通儒達士班固、賈逵、鄭興父子，並敦恱之。",
+          "reason": "此段與班固、鄭興父子並列論東漢古文經學，為東漢賈逵；三國賈逵生於174年，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-chenlin-guoyu",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 32,
+          "term": "賈逵",
+          "quote": "賈逵注國語曰：「從後牽曰掎。」",
+          "reason": "此段所引賈逵注國語，為東漢賈逵；三國賈逵生於174年，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-dulin-guwen",
+          "work": "houhanshu",
+          "source": "a03-079",
+          "paragraph": 58,
+          "term": "賈逵",
+          "quote": "林同郡賈逵為之作訓，馬融作傳",
+          "reason": "杜林、馬融皆東漢人，此賈逵為東漢古文尚書學者；三國賈逵生於174年，時代不合，為同名異人，不錄。"
         }
       ],
       "unresolved": [],
