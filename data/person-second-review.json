@@ -53024,6 +53024,36 @@
           "through": "增秩中二千石。」",
           "citation": "《三國志·魏書十六 杜畿傳》",
           "note": "同段末記畿在河東十六年，常為天下最。"
+        },
+        {
+          "id": "dj-bio-liushou-taohe",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 13,
+          "from": "守司隷校尉。",
+          "through": "帝為之流涕。",
+          "citation": "《三國志·魏書十六 杜畿傳》",
+          "note": "文帝征吳時畿以尚書僕射統留事，後於陶河試御樓船遇風覆沒；此段為正文，不含其間魏略裴注。"
+        },
+        {
+          "id": "dj-bio-yiji-fengyu",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 31,
+          "from": "甘露二年，河東樂詳年九十餘，上書訟畿之遺績，朝廷感焉。",
+          "through": "詔封恕子預為豐樂亭侯，邑百戶。",
+          "citation": "《三國志·魏書十六 杜畿傳》",
+          "note": "甘露二年樂詳訟畿遺績，朝廷封畿孫杜預襲豐樂亭侯；此段為正文，不含其後魏略裴注。"
+        },
+        {
+          "id": "dj-bio-ping-kuanmeng",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 40,
+          "from": "杜畿寬猛克濟，",
+          "through": "惠以康民。",
+          "citation": "《三國志·魏書十六 杜畿傳》",
+          "note": "本傳末評曰中關於杜畿的一句，為陳壽評語而非事跡，寬猛並濟、以惠安民。"
         }
       ],
       "exclusions": [
