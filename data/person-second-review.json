@@ -58678,6 +58678,53 @@
         "辨人：與同卷華佗、杜夔、朱建平、周宣嚴格區分；郭璞傳「雖京房、管輅不能過」僅為比況參照，已排除；單字命中均核實確指本人後方錄入。",
         "生卒：按檢索配置與本傳繫年為 210–256；術筮人物，字公明，平原人。"
       ]
+    },
+    {
+      "id": "p0084",
+      "name": "漢獻帝",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "hanxiandi-sgz-001",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 4,
+          "from": "建安元年，太祖擊破黃巾。",
+          "through": "天子拜太祖大將軍，進彧為漢侍中，守尚書令。",
+          "citation": "《三國志·魏書十·荀彧傳》",
+          "note": "建安元年（196）獻帝自河東還洛陽，荀彧勸曹操奉迎，天子都許並拜曹操為大將軍。本條僅取荀彧傳正文，段內典略、衡傳等裴注不併入。"
+        },
+        {
+          "id": "hanxiandi-jin-001",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 42,
+          "from": "許昌漢獻帝都許。",
+          "through": "改為許昌。",
+          "citation": "《晉書·卷十四·地理志》",
+          "note": "潁川郡許昌條：獻帝都許，魏禪後徙都洛陽，許宮室武庫存焉，改為許昌。僅取許昌一條，郡內他縣不併入；同內容四庫本 a05-014-ahcb:53 為鏡像，不重錄。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "hanxiandi-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 4,
+          "term": "漢獻帝",
+          "quote": "漢獻帝春秋曰：漢朝聞益州亂，遣五官中郎將牛亶為益州刺史；徵璋為卿，不至。",
+          "reason": "「漢獻帝春秋」為裴注所引史書書名，此處僅以書名出現，非獻帝本人事迹；該段主角為劉璋，排除。"
+        }
+      ],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
