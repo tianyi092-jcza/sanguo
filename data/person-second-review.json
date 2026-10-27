@@ -54924,6 +54924,33 @@
           "term": "楊彪",
           "quote": "太尉馬日磾免，幽州牧劉虞為太尉。",
           "reason": "《後漢書》段落全文無「楊彪」字樣，主角為太尉馬日磾與繼任太尉劉虞，與楊彪生平無關，係「漢末太尉」事件相似誤命中，排除以免重複候選。"
+        },
+        {
+          "id": "yb-excl-hhs-wangzhong-huangjin-wuming",
+          "work": "houhanshu",
+          "source": "a03-055",
+          "paragraph": 25,
+          "term": "楊彪",
+          "quote": "黃巾賊起，忠為國人所執，旣而釋之。",
+          "reason": "《後漢書》段落全文無「楊彪」字樣，僅記獻王忠黃巾事，與楊彪生平無關，係「衛護天子」事件相似誤命中，排除以免重複候選。"
+        },
+        {
+          "id": "yb-excl-hhs-annals-eryue-wuming",
+          "work": "houhanshu",
+          "source": "a03-007",
+          "paragraph": 11,
+          "term": "楊彪",
+          "quote": "秋七月，鮮卑寇雲中。",
+          "reason": "《後漢書》段落全文無「楊彪」字樣，僅記二年諸事，與楊彪生平無關，係「漢末太尉」事件相似誤命中，排除以免重複候選。"
+        },
+        {
+          "id": "yb-excl-hhs-huangtaizi-jiankang-wuming",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 217,
+          "term": "楊彪",
+          "quote": "建康元年立為皇太子，其年八月庚午，即皇帝位，年二歲。",
+          "reason": "《後漢書》段落全文無「楊彪」字樣，僅記皇太子即位事，與楊彪生平無關，係「衛護天子」事件相似誤命中，排除以免重複候選。"
         }
       ],
       "unresolved": [],
