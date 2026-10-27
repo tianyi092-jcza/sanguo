@@ -52947,6 +52947,52 @@
         "生卒：卒建安二十二年（217 年），征吳至居巢，軍中大疫，躬巡視致醫藥而遇疾卒，時年四十七；生年按檢索配置為 171 年。",
         "勢力繫年：辟太祖司空掾屬起仕曹魏陣營，遷兖州刺史政化大行；州郡領兵、復井田之議未施行，僅記為朗本意，不作既行之政。"
       ]
+    },
+    {
+      "id": "p0075",
+      "name": "杜畿",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [
+        {
+          "id": "dj-pei-xunyu",
+          "work": "peizhu",
+          "source": "a04-010",
+          "paragraph": 11,
+          "from": "杜畿簡傲少文",
+          "through": "終各顯名。",
+          "citation": "《三國志·魏書十 荀彧傳》裴注引《荀彧別傳》"
+        },
+        {
+          "id": "dj-hhs-xiegai",
+          "work": "houhanshu",
+          "source": "a03-079b-ahcb",
+          "paragraph": 59,
+          "from": "杜畿爲太守",
+          "through": "署詳文學祭酒。",
+          "citation": "《後漢書·卷七十九下 ‧ 儒林列傳第六十九下 謝該傳》",
+          "note": "謝該傳注引《魏略》，記杜畿署樂詳為文學祭酒。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "dj-excl-lexiang",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 30,
+          "term": "杜畿",
+          "quote": "其邯鄲淳事在王粲傳，蘇林事在劉邵、高堂隆傳，樂詳事在杜畿傳。",
+          "reason": "本段僅以「樂詳事在杜畿傳」作篇目交代，未述杜畿本人事跡，排除。"
+        }
+      ],
+      "unresolved": [],
+      "conclusions": []
     }
   ]
 }
