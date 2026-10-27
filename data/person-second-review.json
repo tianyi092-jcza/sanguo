@@ -56124,6 +56124,36 @@
           "through": "吾家書籍文章，盡當與之。",
           "citation": "《三國志·魏書二十一 王粲傳》",
           "note": "献帝西迁、王粲徙长安时，左中郎将蔡邕见年幼的王粲而奇之，闻其在门倒屣迎接，称其有异才、胜过自己，并表示家中书籍文章尽当给他。"
+        },
+        {
+          "id": "cy-sgz-ruanyu-xuecaiyong",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 7,
+          "from": "瑀少受學於蔡邕。",
+          "through": "瑀少受學於蔡邕。",
+          "citation": "《三國志·魏書二十一 王粲傳》",
+          "note": "阮瑀年少時受學於蔡邕。"
+        },
+        {
+          "id": "cy-sgz-lucui-xuecaiyong",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 10,
+          "from": "粹字文蔚，少學於蔡邕。",
+          "through": "粹字文蔚，少學於蔡邕。",
+          "citation": "《三國志·魏書二十一 王粲傳》",
+          "note": "裴注引典略載：路粹字文蔚，年少時學於蔡邕。"
+        },
+        {
+          "id": "cy-sgz-caiyong-gujinza-xing",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 32,
+          "from": "漢末又有蔡邕采斯、喜之法，為古今雜形，然精密簡理不如淳也。",
+          "through": "漢末又有蔡邕采斯、喜之法，為古今雜形，然精密簡理不如淳也。",
+          "citation": "《三國志·魏書二十一 王粲傳》",
+          "note": "裴注引衛恒四體書勢序（篆書序）載：漢末蔡邕採李斯、曹喜之法，作古今雜形，但精密簡理不如邯鄲淳。"
         }
       ],
       "exclusions": [
