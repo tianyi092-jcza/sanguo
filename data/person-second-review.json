@@ -56034,6 +56034,36 @@
           "through": "以續前志，譙周接繼其下者。」",
           "citation": "《後漢書·志第十 天文上》",
           "note": "謝沈書言蔡邕撰建武已後星驗著明之文，以續班固、馬續所作天文志之前志，其下由譙周接繼。"
+        },
+        {
+          "id": "cy-hhs-junguo-changling-song",
+          "work": "houhanshu",
+          "source": "a03-109",
+          "paragraph": 11,
+          "from": "蔡邕作樊陵頌云：「前漢戶五萬，",
+          "through": "民用匱乏，不堪其事。」",
+          "citation": "《後漢書·志第十九 郡國一》",
+          "note": "郡國志長陵條引蔡邕所作頌：前漢長陵戶五萬、口十七萬，王莽後十不存一；永初元年羌戎作虐，至光和領戶不盈四千，園陵蕃衞粢盛之供、百役皆出於此，民用匱乏，不堪其事。"
+        },
+        {
+          "id": "cy-hhs-yufu-wushi-fuche",
+          "work": "houhanshu",
+          "source": "a03-119",
+          "paragraph": 5,
+          "from": "蔡邕表志曰：「以文義不著之故，",
+          "through": "其比非一也。」",
+          "citation": "《後漢書·志第二十九 輿服上》",
+          "note": "蔡邕表志言因文義不著，俗人多失車駕器物之名：五時副車曰五帝車，鸞旗曰雞翹，耕根曰三蓋，類似者非一。"
+        },
+        {
+          "id": "cy-hhs-yufu-ganquan-lubo",
+          "work": "houhanshu",
+          "source": "a03-119",
+          "paragraph": 16,
+          "from": "蔡邕表志曰：「國家舊章，",
+          "through": "莫之得見。」",
+          "citation": "《後漢書·志第二十九 輿服上》",
+          "note": "蔡邕表志言甘泉鹵簿官注為國家舊章，卻幽僻藏蔽，莫之得見。"
         }
       ],
       "exclusions": [
