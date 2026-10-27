@@ -53142,6 +53142,24 @@
           "from": "脩與賈逵、王淩並為主簿",
           "through": "而為植所友。",
           "citation": "《三國志·魏書十九 任城陳蕭王傳》裴注引《世語》"
+        },
+        {
+          "id": "jk-sgz-jiang-shoucheng",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 27,
+          "from": "初為郡吏，守絳邑長",
+          "through": "左右義逵，多為請，遂得免。",
+          "citation": "《三國志·魏書十五 賈逵傳》"
+        },
+        {
+          "id": "jk-sgz-mianchi-hongnong",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 28,
+          "from": "後舉茂才，除澠池令",
+          "through": "檛折脚，坐免。",
+          "citation": "《三國志·魏書十五 賈逵傳》"
         }
       ],
       "exclusions": [
@@ -53468,6 +53486,15 @@
           "term": "賈逵",
           "quote": "賈逵以為胡降徵也",
           "reason": "此賈逵論宣帝、明帝時五色鳥為胡降之徵；宣帝、明帝皆在三國賈逵生年174年之前，為同名異人（東漢賈逵），不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-junguo-taotang",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 58,
+          "term": "賈逵",
+          "quote": "賈逵曰：「陶唐之胤劉累也。」",
+          "reason": "後漢書郡國志太原郡晉陽條引賈逵說陶唐之胤為劉累，此賈逵為東漢經學家（左傳注家）；三國賈逵生於174年，時代不合，為同名異人，不錄。"
         }
       ],
       "unresolved": [],
