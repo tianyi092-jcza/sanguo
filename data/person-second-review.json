@@ -53669,8 +53669,39 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "lf-sgz-liufu-yangzhou",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 1,
+          "from": "劉馥字元穎，沛國相人也。",
+          "through": "遂表為揚州刺史。",
+          "citation": "《三國志·魏書十五 劉馥傳》",
+          "note": "本傳首段：劉馥字元穎、沛國相人，建安初說袁術將戚寄、秦翊率衆詣太祖，後以可任東南之事表為揚州刺史。屬初附太祖、受任揚州刺史前階段。"
+        },
+        {
+          "id": "lf-sgz-zongshi-sunshao-peizhu",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 20,
+          "from": "遂殺河，使人北迎揚州刺史劉馥，令住歷陽，以丹楊應之。",
+          "through": "遂殺河，使人北迎揚州刺史劉馥，令住歷陽，以丹楊應之。",
+          "citation": "《三國志·卷五十一 ‧ 吳書六　宗室傳第六 孫韶傳》裴注",
+          "note": "裴注所載：孫翊遇害後，媯覽、戴員殺孫河，北迎揚州刺史劉馥令住歷陽、以丹楊應之；後徐元等殺覽、員，迎馥未成。見劉馥任揚州刺史時吳方亦視其為可迎之北援。按句子級提取，只取含名句。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "lf-excl-sgz-liufu-pianmu",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 0,
+          "term": "劉馥",
+          "quote": "劉馥傳",
+          "reason": "僅為《三國志·魏書十五》中的傳目標記「劉馥傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
       "unresolved": [],
       "conclusions": []
     }
