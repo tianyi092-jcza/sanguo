@@ -57716,6 +57716,53 @@
         "本傳為《後漢書·文苑列傳下》禰衡傳；三國志無本傳，僅他傳及裴注提及（荀彧傳裴注、張昭傳裴注已錄）。",
         "生卒：本傳明載死時年二十六（黃祖所殺事）；年表生卒按配置 173–198 年。"
       ]
+    },
+    {
+      "id": "p0082",
+      "name": "華佗",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "huatuo-hhs-001",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 20,
+          "from": "華佗字元化",
+          "through": "皆不就。",
+          "citation": "《後漢書·方術列傳》所載",
+          "note": "華佗身份：字元化，沛國譙人；遊學徐土兼通數經，曉養性之術；沛相陳珪舉孝廉、太尉黃琬辟皆不就。"
+        },
+        {
+          "id": "huatuo-hhs-002",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 21,
+          "from": "乃令先以酒服麻沸散",
+          "through": "一月之閒皆平復。",
+          "citation": "《後漢書·方術列傳》所載",
+          "note": "麻沸散手術：疾發結於內、針藥所不能及者，先以酒服麻沸散使醉無覺，刳破腹背抽割積聚；若在腸胃則斷截湔洗、除去疾穢，縫合傅神膏，四五日創愈，一月平復。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "huatuo-excl-001",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 34,
+          "term": "華佗",
+          "quote": "泠壽光、唐虞、魯女生三人者，皆與華佗同時。",
+          "reason": "段落主角為泠壽光、唐虞、魯女生三方士，華佗僅以同時代人物作參照出現，非其本人事迹，排除。"
+        }
+      ],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
