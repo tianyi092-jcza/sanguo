@@ -54064,6 +54064,33 @@
           "term": "涼王",
           "quote": "禿髮傉檀僭即涼王位",
           "reason": "義熙四年（408）禿髮傉檀僭涼王位事，距張既卒已逾百年，段中無張既姓名與事蹟，係涼字誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-dengxun-fuhu",
+          "work": "houhanshu",
+          "source": "a03-016",
+          "paragraph": 24,
+          "term": "撫養",
+          "quote": "訓遂撫養其中少年勇者數百人，以為義從",
+          "reason": "章和二年（92）鄧訓任護羌校尉撫胡事，段中無張既姓名與事蹟，距張既生年（170）尚遠，係「撫胡羌」事件詞誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-duanjiong-pingqiang",
+          "work": "houhanshu",
+          "source": "a03-065",
+          "paragraph": 39,
+          "term": "護羌校尉",
+          "quote": "冬，復以熲為護羌校尉",
+          "reason": "東漢段熲任護羌校尉平羌事，段中主角為段熲，無張既姓名與事蹟，係「撫胡羌」事件詞誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-js-zhangji-juqu-faliang",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 113,
+          "term": "伐涼",
+          "quote": "袓渠蒙遜伐涼，涼武昭王玄盛與戰",
+          "reason": "晉安帝時沮渠蒙遜伐涼、李玄盛拒戰事，距張既卒（225）已逾百年，段中無張既姓名與事蹟，係「涼州刺史」事件詞誤命中，排除。"
         }
       ],
       "unresolved": [],
