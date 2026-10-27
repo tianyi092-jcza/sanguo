@@ -54118,6 +54118,33 @@
           "term": "涼州刺史",
           "quote": "涼州刺史張寔送皇帝行璽一紐",
           "reason": "晉代涼州刺史張寔送皇帝行璽事，距張既卒（225）近百年，段中張寔非張既，係「涼州刺史」事件詞誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-jin-guoquan-yongzhou-ahcb",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 76,
+          "term": "雍州刺史",
+          "quote": "以郭權爲鎮西將軍、雍州刺史",
+          "reason": "本段主角為郭權任鎮西將軍、雍州刺史事，段中無張既姓名與事蹟，僅因涼州地名與刺史職銜誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-jin-wuheti-qifu-ahcb",
+          "work": "jinshu",
+          "source": "a05-097-ahcb",
+          "paragraph": 25,
+          "term": "烏紇堤",
+          "quote": "烏紇堤屢抄其境",
+          "reason": "本段主角為烏紇堤與乞伏乾歸事，段中無張既姓名與事蹟，僅胡事誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-js-zhangji-duanye-liangwang-ahcb",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 18,
+          "term": "涼王",
+          "quote": "段業自稱涼王",
+          "reason": "本段為段業自稱涼王、楊盛稱藩事，段中無張既姓名與事蹟，係「涼王」事件詞誤命中，排除。"
         }
       ],
       "unresolved": [],
