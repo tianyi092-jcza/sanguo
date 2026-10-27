@@ -56747,6 +56747,53 @@
         "本傳為《後漢書·卷六十下 列傳第五十下》；三國志無本傳，僅他傳提及。",
         "生卒：本傳明載死於獄中時年六十一（董卓被誅後事）；年表生卒按配置 133–192 年。"
       ]
+    },
+    {
+      "id": "p0081",
+      "name": "禰衡",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "mh-hhs-identity",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 47,
+          "from": "禰衡字正平，平原般人也。",
+          "through": "建安初，來遊許下。",
+          "citation": "《後漢書·文苑列傳下》所載",
+          "note": "禰衡傳開篇正文：字正平，平原般人；少有才辯而尚氣剛傲；興平中避難荊州，建安初遊許下。"
+        },
+        {
+          "id": "mh-sgz-xunyu-peizhu",
+          "work": "peizhu",
+          "source": "a04-010",
+          "paragraph": 4,
+          "from": "衡字正平，建安初，自荊州北游許都",
+          "through": "人皆以是憎之。",
+          "citation": "《三國志·荀彧傳》裴注引《平原禰衡傳》所載",
+          "note": "荀彧傳裴注引《平原禰衡傳》：衡建安初自荊州北遊許都，恃才傲逸，臧否過差，見不如己者不與語，故為人所憎；與後漢書文苑傳開篇互證。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "mh-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 8,
+          "term": "禰衡",
+          "quote": "此州人說平原禰衡受傳融論，以為父母與人無親，譬若缻器，寄盛其中，又言若遭饑饉，而父不肖，寧贍活餘人。",
+          "reason": "段落主角為孔融伏罪事；禰衡僅在太祖令引述的州人傳聞中以「受傳融論」出現，非禰衡本人事迹，排除。"
+        }
+      ],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
