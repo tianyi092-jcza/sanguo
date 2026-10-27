@@ -53657,6 +53657,22 @@
         "生卒：生 174 年，卒 228 年（本傳段 32：薨時年五十五，諡曰肅侯，子充嗣；豫州吏民追思立祠刻石）。",
         "勢力繫年：始終仕曹魏：初為郡吏、澠池令，太祖朝弘農太守、丞相主簿；文帝朝鄴令、魏郡太守、豫州刺史（州以為法、賜爵關內侯）；明帝朝建威將軍，太和二年督軍救曹休於夾石；豫州治績以賈侯渠、法制禁令著稱，為後世所稱引。"
       ]
+    },
+    {
+      "id": "p0077",
+      "name": "劉馥",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "conclusions": []
     }
   ]
 }
