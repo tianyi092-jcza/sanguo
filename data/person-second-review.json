@@ -52951,13 +52951,13 @@
     {
       "id": "p0075",
       "name": "杜畿",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "excerpts": [
         {
@@ -53097,7 +53097,12 @@
         }
       ],
       "unresolved": [],
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：向量候選已枯竭（0 段），未解決 0 條；本傳杜畿本人段落 a04-016:9–13、31、40 已全覆蓋（段 8 僅題名已排除）；同卷杜恕附傳屬其子、任峻／蘇則／鄭渾／倉慈屬同卷他傳，非杜畿本人段落，不錄。",
+        "辨人：與子杜恕、孫杜預嚴格區分，杜恕附傳段落不記入杜畿名下；樂詳事在杜畿傳僅篇目交代已排除；諸葛誕傳裴注陶河事與本傳陶河覆沒互證，屬杜畿本人。",
+        "生卒：生年按檢索配置為 163 年；卒於陶河試船覆沒，時年六十二（本傳段 13），按配置卒 224 年；追贈太僕，諡曰戴侯，子恕嗣；甘露二年樂詳訟其遺績，朝廷封恕子預為豐樂亭侯（段 31）。",
+        "勢力繫年：荀彧進之太祖，始終仕曹魏陣營：司空司直、護羌校尉領西平太守、河東太守十六年常為天下最、尚書、尚書僕射統留事；河東崇寬惠、與民無為、教化大興，韓遂、馬超之叛時河東民無異心。"
+      ]
     }
   ]
 }
