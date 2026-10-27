@@ -52820,13 +52820,13 @@
     {
       "id": "p0074",
       "name": "司馬朗",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "excerpts": [
         {
@@ -52909,11 +52909,44 @@
           "from": "朗知卓必亡，恐見留",
           "through": "不為衰世解業。",
           "citation": "《三國志·魏書十五 司馬朗傳》"
+        },
+        {
+          "id": "sml-sg-career",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 9,
+          "from": "年二十二，太祖辟為司空掾屬",
+          "through": "百姓稱之。",
+          "citation": "《三國志·魏書十五 司馬朗傳》"
+        },
+        {
+          "id": "sml-sg-death",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 9,
+          "from": "建安二十二年，與夏侯惇、臧霸等征吳",
+          "through": "州人追思之。",
+          "citation": "《三國志·魏書十五 司馬朗傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "sml-excl-zhaozi",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 10,
+          "term": "朗",
+          "quote": "初朗所與俱徙趙咨，官至太常，為世好士。咨字君初。子酆字子仲，晉驃騎將軍，封東平陵公。並見百官名志。",
+          "reason": "本段主角為與朗同徙之趙咨及其子酆，僅首句提及朗，非朗本人事跡，排除。"
+        }
+      ],
       "unresolved": [],
-      "conclusions": []
+      "conclusions": [
+        "本輪補齊本傳未覆蓋段落：魏書十五司馬朗傳段 9 錄正摘錄 2 條（仕歷、卒年），段 10 附載趙咨記排除 1 條；段 5 為傳題行，無正文內容，不錄條目。向量候選已枯竭，未解決 0 條。",
+        "辨人：段 10 主角為趙咨，僅一句提及朗，已排除；與弟司馬孚、子司馬遺等嚴格區分。",
+        "生卒：卒建安二十二年（217 年），征吳至居巢，軍中大疫，躬巡視致醫藥而遇疾卒，時年四十七；生年按檢索配置為 171 年。",
+        "勢力繫年：辟太祖司空掾屬起仕曹魏陣營，遷兖州刺史政化大行；州郡領兵、復井田之議未施行，僅記為朗本意，不作既行之政。"
+      ]
     }
   ]
 }
