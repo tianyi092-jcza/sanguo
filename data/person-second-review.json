@@ -58302,8 +58302,39 @@
       "id": "p0083",
       "name": "管輅",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "guanlu-sgz-001",
+          "work": "sanguozhi",
+          "source": "a04-029",
+          "paragraph": 36,
+          "from": "管輅字公明，平原人也。",
+          "through": "故人多愛之而不敬也。",
+          "citation": "《三國志·魏書二十九·管輅傳》",
+          "note": "管輅身份：字公明，平原人；容皃粗醜、無威儀而嗜酒，飲食言戲不擇非類，故人多愛之而不敬。本條僅取正文，段內輅別傳裴注不併入。"
+        },
+        {
+          "id": "guanlu-sgz-002",
+          "work": "sanguozhi",
+          "source": "a04-029",
+          "paragraph": 48,
+          "from": "初應州召，與弟季儒共載，",
+          "through": "正始九年舉秀才。",
+          "citation": "《三國志·魏書二十九·管輅傳》",
+          "note": "應州召赴武城途中自卦吉凶，預言於故城中見三貍乃顯，至河西故城角果見三貍踞城側；正始九年舉秀才。本條僅取正文，段內輅別傳裴注不併入。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "guanlu-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 31,
+          "term": "管輅",
+          "quote": "事見荀粲、傅嘏、王弼、管輅諸傳。",
+          "reason": "該句述裴徽事迹見於荀粲、傅嘏、王弼、管輅諸傳，管輅僅作互見傳目出現，非其本人事迹，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
