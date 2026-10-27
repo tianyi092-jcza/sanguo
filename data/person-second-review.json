@@ -53198,6 +53198,33 @@
           "term": "賈逵",
           "quote": "鄭興子衆　范升　陳元　賈逵　張霸子揩　揩子陵　陵弟玄",
           "reason": "卷首傳目所列賈逵為東漢賈逵（本卷諸傳皆東漢人），非三國賈逵，同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-zhengxing-jiagu",
+          "work": "houhanshu",
+          "source": "a03-036",
+          "paragraph": 12,
+          "term": "賈逵",
+          "quote": "而賈逵自傳其父業，故有鄭、賈之學。",
+          "reason": "此段為鄭興傳，所言賈逵為東漢賈逵（字景伯，傳父賈徽之業），非三國賈逵（字梁道），同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-jingbo-kaipian",
+          "work": "houhanshu",
+          "source": "a03-036",
+          "paragraph": 31,
+          "term": "賈逵",
+          "quote": "賈逵字景伯，扶風平陵人也。",
+          "reason": "此段為東漢賈逵本傳開篇（字景伯，扶風平陵人，賈徽之子），非三國賈逵（字梁道），同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-zuoshi-sanshi",
+          "work": "houhanshu",
+          "source": "a03-036",
+          "paragraph": 35,
+          "term": "賈逵",
+          "quote": "賈逵以為紀季不能兄弟同心以存國，乃背兄歸讎，書以譏之。",
+          "reason": "此段為東漢賈逵論左氏之文，所言賈逵為東漢賈逵（字景伯），非三國賈逵（字梁道），同名異人，不錄。"
         }
       ],
       "unresolved": [],
