@@ -53929,6 +53929,33 @@
           "term": "交州刺史",
           "quote": "代步隲為交州刺史",
           "reason": "呂岱傳正文：呂岱代步隲為交州刺史、討高涼鬱林等事，無張既姓名與事蹟，係刺史事件相似誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-xiqiang-qunqiang",
+          "work": "houhanshu",
+          "source": "a03-087",
+          "paragraph": 45,
+          "term": "馮翊降羌",
+          "quote": "興平元年，馮翊降羌反，寇諸縣",
+          "reason": "本段歷敘永康元年至興平元年諸羌寇邊事（東羌岸尾、當煎羌、北地降羌、馮翊降羌等），無張既姓名與事蹟，係撫羌事件相似誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-xiqiang-zhongqiang",
+          "work": "houhanshu",
+          "source": "a03-087",
+          "paragraph": 34,
+          "term": "鍾羌",
+          "quote": "隴西鍾羌反，校尉馬賢將七千餘人擊之",
+          "reason": "本段為永建元年隴西鍾羌反、馬賢擊破受降事，僅末句「自是涼州無事」涉涼州，無張既姓名與事蹟，係涼州事件相似誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-sgz-miao-liangzhou",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 2,
+          "term": "涼州刺史",
+          "quote": "以邈為涼州刺史",
+          "reason": "本段主角「邈」任涼州刺史、領護羌校尉，治河右、討叛羌柯吾等事，與張既同任涼州刺史、事蹟相似，段中無張既姓名與事蹟，係同職誤命中，排除。"
         }
       ],
       "unresolved": [],
