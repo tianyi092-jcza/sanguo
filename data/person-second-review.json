@@ -53171,6 +53171,33 @@
           "term": "賈逵",
           "quote": "賈逵注國語曰",
           "reason": "注《國語》者為東漢賈逵，非三國賈逵，同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-shizhong-jianpi",
+          "work": "houhanshu",
+          "source": "a03-025",
+          "paragraph": 34,
+          "term": "賈逵",
+          "quote": "時侍中賈逵薦丕道蓺深明",
+          "reason": "和帝朝侍中賈逵為東漢賈逵，非三國賈逵（生174），同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-gujin-xuezheng",
+          "work": "houhanshu",
+          "source": "a03-035",
+          "paragraph": 22,
+          "term": "賈逵",
+          "quote": "范升、陳元、李育、賈逵之徒爭論古今學",
+          "reason": "中興後古今學之爭所言賈逵為東漢賈逵，非三國賈逵，同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-juanmu",
+          "work": "houhanshu",
+          "source": "a03-036",
+          "paragraph": 0,
+          "term": "賈逵",
+          "quote": "鄭興子衆　范升　陳元　賈逵　張霸子揩　揩子陵　陵弟玄",
+          "reason": "卷首傳目所列賈逵為東漢賈逵（本卷諸傳皆東漢人），非三國賈逵，同名異人，不錄。"
         }
       ],
       "unresolved": [],
