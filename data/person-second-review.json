@@ -57720,7 +57720,7 @@
     {
       "id": "p0082",
       "name": "華佗",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "huatuo-hhs-001",
@@ -57941,6 +57941,16 @@
           "through": "佗針鬲，隨手而差。",
           "citation": "《三國志·魏書二十九·華佗傳》",
           "note": "太祖頭風案：太祖聞而召佗常在左右，苦頭風每發心亂目眩，佗針鬲隨手而差。本條僅取正文太祖頭風案，不含後附佗別傳兩腳躄灸案。"
+        },
+        {
+          "id": "huatuo-sgz-020",
+          "work": "sanguozhi",
+          "source": "a04-029",
+          "paragraph": 19,
+          "from": "廣陵吳普、彭城樊阿皆從佗學。",
+          "through": "青黏生於豐、沛、彭城及朝歌云。",
+          "citation": "《三國志·魏書二十九·華佗傳》",
+          "note": "吳普樊阿從學與五禽戲、漆葉青黏散：廣陵吳普、彭城樊阿皆從佗學，佗語普人體欲得勞動、動搖則穀氣得消，授五禽之戲（虎鹿熊猨鳥）以當導引；普施行之年九十餘耳目聰明齒牙完堅；阿善針術、從佗求服食得漆葉青黏散，壽百餘歲。本條僅取正文吳普樊阿段，不含後附佗別傳青黏別名段及裴注引文帝典論、東阿王辯道論（彼記甘始、左慈、郤儉等方士，與華佗無關）。"
         }
       ],
       "exclusions": [
@@ -58280,11 +58290,11 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": []
     }
