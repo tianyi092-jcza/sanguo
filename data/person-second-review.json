@@ -58301,7 +58301,7 @@
     {
       "id": "p0083",
       "name": "管輅",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "guanlu-sgz-001",
@@ -58665,13 +58665,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：向量候選已枯竭（重跑 0 條新候選）、未決 0 條；共錄正摘錄 33 條（《三國志》31、《晉書》2）、排除 3 條。",
+        "本傳：《三國志·魏書二十九·方技傳》管輅傳（a04-029:36–55）內容段已全數覆蓋，正文／輅別傳／裴注（松之案）分層錄入；:35 篇目標題段已排除。",
+        "《晉書》2 條：五行志嘉平元年風異管輅說、劉寔傳附弟智管輅語；《後漢書》《華陽國志》本輪無新增可錄段落。",
+        "辨人：與同卷華佗、杜夔、朱建平、周宣嚴格區分；郭璞傳「雖京房、管輅不能過」僅為比況參照，已排除；單字命中均核實確指本人後方錄入。",
+        "生卒：按檢索配置與本傳繫年為 210–256；術筮人物，字公明，平原人。"
+      ]
     }
   ]
 }
