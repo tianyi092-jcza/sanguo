@@ -53107,13 +53107,13 @@
     {
       "id": "p0076",
       "name": "賈逵",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "excerpts": [
         {
@@ -53231,6 +53231,24 @@
           "paragraph": 31,
           "from": "逵至五將山，休更表賊有請降者，求深入應之。",
           "through": "逵據夾石，以兵糧給休，休軍乃振。",
+          "citation": "《三國志·魏書十五 賈逵傳》"
+        },
+        {
+          "id": "jk-sgz-yeling-weijun",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 29,
+          "from": "文帝即王位，以鄴縣戶數萬在都下，多不法，乃以逵為鄴令。",
+          "through": "月餘，遷魏郡太守。",
+          "citation": "《三國志·魏書十五 賈逵傳》"
+        },
+        {
+          "id": "jk-sgz-jiahou-qu",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 30,
+          "from": "州南與吳接，逵明斥候，繕甲兵，為守戰之備，賊不敢犯。",
+          "through": "所謂賈侯渠者也。",
           "citation": "《三國志·魏書十五 賈逵傳》"
         }
       ],
@@ -53633,7 +53651,12 @@
         }
       ],
       "unresolved": [],
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：向量候選已枯竭（重跑後 0 段），未解決 0 條；本傳賈逵本人段落 a04-015:27–32 已全覆蓋（段 26 僅篇題已排除，段 33 為卷內六傳合評不屬本人專段）；本傳未覆蓋段 30（豫州守備與賈侯渠）按本傳補齊直接補錄。",
+        "辨人：與東漢經學家賈逵（字景伯）同名異人嚴格區分，後漢書、華陽國志、晉書中大量東漢賈逵段落已排除；與子賈充、王淩、曹休等同卷人物分開，本傳末段充嗣僅作附載不另立。",
+        "生卒：生 174 年，卒 228 年（本傳段 32：薨時年五十五，諡曰肅侯，子充嗣；豫州吏民追思立祠刻石）。",
+        "勢力繫年：始終仕曹魏：初為郡吏、澠池令，太祖朝弘農太守、丞相主簿；文帝朝鄴令、魏郡太守、豫州刺史（州以為法、賜爵關內侯）；明帝朝建威將軍，太和二年督軍救曹休於夾石；豫州治績以賈侯渠、法制禁令著稱，為後世所稱引。"
+      ]
     }
   ]
 }
