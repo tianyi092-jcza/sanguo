@@ -54415,6 +54415,33 @@
           "term": "平河西",
           "quote": "西河國漢置。統縣四，戶六千三百。離石　隰城　中陽　介休",
           "reason": "本段僅為地理志郡縣名錄，無張既姓名與事蹟，係「平河西」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-a03-006-lishi",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 168,
+          "term": "平河西",
+          "quote": "丁亥，徙西河郡居離石",
+          "reason": "本段僅為西河郡徙治離石的沿革記事，無張既姓名與事蹟，係「平河西」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-a03-113-xiangping",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 89,
+          "term": "平河西",
+          "quote": "襄平　新昌　無慮　望平　候城　安巿　平郭，有鐵。",
+          "reason": "本段僅為郡國志縣名錄，無張既姓名與事蹟，係「平河西」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-js-zhangji-a05-014-ahcb-pingzhou",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 117,
+          "term": "平河西",
+          "quote": "魏置東夷校尉，居襄平，而分遼東、昌黎、玄菟、帶方、樂浪五郡爲平州",
+          "reason": "本段僅為晉書地理志平州沿革（公孫度至魏置東夷校尉），無張既姓名與事蹟，係「平河西」事件向量誤命中，排除。"
         }
       ],
       "unresolved": [],
