@@ -53115,8 +53115,37 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "jk-pei-sunzi",
+          "work": "peizhu",
+          "source": "a04-014",
+          "paragraph": 46,
+          "from": "友人河東賈逵謂資曰",
+          "through": "竊為足下不取也！",
+          "citation": "《三國志·魏書十四 孫資傳》裴注引《孫資別傳》"
+        },
+        {
+          "id": "jk-sgz-bingzhong",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 32,
+          "from": "會病篤，謂左右曰",
+          "through": "薨，謚曰肅侯。",
+          "citation": "《三國志·魏書十五 賈逵傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "jk-excl-zhugongdao",
+          "work": "peizhu",
+          "source": "a04-018",
+          "paragraph": 35,
+          "term": "賈逵",
+          "quote": "其祝公道一人，已見賈逵傳。",
+          "reason": "僅以「已見賈逵傳」作篇目指引，說明祝公道事已載於賈逵傳，本段未載賈逵本人事蹟，不錄為摘錄。"
+        }
+      ],
       "unresolved": [],
       "conclusions": []
     }
