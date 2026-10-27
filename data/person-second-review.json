@@ -53178,6 +53178,24 @@
           "from": "淩到項，見賈逵祠在水側",
           "through": "夢淩、逵為癘，甚惡之，遂薨。",
           "citation": "《三國志·魏書二十八 王淩傳》裴注引《晉紀》"
+        },
+        {
+          "id": "jk-jin-xuandi-wangling-miao",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 68,
+          "from": "道經賈逵廟",
+          "through": "惟爾有神知之",
+          "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "jk-jin-xuandi-meng-chong",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 70,
+          "from": "夢賈逵、王淩爲祟",
+          "through": "甚惡之",
+          "citation": "《晉書》卷一·宣帝紀"
         }
       ],
       "exclusions": [
@@ -53522,6 +53540,15 @@
           "term": "賈逵",
           "quote": "賈逵傳",
           "reason": "僅為《三國志·魏書十五》中的傳目標記「賈逵傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        },
+        {
+          "id": "jk-excl-sgz-yinmo-jiakui-fuzi",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 19,
+          "term": "賈逵",
+          "quote": "鄭衆、賈逵父子",
+          "reason": "此段尹默從學所誦「鄭衆、賈逵父子」之注說，與服虔並列論左氏者，為東漢賈逵（字景伯，傳父賈徽之業）；三國賈逵生於174年，時代不合，為同名異人，不錄。"
         }
       ],
       "unresolved": [],
