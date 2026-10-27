@@ -57952,6 +57952,33 @@
           "term": "華佗",
           "quote": "泠壽光、唐虞、魯女生三人者，皆與華佗同時。",
           "reason": "段落主角為泠壽光、唐虞、魯女生三方士，華佗僅以同時代人物作參照出現，非其本人事迹，排除。"
+        },
+        {
+          "id": "huatuo-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-029",
+          "paragraph": 0,
+          "term": "華佗",
+          "quote": "華佗傳",
+          "reason": "本段僅為《華佗傳》篇目標題，無具體事跡內容，不作摘錄。"
+        },
+        {
+          "id": "huatuo-excl-003",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 12,
+          "term": "華佗",
+          "quote": "十二月，曹操討譚，軍其門。",
+          "reason": "本段記曹操討袁譚、斬郭圖事，全段無華佗，亦無其醫事，屬事件向量誤匹配，排除。"
+        },
+        {
+          "id": "huatuo-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 52,
+          "term": "華佗",
+          "quote": "曹公出濡須，從權禦之。",
+          "reason": "本段記曹公出濡須、盛赴討事，全段無華佗，亦無其醫事，屬事件向量誤匹配，排除。"
         }
       ],
       "unresolved": [],
