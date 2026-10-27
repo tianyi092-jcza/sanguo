@@ -60646,7 +60646,41 @@
       "id": "p0086",
       "name": "王允",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "wy-hhs-xiandi-weisitu",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 3,
+          "from": "太僕王允為司徒。",
+          "through": "太僕王允為司徒。",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "初平元年春正月",
+          "note": "繫年為初平元年（190年）二月：王允以太僕遷任司徒，時董卓即將遷都長安。"
+        },
+        {
+          "id": "wy-hhs-xiandi-lushangshu",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "from": "司徒王允錄尚書事，揔朝政，遣使者張种撫慰山東。",
+          "through": "司徒王允錄尚書事，揔朝政，遣使者張种撫慰山東。",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "夏四月辛巳，誅董卓，夷三族。",
+          "note": "繫年為初平三年（192年）四月：誅董卓後，王允錄尚書事、總朝政，並遣使者張种撫慰山東。"
+        },
+        {
+          "id": "wy-hhs-xiandi-si",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "from": "甲子，殺司徒王允，皆滅其族。",
+          "through": "甲子，殺司徒王允，皆滅其族。",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "董卓部曲將李傕、郭汜、樊稠、張濟等反，攻京師。",
+          "note": "繫年為初平三年（192年）六月：李傕等陷長安後，甲子日殺司徒王允，皆滅其族。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
