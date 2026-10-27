@@ -53661,13 +53661,13 @@
     {
       "id": "p0077",
       "name": "劉馥",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "excerpts": [
         {
@@ -53730,10 +53730,24 @@
           "term": "劉馥",
           "quote": "劉馥傳",
           "reason": "僅為《三國志·魏書十五》中的傳目標記「劉馥傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        },
+        {
+          "id": "lf-excl-sgz-liufu-zijing",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 4,
+          "term": "劉馥",
+          "quote": "馥子靖",
+          "reason": "本段為劉馥子劉靖附傳（黃初中遷廬江太守以下，迄劉弘、子璠），主角為劉靖及其後人；劉馥僅於詔曰「卿父昔為彼州」及「有馥遺風」一句中被提及，非劉馥本人史實，按父子分開原則排除。"
         }
       ],
       "unresolved": [],
-      "conclusions": []
+      "conclusions": [
+        "本傳（《三國志·魏書十五 劉馥傳》，a04-015:0–4）全覆蓋：正摘錄 3 條（建安初說袁術將歸附、受任揚州刺史；單馬造合肥空城、廣屯田興陂堨與戰守備；建安十三年卒後孫權圍合肥賴其遺備而退、陂塘之利至今為用），篇題與子劉靖附傳 2 條排除。",
+        "他傳與晉書各 1 條：《三國志·卷五十一 孫韶傳》裴注（孫翊遇害後媯覽、戴員北迎揚州刺史劉馥事，句子級提取）；《晉書·卷二十六 食貨志》鎮合肥、廣屯田、修芍陂諸堨以溉稻田，與本傳互證。",
+        "辨人：與子劉靖、劉弘等嚴格區分；本傳末段主角為劉靖，僅詔曰提及「卿父」與「有馥遺風」一句，不計為劉馥史實。",
+        "生卒：卒建安十三年（208 年），本傳明載；生年本傳未載，不臆斷。勢力繫年：建安初歸附太祖後受任揚州刺史鎮合肥，終身屬曹魏方面。"
+      ]
     }
   ]
 }
