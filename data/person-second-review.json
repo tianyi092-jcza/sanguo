@@ -54630,9 +54630,39 @@
           "through": "彪辭曰：「彪備漢三公，遭世傾亂，不能有所補益。耄年被病，豈可贊惟新之朝？」遂固辭。",
           "citation": "《後漢書·卷五十四 列傳第四十四》",
           "note": "魏文帝受禪後欲以楊彪為太尉，先遣使示旨；彪以備漢三公、耄年被病固辭。"
+        },
+        {
+          "id": "yb-hhs-luzhi-dongguan-xiaoshu",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 24,
+          "from": "與諫議大夫馬日磾、議郎蔡邕、楊彪、韓說等並在東觀，校中書五經記傳，補續漢記。",
+          "through": "與諫議大夫馬日磾、議郎蔡邕、楊彪、韓說等並在東觀，校中書五經記傳，補續漢記。",
+          "citation": "《後漢書·卷六十四 列傳第五十四》",
+          "note": "盧植復徵拜議郎後，楊彪與馬日磾、蔡邕、韓說等並在東觀，校中書五經記傳，補續漢記。"
+        },
+        {
+          "id": "yb-hhs-shisunrui-rangwei",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 35,
+          "from": "每三公缺，楊彪、皇甫嵩皆讓位於瑞。",
+          "through": "每三公缺，楊彪、皇甫嵩皆讓位於瑞。",
+          "citation": "《後漢書·卷六十六 列傳第五十六》",
+          "note": "三公有缺時，楊彪與皇甫嵩皆讓位於士孫瑞。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yb-excl-hhs-wangyun-dai-situ",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 24,
+          "term": "楊彪",
+          "quote": "代楊彪為司徒",
+          "reason": "《後漢書·卷六十六 列傳第五十六》王允傳交代句：僅說明初平元年王允代楊彪為司徒，為接任交代，且初平元年楊彪免司徒已有獻帝紀條目，未載楊彪任何事蹟，非本人史實，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
