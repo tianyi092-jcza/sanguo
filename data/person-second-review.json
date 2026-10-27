@@ -54253,6 +54253,33 @@
           "term": "羌之興盛",
           "quote": "羌之興盛，從此起矣。",
           "reason": "本段記爰劔曾孫忍、舞留湟中繁衍、羌種分衍源流，時代在秦獻公前後、主角非張既，段中無張既姓名與事蹟，係羌事事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-a03-087-ahcb-mitang",
+          "work": "houhanshu",
+          "source": "a03-087-ahcb",
+          "paragraph": 21,
+          "term": "迷唐",
+          "quote": "迷唐復將兵向塞",
+          "reason": "本段記東漢迷唐羌事，周鮪、侯霸等出塞與迷唐戰，時代在張既生前，段中無張既姓名與事蹟，係「撫胡羌」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-a03-087-renshang-langmo",
+          "work": "houhanshu",
+          "source": "a03-087",
+          "paragraph": 29,
+          "term": "任尚",
+          "quote": "任尚復募効功種號封刺殺零昌",
+          "reason": "本段記東漢任尚、馬賢討狼莫等羌事，時代在張既生前，段中無張既姓名與事蹟，係「撫胡羌」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-js-zhangji-a05-116-ahcb-yaoyizhong",
+          "work": "jinshu",
+          "source": "a05-116-ahcb",
+          "paragraph": 0,
+          "term": "姚弋仲",
+          "quote": "姚弋仲，南安赤亭羌人也",
+          "reason": "本段為《晉書》姚弋仲傳開篇，記其先世羌酋源流及永嘉之亂東徙事，時代在張既卒後，段中無張既姓名與事蹟，係「撫胡羌」事件向量誤命中，排除。"
         }
       ],
       "unresolved": [],
