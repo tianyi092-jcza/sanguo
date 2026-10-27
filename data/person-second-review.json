@@ -52978,6 +52978,24 @@
           "through": "署詳文學祭酒。",
           "citation": "《後漢書·卷七十九下 ‧ 儒林列傳第六十九下 謝該傳》",
           "note": "謝該傳注引《魏略》，記杜畿署樂詳為文學祭酒。"
+        },
+        {
+          "id": "dj-wendi-zhenji",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 23,
+          "from": "兾州大蝗，民饑",
+          "through": "使尚書杜畿持節開倉廩以振之。",
+          "citation": "《三國志·魏書二 文帝紀》"
+        },
+        {
+          "id": "dj-pei-zhongyao-weilue",
+          "work": "peizhu",
+          "source": "a04-013",
+          "paragraph": 2,
+          "from": "而詔已拜杜畿為太守",
+          "through": "畿已入界。",
+          "citation": "《三國志·魏書十三 鍾繇傳》裴注引《魏略》"
         }
       ],
       "exclusions": [
@@ -52989,6 +53007,15 @@
           "term": "杜畿",
           "quote": "其邯鄲淳事在王粲傳，蘇林事在劉邵、高堂隆傳，樂詳事在杜畿傳。",
           "reason": "本段僅以「樂詳事在杜畿傳」作篇目交代，未述杜畿本人事跡，排除。"
+        },
+        {
+          "id": "dj-excl-biohead",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 8,
+          "term": "杜畿",
+          "quote": "杜畿傳",
+          "reason": "本段僅為杜畿本傳篇目題名，無事跡內容，排除。"
         }
       ],
       "unresolved": [],
