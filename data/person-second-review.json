@@ -54280,6 +54280,33 @@
           "term": "姚弋仲",
           "quote": "姚弋仲，南安赤亭羌人也",
           "reason": "本段為《晉書》姚弋仲傳開篇，記其先世羌酋源流及永嘉之亂東徙事，時代在張既卒後，段中無張既姓名與事蹟，係「撫胡羌」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-a03-065-duanjiong",
+          "work": "houhanshu",
+          "source": "a03-065",
+          "paragraph": 37,
+          "term": "段熲",
+          "quote": "明年春，餘羌復與燒何大豪寇張掖",
+          "reason": "本段記段熲追擊燒何羌至河首積石山、擊石城羌及白石羌事，段中無張既姓名與事蹟，係「撫胡羌」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-a03-005-renshang",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 184,
+          "term": "任尚",
+          "quote": "甲子，任尚及騎都尉馬賢與先零羌戰于富平上河，大破之。",
+          "reason": "本段記任尚、馬賢破先零羌、隴右平事，段中無張既姓名與事蹟，係「平河西」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-js-zhangji-a05-015-ahcb-guanghua",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 148,
+          "term": "廣化",
+          "quote": "廣化　海安　化平　黃陽　西平",
+          "reason": "本段僅為郡縣名錄，無張既姓名與事蹟，係「平河西」事件向量誤命中，排除。"
         }
       ],
       "unresolved": [],
