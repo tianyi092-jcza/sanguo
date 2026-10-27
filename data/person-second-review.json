@@ -54010,6 +54010,33 @@
           "term": "迷唐",
           "quote": "訓因發湟中秦、胡、羌兵四千人，出塞掩擊迷唐於寫谷",
           "reason": "本段主角為鄧訓（段中稱「訓」）發兵擊迷唐事，段中無張既姓名與事蹟，僅羌事誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-douxian-liangzhou",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 29,
+          "term": "涼州",
+          "quote": "大將軍竇憲出屯涼州",
+          "reason": "本段為和帝紀竇憲出屯涼州事，段中無張既姓名與事蹟，僅「涼州」誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-jin-wuheti-qifu",
+          "work": "jinshu",
+          "source": "a05-097",
+          "paragraph": 25,
+          "term": "烏紇堤",
+          "quote": "烏紇堤屢抄其境",
+          "reason": "本段主角為烏紇堤與乞伏乾歸事，段中無張既姓名與事蹟，僅胡事誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-gao-liangzhou",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 22,
+          "term": "涼州刺史",
+          "quote": "後涼州羌動，以暠為涼州刺史，甚得百姓歡心",
+          "reason": "本段主角為「暠」任涼州刺史事，段中無張既姓名與事蹟，僅「涼州刺史」事件誤命中，排除。"
         }
       ],
       "unresolved": [],
