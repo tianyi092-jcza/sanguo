@@ -57383,6 +57383,33 @@
           "term": "禰衡",
           "quote": "八月庚戌，劉琨奔于常山",
           "reason": "段落記劉琨奔常山、乞師猗盧事，無禰衡字樣、無送劉表事蹟，排除。"
+        },
+        {
+          "id": "mh-excl-062",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 20,
+          "term": "禰衡",
+          "quote": "先主定益州，以琰為固陵太守",
+          "reason": "段落記劉琰事蹟，無禰衡字樣、無禰衡事蹟，排除。"
+        },
+        {
+          "id": "mh-excl-063",
+          "work": "jinshu",
+          "source": "a05-057-ahcb",
+          "paragraph": 41,
+          "term": "禰衡",
+          "quote": "弘表光有殊勳，遷材官將軍、梁州刺史",
+          "reason": "段落記陳敏作亂、光討賊立勳事，無禰衡字樣、無禰衡事蹟，排除。"
+        },
+        {
+          "id": "mh-excl-064",
+          "work": "houhanshu",
+          "source": "a03-081",
+          "paragraph": 81,
+          "term": "禰衡",
+          "quote": "食祿而避難，非忠也；殺母以全義，非孝也",
+          "reason": "段落記苞葬訖自責歐血死事，無禰衡字樣、無禰衡事蹟，排除。"
         }
       ],
       "unresolved": [],
