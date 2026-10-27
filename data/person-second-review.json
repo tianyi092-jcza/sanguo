@@ -53983,6 +53983,33 @@
           "term": "涼州刺史",
           "quote": "涼州刺史張寔送皇帝行璽一紐",
           "reason": "本段主角為涼州刺史張寔送皇帝行璽事，與張既同任涼州刺史，段中無張既姓名與事蹟，係同職誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-jin-guoquan-yongzhou",
+          "work": "jinshu",
+          "source": "a05-007",
+          "paragraph": 76,
+          "term": "雍州刺史",
+          "quote": "以郭權爲鎮西將軍、雍州刺史",
+          "reason": "本段主角為郭權任鎮西將軍、雍州刺史事，段中無張既姓名與事蹟，僅因涼州地名與刺史職銜誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-dougu-gengbing-liangzhou",
+          "work": "houhanshu",
+          "source": "a03-002",
+          "paragraph": 82,
+          "term": "涼州",
+          "quote": "遣奉車都尉竇固、駙馬都尉耿秉屯涼州",
+          "reason": "本段主角為竇固、耿秉屯涼州事，段中無張既姓名與事蹟，僅地名涼州誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-dengxun-mitang",
+          "work": "houhanshu",
+          "source": "a03-016",
+          "paragraph": 25,
+          "term": "迷唐",
+          "quote": "訓因發湟中秦、胡、羌兵四千人，出塞掩擊迷唐於寫谷",
+          "reason": "本段主角為鄧訓（段中稱「訓」）發兵擊迷唐事，段中無張既姓名與事蹟，僅羌事誤命中，排除。"
         }
       ],
       "unresolved": [],
