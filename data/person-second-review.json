@@ -53160,6 +53160,24 @@
           "from": "後舉茂才，除澠池令",
           "through": "檛折脚，坐免。",
           "citation": "《三國志·魏書十五 賈逵傳》"
+        },
+        {
+          "id": "jk-sgz-wangling-youshan",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 2,
+          "from": "初，淩與司馬朗、賈逵友善",
+          "through": "繼其名跡。",
+          "citation": "《三國志·魏書二十八 王淩傳》"
+        },
+        {
+          "id": "jk-pei-jinji-jiakui-ci",
+          "work": "peizhu",
+          "source": "a04-028",
+          "paragraph": 3,
+          "from": "淩到項，見賈逵祠在水側",
+          "through": "夢淩、逵為癘，甚惡之，遂薨。",
+          "citation": "《三國志·魏書二十八 王淩傳》裴注引《晉紀》"
         }
       ],
       "exclusions": [
@@ -53495,6 +53513,15 @@
           "term": "賈逵",
           "quote": "賈逵曰：「陶唐之胤劉累也。」",
           "reason": "後漢書郡國志太原郡晉陽條引賈逵說陶唐之胤為劉累，此賈逵為東漢經學家（左傳注家）；三國賈逵生於174年，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-sgz-jiakui-pianmu",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 26,
+          "term": "賈逵",
+          "quote": "賈逵傳",
+          "reason": "僅為《三國志·魏書十五》中的傳目標記「賈逵傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
         }
       ],
       "unresolved": [],
