@@ -55303,7 +55303,7 @@
     {
       "id": "p0080",
       "name": "蔡邕",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "cy-hhs-lingdi-pingchengmen",
@@ -56404,6 +56404,16 @@
           "from": "斯文吾有異焉，故聊以餘思爲其引詁，亦猶胡廣之於官箴，蔡邕之於典引也。",
           "through": "蔡邕之於典引也。",
           "note": "劉逵爲左思《三都賦》作注序，以胡廣官箴、蔡邕典引爲引詁之先例；此條僅以蔡邕《典引》作比況，非蔡邕本人事蹟。"
+        },
+        {
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "citation": "《後漢書·卷六十下 列傳第五十下》",
+          "id": "cy-hhs-zhuo-zhu-hou-si",
+          "paragraph": 30,
+          "from": "及卓被誅，邕在司徒王允坐，殊不意言之而歎，有動於色。",
+          "through": "邕遂死獄中。",
+          "note": "董卓被誅後，蔡邕在司徒王允坐上因嘆息動色被收付廷尉，乞黥首刖足繼成漢史，太尉馬日磾求情不得，邕死於獄中，時年六十一。"
         }
       ],
       "exclusions": [
@@ -56712,17 +56722,31 @@
           "term": "蔡邕",
           "quote": "漢末又有蔡邕，采斯喜之法，爲古今雜形，然精密閑理不如淳也。",
           "reason": "與已錄摘錄 cy-sgz-caiyong-gujinza-xing（a04-021 第 32 段）為同一《四體書勢》原句，僅簡理／閑理異文，無新增事實，故不重複錄為摘錄。"
+        },
+        {
+          "id": "cy-excl-035",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 32,
+          "term": "蔡邕",
+          "quote": "當伯喈抱鉗扭，徙幽裔，仰日月而不見照燭，臨風塵而不得經過，",
+          "reason": "論贊追述段，含人名正文句中插入注文（「謂迫促之，令不得避風塵也」），from/through 無法在不夾注的情況下完整界定，故不硬摘為摘錄；其餘完整正文句不含人名。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：向量候選枯竭（0 段）、未決 0 條；《後漢書·卷六十下》蔡邕列傳含人名段落 7 段已全覆蓋，本輪補錄遇害段、排除論贊夾注段，總計摘錄 111 條、排除 35 條。",
+        "辨人：與同名異人及王允、董卓、馬日磾等同段人物嚴格區分；單字命中均核實確指蔡邕本人後方錄入。",
+        "本傳為《後漢書·卷六十下 列傳第五十下》；三國志無本傳，僅他傳提及。",
+        "生卒：本傳明載死於獄中時年六十一（董卓被誅後事）；年表生卒按配置 133–192 年。"
+      ]
     }
   ]
 }
