@@ -53748,6 +53748,22 @@
         "辨人：與子劉靖、劉弘等嚴格區分；本傳末段主角為劉靖，僅詔曰提及「卿父」與「有馥遺風」一句，不計為劉馥史實。",
         "生卒：卒建安十三年（208 年），本傳明載；生年本傳未載，不臆斷。勢力繫年：建安初歸附太祖後受任揚州刺史鎮合肥，終身屬曹魏方面。"
       ]
+    },
+    {
+      "id": "p0078",
+      "name": "張既",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
