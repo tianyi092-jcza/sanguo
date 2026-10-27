@@ -54145,6 +54145,33 @@
           "term": "涼王",
           "quote": "段業自稱涼王",
           "reason": "本段為段業自稱涼王、楊盛稱藩事，段中無張既姓名與事蹟，係「涼王」事件詞誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-js-zhangji-a05-106-maqiu",
+          "work": "jinshu",
+          "source": "a05-106-ahcb",
+          "paragraph": 71,
+          "term": "涼州刺史",
+          "quote": "遣涼州刺史麻秋等伐張重華",
+          "reason": "晉代涼州刺史麻秋伐張重華事，距張既卒（225）逾百年，段中無張既姓名與事蹟，係「涼州刺史」事件詞誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-js-zhangji-a05-105-wangqiang",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 52,
+          "term": "羌叛",
+          "quote": "秦州休屠王羌叛于勒",
+          "reason": "後趙石勒時秦州休屠王羌叛、氐羌悉叛事，段中王羌非張既、無張既姓名與事蹟，係羌事事件詞誤命中，排除。"
+        },
+        {
+          "id": "zj-excl-hhs-zhangji-a03-023-douxian",
+          "work": "houhanshu",
+          "source": "a03-023",
+          "paragraph": 33,
+          "term": "涼州",
+          "quote": "憲獨不受封，遂將兵出鎮涼州",
+          "reason": "東漢竇憲不受封、出鎮涼州事，早於張既生年（約170），段中無張既姓名與事蹟，係「涼州」事件詞誤命中，排除。"
         }
       ],
       "unresolved": [],
