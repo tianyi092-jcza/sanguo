@@ -53133,6 +53133,15 @@
           "from": "會病篤，謂左右曰",
           "through": "薨，謚曰肅侯。",
           "citation": "《三國志·魏書十五 賈逵傳》"
+        },
+        {
+          "id": "jk-pz-shiyu-zhubu",
+          "work": "peizhu",
+          "source": "a04-019",
+          "paragraph": 6,
+          "from": "脩與賈逵、王淩並為主簿",
+          "through": "而為植所友。",
+          "citation": "《三國志·魏書十九 任城陳蕭王傳》裴注引《世語》"
         }
       ],
       "exclusions": [
@@ -53144,6 +53153,24 @@
           "term": "賈逵",
           "quote": "其祝公道一人，已見賈逵傳。",
           "reason": "僅以「已見賈逵傳」作篇目指引，說明祝公道事已載於賈逵傳，本段未載賈逵本人事蹟，不錄為摘錄。"
+        },
+        {
+          "id": "jk-excl-hhs-shushi",
+          "work": "houhanshu",
+          "source": "a03-014",
+          "paragraph": 22,
+          "term": "賈逵",
+          "quote": "與班固、賈逵共述漢史",
+          "reason": "永平年間與班固共述漢史者為東漢賈逵，非生於174年的三國賈逵，同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hhs-guoyu",
+          "work": "houhanshu",
+          "source": "a03-017",
+          "paragraph": 15,
+          "term": "賈逵",
+          "quote": "賈逵注國語曰",
+          "reason": "注《國語》者為東漢賈逵，非三國賈逵，同名異人，不錄。"
         }
       ],
       "unresolved": [],
