@@ -53205,6 +53205,24 @@
           "from": "道經賈逵廟",
           "through": "惟爾有神知之",
           "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "jk-jin-shihuo-jiakui-qu",
+          "work": "jinshu",
+          "source": "a05-026-ahcb",
+          "paragraph": 5,
+          "from": "賈逵之爲豫州",
+          "through": "所謂賈侯渠者也",
+          "citation": "《晉書》卷二十六·食貨志"
+        },
+        {
+          "id": "jk-jin-wangshen-jiakui-fazhi",
+          "work": "jinshu",
+          "source": "a05-039",
+          "paragraph": 5,
+          "from": "案賈逵以來法制禁令",
+          "through": "擇善者而從之",
+          "citation": "《晉書》卷三十九·王沈傳"
         }
       ],
       "exclusions": [
@@ -53576,6 +53594,15 @@
           "term": "賈逵",
           "quote": "後至和帝時，賈逵繫作",
           "reason": "此段《晉書·律曆志》言和帝時賈逵繫作曆法、又加黃道，為東漢賈逵（字景伯，傳父賈徽之業）；三國賈逵生於174年，和帝時尚未出生，時代不合，為同名異人，不錄。"
+        },
+        {
+          "id": "jk-excl-hygz-donghan-jiakui-jiaoshu",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 9,
+          "term": "賈逵",
+          "quote": "與班固賈逵竝爲校書郎",
+          "reason": "此段《華陽國志》卷十言明帝時楊終與班固、賈逵並為校書郎、刪太史公書；明帝為東漢明帝（58—75年在位），三國賈逵生於174年，時代不合；此賈逵為東漢賈逵（字景伯），同名異人，不錄。"
         }
       ],
       "unresolved": [],
