@@ -62233,6 +62233,16 @@
           "through": "盡誅滅之。",
           "citation": "《後漢書·列傳第六十三》",
           "note": "此為公孫瓚上疏所列袁紹罪三之辭：言董卓恨袁紹起兵山東，乃誅紹叔父太傅袁隗及在京師宗族盡滅之。引為董卓誅袁氏宗族之旁證；原文主旨為劾袁紹，非董卓本傳紀事。"
+        },
+        {
+          "id": "dz-hhs-yuanshao-zhu-yuanzu",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 7,
+          "from": "董卓聞紹起山東",
+          "through": "盡滅之。",
+          "citation": "《後漢書·列傳第六十四上》",
+          "note": "董卓聞袁紹起兵山東，乃誅紹叔父太傅袁隗及在京師的袁氏宗族，盡滅之。此為袁紹本傳主述，與公孫瓚上疏所言相印證。"
         }
       ],
       "exclusions": [
@@ -62532,6 +62542,24 @@
           "term": "董卓",
           "quote": "董卓",
           "reason": "段落僅為本卷傳目題名「董卓」二字，無任何事蹟敘述，排除；卓事蹟以本傳各主述段落為準。"
+        },
+        {
+          "id": "dz-excl-taoqian-dongzhuo-shijian",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 25,
+          "term": "董卓",
+          "quote": "時董卓雖誅",
+          "reason": "段落主述陶謙在徐州的刑政、用人與兼并事蹟；董卓僅以「雖誅」一語作時間背景，無卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-qiaomao-xiwen-dongzhuo",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 8,
+          "term": "董卓",
+          "quote": "說董卓罪惡",
+          "reason": "段落主述袁紹得眾、橋瑁詐作三公移書檄召義兵；董卓僅為檄文聲討對象，裴注所引亦為轉述劉岱書語，無卓本人事蹟，排除。"
         }
       ],
       "unresolved": [],
