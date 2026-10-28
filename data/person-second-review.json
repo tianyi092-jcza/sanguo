@@ -62523,6 +62523,16 @@
           "through": "故能破殺",
           "citation": "《三國志·蜀書一·劉焉傳》",
           "note": "裴注引《英雄記》：董卓遣司徒趙謙將兵向益州，說校尉賈龍還擊劉焉，劉焉出青羌與戰破殺之。為董卓干預益州劉焉、賈龍之爭的他傳旁證。"
+        },
+        {
+          "id": "dz-sg-xianzhu-zhaojian-jutai",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "董卓欲以所私並充臺閣",
+          "through": "卓雖凶戾，屈而謝之",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "裴注引《典略》：董卓欲以所私並充臺閣，趙戩拒不聽；卓怒欲殺之，戩引辭正色陳說是非，卓雖凶戾而屈謝之。為董卓專權用人、聞直言而屈的他傳旁證。"
         }
       ],
       "exclusions": [
@@ -63236,6 +63246,24 @@
           "term": "董卓",
           "quote": "備亦起軍從討董卓",
           "reason": "段落主述先主早期經歷及英雄記所載起軍經過；董卓僅作被討伐對象一筆帶過，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-xianzhu-hanzhongwang-zhuoshounan",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "term": "董卓",
+          "quote": "董卓首難，蕩覆京畿",
+          "reason": "段落為群下上先主為漢中王之表文，追述漢室之亂以董卓首難、蕩覆京畿一筆帶過，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-xianzhu-shangyan-zhuoluanjie",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 19,
+          "term": "董卓",
+          "quote": "曩者董卓造為亂階",
+          "reason": "段落為先主上言漢帝之表文，追述亂階源頭以董卓造亂一筆帶過，未述卓本人事蹟，排除。"
         }
       ],
       "unresolved": [],
