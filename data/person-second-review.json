@@ -64302,7 +64302,7 @@
     {
       "id": "p0088",
       "name": "呂布",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "lb-hhs-xiandi-caoji-xuzhou",
@@ -65905,13 +65905,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：向量候選已耗盡（candidates_p0088.jsonl 為空）、未決 0 條；共錄摘錄 83 條（《後漢書》27、《三國志》56）、排除 85 條（《後漢書》29、《三國志》35、《晉書》21）。",
+        "本傳補齊：核對檢索配置 bio_files《三國志》卷七 a04-007，全 27 段皆已覆蓋（含評曰第 26 段摘錄；同卷張邈、臧洪傳文未提呂布者已排除，其中第 25 段呂布僅為臧洪遣使求救的對象、未載其本人行事，亦排除）。",
+        "辨人：呂布字奉先，與晉書所見呂朗等同姓異人、與丁原、董卓、袁術、曹操及同卷張邈、臧洪嚴格區分；呂布僅為他人求救對象、未載其行事者不記為本人事蹟。",
+        "事蹟主幹為殺丁原投董卓、與王允共誅董卓，後輾轉兗、徐，下邳被擒。"
+      ]
     }
   ]
 }
