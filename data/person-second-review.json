@@ -63125,6 +63125,33 @@
           "term": "董卓",
           "quote": "信至京師，董卓亦始到",
           "reason": "段落主述鮑信募兵、應太祖、壽張戰死；董卓僅為鮑信到京時局背景及知卓必為亂、勸袁紹襲卓的判斷對象，廢立、遷都等具體事蹟僅互見提示語在董卓傳、武帝紀，未述董卓本人事蹟細節，排除。"
+        },
+        {
+          "id": "dz-excl-yeye-hanzhong-zhuo",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 31,
+          "term": "董卓",
+          "quote": "明公以步卒五千，將誅董卓",
+          "reason": "段落主述劉曄勸太祖乘破漢中之勢進取蜀；董卓僅為追述太祖起兵功業的一語背景（將誅董卓），未述董卓本人事蹟細節，排除。"
+        },
+        {
+          "id": "dz-excl-liufang-quansong-zhuo",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 45,
+          "term": "董卓",
+          "quote": "往者董卓作逆，英雄並起",
+          "reason": "段落主述劉放說漁陽王松歸附太祖；董卓作逆僅為說辭中追述亂世起因的背景語，未述董卓具體事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-simalang-donggui-zhuo",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 8,
+          "term": "董卓",
+          "quote": "董卓悖逆，為天下所讎",
+          "reason": "段落主述司馬朗料卓必亡、賂卓用事者求歸鄉里並勸父老東徙黎陽；董卓僅為朗避禍的時局背景與必亡、悖逆的概括判斷，未述董卓具體事蹟，排除。"
         }
       ],
       "unresolved": [],
