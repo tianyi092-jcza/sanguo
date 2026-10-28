@@ -64453,6 +64453,36 @@
           "through": "術妻以漢宗室女。",
           "citation": "《三國志·魏書三·明帝紀》",
           "note": "裴注引《獻帝傳》：呂布遣宜祿出使袁術，袁術以漢宗室女妻之。"
+        },
+        {
+          "id": "lb-sg-dongzhuo-sha-dingyuan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 2,
+          "from": "卓又使呂布殺執金吾丁原，",
+          "through": "故京都兵權唯在卓。",
+          "citation": "《三國志·魏書六·董卓傳》",
+          "note": "董卓入洛後，使呂布殺執金吾丁原并其衆，京都兵權遂歸於卓。"
+        },
+        {
+          "id": "lb-sg-yuanshao-xi-duolvyanzhou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 21,
+          "from": "故躬破於徐方，地奪於呂布，",
+          "through": "復其方伯之任，",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "裴注引《魏氏春秋》載袁紹檄州郡文（陳琳之辭）：稱曹操破於徐方、兖州為呂布所奪，袁紹出兵破布衆、復曹操方伯之任。檄文之辭，繫兖州爭奪事。"
+        },
+        {
+          "id": "lb-sg-lvbu-chushen-dingyuan",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 1,
+          "from": "呂布字奉先，五原郡九原人也。",
+          "through": "原將兵詣洛陽。",
+          "citation": "《三國志·魏書七·呂布傳》",
+          "note": "呂布本傳開篇：字奉先，五原郡九原人，以驍武給并州，為丁原主簿，大見親待；靈帝崩，丁原將兵詣洛陽。"
         }
       ],
       "exclusions": [],
