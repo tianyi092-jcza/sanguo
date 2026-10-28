@@ -67469,12 +67469,40 @@
           "through": "繡心不自安，乃自殺。",
           "citation": "《三國志·魏書八·張繡傳》（裴注引魏略）",
           "note": "裴注層異說：魏略稱五官將數因請會發怒責繡殺其兄，繡心不自安乃自殺。此說與正文從征烏丸於柳城未至而薨相牴牾，作異說另錄，不作定論；其後子泉嗣續句不在本條範圍內。"
+        },
+        {
+          "id": "xiu-bio-quan-heir",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 23,
+          "from": "子泉嗣，坐與魏諷謀反，誅，國除。",
+          "through": "子泉嗣，坐與魏諷謀反，誅，國除。",
+          "citation": "《三國志·魏書八·張繡傳》",
+          "note": "正文層：繡薨後子泉嗣爵，後坐與魏諷謀反被誅，國除。段內魏略裴注異說另條已錄，不在本條範圍內。"
+        },
+        {
+          "id": "xiu-wudiji-rang-siege",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "三月，公圍張繡於穰。",
+          "through": "夏五月，劉表遣兵救繡，以絕軍後。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "正文層：曹操圍張繡於穰，劉表遣兵救繡以絕軍後。段內獻帝春秋裴注層不在本條範圍內，解圍後續另條錄入。"
+        },
+        {
+          "id": "xiu-wudiji-anzhong-break",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "公乃解繡圍。",
+          "through": "大破之。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "正文層：曹操解穰圍引還，繡兵追躡，至安衆繡與劉表兵合守險，曹操夜鑿險為地道、設奇兵，賊追而夾攻大破之。段前圍穰句另條錄入，段內裴注不在本條範圍內。"
         }
       ],
       "exclusions": [],
-      "unresolved": [
-        "a04-008:23 本傳段尾待補（正文層）：子泉嗣，坐與魏諷謀反，誅，國除。"
-      ],
+      "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
         "peizhu": "in-progress",
