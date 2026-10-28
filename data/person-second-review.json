@@ -65276,6 +65276,33 @@
           "term": "下邳",
           "quote": "辛丑，下邳王成薨。",
           "reason": "本段僅紀辛丑日下邳王成薨，全段未提及呂布；候選係「下邳」地名加權誤觸，與呂布下邳被擒無關，故排除。"
+        },
+        {
+          "id": "lb-excl-js-dili-xiapi-guo",
+          "work": "jinshu",
+          "source": "a05-015",
+          "paragraph": 11,
+          "term": "下邳",
+          "quote": "下邳國漢置為臨淮郡。統縣七，戶七千五百。",
+          "reason": "本段為晉書地理志下邳國條，僅記郡國沿革戶數縣名，全段未提及呂布；候選係「下邳」地名加權誤觸，與呂布下邳被擒無關，故排除。"
+        },
+        {
+          "id": "lb-excl-js-dili-xiapi-guo-ahcb",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 17,
+          "term": "下邳",
+          "quote": "下邳國漢置爲臨淮郡。統縣七，戶七千五百。",
+          "reason": "本段為四庫本晉書地理志下邳國條，與 a05-015:11 同條異本，僅記郡國沿革戶數，全段未提及呂布；候選係「下邳」地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-dongzhuo-juanmu",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 0,
+          "term": "董卓",
+          "quote": "董卓",
+          "reason": "本段僅為后漢書董卓列傳卷首標題二字，全段未提及呂布；候選係「誅董卓」事件加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
