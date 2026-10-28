@@ -64743,6 +64743,26 @@
           "through": "漸不相平",
           "citation": "《後漢書·王允傳》",
           "note": "誅卓後，呂布數勸王允赦卓部曲、又欲以卓財物班賜公卿將校，允皆不從，且素輕布以劍客遇之；布負功自誇，漸與允不相平。"
+        },
+        {
+          "id": "lb-hhs-wangyun-chengxian-bu-benzou",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 30,
+          "from": "城陷，呂布奔走",
+          "through": "布駐馬青瑣門外",
+          "citation": "《後漢書·王允傳》",
+          "note": "李傕、郭汜合謀攻圍長安，城陷後呂布奔走，駐馬青瑣門外招王允同去，允以社稷為念不從。"
+        },
+        {
+          "id": "lb-hhs-xunyu-qianying-bu",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 31,
+          "from": "而潛迎呂布",
+          "through": "布旣至，諸城悉應之",
+          "citation": "《後漢書·荀彧傳》",
+          "note": "興平元年，張邈、陳宮以兖州反曹操，潛迎呂布；布既至，兖州諸城悉應之。"
         }
       ],
       "exclusions": [
@@ -64754,6 +64774,15 @@
           "term": "呂布之亂",
           "quote": "後隔呂布之亂，不復相知存亡",
           "reason": "僅以「呂布之亂」作鄭子群再娶之事的時間參照，與呂布本人行事無關；非本人史實，排除。"
+        },
+        {
+          "id": "lb-excl-hhs-danggu-zhangmiao-fu-bu",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 12,
+          "term": "張邈附呂布傳",
+          "quote": "張邈附呂布傳",
+          "reason": "僅言張邈附於呂布傳的編排歸屬，未載呂布本人任何行事，非本人史實，排除。"
         }
       ],
       "unresolved": [],
