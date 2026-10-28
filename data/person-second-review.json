@@ -61452,7 +61452,7 @@
     {
       "id": "p0087",
       "name": "董卓",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "dz-hhs-lingdi-taozhangjiao",
@@ -64273,17 +64273,31 @@
           "term": "董卓",
           "quote": "卓旣誅，遷大司農，為三老。",
           "reason": "段落主體為楊奉叛李傕、張濟和解、天子東歸洛陽途中李傕郭汜追戰事，董卓僅在三輔決錄注述士孫瑞履歷一語中以「卓旣誅」作時間標記出現，非董卓生平事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-taizu-douxu-yubu-shouwei",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "term": "董卓",
+          "quote": "太祖乃迎天子都許。暹、奉不能奉王法，各出奔，寇徐、揚閒，為劉備所殺。",
+          "reason": "段落主體為太祖迎天子都許、楊奉韓暹奔亡為劉備所殺，及李傕郭汜張濟之死、馬騰韓遂馬超後續事；全段未出現董卓（連「卓」字亦無），未述董卓生平事蹟，僅董卓死後余部結局的本傳收尾，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：向量候選已耗盡（candidates_p0087.jsonl 為空）、未決 0 條；共錄摘錄 125 條（《後漢書》80、《三國志》43、《晉書》2）、排除 174 條（《後漢書》70、《三國志》69、《晉書》30、華陽國志 5）。",
+        "本傳補齊：核對檢索配置 bio_files《三國志》卷六 a04-006，董卓傳正文第 1–13 段及評曰第 38 段皆已覆蓋；本輪補錄最後未覆蓋段第 13 段為排除，全段未出現董卓，僅述其死後余部結局。",
+        "辨人：董卓即董仲穎，隴西臨洮人，與同卷合傳袁紹、袁術、劉表及李傕、郭汜、呂布等嚴格區分；死後余部事蹟不記為本人事蹟。",
+        "事蹟主幹為入京廢立、焚燒洛陽遷都長安，後為王允、呂布所誅。"
+      ]
     }
   ]
 }
