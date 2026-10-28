@@ -66613,9 +66613,39 @@
           "through": "乃殺之。",
           "citation": "《三國志·魏書七·臧洪傳》",
           "note": "正文層：雍丘城陷，紹生執洪欲令屈服，洪據地瞋目罵紹不屈而被殺；其後徐衆三國評與邑人陳容同死段另層，不合併錄入，陳容事後漢書層已有對應條目。"
+        },
+        {
+          "id": "hong-hhs-da-lin",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 39,
+          "from": "臧洪策名於長安。",
+          "through": "夫復何言！",
+          "citation": "《後漢書·卷五十八·臧洪傳》",
+          "note": "正文層：洪答陳琳書後段，駁琳身死名滅之說，言本同末離、決絕不降；段中「盟主謂袁紹也」為注文，不屬正文。"
+        },
+        {
+          "id": "hong-hhs-shao-sha",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 41,
+          "from": "紹本愛洪，",
+          "through": "乃命殺焉。",
+          "citation": "《後漢書·卷五十八·臧洪傳》",
+          "note": "正文層：城陷後紹本愛洪、欲屈服赦之，見其辭切、知終不為用，乃命殺之；同段罵紹辭三國志層已有梗概，段中前漢音義、公羊傳注句另層，不併入本條。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "hong-excl-001",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 0,
+          "term": "臧洪",
+          "quote": "虞詡　傅爕　蓋勳　臧洪",
+          "reason": "卷首並列人名目錄，僅列傳主姓名，無史事敘述，非傳文，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
