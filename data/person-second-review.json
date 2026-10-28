@@ -65495,6 +65495,33 @@
           "term": "董卓",
           "quote": "明年，卓拜為并州牧，詔使以兵委嵩，卓不從。",
           "reason": "本段記皇甫嵩與董卓委兵之爭、嵩就徵下吏，全段未提及呂布；候選係誅董卓事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-zhuo-zhu-yuankui",
+          "work": "houhanshu",
+          "source": "a03-045",
+          "paragraph": 16,
+          "term": "董卓",
+          "quote": "董卓忿紹、術背己，遂誅隗及術兄基男女二十餘人。",
+          "reason": "本段記董卓因袁紹、袁術背己而誅袁隗及袁術兄袁基男女，全段未提及呂布；候選係誅董卓事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-sg-dongzhuo-kaipian",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 1,
+          "term": "董卓",
+          "quote": "董卓字仲穎，隴西臨洮人也。",
+          "reason": "本段為董卓傳開篇，記卓家世與早年事蹟，全段未提及呂布；候選係誅董卓事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-xunshuang-tuozhuo",
+          "work": "houhanshu",
+          "source": "a03-062",
+          "paragraph": 15,
+          "term": "董卓",
+          "quote": "爽見董卓忍暴滋甚，必危社稷，其所辟舉皆取才略之士，將共圖之，亦與司徒王允及卓長史何顒等為內謀。",
+          "reason": "本段記荀爽見董卓忍暴、與王允等為內謀，全段未提及呂布；候選係誅董卓事件加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
