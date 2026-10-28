@@ -68310,6 +68310,56 @@
       },
       "conclusions": [],
       "completedAt": "2026-10-28T21:47:14.885Z"
+    },
+    {
+      "id": "p0094",
+      "name": "張楊",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "zhangyang-hhs-dongzhuo-anguo",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "拜胡才征東將軍，張楊為安國將軍，皆假節、開府。",
+          "through": "拜胡才征東將軍，張楊為安國將軍，皆假節、開府。",
+          "citation": "《後漢書·董卓傳》所載",
+          "context": "因都安邑",
+          "note": "獻帝東歸至安邑後，張楊以河內太守拜安國將軍，假節、開府。與同段前文張楊負米貢餉相銜接，繫年為獻帝東歸之年。"
+        },
+        {
+          "id": "zhangyang-hhs-dongzhuo-weizhi-zishu",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "魏志曰：「楊字稚叔，雲中人。」",
+          "through": "魏志曰：「楊字稚叔，雲中人。」",
+          "citation": "《後漢書·董卓傳》引《魏志》所載",
+          "context": "河內太守張楊",
+          "note": "注文層（魏志）：張楊字稚叔，雲中人；與本傳籍貫、字互證。注文另層分離，不與正文拜官句合併。"
+        },
+        {
+          "id": "zhangyang-hhs-lvbu-cong-yang",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 29,
+          "from": "布不安，復去從張楊於河內。",
+          "through": "楊以為然。",
+          "citation": "《後漢書·呂布傳》所載",
+          "context": "時李傕等購募求布急",
+          "note": "呂布自袁術處不安，往從河內張楊；李傕等購募求布甚急，楊下諸將欲圖布，布以同州里說楊生賣布可得爵寵，楊以為然，布遂得走投袁紹。同段後文布又歸張楊。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
