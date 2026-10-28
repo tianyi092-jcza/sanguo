@@ -62016,6 +62016,33 @@
           "term": "董卓",
           "quote": "董卓遷天子於長安",
           "reason": "段落主述張燕聚衆、與豪傑相結；董卓遷天子僅作「是後」之時間背景，未述董卓本人事蹟細節，排除。"
+        },
+        {
+          "id": "dz-excl-jiaxu-zhuo-ruoluo",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 24,
+          "term": "董卓",
+          "quote": "董卓之入洛陽",
+          "reason": "段落主述賈詡獻策勸李傕等西攻長安；董卓入洛、卓敗僅作前情背景，未述董卓本人事蹟細節，排除。"
+        },
+        {
+          "id": "dz-excl-zhangcheng-zhuo-zuoluan",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 7,
+          "term": "董卓",
+          "quote": "董卓作亂",
+          "reason": "段落主述張承兄弟議誅卓不成、避地揚州；董卓作亂僅作起事背景，未述董卓本人事蹟細節，排除。"
+        },
+        {
+          "id": "dz-excl-tianchou-zhuo-qiandi",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 15,
+          "term": "董卓",
+          "quote": "董卓遷帝于長安",
+          "reason": "段落主述田疇奉劉虞命出使長安；董卓遷帝僅作初平元年之時間背景，未述董卓本人事蹟細節，排除。"
         }
       ],
       "unresolved": [],
