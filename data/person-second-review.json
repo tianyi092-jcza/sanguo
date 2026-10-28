@@ -62873,6 +62873,33 @@
           "term": "董卓",
           "quote": "董卓之亂，避難琅邪",
           "reason": "段落主述興平元年太祖為父嵩復讎東伐陶謙，董卓僅於「董卓之亂」一語作嵩避難的時代背景，未敘卓本人言行，排除。"
+        },
+        {
+          "id": "dz-excl-wudi-qiuxian-zhuo-nan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 25,
+          "term": "董卓",
+          "quote": "遭值董卓之難，興舉義兵",
+          "reason": "段落主述建安十五年太祖求賢令及魏武故事所載其早年志向，董卓僅於「遭值董卓之難」一語作太祖興舉義兵的時代背景，未敘卓本人言行，排除。"
+        },
+        {
+          "id": "dz-excl-feng-weigong-zhuo-nan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 30,
+          "term": "董卓",
+          "quote": "董卓初興國難",
+          "reason": "段落為封魏公策文，歷數太祖平黃巾、遷許都、破袁術、誅呂布等功績，董卓僅於開篇「初興國難」一語作諸侯釋位謀王室的起因背景，未敘卓本人言行，排除。"
+        },
+        {
+          "id": "dz-excl-xie-biao-zhuo-luan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 32,
+          "term": "董卓",
+          "quote": "會董卓作亂，義當死難",
+          "reason": "段落為魏略所載太祖受封魏公後上書謝恩，自述早年意望畢足、因卓作亂而奮身出命，董卓僅作太祖出仕征戰的動因背景，未敘卓本人言行，排除。"
         }
       ],
       "unresolved": [],
