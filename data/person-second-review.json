@@ -64303,7 +64303,38 @@
       "id": "p0088",
       "name": "呂布",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lb-hhs-xiandi-caoji-xuzhou",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 11,
+          "from": "曹操擊呂布於徐州",
+          "through": "曹操擊呂布於徐州，斬之。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "note": "建安三年（198年），曹操擊呂布於徐州，斬之。"
+        },
+        {
+          "id": "lb-hhs-xunyu-yanzhouping",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 32,
+          "from": "操於是大收孰麥，復與布戰。",
+          "through": "布敗走，因分定諸縣，兗州遂平。",
+          "citation": "《後漢書·荀彧傳》",
+          "note": "興平二年（195年），曹操從荀彧之諫，大收熟麥、復與呂布戰，布敗走，兗州遂平。"
+        },
+        {
+          "id": "lb-hhs-xunyu-xianqulvbu",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 35,
+          "from": "彧量紹雖強，終為操所制，乃說先取呂布，然後圖紹，操從之。",
+          "through": "三年，遂擒呂布，定徐州。",
+          "citation": "《後漢書·荀彧傳》",
+          "note": "建安三年（198年），曹操從荀彧先取呂布之謀，擒呂布、定徐州。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
