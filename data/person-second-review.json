@@ -64363,6 +64363,36 @@
           "through": "皆誅殺之。",
           "citation": "《後漢書·董卓傳》",
           "note": "王允、呂布誅董卓後，李傕、郭汜等忿怒并州人，在軍者男女數百人皆被誅殺。"
+        },
+        {
+          "id": "lb-hhs-yuanshao-yanzhouduo",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 29,
+          "from": "故躬破於徐方，地奪於呂布，",
+          "through": "故躬破於徐方，地奪於呂布，",
+          "citation": "《後漢書·袁紹傳》",
+          "note": "袁紹檄文稱曹操在徐州敗績、兗州之地被呂布所奪，指興平元年張邈、陳宮迎呂布據兗州之事。"
+        },
+        {
+          "id": "lb-hhs-lvbu-chuanqi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 27,
+          "from": "呂布字奉先，五原九原人也。",
+          "through": "董卓誘布殺原而并其兵。",
+          "citation": "《後漢書·呂布傳》",
+          "note": "呂布字奉先，五原九原人，以弓馬驍武給并州，為丁原主簿甚見親待；董卓誘布殺丁原而并其兵。"
+        },
+        {
+          "id": "lb-hhs-lvbu-benwuguan",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 29,
+          "from": "布與傕戰，敗，",
+          "through": "奔南陽。",
+          "citation": "《後漢書·呂布傳》",
+          "note": "王允不赦涼州人，李傕等還攻長安，呂布戰敗，攜董卓首級繫馬鞍、出武關奔南陽。"
         }
       ],
       "exclusions": [],
