@@ -67374,6 +67374,22 @@
         "jinshu": "checked"
       },
       "conclusions": []
+    },
+    {
+      "id": "p0093",
+      "name": "張繡",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
