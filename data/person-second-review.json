@@ -65820,6 +65820,33 @@
           "term": "臧洪",
           "quote": "臧洪字子源，廣陵射陽人也。",
           "reason": "本段為臧洪傳首段，記洪出身及父旻事蹟、洪舉孝廉為郎、補即丘長等，全段未提及呂布；本傳補齊核對，排除。"
+        },
+        {
+          "id": "lb-excl-sg-zhangmiao-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 5,
+          "term": "張邈",
+          "quote": "張邈傳",
+          "reason": "本段僅為張邈傳卷內標題，全段未提及呂布；本傳補齊核對，排除。"
+        },
+        {
+          "id": "lb-excl-sg-zanghong-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 15,
+          "term": "臧洪",
+          "quote": "臧洪傳",
+          "reason": "本段僅為臧洪傳卷內標題，全段未提及呂布；本傳補齊核對，排除。"
+        },
+        {
+          "id": "lb-excl-sg-zanghong-mengshi",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 17,
+          "term": "臧洪",
+          "quote": "董卓殺帝，圖危社稷，洪說超曰：「明府歷世受恩，兄弟並據大郡，今王室將危，賊臣未梟，此誠天下義烈報恩効命之秋也。」",
+          "reason": "本段為臧洪傳內容，記洪說張超起兵、會邈盟誓討董卓及裴注案語，全段未提及呂布；本傳補齊核對，排除。"
         }
       ],
       "unresolved": [],
