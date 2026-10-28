@@ -64423,6 +64423,36 @@
           "through": "布到，攻鄄城不能下，西屯濮陽。",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "興平元年張邈、陳宮叛迎呂布，兗州郡縣皆應，呂布攻鄄城不下而西屯濮陽。"
+        },
+        {
+          "id": "lb-sg-wudi-xiapi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "呂布襲劉備，取下邳。",
+          "through": "備來奔。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安元年呂布襲劉備，取下邳，劉備來奔。"
+        },
+        {
+          "id": "lb-sg-wudi-xiapi-po",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "九月，公東征布。",
+          "through": "生禽布、宮，皆殺之。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安三年九月曹操東征呂布，圍下邳，決泗、沂水灌城，月餘呂布部將執陳宮舉城降，呂布與陳宮俱被擒殺。"
+        },
+        {
+          "id": "lb-sg-mingdi-yilu-shu",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 18,
+          "from": "獻帝傳曰：朗父名宜祿，為呂布使詣袁術，",
+          "through": "術妻以漢宗室女。",
+          "citation": "《三國志·魏書三·明帝紀》",
+          "note": "裴注引《獻帝傳》：呂布遣宜祿出使袁術，袁術以漢宗室女妻之。"
         }
       ],
       "exclusions": [],
