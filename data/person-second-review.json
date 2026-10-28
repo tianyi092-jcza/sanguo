@@ -64813,6 +64813,36 @@
           "through": "操還擊布",
           "citation": "《後漢書·陶謙傳》",
           "note": "興平元年，曹操再擊陶謙、略定琅邪東海諸縣之際，張邈迎呂布據兗州，曹操遂還擊呂布；是歲陶謙病死。"
+        },
+        {
+          "id": "lb-hhs-yuanshu-qiehao-lvbu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 23,
+          "from": "乃遣使以竊號告呂布",
+          "through": "大敗而還",
+          "citation": "《後漢書·袁術傳》",
+          "note": "建安二年袁術僭號，遣使以竊號告呂布、并為子娉布女；呂布執術使送許，袁術大怒，遣張勳、橋蕤攻布，大敗而還。"
+        },
+        {
+          "id": "lb-hhs-zhangmiao-ying-bu-yanzhou",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 30,
+          "from": "邈從之，遂與弟超及宮等迎布為兖州牧",
+          "through": "郡縣皆應之",
+          "citation": "《後漢書·呂布傳》",
+          "note": "興平元年陳宮說張邈，張邈從之，與弟張超及陳宮迎呂布為兗州牧，據濮陽，郡縣皆應之。"
+        },
+        {
+          "id": "lb-hhs-liyi-chenzhao-lvbu-faling",
+          "work": "houhanshu",
+          "source": "a03-096",
+          "paragraph": 11,
+          "from": "卓使呂布發諸帝陵及公卿以下冢墓",
+          "through": "收其珍寶。",
+          "citation": "《後漢書·禮儀志下》",
+          "note": "此為禮儀志臣昭案引董卓傳，非正文直載：董卓使呂布發諸帝陵及公卿以下冢墓、收其珍寶。"
         }
       ],
       "exclusions": [
