@@ -63404,6 +63404,33 @@
           "term": "董卓",
           "quote": "北走董卓",
           "reason": "段落主述黃蓋出身及從孫堅征戰、隨策及權的履歷；董卓僅作被孫堅北走的對象一筆帶過，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-sunben-taozhuo",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 5,
+          "term": "董卓",
+          "quote": "入討董卓",
+          "reason": "段落主述說賁止遣子入質、陳安危；董卓僅在引述破虜將軍昔率義兵討卓一語中出現，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-lumao-zhangchao-taozhuo",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 28,
+          "term": "董卓",
+          "quote": "張超之討董卓",
+          "reason": "段落主述陸瑁生平及袁迪家事；董卓僅在獻帝春秋所云張超討卓、以綏領廣陵事一語中作背景，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-quanrou-zhuozhiluan",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 13,
+          "term": "董卓",
+          "quote": "董卓之亂，棄官歸",
+          "reason": "段落主述全柔、全琮父子生平；董卓僅於「董卓之亂」一語作全柔棄官歸的時代背景，未述卓本人事蹟，排除。"
         }
       ],
       "unresolved": [],
