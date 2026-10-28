@@ -65953,6 +65953,38 @@
           "through": "郡縣皆應。",
           "citation": "《後漢書·卷七十四上·袁紹傳》袁紹檄文引《魏志》所載",
           "note": "魏志曰注文層，檄文引述：記張邈與陳宮畔迎呂布、郡縣皆應。"
+        },
+        {
+          "id": "gong-hhs-shuo-miao-ying-bu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 30,
+          "from": "宮因說邈曰",
+          "through": "郡縣皆應之。",
+          "citation": "《後漢書·卷七十五·呂布列傳》",
+          "context": "興平元年，曹操東擊陶謙",
+          "note": "正文層：興平元年曹操東征陶謙、陳宮屯東郡之際，宮說張邈迎呂布共據兗州，邈從之，據濮陽，郡縣皆應。"
+        },
+        {
+          "id": "gong-hhs-dianlue-sui-cao-cong-bu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 30,
+          "from": "典略曰：「陳宮字公臺",
+          "through": "布每不從。」",
+          "citation": "《後漢書·卷七十五·呂布列傳》引《典略》所載",
+          "note": "注文層（典略注），與正文分開記：宮始隨太祖，後自疑乃從呂布，為布畫策而布每不從。"
+        },
+        {
+          "id": "gong-hhs-xiapi-jiuxing",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 39,
+          "from": "固請就刑",
+          "through": "傳首許市。",
+          "citation": "《後漢書·卷七十五·呂布列傳》",
+          "context": "曹操壍圍之，壅沂、泗以灌其城",
+          "note": "正文層：下邳城陷、陳宮被執後固請就刑，出不顧，操為之泣涕；布及宮、順皆縊殺，傳首許市。"
         }
       ],
       "exclusions": [],
