@@ -64298,6 +64298,22 @@
         "辨人：董卓即董仲穎，隴西臨洮人，與同卷合傳袁紹、袁術、劉表及李傕、郭汜、呂布等嚴格區分；死後余部事蹟不記為本人事蹟。",
         "事蹟主幹為入京廢立、焚燒洛陽遷都長安，後為王允、呂布所誅。"
       ]
+    },
+    {
+      "id": "p0088",
+      "name": "呂布",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
