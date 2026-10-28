@@ -66218,9 +66218,39 @@
           "through": "順亦終無恨意。",
           "citation": "《三國志·魏書七·呂布傳》",
           "note": "裴注層（英雄記）：順清白有威嚴，不飲酒、不受饋遺，所將七百餘兵號為千人、鎧甲精練、每攻無不破，名為陷陣營；屢諫布不用，郝萌反後布更疏順、奪其兵與魏續，戰時仍令順將續兵，順終無恨意。"
+        },
+        {
+          "id": "shun-sgz-xianzhu-gaoshun-attack-pei",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 4,
+          "from": "布遣高順攻之",
+          "through": "復虜先主妻子送布。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "先主傳正文：備屯小沛復合兵、受曹公兵東擊布，布遣高順攻之，夏侯惇往救不能救，為順所敗，備妻子復被虜送布。"
+        },
+        {
+          "id": "shun-sgz-xianzhu-gaoshun-zhangliao-popei",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 4,
+          "from": "布由是遣中郎將高順、北地太守張遼等攻備。",
+          "through": "備單身走，獲將士妻息。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "裴注層（英雄記）：建安三年春，布使者買馬被備兵所鈔，布由是遣中郎將高順、北地太守張遼攻備，九月破沛城，備單身走，獲將士妻息。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "shun-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 14,
+          "term": "順",
+          "quote": "天道與順，克之必矣。",
+          "reason": "陳登傳段落中「天道與順」之「順」為順應之義，非高順其人；本段亦無高順出現，係向量本傳單字誤命，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
