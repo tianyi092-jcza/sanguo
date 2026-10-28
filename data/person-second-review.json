@@ -63927,6 +63927,33 @@
           "term": "董卓",
           "quote": "姚興陷洛陽",
           "reason": "晉書安帝紀姚興陷洛陽、執辛恭靖事，屬東晉末事，全段未出現董卓，僅因洛陽地名誤命中焚燒洛陽事件，排除。"
+        },
+        {
+          "id": "dz-excl-jingling-luoyang",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 3,
+          "term": "董卓",
+          "quote": "葬孝章皇帝于敬陵",
+          "reason": "後漢書孝和孝殤帝紀記葬孝章皇帝於敬陵事，屬東漢初事，全段未出現董卓，僅因洛陽地名誤命中焚燒洛陽事件，排除。"
+        },
+        {
+          "id": "dz-excl-xiuluoyang-gong",
+          "work": "jinshu",
+          "source": "a05-106-ahcb",
+          "paragraph": 69,
+          "term": "董卓",
+          "quote": "修洛陽宮",
+          "reason": "晉書載記記發諸州人修洛陽宮、發百姓牛配朔州牧官事，全段未出現董卓，僅因洛陽地名誤命中焚燒洛陽事件，排除。"
+        },
+        {
+          "id": "dz-excl-liyan-jiangzhou",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 5,
+          "term": "董卓",
+          "quote": "都護李嚴自永安還住江州",
+          "reason": "三國志後主傳記都護李嚴自永安還住江州築大城事，屬蜀漢事，全段未出現董卓，與遷都長安無關，排除。"
         }
       ],
       "unresolved": [],
