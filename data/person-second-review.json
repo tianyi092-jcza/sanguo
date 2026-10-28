@@ -65922,7 +65922,39 @@
       "id": "p0089",
       "name": "陳宮",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "gong-hhs-dianlue-zi",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 31,
+          "from": "典略「宮字公臺",
+          "through": "皆相連結」",
+          "citation": "《後漢書·卷七十·荀彧傳》引《典略》所載",
+          "note": "注文層（典略注）：記宮字公臺、東郡人、剛直烈壯，不與正文合併。"
+        },
+        {
+          "id": "gong-hhs-taochen",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 32,
+          "from": "宜急分討陳宮",
+          "through": "呂布不足破也。",
+          "citation": "《後漢書·卷七十·荀彧傳》",
+          "context": "二年，陶謙死",
+          "note": "荀彧諫曹操先定兗州、分討陳宮，收熟麥再戰，呂布不足破。"
+        },
+        {
+          "id": "gong-hhs-weizhi-ying",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 29,
+          "from": "會張邈與陳宮畔迎呂布",
+          "through": "郡縣皆應。",
+          "citation": "《後漢書·卷七十四上·袁紹傳》袁紹檄文引《魏志》所載",
+          "note": "魏志曰注文層，檄文引述：記張邈與陳宮畔迎呂布、郡縣皆應。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
