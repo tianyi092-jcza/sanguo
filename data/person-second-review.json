@@ -64663,6 +64663,36 @@
           "through": "布虜先主妻子，先主轉軍海西",
           "citation": "《三國志·蜀書二·先主傳》",
           "note": "先主傳載劉備與袁術相持時，呂布乘虛襲下邳，虜備妻子，備轉軍海西。"
+        },
+        {
+          "id": "lb-sg-xianzhu-jianan3-heinei-maima",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 4,
+          "from": "建安三年春，布使人齎金欲詣河內買馬",
+          "through": "備單身走，獲將士妻息",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "英雄記載建安三年春呂布遣人攜金至河內買馬，為劉備兵所鈔；布由是遣高順、張遼攻備，破沛城，備單身走。"
+        },
+        {
+          "id": "lb-sg-guanyu-shuji-qinyilu-qiujiu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 1,
+          "from": "布使秦宜祿行求救",
+          "through": "公許之",
+          "citation": "《三國志·蜀書六·關羽傳》",
+          "note": "蜀記載曹公與劉備圍呂布於下邳時，布遣秦宜祿出城求救，關羽向曹公乞娶宜祿之妻，公許之。"
+        },
+        {
+          "id": "lb-sg-mizhu-jianan1-xipi",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 10,
+          "from": "建安元年，呂布乘先主之出拒袁術，襲下邳",
+          "through": "虜先主妻子",
+          "citation": "《三國志·蜀書八·麋竺傳》",
+          "note": "糜竺傳載建安元年呂布乘劉備出拒袁術，襲下邳，虜備妻子，備轉軍廣陵海西。"
         }
       ],
       "exclusions": [],
