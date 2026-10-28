@@ -62403,6 +62403,26 @@
           "through": "京都大亂。",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "中平六年，董卓到洛陽，廢少帝為弘農王而立獻帝，京都大亂；此為武帝紀正文所載卓入京廢立的旁證。"
+        },
+        {
+          "id": "dz-sg-wendi-shanrang-zhuo-xin",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 12,
+          "from": "董卓乘釁，",
+          "through": "蝮蛇塞路。",
+          "citation": "《三國志·魏書二·文帝紀》",
+          "note": "延康元年獻帝禪代冊詔譴董卓乘釁劫遷宮廟、致九州幅裂，為禪代詔書對卓亂的定性旁證。"
+        },
+        {
+          "id": "dz-sg-mingdi-zhuishi-zhuo-nue",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 20,
+          "from": "俾逆臣董卓，",
+          "through": "劫遷大駕。",
+          "citation": "《三國志·魏書三·明帝紀》",
+          "note": "明帝追諡山陽公贈冊追述逆臣董卓播凶虐、焚滅京都、劫遷大駕，為明帝紀所載贈冊對卓亂的追述。"
         }
       ],
       "exclusions": [
@@ -62900,6 +62920,15 @@
           "term": "董卓",
           "quote": "會董卓作亂，義當死難",
           "reason": "段落為魏略所載太祖受封魏公後上書謝恩，自述早年意望畢足、因卓作亂而奮身出命，董卓僅作太祖出仕征戰的動因背景，未敘卓本人言行，排除。"
+        },
+        {
+          "id": "dz-excl-bianhou-zhuo-luan-beijing",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 3,
+          "term": "董卓",
+          "quote": "及董卓為亂，太祖微服東出避難",
+          "reason": "段落為武宣卞皇后傳，董卓為亂僅作太祖微服東出避難的背景，未敘卓本人言行，排除。"
         }
       ],
       "unresolved": [],
