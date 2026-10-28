@@ -62245,6 +62245,33 @@
           "term": "董卓",
           "quote": "獻帝嬰董卓之禍",
           "reason": "段落為自春秋至獻帝的史論性總述，董卓僅在「獻帝嬰董卓之禍」一句泛述中出現，未述卓任何具體事蹟，屬後世概括修辭，排除；卓事蹟以本傳及主述段落為準。"
+        },
+        {
+          "id": "dz-excl-caiyong-zhuo-beizhu",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 30,
+          "term": "董卓",
+          "quote": "董卓國之大賊，幾傾漢室",
+          "reason": "段落主述蔡邕因卓被誅後歎息而獲罪致死，董卓僅為事件背景與王允斥責語中的定性，未述卓任何具體事蹟，排除；卓被誅事蹟以本傳及主述段落為準。"
+        },
+        {
+          "id": "dz-excl-caiyong-lun-zhuo-pishu",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 32,
+          "term": "董卓",
+          "quote": "董卓一旦入朝，辟書先下，分明枉結，信宿三遷",
+          "reason": "論曰主述蔡邕遭際，董卓入朝辟邕、信宿三遷一事已於同傳正文段落錄為摘錄，此處為論贊重述，無新增卓事蹟，故排除。"
+        },
+        {
+          "id": "dz-excl-caiyong-zan-huaidong",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 33,
+          "term": "董卓",
+          "quote": "懷董謂邕懷董卓之恩也",
+          "reason": "贊曰主述蔡邕，董卓僅於「懷董」一語（注釋為懷董卓之恩）中出現，未述卓任何具體事蹟，排除。"
         }
       ],
       "unresolved": [],
