@@ -65330,6 +65330,33 @@
           "term": "下邳",
           "quote": "下邳王衍薨",
           "reason": "本段僅記下邳王衍薨，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-xiapi-xiean",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 245,
+          "term": "下邳",
+          "quote": "下邳人謝安應募擊徐鳳等，斬之。",
+          "reason": "本段僅記下邳人謝安應募擊徐鳳斬之，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-jin-xiapi-shisheng",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 37,
+          "term": "下邳",
+          "quote": "濟岷太守劉闓、將軍張闔等叛，害下邳內史夏侯嘉，以下邳降于石生。",
+          "reason": "本段記劉闓、張闔叛害下邳內史夏侯嘉、以下邳降石生，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-jin-xiapi-shizhan",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 25,
+          "term": "下邳",
+          "quote": "勒將兵都尉石瞻寇下邳，敗晉將軍劉長，遂寇蘭陵，又敗彭城內史劉續。東莞太守竺珍、東海太守蕭誕以郡叛降于勒。",
+          "reason": "本段記石瞻寇下邳、敗劉長等，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
