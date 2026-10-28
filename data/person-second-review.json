@@ -61799,6 +61799,38 @@
           "through": "位在太傅上",
           "citation": "《後漢書·卷一百十四·志第二十四·百官一》",
           "note": "百官志述太傅職制時附記：董卓在長安自尊為太師，位在太傅上；此為董卓僭越官制的志書旁證。"
+        },
+        {
+          "id": "dz-hhs-baiguan-xiangguo",
+          "work": "houhanshu",
+          "source": "a03-114",
+          "paragraph": 8,
+          "from": "案獻帝方，董卓自太尉進為相國",
+          "through": "而司徒不省",
+          "citation": "《後漢書·卷一百十四·志第二十四·百官一》",
+          "note": "百官志述司徒職制時附記：獻帝時董卓自太尉進為相國，而司徒不省；此為董卓僭進相國的志書旁證。"
+        },
+        {
+          "id": "dz-sg-chuping-qibing",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 3,
+          "context": "初平元年春正月",
+          "from": "同時俱起兵，衆各數萬",
+          "through": "推紹為盟主",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "初平元年春正月，關東諸侯並起兵討卓，衆各數萬，推袁紹為盟主；此為董卓遭關東起兵討伐的本紀旁證。"
+        },
+        {
+          "id": "dz-sg-qianchangan-fenluoyang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 4,
+          "context": "二月，卓聞兵起",
+          "from": "二月，卓聞兵起，乃徙天子都長安",
+          "through": "卓留屯洛陽，遂焚宮室",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "初平元年二月，董卓聞關東兵起，徙天子都長安，留屯洛陽焚宮室；此為董卓遷都長安、焚洛陽宮室的本紀旁證。"
         }
       ],
       "exclusions": [
