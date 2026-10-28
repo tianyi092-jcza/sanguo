@@ -63459,6 +63459,33 @@
           "term": "董卓",
           "quote": "漢自董卓之亂，百姓流離",
           "reason": "段落主述魏晉屯田、鹽政、陂渠等食貨政策；董卓僅於首句「漢自董卓之亂」作百姓流離的時代背景，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-xingfa-yingshao-zhuo-dianxian",
+          "work": "jinshu",
+          "source": "a05-030-ahcb",
+          "paragraph": 8,
+          "term": "董卓",
+          "quote": "逆臣董卓，蕩覆王室，典憲焚燎，靡有孑遺",
+          "reason": "段落主述建安元年應劭刪定律令、撰漢議上表；董卓僅在追述典憲散失的一句譴責中出現，未述卓具體事蹟，屬附帶提及，排除；與後漢書同表已錄排除 dz-excl-hanyi-zhuo-dianxian 互證，焚燬、遷都等詳情以本傳及主述段落為準。"
+        },
+        {
+          "id": "dz-excl-xijian-shimeng-zhuo",
+          "work": "jinshu",
+          "source": "a05-067-ahcb",
+          "paragraph": 24,
+          "term": "董卓",
+          "quote": "董卓陵漢，群后致討",
+          "reason": "段落主述郗鑒於祖約、蘇峻之亂中誓師東赴、遣將聯絡溫嶠；董卓僅在誓詞中作「陵漢致討」的歷史先例一句，未述卓本人事蹟，屬典故類比，排除。"
+        },
+        {
+          "id": "dz-excl-xijian-yizang-zhuo",
+          "work": "jinshu",
+          "source": "a05-098-ahcb",
+          "paragraph": 24,
+          "term": "董卓",
+          "quote": "董卓然腹以照市",
+          "reason": "段落主述王敦死後有司議剖棺戮尸、郗鑒請聽私葬；董卓僅在歷數前朝誅戮先例時以「然腹以照市」一句類比，未述卓生平事蹟，屬附帶提及，排除；卓被誅及死後處置以本傳為準。"
         }
       ],
       "unresolved": [],
