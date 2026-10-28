@@ -64573,6 +64573,36 @@
           "through": "乃引沂、泗灌城，城潰，生禽布。",
           "citation": "《三國志·魏書十·荀攸傳》",
           "note": "下邳之戰太祖引沂、泗灌城，城潰，生禽呂布。"
+        },
+        {
+          "id": "lb-sg-chengyu-yanzhoubian",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 3,
+          "from": "張邈等叛迎呂布，郡縣響應，唯鄄城、范、東阿不動。",
+          "through": "張邈等叛迎呂布，郡縣響應，唯鄄城、范、東阿不動。",
+          "citation": "《三國志·魏書十四·程昱傳》",
+          "note": "程昱傳載張邈等叛迎呂布，兖州郡縣響應，唯鄄城、范、東阿不動。"
+        },
+        {
+          "id": "lb-sg-zhangliao-congbu-xuzhou",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 1,
+          "from": "布為李傕所敗，從布東奔徐州",
+          "through": "布為李傕所敗，從布東奔徐州",
+          "citation": "《三國志·魏書十七·張遼傳》",
+          "note": "張遼傳載呂布為李傕所敗後，張遼從布東奔徐州。"
+        },
+        {
+          "id": "lb-sg-zhangliao-xiapi-jiang",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 2,
+          "from": "太祖破呂布於下邳，遼將其衆降",
+          "through": "太祖破呂布於下邳，遼將其衆降",
+          "citation": "《三國志·魏書十七·張遼傳》",
+          "note": "張遼傳載太祖於下邳破呂布，張遼率眾降。"
         }
       ],
       "exclusions": [],
