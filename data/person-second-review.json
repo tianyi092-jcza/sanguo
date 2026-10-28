@@ -61453,7 +61453,41 @@
       "id": "p0087",
       "name": "董卓",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "dz-hhs-lingdi-taozhangjiao",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 17,
+          "from": "遣中郎將董卓攻張角，不剋。",
+          "through": "遣中郎將董卓攻張角，不剋。",
+          "citation": "《後漢書·孝靈帝紀》",
+          "context": "中平元年",
+          "note": "中平元年（184年），董卓以中郎將討張角，不克。"
+        },
+        {
+          "id": "dz-hhs-lingdi-taoxianlingqiang",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 18,
+          "from": "又遣中郎將董卓討先零羌。",
+          "through": "慎、卓並不克。",
+          "citation": "《後漢書·孝靈帝紀》",
+          "context": "二年春正月",
+          "note": "中平二年（185年），董卓以中郎將討先零羌，與周慎並不克。"
+        },
+        {
+          "id": "dz-hhs-lingdi-shadingyuan-sikong",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 24,
+          "from": "并州牧董卓殺執金吾丁原。",
+          "through": "董卓自為司空。",
+          "citation": "《後漢書·孝靈帝紀》",
+          "context": "改光喜為昭寧",
+          "note": "中平六年（189年），董卓以并州牧殺執金吾丁原，後自為司空；段內董重、孝仁皇后董氏皆他人，不併入。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
