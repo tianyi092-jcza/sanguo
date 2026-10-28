@@ -68508,6 +68508,36 @@
           "through": "張繡稽服，",
           "citation": "《三國志·武帝紀》所載",
           "note": "武帝紀頌曹操功績之文，於呂布就戮之後列張楊殂斃，與建安三年張楊為楊丑所殺相銜接，屬同一事件的旁證，未載死因細節。"
+        },
+        {
+          "id": "zhangyang-sgz-dongzhuo-ying-di-dasima",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "出箕關，下軹道，",
+          "through": "拜大司馬。",
+          "citation": "《三國志·董卓傳》所載",
+          "note": "獻帝東歸至軹道，張楊以食迎於道路，遂拜大司馬；與後漢書孝獻帝紀所載大司馬一節可互證，見其於獻帝東歸之際已為朝廷所倚。"
+        },
+        {
+          "id": "zhangyang-sgz-yuanshao-jiuzhou-xinfu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 18,
+          "from": "雖有張楊、於扶羅新附，",
+          "through": "不足敵也。",
+          "citation": "《三國志·袁紹傳》引《九州春秋》所載",
+          "note": "九州春秋所載趙浮、程奐勸韓馥之言，謂張楊與於扶羅雖新附袁紹而未肯為用；反映袁紹初領冀州時，張楊已在其陣營外圍而非核心用兵，屬當時形勢判斷，非張楊本傳正文。"
+        },
+        {
+          "id": "zhangyang-sgz-zhangmiao-lvbu-cong-yang",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 7,
+          "from": "呂布之捨袁紹從張楊也，",
+          "through": "把手共誓。",
+          "citation": "《三國志·張邈傳》所載",
+          "note": "呂布捨袁紹而從張楊，過張邈臨別把手共誓；見張楊於呂布去就之際為其投奔對象，與後漢書呂布傳張楊收留呂布一節相銜接。"
         }
       ],
       "exclusions": [
