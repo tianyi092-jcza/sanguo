@@ -63513,6 +63513,33 @@
           "term": "董卓",
           "quote": "桓玄逆篡，虐踰董卓",
           "reason": "段落主述韓範勸慕容德乘桓玄篡逆之機舉兵；董卓僅在上疏中以「虐踰董卓」一句作桓玄暴虐程度的類比，未述卓本人事蹟，屬典故類比，排除。"
+        },
+        {
+          "id": "dz-excl-longzhongdui-zhuo-qidian",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 8,
+          "term": "董卓",
+          "quote": "自董卓以來豪桀竝起",
+          "reason": "段落為隆中對：諸葛亮對先主論天下大勢；董卓僅以「自董卓以來」一句作漢末豪桀並起的亂世起點，未述卓本人任何事蹟，屬背景提及，排除。"
+        },
+        {
+          "id": "dz-excl-zhuan-yue-zhuo-liejv",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 26,
+          "term": "董卓",
+          "quote": "漢末大亂雄桀竝起若董卓吕布二袁韓馬張",
+          "reason": "段落末為譔曰總結：漢末大亂、雄桀並起，僅列舉董卓、呂布、二袁等人之名，未述卓本人事蹟，屬列名提及，排除。"
+        },
+        {
+          "id": "dz-excl-zhaowen-zhuo-xiongshan",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 15,
+          "term": "董卓",
+          "quote": "董卓李傕凶擅",
+          "reason": "段落主述趙溫仕途（拜司空、司徒）及贊語；董卓僅在贊語中與李傕並稱「凶擅」、並以「卓傕之惡甚於梁冀」作道德評比，未述卓本人事蹟，屬評比提及，排除。"
         }
       ],
       "unresolved": [],
