@@ -60645,7 +60645,7 @@
     {
       "id": "p0086",
       "name": "王允",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "wy-hhs-xiandi-weisitu",
@@ -61436,13 +61436,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：向量候選重跑 0 條（年號剛性剔除 3 段）、未決 0 條；共錄摘錄 23 條（《後漢書》19、《三國志》4）、排除 61 條（《後漢書》16、《三國志》10、《晉書》35）。",
+        "本傳補齊：核對檢索配置 bio_files《三國志》卷六 a04-006 全 39 段，字面含「王允」「王子師」者僅第 7、9 段，皆已覆蓋，無未覆蓋確指段落可補錄；王允無三國志專傳，以《後漢書》列傳為主幹。",
+        "辨人：王允即王子師，太原祁人，與同名異人及董卓、呂布、袁紹、袁術、劉表等同卷合傳人物嚴格區分；單字命中均核實確指本人後方錄入。",
+        "生卒：按檢索配置與繫年為 137–192；事蹟主幹為司徒任上與士孫瑞、呂布共謀誅董卓及其後長安之變。"
+      ]
     }
   ]
 }
