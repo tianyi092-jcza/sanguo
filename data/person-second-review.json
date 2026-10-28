@@ -61913,6 +61913,26 @@
           "through": "封薊侯",
           "citation": "《三國志·魏書八·劉虞傳》",
           "note": "董卓至洛陽後，遷劉虞為大司馬，公孫瓚為奮武將軍、封薊侯。"
+        },
+        {
+          "id": "dz-sg-zhangyang-jianyi-henei",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "卓以楊為建義將軍",
+          "through": "河內太守",
+          "citation": "《三國志·魏書八·張楊傳》",
+          "note": "董卓以張楊為建義將軍、河內太守。"
+        },
+        {
+          "id": "dz-sg-xunyou-mouci",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 15,
+          "from": "攸與議郎鄭泰、何顒、侍中种輯、越騎校尉伍瓊等謀曰",
+          "through": "收顒、攸繫獄",
+          "citation": "《三國志·魏書十·荀攸傳》",
+          "note": "荀攸與鄭泰、何顒、种輯、伍瓊等謀刺董卓，事將成而被發覺，顒、攸下獄。"
         }
       ],
       "exclusions": [
@@ -61987,6 +62007,15 @@
           "term": "董卓",
           "quote": "董卓之亂",
           "reason": "段落僅以「董卓之亂」作時代背景，記述陶謙遣使間行致貢獻、遷安東將軍徐州牧；無董卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-zhangyan-dongzhuoqiandu",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 21,
+          "term": "董卓",
+          "quote": "董卓遷天子於長安",
+          "reason": "段落主述張燕聚衆、與豪傑相結；董卓遷天子僅作「是後」之時間背景，未述董卓本人事蹟細節，排除。"
         }
       ],
       "unresolved": [],
