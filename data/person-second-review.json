@@ -65468,6 +65468,33 @@
           "term": "徐州",
           "quote": "冬十月丙辰，徐州刺史蔡豹以畏懦伏誅。王敦殺武陵內史向碩。",
           "reason": "本段記元帝時徐州刺史蔡豹伏誅、王敦殺向碩，全段未提及呂布；候選係徐州地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-chuping-shandong-taozhuo",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 3,
+          "term": "董卓",
+          "quote": "初平元年春正月，山東州郡起兵以討董卓。",
+          "reason": "本段記初平元年山東州郡起兵討董卓等事，全段未提及呂布；候選係誅董卓事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-shao-zhuo-feili",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 4,
+          "term": "董卓",
+          "quote": "靈帝崩，紹勸何進徵董卓等衆軍，脅太后誅諸宦官，轉紹司隷校尉。",
+          "reason": "本段記靈帝崩後袁紹勸何進徵董卓、紹與卓廢立之爭，全段未提及呂布；候選係誅董卓事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-song-zhuo-weibing",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 12,
+          "term": "董卓",
+          "quote": "明年，卓拜為并州牧，詔使以兵委嵩，卓不從。",
+          "reason": "本段記皇甫嵩與董卓委兵之爭、嵩就徵下吏，全段未提及呂布；候選係誅董卓事件加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
