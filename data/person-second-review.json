@@ -65657,6 +65657,33 @@
           "term": "徐邈",
           "quote": "徐邈傳",
           "reason": "本段僅為徐邈傳卷首標題，無正文內容、未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-sg-xuyi-chuanmu",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 13,
+          "term": "徐弈",
+          "quote": "徐弈傳",
+          "reason": "本段僅為徐弈傳卷首標題，無正文內容、未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-sg-xuxuan-chuanmu",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 22,
+          "term": "徐宣",
+          "quote": "徐宣傳",
+          "reason": "本段僅為徐宣傳卷首標題，無正文內容、未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-js-murongchui-weiye",
+          "work": "jinshu",
+          "source": "a05-114-ahcb",
+          "paragraph": 30,
+          "term": "慕容垂",
+          "quote": "慕容垂復圍鄴城。",
+          "reason": "本段記慕容垂復圍鄴城、焦逵至朝廷陳丕款誠、遣劉牢之率眾救鄴，全段未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
