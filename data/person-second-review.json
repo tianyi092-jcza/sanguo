@@ -67379,9 +67379,42 @@
       "id": "p0093",
       "name": "張繡",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xiu-bio-origin",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 23,
+          "from": "張繡，武威祖厲人，驃騎將軍濟族子也。",
+          "through": "遂招合少年，為邑中豪傑。",
+          "citation": "《三國志·魏書八·張繡傳》",
+          "note": "正文層：張繡武威祖厲人、張濟族子；為縣吏閒伺殺麴勝，郡內義之，招合少年為邑中豪傑。本段後續正文與裴注層另條錄入，不合併。"
+        },
+        {
+          "id": "xiu-hhs-wancheng",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 35,
+          "from": "袁紹旣兼河朔之地，有驕氣。",
+          "through": "張繡在南陽降，旣而悔之，而復反。",
+          "citation": "《後漢書·卷七十·荀彧傳》",
+          "note": "正文層引魏志：曹操敗於張繡，張繡在南陽先降而後悔復反；他傳交叉證據，宛城事主值依三國志本傳。"
+        },
+        {
+          "id": "xiu-wudiji-wancheng",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 11,
+          "from": "二年春正月，公到宛。張繡降，旣而悔之，復反。",
+          "through": "長子昂、弟子安民遇害。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "正文層：建安二年正月曹操到宛，張繡降而復反，曹操軍敗中流矢，長子昂、弟子安民遇害。段內魏書、世語裴注層不在本條範圍內。"
+        }
+      ],
       "exclusions": [],
-      "unresolved": [],
+      "unresolved": [
+        "a04-008:23 本傳段內待補：正文後段（隨濟至建忠將軍、濟死領衆屯宛與劉表合；宛城降而復叛正文；官渡復降、官渡力戰遷破羌將軍、南皮增邑、從征烏丸柳城未至薨諡定侯）與裴注層（傅子胡車兒、吳書賈詡計、魏略五官將自殺異說）須分層另錄；本輪僅錄起首出身段，勿因段落已入 covered 而漏補。"
+      ],
       "coverage": {
         "sanguozhi": "in-progress",
         "peizhu": "in-progress",
