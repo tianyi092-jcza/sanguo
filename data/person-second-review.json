@@ -62033,6 +62033,36 @@
           "through": "徵為議郎。",
           "citation": "《後漢書·列傳第四十八》",
           "note": "蓋勳上書以伊尹、霍光權以立功為喻諫董卓，卓得書意甚憚之，徵勳為議郎。"
+        },
+        {
+          "id": "dz-hhs-zhuo-sha-di-tu-wei-sheji",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 31,
+          "from": "時董卓殺帝，圖危社稷。",
+          "through": "洪說超曰：「明府歷世受恩，兄弟並據大郡。",
+          "citation": "《後漢書·列傳第四十八》",
+          "note": "臧洪以董卓殺帝、圖危社稷為由，說張超起兵誅除國賊。"
+        },
+        {
+          "id": "dz-hhs-zhuo-bi-caiyong",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 25,
+          "from": "中平六年，靈帝崩，董卓爲司空，聞邕名高，辟之。",
+          "through": "遷巴郡太守，復留爲侍中。",
+          "citation": "《後漢書·列傳第五十下》",
+          "note": "中平六年靈帝崩後，董卓為司空，聞蔡邕名高而辟之；邕稱疾不就，卓怒言威脅，迫邕到府，署祭酒甚見敬重，三日之間周歷三臺，後遷巴郡太守又留為侍中。"
+        },
+        {
+          "id": "dz-hhs-zhuo-yi-shangfu-zhi",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 27,
+          "from": "董卓賔客部曲議欲尊卓比太公，稱尚父。",
+          "through": "卓從其言。",
+          "citation": "《後漢書·列傳第五十下》",
+          "note": "董卓賓客部曲議欲尊卓比太公、稱尚父，卓謀於蔡邕；邕以須關東平定、車駕還反舊京為由諫止，卓從其言。"
         }
       ],
       "exclusions": [
