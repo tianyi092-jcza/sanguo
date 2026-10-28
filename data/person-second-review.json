@@ -61448,6 +61448,22 @@
         "辨人：王允即王子師，太原祁人，與同名異人及董卓、呂布、袁紹、袁術、劉表等同卷合傳人物嚴格區分；單字命中均核實確指本人後方錄入。",
         "生卒：按檢索配置與繫年為 137–192；事蹟主幹為司徒任上與士孫瑞、呂布共謀誅董卓及其後長安之變。"
       ]
+    },
+    {
+      "id": "p0087",
+      "name": "董卓",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
