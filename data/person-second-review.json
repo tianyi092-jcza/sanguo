@@ -62616,6 +62616,33 @@
           "term": "董卓",
           "quote": "孫堅北討董卓",
           "reason": "段落主述袁術據讖書生僭逆之謀、拘堅妻奪傳國璽；董卓僅在吳書引文中作孫堅北討的背景對象，無卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-ce-jian-shu-ping-zhuo",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 22,
+          "term": "董卓",
+          "quote": "董卓無道，陵虐王室",
+          "reason": "孫策諫袁術僭號之書，僅以卓舊惡（陵虐王室、焚毀宮廟）作反面論據、勸術效忠守節；無卓本人新事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-miao-dongzhuo-zhi-luan",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 30,
+          "term": "董卓",
+          "quote": "董卓之亂",
+          "reason": "段落主述張邈起兵、迎呂布據兗州；董卓僅在「董卓之亂」一語中作時代背景，無卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-shu-zhu-zhuo-jiu-gong",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 32,
+          "term": "董卓",
+          "quote": "將軍誅卓，為術報恥",
+          "reason": "袁術拉攏呂布之書，回顧呂布誅卓舊功作三大功之一，主述術、布結盟攻備；卓已死、無本人新事蹟，排除。"
         }
       ],
       "unresolved": [],
