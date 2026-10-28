@@ -65303,6 +65303,33 @@
           "term": "董卓",
           "quote": "董卓",
           "reason": "本段僅為后漢書董卓列傳卷首標題二字，全段未提及呂布；候選係「誅董卓」事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-tan-xiapi-wuming",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 134,
+          "term": "下邳",
+          "quote": "下邳",
+          "reason": "本段僅記行軍徇地，提及彭城、下邳等地名，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-sg-dongzhuo-juanmu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 0,
+          "term": "董卓",
+          "quote": "董卓傳",
+          "reason": "本段僅為三國志董卓傳卷首標題三字，全段未提及呂布；候選係「誅董卓」事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-xiapiwang-yan-hong",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 299,
+          "term": "下邳",
+          "quote": "下邳王衍薨",
+          "reason": "本段僅記下邳王衍薨，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
