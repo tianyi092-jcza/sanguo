@@ -62243,6 +62243,16 @@
           "through": "盡滅之。",
           "citation": "《後漢書·列傳第六十四上》",
           "note": "董卓聞袁紹起兵山東，乃誅紹叔父太傅袁隗及在京師的袁氏宗族，盡滅之。此為袁紹本傳主述，與公孫瓚上疏所言相印證。"
+        },
+        {
+          "id": "dz-hhs-yuanshao-zhuo-longluo-shao",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 20,
+          "from": "時卓方貪結外援",
+          "through": "即謂就拜也。",
+          "citation": "《後漢書·列傳第六十四上》",
+          "note": "袁紹上書自陳：董卓為貪結外援、招徠英豪，於勃海拜紹以軍號籠絡；此時紹已解節出奔、謀於河外。注引山陽公載記謂所拜為前將軍、封邟鄉侯，紹受侯不受將軍。"
         }
       ],
       "exclusions": [
@@ -62560,6 +62570,24 @@
           "term": "董卓",
           "quote": "說董卓罪惡",
           "reason": "段落主述袁紹得眾、橋瑁詐作三公移書檄召義兵；董卓僅為檄文聲討對象，裴注所引亦為轉述劉岱書語，無卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-yuanshao-jizhou-tuozhuo",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 9,
+          "term": "董卓",
+          "quote": "外託討董卓",
+          "reason": "段落主述袁紹謀取冀州、韓馥讓位；公孫瓚南下僅外託討董卓為名、實謀襲馥，董卓無本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-yuanshao-xicao-zhuo",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 29,
+          "term": "董卓",
+          "quote": "續遇董卓侵官暴國",
+          "reason": "段落為袁紹討曹操檄文，主述曹操罪狀與行事；董卓僅為紹起兵的背景提及、徐榮亦只稱卓將，無卓本人事蹟，排除。"
         }
       ],
       "unresolved": [],
