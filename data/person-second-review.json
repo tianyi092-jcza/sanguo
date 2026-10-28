@@ -66522,7 +66522,7 @@
     {
       "id": "p0092",
       "name": "臧洪",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "hong-hhs-name-origin",
@@ -66703,6 +66703,16 @@
           "through": "方首尾不救，何能恤人？",
           "citation": "《三國志·魏書七·臧洪傳》",
           "note": "正文層：洪覆陳琳書，言未即奉答之故：學薄才鈍不足塞詰，且陳琳攜負側室、息肩主人、家在東州而己為仇敵，身疏有罪，言甘見怪，方首尾不救，何能恤人。"
+        },
+        {
+          "id": "hong-sgz-da-lin-xu",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 21,
+          "from": "僕小人也，本因行役，寇竊大州，恩深分厚，寧樂今日自還接刃！",
+          "through": "不為今日之戰矣。",
+          "citation": "《三國志·魏書七·臧洪傳》",
+          "note": "正文層：洪答陳琳書中段，自言本因行役、恩深分厚而不樂今日自還接刃，登城望主人旗鼓而流涕，言若主人少垂故人、不汲汲於離友，則己抗季札之志、不為今日之戰；本條僅錄正文，段中兩則裴松之案另層，不合併。"
         }
       ],
       "exclusions": [
@@ -67357,11 +67367,11 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": []
     }
