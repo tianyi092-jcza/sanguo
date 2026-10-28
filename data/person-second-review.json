@@ -65917,6 +65917,22 @@
         "辨人：呂布字奉先，與晉書所見呂朗等同姓異人、與丁原、董卓、袁術、曹操及同卷張邈、臧洪嚴格區分；呂布僅為他人求救對象、未載其行事者不記為本人事蹟。",
         "事蹟主幹為殺丁原投董卓、與王允共誅董卓，後輾轉兗、徐，下邳被擒。"
       ]
+    },
+    {
+      "id": "p0089",
+      "name": "陳宮",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
