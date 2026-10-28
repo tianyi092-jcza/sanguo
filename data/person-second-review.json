@@ -66157,7 +66157,7 @@
     {
       "id": "p0090",
       "name": "高順",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "shun-hhs-xiapi-captured",
@@ -66493,17 +66493,31 @@
           "term": "篡位",
           "quote": "涉歸死，其弟耐篡位，將謀殺廆，廆亡潛以避禍。",
           "reason": "晉書載記慕容廆事，鮮卑慕容氏內爭、國人迎廆立之事，全段無高順其人、無陷陣營，係向量事件誤命，排除。"
+        },
+        {
+          "id": "shun-excl-028",
+          "work": "houhanshu",
+          "source": "a03-114",
+          "paragraph": 15,
+          "term": "部曲",
+          "quote": "其領軍皆有部曲。",
+          "reason": "後漢書百官志將軍部曲建制通論，全段無高順其人、無陷陣營，係向量以事件「陷陣營」誤命，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "共錄摘錄 9 條、排除 28 條：三國志正文與裴注分層錄入（武帝紀、呂布傳、先主傳），後漢書錄入諫呂布、下邳被擒與被殺諸段；排除多為向量事件、地名相似誤命。",
+        "辨人：與呂布、陳宮、張遼及同卷合傳人物嚴格區分；單字「順」僅在確指本人時錄入，一般用語不錄。",
+        "本傳補齊：三國志呂布傳（a04-007）全文核對含「高順」之段落僅第 8、11、12 段，皆已覆蓋；向量候選已枯竭，最後一條 a03-114:15 為百官志部曲建制通論、無高順其人，已排除。",
+        "華陽國志、晉書：候選經核對皆無確指本人段落，已排除或按寧缺毋濫不錄。"
+      ]
     }
   ]
 }
