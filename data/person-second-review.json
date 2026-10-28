@@ -63765,6 +63765,33 @@
           "term": "董卓",
           "quote": "帝在長安",
           "reason": "晉書段僅記「二年春正月甲午朔，帝在長安」一句，全段未出現董卓，僅因長安地名與遷都長安語義相近誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-caiyong-qiandu-wuzhuo",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 26,
+          "term": "董卓",
+          "quote": "從獻帝遷都長安",
+          "reason": "後漢書蔡邕傳段：記邕初平元年拜左中郎將、從獻帝遷都長安、封高陽鄉侯，全段未出現董卓姓名，主角為蔡邕，僅因「遷都長安」與董卓遷都事語義相近誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-xuandi-changansu-wuzhuo",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 13,
+          "term": "董卓",
+          "quote": "帝運長安粟五百萬斛輸于京師",
+          "reason": "晉書段：記三年遷太尉、累增封邑、蜀將馬岱入寇、牛金擊走之、氐王來降、帝運長安粟五百萬斛輸于京師事，全段未出現董卓，僅因長安地名誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-zhangfang-jiechang-wuzhuo",
+          "work": "jinshu",
+          "source": "a05-004-ahcb",
+          "paragraph": 109,
+          "term": "董卓",
+          "quote": "方請帝謁廟，因劫帝幸長安",
+          "reason": "晉書段：記張方請帝謁廟、劫帝幸長安、帝墮馬傷足、河間王顒迎于霸上、留臺大赦等事，全段未出現董卓，僅因「幸長安」與董卓遷都長安語義相近誤命中，排除。"
         }
       ],
       "unresolved": [],
