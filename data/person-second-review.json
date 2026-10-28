@@ -64693,9 +64693,39 @@
           "through": "虜先主妻子",
           "citation": "《三國志·蜀書八·麋竺傳》",
           "note": "糜竺傳載建安元年呂布乘劉備出拒袁術，襲下邳，虜備妻子，備轉軍廣陵海西。"
+        },
+        {
+          "id": "lb-sg-zhanghong-bu-xuzhou",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 1,
+          "from": "後呂布襲取徐州",
+          "through": "恥為之屈",
+          "citation": "《三國志·吳書八·張紘傳》",
+          "note": "裴注吳書載呂布襲取徐州後追舉張紘為茂才、移書發遣，紘惡布、恥為之屈，孫策亦重惜紘而荅記不遣。"
+        },
+        {
+          "id": "lb-hhs-zanghong-shao-yu-sha-bu",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 36,
+          "from": "英雄記：「布求還洛",
+          "through": "布遂引去",
+          "citation": "《後漢書·臧洪傳》",
+          "note": "英雄記載呂布求還洛，袁紹外假其領司隷校尉、內欲殺之，遣甲士夜斫布床被，布偽使人於帳中鼓箏、夜半遁去得脫。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "lb-excl-jinshu-lizhi-lvbu-zhi-luan",
+          "work": "jinshu",
+          "source": "a05-020-ahcb",
+          "paragraph": 47,
+          "term": "呂布之亂",
+          "quote": "後隔呂布之亂，不復相知存亡",
+          "reason": "僅以「呂布之亂」作鄭子群再娶之事的時間參照，與呂布本人行事無關；非本人史實，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
