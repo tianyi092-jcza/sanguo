@@ -64483,6 +64483,36 @@
           "through": "原將兵詣洛陽。",
           "citation": "《三國志·魏書七·呂布傳》",
           "note": "呂布本傳開篇：字奉先，五原郡九原人，以驍武給并州，為丁原主簿，大見親待；靈帝崩，丁原將兵詣洛陽。"
+        },
+        {
+          "id": "lb-sg-lvbu-xiapi-gongyu",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 13,
+          "from": "下邳敗，軍士執布及宮，太祖皆見之",
+          "through": "若其見從，亦未必為禽也。",
+          "citation": "《三國志·魏書七·呂布傳》",
+          "note": "裴注引《魚氏典略》：下邳敗後，軍士執呂布及陳宮，陳宮謂布不從其計以至於此，若見從亦未必被禽。"
+        },
+        {
+          "id": "lb-sg-chendeng-xiapi-zhizi",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 14,
+          "from": "時登諸弟在下邳城中，布乃質執登三弟，欲求和同。",
+          "through": "登執意不撓，進圍日急。",
+          "citation": "《三國志·魏書七·陳登傳》",
+          "note": "裴注引《先賢行狀》：太祖圍下邳時，陳登諸弟在城中，呂布質執登三弟欲求和同，登執意不撓、進圍日急。"
+        },
+        {
+          "id": "lb-sg-zhangyang-jiubu",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "楊素與呂布善。",
+          "through": "遙為之勢。",
+          "citation": "《三國志·魏書八·張楊傳》",
+          "note": "裴注引《英雄記》：張楊素與呂布善，太祖圍布時楊欲救而不能，僅出兵東市遙為之勢。"
         }
       ],
       "exclusions": [],
