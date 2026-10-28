@@ -62643,6 +62643,33 @@
           "term": "董卓",
           "quote": "將軍誅卓，為術報恥",
           "reason": "袁術拉攏呂布之書，回顧呂布誅卓舊功作三大功之一，主述術、布結盟攻備；卓已死、無本人新事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-lvbu-zhi-xianfeng-zhuo-jiu-gong",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 36,
+          "term": "董卓",
+          "quote": "布手殺董卓",
+          "reason": "呂布致書韓暹、楊奉，回顧手殺董卓舊功以勸其共破袁術；主述布破術軍於下邳，卓已死、無本人新事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-rulin-lun-zhuo-da-bing",
+          "work": "houhanshu",
+          "source": "a03-079b-ahcb",
+          "paragraph": 66,
+          "term": "董卓",
+          "quote": "董卓欲大起兵，鄭泰止之",
+          "reason": "儒林列傳論贊借古喻今，董卓僅於注文一句作「屈於鄙生之議」之例證，主述儒學之效，無獨立事蹟敘述，排除。"
+        },
+        {
+          "id": "dz-excl-wanglie-bi-luan-zhuo",
+          "work": "houhanshu",
+          "source": "a03-081",
+          "paragraph": 91,
+          "term": "董卓",
+          "quote": "遭黃巾、董卓之亂",
+          "reason": "段落主述王烈避地遼東，董卓僅為「黃巾、董卓之亂」的亂世背景提及，無本人事蹟，排除。"
         }
       ],
       "unresolved": [],
