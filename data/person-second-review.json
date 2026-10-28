@@ -63846,6 +63846,33 @@
           "term": "董卓",
           "quote": "五月己未，至自長安",
           "reason": "後漢書段：全段僅「五月己未，至自長安」一句，未出現董卓，僅因長安地名誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-hanyang-huo-wuzhuo",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 44,
+          "term": "董卓",
+          "quote": "夏四月甲寅，漢陽城中火，燒殺三千五百七十人。",
+          "reason": "後漢書段：全段僅記漢陽城中火災，燒殺三千五百七十人，未出現董卓，僅因火燒語義與焚燒洛陽事件相近誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-yaoxing-luoyang-wuzhuo",
+          "work": "jinshu",
+          "source": "a05-117-ahcb",
+          "paragraph": 19,
+          "term": "董卓",
+          "quote": "興遣將鎮東楊佛嵩攻陷洛陽。",
+          "reason": "晉書段：記姚興遣鎮東楊佛嵩攻陷洛陽（後秦事），全段未出現董卓，僅因洛陽地名誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-jisang-shaoye-wuzhuo",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 7,
+          "term": "董卓",
+          "quote": "燒鄴宮，火旬日不滅",
+          "reason": "晉書段：記汲桑聚眾反、陷鄴城、燒鄴宮等事，全段未出現董卓，僅因燒宮之火與焚燒洛陽語義相近誤命中，排除。"
         }
       ],
       "unresolved": [],
