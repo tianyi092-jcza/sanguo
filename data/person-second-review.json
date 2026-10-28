@@ -61242,6 +61242,33 @@
           "term": "王允",
           "quote": "祥嗣淮南王允",
           "reason": "晏子祥嗣淮南王允、洛京傾覆、愍帝追贈等，皆西晉事；此允為司馬允，非東漢王允，排除。"
+        },
+        {
+          "id": "wy-excl-042",
+          "work": "jinshu",
+          "source": "a05-068-ahcb",
+          "paragraph": 1,
+          "term": "王允",
+          "quote": "淮南王允",
+          "reason": "趙王倫誅淮南王允事，屬西晉；此允為淮南王司馬允，非東漢太原王允，排除。"
+        },
+        {
+          "id": "wy-excl-043",
+          "work": "jinshu",
+          "source": "a05-073-ahcb",
+          "paragraph": 25,
+          "term": "王允",
+          "quote": "王允之",
+          "reason": "江州刺史王允之為東晉人物，名為王允之而非王允；毒酒餉刺史事與東漢王允無關，排除。"
+        },
+        {
+          "id": "wy-excl-044",
+          "work": "jinshu",
+          "source": "a05-075-ahcb",
+          "paragraph": 46,
+          "term": "王允",
+          "quote": "濮陽王允",
+          "reason": "泰始年間事，與王敦、顧榮、陸機交遊者為西晉人物；此濮陽王允為西晉宗室，非東漢王允，排除。"
         }
       ],
       "unresolved": [],
