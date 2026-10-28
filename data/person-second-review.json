@@ -65921,7 +65921,7 @@
     {
       "id": "p0089",
       "name": "陳宮",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "gong-hhs-dianlue-zi",
@@ -66140,13 +66140,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "共錄摘錄 20 條、排除 1 條：三國志正文與裴注分層錄入（武帝紀、呂布傳、荀彧傳、荀攸傳、程昱傳），後漢書錄入相關諸段；排除 1 條為裴注引《會稽典錄》之會稽陳宮，與呂布謀士陳宮無關，僅同名。",
+        "辨人：與呂布、張邈、曹操及同名會稽陳宮嚴格區分；單字「宮」僅在確指本人時錄入，一般用語不錄。",
+        "本傳補齊：三國志呂布傳（a04-007）全文核對含「陳宮」「公臺」之段落僅第 7、8、12、13 段，皆已覆蓋；其餘向量候選經抽查皆為地名（下邳、兗州）或事件（迎呂布入兗州、下邳被擒）相似、段內無「陳宮」人名命中，按寧缺毋濫不錄。",
+        "華陽國志、晉書：剩餘候選皆為地理志、紀年簡段，無確指本人段落，置為已核查、無可錄內容。",
+        "勢力繫年：初隨曹操，興平元年與張邈等迎呂布入兗州，後隨呂布至建安三年下邳被擒見殺；各階段分開標記，未整段一刀切。"
+      ]
     }
   ]
 }
