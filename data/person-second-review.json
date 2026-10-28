@@ -63954,6 +63954,33 @@
           "term": "董卓",
           "quote": "都護李嚴自永安還住江州",
           "reason": "三國志後主傳記都護李嚴自永安還住江州築大城事，屬蜀漢事，全段未出現董卓，與遷都長安無關，排除。"
+        },
+        {
+          "id": "dz-excl-quan-xi-moling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 11,
+          "term": "董卓",
+          "quote": "十六年，權徙治秣陵",
+          "reason": "三國志吳主傳記孫權徙治秣陵、改建業事，全段未出現董卓，僅因徙治遷都語義誤命中遷都長安事件，排除。"
+        },
+        {
+          "id": "dz-excl-weiwendi-yeluo-hongshui",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 67,
+          "term": "董卓",
+          "quote": "帝即位，自鄴遷洛，營造宮室",
+          "reason": "晉書五行志記魏文帝黃初四年伊洛溢水及帝自鄴遷洛營造宮室事，全段未出現董卓，僅因遷洛營造誤命中焚燒洛陽事件，排除。"
+        },
+        {
+          "id": "dz-excl-hun-shouchun-wancheng",
+          "work": "jinshu",
+          "source": "a05-042",
+          "paragraph": 3,
+          "term": "董卓",
+          "quote": "遷安東將軍、都督揚州諸軍事，鎮壽春",
+          "reason": "晉書王渾傳記其鎮壽春、遣軍攻破吳人皖城屯田事，全段未出現董卓，與遷都長安無關，排除。"
         }
       ],
       "unresolved": [],
