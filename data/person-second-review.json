@@ -64062,6 +64062,33 @@
           "term": "董卓",
           "quote": "安帝永初二年四月甲寅，古今注曰",
           "reason": "後漢書記永初年間河南郡縣失火及安帝即位前後鄧氏事，全段未出現董卓，與焚燒洛陽無關，僅因失火語義誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-a03-001b-guangwu-feihou",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 135,
+          "term": "董卓",
+          "quote": "冬十月辛巳，廢皇后郭氏爲中山太后",
+          "reason": "後漢書光武帝紀記廢郭皇后、進封中山王事，全段未出現董卓，與入京廢立無關，僅向量語義誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-a03-107-guanghe-mayi",
+          "work": "houhanshu",
+          "source": "a03-107",
+          "paragraph": 11,
+          "term": "董卓",
+          "quote": "光和中，雒陽水西橋民馬逸走",
+          "reason": "後漢書五行志記光和中雒陽馬逸齧殺人事，全段未出現董卓，與焚燒洛陽無關，僅向量語義誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-a03-001b-hangu-guan",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 155,
+          "term": "董卓",
+          "quote": "是歲，復置函谷關都尉",
+          "reason": "後漢書光武帝紀記復置函谷關都尉、修西京宮室事，全段未出現董卓，與入京廢立無關，僅向量語義誤命中，排除。"
         }
       ],
       "unresolved": [],
