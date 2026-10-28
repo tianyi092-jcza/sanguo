@@ -66153,6 +66153,53 @@
         "華陽國志、晉書：剩餘候選皆為地理志、紀年簡段，無確指本人段落，置為已核查、無可錄內容。",
         "勢力繫年：初隨曹操，興平元年與張邈等迎呂布入兗州，後隨呂布至建安三年下邳被擒見殺；各階段分開標記，未整段一刀切。"
       ]
+    },
+    {
+      "id": "p0090",
+      "name": "高順",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "shun-hhs-xiapi-captured",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 39,
+          "from": "成忿懼，乃與諸將共執陳宮、高順",
+          "through": "率其衆降。",
+          "citation": "《後漢書·卷七十五·呂布傳》",
+          "note": "正文層：下邳被圍、上下離心之際，侯成等因酒事忿懼，執陳宮、高順率衆降曹操；同段注文不合併錄入。"
+        },
+        {
+          "id": "shun-hhs-xiapi-killed",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 39,
+          "from": "布及宮、順皆縊殺之",
+          "through": "傳首許市。",
+          "citation": "《後漢書·卷七十五·呂布傳》",
+          "note": "正文層：下邳城破後，布及宮、順皆縊殺，傳首許市；與同段注文分開錄入。"
+        },
+        {
+          "id": "shun-sgz-wudi-gaoshun-attack-bei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "呂布復為袁術使高順攻劉備",
+          "through": "備為順所敗。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "正文層：呂布為袁術使高順攻劉備，曹操遣夏侯惇救之不利，備為順所敗；順為呂布將、此役受術指使，按階段記，不得整段記為袁術勢力。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
