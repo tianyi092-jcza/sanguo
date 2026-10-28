@@ -61549,6 +61549,36 @@
           "citation": "《後漢書·列傳第十五》",
           "context": "以兩子為郎",
           "note": "魯恭之孫旭官至太僕，從獻帝西入關，與司徒王允同謀共誅董卓；及李傕入長安，旭與允俱遇害。"
+        },
+        {
+          "id": "dz-hhs-zhaoqian-cheshiwangshizi",
+          "work": "houhanshu",
+          "source": "a03-027",
+          "paragraph": 47,
+          "from": "車師王侍子為董卓所愛，數犯法，謙收殺之。",
+          "through": "卓大怒，殺都官從事，而素敬憚謙，故不加罪。",
+          "citation": "《後漢書·列傳第十七》",
+          "note": "趙謙為司隸校尉時，收殺董卓所愛而數犯法的車師王侍子；董卓大怒，殺都官從事，但素敬憚趙謙，故不加罪於謙。"
+        },
+        {
+          "id": "dz-hhs-zhengxuan-zhaoxiang-daoduan",
+          "work": "houhanshu",
+          "source": "a03-035",
+          "paragraph": 24,
+          "from": "董卓遷都長安，公卿舉玄為趙相，道斷不至。",
+          "through": "董卓遷都長安，公卿舉玄為趙相，道斷不至。",
+          "citation": "《後漢書·列傳第二十五》",
+          "note": "董卓遷都長安時，公卿舉鄭玄為趙相，玄因道路斷絕未能赴任。"
+        },
+        {
+          "id": "dz-hhs-zhangxuan-bizheng-binglin",
+          "work": "houhanshu",
+          "source": "a03-036",
+          "paragraph": 56,
+          "from": "及董卓秉政，聞之，辟以為掾，舉侍御史，不就。",
+          "through": "卓臨之以兵，不得已彊起，至輪氏，",
+          "citation": "《後漢書·列傳第二十六》",
+          "note": "董卓秉政後聞張玄之名，辟為掾、舉侍御史，玄不就；卓以兵臨之，玄不得已勉強起行至輪氏。"
         }
       ],
       "exclusions": [],
