@@ -63792,6 +63792,33 @@
           "term": "董卓",
           "quote": "方請帝謁廟，因劫帝幸長安",
           "reason": "晉書段：記張方請帝謁廟、劫帝幸長安、帝墮馬傷足、河間王顒迎于霸上、留臺大赦等事，全段未出現董卓，僅因「幸長安」與董卓遷都長安語義相近誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-luoyang-dilie-wuzhuo",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 147,
+          "term": "董卓",
+          "quote": "洛陽新城地裂",
+          "reason": "後漢書段：僅記洛陽新城地裂一事，全段未出現董卓，僅因洛陽地名與焚燒洛陽事件語義相近誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-xingxing-changan-wuzhuo",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 231,
+          "term": "董卓",
+          "quote": "行幸長安",
+          "reason": "後漢書段：記行幸長安、祀長陵、至自長安事，全段未出現董卓，僅因長安地名與遷都長安事件語義相近誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-gengshi-changan-wuzhuo",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 28,
+          "term": "董卓",
+          "quote": "入長安城，更始來降",
+          "reason": "後漢書段：記軍至高陵、與更始叛將張卬等連和、攻東都門、入長安城、更始來降事，全段未出現董卓，僅因長安地名誤命中，排除。"
         }
       ],
       "unresolved": [],
