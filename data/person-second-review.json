@@ -64633,6 +64633,36 @@
           "through": "遂殺乾",
           "citation": "《三國志·魏書十八·李典傳》",
           "note": "李典傳載呂布之亂時，其別駕薛蘭、治中李封招李乾同叛，乾不聽而被殺。"
+        },
+        {
+          "id": "lb-sg-zangba-zhubu-beiqin",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 11,
+          "from": "太祖之討呂布也，霸等將兵助布",
+          "through": "旣禽布，霸自匿",
+          "citation": "《三國志·魏書十八·臧霸傳》",
+          "note": "臧霸傳載太祖討呂布時，臧霸等將兵助布；布被擒後，霸自匿，後被太祖募索得而任用。"
+        },
+        {
+          "id": "lb-sg-chenqun-yan-bu-xipi",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 5,
+          "from": "呂布若襲將軍之後，將軍雖得徐州，事必無成",
+          "through": "布果襲下邳，遣兵助術，大破備軍，備恨不用羣言",
+          "citation": "《三國志·魏書二十二·陳羣傳》",
+          "note": "陳羣傳載陳羣預言劉備東向必遭呂布襲後，備不聽，布果然襲下邳、助袁術大破備軍。"
+        },
+        {
+          "id": "lb-sg-xianzhu-bu-chengxu-xipi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 3,
+          "from": "先主與術相持經月，呂布乘虛襲下邳",
+          "through": "布虜先主妻子，先主轉軍海西",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "先主傳載劉備與袁術相持時，呂布乘虛襲下邳，虜備妻子，備轉軍海西。"
         }
       ],
       "exclusions": [],
