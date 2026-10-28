@@ -61873,6 +61873,26 @@
           "through": "欲以脅太后",
           "citation": "《三國志·魏書六·董卓傳》",
           "note": "靈帝崩後，何進為誅宦官、脅迫太后而召董卓入京；此為董卓應召進洛之始。"
+        },
+        {
+          "id": "dz-sg-zhu-shaozongzu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 19,
+          "from": "卓聞紹得關東",
+          "through": "太傅隗等",
+          "citation": "《三國志·魏書六·董卓傳》",
+          "note": "袁紹得關東後，董卓悉誅紹在京宗族，連太傅袁隗亦遭殺害；此為董卓報復關東起兵之舉。"
+        },
+        {
+          "id": "dz-sg-ren-shu-houjiangjun",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "from": "董卓之將廢帝",
+          "through": "以術為後將軍",
+          "citation": "《三國志·魏書六·董卓傳》",
+          "note": "董卓將廢少帝之際，任命袁術為後將軍；術畏卓之禍而出奔南陽。"
         }
       ],
       "exclusions": [
@@ -61929,6 +61949,15 @@
           "term": "董卓",
           "quote": "為董卓作神坐，數以牛羊祠之",
           "reason": "段落主體為李傕、郭汜爭權內鬥及李傕迷信左道行事，董卓僅在祠祭一語中作為李傕作神坐祭祀的對象出現，非董卓生平事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-pingyue-lun",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 38,
+          "term": "董卓",
+          "quote": "董卓狼戾賊忍，暴虐不仁",
+          "reason": "段落為卷末評曰史論，兼評袁紹、袁術、劉表；董卓部分為陳壽品評及讖語引文，非董卓生平事蹟，排除。"
         }
       ],
       "unresolved": [],
