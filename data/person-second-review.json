@@ -62013,6 +62013,26 @@
           "through": "遂誅隗及術兄基男女二十餘人。",
           "citation": "《後漢書·列傳第三十五》",
           "note": "董卓因袁紹、袁術背離自己，誅殺隗及袁術兄基男女二十餘人。"
+        },
+        {
+          "id": "dz-hhs-hejin-zhao-zhuo-ju-zhao",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 30,
+          "from": "大將軍何進將誅宦官，",
+          "through": "卓不受，遂前至河南。",
+          "citation": "《後漢書·列傳第四十六》",
+          "note": "大將軍何進將誅宦官，召并州牧董卓；卓至澠池，何進反悔遣使宣詔止之，卓不受詔，前至河南。"
+        },
+        {
+          "id": "dz-hhs-zhuo-de-xunshu-zheng-yilang",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 27,
+          "from": "卓得書，意甚憚之。",
+          "through": "徵為議郎。",
+          "citation": "《後漢書·列傳第四十八》",
+          "note": "蓋勳上書以伊尹、霍光權以立功為喻諫董卓，卓得書意甚憚之，徵勳為議郎。"
         }
       ],
       "exclusions": [
@@ -62186,6 +62206,15 @@
           "term": "董卓",
           "quote": "孫堅從桂陽入雒討董卓",
           "reason": "段落主述璆得傳國璽並還許獻帝；董卓僅在璽的流傳注文中作為孫堅入雒討伐的對象一筆帶過，未述卓本人事蹟，屬附帶提及，排除；孫堅討卓詳情以孫堅傳及本傳為準。"
+        },
+        {
+          "id": "dz-excl-xiandi-ying-zhuo-zhi-huo",
+          "work": "houhanshu",
+          "source": "a03-049",
+          "paragraph": 39,
+          "term": "董卓",
+          "quote": "獻帝嬰董卓之禍",
+          "reason": "段落為自春秋至獻帝的史論性總述，董卓僅在「獻帝嬰董卓之禍」一句泛述中出現，未述卓任何具體事蹟，屬後世概括修辭，排除；卓事蹟以本傳及主述段落為準。"
         }
       ],
       "unresolved": [],
