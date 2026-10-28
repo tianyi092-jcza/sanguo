@@ -61486,6 +61486,36 @@
           "citation": "《後漢書·孝靈帝紀》",
           "context": "改光喜為昭寧",
           "note": "中平六年（189年），董卓以并州牧殺執金吾丁原，後自為司空；段內董重、孝仁皇后董氏皆他人，不併入。"
+        },
+        {
+          "id": "dz-hhs-xiandi-shahetaihou",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 1,
+          "from": "丙子，董卓殺皇太后何氏。",
+          "through": "丙子，董卓殺皇太后何氏。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "note": "中平六年（189年）九月丙子，董卓殺皇太后何氏。"
+        },
+        {
+          "id": "dz-hhs-xiandi-qiandu-quxi",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 3,
+          "from": "丁亥，遷都長安。董卓驅徙京師百姓悉西入關，自留屯畢圭苑。",
+          "through": "丁亥，遷都長安。董卓驅徙京師百姓悉西入關，自留屯畢圭苑。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "note": "初平元年（190年）二月丁亥，遷都長安，董卓驅徙京師百姓悉西入關，自留屯畢圭苑。"
+        },
+        {
+          "id": "dz-hhs-xiandi-zitaishi",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 4,
+          "from": "二月丁丑，董卓自為太師。",
+          "through": "二月丁丑，董卓自為太師。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "note": "初平二年（191年）二月丁丑，董卓自為太師。"
         }
       ],
       "exclusions": [],
