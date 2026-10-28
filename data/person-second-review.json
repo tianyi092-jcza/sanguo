@@ -64035,6 +64035,33 @@
           "term": "董卓",
           "quote": "立冬之日，夜漏未盡五刻，京都百官皆衣皁，迎氣於黑郊",
           "reason": "後漢書記立冬迎氣之禮，全段未出現董卓，與入京廢立無關，僅向量語義誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-a05-003-baqinzhou-zhanghua",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 171,
+          "term": "董卓",
+          "quote": "三年春正月丁丑，罷秦州，并雍州",
+          "reason": "晉書記三年春正月罷秦州并雍州、尚書張華都督幽州事，全段未出現董卓，與入京廢立無關，僅向量語義誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-a03-106-jingdu-dizhen",
+          "work": "houhanshu",
+          "source": "a03-106",
+          "paragraph": 37,
+          "term": "董卓",
+          "quote": "二年正月丙辰，京都地震",
+          "reason": "後漢書記京都地震事，全段未出現董卓，與入京廢立無關，僅向量語義誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-a03-104-yongchu-shihuo",
+          "work": "houhanshu",
+          "source": "a03-104",
+          "paragraph": 6,
+          "term": "董卓",
+          "quote": "安帝永初二年四月甲寅，古今注曰",
+          "reason": "後漢書記永初年間河南郡縣失火及安帝即位前後鄧氏事，全段未出現董卓，與焚燒洛陽無關，僅因失火語義誤命中，排除。"
         }
       ],
       "unresolved": [],
