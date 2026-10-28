@@ -68752,6 +68752,33 @@
           "term": "張楊",
           "quote": "太中大夫徐惲擅殺臨淮太守劉度，惲坐誅。",
           "reason": "此為徐惲擅殺劉度坐誅事，段中無張楊其人其事；係向量誤命中，排除。"
+        },
+        {
+          "id": "zhangyang-excl-a03-011-36",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 36,
+          "term": "張楊",
+          "quote": "楊音在長安時，遇趙王良有恩",
+          "reason": "此段講更始末年樊崇謀反、楊音歸鄉事，段中無張楊其人其事；係向量誤命中（楊字近似），排除。"
+        },
+        {
+          "id": "zhangyang-excl-a05-003-ahcb-112",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 112,
+          "term": "張楊",
+          "quote": "并州虜犯塞，監并州諸軍事胡奮擊破之",
+          "reason": "此段為晉武帝紀二月河間王薨、赦刑、并州虜犯塞事，段中無張楊其人其事；係向量誤命中，排除。"
+        },
+        {
+          "id": "zhangyang-excl-a03-011-18",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 18,
+          "term": "張楊",
+          "quote": "而張卬等以為慮",
+          "reason": "此段張卬為更始朝人物，與河內張楊（張稚叔）非同一人；係同姓近似誤命中，排除。"
         }
       ],
       "unresolved": [],
