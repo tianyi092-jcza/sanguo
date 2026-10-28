@@ -65630,6 +65630,33 @@
           "term": "徐晃",
           "quote": "徐晃傳",
           "reason": "本段僅為徐晃傳卷首標題，無正文內容、未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-js-donghai-yue-yanzhou",
+          "work": "jinshu",
+          "source": "a05-059-ahcb",
+          "paragraph": 81,
+          "term": "兗州",
+          "quote": "兗州天下樞要，公宜自牧。",
+          "reason": "本段記永嘉初東海王越自許昌率苟晞及冀州刺史丁劭討汲桑破之，長史潘滔說越自牧兗州、轉苟晞為青州刺史致隙，全段未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-sg-xusheng-chuanmu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 50,
+          "term": "徐盛",
+          "quote": "徐盛傳",
+          "reason": "本段僅為徐盛傳卷首標題，無正文內容、未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-sg-xumiao-chuanmu",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 0,
+          "term": "徐邈",
+          "quote": "徐邈傳",
+          "reason": "本段僅為徐邈傳卷首標題，無正文內容、未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
