@@ -63819,6 +63819,33 @@
           "term": "董卓",
           "quote": "入長安城，更始來降",
           "reason": "後漢書段：記軍至高陵、與更始叛將張卬等連和、攻東都門、入長安城、更始來降事，全段未出現董卓，僅因長安地名誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-guohuai-changan-wuzhuo",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 19,
+          "term": "董卓",
+          "quote": "征西將軍郭淮自長安距之",
+          "reason": "晉書段：記蜀將姜維寇隴右、征西將軍郭淮自長安距之、帝進據長城疑兵、維退保南鄭、別將來降、轉鎮許昌事，全段未出現董卓，僅因長安地名誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-huangfusong-changan-wuzhuo",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 9,
+          "term": "董卓",
+          "quote": "詔嵩迴鎮長安，以衞園陵",
+          "reason": "後漢書皇甫嵩傳段：記邊章、韓遂作亂隴右、明年春詔嵩迴鎮長安以衞園陵、章等復入寇三輔事，全段未出現董卓，僅因長安地名誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-wudi-zichangan-wuzhuo",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 7,
+          "term": "董卓",
+          "quote": "五月己未，至自長安",
+          "reason": "後漢書段：全段僅「五月己未，至自長安」一句，未出現董卓，僅因長安地名誤命中，排除。"
         }
       ],
       "unresolved": [],
