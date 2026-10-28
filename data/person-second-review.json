@@ -65387,6 +65387,33 @@
           "term": "下邳",
           "quote": "勒將兵都尉石瞻寇下邳，敗晉將軍劉長，遂寇蘭陵，又敗彭城內史劉續。東莞太守竺珍、東海太守蕭誕以郡叛降于勒。",
           "reason": "本段記石瞻寇下邳、敗劉長等，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-xiapiwangyan-feng",
+          "work": "houhanshu",
+          "source": "a03-050",
+          "paragraph": 21,
+          "term": "下邳",
+          "quote": "下邳惠王衍，永平十五年封。",
+          "reason": "本段記下邳惠王衍封國及嫡庶之爭，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-mao-benxiapi-dongxian",
+          "work": "houhanshu",
+          "source": "a03-012",
+          "paragraph": 8,
+          "term": "下邳",
+          "quote": "茂奔下邳與董憲合，紆奔佼彊。",
+          "reason": "本段記馬武、王霸圍劉紆、秦建，蘇茂奔下邳與董憲合，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-sg-chenyu-xiapi-haixi",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 21,
+          "term": "下邳",
+          "quote": "是時下邳陳瑀自號吳郡太守，住海西，與彊族嚴白虎交通。",
+          "reason": "本段記孫策討嚴白虎、遣呂範攻陳瑀於海西，陳瑀走歸下邳，全段未提及呂布；候選係下邳地名加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
