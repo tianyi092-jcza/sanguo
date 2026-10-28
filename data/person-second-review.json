@@ -65014,6 +65014,36 @@
           "through": "嘉說太祖急攻之，遂禽布。",
           "citation": "《三國志·魏書十四·郭嘉傳》",
           "note": "征呂布三戰破之，布退固守；士卒疲倦、曹操欲引軍還，郭嘉說以急攻，遂禽布。其後傅子、魏書所載劉備事與布無關，不併入。"
+        },
+        {
+          "id": "lb-sg-xuhuang-conglvbu-jiang",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "from": "從征呂布",
+          "through": "別降布將趙庶、李鄒等。",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "note": "徐晃隨太祖征呂布，別部降其將趙庶、李鄒等。"
+        },
+        {
+          "id": "lb-sg-sunguan-pobu-zhao",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 13,
+          "from": "太祖破呂布，使霸招觀兄弟，皆厚遇之。",
+          "through": "太祖破呂布，使霸招觀兄弟，皆厚遇之。",
+          "citation": "《三國志·魏書十八·臧霸傳》",
+          "note": "太祖破呂布後，使臧霸招孫觀兄弟，皆厚遇之；孫觀後常為先登、征定青徐群賊。"
+        },
+        {
+          "id": "lb-sg-dianwei-puyang-xianzhen",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 25,
+          "from": "太祖討呂布於濮陽。",
+          "through": "布衆退。",
+          "citation": "《三國志·魏書十八·典韋傳》",
+          "note": "濮陽之戰，布身自搏戰自旦至日昳、相持急；典韋募陷陣先占，持戟大呼，所抵無不應手倒，布眾退，太祖乃得引去。"
         }
       ],
       "exclusions": [
