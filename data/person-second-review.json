@@ -64793,6 +64793,26 @@
           "through": "肅敗走弘農，布誅殺之",
           "citation": "《後漢書·董卓傳》",
           "note": "董卓死後，呂布使李肅以詔命至陝討牛輔等，肅戰敗走弘農，布誅殺之。"
+        },
+        {
+          "id": "lb-hhs-dongzhuo-zhangyang-jiubu",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 34,
+          "from": "楊素與呂布善",
+          "through": "其將楊醜殺楊以應曹公",
+          "citation": "《後漢書·董卓傳》",
+          "note": "此為董卓傳末附引的魏志注文，非正文：張楊平素與呂布交好，曹操圍呂布時欲救不能，僅出兵東市遙為聲勢，後為其將楊醜所殺以應曹操。"
+        },
+        {
+          "id": "lb-hhs-taoqian-zhangmiao-yingbu",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 27,
+          "from": "會張邈迎呂布據兖州",
+          "through": "操還擊布",
+          "citation": "《後漢書·陶謙傳》",
+          "note": "興平元年，曹操再擊陶謙、略定琅邪東海諸縣之際，張邈迎呂布據兗州，曹操遂還擊呂布；是歲陶謙病死。"
         }
       ],
       "exclusions": [
@@ -64813,6 +64833,15 @@
           "term": "張邈附呂布傳",
           "quote": "張邈附呂布傳",
           "reason": "僅言張邈附於呂布傳的編排歸屬，未載呂布本人任何行事，非本人史實，排除。"
+        },
+        {
+          "id": "lb-excl-hhs-mulu-liuyan-yuanshu-lvbu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 0,
+          "term": "劉焉 袁術 呂布卷目",
+          "quote": "劉焉　袁術　呂布",
+          "reason": "僅為後漢書卷七十五列傳目錄列名，未載呂布本人任何行事，非本人史實，排除。"
         }
       ],
       "unresolved": [],
