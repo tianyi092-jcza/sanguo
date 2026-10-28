@@ -64393,6 +64393,36 @@
           "through": "奔南陽。",
           "citation": "《後漢書·呂布傳》",
           "note": "王允不赦涼州人，李傕等還攻長安，呂布戰敗，攜董卓首級繫馬鞍、出武關奔南陽。"
+        },
+        {
+          "id": "lb-hhs-lvbu-fushu-yuanshu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 38,
+          "from": "遣順攻劉備於沛，",
+          "through": "破之。",
+          "citation": "《後漢書·呂布傳》",
+          "note": "建安二年呂布復從袁術，遣高順攻劉備於沛並破之。"
+        },
+        {
+          "id": "lb-hhs-lvbu-xiapi-xiang",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 39,
+          "from": "成忿懼，乃與諸將共執陳宮、高順，率其衆降。",
+          "through": "布與麾下登白門樓。",
+          "citation": "《後漢書·呂布傳》",
+          "note": "下邳圍急，侯成等執陳宮、高順降，呂布與麾下登白門樓。"
+        },
+        {
+          "id": "lb-sg-wudi-yanzhoubian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 8,
+          "from": "會張邈與陳宮叛迎呂布，郡縣皆應。",
+          "through": "布到，攻鄄城不能下，西屯濮陽。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "興平元年張邈、陳宮叛迎呂布，兗州郡縣皆應，呂布攻鄄城不下而西屯濮陽。"
         }
       ],
       "exclusions": [],
