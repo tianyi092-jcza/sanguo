@@ -64320,7 +64320,7 @@
           "source": "a03-070",
           "paragraph": 32,
           "from": "操於是大收孰麥，復與布戰。",
-          "through": "布敗走，因分定諸縣，兗州遂平。",
+          "through": "布敗走，因分定諸縣，兖州遂平。",
           "citation": "《後漢書·荀彧傳》",
           "note": "興平二年（195年），曹操從荀彧之諫，大收熟麥、復與呂布戰，布敗走，兗州遂平。"
         },
@@ -64333,6 +64333,36 @@
           "through": "三年，遂擒呂布，定徐州。",
           "citation": "《後漢書·荀彧傳》",
           "note": "建安三年（198年），曹操從荀彧先取呂布之謀，擒呂布、定徐州。"
+        },
+        {
+          "id": "lb-hhs-dongzhuo-faling",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 13,
+          "from": "又使呂布發諸帝陵，",
+          "through": "收其珍寶。",
+          "citation": "《後漢書·董卓傳》",
+          "note": "董卓徙洛陽人於長安、焚燒宮廟時，又使呂布發諸帝陵及公卿以下冢墓、收其珍寶。"
+        },
+        {
+          "id": "lb-hhs-dongzhuo-yangren",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 15,
+          "from": "卓遣將胡軫、呂布攻之，",
+          "through": "士卒散亂。",
+          "citation": "《後漢書·董卓傳》",
+          "note": "董卓遣胡軫、呂布攻孫堅於陽人，布與軫不相能，軍中自驚恐、士卒散亂。"
+        },
+        {
+          "id": "lb-hhs-dongzhuo-yuhoubing",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 22,
+          "from": "傕、汜等以王允、呂布殺董卓，",
+          "through": "皆誅殺之。",
+          "citation": "《後漢書·董卓傳》",
+          "note": "王允、呂布誅董卓後，李傕、郭汜等忿怒并州人，在軍者男女數百人皆被誅殺。"
         }
       ],
       "exclusions": [],
