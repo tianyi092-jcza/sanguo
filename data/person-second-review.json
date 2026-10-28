@@ -64843,6 +64843,36 @@
           "through": "收其珍寶。",
           "citation": "《後漢書·禮儀志下》",
           "note": "此為禮儀志臣昭案引董卓傳，非正文直載：董卓使呂布發諸帝陵及公卿以下冢墓、收其珍寶。"
+        },
+        {
+          "id": "lb-hhs-tianwenxia-wangyun-lvbu-zhuzhuo",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 16,
+          "from": "及司徒王允與將軍呂布誅卓",
+          "through": "公卿百官吏民戰死者且萬人。",
+          "citation": "《後漢書·天文志下》",
+          "note": "天文志以星變占驗繫事：載司徒王允與將軍呂布誅董卓，隨後郭汜、李傕旋兵攻長安，公卿百官吏民戰死者且萬人。"
+        },
+        {
+          "id": "lb-hhs-wuxingyi-wangyun-lvbu-shazhuo",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 36,
+          "from": "至三年夏，司徒王允使中郎將呂布殺太師董卓",
+          "through": "夷三族。",
+          "citation": "《後漢書·五行志一》",
+          "note": "五行志災異繫事：初平三年夏，司徒王允使中郎將呂布殺太師董卓、夷三族；此條載呂布誅卓時官為中郎將。"
+        },
+        {
+          "id": "lb-sg-wudi-lvbu-bai-dongchu-wuguan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "from": "夏四月，司徒王允與呂布共殺卓",
+          "through": "布敗，東出武關。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "武帝紀編年：王允與呂布共殺董卓後，李傕、郭汜殺王允攻呂布，布敗，東出武關；與後漢書呂布傳奔武關事互證，來源不同。"
         }
       ],
       "exclusions": [
