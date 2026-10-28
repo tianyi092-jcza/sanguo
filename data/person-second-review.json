@@ -63264,6 +63264,33 @@
           "term": "董卓",
           "quote": "曩者董卓造為亂階",
           "reason": "段落為先主上言漢帝之表文，追述亂階源頭以董卓造亂一筆帶過，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-houzhu-zhaoshu-zhuozaonan",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 6,
+          "term": "董卓",
+          "quote": "董卓造難，震蕩京畿",
+          "reason": "段落為後主建興五年出師詔書，追述漢祚中微以董卓造難、震蕩京畿一筆帶過，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-zhuge-longzhong-zizhuoyilai",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 1,
+          "term": "董卓",
+          "quote": "自董卓已來，豪傑並起",
+          "reason": "段落為諸葛亮隆中對，以「自董卓已來」作群雄並起的時代起點一筆帶過，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-xujing-sunsheng-shiyuzhuo",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 10,
+          "term": "董卓",
+          "quote": "將謂仕於董卓",
+          "reason": "段落主述孫盛論許靖浮譽、裴注辯許靖受任在董卓未至之前；董卓僅作許靖仕歷爭議的背景對照出現，未述卓本人事蹟，排除。"
         }
       ],
       "unresolved": [],
