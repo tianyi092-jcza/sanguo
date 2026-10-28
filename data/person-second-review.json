@@ -65603,6 +65603,33 @@
           "term": "董卓",
           "quote": "董卓呼紹，議欲廢帝，立陳留王。",
           "reason": "本段記董卓呼袁紹議廢帝立陳留王、紹偽許橫刀而去，全段未提及呂布；候選係誅董卓事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-hhs-renjun-luoyang-ling",
+          "work": "houhanshu",
+          "source": "a03-076",
+          "paragraph": 34,
+          "term": "洛陽",
+          "quote": "永和中，以劇令勃海任峻補之。",
+          "reason": "本段記洛陽令闕、永和中以劇令勃海任峻補之及其斷獄威風，全段未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-js-gouxi-weizhi-yanzhou",
+          "work": "jinshu",
+          "source": "a05-061-ahcb",
+          "paragraph": 27,
+          "term": "兗州",
+          "quote": "頓丘太守魏植爲流人所逼，眾五六萬，大掠兗州。",
+          "reason": "本段記頓丘太守魏植為流人所逼、大掠兗州及苟晞出屯無鹽破植，全段未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
+        },
+        {
+          "id": "lb-excl-sg-xuhuang-chuanmu",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 21,
+          "term": "徐晃",
+          "quote": "徐晃傳",
+          "reason": "本段僅為徐晃傳卷首標題，無正文內容、未提及呂布；候選係輾轉兗徐事件加權誤觸，故排除。"
         }
       ],
       "unresolved": [],
