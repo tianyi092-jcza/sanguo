@@ -64603,6 +64603,36 @@
           "through": "太祖破呂布於下邳，遼將其衆降",
           "citation": "《三國志·魏書十七·張遼傳》",
           "note": "張遼傳載太祖於下邳破呂布，張遼率眾降。"
+        },
+        {
+          "id": "lb-sg-yuejin-puyang-xiandeng",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 9,
+          "from": "從擊呂布於濮陽，張超於雍丘，橋蕤於苦，皆先登有功",
+          "through": "從擊呂布於濮陽，張超於雍丘，橋蕤於苦，皆先登有功",
+          "citation": "《三國志·魏書十七·樂進傳》",
+          "note": "樂進傳載樂進從太祖於濮陽擊呂布，先登有功。"
+        },
+        {
+          "id": "lb-sg-yujin-puyang-poying",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "from": "從討呂布於濮陽，別破布二營於城南",
+          "through": "從討呂布於濮陽，別破布二營於城南",
+          "citation": "《三國志·魏書十七·于禁傳》",
+          "note": "于禁傳載于禁從討呂布於濮陽，別破呂布二營於城南。"
+        },
+        {
+          "id": "lb-sg-lidian-lvbuluan-shagan",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 1,
+          "from": "呂布之亂，太祖遣乾還乘氏，慰勞諸縣",
+          "through": "遂殺乾",
+          "citation": "《三國志·魏書十八·李典傳》",
+          "note": "李典傳載呂布之亂時，其別駕薛蘭、治中李封招李乾同叛，乾不聽而被殺。"
         }
       ],
       "exclusions": [],
