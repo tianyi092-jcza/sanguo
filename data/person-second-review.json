@@ -63873,6 +63873,33 @@
           "term": "董卓",
           "quote": "燒鄴宮，火旬日不滅",
           "reason": "晉書段：記汲桑聚眾反、陷鄴城、燒鄴宮等事，全段未出現董卓，僅因燒宮之火與焚燒洛陽語義相近誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-mingdi-luoyang-wuzhuo",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 32,
+          "term": "董卓",
+          "quote": "五月己巳，行還洛陽宮。",
+          "reason": "三國志段：記還洛陽宮、大赦、京都地震及尚書令、司空任免等事，全段未出現董卓，僅因洛陽地名誤命中「入京廢立」事件，排除。"
+        },
+        {
+          "id": "dz-excl-wuxing-xuchang-wuzhuo",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 164,
+          "term": "董卓",
+          "quote": "許昌城南門無故自崩",
+          "reason": "晉書段：記魏文帝黃初七年幸許昌、城南門自崩、還洛陽及宮車晏駕事，全段未出現董卓，亦無焚燒洛陽事，僅因洛陽地名誤命中，排除。"
+        },
+        {
+          "id": "dz-excl-guanqiu-luoyang-wuzhuo",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 23,
+          "term": "董卓",
+          "quote": "留鎮洛陽",
+          "reason": "晉書段：記毌丘儉、文欽之亂、大軍東征、留鎮洛陽事，全段未出現董卓，僅因洛陽地名誤命中「焚燒洛陽」事件，排除。"
         }
       ],
       "unresolved": [],
