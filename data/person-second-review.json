@@ -66015,6 +66015,36 @@
           "through": "郡縣皆應。",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "正文層：興平元年曹操東征陶謙時，張邈與陳宮叛迎呂布，兗州郡縣皆應。"
+        },
+        {
+          "id": "gong-sg-xiapi-zhi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "布將宋憲、魏續等執陳宮",
+          "through": "皆殺之。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "正文層：曹操東征呂布至下邳，圍城月餘後呂布部將宋憲、魏續執陳宮舉城降，布、宮皆被生禽殺之。"
+        },
+        {
+          "id": "gong-sg-shuo-miao",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 7,
+          "from": "宮說邈曰",
+          "through": "縱橫之一時也。",
+          "citation": "《三國志·魏書七·呂布傳》",
+          "note": "正文層：興平元年曹操東征陶謙時，陳宮與許汜、王楷共謀叛曹，說張邈迎呂布共牧兗州，邈從之。"
+        },
+        {
+          "id": "gong-pei-yingxiong-hao-meng",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 8,
+          "from": "性言「陳宮同謀。」",
+          "through": "布以宮大將，不問也。",
+          "citation": "《三國志·魏書七·呂布傳》",
+          "note": "裴注·英雄記層：郝萌受袁術謀反布，曹性供稱陳宮同謀；陳宮在坐面赤，呂布以其為大將而不問。"
         }
       ],
       "exclusions": [],
