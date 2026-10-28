@@ -61893,6 +61893,26 @@
           "through": "以術為後將軍",
           "citation": "《三國志·魏書六·董卓傳》",
           "note": "董卓將廢少帝之際，任命袁術為後將軍；術畏卓之禍而出奔南陽。"
+        },
+        {
+          "id": "dz-sg-lubu-sha-dingyuan",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 1,
+          "from": "進敗，董卓入京都",
+          "through": "誓為父子",
+          "citation": "《三國志·魏書七·呂布傳》",
+          "note": "董卓入洛後欲殺丁原併其兵，誘呂布殺原，收布為騎都尉，誓為父子。"
+        },
+        {
+          "id": "dz-sg-qian-liuyu-dasima",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 2,
+          "from": "會董卓至洛陽",
+          "through": "封薊侯",
+          "citation": "《三國志·魏書八·劉虞傳》",
+          "note": "董卓至洛陽後，遷劉虞為大司馬，公孫瓚為奮武將軍、封薊侯。"
         }
       ],
       "exclusions": [
@@ -61958,6 +61978,15 @@
           "term": "董卓",
           "quote": "董卓狼戾賊忍，暴虐不仁",
           "reason": "段落為卷末評曰史論，兼評袁紹、袁術、劉表；董卓部分為陳壽品評及讖語引文，非董卓生平事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-taoqian-dongzhuozhiluan",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 8,
+          "term": "董卓",
+          "quote": "董卓之亂",
+          "reason": "段落僅以「董卓之亂」作時代背景，記述陶謙遣使間行致貢獻、遷安東將軍徐州牧；無董卓本人事蹟，排除。"
         }
       ],
       "unresolved": [],
