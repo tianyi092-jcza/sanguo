@@ -63377,6 +63377,33 @@
           "term": "董卓",
           "quote": "破虜有破走董卓",
           "reason": "段落主述張紘奉孫策章至許、曹公欲厚待及紘諫止伐吳、孫權初承統時紘輔佐事；董卓僅在紘稱頌孫堅功勳時作「破走董卓」的被破對象一筆帶過，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-zhouyu-sunjian-taozhuo",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 2,
+          "term": "董卓",
+          "quote": "孫堅興義兵討董卓",
+          "reason": "段落主述周瑜與孫策相友善、從策東渡平定江東事；董卓僅在開篇交代孫堅興義兵的背景一筆帶過，未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-chengpu-yangren-pozhuo",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 1,
+          "term": "董卓",
+          "quote": "破董卓於陽人",
+          "reason": "段落主述程普出身及從孫堅征伐、身被創夷的履歷；董卓僅作陽人被破的對象一筆帶過（與朱治傳陽人條同例），未述卓本人事蹟，排除。"
+        },
+        {
+          "id": "dz-excl-huangai-beizouzhuo",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 6,
+          "term": "董卓",
+          "quote": "北走董卓",
+          "reason": "段落主述黃蓋出身及從孫堅征戰、隨策及權的履歷；董卓僅作被孫堅北走的對象一筆帶過，未述卓本人事蹟，排除。"
         }
       ],
       "unresolved": [],
