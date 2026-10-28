@@ -64913,6 +64913,16 @@
           "through": "布誅肅。",
           "citation": "《三國志·魏書六·董卓傳》",
           "note": "董卓死後，呂布使李肅至陝，欲以詔命誅牛輔；輔等逆戰，李肅敗走弘農，布遂誅李肅。"
+        },
+        {
+          "id": "lb-sg-dongzhuo-changan-bu-baizou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 9,
+          "from": "與卓故部曲樊稠、李蒙、王方等合圍長安城",
+          "through": "布敗走。",
+          "citation": "《三國志·魏書六·董卓傳》",
+          "note": "李傕等合圍長安，十日城陷，呂布於城中戰敗出走。此條僅錄正文層；同段裴注張璠漢紀布勸王允去留之語屬注文層次，不併入。"
         }
       ],
       "exclusions": [
@@ -64960,6 +64970,24 @@
           "term": "呂布",
           "quote": "迴戈東征，呂布就戮",
           "reason": "僅在曹操功績表述中以「呂布就戮」一語帶過下邳事，未載呂布本人新行事；下邳被擒殺詳情已見武帝紀他段與本傳，排除。"
+        },
+        {
+          "id": "lb-excl-sg-dongzhuo-lijue-taobu-gong",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 11,
+          "term": "呂布",
+          "quote": "我有討呂布之功",
+          "reason": "僅李傕自陳討布之功、酈荅引布弒卓為前事例證，未載呂布本人新行事；誅卓詳情已見本傳與董卓傳他段，排除。"
+        },
+        {
+          "id": "lb-excl-sg-yuanshu-bu-po-yiyu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 30,
+          "term": "呂布",
+          "quote": "術前為呂布所破",
+          "reason": "僅在袁術敗亡敘事中以一語回顧布破術前事，未載呂布本人新行事；破術詳情已見武帝紀袁術告文等他段，排除。"
         }
       ],
       "unresolved": [],
