@@ -68438,9 +68438,39 @@
           "through": "楊奉為車騎將軍。",
           "citation": "《後漢書·孝獻帝紀》所載",
           "note": "建安元年八月癸卯，獻帝在洛陽時拜安國將軍張楊為大司馬，與韓暹、楊奉同日拜將軍。本傳已記即拜大司馬，此條補紀傳繫年與同拜人事，見張楊於迎駕前後在朝廷的官位。"
+        },
+        {
+          "id": "zhangyang-hhs-xiandi-dao-sha",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 11,
+          "from": "冬十一月，盜殺大司馬張楊。",
+          "through": "冬十一月，盜殺大司馬張楊。",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "note": "建安三年冬十一月，盜殺大司馬張楊。三國志武帝紀已記楊醜殺楊事，此條補後漢書紀傳繫年與「盜殺」表述，與獻帝紀拜大司馬條前後相承。"
+        },
+        {
+          "id": "zhangyang-hhs-dongzhuo-luogong-yewang",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 31,
+          "from": "承奔張楊，楊乃使承先繕修洛宮。",
+          "through": "遂還野王。",
+          "citation": "《後漢書·董卓傳》所載",
+          "note": "建安元年，董承奔張楊，張楊使董承先繕修洛宮；帝還洛陽幸楊安殿，楊以為己功故以「楊」名殿，並自請出扞外難、還野王。此條補洛宮修繕、楊安殿命名與還野王細節；同段後文拜大司馬句與已錄獻帝紀條重複，故截於還野王。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangyang-excl-a03-017-28",
+          "work": "houhanshu",
+          "source": "a03-017",
+          "paragraph": 28,
+          "term": "張楊",
+          "quote": "彭乃潛兵度沔水，擊其將張楊於阿頭山",
+          "reason": "此張楊為東漢初秦豐部將，岑彭擊秦豐時於阿頭山所擊之人，時代在光武建武年閒，與漢末河內太守張楊（卒建安三年）非同一人，僅同名，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
