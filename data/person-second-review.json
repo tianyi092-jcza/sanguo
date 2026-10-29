@@ -73286,11 +73286,44 @@
           "work": "houhanshu",
           "source": "a03-009",
           "paragraph": 6,
-          "from": "公孫瓚殺大司馬劉虞。",
-          "through": "公孫瓚殺大司馬劉虞。",
+          "from": "公孫瓉殺大司馬劉虞。",
+          "through": "公孫瓉殺大司馬劉虞。",
           "citation": "《後漢書·孝獻帝紀》",
-          "context": "公孫瓚殺大司馬劉虞",
+          "context": "公孫瓉殺大司馬劉虞",
           "note": "正文層：初平四年（193），公孫瓚殺大司馬劉虞；劉虞卒年據此定為193。"
+        },
+        {
+          "id": "ly-hhs-gaixun-zongzheng",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 25,
+          "from": "勳時與宗正劉虞、佐軍校尉袁紹同典禁兵。",
+          "through": "遂拜京兆尹。",
+          "citation": "《後漢書·蓋勳傳》",
+          "context": "宗正劉虞、佐軍校尉袁紹同典禁兵",
+          "note": "正文層：劉虞任宗正時，與蓋勳、佐軍校尉袁紹同典禁兵；蓋勳倡議共誅嬖倖，虞、紹亦素有謀、因相連結，未及發而勳改任京兆尹。"
+        },
+        {
+          "id": "ly-hhs-zanghong-gongsunyu-xi",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 32,
+          "from": "時討虜校尉公孫瓚與大司馬劉虞有隙，",
+          "through": "超乃遣洪詣虞，共謀其難。",
+          "citation": "《後漢書·臧洪傳》",
+          "context": "公孫瓚與大司馬劉虞有隙",
+          "note": "正文層：討虜校尉公孫瓚與大司馬劉虞有隙，臧超遣臧洪詣劉虞、共謀其難；此為瓚、虞交惡、幽冀交兵之際的一節。"
+        },
+        {
+          "id": "ly-hhs-liuyu-ben-zhuan-youzhou",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 1,
+          "from": "虞初舉孝廉，稍遷幽州刺史，",
+          "through": "百姓歌恱之。",
+          "citation": "《後漢書·劉虞傳》",
+          "context": "稍遷幽州刺史",
+          "note": "正文層（本傳）：劉虞初舉孝廉，稍遷幽州刺史，民夷感其德化，鮮卑、烏桓、夫餘、穢貊皆隨時朝貢、無敢擾邊，百姓歌悅之。"
         }
       ],
       "exclusions": [],
