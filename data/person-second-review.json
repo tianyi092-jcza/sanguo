@@ -75567,7 +75567,38 @@
       "id": "p0104",
       "name": "韓馥",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "hanfu-hhs-zanghong-rangzhou",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 36,
+          "from": "昔張景明登壇喢血，奉辭奔走，卒使韓牧讓印，主人得地。",
+          "through": "後但以拜章朝主，賜爵獲傳之故，不蒙觀過之貸，而受夷滅之禍。",
+          "citation": "《後漢書·臧洪傳》所載",
+          "note": "臧洪致袁紹書中舉韓馥為例：張景明登壇歃血、奉辭奔走，卒使韓馥讓印於袁紹；然馥讓位後反以拜章朝主、賜爵獲傳之故，不蒙觀過之貸而受夷滅之禍。"
+        },
+        {
+          "id": "hanfu-hhs-zanghong-rangzhou-yingxiongji",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 36,
+          "from": "英雄記云，袁紹使張景明、郭公則、高元才等說韓馥，使讓兾州與紹。",
+          "through": "然則馥之讓位，景明亦有其功。其餘未詳也。",
+          "citation": "《後漢書·臧洪傳》所載",
+          "note": "英雄記注文分層另記：袁紹使張景明、郭公則、高元才等說韓馥，使讓冀州與紹，馥讓位而景明亦有其功；與正文不合併。"
+        },
+        {
+          "id": "hanfu-hhs-dongzhuo-jizhou-cishi",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 11,
+          "from": "以尚書韓馥為兾州刺史",
+          "through": "英雄記馥字文節，潁川人。",
+          "citation": "《後漢書·董卓傳》所載",
+          "note": "董卓秉政擢用羣士，以尚書韓馥為冀州刺史；注載英雄記稱馥字文節、潁川人。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
