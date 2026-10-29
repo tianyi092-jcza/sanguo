@@ -75347,9 +75347,39 @@
           "through": "惟城未克",
           "citation": "《三國志·吳書·吳主傳》所載",
           "note": "建安八年孫權西伐黃祖，破其舟軍，惟城未克，因山寇復動而還；此役未禽殺黃祖，不可與建安十三年禽殺之役混同。"
+        },
+        {
+          "id": "huangzu-sg-wuzhu-jianan12-xizheng",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 7,
+          "from": "十二年，西征黃祖",
+          "through": "虜其人民而還",
+          "citation": "《三國志·吳書·吳主傳》所載",
+          "note": "建安十二年孫權西征黃祖，虜其人民而還；此役未言破城禽祖，不可與建安八年破舟軍、建安十三年屠城梟首之役混同。"
+        },
+        {
+          "id": "huangzu-sg-wuzhu-jianan13-death",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "十三年春，權復征黃祖",
+          "through": "虜其男女數萬口",
+          "citation": "《三國志·吳書·吳主傳》所載",
+          "note": "建安十三年春孫權復征黃祖，呂蒙破其前鋒，凌統、董襲等攻屠其城，黃祖挺身亡走，為騎士馮則追梟其首；此為黃祖之死，與建安八年、十二年之役不同。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "huangzu-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 10,
+          "term": "黃祖",
+          "quote": "或疑慈西託黃祖，假路還北",
+          "reason": "江表傳裴注所載遣太史慈時議者之疑，僅言慈或西託黃祖假路還北，非黃祖本人行事，且孫策當場駁斥；與黃祖生平無關，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
