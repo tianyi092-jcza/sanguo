@@ -70006,6 +70006,33 @@
           "term": "幽州",
           "quote": "幽州。桉禹貢冀州之域，舜置十二牧，則其一也。",
           "reason": "《晉書》地理志幽州沿革總述，自禹貢至晉言建置分合，未提及瓚本人、無其事蹟，係地名加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-dili-youzhou-yange-ahcb",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 101,
+          "term": "幽州",
+          "quote": "幽州。案禹貢冀州之域，舜置十二牧，則其一也。",
+          "reason": "《晉書》地理志幽州沿革總述，自禹貢至晉言建置分合，未提及瓚本人、無其事蹟，係地名加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-le-tu-wangjun-youzhou",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 32,
+          "term": "幽州",
+          "quote": "勒將圖浚，引子春問之。",
+          "reason": "石勒圖幽州刺史王浚事，浚為晉末王浚而非公孫瓚，僅地名「幽州」加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-shile-xian-youzhou-sha-wangjun",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 79,
+          "term": "幽州",
+          "quote": "三月癸酉，石勒陷幽州，殺侍中、大司馬、幽州牧、博陵公王浚，焚燒城邑，害萬餘人。",
+          "reason": "石勒陷幽州殺王浚事，係晉末王浚而非公孫瓚，僅地名「幽州」加權誤命中，排除。"
         }
       ],
       "conclusions": [],
