@@ -75597,6 +75597,36 @@
           "through": "英雄記馥字文節，潁川人。",
           "citation": "《後漢書·董卓傳》所載",
           "note": "董卓秉政擢用羣士，以尚書韓馥為冀州刺史；注載英雄記稱馥字文節、潁川人。"
+        },
+        {
+          "id": "hanfu-hhs-xunyu-yingzongzu",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 29,
+          "from": "會兾州牧同郡韓馥遣騎迎之",
+          "through": "留者後多為董卓將李傕所殺略焉。",
+          "citation": "《後漢書·荀彧傳》所載",
+          "note": "荀彧避亂密西山，冀州牧韓馥遣騎迎之，彧獨將宗族從馥；留者後多為董卓將李傕所殺略。"
+        },
+        {
+          "id": "hanfu-hhs-liuyu-yili-weizhu",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 4,
+          "from": "二年，兾州刺史韓馥、勃海太守袁紹及山東諸將議",
+          "through": "欲立為主。",
+          "citation": "《後漢書·劉虞傳》所載",
+          "note": "二年，冀州刺史韓馥與勃海太守袁紹及山東諸將議，以朝廷幼沖、獻帝隔於董卓，欲立宗室長者劉虞為主。"
+        },
+        {
+          "id": "hanfu-hhs-gongsunzan-shu-shaozuo",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "逼迫韓馥，竊奪其州",
+          "through": "文稱詔書。",
+          "citation": "《後漢書·公孫瓚傳》所載",
+          "note": "公孫瓚上疏數袁紹之罪，稱紹逼迫韓馥、竊奪其州，並矯刻金玉印璽、皁囊施檢、文稱詔書。"
         }
       ],
       "exclusions": [],
