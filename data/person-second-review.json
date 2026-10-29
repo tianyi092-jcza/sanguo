@@ -76599,6 +76599,36 @@
           "through": "推紹為盟主",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "初平元年，諸侯同時俱起兵，衆各數萬，推袁紹為盟主。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-mouli-liuyu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 4,
+          "from": "袁紹與韓馥謀立幽州牧劉虞為帝",
+          "through": "太祖拒之",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "袁紹與韓馥謀立幽州牧劉虞為帝，太祖拒之。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-xie-hanfu-qu-jizhou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 5,
+          "from": "袁紹脅韓馥",
+          "through": "取兾州",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "袁紹脅韓馥，取兾州。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-shuo-lianhe",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 8,
+          "from": "於是紹使人說太祖",
+          "through": "欲連和",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "袁紹派人說太祖，欲連和；太祖將許，程昱止之。"
         }
       ],
       "exclusions": [
