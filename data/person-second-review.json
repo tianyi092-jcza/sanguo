@@ -76409,6 +76409,36 @@
           "through": "愛士養名",
           "citation": "《後漢書·卷七十四·袁紹劉表列傳》",
           "note": "袁紹有姿貌威容，愛士養名。此條記其服闋徙居洛陽後以養名結士之貌；英雄記所載不妄通賓客等細節不在此條錄入。"
+        },
+        {
+          "id": "yuanshao-hhs-yuanshao-pijin-xiyuan",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 3,
+          "from": "後辟大將軍何進掾",
+          "through": "以紹為佐軍校尉",
+          "citation": "《後漢書·卷七十四·袁紹劉表列傳》",
+          "note": "記紹辟大將軍何進掾，歷侍御史、虎賁中郎將，中平五年初置西園八校尉時為佐軍校尉；裴注引山陽公載記稱中軍校尉，與正文佐軍異文，此條只錄正文。"
+        },
+        {
+          "id": "yuanshao-hhs-yuanshao-quanzhuo-baoshuo",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 4,
+          "from": "靈帝崩",
+          "through": "騎都尉太山鮑信說紹曰",
+          "citation": "《後漢書·卷七十四·袁紹劉表列傳》",
+          "note": "記靈帝崩後紹勸何進徵董卓等軍脅太后誅宦、轉司隷校尉，及卓兵至鮑信說紹之起；鮑信說辭與卓廢立對答在同段後文，裴注層另記，不併入此條。"
+        },
+        {
+          "id": "yuanshao-hhs-yuanshao-jieyi-fengji",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 9,
+          "from": "明年，馥將麴義反畔",
+          "through": "紹客逢紀謂紹曰",
+          "citation": "《後漢書·卷七十四·袁紹劉表列傳》",
+          "note": "記麴義反馥、馥戰失利後紹與義相結，紹客逢紀進言之起；逢紀獻策與說馥讓州過程在同段後文，裴注層另記，不併入此條。"
         }
       ],
       "exclusions": [
