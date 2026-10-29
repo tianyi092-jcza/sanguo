@@ -69833,6 +69833,15 @@
           "from": "四年春三月，袁紹攻公孫瓉于易京，獲之。",
           "through": "四年春三月，袁紹攻公孫瓉于易京，獲之。",
           "citation": "《後漢書》卷九·孝獻帝紀"
+        },
+        {
+          "id": "zan-hhs-jianan3-yijing-sanchongying",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 18,
+          "from": "建安三年，袁紹復大攻瓚。",
+          "through": "紹漸相攻逼，瓚衆日蹙，乃却，築三重營以自固。",
+          "citation": "《後漢書》卷七十三·公孫瓚傳"
         }
       ],
       "exclusions": [
@@ -70060,6 +70069,24 @@
           "term": "幽州",
           "quote": "二月己丑，以幽州刺史、大單于段遼爲驃騎將軍。",
           "reason": "段遼任幽州刺史事，與公孫瓚無關，僅地名「幽州」加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-liaodong-youzhou-ahcb",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 120,
+          "term": "幽州",
+          "quote": "遼東國秦立爲郡。漢光武以遼東等屬青州後，還幽州。統縣八，戶五千四百。",
+          "reason": "《晉書》地理志遼東郡沿革，僅言漢光武後還幽州，未提及瓚本人、無其事蹟，係地名加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-daigun-shu-youzhou",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 78,
+          "term": "幽州",
+          "quote": "代郡秦置。雒陽東北二千五百里。古今注曰：「建武二十七年七月屬幽州。」十一城，戶二萬一百二十三，口十二萬六千一百八十八。",
+          "reason": "《後漢書》郡國志代郡條，僅言建武二十七年屬幽州，未提及瓚本人、無其事蹟，係地名加權誤命中，排除。"
         }
       ],
       "conclusions": [],
