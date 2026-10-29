@@ -76529,6 +76529,36 @@
           "through": "皆以單于印綬",
           "citation": "《後漢書·卷九十·烏桓鮮卑列傳第八十》",
           "note": "記建安初烏桓蹋頓遣使與袁紹和親、遣兵助其破公孫瓚，袁紹矯制賜蹋頓等單于印綬。"
+        },
+        {
+          "id": "yuanshao-hhs-tianwenxia-zhongping-liu",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 16,
+          "from": "中平六年，宮車晏駕，大將軍何進令司隷校尉袁紹私募兵千餘人",
+          "through": "共誅中官",
+          "citation": "《後漢書》志第十二·天文下",
+          "note": "天文志占驗敘事：中平六年何進令司隷校尉袁紹私募兵、呼董卓入京共誅中官。"
+        },
+        {
+          "id": "yuanshao-hhs-tianwenxia-kexing",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 17,
+          "from": "至六年，司隷校尉袁紹誅滅中官",
+          "through": "死者數千人",
+          "citation": "《後漢書》志第十二·天文下",
+          "note": "天文志占驗敘事：中平六年袁紹誅滅中官，吳匡攻殺何苗。"
+        },
+        {
+          "id": "yuanshao-hhs-tianwenxia-xingbei",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 23,
+          "from": "時袁紹在兾州",
+          "through": "七年夏，紹死",
+          "citation": "《後漢書》志第十二·天文下",
+          "note": "天文志占驗敘事：建安五年星孛大梁、兾州分，時袁紹在兾州，其年十一月紹軍為曹公所破，七年夏紹死。"
         }
       ],
       "exclusions": [
