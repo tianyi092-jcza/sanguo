@@ -69536,6 +69536,33 @@
           "from": "旣與紹有隙",
           "through": "南連劉表。",
           "citation": "《三國志》卷六·袁術傳"
+        },
+        {
+          "id": "zan-sgz-bio-xiaolian-xianbei",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 1,
+          "from": "瓚以孝廉為郎",
+          "through": "遂得免。",
+          "citation": "《三國志》卷八·公孫瓚傳"
+        },
+        {
+          "id": "zan-sgz-bio-shao-songtou",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 6,
+          "from": "如前歲本初送公孫瓚頭來",
+          "through": "而今克之。",
+          "citation": "《三國志》卷八·公孫瓚傳"
+        },
+        {
+          "id": "zan-sgz-tianchou-zongqian",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 15,
+          "from": "瓚聞之大怒",
+          "through": "瓚乃縱遣疇。",
+          "citation": "《三國志》卷十一·田疇傳"
         }
       ],
       "exclusions": [
