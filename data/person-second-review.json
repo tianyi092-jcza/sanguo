@@ -75287,6 +75287,36 @@
           "through": "遂為江夏太守。",
           "citation": "《三國志·蜀書·諸葛亮傳》所載",
           "note": "諸葛亮傳正文以黃祖之死繫年：劉琦因黃祖死得出為江夏太守，見黃祖死後江夏職由劉琦繼任。"
+        },
+        {
+          "id": "huangzu-sg-sunce-wuli-baoshou",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 9,
+          "from": "先君與袁氏共破董卓，功業未遂，卒為黃祖所害。",
+          "through": "報讎雪恥，為朝廷外藩。",
+          "citation": "《三國志·吳書·孫策傳》所載",
+          "note": "裴注引吳歷載孫策語張紘：先君孫堅為黃祖所害，孫策欲求先君餘兵、東據吳會以報讎雪恥；見孫策起兵的復讎動機，與正文孫堅被殺分層另記。"
+        },
+        {
+          "id": "huangzu-sg-sunce-jiangbiao-aid-liuxun",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 12,
+          "from": "告急於劉表，求救於黃祖。",
+          "through": "射亦遁走。",
+          "citation": "《三國志·吳書·孫策傳》所載",
+          "note": "裴注引江表傳：劉勳告急劉表、求救於黃祖，黃祖遣太子射率船軍五千人助勳；孫策破勳後，射亦遁走。"
+        },
+        {
+          "id": "huangzu-sg-sunce-wulu-shayxian-battle",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 12,
+          "from": "臣討黃祖，以十二月八日到祖所屯沙羨縣。",
+          "through": "財物山積。",
+          "citation": "《三國志·吳書·孫策傳》所載",
+          "note": "裴注引吳錄載孫策上表：孫策討黃祖，十二月八日抵沙羨，十一日進擊，黃祖潰走，妻息被獲，斬溺二萬餘，船六千餘艘；見孫策對黃祖的一次大破，非建安十三年孫權禽殺黃祖之役，不可混同。"
         }
       ],
       "exclusions": [],
