@@ -72416,6 +72416,33 @@
           "term": "孫慮",
           "quote": "孫慮傳",
           "reason": "本段僅為孫慮傳卷首標題，無正文內容，亦無公孫淵事；候選語義誤命中，錄為排除以便 covered 去重。"
+        },
+        {
+          "id": "yuan-excl-075",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 22,
+          "term": "孫桓",
+          "quote": "孫桓傳",
+          "reason": "本段僅為孫桓傳卷首標題，無正文內容，亦無公孫淵事；候選語義誤命中，錄為排除以便 covered 去重。"
+        },
+        {
+          "id": "yuan-excl-076",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 28,
+          "term": "孫禮",
+          "quote": "孫禮傳",
+          "reason": "本段僅為孫禮傳卷首標題，無正文內容，亦無公孫淵事；候選語義誤命中，錄為排除以便 covered 去重。"
+        },
+        {
+          "id": "yuan-excl-077",
+          "work": "jinshu",
+          "source": "a05-118-ahcb",
+          "paragraph": 17,
+          "term": "乞伏乾歸",
+          "quote": "乞伏乾歸以眾叛，攻陷金城，執太守任蘭。",
+          "reason": "全段為乞伏乾歸叛攻金城、執太守任蘭事，十六國時期，與三國公孫淵無關；候選由「襄平城破被殺」事件語義誤命中，錄為排除以便 covered 去重。"
         }
       ],
       "unresolved": [],
