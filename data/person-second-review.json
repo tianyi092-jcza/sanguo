@@ -69563,6 +69563,33 @@
           "from": "瓚聞之大怒",
           "through": "瓚乃縱遣疇。",
           "citation": "《三國志》卷十一·田疇傳"
+        },
+        {
+          "id": "zan-sgz-tadun-zhushao",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 3,
+          "from": "袁紹與公孫瓚連戰不決",
+          "through": "助紹擊瓚，破之。",
+          "citation": "《三國志》卷三十·烏丸鮮卑東夷傳"
+        },
+        {
+          "id": "zan-sgz-xianzhu-tunqi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 3,
+          "from": "袁紹攻公孫瓚",
+          "through": "先主與田楷東屯齊。",
+          "citation": "《三國志》卷三十二·先主傳"
+        },
+        {
+          "id": "zan-hhs-zanghong-mounan",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 32,
+          "from": "時討虜校尉公孫瓚與大司馬劉虞有隙",
+          "through": "共謀其難。",
+          "citation": "《後漢書》卷五十八·臧洪傳"
         }
       ],
       "exclusions": [
