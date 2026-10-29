@@ -69154,7 +69154,35 @@
           "note": "三國志呂布傳所載常山之戰：紹與布擊張燕，燕精兵萬餘、騎數千，布與成廉、魏越等陷鋒突陣遂破燕軍。為同一事件的三國志版本，與後漢書呂布傳、袁紹傳所載互為異文。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangyan-excl-bio-heading",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 20,
+          "term": "張燕",
+          "quote": "張燕",
+          "reason": "僅為本傳小傳目／標題段，無敘事內容；其後第21段本傳起首已錄為 zhangyan-sgz-bio-origin，故本段不另錄。"
+        },
+        {
+          "id": "zhangyan-excl-jin-baxi-taishou",
+          "work": "jinshu",
+          "source": "a05-057-ahcb",
+          "paragraph": 42,
+          "term": "張燕",
+          "quote": "梁州刺史張殷遣巴西太守張燕討之。",
+          "reason": "晉代永嘉年間巴西太守張燕，討鄧定、受賊金銀後被斬，與三國黑山張燕同名異人；時代、官職、事蹟皆不合，排除。"
+        },
+        {
+          "id": "zhangyan-excl-huayang-baxi-taishou",
+          "work": "huayang",
+          "source": "a06-008",
+          "paragraph": 27,
+          "term": "張燕",
+          "quote": "巴西太守張燕帥牙門武肇",
+          "reason": "華陽國志所載永嘉元年巴西太守張燕討鄧定事，與晉書所載同一人同一事，非三國黑山張燕，同名異人，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
