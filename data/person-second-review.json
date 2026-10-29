@@ -70519,6 +70519,33 @@
           "term": "馬融",
           "quote": "馬融字季長，扶風茂陵人也",
           "reason": "《後漢書》此段為馬融傳開篇，述其家世師承，全段未提及瓚本人，與瓚之白馬義從無關，係「馬」字向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-xiqiang-huangzhong-yicong",
+          "work": "houhanshu",
+          "source": "a03-087",
+          "paragraph": 38,
+          "term": "湟中義從",
+          "quote": "馬賢將湟中義從兵及羌胡萬餘騎掩擊那離等",
+          "reason": "《後漢書》卷八十七‧西羌傳此段記馬賢將湟中義從兵掩擊那離事，全段未提及瓚本人，此「義從」為湟中義從兵，與瓚之白馬義從無關，係向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-fangshu-beiguo",
+          "work": "houhanshu",
+          "source": "a03-082",
+          "paragraph": 36,
+          "term": "北郭先生",
+          "quote": "當時人因號為北郭先生",
+          "reason": "《後漢書》卷八十二‧方術列傳此段記北郭先生聚穀給宗族、居先人冢側、終於家事，全段未提及瓚本人，與瓚之白馬義從無關，係向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-sgz-juan49-taishici-pianmu",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 6,
+          "term": "公孫瓚",
+          "quote": "太史慈傳",
+          "reason": "《三國志》卷四十九‧吳書四劉繇太史慈士燮傳第四傳目段，僅「太史慈傳」四字，無史實內容，全段未提及瓚本人，係向量事件「白馬義從」語義誤命中，排除。"
         }
       ],
       "conclusions": [],
