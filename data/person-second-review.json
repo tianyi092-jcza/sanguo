@@ -70792,9 +70792,37 @@
           "from": "後漢末，公孫度自號平州牧。",
           "through": "東夷九種皆服事焉。",
           "citation": "《晉書》卷十四·地理志"
+        },
+        {
+          "id": "du-jin-liyin",
+          "work": "jinshu",
+          "source": "a05-044-ahcb",
+          "paragraph": 11,
+          "from": "遼東太守公孫度欲強用之",
+          "through": "莫知所終。",
+          "citation": "《晉書》卷四十四·李胤傳"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "du-excl-001",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 77,
+          "term": "公孫度",
+          "quote": "後漢末，公孫度自號平州牧。",
+          "reason": "與 a05-014-ahcb 第 117 段同文（另底本再載），已錄為 du-jin-pingzhou，不重錄，排除。"
+        },
+        {
+          "id": "du-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 13,
+          "term": "公孫度",
+          "quote": "公孫度傳",
+          "reason": "僅為《三國志·魏書八》公孫度傳篇目標題行，無史實敘述，排除。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
