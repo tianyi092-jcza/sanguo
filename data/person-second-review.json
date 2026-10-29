@@ -73026,7 +73026,41 @@
       "id": "p0100",
       "name": "劉岱",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ld-hhs-xiandi-death",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "from": "青州黃巾擊殺兖州刺史劉岱於東平。",
+          "through": "青州黃巾擊殺兖州刺史劉岱於東平。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "context": "青州黃巾",
+          "note": "正文層：獻帝紀三年（初平三年）青州黃巾於東平擊殺兗州刺史劉岱；其後曹操於壽張破黃巾、降之。劉岱卒年據此定為192。"
+        },
+        {
+          "id": "ld-hhs-lukang-shiyushi",
+          "work": "houhanshu",
+          "source": "a03-031",
+          "paragraph": 53,
+          "from": "侍御史劉岱典考其事",
+          "through": "免歸田里。",
+          "citation": "《後漢書》卷三十一·陸康傳",
+          "context": "侍御史劉岱",
+          "note": "正文層：靈帝欲鑄銅人、陸康上疏諫而被譖下廷尉時，侍御史劉岱典考其事，為表陳解釋得免。此為劉岱任兗州刺史前的早期任職，時代與後任兗州刺史銜接，確指本人。"
+        },
+        {
+          "id": "ld-hhs-zanghong-meng",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 31,
+          "from": "乃使詣兖州刺史劉岱",
+          "through": "遂皆相善。",
+          "citation": "《後漢書》卷五十八·臧洪傳",
+          "context": "兖州刺史劉岱",
+          "note": "正文層：臧洪受張超之命詣兗州刺史劉岱（字公山）與豫州刺史孔伷，遂皆相善，後與諸牧守大會酸棗盟誓討董卓。劉岱以兗州刺史參與關東會盟。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
