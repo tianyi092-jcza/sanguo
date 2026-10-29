@@ -71172,6 +71172,33 @@
           "term": "涼州",
           "quote": "右涼州刺史部，郡國十二，縣、道、候官九十八。",
           "reason": "此段為涼州刺史部郡國志總目，未提及公孫度，向量誤配，排除。"
+        },
+        {
+          "id": "du-excl-035",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 17,
+          "term": "王平",
+          "quote": "王平字子均，巴西宕渠人也。",
+          "reason": "此段為王平生平，未提及公孫度，向量誤配，排除。"
+        },
+        {
+          "id": "du-excl-036",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 147,
+          "term": "州牧",
+          "quote": "是歲，罷州牧，置刺史。",
+          "reason": "此段為州牧改置刺史的制度沿革，未提及公孫度，向量誤配，排除。"
+        },
+        {
+          "id": "du-excl-037",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 103,
+          "term": "西平郡",
+          "quote": "西平郡漢置。統縣四，戶四千。",
+          "reason": "此段為西平郡郡國志目，未提及公孫度，向量誤配，排除。"
         }
       ],
       "conclusions": [],
