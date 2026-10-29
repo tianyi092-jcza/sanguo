@@ -70828,6 +70828,24 @@
           "from": "聞公孫度令行於海外，遂與原及平原王烈等至于遼東。",
           "through": "度虛館以候之。",
           "citation": "《三國志·魏書十一·管寧傳》"
+        },
+        {
+          "id": "du-sg-wanglie",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 29,
+          "from": "辭公孫度長史，商賈自穢。",
+          "through": "辭公孫度長史，商賈自穢。",
+          "citation": "《三國志·魏書十一·王烈傳》"
+        },
+        {
+          "id": "du-jin-daifang",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 126,
+          "from": "帶方郡公孫度置。統縣七，戶四千九百。",
+          "through": "帶方郡公孫度置。統縣七，戶四千九百。",
+          "citation": "《晉書》卷十四·地理志"
         }
       ],
       "exclusions": [
@@ -70848,6 +70866,15 @@
           "term": "公孫度",
           "quote": "公孫度傳",
           "reason": "僅為《三國志·魏書八》公孫度傳篇目標題行，無史實敘述，排除。"
+        },
+        {
+          "id": "du-excl-003",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 82,
+          "term": "公孫度",
+          "quote": "帶方郡公孫度置。",
+          "reason": "與 a05-014-ahcb 第 126 段同文（另底本再載），已錄為 du-jin-daifang，不重錄，排除。"
         }
       ],
       "conclusions": [],
