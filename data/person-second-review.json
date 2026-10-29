@@ -76629,6 +76629,36 @@
           "through": "欲連和",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "袁紹派人說太祖，欲連和；太祖將許，程昱止之。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-taiwei-ci-da-jiangjun",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "於是以袁紹為太尉",
+          "through": "以大將軍讓紹",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安元年，以袁紹為太尉，紹恥班在公下，不肯受；公固辭，以大將軍讓紹，天子拜公司空。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-xiandi-tianfeng-xixi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "袁紹叛卒詣公云",
+          "through": "四海可指麾而定",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "獻帝春秋曰：袁紹叛卒詣公，謂田豐曾使紹早襲許、挾天子以令諸侯，則四海可指麾而定。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-weishu-xiyuanwang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 13,
+          "from": "袁紹宿與故太尉楊彪",
+          "through": "深懷怨望",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "魏書曰：袁紹宿與楊彪、梁紹、孔融有隙，欲使公以他過誅之；公不從，紹以為公外託公義、內實離異，深懷怨望。"
         }
       ],
       "exclusions": [
