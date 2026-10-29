@@ -70765,6 +70765,33 @@
           "from": "公孫度字升濟",
           "through": "威行海外。",
           "citation": "《三國志·魏書八·公孫度傳》"
+        },
+        {
+          "id": "du-sg-fuyu",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 16,
+          "from": "漢末，公孫度雄張海東，威服外夷，夫餘王尉仇台更屬遼東。",
+          "through": "妻以宗女。",
+          "citation": "《三國志·魏書三十·烏丸鮮卑東夷傳·夫餘》"
+        },
+        {
+          "id": "du-sg-juli",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 21,
+          "from": "公孫度之雄海東也",
+          "through": "助度擊富山賊，破之。",
+          "citation": "《三國志·魏書三十·烏丸鮮卑東夷傳·句麗》"
+        },
+        {
+          "id": "du-jin-pingzhou",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 117,
+          "from": "後漢末，公孫度自號平州牧。",
+          "through": "東夷九種皆服事焉。",
+          "citation": "《晉書》卷十四·地理志"
         }
       ],
       "exclusions": [],
