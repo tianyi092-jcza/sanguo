@@ -71618,9 +71618,39 @@
           "through": "一年足矣。",
           "citation": "《晉書》卷一·宣帝紀",
           "note": "正文（宣帝紀）：遼東太守公孫文懿（即公孫淵）反，魏徵司馬懿詣京師問策，懿料淵棄城預走為上計、據遼水為次計、坐守襄平為成擒，料其必先據遼水而後守，往還攻休一年足矣。"
+        },
+        {
+          "id": "yuan-jin-xuandi-pingliao-shalu",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 32,
+          "from": "及平公孫文懿，大行殺戮。",
+          "through": "及平公孫文懿，大行殺戮。",
+          "citation": "《晉書》卷一·宣帝紀",
+          "note": "正文（宣帝紀）：平定公孫文懿後大行殺戮，見司馬懿征遼東後的處置；此句為宣帝紀品評中的一句，非遼東戰事本敘，但確指平淵之後的殺戮，錄為附帶史料。"
+        },
+        {
+          "id": "yuan-jin-tianwen-jingchu-pan",
+          "work": "jinshu",
+          "source": "a05-012-ahcb",
+          "paragraph": 151,
+          "from": "景初元年七月，公孫文懿叛。",
+          "through": "二年正月，遣宣帝討之。",
+          "citation": "《晉書》卷十二·天文志",
+          "note": "正文（天文志）：以月犯占附繫年，記景初元年七月公孫文懿叛、次年正月遣宣帝（司馬懿）討伐，可與明帝紀、公孫度傳互證繫年。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yuan-excl-001",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 14,
+          "term": "公孫文懿",
+          "quote": "及遼東太守公孫文懿反，徵帝詣京師。",
+          "reason": "同段宣帝問策內容已錄為 a05-001-ahcb:32 摘錄（yuan-jin-xuandi-liaodong-ce），此 sidneyluo 卷一本為同文異本重出，無新增史料，排除以免跨版本重複。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
