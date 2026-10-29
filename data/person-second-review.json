@@ -76129,9 +76129,39 @@
           "through": "兾州牧袁紹請為軍師。",
           "citation": "《後漢書·卷六十四·盧植傳》",
           "note": "盧植隱於上谷，兾州牧袁紹請其為軍師；植於初平三年卒。"
+        },
+        {
+          "id": "yuanshao-hhs-zhaoqi-fengying",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 36,
+          "from": "是時袁紹、曹操與公孫瓚爭兾州，紹及操聞歧至，皆自將兵數百里奉迎，歧深陳天子恩德，宜罷兵安人之道，又移書公孫瓚，為言利害。",
+          "through": "是時袁紹、曹操與公孫瓚爭兾州，紹及操聞歧至，皆自將兵數百里奉迎，歧深陳天子恩德，宜罷兵安人之道，又移書公孫瓚，為言利害。",
+          "citation": "《後漢書·卷六十四·趙岐傳》",
+          "note": "袁紹與曹操、公孫瓚爭兾州，聞趙岐至皆自將兵數百里奉迎；岐陳罷兵安人之道，並移書公孫瓚言利害。"
+        },
+        {
+          "id": "yuanshao-hhs-lizan-guicao",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 24,
+          "from": "張孟卓與吾善，袁本初汝外親，雖爾勿依，必歸曹氏。",
+          "through": "張孟卓與吾善，袁本初汝外親，雖爾勿依，必歸曹氏。",
+          "citation": "《後漢書·卷六十七·李膺傳》",
+          "note": "李膺子瓚臨沒囑子：袁本初雖為外親亦勿依，當歸曹氏；諸子從之，免於亂世。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yuanshao-excl-humuban",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 12,
+          "term": "袁紹",
+          "quote": "胡母班附袁紹傳。",
+          "reason": "此段為黨錮人物名錄，僅言胡母班附載於袁紹傳處，未述袁紹本人事實，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
