@@ -70546,6 +70546,33 @@
           "term": "公孫瓚",
           "quote": "太史慈傳",
           "reason": "《三國志》卷四十九‧吳書四劉繇太史慈士燮傳第四傳目段，僅「太史慈傳」四字，無史實內容，全段未提及瓚本人，係向量事件「白馬義從」語義誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-fujian-zhima",
+          "work": "jinshu",
+          "source": "a05-113-ahcb",
+          "paragraph": 39,
+          "term": "止馬詩",
+          "quote": "乃命群臣作止馬詩而遣之",
+          "reason": "《晉書》（四庫本）此段記苻堅卻大宛千里馬、命群臣作止馬詩事，全段未提及瓚本人，與瓚之白馬義從無關，係向量事件「白馬義從」語義誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-pengchong-xianjicheng",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 88,
+          "term": "彭寵",
+          "quote": "彭寵陷薊城，寵自立為燕王。",
+          "reason": "《後漢書》此段僅記彭寵陷薊城自立為燕王事，全段未提及瓚本人，與瓚之易京自守無關，係向量事件「易京自守」語義誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-mayuan-kaipian",
+          "work": "houhanshu",
+          "source": "a03-024",
+          "paragraph": 1,
+          "term": "馬服君",
+          "quote": "其先趙奢為趙將，號曰馬服君",
+          "reason": "《後漢書》此段為馬援傳開篇，述馬援先世趙奢號馬服君事，全段未提及瓚本人，與瓚之白馬義從無關，係「馬」字向量誤命中，排除。"
         }
       ],
       "conclusions": [],
