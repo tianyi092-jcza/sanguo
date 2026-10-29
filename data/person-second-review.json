@@ -76509,6 +76509,26 @@
           "through": "然邈心不自安",
           "citation": "《後漢書·卷七十五·劉焉袁術呂布列傳》",
           "note": "記董卓之亂後袁紹為盟主有驕色，張邈正義責之，紹怨邈且聞其與呂布厚，令曹操殺邈，操不聽；後段典略引陳宮說邈事屬異說，不併入此條。"
+        },
+        {
+          "id": "yuanshao-hhs-huanzhe-zhu-huanguan",
+          "work": "houhanshu",
+          "source": "a03-078",
+          "paragraph": 71,
+          "from": "六年，帝崩",
+          "through": "皆投河而死",
+          "citation": "《後漢書·卷七十八·宦者列傳第六十八》",
+          "note": "記靈帝崩後袁紹說大將軍何進誅中官；何進遇害後袁紹勒兵斬宦官，張讓等劫天子走河上、投河而死。"
+        },
+        {
+          "id": "yuanshao-hhs-wuhuan-heqin-zhu",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 13,
+          "from": "建安初，兾州牧袁紹",
+          "through": "皆以單于印綬",
+          "citation": "《後漢書·卷九十·烏桓鮮卑列傳第八十》",
+          "note": "記建安初烏桓蹋頓遣使與袁紹和親、遣兵助其破公孫瓚，袁紹矯制賜蹋頓等單于印綬。"
         }
       ],
       "exclusions": [
@@ -76574,6 +76594,15 @@
           "term": "袁紹",
           "quote": "雖袁紹龔行，芟夷無餘，然以暴易亂，亦何云及",
           "reason": "此段主體為宦者列傳卷末史論論宦官之禍始末，袁紹僅見於論曰中評其誅宦官「以暴易亂」一句，未述袁紹本人事實，排除。"
+        },
+        {
+          "id": "yuanshao-excl-huanzhe-caosong-shao",
+          "work": "houhanshu",
+          "source": "a03-078",
+          "paragraph": 29,
+          "term": "袁紹",
+          "quote": "嵩具袁紹傳",
+          "reason": "此段主角為曹嵩（曹操之父），敘其靈帝時貨賂中官致位太尉及子操起兵後避亂被殺，袁紹僅見於「嵩具袁紹傳」一句，未述袁紹本人事實，排除。"
         }
       ],
       "unresolved": [],
