@@ -69518,9 +69518,37 @@
           "from": "瓚兵三萬",
           "through": "其鋒甚銳。",
           "citation": "《後漢書》卷七十四上·袁紹傳"
+        },
+        {
+          "id": "zan-sgz-anping-po-fu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 18,
+          "from": "後馥軍安平",
+          "through": "內欲襲馥。",
+          "citation": "《三國志》卷六·袁紹傳"
+        },
+        {
+          "id": "zan-sgz-shu-beilian-zan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "from": "旣與紹有隙",
+          "through": "南連劉表。",
+          "citation": "《三國志》卷六·袁術傳"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zan-excl-shao-zuoshouwei",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 20,
+          "term": "公孫瓚",
+          "quote": "非公孫瓚坐受圍者也",
+          "reason": "沮授諫袁紹時的比況之語，僅借瓚坐受圍作反襯曹氏士卒精練，未記公孫瓚具體事實，排除。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
