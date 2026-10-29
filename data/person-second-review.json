@@ -69122,6 +69122,36 @@
           "through": "布覺其意，從紹求去。",
           "citation": "《後漢書·臧洪傳》引《魏志·呂布傳》所載",
           "note": "後漢書引魏志呂布傳之文：呂布曾破張燕軍，後向袁紹求益兵，因部衆鈔掠為紹所患忌，布覺察其意而從紹求去。此事繫於布依袁紹期間。"
+        },
+        {
+          "id": "zhangyan-hhs-gongsunzan-surrender-cao",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 22,
+          "from": "張燕旣為紹所敗，",
+          "through": "封安國亭侯。",
+          "citation": "《後漢書·公孫瓚傳》",
+          "note": "後漢書公孫瓚傳附記：張燕既為袁紹所敗、部衆稍散，曹操將定冀州時率衆詣鄴投降，拜平北將軍、封安國亭侯。此為張燕最終歸曹的後漢書記載。"
+        },
+        {
+          "id": "zhangyan-hhs-lubu-changshan-battle",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 29,
+          "from": "紹與布擊張燕於常山。",
+          "through": "遂破燕軍。",
+          "citation": "《後漢書·呂布傳》",
+          "note": "後漢書呂布傳：袁紹與呂布合擊常山張燕，燕精兵萬餘、騎數千，布率成廉、魏越等數十騎一日數度衝陣，連戰十餘日遂破燕軍。本條主角為呂布破燕，張燕為被擊方。"
+        },
+        {
+          "id": "zhangyan-sgz-lubu-changshan-battle",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 4,
+          "from": "紹與布擊張燕於常山。",
+          "through": "遂破燕軍。",
+          "citation": "《三國志·魏書七·呂布傳》",
+          "note": "三國志呂布傳所載常山之戰：紹與布擊張燕，燕精兵萬餘、騎數千，布與成廉、魏越等陷鋒突陣遂破燕軍。為同一事件的三國志版本，與後漢書呂布傳、袁紹傳所載互為異文。"
         }
       ],
       "exclusions": [],
