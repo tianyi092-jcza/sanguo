@@ -73985,6 +73985,36 @@
           "through": "焉留璋不遣",
           "citation": "《華陽國志·卷五　公孫述劉二牧志》",
           "note": "華陽國志劉焉事中：劉焉造乘輿車服僣擬至尊，荊州牧劉表上言及此，帝遣劉璋曉喻焉、焉留璋不遣。華陽本此段未斷句，表文僅存「子夏在西河疑聖人論」一句，釋義從略；僅錄表上言及其後果，不錄焉造車服等焉本人事。"
+        },
+        {
+          "id": "liubiao-hhs-xiandi-death-cong-surrender",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 21,
+          "from": "是月，劉表卒",
+          "through": "琮以荊州降操",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "note": "建安十三年八月劉表卒，少子琮立，以荊州降曹操。僅錄表卒與琮降，不錄段內曹操南征、孔融被殺、赤壁戰事等。"
+        },
+        {
+          "id": "liubiao-hhs-wangchang-study-admonition",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 16,
+          "from": "同郡劉表時年十七，從暢受學",
+          "through": "無乃皎然自貴於世乎？",
+          "citation": "《後漢書·王暢傳》所載",
+          "note": "劉表十七歲時從王暢受學，以奢儉得中之禮進諫暢之儉約自貴。僅錄表受學與進諫，暢答以公儀休、孫叔敖、伯夷遺烈自辯的部分不錄。"
+        },
+        {
+          "id": "liubiao-hhs-zhaojian-jingzhou-courtesy",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 36,
+          "from": "長安之亂，容於荊州",
+          "through": "劉表厚禮焉",
+          "citation": "《後漢書·趙戩傳》所載",
+          "note": "長安之亂後趙戩容於荊州，劉表厚禮之。僅錄表禮遇戩，不錄戩與董卓、曹操、鍾繇事。"
         }
       ],
       "exclusions": [
