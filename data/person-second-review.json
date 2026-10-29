@@ -70411,6 +70411,33 @@
           "term": "公孫述",
           "quote": "黄帝姓公孫",
           "reason": "《華陽國志》言公孫述據蜀稱帝事，段中「公孫」指公孫述及黃帝姓公孫之說，與公孫瓚為同姓異人，全段未提及瓚本人，係「白馬義從」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-marong-pianming",
+          "work": "houhanshu",
+          "source": "a03-060a",
+          "paragraph": 0,
+          "term": "馬融",
+          "quote": "馬融",
+          "reason": "《後漢書》馬融傳篇名段，僅「馬融」二字篇名，全段未提及瓚本人，與瓚之白馬義從無關，係「馬」字向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-shuluogan-bailan",
+          "work": "jinshu",
+          "source": "a05-097-ahcb",
+          "paragraph": 27,
+          "term": "白蘭",
+          "quote": "又保白蘭",
+          "reason": "《晉書》吐谷渾樹洛干事，段言乞伏乾歸攻樹洛干、其保白蘭病卒事，「白蘭」為地名，全段未提及瓚本人，與瓚之白馬義從無關，係「白馬義從」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-sgz-maliang-pianming",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 6,
+          "term": "馬良",
+          "quote": "馬良傳",
+          "reason": "《三國志》馬良傳篇名段，僅「馬良傳」三字篇名，全段未提及瓚本人，與瓚之白馬義從無關，係「馬」字向量誤命中，排除。"
         }
       ],
       "conclusions": [],
