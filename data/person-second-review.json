@@ -70956,6 +70956,33 @@
           "term": "遼東",
           "quote": "遼東國秦立為郡。",
           "reason": "僅遼東國郡縣名錄、地名命中，段落未提及公孫度，非本人史實，排除。"
+        },
+        {
+          "id": "du-excl-011",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 120,
+          "term": "遼東",
+          "quote": "遼東國秦立爲郡。",
+          "reason": "僅遼東國郡縣名錄、地名命中，段落未提及公孫度，非本人史實，排除。"
+        },
+        {
+          "id": "du-excl-012",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 176,
+          "term": "遼西",
+          "quote": "鮮卑寇遼西，遼西郡兵與烏桓擊破之。",
+          "reason": "僅遼西地名與平州故城注命中，段落述鮮卑寇遼西，未提及公孫度，非本人史實，排除。"
+        },
+        {
+          "id": "du-excl-013",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 88,
+          "term": "遼東",
+          "quote": "遼東郡秦置。",
+          "reason": "僅遼東郡郡縣名錄、地名命中，段落未提及公孫度，非本人史實，排除。"
         }
       ],
       "conclusions": [],
