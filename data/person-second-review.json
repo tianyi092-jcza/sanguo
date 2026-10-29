@@ -70384,6 +70384,33 @@
           "term": "馬忠",
           "quote": "馬忠傳",
           "reason": "此段僅為馬忠傳分傳標題，無史實敘述內容，未提及瓚本人，係「白馬義從」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-guangwu-yizhou-diming",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 22,
+          "term": "光武",
+          "quote": "光武北擊尤來、大搶、五幡於元氏",
+          "reason": "《後漢書》卷一光武帝紀，言光武北擊尤來、大搶、五幡事，段中「易州」僅為後世地名注文，全段未提及瓚本人，非瓚本人史實，係「易京自守」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-qi-wang-yaoyan-baima",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 53,
+          "term": "白馬",
+          "quote": "白馬素羈西南馳",
+          "reason": "《晉書》言齊王嘉平中謠言與王淩、令狐愚謀立彪事，段中「白馬」僅為謠語意象，全段未提及瓚本人，與瓚之白馬義從無關，係「白馬義從」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hy-gongsunshu-tongxing-yiren",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 2,
+          "term": "公孫述",
+          "quote": "黄帝姓公孫",
+          "reason": "《華陽國志》言公孫述據蜀稱帝事，段中「公孫」指公孫述及黃帝姓公孫之說，與公孫瓚為同姓異人，全段未提及瓚本人，係「白馬義從」事件向量誤命中，排除。"
         }
       ],
       "conclusions": [],
