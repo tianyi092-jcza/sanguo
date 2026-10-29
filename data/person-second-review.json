@@ -73125,9 +73125,39 @@
           "citation": "《三國志·魏書一·武帝紀》",
           "context": "劉岱欲擊之",
           "note": "正文層：初平三年青州黃巾入兗州，鮑信諫以固守待其自離，劉岱不從而出戰，果為所殺。與《後漢書·孝獻帝紀》記其死於東平互證，卒年192。"
+        },
+        {
+          "id": "ld-sg-dongzhuo-jufu-zhoujun",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 5,
+          "from": "用其所舉韓馥、劉岱、孔伷、張咨、張邈等出宰州郡",
+          "through": "皆合兵將以討卓。",
+          "citation": "《三國志·魏書六·董卓傳》",
+          "context": "初，卓信任尚書周毖、城門校尉伍瓊等",
+          "note": "正文層：董卓信任周毖、伍瓊，用其所舉韓馥、劉岱等出宰州郡；馥等到任後皆合兵將以討卓。此與已錄《後漢書·董卓傳》「侍中劉岱為兗州刺史」相合，為其出守州郡的起點。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "ld-excl-wudi-jianan5-tongming",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "term": "劉岱",
+          "quote": "遣劉岱、王忠擊之，不克。",
+          "reason": "建安五年（200）曹操遣劉岱、王忠擊劉備事；本人兗州刺史劉岱已於初平三年（192）死於青州黃巾之手（見已錄 a04-001:6），年代不相容，故此劉岱為同名異人（曹操部將），不錄為本人史實。"
+        },
+        {
+          "id": "ld-excl-yuanshao-jianan5-tongming",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 21,
+          "term": "劉岱",
+          "quote": "太祖遣劉岱、王忠擊之，不克。",
+          "reason": "與 a04-001:14 同一建安五年（200）事，袁紹傳重述；本人已於初平三年（192）卒，年代不相容，故此劉岱為同名異人，不錄為本人史實。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
