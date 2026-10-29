@@ -73021,6 +73021,22 @@
         "勢力繫年：靈帝末至獻帝初為徐州刺史、牧，討黃巾、理徐州；初平四年太祖征徐州、彭城大戰兵敗退守剡，興平元年太祖復征時病死；始終為漢徐州一方，本傳與武帝紀、陳登傳等互證，不得記為曹操、袁術或呂布勢力。",
         "生卒：生 132、卒興平元年（194）病死，本傳明載「是歲，謙病死」，二子商、應皆不仕。"
       ]
+    },
+    {
+      "id": "p0100",
+      "name": "劉岱",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
