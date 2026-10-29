@@ -73390,9 +73390,38 @@
           "citation": "《後漢書·劉虞傳》",
           "context": "欲共報瓚",
           "note": "正文層（本傳）：劉虞從事漁陽鮮于輔等合率州兵，欲共報瓚。"
+        },
+        {
+          "id": "ly-hhs-liuyan-liuyu-youzhoumu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 2,
+          "from": "宗正劉虞為幽州牧，",
+          "through": "皆以本秩居職。",
+          "citation": "《後漢書·劉焉傳》",
+          "note": "正文層（他傳·劉焉傳）：劉焉建議改置牧伯後，宗正劉虞出為幽州牧，與太僕黃琬為豫州牧等同批任命，皆以本秩居職。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "ly-excl-001",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 0,
+          "term": "劉虞",
+          "quote": "劉虞　公孫瓚　陶謙",
+          "reason": "卷首題名行，僅列本卷三傳主角，非敘事段落，不錄為摘錄。"
+        },
+        {
+          "id": "ly-excl-002",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 23,
+          "term": "劉虞",
+          "quote": "劉虞守道慕名，以忠厚自牧。",
+          "reason": "范曄〈論曰〉史論評價，非敘事史實，不錄為史實摘錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
