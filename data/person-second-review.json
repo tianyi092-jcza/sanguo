@@ -69671,6 +69671,33 @@
           "from": "公孫瓚使劉備與術合謀共逼紹",
           "through": "皆破之。",
           "citation": "《後漢書》卷七十五·袁術傳"
+        },
+        {
+          "id": "zan-hhs-wuhuan-tadun-zhuji-po-zan",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 13,
+          "from": "建安初，兾州牧袁紹與前將軍公孫瓚相持不決",
+          "through": "破之。",
+          "citation": "《後漢書》卷九十·烏桓鮮卑列傳"
+        },
+        {
+          "id": "zan-hhs-wuxing-yidi-yijing",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 69,
+          "from": "公孫瓚以為易地當之",
+          "through": "以待天下之變。",
+          "citation": "《後漢書》志第十三·五行一"
+        },
+        {
+          "id": "zan-sgz-wudiji-zan-sanlu-bishao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "from": "袁術與紹有隙，術求援於公孫瓚",
+          "through": "以逼紹。",
+          "citation": "《三國志》卷一·武帝紀"
         }
       ],
       "exclusions": [
