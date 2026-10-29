@@ -75747,6 +75747,36 @@
           "through": "取兾州。",
           "citation": "《三國志·武帝紀》所載",
           "note": "初平二年秋七月，袁紹脅韓馥取冀州；讓州過程詳見後漢書袁紹傳諸條，本條錄武帝紀繫年。"
+        },
+        {
+          "id": "hanfu-sgz-wudi-qijuzhu-liyuyu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "袁紹前與兾州牧韓馥立故大司馬劉虞，",
+          "through": "為說命錄之數。",
+          "citation": "《三國志·武帝紀》引獻帝起居注所載",
+          "note": "建安五年官渡戰後曹操上言所引：袁紹曾與韓馥共立劉虞、刻作金璽；與袁紹傳立劉虞條互證，繫年見武帝紀。"
+        },
+        {
+          "id": "hanfu-sgz-yuanshao-zhuoju-chuzhou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 5,
+          "from": "用其所舉韓馥、劉岱、孔伷、張咨、張邈等出宰州郡",
+          "through": "皆合兵將以討卓。",
+          "citation": "《三國志·袁紹傳》所載",
+          "note": "董卓信任周毖、伍瓊，舉韓馥等出宰州郡；馥至官後合兵討卓，卓遂殺毖、瓊。"
+        },
+        {
+          "id": "hanfu-sgz-yuanshao-liyuyu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 18,
+          "from": "紹自號車騎將軍，主盟，與兾州牧韓馥立幽州牧劉虞為帝",
+          "through": "虞不敢受。",
+          "citation": "《三國志·袁紹傳》所載",
+          "note": "袁紹以勃海起兵後自號車騎將軍主盟，與韓馥共立劉虞為帝，虞不敢受；此為正文句，裴注讓州詳情另見他條。"
         }
       ],
       "exclusions": [],
