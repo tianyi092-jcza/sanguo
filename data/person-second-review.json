@@ -75777,6 +75777,36 @@
           "through": "虞不敢受。",
           "citation": "《三國志·袁紹傳》所載",
           "note": "袁紹以勃海起兵後自號車騎將軍主盟，與韓馥共立劉虞為帝，虞不敢受；此為正文句，裴注讓州詳情另見他條。"
+        },
+        {
+          "id": "hanfu-sgz-yuanshao-peizhu-jushou-biejia",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 19,
+          "from": "又為韓馥別駕，表拜騎都尉。",
+          "through": "袁紹得兾州，又辟焉。",
+          "citation": "《三國志·袁紹傳》裴注引獻帝傳所載",
+          "note": "裴注引獻帝傳記沮授履歷：沮授曾為韓馥別駕、表拜騎都尉，袁紹得冀州後又辟之；此條見韓馥任用沮授之事，袁紹得州在後。"
+        },
+        {
+          "id": "hanfu-sgz-yuanshu-shaoyushu-wenjie",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "from": "前與韓文節共建永世之道，欲海內見再興之主。",
+          "through": "前與韓文節共建永世之道，欲海內見再興之主。",
+          "citation": "《三國志·袁術傳》引吳書所載袁紹與袁術書",
+          "note": "袁紹致袁術書中追述：曾與韓馥（字文節）共謀建永世之道、欲海內見再興之主；與袁紹傳、武帝紀共立劉虞諸條互證，韓文節即韓馥。"
+        },
+        {
+          "id": "hanfu-sgz-zanghong-peizhu-rangjizhou",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 21,
+          "from": "袁紹使張景明、郭公則、高元才等說韓馥，使讓兾州。",
+          "through": "袁紹使張景明、郭公則、高元才等說韓馥，使讓兾州。",
+          "citation": "《三國志·臧洪傳》裴注引英雄記所載",
+          "note": "裴注引英雄記：袁紹使張景明、郭公則、高元才等說韓馥使讓冀州；與臧洪答陳琳書正文「韓牧讓印」互證，確指韓馥讓州之事。"
         }
       ],
       "exclusions": [],
