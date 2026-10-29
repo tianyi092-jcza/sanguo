@@ -69032,6 +69032,36 @@
           "through": "歲得舉孝廉、計吏。",
           "citation": "《後漢書·朱儁傳》",
           "note": "張燕輕勇趫捷、軍中號飛燕，與中山、常山、趙郡、上黨、河內諸山谷寇賊交通，衆至百萬號黑山賊；後遣使至京師奏書乞降，拜平難中郎將，領河北諸山谷事，歲得舉孝廉、計吏。"
+        },
+        {
+          "id": "zhangyan-hhs-zanghong-weizhi-origin",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 37,
+          "from": "張燕，常山人，本姓褚。",
+          "through": "後助公孫瓚與紹爭兾州也。",
+          "citation": "《後漢書·臧洪傳》注引《魏志》所載",
+          "note": "張燕本姓褚，黃巾起時合聚少年為羣盜；博陵張牛角起兵，牛角死前囑以燕為帥，衆奉燕故改姓張；燕僄悍捷速過人，軍中號為飛燕，衆至百萬號曰黑山；後助公孫瓚與袁紹爭冀州。"
+        },
+        {
+          "id": "zhangyan-hhs-gongsunzan-rescue",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 19,
+          "from": "四年春，黑山賊帥張燕與續率兵十萬",
+          "through": "三道來救瓚。",
+          "citation": "《後漢書·公孫瓚傳》",
+          "note": "公孫瓚被袁紹圍困於易京時，黑山賊帥張燕與續率兵十萬，分三道前來救援，未及趕到瓚已敗亡。"
+        },
+        {
+          "id": "zhangyan-hhs-yuanshao-jushou-advice",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 10,
+          "from": "若舉軍東向，則黃巾可埽；",
+          "through": "則張燕可滅；",
+          "citation": "《後漢書·袁紹傳》",
+          "note": "沮授向袁紹進言定河北之策：舉軍東向則黃巾可埽，還討黑山則張燕可滅，把黑山張燕列為袁紹北定河北須先除的對象。"
         }
       ],
       "exclusions": [],
