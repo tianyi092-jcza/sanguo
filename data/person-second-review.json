@@ -76659,6 +76659,26 @@
           "through": "深懷怨望",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "魏書曰：袁紹宿與楊彪、梁紹、孔融有隙，欲使公以他過誅之；公不從，紹以為公外託公義、內實離異，深懷怨望。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-bing-gongsun-si-zhou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "from": "是時袁紹旣并公孫瓚",
+          "through": "適足以為吾奉也",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安四年，袁紹已并公孫瓚、兼四州之地、眾十餘萬，將進軍攻許；曹操評其志大而智小、色厲而膽薄、忌克而少威、兵多而分畫不明、將驕而政令不一。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-guandu-da-kui",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "紹初聞公之擊瓊",
+          "through": "紹及譚棄軍走，渡河",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安五年官渡之戰，淳于瓊敗後，張郃、高覽來降，袁紹眾大潰，與長子譚棄軍渡河而走。"
         }
       ],
       "exclusions": [
@@ -76751,6 +76771,15 @@
           "term": "袁紹",
           "quote": "袁紹取兾，下制書於燕、朔",
           "reason": "此段為百官志論刺史、州牧沿革得失的議論文字，袁紹僅見於列舉劉焉、袁紹、劉表、魏祖四例之一句，未紀袁紹本人事實經過，排除。"
+        },
+        {
+          "id": "yuanshao-excl-tan-shang-zheng-jizhou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 18,
+          "term": "袁紹",
+          "quote": "官渡之役，不救袁紹",
+          "reason": "此段主角為袁譚、袁尚爭兾州之事，袁紹僅見於曹操引魏書評劉表一句，未紀袁紹本人事實經過；依與父子兄弟分開之通則，排除。"
         }
       ],
       "unresolved": [],
