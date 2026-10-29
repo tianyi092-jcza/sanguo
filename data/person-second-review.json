@@ -69725,6 +69725,15 @@
           "from": "袁紹與公孫瓚爭兾州",
           "through": "人衆稍散",
           "citation": "《三國志》卷八·張燕傳"
+        },
+        {
+          "id": "zan-sgz-chengyu-zan-shao-xi",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 2,
+          "from": "後紹與瓚有隙",
+          "through": "瓚大為紹所破",
+          "citation": "《三國志》卷十四·程昱傳"
         }
       ],
       "exclusions": [
@@ -69817,6 +69826,24 @@
           "term": "公孫瓚",
           "quote": "公孫瓚傳",
           "reason": "此段僅為卷首傳目，無史實內容，排除。"
+        },
+        {
+          "id": "zan-excl-pingyue-zongping",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 27,
+          "term": "公孫瓚",
+          "quote": "公孫瓚保京，坐待夷滅",
+          "reason": "此段為卷末評曰，僅以保京坐待夷滅總評瓚之敗亡，無具體史實敘述，排除。"
+        },
+        {
+          "id": "zan-excl-guojia-beiji-zan",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 9,
+          "term": "公孫瓚",
+          "quote": "紹方北擊公孫瓚",
+          "reason": "此段主敘郭嘉獻策先取呂布，瓚僅於嘉言中以紹北擊瓚作時局背景帶過，無瓚本人事蹟，排除。"
         }
       ],
       "conclusions": [],
