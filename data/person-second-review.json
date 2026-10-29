@@ -73258,7 +73258,41 @@
       "id": "p0101",
       "name": "劉虞",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ly-hhs-lingdi-zhangchun-taiwei",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 22,
+          "from": "三月，幽州牧劉虞購斬漁陽賊張純。",
+          "through": "幽州牧劉虞為太尉。",
+          "citation": "《後漢書·孝靈帝紀》",
+          "context": "幽州牧劉虞購斬漁陽賊張純",
+          "note": "正文層：中平六年（189）三月，幽州牧劉虞購斬漁陽賊張純；同年夏四月太尉馬日磾免，劉虞繼任太尉。"
+        },
+        {
+          "id": "ly-hhs-xiandi-dasimma",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 1,
+          "from": "乙酉，以太尉劉虞為大司馬。",
+          "through": "乙酉，以太尉劉虞為大司馬。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "context": "太尉劉虞為大司馬",
+          "note": "正文層：中平六年（189）九月，以太尉劉虞為大司馬；同段董卓自為太尉，劉虞由太尉轉任大司馬。"
+        },
+        {
+          "id": "ly-hhs-xiandi-gongsunzan-sha",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 6,
+          "from": "公孫瓚殺大司馬劉虞。",
+          "through": "公孫瓚殺大司馬劉虞。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "context": "公孫瓚殺大司馬劉虞",
+          "note": "正文層：初平四年（193），公孫瓚殺大司馬劉虞；劉虞卒年據此定為193。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
