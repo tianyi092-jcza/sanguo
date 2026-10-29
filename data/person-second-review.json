@@ -76239,6 +76239,36 @@
           "through": "以袁紹為勃海太守，以發山東之謀。",
           "citation": "《後漢書·卷七十·鄭太傳》",
           "note": "何進遇害、董卓作亂後，鄭太（公業）等說董卓以袁紹為勃海太守，以發山東起兵之謀。"
+        },
+        {
+          "id": "yuanshao-hhs-kongrong-yecheng-yuanshi",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 19,
+          "from": "初，曹操攻屠鄴城，袁氏婦子多見侵略",
+          "through": "袁紹傳，熙，紹之中子也。",
+          "citation": "《後漢書·卷七十·孔融傳》",
+          "note": "鄴城破後，袁氏婦子多見侵略，曹操子丕私納袁熙妻甄氏；袁熙為袁紹中子。此為袁紹死後袁氏家眷遭遇，非袁紹生前事。"
+        },
+        {
+          "id": "yuanshao-hhs-xunyu-qu-shao-cong-cao",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 30,
+          "from": "彧比至兾州，而袁紹已奪馥位，紹待彧以上賔之禮。",
+          "through": "初平二年，乃去紹從操。",
+          "citation": "《後漢書·卷七十·荀彧傳》",
+          "note": "袁紹已奪韓馥冀州牧位，待荀彧以上賓之禮；荀彧度袁紹終不能定大業，初平二年去紹從操。"
+        },
+        {
+          "id": "yuanshao-hhs-xunyu-jiaoqi-xianqu-lubu",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 35,
+          "from": "袁紹旣兼河朔之地，有驕氣。",
+          "through": "彧量紹雖強，終為操所制，乃說先取呂布，然後圖紹，操從之。",
+          "citation": "《後漢書·卷七十·荀彧傳》",
+          "note": "袁紹兼河朔後有驕氣，與曹操書甚倨；曹操欲先攻紹而患力不敵，荀彧說先取呂布然後圖紹，曹操從之。"
         }
       ],
       "exclusions": [
