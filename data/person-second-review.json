@@ -76679,6 +76679,26 @@
           "through": "紹及譚棄軍走，渡河",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "建安五年官渡之戰，淳于瓊敗後，張郃、高覽來降，袁紹眾大潰，與長子譚棄軍渡河而走。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-gaogan-bingzhou-mu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 20,
+          "from": "初，袁紹以甥高幹領并州牧",
+          "through": "遂以為刺史",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "袁紹以甥高幹領并州牧；曹操拔鄴後高幹降，曹操遂以為并州刺史。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-wuhuan-shanyu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 21,
+          "from": "袁紹皆立其酋豪為單于",
+          "through": "為紹所厚",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "袁紹立三郡烏丸酋豪為單于，以家人子為己女嫁之；遼西單于蹋頓尤強，為袁紹所厚。"
         }
       ],
       "exclusions": [
@@ -76780,6 +76800,15 @@
           "term": "袁紹",
           "quote": "官渡之役，不救袁紹",
           "reason": "此段主角為袁譚、袁尚爭兾州之事，袁紹僅見於曹操引魏書評劉表一句，未紀袁紹本人事實經過；依與父子兄弟分開之通則，排除。"
+        },
+        {
+          "id": "yuanshao-excl-wangjun-yishi-shao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 23,
+          "term": "袁紹",
+          "quote": "及袁紹與弟術喪母，歸葬汝南",
+          "reason": "此段主體為皇甫謐逸士傳所載王儁事，袁紹僅見於與袁術喪母歸葬汝南的會面背景及「劉表見紹彊，陰與紹通」一句，未紀袁紹本人事實經過，排除。"
         }
       ],
       "unresolved": [],
