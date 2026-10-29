@@ -69001,7 +69001,39 @@
       "id": "p0095",
       "name": "張燕",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhangyan-hhs-xiandi-surrender",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 18,
+          "context": "十年春正月",
+          "from": "夏四月，黑山賊張燕率衆降。",
+          "through": "夏四月，黑山賊張燕率衆降。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "note": "建安十年夏四月，黑山賊張燕率衆降。紀文正文層，與同段注文層分開錄入。"
+        },
+        {
+          "id": "zhangyan-hhs-xiandi-zhu-weizhi",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 18,
+          "from": "魏志曰：「燕，本姓褚，常山真定人也。",
+          "through": "衆至百萬，號曰黑山賊。」",
+          "citation": "《後漢書·孝獻帝紀》注引《魏志》所載",
+          "note": "注文層：張燕本姓褚，常山真定人，黃巾起聚少年為羣盜，張牛角死後代為主、故改姓張，軍中號曰張飛燕，衆至百萬號黑山賊。與正文降附句分層，不合併。"
+        },
+        {
+          "id": "zhangyan-hhs-zhujun-surrender",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 23,
+          "from": "賊帥常山人張燕，輕勇趫捷，故軍中號曰飛燕。",
+          "through": "歲得舉孝廉、計吏。",
+          "citation": "《後漢書·朱儁傳》",
+          "note": "張燕輕勇趫捷、軍中號飛燕，與中山、常山、趙郡、上黨、河內諸山谷寇賊交通，衆至百萬號黑山賊；後遣使至京師奏書乞降，拜平難中郎將，領河北諸山谷事，歲得舉孝廉、計吏。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
