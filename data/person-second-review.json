@@ -73357,6 +73357,39 @@
           "citation": "《後漢書·劉虞傳》",
           "context": "以恩信招降",
           "note": "正文層（本傳）：公孫瓚志在掃滅烏桓，劉虞欲以恩信招降，由是與瓚相忤。"
+        },
+        {
+          "id": "ly-hhs-liuyu-jian-bing-yuanshu",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "瓚旣諫劉虞遣兵就袁術，",
+          "through": "乃使從弟越將千餘騎詣術自結。",
+          "citation": "《後漢書·劉虞傳》",
+          "context": "劉虞遣兵就袁術",
+          "note": "正文層（本傳）：公孫瓚諫止劉虞遣兵就袁術，復懼袁術知其怨意，乃使從弟越將千餘騎詣術自結。"
+        },
+        {
+          "id": "ly-hhs-liuyu-zan-qin",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 15,
+          "from": "是歲，瓚破禽劉虞，",
+          "through": "盡有幽州之地，",
+          "citation": "《後漢書·劉虞傳》",
+          "context": "破禽劉虞",
+          "note": "正文層（本傳）：是歲公孫瓚破擒劉虞，盡有幽州之地。"
+        },
+        {
+          "id": "ly-hhs-liuyu-congshi-baochou",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 16,
+          "from": "劉虞從事漁陽鮮于輔等，",
+          "through": "欲共報瓚。",
+          "citation": "《後漢書·劉虞傳》",
+          "context": "欲共報瓚",
+          "note": "正文層（本傳）：劉虞從事漁陽鮮于輔等合率州兵，欲共報瓚。"
         }
       ],
       "exclusions": [],
