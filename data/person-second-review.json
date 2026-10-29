@@ -76518,6 +76518,33 @@
           "term": "袁紹",
           "quote": "袁紹子譚　劉表",
           "reason": "此段僅為卷七十四傳目題名，無正文敘事，未述袁紹本人事實，不能作史實錄入，排除；記此條以免候選重複回推該題名段。"
+        },
+        {
+          "id": "yuanshao-excl-biao-liubei-benjing",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 22,
+          "term": "袁紹",
+          "quote": "劉備自袁紹奔荊州",
+          "reason": "此段主體為劉表晚年事（厚待劉備、表卒及冢見發異聞），袁紹僅見於「劉備自袁紹奔荊州」一句，言劉備行蹤起點，未述袁紹本人事實，排除。"
+        },
+        {
+          "id": "yuanshao-excl-biao-jie-shao",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 25,
+          "term": "袁紹",
+          "quote": "初，表之結袁紹也",
+          "reason": "此段主體為曹操定荊州後擢用劉表舊部，袁紹僅見於追敘「表之結袁紹」一句，言劉表結盟背景與鄧義諫阻，未述袁紹本人事實，排除。"
+        },
+        {
+          "id": "yuanshao-excl-ce-jian-shu-shao",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 22,
+          "term": "袁紹",
+          "quote": "謂袁紹為兾州牧，與黑山賊相連",
+          "reason": "此段主體為孫策諫袁術勿僭號之長書，袁紹僅為書中列舉河北異謀之一句，非袁紹本人史實，排除。"
         }
       ],
       "unresolved": [],
