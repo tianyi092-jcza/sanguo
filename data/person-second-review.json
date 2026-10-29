@@ -71558,6 +71558,36 @@
           "through": "權大恱，加淵爵位。",
           "citation": "《三國志·吳書二 吳主傳第二》所載",
           "note": "正文（吳主傳）：嘉禾元年冬十月，公孫淵遣宿舒、孫綜稱藩於孫權并獻貂馬，權大悅、加淵爵位。"
+        },
+        {
+          "id": "yuan-sg-zhengzhou-jiuyuan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 37,
+          "from": "後拜宣信校尉，往救公孫淵",
+          "through": "已為魏所破，還遷執金吾。",
+          "citation": "《三國志·吳書二 吳主傳第二》所載",
+          "note": "裴注（文士傳·鄭胄）：鄭胄拜宣信校尉，往救公孫淵，至時淵已為魏所破，胄還遷執金吾。"
+        },
+        {
+          "id": "yuan-sg-fengyanwang-shashi",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 6,
+          "from": "權以公孫淵稱藩，遣張彌、許晏至遼東拜淵為燕王",
+          "through": "淵果殺彌、晏。",
+          "citation": "《三國志·吳書七 張顧諸葛步傳第七 張昭傳》所載",
+          "note": "正文（張昭傳）：公孫淵稱藩，孫權遣張彌、許晏至遼東拜淵為燕王，張昭力諫不從，權卒遣之，淵果殺彌、晏。"
+        },
+        {
+          "id": "yuan-sg-xuezong-jianzheng",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 19,
+          "from": "時公孫淵降而復叛，權盛怒，欲自親征。",
+          "through": "時羣臣多諫，權遂不行。",
+          "citation": "《三國志·吳書八 張嚴程闞薛傳第八 薛綜傳》所載",
+          "note": "正文（薛綜傳）：公孫淵降而復叛，孫權盛怒欲自親征，薛綜上疏力諫，羣臣多諫，權遂不行。"
         }
       ],
       "exclusions": [],
