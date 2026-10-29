@@ -69716,6 +69716,15 @@
           "from": "瓚遣使具與紹書曰",
           "through": "而瓚之幸也。",
           "citation": "《三國志》卷六·袁紹傳"
+        },
+        {
+          "id": "zan-sgz-zhangyan-zhuzan-bai",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 21,
+          "from": "袁紹與公孫瓚爭兾州",
+          "through": "人衆稍散",
+          "citation": "《三國志》卷八·張燕傳"
         }
       ],
       "exclusions": [
@@ -69790,6 +69799,24 @@
           "term": "公孫瓚",
           "quote": "值公孫瓚之難，至河間，遇幽、兾二州交兵",
           "reason": "此段主敘臧洪使事受阻，瓚僅以「公孫瓚之難」作幽州交兵背景帶過，瓚與劉虞之爭已在他段錄入，排除。"
+        },
+        {
+          "id": "zan-excl-hong-shu-peizhu-zanbiao",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 21,
+          "term": "公孫瓚",
+          "quote": "臣松之案：公孫瓚表列紹罪過云：「紹與故虎牙將軍劉勳首共造兵，勳仍有效，而以小忿枉害於勳，紹罪七也。」",
+          "reason": "此段主敘臧洪與袁紹決裂之書，瓚僅於裴注中被引其表文作劉勳事佐證，非瓚本人事蹟，瓚與紹之爭已在他段錄入，排除。"
+        },
+        {
+          "id": "zan-excl-biaomu-gongsunzan",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 0,
+          "term": "公孫瓚",
+          "quote": "公孫瓚傳",
+          "reason": "此段僅為卷首傳目，無史實內容，排除。"
         }
       ],
       "conclusions": [],
