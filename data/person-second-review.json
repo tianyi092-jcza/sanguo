@@ -73324,6 +73324,39 @@
           "citation": "《後漢書·劉虞傳》",
           "context": "稍遷幽州刺史",
           "note": "正文層（本傳）：劉虞初舉孝廉，稍遷幽州刺史，民夷感其德化，鮮卑、烏桓、夫餘、穢貊皆隨時朝貢、無敢擾邊，百姓歌悅之。"
+        },
+        {
+          "id": "ly-hhs-liuyu-yuli-weizhu",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 4,
+          "from": "以虞宗室長者，欲立為主。",
+          "through": "上虞尊號。",
+          "citation": "《後漢書·劉虞傳》",
+          "context": "欲立為主",
+          "note": "正文層（本傳）：韓馥、袁紹及山東諸將以劉虞為宗室長者，欲立為主，遣故樂浪太守張岐等齎議，上虞尊號。"
+        },
+        {
+          "id": "ly-hhs-liuyu-ju-lingshangshu",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 4,
+          "from": "馥等又請虞領尚書事，承制封拜，復不聽。",
+          "through": "遂收斬使人。",
+          "citation": "《後漢書·劉虞傳》",
+          "context": "領尚書事",
+          "note": "正文層（本傳）：劉虞固拒立為主之後，馥等又請其領尚書事、承制封拜，復不聽，遂收斬使人。"
+        },
+        {
+          "id": "ly-hhs-liuyu-zan-enxin",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 12,
+          "from": "瓚志埽滅烏桓，",
+          "through": "由是與虞相忤。",
+          "citation": "《後漢書·劉虞傳》",
+          "context": "以恩信招降",
+          "note": "正文層（本傳）：公孫瓚志在掃滅烏桓，劉虞欲以恩信招降，由是與瓚相忤。"
         }
       ],
       "exclusions": [],
