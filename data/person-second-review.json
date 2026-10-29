@@ -72563,7 +72563,7 @@
     {
       "id": "p0099",
       "name": "陶謙",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "tq-hhs-yingshao-caosong",
@@ -73009,13 +73009,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "累計覆核 covered 39 段，錄正摘錄 31 條（《三國志》22、《後漢書》8、《華陽國志》1；裴注按既有規則分層另記），排除 11 條（他傳主角段落與背景提及為主），未解決 0 條。本輪向量候選 0 段（已枯竭），本傳 a04-008:8–10 已覆蓋，評曰段 27 已覆蓋，依收尾流程結案。",
+        "辨人：陶謙字恭祖，丹楊人；與同卷公孫瓚、張楊、公孫度、張燕、張繡、張魯及二子商、應、部將曹宏、闕宣等嚴格區分；「陶恭祖」為其字，單字命中均核實確指本人後方錄入。",
+        "勢力繫年：靈帝末至獻帝初為徐州刺史、牧，討黃巾、理徐州；初平四年太祖征徐州、彭城大戰兵敗退守剡，興平元年太祖復征時病死；始終為漢徐州一方，本傳與武帝紀、陳登傳等互證，不得記為曹操、袁術或呂布勢力。",
+        "生卒：生 132、卒興平元年（194）病死，本傳明載「是歲，謙病死」，二子商、應皆不仕。"
+      ]
     }
   ]
 }
