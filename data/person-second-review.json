@@ -75457,6 +75457,36 @@
           "through": "伐黃祖於江夏。",
           "citation": "《三國志·吳書十·董襲傳》所載",
           "note": "董襲傳載其從孫策討劉勳於尋陽、伐黃祖於江夏，為黃祖遭孫氏進攻的他傳記載。"
+        },
+        {
+          "id": "huangzu-sg-dongxi-jianan13-zhan",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 31,
+          "from": "建安十三年，權討黃祖。",
+          "through": "兵追斬之。",
+          "citation": "《三國志·吳書十·董襲傳》所載",
+          "note": "董襲傳載建安十三年孫權討黃祖，黃祖以蒙衝守沔口，董襲斷紲破之，黃祖開門走而為追兵所斬，為黃祖敗亡的他傳記載。"
+        },
+        {
+          "id": "huangzu-sg-ganning-tuo-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 34,
+          "from": "後轉託黃祖",
+          "through": "祖又以凡人畜之。",
+          "citation": "《三國志·吳書十·甘寧傳》所載",
+          "note": "甘寧傳正文載甘寧轉託黃祖，黃祖以凡人畜之，為黃祖不見用甘寧的他傳記載。"
+        },
+        {
+          "id": "huangzu-sg-ganning-jianyi-xianqu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 35,
+          "from": "宜先取黃祖",
+          "through": "其破可必。",
+          "citation": "《三國志·吳書十·甘寧傳》所載",
+          "note": "甘寧向孫權陳計，主張宜先取黃祖，並評其年老昏耄、財穀並乏、吏士心怨、舟船戰具頓廢，為甘寧獻策伐黃祖的他傳記載。"
         }
       ],
       "exclusions": [
