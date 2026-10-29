@@ -73773,6 +73773,38 @@
           "through": "都等皆散。",
           "citation": "《三國志·魏書一 武帝紀第一》所載",
           "note": "建安六年曹操南征劉備，劉備聞曹操親來，走奔劉表投靠，汝南共都等皆散。"
+        },
+        {
+          "id": "liubiao-sgz-wudi-zhengbiao-203",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 18,
+          "context": "八年春三月",
+          "from": "八月，公征劉表，",
+          "through": "軍西平。",
+          "citation": "《三國志·魏書一 武帝紀第一》所載",
+          "note": "建安八年八月，曹操征劉表，進軍西平。"
+        },
+        {
+          "id": "liubiao-sgz-wudi-biaozu-congjiang-208",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 23,
+          "context": "十三年春正月",
+          "from": "秋七月，公南征劉表。",
+          "through": "琮遂降，備走夏口。",
+          "citation": "《三國志·魏書一 武帝紀第一》所載",
+          "note": "建安十三年秋，曹操南征劉表；八月表卒，其子琮代屯襄陽；九月曹操到新野，琮降，劉備走夏口。"
+        },
+        {
+          "id": "liubiao-sgz-liubiao-licong",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 36,
+          "from": "初，表及妻愛少子琮，",
+          "through": "衆遂奉琮為嗣。",
+          "citation": "《三國志·魏書六 劉表傳》所載",
+          "note": "劉表與妻愛少子琮，欲立為後，蔡瑁、張允為其支黨，出長子琦為江夏太守，衆遂奉琮為嗣。"
         }
       ],
       "exclusions": [
