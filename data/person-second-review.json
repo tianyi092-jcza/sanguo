@@ -76379,6 +76379,36 @@
           "through": "建安三年，袁紹復大攻瓚",
           "citation": "《後漢書·卷七十三·劉虞傳》",
           "note": "建安三年袁紹再度大舉攻公孫瓚，瓚眾日蹙，退築三重營以自固。"
+        },
+        {
+          "id": "yuanshao-hhs-liuyu-guanjing-fu-shaojun",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 20,
+          "from": "關靖見瓚敗",
+          "through": "乃策馬赴紹軍而死",
+          "citation": "《後漢書·卷七十三·劉虞傳》",
+          "note": "公孫瓚敗後，關靖以陷人於危必同其難為言，策馬赴袁紹軍而死。此段記瓚敗後紹軍取勝之餘緒。"
+        },
+        {
+          "id": "yuanshao-hhs-yuanshao-zibenchu",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 1,
+          "from": "袁紹字本初",
+          "through": "司徒湯之孫",
+          "citation": "《後漢書·卷七十四·袁紹劉表列傳》",
+          "note": "袁紹字本初，汝南汝陽人，司徒袁湯之孫。此為後漢書袁紹傳開篇身份交代；袁山松書所載孽子出後之異說不在此條錄入。"
+        },
+        {
+          "id": "yuanshao-hhs-yuanshao-aishi-yangming",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 2,
+          "from": "紹有姿貌威容",
+          "through": "愛士養名",
+          "citation": "《後漢書·卷七十四·袁紹劉表列傳》",
+          "note": "袁紹有姿貌威容，愛士養名。此條記其服闋徙居洛陽後以養名結士之貌；英雄記所載不妄通賓客等細節不在此條錄入。"
         }
       ],
       "exclusions": [
