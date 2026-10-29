@@ -70801,6 +70801,33 @@
           "from": "遼東太守公孫度欲強用之",
           "through": "莫知所終。",
           "citation": "《晉書》卷四十四·李胤傳"
+        },
+        {
+          "id": "du-sg-liangmao",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 10,
+          "from": "公孫度在遼東，擅留茂，不遣之官",
+          "through": "然茂終不為屈。",
+          "citation": "《三國志·魏書十一·涼茂傳》"
+        },
+        {
+          "id": "du-sg-bingyuan-liaodong",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 24,
+          "from": "遼東太守公孫度畏惡欲殺之，盡收捕其家，政得脫。",
+          "through": "度告諸縣：「敢有藏政者與同罪。」",
+          "citation": "《三國志·魏書十一·邴原傳》"
+        },
+        {
+          "id": "du-sg-guanning",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 28,
+          "from": "聞公孫度令行於海外，遂與原及平原王烈等至于遼東。",
+          "through": "度虛館以候之。",
+          "citation": "《三國志·魏書十一·管寧傳》"
         }
       ],
       "exclusions": [
