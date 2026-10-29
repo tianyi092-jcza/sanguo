@@ -71010,6 +71010,33 @@
           "term": "遼西郡",
           "quote": "遼西郡秦置。",
           "reason": "僅遼西郡郡縣名錄、地名命中，段落未提及公孫度，非本人史實，排除。"
+        },
+        {
+          "id": "du-excl-017",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 0,
+          "term": "張遼傳",
+          "quote": "張遼傳",
+          "reason": "僅卷首篇題，無公孫度相關內容，向量誤命中，排除。"
+        },
+        {
+          "id": "du-excl-018",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 93,
+          "term": "遼東",
+          "quote": "列，水名。列水在遼東。",
+          "reason": "僅樂浪郡縣名錄中遼東地名注文命中，段落未提及公孫度，非本人史實，排除。"
+        },
+        {
+          "id": "du-excl-019",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 95,
+          "term": "遼西",
+          "quote": "昌遼，故天遼，屬遼西。",
+          "reason": "僅遼西郡縣名錄、地名命中，段落未提及公孫度，非本人史實，排除。"
         }
       ],
       "conclusions": [],
