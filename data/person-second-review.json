@@ -75192,6 +75192,53 @@
         "官渡中立與守成：太祖與袁紹相持於官渡，紹遣人求助，表許之而不至，亦不佐太祖，欲保江漢間觀天下變；從事中郎韓嵩、別駕劉先、大將蒯越皆勸擇所從，表狐疑遣嵩詣太祖觀虛實，嵩還陳太祖威德、勸遣子入質，表疑其懷貳欲斬，嵩直言「將軍負嵩，嵩不負將軍」；劉備奔表，表厚待之然不能用，備勸襲許，表不從。",
         "卒年與辨人：建安十三年（208）太祖征表，未至，表病死，卒年定為 208；表及妻愛少子琮欲立為後，蔡瑁、張允為其支黨，出長子琦為江夏太守，衆遂奉琮為嗣，身後諸子鼎峙；卷末評曰總評：表外寬內忌、好謀無決、有才不能用、聞善不能納，廢嫡立庶、舍禮崇愛，致後嗣顛蹙。辨人：與子琮、琦、妻蔡氏、蒯越、蔡瑁、韓嵩及同卷董卓、袁紹、袁術嚴格區分；單字「表」須核實確指本人。"
       ]
+    },
+    {
+      "id": "p0103",
+      "name": "黃祖",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "huangzu-hhs-liubiao-xiangyang",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 19,
+          "from": "會表將黃祖救至",
+          "through": "堅爲流箭所中死，餘衆退走。",
+          "citation": "《後漢書·劉表傳》所載",
+          "note": "劉表將黃祖救至襄陽，孫堅爲流箭所中死，餘衆退走。"
+        },
+        {
+          "id": "huangzu-hhs-liubiao-dianlue-xiangyang",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 19,
+          "from": "典略曰：「劉表夜遣將黃祖潛出兵",
+          "through": "祖部兵從竹木閒射堅，殺之。」",
+          "citation": "《後漢書·劉表傳》所載",
+          "note": "典略異說：劉表夜遣黃祖潛出兵，堅逆戰，祖敗走竄峴山中，堅乘勝夜追，爲祖部兵從竹木閒射殺；與正文救至襄陽之說分層另記，不合併。"
+        },
+        {
+          "id": "huangzu-hhs-liubiao-jiangxia-death",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 23,
+          "from": "會表將江夏太守黃祖爲孫權所殺",
+          "through": "琦遂求代其任。",
+          "citation": "《後漢書·劉表傳》所載",
+          "note": "江夏太守黃祖爲孫權所殺，劉琦遂求代其任。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
