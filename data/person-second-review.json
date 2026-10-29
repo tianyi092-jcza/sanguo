@@ -73648,6 +73648,37 @@
           "citation": "《後漢書·趙岐傳》所載",
           "context": "興平元年",
           "note": "趙岐南說劉表，表遣兵詣洛陽助修宮室，軍資委輸前後不絕。"
+        },
+        {
+          "id": "liubiao-hhs-kongrong-jiaoji",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 17,
+          "from": "竊聞領荊州牧劉表桀逆放恣",
+          "through": "至乃郊祭天地，擬儀社稷。",
+          "citation": "《後漢書·孔融傳》所載",
+          "note": "孔融上疏言劉表桀逆放恣，所為不軌，至乃郊祭天地，擬儀社稷。"
+        },
+        {
+          "id": "liubiao-hhs-xunyu-nanzheng",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 38,
+          "from": "自欲南征劉表，以計問彧。",
+          "through": "而欲遠兵江漢，",
+          "citation": "《後漢書·荀彧傳》所載",
+          "context": "六年",
+          "note": "曹操欲南征劉表而問荀彧，彧言紹新敗未定，不宜遠兵江漢。"
+        },
+        {
+          "id": "liubiao-hhs-xunyu-wanye",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 40,
+          "from": "操將伐劉表，問彧所策。",
+          "through": "以掩其不意。",
+          "citation": "《後漢書·荀彧傳》所載",
+          "note": "荀彧為曹操伐劉表獻策：聲出宛、葉而閒行輕進，以掩其不意。"
         }
       ],
       "exclusions": [
