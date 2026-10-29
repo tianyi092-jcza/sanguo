@@ -70738,7 +70738,35 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "du-hhs-xiebi",
+          "work": "houhanshu",
+          "source": "a03-057",
+          "paragraph": 41,
+          "from": "建寧二年，詔舉有道之士",
+          "through": "皆除郎中。",
+          "citation": "《後漢書·謝弼傳》"
+        },
+        {
+          "id": "du-hhs-bingyuan",
+          "work": "houhanshu",
+          "source": "a03-081",
+          "paragraph": 91,
+          "from": "太守公孫度接以昆弟之禮",
+          "through": "太守公孫度接以昆弟之禮",
+          "citation": "《後漢書·邴原傳》"
+        },
+        {
+          "id": "du-sg-biography",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 14,
+          "from": "公孫度字升濟",
+          "through": "威行海外。",
+          "citation": "《三國志·魏書八·公孫度傳》"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
