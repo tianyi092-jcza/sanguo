@@ -73740,6 +73740,39 @@
           "through": "術引軍入陳留，屯封丘，",
           "citation": "《三國志·魏書一 武帝紀第一》所載",
           "note": "劉表斷袁術糧道，術引軍入陳留屯封丘；此為劉表阻袁術北進的一節，記於武帝紀。"
+        },
+        {
+          "id": "liubiao-sgz-wudi-xiubiao-he",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 11,
+          "context": "二年春正月",
+          "from": "繡奔穰，與劉表合。",
+          "through": "繡奔穰，與劉表合。",
+          "citation": "《三國志·魏書一 武帝紀第一》所載",
+          "note": "建安二年張繡降而復反，為曹操所敗，奔穰與劉表合；此為張繡投靠劉表、結為同盟的一節。"
+        },
+        {
+          "id": "liubiao-sgz-wudi-jiuxiu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "context": "三年春正月",
+          "from": "夏五月，劉表遣兵救繡，以絕軍後。",
+          "through": "夏五月，劉表遣兵救繡，以絕軍後。",
+          "citation": "《三國志·魏書一 武帝紀第一》所載",
+          "note": "建安三年曹操圍張繡於穰，劉表遣兵救繡以絕曹操軍後，曹操遂解繡圍。"
+        },
+        {
+          "id": "liubiao-sgz-wudi-liubei-ben",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 16,
+          "context": "六年夏四月",
+          "from": "備聞公自行，走奔劉表，",
+          "through": "都等皆散。",
+          "citation": "《三國志·魏書一 武帝紀第一》所載",
+          "note": "建安六年曹操南征劉備，劉備聞曹操親來，走奔劉表投靠，汝南共都等皆散。"
         }
       ],
       "exclusions": [
