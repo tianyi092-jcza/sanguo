@@ -69763,6 +69763,33 @@
           "term": "公孫瓚",
           "quote": "討公孫瓚，彊禦桀逆，拒圍一年",
           "reason": "此為魏氏春秋所載袁紹檄文（陳琳之辭）中的指控之語，非紀事正文；所述紹圍瓚一年及瓚敗亡已在他段錄入，排除。"
+        },
+        {
+          "id": "zan-excl-feng-xingzhuang-pingzan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 23,
+          "term": "公孫瓚",
+          "quote": "紹後用豐謀，以平公孫瓚",
+          "reason": "此段主敘田豐諫紹事，瓚僅見於先賢行狀一句帶過；紹平瓚之經過已在他段錄入，排除。"
+        },
+        {
+          "id": "zan-excl-bu-zhaoshu-goubu",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 9,
+          "term": "公孫瓚",
+          "quote": "并詔書購捕公孫瓚、袁術、韓暹、楊奉等",
+          "reason": "此段主敘呂布與袁術絕婚、朝廷拜布事，瓚僅見於詔書購捕名單中列名，無其本人事蹟，排除。"
+        },
+        {
+          "id": "zan-excl-hong-zannan-beijing",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 18,
+          "term": "公孫瓚",
+          "quote": "值公孫瓚之難，至河間，遇幽、兾二州交兵",
+          "reason": "此段主敘臧洪使事受阻，瓚僅以「公孫瓚之難」作幽州交兵背景帶過，瓚與劉虞之爭已在他段錄入，排除。"
         }
       ],
       "conclusions": [],
