@@ -75717,6 +75717,36 @@
           "through": "董卓舉為兾州牧。",
           "citation": "《三國志·武帝紀》所載",
           "note": "裴注英雄記分層另記：韓馥字文節，潁川人，為御史中丞，董卓舉為冀州牧；與正文不合併。"
+        },
+        {
+          "id": "hanfu-hhs-wuxing-hanfu-yuanshu-shu",
+          "work": "houhanshu",
+          "source": "a03-108",
+          "paragraph": 78,
+          "from": "吳書載韓馥與袁術書曰：",
+          "through": "凶出於代郡。」",
+          "citation": "《後漢書·五行志》所載",
+          "note": "吳書所載韓馥致袁術書，言凶兆出於代郡；僅錄此書信一節，不與正文災異敘事合併。"
+        },
+        {
+          "id": "hanfu-sgz-wudi-lianjun-zaiye",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 4,
+          "from": "術屯南陽，",
+          "through": "馥在鄴。",
+          "citation": "《三國志·武帝紀》所載",
+          "note": "初平元年討董聯軍屯駐：袁術屯南陽、韓馥在鄴；同段謀立劉虞一節已於後漢書劉虞傳條錄入，本條僅錄屯駐。"
+        },
+        {
+          "id": "hanfu-sgz-wudi-shaoxie-fu-qujizhou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 5,
+          "from": "秋七月，袁紹脅韓馥，",
+          "through": "取兾州。",
+          "citation": "《三國志·武帝紀》所載",
+          "note": "初平二年秋七月，袁紹脅韓馥取冀州；讓州過程詳見後漢書袁紹傳諸條，本條錄武帝紀繫年。"
         }
       ],
       "exclusions": [],
