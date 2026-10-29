@@ -69201,6 +69201,33 @@
           "term": "張燕",
           "quote": "巴西太守張燕帥牙門武肇",
           "reason": "華陽國志所載永嘉元年巴西太守張燕討鄧定事，與晉書所載同一人同一事，非三國黑山張燕，同名異人，排除。"
+        },
+        {
+          "id": "zhangyan-excl-a04-008-17-yanwang",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 17,
+          "term": "燕王",
+          "quote": "立淵為燕王",
+          "reason": "此段為公孫淵遣使通吳、吳立淵為燕王及淵自立為燕王事，燕指燕王封號與公孫淵，非黑山張燕；係向量本傳單字燕誤命中，排除。"
+        },
+        {
+          "id": "zhangyan-excl-a03-048-46-caochengxiang",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 46,
+          "term": "曹操",
+          "quote": "使持節拜曹操為丞相",
+          "reason": "此段僅記拜曹操為丞相及相讓事，段中無張燕其人其事；係向量以官渡歸曹操事件誤匹配，排除。"
+        },
+        {
+          "id": "zhangyan-excl-a04-018-2-guandu",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 2,
+          "term": "官渡",
+          "quote": "時太祖與袁紹相拒官渡，典率宗族及部曲輸穀帛供軍",
+          "reason": "此段為李典於官渡輸穀帛供軍、黎陽運糧等事，段中無張燕其人其事；係向量以官渡歸曹操事件誤匹配，排除。"
         }
       ],
       "unresolved": [],
