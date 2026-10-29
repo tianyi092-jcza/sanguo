@@ -73253,6 +73253,22 @@
         "卒年：初平三年（192）青州黃巾入兗州，不從鮑信固守之諫而出戰，為黃巾所殺於東平；《三國志·武帝紀》與《後漢書·孝獻帝紀》互證，卒年定為192。",
         "辨人：建安五年（200）曹操遣劉岱、王忠事（武帝紀、袁紹傳、先主傳及華陽國志重述）與晉書霍原父友廣陽劉岱皆為同名異人，已排除；裴注「岱，劉繇之兄」等注文與正文分層，不併入正文摘錄。"
       ]
+    },
+    {
+      "id": "p0101",
+      "name": "劉虞",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
