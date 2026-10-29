@@ -69653,6 +69653,24 @@
           "from": "四年春，擊公孫瓚",
           "through": "事在瓚傳。",
           "citation": "《後漢書》卷七十四上·袁紹傳"
+        },
+        {
+          "id": "zan-hhs-shao-xi-weizhan-yinian",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 32,
+          "from": "往歲伐鼓北征，討公孫瓚",
+          "through": "拒圍一年。",
+          "citation": "《後漢書》卷七十四上·袁紹傳"
+        },
+        {
+          "id": "zan-hhs-shu-zan-liubei-bishao",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 20,
+          "from": "公孫瓚使劉備與術合謀共逼紹",
+          "through": "皆破之。",
+          "citation": "《後漢書》卷七十五·袁術傳"
         }
       ],
       "exclusions": [
@@ -69682,6 +69700,15 @@
           "term": "公孫瓚",
           "quote": "非公孫瓚坐受圍者也",
           "reason": "沮授諫袁紹時的比況之語，僅借瓚坐受圍作反襯曹氏士卒精練，未記公孫瓚具體事實，排除。"
+        },
+        {
+          "id": "zan-excl-shao-hhs-beibi-zhishi",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 30,
+          "term": "公孫瓚",
+          "quote": "北鄙之儆謂公孫瓚攻紹也",
+          "reason": "注文釋「北鄙之警」所指，僅一句帶過瓚攻紹，未記具體戰事，且瓚與紹之戰已在他段錄入，排除。"
         }
       ],
       "conclusions": [],
