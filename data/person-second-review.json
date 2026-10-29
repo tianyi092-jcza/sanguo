@@ -75427,6 +75427,36 @@
           "through": "進攻黃祖於沙羨，還鎮石城。",
           "citation": "《三國志·吳書·程普黃蓋韓當傳·程普傳》所載",
           "note": "程普從討劉勳於尋陽後進攻黃祖於沙羨，隨後還鎮石城；為建安四年沙羨之役的程普傳視角。"
+        },
+        {
+          "id": "huangzu-sg-handang-po-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 11,
+          "from": "從征劉勳，破黃祖",
+          "through": "還討鄱陽",
+          "citation": "《三國志·吳書·程普黃蓋韓當傳·韓當傳》所載",
+          "note": "韓當傳載其從征劉勳、破黃祖，為黃祖遭孫氏將領進攻的他傳記載。"
+        },
+        {
+          "id": "huangzu-sg-zhoutai-tao-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 20,
+          "from": "從討黃祖有功",
+          "through": "從討黃祖有功。",
+          "citation": "《三國志·吳書十·周泰傳》所載",
+          "note": "周泰傳載其從討黃祖有功，為黃祖遭孫氏將領進攻的他傳記載。"
+        },
+        {
+          "id": "huangzu-sg-dongxi-fa-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 28,
+          "from": "又討劉勳於尋陽",
+          "through": "伐黃祖於江夏。",
+          "citation": "《三國志·吳書十·董襲傳》所載",
+          "note": "董襲傳載其從孫策討劉勳於尋陽、伐黃祖於江夏，為黃祖遭孫氏進攻的他傳記載。"
         }
       ],
       "exclusions": [
