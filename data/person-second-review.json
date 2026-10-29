@@ -75397,6 +75397,36 @@
           "through": "生虜龍送吳。",
           "citation": "《三國志·吳書·周瑜傳》所載",
           "note": "建安十一年，江夏太守黃祖遣將鄧龍將兵數千人入柴桑，周瑜追討擊之，生擒鄧龍送吳。"
+        },
+        {
+          "id": "huangzu-sg-lusu-ce-chuzu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 16,
+          "from": "因其多務，勦除黃祖，進伐劉表",
+          "through": "據而有之",
+          "citation": "《三國志·吳書·周瑜魯肅呂蒙傳·魯肅傳》所載",
+          "note": "魯肅向孫權獻策，趁北方多務勦除黃祖、進伐劉表，據長江而有之；此為孫氏討祖戰略的提出，非黃祖本人行事。"
+        },
+        {
+          "id": "huangzu-sg-lvmeng-jianan13-chenjiu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 28,
+          "from": "從征黃祖，祖令都督陳就逆以水軍出戰",
+          "through": "兵追禽之。",
+          "citation": "《三國志·吳書·周瑜魯肅呂蒙傳·呂蒙傳》所載",
+          "note": "建安十三年孫權征黃祖，呂蒙勒前鋒親梟都督陳就首，吳軍乘勝攻城，黃祖棄城走、被追禽；為吳主傳所載黃祖之死的呂蒙傳視角細節。"
+        },
+        {
+          "id": "huangzu-sg-chengpu-shaxian",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 2,
+          "from": "從討劉勳於尋陽",
+          "through": "進攻黃祖於沙羨，還鎮石城。",
+          "citation": "《三國志·吳書·程普黃蓋韓當傳·程普傳》所載",
+          "note": "程普從討劉勳於尋陽後進攻黃祖於沙羨，隨後還鎮石城；為建安四年沙羨之役的程普傳視角。"
         }
       ],
       "exclusions": [
