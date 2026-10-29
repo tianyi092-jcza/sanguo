@@ -69698,6 +69698,24 @@
           "from": "袁術與紹有隙，術求援於公孫瓚",
           "through": "以逼紹。",
           "citation": "《三國志》卷一·武帝紀"
+        },
+        {
+          "id": "zan-sgz-wudiji-shao-bing-zan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "from": "是時袁紹旣并公孫瓚",
+          "through": "將進軍攻許，",
+          "citation": "《三國志》卷一·武帝紀"
+        },
+        {
+          "id": "zan-sgz-yuanshao-hejie-shu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 19,
+          "from": "瓚遣使具與紹書曰",
+          "through": "而瓚之幸也。",
+          "citation": "《三國志》卷六·袁紹傳"
         }
       ],
       "exclusions": [
@@ -69736,6 +69754,15 @@
           "term": "公孫瓚",
           "quote": "北鄙之儆謂公孫瓚攻紹也",
           "reason": "注文釋「北鄙之警」所指，僅一句帶過瓚攻紹，未記具體戰事，且瓚與紹之戰已在他段錄入，排除。"
+        },
+        {
+          "id": "zan-excl-shao-xiwen-tao-zan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 21,
+          "term": "公孫瓚",
+          "quote": "討公孫瓚，彊禦桀逆，拒圍一年",
+          "reason": "此為魏氏春秋所載袁紹檄文（陳琳之辭）中的指控之語，非紀事正文；所述紹圍瓚一年及瓚敗亡已在他段錄入，排除。"
         }
       ],
       "conclusions": [],
