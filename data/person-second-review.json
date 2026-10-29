@@ -68996,6 +68996,22 @@
         "勢力繫年：初以武勇給并州為武猛從事，歷丁原、何進麾下；董卓亂後據河內，曾與袁紹合，獻帝東歸時迎駕、繕治洛宮、拜安國將軍、大司馬，據河內自成一方而非袁紹或曹操附庸；曾收留呂布、與曹操往來通上事。死後河內先屬袁紹，旋歸曹操，各階段分開標記，未整段一刀切。",
         "生卒：生年未詳，本傳未載；死於部將楊醜之手，惟繫年兩書互異——《三國志·武帝紀》繫於建安四年春二月條下，《後漢書·孝獻帝紀》作建安三年冬十一月「盜殺大司馬張楊」，暫存異說，不強定一年。"
       ]
+    },
+    {
+      "id": "p0095",
+      "name": "張燕",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
