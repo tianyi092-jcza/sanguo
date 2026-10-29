@@ -69761,6 +69761,33 @@
           "from": "公孫瓚使豫守東州令",
           "through": "瓚雖知豫有權謀而不能任也",
           "citation": "《三國志》卷二十六·田豫傳"
+        },
+        {
+          "id": "zan-sgz-xianzhu-luzhi-tongxue",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 1,
+          "from": "年十五，母使行學，與同宗劉德然、遼西公孫瓚俱事故九江太守同郡盧植",
+          "through": "先主以兄事之",
+          "citation": "《三國志》卷三十二·先主傳"
+        },
+        {
+          "id": "zan-sgz-zhaoyun-benshu-zan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 21,
+          "from": "本屬公孫瓚",
+          "through": "為先主主騎",
+          "citation": "《三國志》卷三十六·趙雲傳"
+        },
+        {
+          "id": "zan-sgz-zhaoyun-biezhuan-yi-zan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 21,
+          "from": "雲別傳曰：雲身長八尺，姿顏雄偉，為本郡所舉，將義從吏兵詣公孫瓚",
+          "through": "雲辭曰：「終不背德也。」",
+          "citation": "《三國志》卷三十六·趙雲傳"
         }
       ],
       "exclusions": [
