@@ -71253,6 +71253,33 @@
           "term": "平康夷",
           "quote": "是歲，汶山平康夷反，維往討，破平之。",
           "reason": "此段為姜維討汶山平康夷事，未提及公孫度，向量誤配，排除。"
+        },
+        {
+          "id": "du-excl-044",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 31,
+          "term": "羌維",
+          "quote": "正始元年，蜀將羌維出隴西。",
+          "reason": "此段為郭淮追姜維、撫柔氐事，未提及公孫度，向量誤配，排除。"
+        },
+        {
+          "id": "du-excl-045",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 16,
+          "term": "王平傳",
+          "quote": "王平傳",
+          "reason": "此段僅為王平傳小傳標題，無正文內容，未提及公孫度，向量誤配，排除。"
+        },
+        {
+          "id": "du-excl-046",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 162,
+          "term": "西平郡",
+          "quote": "西平郡漢置。統縣四，戶四千。",
+          "reason": "此段為晉書地理志西平郡郡國目，未提及公孫度，向量誤配，排除。"
         }
       ],
       "conclusions": [],
