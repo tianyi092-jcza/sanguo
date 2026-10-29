@@ -69282,6 +69282,33 @@
           "term": "關羽",
           "quote": "權討關羽，欽督水軍入沔",
           "reason": "此段為欽督水軍入沔、道病卒及子壹領兵、弟休領兵事，段中無張燕其人其事；係向量以官渡歸曹操事件誤匹配，排除。"
+        },
+        {
+          "id": "zhangyan-excl-a05-114-30-murongchui",
+          "work": "jinshu",
+          "source": "a05-114-ahcb",
+          "paragraph": 30,
+          "term": "慕容垂",
+          "quote": "慕容垂復圍鄴城",
+          "reason": "此段為慕容垂復圍鄴城、朝廷遣劉牢之等救鄴事，段中無張燕其人其事；係向量以官渡歸曹操事件誤匹配，排除。"
+        },
+        {
+          "id": "zhangyan-excl-a05-005-8-guandu",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 8,
+          "term": "官渡",
+          "quote": "東海王越進屯官渡",
+          "reason": "此段為東海王越進屯官渡以討汲桑及琅邪王睿鎮建鄴事，段中無張燕其人其事；係向量以官渡歸曹操事件誤匹配，排除。"
+        },
+        {
+          "id": "zhangyan-excl-a04-047-12-sunquan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 12,
+          "term": "孫權",
+          "quote": "十八年正月，曹公攻濡須",
+          "reason": "此段為建安十八年曹公攻濡須、孫權相拒事，段中無張燕其人其事；係向量以官渡歸曹操事件誤匹配，排除。"
         }
       ],
       "unresolved": [],
