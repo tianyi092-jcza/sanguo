@@ -72564,8 +72564,41 @@
       "id": "p0099",
       "name": "陶謙",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "tq-hhs-yingshao-caosong",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 26,
+          "from": "興平元年，前太尉曹嵩及子德從琅邪入太山",
+          "through": "並殺之於郡界。",
+          "citation": "《後漢書·應劭傳》所載",
+          "context": "興平元年",
+          "note": "正文層：徐州牧陶謙素怨曹操數擊之，興平元年使輕騎追殺自琅邪入太山的前太尉曹嵩及其子曹德於郡界。此事為曹操東征徐州之直接起因，屬陶謙本人決策之事迹。"
+        },
+        {
+          "id": "tq-hhs-xunyu-dongji",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 31,
+          "from": "興平元年，操東擊陶謙",
+          "through": "使彧守甄城",
+          "citation": "《後漢書·荀彧傳》所載",
+          "context": "興平元年",
+          "note": "正文層：興平元年曹操東擊陶謙，留荀彧守甄城。段內陶謙為被征對象，僅記東擊之繫年與起手，不與荀彧守城、郭貢來見等後續情節合併。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "taoqian-excl-001",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 30,
+          "term": "陶謙",
+          "quote": "曹操東擊陶謙",
+          "reason": "呂布傳附張邈段：段落主述陳宮說張邈迎呂布據兖州，陶謙僅以「曹操東擊陶謙」一句交代兖州空虛之背景；同年東擊事已另錄荀彧傳 excerpt，本段無陶謙本人新事迹，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
