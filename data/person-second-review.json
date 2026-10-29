@@ -76209,6 +76209,36 @@
           "through": "何足道哉！",
           "citation": "《後漢書·卷六十九·何進傳》",
           "note": "袁紹再勸何進：引竇武泄言致害為戒，謂今將軍兄弟並領勁兵、事在掌握，正宜一舉為天下除患。"
+        },
+        {
+          "id": "yuanshao-hhs-hejin-sili-xiaowei",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 25,
+          "from": "紹懼進變計，乃脅之曰",
+          "through": "詐宣進意，使捕案中官親屬。",
+          "citation": "《後漢書·卷六十九·何進傳》",
+          "note": "何進猶疑未決，袁紹脅之速斷，遂拜司隸校尉、假節專命擊斷，並促董卓等馳驛上，又詐宣何進之意告諸州郡捕案中官親屬。"
+        },
+        {
+          "id": "yuanshao-hhs-hejin-hou-beigong-sha-huan",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 29,
+          "from": "袁紹與叔父隗矯詔召樊陵、許相，斬之。",
+          "through": "死者二千餘人。",
+          "citation": "《後漢書·卷六十九·何進傳》",
+          "note": "何進遇害後，袁紹與叔父袁隗矯詔斬樊陵、許相，繼而閉北宮門、勒兵捕殺宦者，死者二千餘人。"
+        },
+        {
+          "id": "yuanshao-hhs-zhengtai-bohai-taishou",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 3,
+          "from": "公業等與侍中伍瓊、卓長史何顒共說卓",
+          "through": "以袁紹為勃海太守，以發山東之謀。",
+          "citation": "《後漢書·卷七十·鄭太傳》",
+          "note": "何進遇害、董卓作亂後，鄭太（公業）等說董卓以袁紹為勃海太守，以發山東起兵之謀。"
         }
       ],
       "exclusions": [
