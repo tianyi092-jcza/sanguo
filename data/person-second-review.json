@@ -73626,8 +73626,41 @@
       "id": "p0102",
       "name": "劉表",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "liubiao-hhs-xiandi-xiangyang",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "from": "袁術遣將孫堅攻劉表於襄陽",
+          "through": "堅戰歿。",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "三年春正月丁丑",
+          "note": "袁術遣孫堅攻劉表於襄陽，堅戰歿。"
+        },
+        {
+          "id": "liubiao-hhs-zhaoqi-luoyang",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 37,
+          "from": "歧至，劉表即遣兵詣洛陽助修宮室",
+          "through": "軍資委輸，前後不絕。",
+          "citation": "《後漢書·趙岐傳》所載",
+          "context": "興平元年",
+          "note": "趙岐南說劉表，表遣兵詣洛陽助修宮室，軍資委輸前後不絕。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "liubiao-excl-001",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 39,
+          "term": "劉表",
+          "quote": "後許汜與劉備並在荊州牧劉表坐，備共論天下人",
+          "reason": "陳球傳記陳瑀、陳珪、陳登事；劉表僅以「荊州牧劉表坐」作許汜、劉備論人之座主出現，所記論陳元龍者為許汜、劉備，非劉表本人事迹，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
