@@ -75889,7 +75889,38 @@
       "id": "p0105",
       "name": "袁紹",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yuanshao-hhs-lingdi-xiyuan-note",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 21,
+          "from": "樂資山陽公載記曰：「小黃門蹇碩為上軍校尉，虎賁中郎將袁紹為中軍校尉",
+          "through": "凡八校，皆統於蹇碩。」",
+          "citation": "《後漢書·卷八·孝靈帝紀第八》",
+          "note": "靈帝紀載八月初置西園八校尉，注引山陽公載記：虎賁中郎將袁紹為中軍校尉，八校皆統於蹇碩。此為注文層級，與本紀正文分層，不併入正文。"
+        },
+        {
+          "id": "yuanshao-hhs-lingdi-zhuhuan",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 24,
+          "from": "司隷校尉袁紹勒兵收偽司隷校尉樊陵、河南尹許相及諸閹人",
+          "through": "無少長皆斬之。",
+          "citation": "《後漢書·卷八·孝靈帝紀第八》",
+          "note": "何進遇害後，司隷校尉袁紹勒兵收偽司隷校尉樊陵、河南尹許相及諸閹人，無少長皆斬之；同段袁隗為太傅句與此分開，叔父與本人不串人。"
+        },
+        {
+          "id": "yuanshao-hhs-xiandi-zhushu",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 3,
+          "from": "戊午，董卓殺太傅袁隗、太僕袁基，夷其族。",
+          "through": "卓以山東兵起，依紹、術為主，故誅其親屬。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "note": "初平元年，董卓以山東兵起、依袁紹與袁術為主為由，殺太傅袁隗、太僕袁基並夷其族；段內釋隗為紹之叔父、基為袁術母兄，叔父與本人分開，不串人。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
