@@ -69851,6 +69851,15 @@
           "from": "是歲，瓚破禽劉虞，盡有幽州之地",
           "through": "瓚自以為易地當之，遂徙鎮焉。",
           "citation": "《後漢書》卷七十三·公孫瓚傳"
+        },
+        {
+          "id": "zan-hhs-baima-yicong",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 11,
+          "from": "瓚常與善射之士數十人，皆乘白馬，以為左右翼，自號「白馬義從」。",
+          "through": "虜自此之後，遂遠竄塞外。",
+          "citation": "《後漢書》卷七十三·公孫瓚傳"
         }
       ],
       "exclusions": [
@@ -70492,6 +70501,24 @@
           "term": "度遼將軍",
           "quote": "明帝初置度遼將軍",
           "reason": "《後漢書》此段述度遼將軍之設置沿革，全段未提及瓚本人，與瓚之白馬義從無關，係向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-bai-taifuren",
+          "work": "houhanshu",
+          "source": "a03-010a-ahcb",
+          "paragraph": 16,
+          "term": "白太夫人",
+          "quote": "白太夫人絕竇氏婚",
+          "reason": "《後漢書》此段述馬援家事與馬后入宮，全段未提及瓚本人，「白」為太夫人之姓，與瓚之白馬義從無關，係向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-marong",
+          "work": "houhanshu",
+          "source": "a03-060a",
+          "paragraph": 1,
+          "term": "馬融",
+          "quote": "馬融字季長，扶風茂陵人也",
+          "reason": "《後漢書》此段為馬融傳開篇，述其家世師承，全段未提及瓚本人，與瓚之白馬義從無關，係「馬」字向量誤命中，排除。"
         }
       ],
       "conclusions": [],
