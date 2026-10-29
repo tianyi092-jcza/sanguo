@@ -69979,6 +69979,33 @@
           "term": "公孫瓚",
           "quote": "公孫瓚炰烋北幽",
           "reason": "孫策致袁術書中列舉天下群雄形勢，瓚僅與曹操、劉表、劉繇、劉備並列提及，無本人具體事蹟，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-junguo-youzhou-bushu",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 96,
+          "term": "幽州",
+          "quote": "右幽州刺史部，郡、國十一，縣、邑、侯國九十。",
+          "reason": "《後漢書》郡國志幽州部總述，僅言幽州部郡縣建置，未提及瓚本人、無其事蹟，係地名加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-dili-youzhou-fenxing",
+          "work": "jinshu",
+          "source": "a05-011-ahcb",
+          "paragraph": 110,
+          "term": "幽州",
+          "quote": "尾、箕，燕，幽州：",
+          "reason": "《晉書》地理志幽州分星述語，僅言幽州分野，未提及瓚本人、無其事蹟，係地名加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-dili-youzhou-yange",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 68,
+          "term": "幽州",
+          "quote": "幽州。桉禹貢冀州之域，舜置十二牧，則其一也。",
+          "reason": "《晉書》地理志幽州沿革總述，自禹貢至晉言建置分合，未提及瓚本人、無其事蹟，係地名加權誤命中，排除。"
         }
       ],
       "conclusions": [],
