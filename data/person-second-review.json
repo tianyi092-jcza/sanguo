@@ -69062,6 +69062,36 @@
           "through": "則張燕可滅；",
           "citation": "《後漢書·袁紹傳》",
           "note": "沮授向袁紹進言定河北之策：舉軍東向則黃巾可埽，還討黑山則張燕可滅，把黑山張燕列為袁紹北定河北須先除的對象。"
+        },
+        {
+          "id": "zhangyan-hhs-yuanshao-changshan-battle",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 14,
+          "from": "遂與黑山賊張燕及四營屠各、鴈門烏桓戰於常山。",
+          "through": "遂各退。",
+          "citation": "《後漢書·袁紹傳》",
+          "note": "袁紹討平黑山諸賊屯壁後，與張燕及四營屠各、鴈門烏桓戰於常山，連戰十餘日，燕兵死傷雖多、紹軍亦疲，遂各退。正文層，與同段注文層分開錄入。"
+        },
+        {
+          "id": "zhangyan-sgz-wudi-surrender",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 20,
+          "from": "夏四月，黑山賊張燕率其衆十餘萬降，",
+          "through": "黑山賊張燕率其衆十餘萬降，封為列侯。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安十年夏四月，黑山賊張燕率其衆十餘萬降，封為列侯。此為三國志本紀正文層，與後漢書獻帝紀所載同年降附事分源並錄。"
+        },
+        {
+          "id": "zhangyan-sgz-yuanshao-jushou-advice",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 19,
+          "from": "舉軍東向，則青州可定；",
+          "through": "還討黑山，則張燕可滅；",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "沮授向袁紹進言定河北之策：舉軍東向則青州可定，還討黑山則張燕可滅，把黑山張燕列為袁紹須先除的對象。正文層，與後漢書袁紹傳所載同策異文分源並錄。"
         }
       ],
       "exclusions": [],
