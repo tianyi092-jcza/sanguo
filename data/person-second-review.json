@@ -76179,6 +76179,36 @@
           "through": "又有左右校尉。",
           "citation": "《後漢書·卷六十九·何進傳》",
           "note": "中平五年置西園八校尉，袁紹以虎賁中郎將為中軍校尉；何進傳正文，與靈帝紀注引山陽公載記所載互證。"
+        },
+        {
+          "id": "yuanshao-hhs-hejin-dongji-xuyan",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 18,
+          "from": "進陰知其謀",
+          "through": "以稽行期。",
+          "citation": "《後漢書·卷六十九·何進傳》",
+          "note": "蹇碩謀遣何進西擊邊章、韓遂，何進反請遣袁紹東擊徐兗二州兵，待紹還再議軍事，以拖延行期。"
+        },
+        {
+          "id": "yuanshao-hhs-hejin-qingxuan-chuhuan",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 21,
+          "from": "將軍宜更清選賢良",
+          "through": "為國家除患。",
+          "citation": "《後漢書·卷六十九·何進傳》",
+          "note": "袁紹託何進親客張津勸何進清選賢良、整齊天下，為國家除中官之患。"
+        },
+        {
+          "id": "yuanshao-hhs-hejin-tianzanshi-chuhuan",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 23,
+          "from": "袁紹復說進曰",
+          "through": "何足道哉！",
+          "citation": "《後漢書·卷六十九·何進傳》",
+          "note": "袁紹再勸何進：引竇武泄言致害為戒，謂今將軍兄弟並領勁兵、事在掌握，正宜一舉為天下除患。"
         }
       ],
       "exclusions": [
