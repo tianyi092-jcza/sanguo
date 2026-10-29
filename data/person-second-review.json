@@ -76349,6 +76349,36 @@
           "through": "和後從袁紹報瓚",
           "citation": "《後漢書·卷七十三·劉虞傳》",
           "note": "劉和後來跟從袁紹報復公孫瓚。此段記劉和歸附袁紹、參與對瓚之報復。"
+        },
+        {
+          "id": "yuanshao-hhs-liuyu-zan-ju-bing-gong-shao",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "遂舉兵攻紹，於是兾州諸城悉畔從瓚",
+          "through": "遂舉兵攻紹，於是兾州諸城悉畔從瓚",
+          "citation": "《後漢書·卷七十三·劉虞傳》",
+          "note": "公孫瓚因從弟越之死怒紹，上疏列紹十罪後舉兵攻紹，於是冀州諸城悉畔從瓚。"
+        },
+        {
+          "id": "yuanshao-hhs-liuyu-quyi-he-bing-po-zan",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 16,
+          "from": "與袁紹將麴義合兵十萬，共攻瓚",
+          "through": "興平二年，破瓚於鮑丘",
+          "citation": "《後漢書·卷七十三·劉虞傳》",
+          "note": "劉虞舊部鮮于輔等與袁紹將麴義合兵十萬共攻公孫瓚，興平二年破瓚於鮑丘。"
+        },
+        {
+          "id": "yuanshao-hhs-liuyu-jianan3-fu-da-gong-zan",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 18,
+          "from": "建安三年，袁紹復大攻瓚",
+          "through": "建安三年，袁紹復大攻瓚",
+          "citation": "《後漢書·卷七十三·劉虞傳》",
+          "note": "建安三年袁紹再度大舉攻公孫瓚，瓚眾日蹙，退築三重營以自固。"
         }
       ],
       "exclusions": [
