@@ -75317,6 +75317,36 @@
           "through": "財物山積。",
           "citation": "《三國志·吳書·孫策傳》所載",
           "note": "裴注引吳錄載孫策上表：孫策討黃祖，十二月八日抵沙羨，十一日進擊，黃祖潰走，妻息被獲，斬溺二萬餘，船六千餘艘；見孫策對黃祖的一次大破，非建安十三年孫權禽殺黃祖之役，不可混同。"
+        },
+        {
+          "id": "huangzu-sg-sunce-peizhu-after-defeat",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 13,
+          "from": "黃祖始被策破",
+          "through": "魂氣未反，",
+          "citation": "《三國志·吳書·孫策傳》所載",
+          "note": "裴注臣松之案評孫盛之譏：黃祖始被孫策所破，魂氣未反，且劉表君臣本無兼并之志，雖居上流亦不足規擬吳會；此為策破黃祖之後黃祖元氣未復的狀態，非另一次戰役。"
+        },
+        {
+          "id": "huangzu-sg-wuzhu-jianan4-shaxian",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 1,
+          "from": "建安四年，從策征廬江太守劉勳。",
+          "through": "進討黃祖於沙羡。",
+          "citation": "《三國志·吳書·吳主傳》所載",
+          "note": "建安四年孫權從孫策征廬江太守劉勳，勳破後進討黃祖於沙羨；與孫策傳所載沙羨之役相呼應，此為吳主傳正文視角。"
+        },
+        {
+          "id": "huangzu-sg-wuzhu-jianan8-boat-army",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 4,
+          "from": "八年，權西伐黃祖",
+          "through": "惟城未克",
+          "citation": "《三國志·吳書·吳主傳》所載",
+          "note": "建安八年孫權西伐黃祖，破其舟軍，惟城未克，因山寇復動而還；此役未禽殺黃祖，不可與建安十三年禽殺之役混同。"
         }
       ],
       "exclusions": [],
