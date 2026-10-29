@@ -69734,6 +69734,24 @@
           "from": "後紹與瓚有隙",
           "through": "瓚大為紹所破",
           "citation": "《三國志》卷十四·程昱傳"
+        },
+        {
+          "id": "zan-sgz-zhanghe-ju-zan-po",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 16,
+          "from": "紹以郃為校尉，使拒公孫瓚。",
+          "through": "瓚破",
+          "citation": "《三國志》卷十七·張郃傳"
+        },
+        {
+          "id": "zan-sgz-zhuling-jiuyong-zan-bing",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 27,
+          "from": "九州春秋曰：初，清河季雍以鄃叛袁紹而降公孫瓚，瓚遣兵衞之。",
+          "through": "生擒雍而靈家皆死",
+          "citation": "《三國志》卷十七·朱靈傳"
         }
       ],
       "exclusions": [
@@ -69844,6 +69862,15 @@
           "term": "公孫瓚",
           "quote": "紹方北擊公孫瓚",
           "reason": "此段主敘郭嘉獻策先取呂布，瓚僅於嘉言中以紹北擊瓚作時局背景帶過，無瓚本人事蹟，排除。"
+        },
+        {
+          "id": "zan-excl-dongzhao-jieqiao-zan",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 17,
+          "term": "公孫瓚",
+          "quote": "紹逆公孫瓚於界橋",
+          "reason": "此段主敘董昭受袁紹命領鉅鹿、偽檄誅孫伉等以安郡，瓚僅於界橋戰事背景中提及，無瓚本人具體事蹟，排除。"
         }
       ],
       "conclusions": [],
