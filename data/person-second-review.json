@@ -76559,6 +76559,26 @@
           "through": "七年夏，紹死",
           "citation": "《後漢書》志第十二·天文下",
           "note": "天文志占驗敘事：建安五年星孛大梁、兾州分，時袁紹在兾州，其年十一月紹軍為曹公所破，七年夏紹死。"
+        },
+        {
+          "id": "yuanshao-hhs-wuxingyi-zhongping-mou",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 18,
+          "from": "大將軍何進與佐軍校尉袁紹等共謀欲誅廢中官",
+          "through": "大將軍何進與佐軍校尉袁紹等共謀欲誅廢中官",
+          "citation": "《後漢書》志第十三·五行一",
+          "note": "五行志占驗敘事：中平六年夏霖雨，靈帝新棄羣臣，大將軍何進與佐軍校尉袁紹共謀誅廢中官，後張讓等殺進、兵戰京都。"
+        },
+        {
+          "id": "yuanshao-hhs-wuxingyi-jianan-gongzan",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 69,
+          "from": "建安三年，袁紹攻瓚",
+          "through": "紹兵趣登臺斬之",
+          "citation": "《後漢書》志第十三·五行一",
+          "note": "五行志童謠占驗敘事：建安三年袁紹攻公孫瓚，瓚大敗，縊其姊妹妻子引火自焚，紹兵趣登臺斬之。"
         }
       ],
       "exclusions": [
@@ -76633,6 +76653,15 @@
           "term": "袁紹",
           "quote": "嵩具袁紹傳",
           "reason": "此段主角為曹嵩（曹操之父），敘其靈帝時貨賂中官致位太尉及子操起兵後避亂被殺，袁紹僅見於「嵩具袁紹傳」一句，未述袁紹本人事實，排除。"
+        },
+        {
+          "id": "yuanshao-excl-junguo-wuchao",
+          "work": "houhanshu",
+          "source": "a03-111",
+          "paragraph": 3,
+          "term": "袁紹",
+          "quote": "東有地烏巢，曹公破袁紹處",
+          "reason": "郡國志陳留酸棗地望條，僅以烏巢為曹公破袁紹處作地理標識，未述袁紹本人事實，排除。"
         }
       ],
       "unresolved": [],
