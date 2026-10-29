@@ -75627,6 +75627,36 @@
           "through": "文稱詔書。",
           "citation": "《後漢書·公孫瓚傳》所載",
           "note": "公孫瓚上疏數袁紹之罪，稱紹逼迫韓馥、竊奪其州，並矯刻金玉印璽、皁囊施檢、文稱詔書。"
+        },
+        {
+          "id": "hanfu-hhs-yuanshao-chuping-qibing",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 6,
+          "from": "初平元年，紹遂以勃海起兵",
+          "through": "兾州牧韓馥",
+          "citation": "《後漢書·袁紹傳》所載",
+          "note": "初平元年，袁紹以勃海起兵討董卓，韓馥以冀州牧列名其中。"
+        },
+        {
+          "id": "hanfu-hhs-yuanshao-jishao-zubing",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 8,
+          "from": "韓馥見人情歸紹，忌其得衆，恐將圖己，常遣從事守紹門，不聽發兵。",
+          "through": "馥於是方聽紹舉兵。",
+          "citation": "《後漢書·袁紹傳》所載",
+          "note": "韓馥見人情歸袁紹，忌其得衆、恐圖己，常遣從事守紹門、不聽發兵；橋瑁詐作三公移書傳驛州郡後，馥方聽紹舉兵。"
+        },
+        {
+          "id": "hanfu-hhs-yuanshao-quyi-fanpan",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 9,
+          "from": "明年，馥將麴義反畔，馥與戰失利。",
+          "through": "紹旣恨馥，乃與義相結。",
+          "citation": "《後漢書·袁紹傳》所載",
+          "note": "明年，韓馥部將麴義反畔，馥與戰失利；袁紹既恨馥，乃與麴義相結。"
         }
       ],
       "exclusions": [],
