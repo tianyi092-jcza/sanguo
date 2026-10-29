@@ -69635,6 +69635,24 @@
           "from": "瓚遂引兵而至",
           "through": "而陰謀襲馥。",
           "citation": "《後漢書》卷七十四上·袁紹傳"
+        },
+        {
+          "id": "zan-hhs-yuanshao-jiaofeng-meizhan-jieke",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 21,
+          "from": "會公孫瓚師旅南馳",
+          "through": "每戰輒克。",
+          "citation": "《後漢書》卷七十四上·袁紹傳"
+        },
+        {
+          "id": "zan-hhs-yuanshao-si-nian-ji-ding-you",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 24,
+          "from": "四年春，擊公孫瓚",
+          "through": "事在瓚傳。",
+          "citation": "《後漢書》卷七十四上·袁紹傳"
         }
       ],
       "exclusions": [
@@ -69655,6 +69673,15 @@
           "term": "公孫瓚",
           "quote": "劉虞　公孫瓚　陶謙",
           "reason": "卷首傳目，僅並列劉虞、公孫瓚、陶謙三人名，無事實敘述，排除。"
+        },
+        {
+          "id": "zan-excl-shao-hhs-zuoshouwei-biyu",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 25,
+          "term": "公孫瓚",
+          "quote": "非公孫瓚坐受圍者也",
+          "reason": "沮授諫袁紹時的比況之語，僅借瓚坐受圍作反襯曹氏士卒精練，未記公孫瓚具體事實，排除。"
         }
       ],
       "conclusions": [],
