@@ -75687,6 +75687,36 @@
           "through": "同日并戮。",
           "citation": "《後漢書·袁紹傳》所載",
           "note": "袁紹上表自陳中指控故冀州牧韓馥懷挾逆謀、欲專權勢、絕其軍糧，致其家門同日并戮；此為袁紹表文之言，錄其指控不作定論。"
+        },
+        {
+          "id": "hanfu-hhs-yuanshao-biao-xiejiu-guitu",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 21,
+          "from": "故韓馥懷懼，",
+          "through": "謝咎歸土，",
+          "citation": "《後漢書·袁紹傳》所載",
+          "note": "袁紹上表自陳續文：黃巾、黑山、張楊蹈藉冀城後，袁紹旋師伐畔，金鼓未震，韓馥懷懼謝咎歸土；此為袁紹表文自陳之言，錄其說法不作定論；與同傳第20段絕糧、同日并戮指控分段另記。"
+        },
+        {
+          "id": "hanfu-sgz-wudi-chuping-wenyi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 3,
+          "from": "馥得移，請諸從事問曰：",
+          "through": "聽其舉兵。",
+          "citation": "《三國志·武帝紀》所載",
+          "note": "初平元年春正月，韓馥得橋瑁詐作三公移書，問諸從事當助袁氏邪、助董卓邪；治中從事劉子惠以興兵為國、不可為首對，馥然之，乃作書與紹、道卓之惡、聽其舉兵。"
+        },
+        {
+          "id": "hanfu-sgz-wudi-yingxiongji-wenjie-jizhoumu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 3,
+          "from": "馥字文節，",
+          "through": "董卓舉為兾州牧。",
+          "citation": "《三國志·武帝紀》所載",
+          "note": "裴注英雄記分層另記：韓馥字文節，潁川人，為御史中丞，董卓舉為冀州牧；與正文不合併。"
         }
       ],
       "exclusions": [],
