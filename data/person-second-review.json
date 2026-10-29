@@ -69608,6 +69608,33 @@
           "from": "是時袁紹、曹操與公孫瓚爭兾州",
           "through": "又移書公孫瓚，為言利害。",
           "citation": "《後漢書》卷六十四·趙岐傳"
+        },
+        {
+          "id": "zan-hhs-liuyu-taowuhuan-shoujie",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 4,
+          "from": "初，詔令公孫瓚討烏桓",
+          "through": "由是與瓚漸不相平。",
+          "citation": "《後漢書》卷七十三·劉虞傳"
+        },
+        {
+          "id": "zan-hhs-liuyu-yinquan-shuzhihe",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 5,
+          "from": "初，公孫瓚知術詐",
+          "through": "自是與瓚仇怨益深。",
+          "citation": "《後漢書》卷七十三·劉虞傳"
+        },
+        {
+          "id": "zan-hhs-yuanshao-yinbing-nanxia",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 9,
+          "from": "瓚遂引兵而至",
+          "through": "而陰謀襲馥。",
+          "citation": "《後漢書》卷七十四上·袁紹傳"
         }
       ],
       "exclusions": [
