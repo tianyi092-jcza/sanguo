@@ -70033,6 +70033,33 @@
           "term": "幽州",
           "quote": "三月癸酉，石勒陷幽州，殺侍中、大司馬、幽州牧、博陵公王浚，焚燒城邑，害萬餘人。",
           "reason": "石勒陷幽州殺王浚事，係晉末王浚而非公孫瓚，僅地名「幽州」加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-pingzhou-gongsundu-ahcb",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 117,
+          "term": "公孫度",
+          "quote": "後漢末，公孫度自號平州牧。",
+          "reason": "平州地理志言公孫度父子擅據遼東，與公孫瓚無關，僅同姓「公孫」與幽州地名加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-pingzhou-gongsundu",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 77,
+          "term": "公孫度",
+          "quote": "後漢末，公孫度自號平州牧。",
+          "reason": "平州地理志言公孫度父子擅據遼東，與公孫瓚無關，僅同姓「公孫」與幽州地名加權誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-duanliao-youzhou",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 54,
+          "term": "幽州",
+          "quote": "二月己丑，以幽州刺史、大單于段遼爲驃騎將軍。",
+          "reason": "段遼任幽州刺史事，與公孫瓚無關，僅地名「幽州」加權誤命中，排除。"
         }
       ],
       "conclusions": [],
