@@ -71375,7 +71375,41 @@
       "id": "p0098",
       "name": "公孫淵",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yuan-sg-cheqi",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 11,
+          "from": "癸巳，以大將軍曹真為大司馬",
+          "through": "遼東太守公孫淵為車騎將軍。",
+          "citation": "《三國志·魏書三 明帝紀》所載",
+          "context": "四年春二月",
+          "note": "時淵為遼東太守，明帝拜其為車騎將軍，與曹真、司馬懿並授。"
+        },
+        {
+          "id": "yuan-sg-zhansong",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 19,
+          "from": "十二月，公孫淵斬送孫權所遣使張彌、許晏首",
+          "through": "以淵為大司馬樂浪公。",
+          "citation": "《三國志·魏書三 明帝紀》所載",
+          "context": "十二月",
+          "note": "淵斬送孫權所遣使者張彌、許晏之首，魏拜淵為大司馬、樂浪公。此句為紀文正文，後附世語等裴注不錄。"
+        },
+        {
+          "id": "yuan-sg-zili-yanwang",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 34,
+          "from": "遣幽州刺史毌丘儉率諸軍及鮮卑、烏丸屯遼東南界",
+          "through": "淵自儉還，遂自立為燕王，置百官，稱紹漢元年。",
+          "citation": "《三國志·魏書三 明帝紀》所載",
+          "context": "秋七月",
+          "note": "魏徵淵而淵發兵反，毌丘儉進軍因連雨、遼水大漲引還；淵遂自立為燕王，置百官，稱紹漢元年。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
