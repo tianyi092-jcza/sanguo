@@ -76579,6 +76579,26 @@
           "through": "紹兵趣登臺斬之",
           "citation": "《後漢書》志第十三·五行一",
           "note": "五行志童謠占驗敘事：建安三年袁紹攻公孫瓚，瓚大敗，縊其姊妹妻子引火自焚，紹兵趣登臺斬之。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-hejin-mouhuan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "大將軍何進與袁紹謀誅宦官",
+          "through": "太后不聽",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "靈帝崩，太后臨朝，大將軍何進與袁紹謀誅宦官，太后不聽。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-mengzhu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 3,
+          "from": "同時俱起兵",
+          "through": "推紹為盟主",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "初平元年，諸侯同時俱起兵，衆各數萬，推袁紹為盟主。"
         }
       ],
       "exclusions": [
@@ -76662,6 +76682,15 @@
           "term": "袁紹",
           "quote": "東有地烏巢，曹公破袁紹處",
           "reason": "郡國志陳留酸棗地望條，僅以烏巢為曹公破袁紹處作地理標識，未述袁紹本人事實，排除。"
+        },
+        {
+          "id": "yuanshao-excl-baiguan-zhoumu-lun",
+          "work": "houhanshu",
+          "source": "a03-118",
+          "paragraph": 3,
+          "term": "袁紹",
+          "quote": "袁紹取兾，下制書於燕、朔",
+          "reason": "此段為百官志論刺史、州牧沿革得失的議論文字，袁紹僅見於列舉劉焉、袁紹、劉表、魏祖四例之一句，未紀袁紹本人事實經過，排除。"
         }
       ],
       "unresolved": [],
