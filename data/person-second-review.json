@@ -70465,6 +70465,33 @@
           "term": "馬皇后",
           "quote": "明德馬皇后",
           "reason": "《後漢書》明德馬皇后傳段，全段未提及瓚本人，與瓚之白馬義從無關，係「馬」字向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-zuyi-jijie",
+          "work": "houhanshu",
+          "source": "a03-026",
+          "paragraph": 70,
+          "term": "義",
+          "quote": "族子義。義字季節",
+          "reason": "《後漢書》此段述某人族子義之家世，全段未提及瓚本人，與瓚之白馬義從無關，係「白馬義從」事件向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-js-jushi-malun",
+          "work": "jinshu",
+          "source": "a05-071-ahcb",
+          "paragraph": 24,
+          "term": "馬隆",
+          "quote": "馬隆、孟觀雖出貧賤",
+          "reason": "《晉書》此段論舉薦武略、引馬隆、孟觀為例，全段未提及瓚本人，與瓚之白馬義從無關，係「馬」字向量誤命中，排除。"
+        },
+        {
+          "id": "zan-excl-hhs-duliao-jiangjun",
+          "work": "houhanshu",
+          "source": "a03-114",
+          "paragraph": 16,
+          "term": "度遼將軍",
+          "quote": "明帝初置度遼將軍",
+          "reason": "《後漢書》此段述度遼將軍之設置沿革，全段未提及瓚本人，與瓚之白馬義從無關，係向量誤命中，排除。"
         }
       ],
       "conclusions": [],
