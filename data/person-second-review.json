@@ -76329,6 +76329,26 @@
           "through": "以虞宗室長者，欲立為主",
           "citation": "《後漢書·卷七十三·劉虞傳》",
           "note": "韓馥、袁紹及山東諸將以朝廷幼沖、為董卓所逼，議立宗室長者劉虞為主；劉虞厲色拒絕，後並斬使人。此段記袁紹參與擁立之議，未成。"
+        },
+        {
+          "id": "yuanshao-hhs-liuyu-he-liu-shao",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 5,
+          "from": "和尋得逃術還北",
+          "through": "復為袁紹所留",
+          "citation": "《後漢書·卷七十三·劉虞傳》",
+          "note": "劉和逃離袁術北還後，又為袁紹所留。此段記袁紹扣留劉和一事。"
+        },
+        {
+          "id": "yuanshao-hhs-liuyu-he-cong-shao-bao-zan",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 7,
+          "from": "和後從袁紹報瓚",
+          "through": "和後從袁紹報瓚",
+          "citation": "《後漢書·卷七十三·劉虞傳》",
+          "note": "劉和後來跟從袁紹報復公孫瓚。此段記劉和歸附袁紹、參與對瓚之報復。"
         }
       ],
       "exclusions": [
@@ -76340,6 +76360,15 @@
           "term": "袁紹",
           "quote": "胡母班附袁紹傳。",
           "reason": "此段為黨錮人物名錄，僅言胡母班附載於袁紹傳處，未述袁紹本人事實，排除。"
+        },
+        {
+          "id": "yuanshao-excl-liuyu-zan-wu",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 6,
+          "term": "袁紹",
+          "quote": "瓚乃誣虞前與袁紹等欲稱尊號",
+          "reason": "此句明言為公孫瓚誣告之辭，非袁紹欲稱尊號之實事，不能作袁紹史實錄入，排除。"
         }
       ],
       "unresolved": [],
