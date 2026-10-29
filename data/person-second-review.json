@@ -71679,6 +71679,33 @@
           "term": "公孫文懿",
           "quote": "及遼東太守公孫文懿反，徵帝詣京師。",
           "reason": "同段宣帝問策內容已錄為 a05-001-ahcb:32 摘錄（yuan-jin-xuandi-liaodong-ce），此 sidneyluo 卷一本為同文異本重出，無新增史料，排除以免跨版本重複。"
+        },
+        {
+          "id": "yuan-excl-002",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 5,
+          "term": "公孫文懿",
+          "quote": "孫權遣張彌等將兵萬人，錫授公孫文懿為燕王，文懿斬彌等，虜其衆。",
+          "reason": "同段孫權授燕王、文懿斬使虜衆內容已錄為 a05-013-ahcb:1 摘錄（yuan-jin-tianwen-wu-shouyan-zhanmi），此 sidneyluo 卷十三本為同文異本重出，無新增史料，排除以免跨版本重複。"
+        },
+        {
+          "id": "yuan-excl-003",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 10,
+          "term": "公孫文懿",
+          "quote": "時公孫文懿自立為燕王，署置百官，發兵距守，宣帝討滅之。",
+          "reason": "同段自立燕王、宣帝討滅內容已錄為 a05-013-ahcb:3 摘錄（yuan-jin-tianwen-zili-yanwang），此 sidneyluo 卷十三本為同文異本重出，無新增史料，排除以免跨版本重複。"
+        },
+        {
+          "id": "yuan-excl-004",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 50,
+          "term": "公孫文懿",
+          "quote": "二年正月，討公孫文懿。",
+          "reason": "同句景初二年正月討公孫文懿已錄為 a05-013-ahcb:39 摘錄（yuan-jin-tianwen-jingchu-er-tao），此 sidneyluo 卷十三本為同文異本重出，無新增史料，排除以免跨版本重複。"
         }
       ],
       "unresolved": [],
