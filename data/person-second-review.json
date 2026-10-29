@@ -69590,6 +69590,24 @@
           "from": "時討虜校尉公孫瓚與大司馬劉虞有隙",
           "through": "共謀其難。",
           "citation": "《後漢書》卷五十八·臧洪傳"
+        },
+        {
+          "id": "zan-hhs-zanghong-bogui-nanxiang",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 37,
+          "from": "但懼秋風揚塵",
+          "through": "伯珪馬首南向",
+          "citation": "《後漢書》卷五十八·臧洪傳"
+        },
+        {
+          "id": "zan-hhs-zhaoqi-yishu-zan",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 36,
+          "from": "是時袁紹、曹操與公孫瓚爭兾州",
+          "through": "又移書公孫瓚，為言利害。",
+          "citation": "《後漢書》卷六十四·趙岐傳"
         }
       ],
       "exclusions": [
@@ -69601,6 +69619,15 @@
           "term": "公孫瓚",
           "quote": "非公孫瓚坐受圍者也",
           "reason": "沮授諫袁紹時的比況之語，僅借瓚坐受圍作反襯曹氏士卒精練，未記公孫瓚具體事實，排除。"
+        },
+        {
+          "id": "zan-excl-juanmu-liezhuan",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 0,
+          "term": "公孫瓚",
+          "quote": "劉虞　公孫瓚　陶謙",
+          "reason": "卷首傳目，僅並列劉虞、公孫瓚、陶謙三人名，無事實敘述，排除。"
         }
       ],
       "conclusions": [],
