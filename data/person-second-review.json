@@ -69752,6 +69752,15 @@
           "from": "九州春秋曰：初，清河季雍以鄃叛袁紹而降公孫瓚，瓚遣兵衞之。",
           "through": "生擒雍而靈家皆死",
           "citation": "《三國志》卷十七·朱靈傳"
+        },
+        {
+          "id": "zan-sgz-tianyu-dongzhou-wangmen",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 10,
+          "from": "公孫瓚使豫守東州令",
+          "through": "瓚雖知豫有權謀而不能任也",
+          "citation": "《三國志》卷二十六·田豫傳"
         }
       ],
       "exclusions": [
@@ -69871,6 +69880,24 @@
           "term": "公孫瓚",
           "quote": "紹逆公孫瓚於界橋",
           "reason": "此段主敘董昭受袁紹命領鉅鹿、偽檄誅孫伉等以安郡，瓚僅於界橋戰事背景中提及，無瓚本人具體事蹟，排除。"
+        },
+        {
+          "id": "zan-excl-luyu-shaozan-jiaobing",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 31,
+          "term": "公孫瓚",
+          "quote": "當袁紹、公孫瓚交兵",
+          "reason": "盧毓傳記盧毓少年遭本州之亂、養寡嫂孤兄子，瓚僅於袁紹交兵、幽冀饑荒背景中提及，無瓚本人具體事蹟，排除。"
+        },
+        {
+          "id": "zan-excl-tianyu-ben-zan",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 9,
+          "term": "公孫瓚",
+          "quote": "劉備之奔公孫瓚也",
+          "reason": "田豫傳主敘田豫少年自託劉備，瓚僅為劉備奔投對象提及，無瓚本人具體事蹟，排除。"
         }
       ],
       "conclusions": [],
