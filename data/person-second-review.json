@@ -76009,6 +76009,36 @@
           "through": "劭畏操誅，弃郡奔兾州牧袁紹。",
           "citation": "《後漢書·卷四十八·應劭傳》",
           "note": "興平元年條：應劭畏曹操誅，棄太山郡奔冀州牧袁紹。同段前文黃巾入郡、陶謙殺曹嵩事與本人無直接關係，不併入。"
+        },
+        {
+          "id": "yuanshao-hhs-yingshao-junmou",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 32,
+          "from": "二年，詔拜劭為袁紹軍謀校尉。",
+          "through": "二年，詔拜劭為袁紹軍謀校尉。",
+          "citation": "《後漢書·卷四十八·應劭傳》",
+          "note": "詔拜應劭為袁紹軍謀校尉。同段後文遷都於許、應劭著漢官禮儀故事屬應劭事，不併入。"
+        },
+        {
+          "id": "yuanshao-hhs-zhongchang-gaogan",
+          "work": "houhanshu",
+          "source": "a03-049",
+          "paragraph": 28,
+          "from": "并州刺史高幹，袁紹甥也。",
+          "through": "并州刺史高幹，袁紹甥也。",
+          "citation": "《後漢書·卷四十九·仲長統傳》",
+          "note": "僅錄高幹為袁紹甥一語。同段仲長統評高幹、幹叛并州等屬高幹與仲長統事，不併入。"
+        },
+        {
+          "id": "yuanshao-hhs-cuijun-qibing",
+          "work": "houhanshu",
+          "source": "a03-052",
+          "paragraph": 38,
+          "from": "獻帝初，鈞與袁紹俱起兵山東，董卓以是收烈付郿獄，錮之，鋃鐺鐵鎖。",
+          "through": "獻帝初，鈞與袁紹俱起兵山東，董卓以是收烈付郿獄，錮之，鋃鐺鐵鎖。",
+          "citation": "《後漢書·卷五十二·崔烈傳》",
+          "note": "崔鈞與袁紹俱起兵山東，董卓因此收崔烈付郿獄。同段說文、前書注釋鎖名與卓誅後烈拜城門校尉等不併入。"
         }
       ],
       "exclusions": [],
