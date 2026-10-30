@@ -81101,7 +81101,41 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "mateng-hhs-dongzhuo-rebel",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 4,
+          "from": "亦擁兵反叛",
+          "through": "皆與韓遂合。",
+          "citation": "《後漢書·卷七十二·董卓列傳》",
+          "context": "而鄙司馬扶風馬騰",
+          "note": "韓遂殺邊章等、李相如反、共殺涼州刺史耿鄙之後，耿鄙司馬扶風馬騰亦擁兵反叛，與韓遂合，共推王國為主、寇掠三輔。範曄正文層；同段「典略曰」所載騰字壽成、扶風茂陵人、馬援後等為注文層，不錄入本條正文摘錄。"
+        },
+        {
+          "id": "mateng-hhs-lingdi-rebel",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 20,
+          "from": "扶風人馬騰、漢陽人王國並叛",
+          "through": "寇三輔。",
+          "citation": "《後漢書·卷八·孝靈帝紀第八》",
+          "context": "漢陽太守傅燮戰沒。",
+          "note": "涼州刺史耿鄙討金城賊韓遂兵敗、漢陽太守傅燮戰沒之後，扶風人馬騰與漢陽人王國並叛、寇三輔。孝靈帝紀正文層；與 a03-072 第 4 段同事件互證，彼段詳述耿鄙被殺經過。"
+        },
+        {
+          "id": "mateng-hhs-xiandi-changping",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 7,
+          "from": "三月，韓遂、馬騰與郭汜、樊稠戰於長平觀",
+          "through": "遂、騰敗績",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "context": "興平元年春正月辛酉",
+          "note": "興平元年三月，韓遂、馬騰與郭汜、樊稠戰於長平觀，遂、騰敗績，劉範、种劭戰歿。孝獻帝紀正文層；段後前書音義與袁宏紀注文（馬騰以李傕專亂、遣使招劉焉共誅傕等）為注文層，不錄入本條。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
