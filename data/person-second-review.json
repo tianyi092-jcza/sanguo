@@ -82431,6 +82431,33 @@
           "from": "聞先主自葭萌還攻劉璋。",
           "through": "遇於緜竹。",
           "citation": "《三國志·蜀書十三 李恢傳》"
+        },
+        {
+          "id": "liuzhang-sgz-feiyi-zhang-ying-ren-ru-shu",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 10,
+          "from": "伯仁姑，益州牧劉璋之母也。",
+          "through": "仁將禕遊學入蜀。",
+          "citation": "《三國志·蜀書十四 費禕傳》"
+        },
+        {
+          "id": "liuzhang-sgz-feiguan-mu-gu-nv-xu-ju-jiang",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 27,
+          "from": "劉璋母，觀之族姑，",
+          "through": "與嚴俱降，",
+          "citation": "《三國志·蜀書十五 楊戲傳附費觀》"
+        },
+        {
+          "id": "liuzhang-sgz-wangmou-bajun-biejia",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 31,
+          "from": "劉璋時，為巴郡太守，",
+          "through": "以為別駕。",
+          "citation": "《三國志·蜀書十五 楊戲傳附王謀》"
         }
       ],
       "exclusions": [],
