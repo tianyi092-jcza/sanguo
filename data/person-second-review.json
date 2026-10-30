@@ -80418,9 +80418,29 @@
           "through": "以萬數。",
           "citation": "《三國志·魏書十一·王脩傳》",
           "note": "太祖破鄴後籍沒審配等家財物貲以萬數；王脩傳以此與王脩家穀不滿十斛對照，見審配家貲之厚與破鄴後的處置。"
+        },
+        {
+          "id": "shenpei-sg-lifu-shouye",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 32,
+          "from": "後尚與其兄譚爭鬬，尚出軍詣平原，留別駕審配守鄴城，孚隨尚行。",
+          "through": "孚請自往。",
+          "citation": "《三國志·魏書十五·賈逵傳附李孚傳》",
+          "note": "袁尚與兄袁譚爭鬬，出軍詣平原，留別駕審配守鄴城；太祖圍鄴，袁尚還救未到，疑鄴中守備少，欲令審配知外動止，李孚自請入鄴報信。見審配於鄴城被圍時任守將。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "shenpei-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 30,
+          "term": "配",
+          "quote": "燿女又配於權子奮。",
+          "reason": "此「配」為婚配之動詞（袁燿之女配予孫權子孫奮），非人名審配；本傳單字命中誤報，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
