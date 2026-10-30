@@ -78839,7 +78839,38 @@
       "id": "p0108",
       "name": "袁熙",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yuanxi-hhs-xiandi-liaodong-death",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 20,
+          "from": "十一月，遼東太守公孫康殺袁尚、袁熙。",
+          "through": "十一月，遼東太守公孫康殺袁尚、袁熙。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "note": "建安十二年十一月，遼東太守公孫康殺袁尚、袁熙；此為袁熙之死，獻帝紀正文。段內前半柳城破烏桓等事與本條無直接行狀，不併入。"
+        },
+        {
+          "id": "yuanxi-hhs-kongrong-zhen-taken",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 19,
+          "from": "初，曹操攻屠鄴城，袁氏婦子多見侵略，而操子丕私納袁熙妻甄氏。",
+          "through": "初，曹操攻屠鄴城，袁氏婦子多見侵略，而操子丕私納袁熙妻甄氏。",
+          "citation": "《後漢書·卷七十·孔融傳》",
+          "note": "曹操攻屠鄴城後，操子曹丕私納袁熙妻甄氏；此為孔融傳正文，僅取此句，段內孔融致書嘲諷曹操等內容不併入。"
+        },
+        {
+          "id": "yuanxi-sgz-wudi-jiaochu-rebel",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 20,
+          "from": "是月，袁熙大將焦觸、張南等叛攻熙、尚，熙、尚奔三郡烏丸。",
+          "through": "是月，袁熙大將焦觸、張南等叛攻熙、尚，熙、尚奔三郡烏丸。",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安十年春正月，袁熙大將焦觸、張南等叛攻熙、尚，熙、尚奔三郡烏丸；此為武帝紀正文，僅取此句，段內袁譚敗、張燕降等事不併入。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
