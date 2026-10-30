@@ -82161,6 +82161,33 @@
           "from": "是時益州牧劉璋據益州，漢中太守張魯別據漢中",
           "through": "其年秋，璋失益州。",
           "citation": "《後漢書·天文志》"
+        },
+        {
+          "id": "liuzhang-sgz-wudiji-208",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 23,
+          "from": "益州牧劉璋始受徵役",
+          "through": "遣兵給軍。",
+          "citation": "《三國志·魏書一 武帝紀》"
+        },
+        {
+          "id": "liuzhang-sgz-wudiji-214",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "from": "劉備襲劉璋",
+          "through": "取益州，",
+          "citation": "《三國志·魏書一 武帝紀》"
+        },
+        {
+          "id": "liuzhang-sgz-weikai-200s",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 17,
+          "from": "益州牧劉璋與表有隙",
+          "through": "令璋下兵以綴表軍。",
+          "citation": "《三國志·魏書二十一 王衛二劉傅傳 衛覬傳》"
         }
       ],
       "exclusions": [],
