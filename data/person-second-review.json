@@ -82404,6 +82404,33 @@
           "from": "劉璋時辟為從事。",
           "through": "以瓊為議曹從事。",
           "citation": "《三國志·蜀書十二 杜瓊傳》"
+        },
+        {
+          "id": "liuzhang-sgz-laimin-binke",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 17,
+          "from": "姊夫黃琬是劉璋祖母之姪，",
+          "through": "常為璋賔客。",
+          "citation": "《三國志·蜀書十二 來敏傳》"
+        },
+        {
+          "id": "liuzhang-sgz-huangquan-jian-bu-ting",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 1,
+          "from": "璋不聽，",
+          "through": "出權為廣漢長。",
+          "citation": "《三國志·蜀書十三 黃權傳》"
+        },
+        {
+          "id": "liuzhang-sgz-lihui-bei-yi-xianzhu",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 6,
+          "from": "聞先主自葭萌還攻劉璋。",
+          "through": "遇於緜竹。",
+          "citation": "《三國志·蜀書十三 李恢傳》"
         }
       ],
       "exclusions": [],
