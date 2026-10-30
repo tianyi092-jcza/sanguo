@@ -77119,6 +77119,36 @@
           "through": "廢立大事，非所宜聞",
           "citation": "《三國志·魏書十二·毛玠傳》",
           "note": "正文層：太子未定、臨菑侯植有寵時，毛玠密諫太祖，以袁紹嫡庶不分、覆宗滅國為戒，謂廢立大事非所宜聞。記紹立嗣之失及其覆宗之鑒。"
+        },
+        {
+          "id": "yuanshao-baoxun-jizhou",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 25,
+          "from": "紹劫奪韓馥位",
+          "through": "遂據兾州。",
+          "citation": "《三國志·魏書十二·鮑勛傳》",
+          "note": "正文層：鮑勛傳記其父鮑信事，汴水之敗後載袁紹劫奪韓馥位、遂據兾州，為他傳正文對袁紹據冀州的旁證。"
+        },
+        {
+          "id": "yuanshao-zhongyao-guandu-ma",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 2,
+          "from": "太祖在官渡，與袁紹相持",
+          "through": "繇送馬二千餘匹給軍。",
+          "citation": "《三國志·魏書十三·鍾繇傳》",
+          "note": "正文層：官渡相持時，鍾繇送馬二千餘匹給太祖軍。段中袁尚、袁氏語指其子與家族，不與本人混同。"
+        },
+        {
+          "id": "yuanshao-chengyu-heqin",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 2,
+          "from": "是時岱與袁紹、公孫瓚和親",
+          "through": "瓚亦遣從事范方將騎助岱。",
+          "citation": "《三國志·魏書十四·程昱傳》",
+          "note": "正文層：初平中劉岱與袁紹、公孫瓚和親，紹令妻子居岱所，瓚亦遣從事范方將騎助岱。"
         }
       ],
       "exclusions": [
