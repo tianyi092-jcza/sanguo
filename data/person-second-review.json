@@ -79342,6 +79342,33 @@
           "term": "袁術",
           "quote": "邈詣袁術求救",
           "reason": "段落主事為曹操與呂布、張邈之戰及張邈之死；袁術僅為張邈求救的對象，邈未至壽春即為其兵所害，袁術本人無行動、無實質史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-lunzan-qunying-shu",
+          "work": "houhanshu",
+          "source": "a03-079b-ahcb",
+          "paragraph": 66,
+          "term": "袁術",
+          "quote": "羣英謂袁術、曹操之屬",
+          "reason": "段落為論贊泛論漢祚衰敝、羣英乘運，袁術僅與曹操並列為「羣英」舉例，無具體行事、繫年與史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-hanfu-shu-yu-shu",
+          "work": "houhanshu",
+          "source": "a03-108",
+          "paragraph": 78,
+          "term": "袁術",
+          "quote": "吳書載韓馥與袁術書曰",
+          "reason": "段落主事為初平元年白虹貫日等災異記載，袁術僅為韓馥致書的對象，所引書語亦不涉袁術行事，排除。"
+        },
+        {
+          "id": "yuanshu-excl-xiang-gonglu-cheng",
+          "work": "houhanshu",
+          "source": "a03-110",
+          "paragraph": 5,
+          "term": "袁術",
+          "quote": "有公路城，袁術所築",
+          "reason": "段落為汝南郡縣沿革羅列，袁術僅在項縣條下以公路城一語附帶出現，無繫年與行事經過，屬地名沿革附記，排除。"
         }
       ],
       "unresolved": [],
