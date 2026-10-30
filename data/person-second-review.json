@@ -81994,6 +81994,24 @@
           "from": "州牧劉焉表薦之",
           "through": "詔命竟不至。",
           "citation": "《後漢書·卷七十九上·儒林列傳第六十九上》"
+        },
+        {
+          "id": "liuyan-hhs-wuxing-xingping-huo",
+          "work": "houhanshu",
+          "source": "a03-104",
+          "paragraph": 25,
+          "from": "臣昭案：劉焉傳",
+          "through": "館邑無餘也。",
+          "citation": "《後漢書·志第十四‧五行二》"
+        },
+        {
+          "id": "liuyan-sgz-ping-yanxin-yitu",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 7,
+          "from": "而劉焉聞董扶之辭則心存益土",
+          "through": "其惑甚矣。",
+          "citation": "《三國志·蜀書一 劉焉傳》"
         }
       ],
       "exclusions": [
@@ -82005,6 +82023,15 @@
           "term": "劉焉",
           "quote": "劉焉　袁術　呂布",
           "reason": "僅為卷首篇名行（劉焉、袁術、呂布三傳並列之目），無關於劉焉生平事實的敘述，排除。"
+        },
+        {
+          "id": "liuyan-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 0,
+          "term": "劉焉",
+          "quote": "劉焉傳子璋",
+          "reason": "僅為本傳篇名行（劉焉傳及其子劉璋之目），無關於劉焉生平事實的敘述，排除。"
         }
       ],
       "unresolved": []
