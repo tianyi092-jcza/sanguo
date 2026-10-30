@@ -81655,6 +81655,33 @@
           "from": "太祖後與韓遂、馬超戰於渭南，超等索割地以和，并求任子。",
           "through": "卒破遂、超，詡本謀也。",
           "citation": "《三國志·魏書十·荀彧荀攸賈詡傳·賈詡傳》裴松之注"
+        },
+        {
+          "id": "hsui-sg-zhongyao-sons-hostage",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 2,
+          "from": "時關中諸將馬騰、韓遂等，各擁彊兵相與爭。",
+          "through": "騰、遂各遣子入侍。",
+          "citation": "《三國志·魏書十三·鍾繇華歆王朗傳·鍾繇傳》"
+        },
+        {
+          "id": "hsui-sg-duji-hedong-211",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 12,
+          "from": "韓遂、馬超之叛也，弘農、馮翊多舉縣邑以應之。",
+          "through": "河東雖與賊接，民無異心。",
+          "citation": "《三國志·魏書十六·任蘇杜鄭倉傳·杜畿傳》"
+        },
+        {
+          "id": "hsui-sg-zhanghe-weinan-211",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 17,
+          "from": "從破馬超、韓遂於渭南。",
+          "through": "圍安定，降楊秋。",
+          "citation": "《三國志·魏書十七·張樂于張徐傳·張郃傳》"
         }
       ],
       "exclusions": [],
