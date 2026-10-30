@@ -83988,6 +83988,33 @@
           "term": "黃忠傳",
           "quote": "黃忠傳",
           "reason": "向量候選誤命中：本段僅為《三國志·蜀書·關張馬黃趙傳》黃忠傳標題行，無正文內容，與張寶無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-007",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 25,
+          "term": "張角",
+          "quote": "連戰破賊帥張角，斬獲萬餘人。",
+          "reason": "本段記盧植討伐黃巾、破張角走保廣宗，全段未提張寶本人名（張寶守下曲陽而非廣宗），按全名精確匹配寧錯過原則，排除。"
+        },
+        {
+          "id": "zhangbao-excl-008",
+          "work": "jinshu",
+          "source": "a05-102-ahcb",
+          "paragraph": 29,
+          "term": "下曲陽之戰",
+          "quote": "劉曜進師上黨，將攻陽曲",
+          "reason": "向量候選誤命中：本段記晉代劉曜、劉聰事，與張寶、下曲陽之戰無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-009",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 111,
+          "term": "下曲陽之戰",
+          "quote": "下洛　潘　涿鹿",
+          "reason": "向量候選誤命中：本段僅為地名錄片段，無張寶、無黃巾內容，排除。"
         }
       ],
       "unresolved": []
