@@ -82940,6 +82940,33 @@
           "from": "臣以合辭語鎮南將軍張魯",
           "through": "寧為魏公奴，不為劉備上客也。",
           "citation": "裴注引《獻帝傳》"
+        },
+        {
+          "id": "zhanglu-sgz-zhanglu-guidao",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 25,
+          "from": "張魯字公祺，沛國豐人也。",
+          "through": "雄據巴、漢垂三十年。",
+          "citation": "《三國志·魏書八·張魯傳》"
+        },
+        {
+          "id": "zhanglu-sgz-zhanglu-yanpu-jianwang",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 25,
+          "from": "民有地中得玉印者，羣下欲尊魯為漢寧王。",
+          "through": "魯從之。",
+          "citation": "《三國志·魏書八·張魯傳》"
+        },
+        {
+          "id": "zhanglu-sgz-zhanglu-yangping-po",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 26,
+          "from": "建安二十年，太祖乃自散關出武都征之，至陽平關。",
+          "through": "太祖攻破之，遂入蜀。",
+          "citation": "《三國志·魏書八·張魯傳》"
         }
       ],
       "exclusions": [],
