@@ -77379,6 +77379,16 @@
           "through": "先主與田楷東屯齊。",
           "citation": "《三國志·蜀書二·先主傳》",
           "note": "正文層：袁紹攻公孫瓚，先主與田楷東屯齊。同段後附獻帝春秋、英雄記引文為異說層，不與正文合併，不錄；段內袁公路、袁術為袁術，與本人分開。"
+        },
+        {
+          "id": "yuanshao-sg-xianzhu-qingzhou-xiangjian",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 7,
+          "from": "先主走青州。",
+          "through": "與先主相見。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "正文層：先主走青州，袁譚迎先主至平原、馳使白紹，袁紹遣將道路奉迎、親出鄴二百里與先主相見。後附魏書曰為異說層，不與正文合併，不錄；段內袁譚為袁紹子，與本人分開。"
         }
       ],
       "exclusions": [
@@ -77795,6 +77805,24 @@
           "term": "袁紹",
           "quote": "袁術欲經徐州北就袁紹，",
           "reason": "此段主體為先主還小沛、與呂布及曹公事；袁紹僅為袁術北投的目的地提及，無本段言行決策，排除。"
+        },
+        {
+          "id": "yuanshao-excl-xianzhu-sunqian-lianhe",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 6,
+          "term": "袁紹",
+          "quote": "遣孫乾與袁紹連和，",
+          "reason": "此段主體為先主據下邳、還小沛及曹公東征事；袁紹僅為孫乾連和的對象提及，段內官渡亦僅為曹公分兵背景，無本段言行決策，排除。"
+        },
+        {
+          "id": "yuanshao-excl-xianzhu-longzhong-yinli",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 1,
+          "term": "袁紹",
+          "quote": "曹操比於袁紹，則名微而衆寡，",
+          "reason": "此段主體為先主三顧諸葛亮、亮隆中對策；袁紹僅為曹操以弱克強的歷史引例提及，無本段言行決策，排除。"
         }
       ],
       "unresolved": [],
