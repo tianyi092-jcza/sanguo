@@ -83075,6 +83075,33 @@
           "from": "超奔漢中，從張魯得兵還。",
           "through": "超奔漢中，從張魯得兵還。",
           "citation": "裴注引皇甫謐《列女傳》"
+        },
+        {
+          "id": "zhanglu-sgz-liuyan-qian-lu-duyi-sima",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 2,
+          "from": "故焉遣魯為督義司馬，住漢中，斷絕谷閣，殺害漢使。",
+          "through": "故焉遣魯為督義司馬，住漢中，斷絕谷閣，殺害漢使。",
+          "citation": "《三國志·蜀書一·劉二牧傳》"
+        },
+        {
+          "id": "zhanglu-sgz-liuzhang-sha-lu-mu-di",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 4,
+          "from": "而張魯稍驕恣，不承順璋，璋殺魯母及弟，遂為讎敵。",
+          "through": "而張魯稍驕恣，不承順璋，璋殺魯母及弟，遂為讎敵。",
+          "citation": "《三國志·蜀書一·劉二牧傳》"
+        },
+        {
+          "id": "zhanglu-sgz-liuzhang-zeng-bing-tao-lu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 12,
+          "from": "璋增先主兵，使擊張魯，又令督白水軍。",
+          "through": "璋增先主兵，使擊張魯，又令督白水軍。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [],
