@@ -77971,6 +77971,36 @@
           "quote": "且項羽、袁紹非不強也",
           "reason": "此段主體爲劉胤勸邵續勿降石勒，袁紹僅見於論說中與項羽並舉的成敗例證，未述袁紹本人事蹟，不能作袁紹史實錄入，排除。",
           "citation": "《晉書·卷八十一·劉胤傳》"
+        },
+        {
+          "id": "yuanshao-excl-zhangshi-yuanbenchiu",
+          "work": "jinshu",
+          "source": "a05-086-ahcb",
+          "paragraph": 11,
+          "term": "袁本初",
+          "quote": "孤常忿袁本初擬肘",
+          "reason": "此段主體為張寔得璽後謝卻群僚稱德，袁本初僅見於張寔自述所忿的僭擬例證，未述袁紹本人事蹟，不能作袁紹史實錄入，排除。",
+          "citation": "《晉書·卷八十六·張寔傳》"
+        },
+        {
+          "id": "yuanshao-excl-luhui-yuanshao",
+          "work": "jinshu",
+          "source": "a05-102-ahcb",
+          "paragraph": 18,
+          "term": "袁紹",
+          "quote": "袁紹爲之於前",
+          "reason": "此段主體為趙染輕敵敗於索綝、魯徽臨刑之言，袁紹僅見於魯徽以袁紹殺田豐為鑑的譏語，未述袁紹本人事蹟，不能作袁紹史實錄入，排除。",
+          "citation": "《晉書·卷一百二·劉曜載記》"
+        },
+        {
+          "id": "yuanshao-excl-mengxun-yuanshao-guandu",
+          "work": "jinshu",
+          "source": "a05-126-ahcb",
+          "paragraph": 30,
+          "term": "袁紹",
+          "quote": "袁紹敗于官渡，而田豐爲戮",
+          "reason": "此段主體為禿髮傉檀伐沮渠蒙遜大敗、景保被擒後的對答，袁紹僅見於蒙遜以袁紹官渡敗後殺田豐為喻的說辭，未述袁紹本人事蹟，不能作袁紹史實錄入，排除。",
+          "citation": "《晉書·卷一百二十六·禿髮傉檀載記》"
         }
       ],
       "unresolved": [],
