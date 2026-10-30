@@ -83776,7 +83776,35 @@
           "citation": "《三國志·吳書一 孫破虜討逆傳第一 孫堅傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangjue-excl-001",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 77,
+          "term": "黃巾賊",
+          "quote": "巾，以葛爲之，形如㡊而橫著之，古尊卑共服也。故漢末妖賊以黃爲巾，世謂黃巾賊。",
+          "reason": "《晉書·輿服志》通釋黃巾名義，未提張角本人，非張角史實，排除。"
+        },
+        {
+          "id": "zhangjue-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 18,
+          "term": "黃巾起義",
+          "quote": "黃忠傳",
+          "reason": "本段僅為卷內篇目題名，無正文內容，亦未提張角或黃巾事，屬向量誤命中，排除。"
+        },
+        {
+          "id": "zhangjue-excl-003",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 21,
+          "term": "黃巾",
+          "quote": "時南陽黃巾張曼成起兵，稱「神上使」，衆數萬，殺郡守褚貢，屯宛下百餘日。",
+          "reason": "南陽黃巾別部張曼成、趙弘事，朱儁討宛城經過，全段未提張角本人，按全名精確匹配寧錯過原則，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
