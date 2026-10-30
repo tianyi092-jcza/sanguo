@@ -79369,6 +79369,26 @@
           "through": "術以隕潰",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "表文列曹操功績：袁術僭逆於淮南，蘄陽之役橋蕤授首，術以隕潰；與武帝紀建安二年橋蕤被斬事相應，此為表文概括。"
+        },
+        {
+          "id": "yuanshu-bianhou-chuan-taozu-xiongwen",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 3,
+          "from": "袁術傳太祖凶問",
+          "through": "遂從后言",
+          "citation": "《三國志·魏書五·后妃傳 武宣卞皇后傳》",
+          "note": "董卓之亂、太祖微服東出之際，袁術傳太祖凶問至洛，卞后勸止欲歸者，太祖聞而善之；屬袁術早年與曹操往來的一節，繫於初平年間。"
+        },
+        {
+          "id": "yuanshu-mingdi-zhu-yilu-qi-nv",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 18,
+          "from": "朗父名宜祿",
+          "through": "術妻以漢宗室女",
+          "citation": "《三國志·魏書三·明帝紀》",
+          "note": "裴注引獻帝傳：秦朗父宜祿為呂布使者詣袁術，術以漢宗室女妻之；此為裴注層引文，非明帝紀正文，屬袁術與呂布往來的一節。"
         }
       ],
       "exclusions": [
@@ -79488,6 +79508,15 @@
           "term": "袁術",
           "quote": "曹公破袁術處",
           "reason": "段落為郡國志陳留郡縣沿革羅列，袁術僅在平丘條下以「曹公破袁術處」一語附帶出現，無繫年與行事經過，屬地名沿革附記，排除。"
+        },
+        {
+          "id": "yuanshu-excl-dongzhuo-zhangwen-jiaoguan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 6,
+          "term": "袁術",
+          "quote": "使人言溫與袁術交關",
+          "reason": "段落主體為董卓殺太尉張溫事；袁術僅在「使人言溫與袁術交關」一句中作為董卓構陷張溫的藉口出現，無袁術本人的行事經過，亦無交通實證，不得當作袁術史實，排除。"
         }
       ],
       "unresolved": [],
