@@ -81736,9 +81736,37 @@
           "from": "太祖欲遣鍾繇等討張魯，柔諫，",
           "through": "繇入關，遂、超等果反。",
           "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "hsui-sg-machao-tongguan-211",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 15,
+          "from": "超旣統衆，遂與韓遂合從，",
+          "through": "軍以大敗。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·馬超傳》"
+        },
+        {
+          "id": "hsui-pei-yizhou-liuzhang-hansui",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 7,
+          "from": "初，韓遂與馬騰作亂關中，",
+          "through": "有連蜀之意。",
+          "citation": "《三國志·蜀書八·許靖傳》裴松之注引《益州耆舊傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "hsui-excl-dongyi-han",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 36,
+          "term": "韓遂",
+          "quote": "是後倭韓遂屬帶方。",
+          "reason": "此處「韓」指三韓之韓人，「遂」為副詞「於是」；「倭韓遂屬帶方」謂倭與韓人歸屬帶方郡，非指涼州韓遂；僅字面連讀，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
