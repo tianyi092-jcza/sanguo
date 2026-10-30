@@ -82296,6 +82296,33 @@
           "from": "商謂璋曰：「超勇而不仁，見得不思義，不可以為脣齒。",
           "through": "璋從其言，乃拒絕之。",
           "citation": "《三國志·蜀書八 許靖傳》"
+        },
+        {
+          "id": "liuzhang-sgz-jianyong-guicheng",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 15,
+          "from": "先主入益州，劉璋見雍，甚愛之。",
+          "through": "璋遂與雍同輿而載，出城歸命。",
+          "citation": "《三國志·蜀書八 簡雍傳》"
+        },
+        {
+          "id": "liuzhang-sgz-donghe-renyong",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 1,
+          "from": "漢末，和率宗族西遷，益州牧劉璋以為牛鞞、音髀。江原長、成都令。",
+          "through": "璋聽留二年，還遷益州太守，其清約如前。",
+          "citation": "《三國志·蜀書九 董和傳》"
+        },
+        {
+          "id": "liuzhang-sgz-liuba-jianzu",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 5,
+          "from": "零陵先賢傳曰：璋遣法正迎劉備，巴諫曰：「備，雄人也，入必為害，不可內也。」",
+          "through": "璋不聽。",
+          "citation": "《三國志·蜀書九 劉巴傳》"
         }
       ],
       "exclusions": [],
