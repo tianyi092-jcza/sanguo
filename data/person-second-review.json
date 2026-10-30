@@ -82057,6 +82057,33 @@
           "from": "牧劉焉",
           "through": "誅馥等",
           "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "liuyan-sgz-yisheng-chengyu",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 3,
+          "from": "焉意漸盛",
+          "through": "造作乘輿車具千餘乘。",
+          "citation": "《三國志·蜀書一 劉焉傳》"
+        },
+        {
+          "id": "liuyan-sgz-tianhuo-xingping-zu",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 3,
+          "from": "時焉被天火燒城",
+          "through": "興平元年，癕疽發背而卒。",
+          "citation": "《三國志·蜀書一 劉焉傳》"
+        },
+        {
+          "id": "liuyan-sgz-yingxiongji-fan-xi",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 3,
+          "from": "英雄記曰：範父焉為益州牧",
+          "through": "惟小子別部司馬瑁素隨焉。",
+          "citation": "《三國志·蜀書一 劉焉傳》裴注引《英雄記》"
         }
       ],
       "exclusions": [
