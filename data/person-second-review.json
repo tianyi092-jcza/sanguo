@@ -78983,6 +78983,39 @@
           "citation": "《後漢書·孝獻帝紀》所載",
           "context": "初平元年",
           "note": "初平元年，袁術為後將軍，與河內太守王匡執殺安集關東的吳脩、王瓌。同段另載董卓以山東兵起、依紹術為主，故誅袁術親屬。"
+        },
+        {
+          "id": "yuanshu-hhs-xiandi-sunjian-yangren",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 4,
+          "from": "袁術遣將孫堅與董卓將胡軫戰於陽人",
+          "through": "袁術遣將孫堅與董卓將胡軫戰於陽人",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "二年春",
+          "note": "初平二年，袁術遣孫堅於陽人與董卓將胡軫交戰，胡軫軍大敗。"
+        },
+        {
+          "id": "yuanshu-hhs-xiandi-sunjian-xiangyang",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "from": "袁術遣將孫堅攻劉表於襄陽，堅戰歿",
+          "through": "袁術遣將孫堅攻劉表於襄陽，堅戰歿",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "三年春",
+          "note": "初平三年，袁術遣孫堅攻劉表於襄陽，孫堅戰歿。"
+        },
+        {
+          "id": "yuanshu-hhs-xiandi-sha-chenwen-huainan",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 6,
+          "from": "袁術殺楊州刺史陳溫，據淮南",
+          "through": "袁術殺楊州刺史陳溫，據淮南",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "四年春",
+          "note": "初平四年，袁術殺揚州刺史陳溫，據淮南。"
         }
       ],
       "exclusions": [],
