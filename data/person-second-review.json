@@ -79639,6 +79639,16 @@
           "through": "歆說術使進軍討卓，術不能用。",
           "citation": "《三國志·魏書十三·華歆傳》",
           "note": "董卓遷天子長安後，華歆自藍田至南陽，袁術在穰留歆；歆說術進軍討卓，術不能用。見袁術據南陽穰時留用名士、卻不用其討卓之說。"
+        },
+        {
+          "id": "yuanshu-liufu-shuo-qiji-qinyi-guitaozu",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 1,
+          "from": "建安初，說袁術將戚寄、秦翊，",
+          "through": "使率衆與俱詣太祖。",
+          "citation": "《三國志·魏書十五·劉馥傳》",
+          "note": "建安初，劉馥避亂揚州，說袁術將戚寄、秦翊率衆同詣太祖。見建安初袁術部將已離其歸曹，反映其勢力離散。"
         }
       ],
       "exclusions": [
@@ -79812,6 +79822,24 @@
           "term": "袁術",
           "quote": "太祖使備要擊袁術",
           "reason": "段落主體為郭嘉諫阻放劉備（與程昱同諫一事，見程昱傳），袁術僅為劉備要擊的對象提及，無本人行事細節，不獨立成條，排除。"
+        },
+        {
+          "id": "yuanshu-excl-dongzhao-yangfeng-hanxian-dongjiang-shu",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 20,
+          "term": "袁術",
+          "quote": "奉、暹失衆，東降袁術",
+          "reason": "段落主體為董昭勸太祖徙駕至許、攻楊奉梁營；袁術僅為楊奉、韓暹失衆後東降的去向提及，無本人行事細節，不獨立成條，排除。"
+        },
+        {
+          "id": "yuanshu-excl-dongzhao-liubei-ju-shu",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 21,
+          "term": "袁術",
+          "quote": "太祖令劉備拒袁術",
+          "reason": "段落主體為董昭諫阻放劉備（謂備勇而志大、關羽張飛為羽翼）及劉備反等事；袁術僅為劉備受命拒擊的對象提及，無本人行事細節，不獨立成條，排除。"
         }
       ],
       "unresolved": [],
