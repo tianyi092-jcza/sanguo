@@ -81358,6 +81358,33 @@
           "from": "韓遂、馬騰與郭汜、樊稠戰於長平觀",
           "through": "前益州刺史种劭戰歿。",
           "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "hsui-hhs-gengbi-campaign-187",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 19,
+          "from": "中平四年，鄙率六郡兵討金城賊王國、韓遂等。",
+          "through": "賊遂進圍漢陽。",
+          "citation": "《後漢書·虞傅蓋臧列傳》"
+        },
+        {
+          "id": "hsui-hhs-hanyue-renamed-184",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 3,
+          "from": "獻帝春秋曰：「涼州義從宋建、王國等反。",
+          "through": "『約』改為『遂』，『允』改為『章』。」",
+          "citation": "《後漢書·董卓列傳》"
+        },
+        {
+          "id": "hsui-hhs-zhengxi-general-202",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 36,
+          "from": "韓遂與馬騰自還涼州，更相戰爭，乃下隴據關中。",
+          "through": "七年，乃拜騰征南將軍，遂征西將軍，並開府。",
+          "citation": "《後漢書·董卓列傳》"
         }
       ],
       "exclusions": [],
