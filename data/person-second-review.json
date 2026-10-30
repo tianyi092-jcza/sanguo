@@ -83747,6 +83747,33 @@
           "from": "張角之反也，黑山、白波、黃龍、左校、牛角、五鹿、羝根、苦蝤、劉石、平漢、大洪、司隷、緣城、羅市、雷公、浮雲、飛燕、白爵、楊鳳、于毒等各起兵",
           "through": "大者二三萬，小者不減數千。",
           "citation": "《三國志·魏書八 二公孫陶四張傳第八 張燕傳》注"
+        },
+        {
+          "id": "zhangjue-sgz-zhanglu-dianlue-taipingdao",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 25,
+          "from": "角為太平道，脩為五斗米道。",
+          "through": "則云不信道。",
+          "citation": "《三國志·魏書八 二公孫陶四張傳第八 張魯傳》注"
+        },
+        {
+          "id": "zhangjue-sgz-luyu-xuhanshu-zhengjue",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 31,
+          "from": "張角起，以植為北中郎將征角，失利抵罪。",
+          "through": "張角起，以植為北中郎將征角，失利抵罪。",
+          "citation": "《三國志·魏書二十二 桓二陳徐衛盧傳第二十二 盧毓傳》注"
+        },
+        {
+          "id": "zhangjue-sgz-sunjian-zhongping-qibing",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 2,
+          "from": "中平元年，黃巾賊帥張角起於魏郡",
+          "through": "天下響應，燔燒郡縣，殺害長吏。",
+          "citation": "《三國志·吳書一 孫破虜討逆傳第一 孫堅傳》"
         }
       ],
       "exclusions": [],
