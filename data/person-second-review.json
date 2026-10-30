@@ -82458,6 +82458,33 @@
           "from": "劉璋時，為巴郡太守，",
           "through": "以為別駕。",
           "citation": "《三國志·蜀書十五 楊戲傳附王謀》"
+        },
+        {
+          "id": "liuzhang-sgz-wuyi-zhonglangjiang-jufu-xiang",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 32,
+          "from": "劉璋時，為中郎將，",
+          "through": "將兵拒先主於涪，詣降。",
+          "citation": "《三國志·蜀書十五 楊戲傳附吳壹》"
+        },
+        {
+          "id": "liuzhang-sgz-wangfu-zhoushuzuo-mianzhu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 44,
+          "from": "劉璋時，為州書佐。",
+          "through": "還為荊州議曹從事。",
+          "citation": "《三國志·蜀書十五 楊戲傳附王甫》"
+        },
+        {
+          "id": "liuzhang-sgz-chengji-wenzhi-jiangyang",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 46,
+          "from": "璋聞之，",
+          "through": "遷畿江陽太守。",
+          "citation": "《三國志·蜀書十五 楊戲傳附程畿》"
         }
       ],
       "exclusions": [],
