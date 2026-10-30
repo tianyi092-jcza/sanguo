@@ -76799,6 +76799,26 @@
           "through": "械繫之",
           "citation": "《三國志·魏書六·袁紹傳》",
           "note": "正文：南征曹公前，田豐獻久持、農戰擾敵之策，紹不從；豐懇諫，紹怒而以為沮衆，械繫之。此為官渡戰前袁紹拒納田豐之策，與後來戰敗殺豐相呼應。"
+        },
+        {
+          "id": "yuanshao-bio-shang-jihou-weixian",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 25,
+          "from": "紹愛少子尚",
+          "through": "欲以為後而未顯。",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：紹愛少子尚、欲以為後而未顯即死。此為袁紹身後譚、尚爭立之起因，僅取正文首句，不含其後典論等裴注。"
+        },
+        {
+          "id": "yuanshao-shu-yushu-lijun",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "from": "紹復與術書曰",
+          "through": "願詳思之。」",
+          "citation": "《三國志·魏書六·袁術傳》",
+          "note": "正文載於袁術傳：紹致書於術，主張西有幼君不可復信、當東立聖君，術不從。此為紹在立君問題上與術分歧的直接書證，非袁術生平本身。"
         }
       ],
       "exclusions": [
@@ -76927,6 +76947,15 @@
           "term": "袁紹",
           "quote": "袁紹傳",
           "reason": "此段僅為卷內袁紹小傳標題，全段三字，無事實敘述，排除。"
+        },
+        {
+          "id": "yuanshao-excl-liubiao-beijie",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 33,
+          "term": "袁紹",
+          "quote": "北與袁紹相結",
+          "reason": "此段為劉表傳，主述劉表治荊州及與孫堅、張羨等事；袁紹僅作為劉表北結對象一句帶過，未敘袁紹本人言行，依辨人通則排除，不作袁紹摘錄。"
         }
       ],
       "unresolved": [],
