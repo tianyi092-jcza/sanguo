@@ -79699,6 +79699,36 @@
           "through": "術表堅行破虜將軍，領豫州刺史。",
           "citation": "《三國志·吳書一·孫堅傳》",
           "note": "孫堅到魯陽與袁術相見，術表堅為行破虜將軍、領豫州刺史，見討董卓之際袁術對孫堅的表任與結納。"
+        },
+        {
+          "id": "yuanshu-xingping-ce-cong-shu-huan-buqu",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 9,
+          "from": "興平元年，從袁術。",
+          "through": "術甚奇之，以堅部曲還策。",
+          "citation": "《三國志·吳書一·孫策傳》",
+          "note": "興平元年孫策從袁術，術以孫堅舊部曲還策，見袁術對孫策的結納。"
+        },
+        {
+          "id": "yuanshu-jiangbiao-ce-shouchun-qiu-fubing",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 9,
+          "from": "江表傳曰：策徑到壽春見袁術",
+          "through": "術以堅餘兵千餘人還策。",
+          "citation": "《三國志·吳書一·孫策傳》",
+          "note": "裴注引江表傳：孫策至壽春見袁術求先父餘兵，術初未肯還，後以堅餘兵千餘人還策，與正文互補人數細節。"
+        },
+        {
+          "id": "yuanshu-jianhao-ce-shu-ze-jue",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 12,
+          "from": "時袁術僭號，策以書責而絕之。",
+          "through": "時袁術僭號，策以書責而絕之。",
+          "citation": "《三國志·吳書一·孫策傳》",
+          "note": "袁術僭號，孫策以書責而絕之，見袁術稱號後與孫策決裂。"
         }
       ],
       "exclusions": [
