@@ -81547,6 +81547,33 @@
           "from": "韓遂據涼州",
           "through": "韓遂逃于羌中，病死。",
           "citation": "《後漢書·天文志下》"
+        },
+        {
+          "id": "hsui-sg-tongguan-revolt-211",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "馬超遂與韓遂、楊秋、李堪、成宜等叛",
+          "through": "超等屯潼關，",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "hsui-sg-xiandi-edict-hansui",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 36,
+          "from": "韓遂、宋建",
+          "through": "屠其窟栖。",
+          "citation": "《三國志·魏書一·武帝紀》（引《獻帝傳》載詔）"
+        },
+        {
+          "id": "hsui-sg-dongzhuo-west-against-hansui",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 1,
+          "from": "韓遂等起涼州",
+          "through": "西拒遂。",
+          "citation": "《三國志·魏書六·董二袁劉傳》"
         }
       ],
       "exclusions": [],
