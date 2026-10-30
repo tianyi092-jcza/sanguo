@@ -84042,6 +84042,33 @@
           "term": "下曲陽之戰",
           "quote": "楊盛遣兄子倦入寇長蛇",
           "reason": "向量候選誤命中：本段記楊盛、姚泓、赫連勃勃等事，與張寶、下曲陽之戰無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-013",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 5,
+          "term": "黃巾起義",
+          "quote": "黃蓋傳",
+          "reason": "向量候選誤命中：本段僅為黃蓋傳標題行，全段未提張寶、黃巾起義，排除。"
+        },
+        {
+          "id": "zhangbao-excl-014",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 35,
+          "term": "黃巾起義",
+          "quote": "豫章人黃韜自號孝神皇帝",
+          "reason": "向量候選誤命中：本段記豫章黃韜自號、寇臨川、庾條討平事，與張寶、黃巾起義無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-015",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 40,
+          "term": "下曲陽之戰",
+          "quote": "征東大將軍苟晞攻王彌別帥曹嶷",
+          "reason": "向量候選誤命中：本段記苟晞、王彌、李洪事，與張寶、下曲陽之戰無關，排除。"
         }
       ],
       "unresolved": []
