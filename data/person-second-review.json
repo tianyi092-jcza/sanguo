@@ -76719,6 +76719,36 @@
           "through": "俾我國家拯於危墜",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "封魏公冊文列曹操功績：袁紹逆亂、稱兵內侮，曹操於官渡大殲其眾，國家拯於危墜。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-pingyue-sizhou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 46,
+          "from": "袁紹虎眎四州",
+          "through": "彊盛莫敵",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "武帝紀評曰：漢末雄豪並起，袁紹虎眎四州、彊盛莫敵，太祖運籌演謀終克成洪業。此為史臣評論層對袁紹鼎盛勢力的總評。"
+        },
+        {
+          "id": "yuanshao-sg-houfei-xi-nazhen",
+          "work": "sanguozhi",
+          "source": "a04-005",
+          "paragraph": 9,
+          "from": "袁紹為中子熈納之",
+          "through": "熈出為幽州",
+          "citation": "《三國志·魏書五·后妃傳》",
+          "note": "建安中袁紹為中子袁熈納甄氏為妻，後熈出為幽州，甄氏留養姑。正文層記載袁紹為子納媳一事，後附魏略、世語異說不併入。"
+        },
+        {
+          "id": "yuanshao-sg-dongzhuo-sili-mouhuan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 2,
+          "from": "大將軍何進與司隷校尉袁紹謀誅諸閹官",
+          "through": "太后不從",
+          "citation": "《三國志·魏書六·董卓傳》",
+          "note": "靈帝崩、少帝即位後，大將軍何進與時任司隷校尉的袁紹謀誅諸閹官，太后不從。此為袁紹任司隷校尉、參與誅宦謀劃的正文記載，與武帝紀同事件條互證。"
         }
       ],
       "exclusions": [
