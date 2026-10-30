@@ -82242,6 +82242,33 @@
           "from": "建安十六年，益州牧劉璋遣法正迎先主，使擊張魯。",
           "through": "先主自葭萌還攻璋，亮與張飛、趙雲等率衆泝江，分定郡縣，與先主共圍成都。",
           "citation": "《三國志·蜀書五 諸葛亮傳》"
+        },
+        {
+          "id": "liuzhang-sgz-zhangfei-po-yan-214",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 9,
+          "from": "先主入益州，還攻劉璋，飛與諸葛亮等泝流而上，分定郡縣。",
+          "through": "飛壯而釋之，引為賔客。",
+          "citation": "《三國志·蜀書六 張飛傳》"
+        },
+        {
+          "id": "liuzhang-sgz-huangzhong-xiandeng-214",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 19,
+          "from": "自葭萌受任，還攻劉璋，忠常先登陷陣，勇毅冠三軍。",
+          "through": "勇毅冠三軍。",
+          "citation": "《三國志·蜀書六 黃忠傳》"
+        },
+        {
+          "id": "liuzhang-sgz-zhaoyun-sujiang-214",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "from": "先主自葭萌還攻劉璋，召諸葛亮。",
+          "through": "與亮會于成都。",
+          "citation": "《三國志·蜀書六 趙雲傳》"
         }
       ],
       "exclusions": [],
