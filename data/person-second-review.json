@@ -81814,7 +81814,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "liuyan-hhs-xingping-194",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 7,
+          "from": "袁宏紀曰：「是時馬騰以李傕等專亂，以益州刺史劉焉宗室大臣，遣使招引共誅傕。焉遣子範將兵就騰。",
+          "through": "劭欲報仇，遂為此戰。」",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "liuyan-hhs-shujun-taishou",
+          "work": "houhanshu",
+          "source": "a03-031",
+          "paragraph": 36,
+          "from": "曾孫商，益州牧劉焉以為蜀郡太守",
+          "through": "有治聲。",
+          "citation": "《後漢書·卷三十一·列傳第二十一》"
+        },
+        {
+          "id": "liuyan-hhs-fangshu-tianziqi",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 16,
+          "from": "扶私謂太常劉焉曰：「京師將亂，益州分野有天子氣。」",
+          "through": "焉信之，遂求出爲益州牧，扶亦爲蜀郡屬國都尉，相與入蜀。",
+          "citation": "《後漢書·方術列傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
