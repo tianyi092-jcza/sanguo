@@ -79219,6 +79219,26 @@
           "through": "董卓殺隗及術兄基等男女二十餘人",
           "citation": "《後漢書·劉焉袁術呂布列傳·呂布傳》",
           "note": "袁術欲引呂布擊劉備，致書呂布：己舉兵詣闕未能屠裂董卓，將軍誅卓為術報恥，功一也；董卓殺隗及術兄基等男女二十餘人。"
+        },
+        {
+          "id": "yuanshu-hhs-lubu-qiu-hun",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 34,
+          "from": "術遣韓胤以僭號事告布",
+          "through": "布遣女隨之",
+          "citation": "《後漢書·劉焉袁術呂布列傳·呂布傳》",
+          "note": "袁術僭號後遣韓胤以僭號事告呂布，因求迎婦，布遣女隨之。"
+        },
+        {
+          "id": "yuanshu-hhs-lubu-nu-yin-qi-dao-gong-bu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 36,
+          "from": "袁術怒布殺韓胤",
+          "through": "七道攻布",
+          "citation": "《後漢書·劉焉袁術呂布列傳·呂布傳》",
+          "note": "袁術怒呂布殺韓胤，遣大將張勳、橋蕤等與韓暹、楊奉連勢，步騎數萬，七道攻布。"
         }
       ],
       "exclusions": [
@@ -79284,6 +79304,15 @@
           "term": "袁術",
           "quote": "操託彪與術婚姻，誣以欲圖廢置",
           "reason": "段落主事為曹操誣陷太尉楊彪下獄、羅織罪名；袁術僅出現在「託彪與術婚姻」的誣陷藉口中，無袁術本人行為或新史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-lubu-juanmu-biaoti",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 0,
+          "term": "袁術",
+          "quote": "劉焉　袁術　呂布",
+          "reason": "僅為本卷列傳篇目（劉焉、袁術、呂布三傳合卷之目），無袁術本人史實，排除。"
         }
       ],
       "unresolved": [],
