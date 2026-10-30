@@ -79279,6 +79279,36 @@
           "through": "太祖與紹會擊，皆破之",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "初平三年，袁術與袁紹有隙，求援於公孫瓚；瓚使劉備屯高唐、單經屯平原、陶謙屯發干以逼紹，曹操與袁紹會擊，皆破之。"
+        },
+        {
+          "id": "yuanshu-wudi-chuping4-fengqiu-zou-jiujiang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 7,
+          "from": "荊州牧劉表斷術糧道",
+          "through": "走九江",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "初平四年春，荊州牧劉表斷袁術糧道，袁術引軍入陳留屯封丘；曹操擊其將劉詳，袁術往救而敗，退保封丘，圍未合即走襄邑，追兵至太壽決渠灌城，袁術又走寧陵，最後走九江。"
+        },
+        {
+          "id": "yuanshu-wudi-xingping2-zhangmiao-qingjiu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 9,
+          "from": "邈詣袁術請救",
+          "through": "為其衆所殺",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "興平二年，張邈詣袁術請救，為其衆所殺，兖州平。"
+        },
+        {
+          "id": "yuanshu-wudi-jianan1-yuansi-jiang-changnu-juxian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "袁術所置陳相袁嗣降",
+          "through": "洪不得進",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安元年春正月，太祖軍臨武平，袁術所置陳相袁嗣降；太祖遣曹洪將兵西迎天子，衞將軍董承與袁術將萇奴拒險，洪不得進。"
         }
       ],
       "exclusions": [
