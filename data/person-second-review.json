@@ -81895,6 +81895,33 @@
           "from": "焉有異志",
           "through": "遂為瑁納后。",
           "citation": "《三國志·蜀書四 穆皇后傳》"
+        },
+        {
+          "id": "liuyan-sgz-liuba-songzhi-zongzheng-taichang",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 5,
+          "from": "臣松之案：劉焉在漢靈帝時已經宗正太常",
+          "through": "不得舉焉為孝廉，明也。",
+          "citation": "《三國志·蜀書九 劉巴傳》裴注"
+        },
+        {
+          "id": "liuyan-sgz-luyi-fuchang-songrushu",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 20,
+          "from": "父常，送故將軍劉焉入蜀",
+          "through": "遂不得還。",
+          "citation": "《三國志·蜀書九 呂乂傳》"
+        },
+        {
+          "id": "liuyan-sgz-mengguang-rushu-keli",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 14,
+          "from": "獻帝遷都長安，遂逃入蜀",
+          "through": "劉焉父子待以客禮。",
+          "citation": "《三國志·蜀書十二 孟光傳》"
         }
       ],
       "exclusions": [],
