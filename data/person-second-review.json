@@ -81493,6 +81493,33 @@
           "from": "碩雖擅兵於中，而猶畏忌於進，乃與諸常侍共說帝遣進西擊邊章、韓遂。",
           "through": "帝從之，賜兵車百乘，虎賁斧鉞。",
           "citation": "《後漢書·列傳第五十九·何進傳》"
+        },
+        {
+          "id": "hsui-hhs-huangfusong-zhen-changan",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 9,
+          "from": "會邊章、韓遂作亂隴右",
+          "through": "使嵩因討之。",
+          "citation": "《後漢書·皇甫嵩傳》"
+        },
+        {
+          "id": "hsui-hhs-xiandichunqiu-zheng-hansui",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 13,
+          "from": "初卓為前將軍，嵩為左將軍，俱征邊章、韓遂，爭雄。",
+          "through": "初卓為前將軍，嵩為左將軍，俱征邊章、韓遂，爭雄。",
+          "citation": "《後漢書·皇甫嵩傳》"
+        },
+        {
+          "id": "hsui-hhs-dongzhuo-kill-bianzhang",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 4,
+          "from": "其冬，徵溫還京師，韓遂乃殺邊章及伯玉、文侯",
+          "through": "共殺涼州刺史耿鄙。",
+          "citation": "《後漢書·董卓列傳》"
         }
       ],
       "exclusions": [],
