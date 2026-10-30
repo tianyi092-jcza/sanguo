@@ -82967,6 +82967,33 @@
           "from": "建安二十年，太祖乃自散關出武都征之，至陽平關。",
           "through": "太祖攻破之，遂入蜀。",
           "citation": "《三國志·魏書八·張魯傳》"
+        },
+        {
+          "id": "zhanglu-sgz-machao-conglu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "超據漢陽，騰坐夷三族。",
+          "through": "死於蜀。",
+          "citation": "《三國志·魏書六·李傕郭汜傳》"
+        },
+        {
+          "id": "zhanglu-sgz-hanhao-congtao-luxiang",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 4,
+          "from": "從討張魯，魯降。",
+          "through": "鎮漢中。",
+          "citation": "《三國志·魏書九·韓浩傳》"
+        },
+        {
+          "id": "zhanglu-sgz-xiayuan-shou-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 11,
+          "from": "太祖西征張魯，淵等將涼州諸將侯王已下，與太祖會休亭。",
+          "through": "即拜淵征西將軍。",
+          "citation": "《三國志·魏書九·夏侯淵傳》"
         }
       ],
       "exclusions": [],
