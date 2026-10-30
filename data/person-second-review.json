@@ -83495,15 +83495,21 @@
     {
       "id": "p0119",
       "name": "張角",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪收尾：共錄摘錄 30 條（《後漢書》26 條、《三國志》4 條，其中正文 1 條、裴注 3 條），排除 15 條（《後漢書》8 條、《三國志》5 條、《晉書》2 條），未解決 0 條；向量候選已窮盡（以最新 covered 重跑 retrieve，得候選 0 段）。",
+        "本傳補齊：張角在《三國志》中無專傳，原庫所繫《魏書一·武帝紀》等僅為散見提及；已核對武帝紀 a04-001 全 47 段，無一段提及張角本人名，故無可補；三國志中提及張角的孫堅傳正文、張燕傳注、張魯傳注、盧毓傳注段落及相關排除段落皆已覆蓋，未硬湊無關段落。",
+        "辨人：張角，鉅鹿人，太平道大賢良師；與弟張寶、張梁及黃巾餘部人物嚴格區分；「黃巾」泛稱、黃巾餘部事及未提本人名的背景段落不錄入張角名下，依全字匹配原則排除。",
+        "生平繫年：鉅鹿人，太平道首領，自號大賢良師；中平元年（184）起義，旬月間天下響應；同年病死。",
+        "勢力繫年：自始即為太平道起義軍首領，自立一系，不屬任何諸侯勢力；其死後餘部各自分散、歸附他人者，不得倒記為張角本人勢力延續。"
+      ],
       "excerpts": [
         {
           "id": "zhangjue-hhs-lingdi-184qiyi",
