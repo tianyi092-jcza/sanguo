@@ -82269,6 +82269,33 @@
           "from": "先主自葭萌還攻劉璋，召諸葛亮。",
           "through": "與亮會于成都。",
           "citation": "《三國志·蜀書六 趙雲傳》"
+        },
+        {
+          "id": "liuzhang-sgz-pangtong-zhongji",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 5,
+          "from": "益州牧劉璋與先主會涪，統進策曰：「今因此會，便可執之，則將軍無用兵之勞，而坐定一州也。」",
+          "through": "先主然其中計，即斬懷、沛，還向成都，所過輒克。",
+          "citation": "《三國志·蜀書七 龐統傳》"
+        },
+        {
+          "id": "liuzhang-sgz-fazheng-xiance",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 8,
+          "from": "後因璋聞曹公欲遣將征張魯之有懼心也，松遂說璋宜迎先主，使之討魯，復令正銜命。",
+          "through": "先主然之，泝江而西，與璋會涪。北至葭萌，南還取璋。",
+          "citation": "《三國志·蜀書七 法正傳》"
+        },
+        {
+          "id": "liuzhang-sgz-wangshang-juma",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 7,
+          "from": "商謂璋曰：「超勇而不仁，見得不思義，不可以為脣齒。",
+          "through": "璋從其言，乃拒絕之。",
+          "citation": "《三國志·蜀書八 許靖傳》"
         }
       ],
       "exclusions": [],
