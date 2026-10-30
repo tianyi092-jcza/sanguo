@@ -80461,7 +80461,41 @@
       "id": "p0111",
       "name": "田豐",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "tianfeng-hhs-xunyu-gang",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 36,
+          "from": "紹兵雖多而法不整",
+          "through": "可一戰而擒也。",
+          "citation": "《後漢書》卷七十·荀彧傳",
+          "context": "五年，袁紹率大衆以攻許",
+          "note": "建安五年袁紹攻許、曹操與相距時，孔融問荀彧紹軍可否克，荀彧評紹幕府：田豐剛而犯上、許攸貪而不正、審配專而無謀、逢紀果而自用，顏良、文醜匹夫之勇可一戰而擒。範曄正文層；段中先賢行狀、英雄記夾注屬注文層級，本條只錄正文。"
+        },
+        {
+          "id": "tianfeng-hhs-yuanshao-biejia",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 11,
+          "from": "紹乃以豐為別駕，配為治中",
+          "through": "甚見器任。",
+          "citation": "《後漢書·卷七十四上·袁紹傳》",
+          "context": "魏郡審配，鉅鹿田豐",
+          "note": "田豐與魏郡審配並以正直不得志於韓馥，袁紹得冀州後以田豐為別駕、審配為治中，甚見器任。段中先賢行狀夾注屬注文層級，本條只錄正文。"
+        },
+        {
+          "id": "tianfeng-sgz-yuanshao-jiuchi",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 23,
+          "from": "初，紹之南也，田豐說紹曰",
+          "through": "悔無及也。",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "context": "初，紹之南也",
+          "note": "官渡前袁紹南向攻許，田豐說紹：曹公善用兵、眾雖少未可輕，不如以久持之——據山河之固、擁四州之眾，外結英雄、內脩農戰，簡精銳分奇兵乘虛迭出擾河南，使敵疲於奔命，不及二年可坐克；今釋廟勝之策而決成敗於一戰，若不如志悔無及。陳壽正文層；段後先賢行狀、孫盛論屬注文層級，本條只錄正文諫言段。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
