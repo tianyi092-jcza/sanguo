@@ -83120,6 +83120,24 @@
           "from": "曹公破張魯，留夏侯淵、張郃守漢川。",
           "through": "曹公破張魯，留夏侯淵、張郃守漢川。",
           "citation": "《三國志·蜀書六·張飛傳》"
+        },
+        {
+          "id": "zhanglu-pei-machao-dujiang-jijiu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 15,
+          "from": "後奔漢中，張魯以為都講祭酒，欲妻之以女",
+          "through": "超遂從武都逃入氐中，轉奔往蜀。",
+          "citation": "《三國志·蜀書六·馬超傳》"
+        },
+        {
+          "id": "zhanglu-pei-machao-dongqiu-lubai",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 17,
+          "from": "初超之入蜀，其庶妻董及子秋，留依張魯",
+          "through": "魯自手殺之。",
+          "citation": "《三國志·蜀書六·馬超傳》"
         }
       ],
       "exclusions": [
@@ -83131,6 +83149,15 @@
           "term": "張魯",
           "quote": "簡喜，以語張魯，魯為洗沐送詣益州",
           "reason": "《三國志·蜀書三·後主傳》第1段：張魯僅見於裴注引《魏略》引文，松之已判「此則魏略之妄說」，後主未曾與先主相失；張魯並非敘述對象，不作生平新證據。排除。"
+        },
+        {
+          "id": "zhanglu-excl-a04-037-p12",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 12,
+          "term": "張魯",
+          "quote": "曹操一舉而降張魯，定漢中",
+          "reason": "《三國志·蜀書七·法正傳》第12段：法正說先主取漢中之策，僅以曹操一舉降張魯、定漢中為既成前提，未提供張魯生平新證據；張魯降曹事本傳及武帝紀已有詳載，此處不作新證據。排除。"
         }
       ],
       "unresolved": []
