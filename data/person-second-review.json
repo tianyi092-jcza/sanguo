@@ -82710,6 +82710,15 @@
           "from": "劉璋時召東州民居此",
           "through": "改曰東州頭",
           "citation": "《華陽國志》卷三·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-huayang-jiangyang-jianan18",
+          "work": "huayang",
+          "source": "a06-003",
+          "paragraph": 29,
+          "from": "建安十八年置郡",
+          "through": "璋聴之",
+          "citation": "《華陽國志》卷三·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -82730,6 +82739,24 @@
           "term": "劉璋",
           "quote": "主上既不能芟苗守嶮，又不肯徙人逃寇，酷似劉璋矣",
           "reason": "《晉書·卷一百二十八·載記第二十八》慕容鎮以慕容超比劉璋，僅為後世類比修辭，未載劉璋本人事實，排除。"
+        },
+        {
+          "id": "liuzhang-excl-huayang-wushi",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 22,
+          "term": "劉璋",
+          "quote": "呉氏呉懿妹劉璋",
+          "reason": "本段主述章武元年先主即帝位、立吳氏為皇后，劉璋僅用以標識吳氏為其兄瑁之妻，未載劉璋本人事蹟，排除。"
+        },
+        {
+          "id": "liuzhang-excl-huayang-zengsun",
+          "work": "huayang",
+          "source": "a06-008",
+          "paragraph": 24,
+          "term": "劉璋",
+          "quote": "敞乃故州牧劉璋曽孫也",
+          "reason": "本段主述李雄時期敞隱居白鹿山、為尚所殺，劉璋僅用以標識敞為其曾孫，未載劉璋本人事蹟，排除。"
         }
       ],
       "unresolved": []
