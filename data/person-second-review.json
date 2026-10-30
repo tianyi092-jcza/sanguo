@@ -81754,6 +81754,33 @@
           "from": "初，韓遂與馬騰作亂關中，",
           "through": "有連蜀之意。",
           "citation": "《三國志·蜀書八·許靖傳》裴松之注引《益州耆舊傳》"
+        },
+        {
+          "id": "hsui-sg-zhouqun-prophecy-hansui",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 4,
+          "from": "十七年十二月，星孛于五諸侯，羣以為西方專據土地者皆將失土。",
+          "through": "十九年，獲宋建，韓遂逃于羌中，被殺。",
+          "citation": "《三國志·蜀書十二·周羣傳》"
+        },
+        {
+          "id": "hsui-sg-sunjian-revolt-hansui",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 3,
+          "from": "邊章、韓遂作亂涼州。",
+          "through": "西討章等。",
+          "citation": "《三國志·吳書一·孫堅傳》"
+        },
+        {
+          "id": "hsui-sg-zhouyu-guansi-hansui",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 4,
+          "from": "今北土旣未平安，加馬超、韓遂尚在關西，為操後患。",
+          "through": "今北土旣未平安，加馬超、韓遂尚在關西，為操後患。",
+          "citation": "《三國志·吳書九·周瑜傳》"
         }
       ],
       "exclusions": [
