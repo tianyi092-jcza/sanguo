@@ -83720,6 +83720,33 @@
           "from": "中平元年，黃巾賊張角等立三十六方，起兵燒郡國，山東七州處處應角。",
           "through": "中平元年，黃巾賊張角等立三十六方，起兵燒郡國，山東七州處處應角。",
           "citation": "《後漢書·志第十七 五行五》"
+        },
+        {
+          "id": "zhangjue-hhs-junguo4-anji-shouxian",
+          "work": "houhanshu",
+          "source": "a03-112",
+          "paragraph": 34,
+          "from": "光和末，張角亂，此鄉守險助國，漢嘉之，故立縣。",
+          "through": "光和末，張角亂，此鄉守險助國，漢嘉之，故立縣。",
+          "citation": "《後漢書·志第二十二 郡國四》注"
+        },
+        {
+          "id": "zhangjue-hhs-baiguan5-bazhoubingfa",
+          "work": "houhanshu",
+          "source": "a03-118",
+          "paragraph": 4,
+          "from": "張角懷挾妖偽，遐邇搖蕩，八州并發，煙炎絳天，牧守梟裂，流血成川。",
+          "through": "張角懷挾妖偽，遐邇搖蕩，八州并發，煙炎絳天，牧守梟裂，流血成川。",
+          "citation": "《後漢書·志第二十八 百官五》注"
+        },
+        {
+          "id": "zhangjue-sgz-zhangyan-jiuzhouqibing",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 21,
+          "from": "張角之反也，黑山、白波、黃龍、左校、牛角、五鹿、羝根、苦蝤、劉石、平漢、大洪、司隷、緣城、羅市、雷公、浮雲、飛燕、白爵、楊鳳、于毒等各起兵",
+          "through": "大者二三萬，小者不減數千。",
+          "citation": "《三國志·魏書八 二公孫陶四張傳第八 張燕傳》注"
         }
       ],
       "exclusions": [],
