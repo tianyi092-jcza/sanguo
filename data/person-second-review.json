@@ -83138,6 +83138,24 @@
           "from": "初超之入蜀，其庶妻董及子秋，留依張魯",
           "through": "魯自手殺之。",
           "citation": "《三國志·蜀書六·馬超傳》"
+        },
+        {
+          "id": "zhanglu-sgz-zhouqun-yuyan-lu-jiang",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 4,
+          "from": "是時，劉璋據益州，張魯據漢中，韓遂據涼州，宋建據枹罕。",
+          "through": "二十年秋，曹公攻漢中，張魯降。",
+          "citation": "《三國志·蜀書十二·周羣傳》"
+        },
+        {
+          "id": "zhanglu-sgz-huangquan-ying-lu-nanzheng",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 1,
+          "from": "及曹公破張魯，魯走入巴中",
+          "through": "魯已還南鄭，北降曹公，",
+          "citation": "《三國志·蜀書十三·黃權傳》"
         }
       ],
       "exclusions": [
@@ -83158,6 +83176,15 @@
           "term": "張魯",
           "quote": "曹操一舉而降張魯，定漢中",
           "reason": "《三國志·蜀書七·法正傳》第12段：法正說先主取漢中之策，僅以曹操一舉降張魯、定漢中為既成前提，未提供張魯生平新證據；張魯降曹事本傳及武帝紀已有詳載，此處不作新證據。排除。"
+        },
+        {
+          "id": "zhanglu-excl-a04-039-p5",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 5,
+          "term": "張魯",
+          "quote": "若使備討張魯，是放虎於山林也",
+          "reason": "《三國志·蜀書九·劉巴傳》第5段：劉巴諫劉璋，僅以先主討張魯為喻，謂放虎於山林，未提供張魯生平新證據；張魯據漢中事本傳已有詳載，此處不作新證據。排除。"
         }
       ],
       "unresolved": []
