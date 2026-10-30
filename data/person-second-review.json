@@ -83924,15 +83924,21 @@
     {
       "id": "p0120",
       "name": "張寶",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪收尾：共錄摘錄 2 條（《後漢書》2 條，均出皇甫嵩傳），排除 41 條（《晉書》21 條、《後漢書》14 條、《三國志》6 條），未解決 0 條；向量候選已窮盡（以最新 covered 43 段重跑 retrieve，得候選 0 段）。",
+        "本傳補齊：張寶在《三國志》中無專傳，原庫繫《三國志》各紀傳提及；已核對《後漢書》卷七十一皇甫嵩傳 a03-071 全 32 段，提及本人者僅第 2、6 段（地公將軍、下曲陽被斬），皆已錄為摘錄；其餘含「寶」字段落為寶器、天地之寶等一般用語，非本人，未硬湊無關段落。",
+        "辨人：張寶為太平道首領張角之弟，稱地公將軍；與兄張角、弟張梁及後世同名人物嚴格區分；單字「寶」須確認確指本人，寶器等一般用語不錄；黃巾泛稱、未提本人名的背景段落不錄入張寶名下。",
+        "生平繫年：張角之弟，太平道地公將軍；中平元年（184）黃巾起義期間，於下曲陽為皇甫嵩、郭典所攻殺，首獲十餘萬人、築京觀於城南。",
+        "勢力繫年：自始即為太平道／黃巾一系，與兄張角同系，不屬任何諸侯勢力；其死後黃巾餘部去向不得倒記為張寶本人勢力延續。"
+      ],
       "excerpts": [
         {
           "id": "zhangbao-hhs-digong-general",
