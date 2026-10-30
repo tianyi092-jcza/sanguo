@@ -82350,6 +82350,33 @@
           "from": "劉璋時，舉孝廉，為魚復長，",
           "through": "裔還，城門乃開。",
           "citation": "《三國志·蜀書十一 張裔傳》"
+        },
+        {
+          "id": "liuzhang-sgz-yanghong-libu",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 13,
+          "from": "楊洪字季休，犍為武陽人也。",
+          "through": "劉璋時歷部諸郡。",
+          "citation": "《三國志·蜀書十一 楊洪傳》"
+        },
+        {
+          "id": "liuzhang-sgz-feishi-mianzhu",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 18,
+          "from": "劉璋時為緜竹令，",
+          "through": "詩先舉城降。",
+          "citation": "《三國志·蜀書十一 費詩傳》"
+        },
+        {
+          "id": "liuzhang-sgz-duwei-congshi",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 1,
+          "from": "劉璋辟為從事，",
+          "through": "以疾去官。",
+          "citation": "《三國志·蜀書十二 杜微傳》"
         }
       ],
       "exclusions": [],
