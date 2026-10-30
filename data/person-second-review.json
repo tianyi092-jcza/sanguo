@@ -79049,9 +79049,39 @@
           "citation": "《後漢書·孝獻帝紀》所載",
           "context": "四年春",
           "note": "建安四年夏六月，袁術死。"
+        },
+        {
+          "id": "yuanshu-hhs-lukang-shouchun-sunce",
+          "work": "houhanshu",
+          "source": "a03-031",
+          "paragraph": 54,
+          "from": "時袁術屯兵壽春",
+          "through": "術大怒，遣其將孫策攻康，圍城數重",
+          "citation": "《後漢書·郭伋杜詩孔奮張堪廉范王堂蘇章羊續賈琮陸康列傳·陸康傳》",
+          "note": "袁術屯兵壽春，部曲飢餓，向廬江太守陸康索委輸兵甲；康以其叛逆閉門不通、內修戰備以禦之；術怒遣其將孫策圍攻，陸康固守二年，城陷。"
+        },
+        {
+          "id": "yuanshu-hhs-xuqiu-jie-shanggong",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 45,
+          "from": "道為袁術所劫，授璆以上公之位",
+          "through": "術不敢逼",
+          "citation": "《後漢書·楊終李法翟酺應奉霍諝爰延徐璆列傳·徐璆傳》",
+          "note": "獻帝遷許，廷尉徐璆赴京途中為袁術所劫，術欲授以上公之位；璆引龔勝、鮑宣守節不從，術不敢逼。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yuanshu-excl-luji-huaiju",
+          "work": "houhanshu",
+          "source": "a03-031",
+          "paragraph": 55,
+          "term": "袁術",
+          "quote": "幼年曾謁袁術，懷橘墯地者也",
+          "reason": "段落主角為陸績（字公紀，仕吳為鬱林太守），袁術僅為其幼年謁見的對象；懷橘軼事屬陸績生平，無袁術本人實質史實，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
