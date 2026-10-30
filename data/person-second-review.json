@@ -83192,6 +83192,24 @@
           "from": "權爲護軍迎魯魯已北降曹公",
           "through": "朴胡袁約等",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhanglu-huayang-lite-guidao-ba-qian-hanzhong",
+          "work": "huayang",
+          "source": "a06-009",
+          "paragraph": 0,
+          "from": "漢末張魯居漢中以鬼道教百",
+          "through": "姓賨人敬信",
+          "citation": "《華陽國志》卷九·四部叢刊本"
+        },
+        {
+          "id": "zhanglu-hhs-liuyan-zhang-bu-shun-ba-han",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 8,
+          "from": "張魯以璋闇懦，不復承順。",
+          "through": "遂雄於巴漢。",
+          "citation": "《後漢書·劉焉傳》"
         }
       ],
       "exclusions": [
@@ -83239,6 +83257,15 @@
           "term": "張魯",
           "quote": "漢中張魯定巴西",
           "reason": "《華陽國志》卷六第14段：曹公入漢中之際，黃權以失漢中則三巴不振進言，張魯僅作為漢中之主在戰略背景中被提及，未提供張魯生平新證據；其據漢中、降曹事本傳已有詳載，此處不作新證據。排除。"
+        },
+        {
+          "id": "zhanglu-excl-a04-008-p24",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 24,
+          "term": "張魯",
+          "quote": "張魯傳",
+          "reason": "《三國志·魏書八·張魯傳》第24段：僅為本傳篇目標題，無正文內容，未提供張魯生平新證據；本傳正文已於第25、26段詳載，此處不作新證據。排除。"
         }
       ],
       "unresolved": []
