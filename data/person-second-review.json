@@ -84204,6 +84204,33 @@
           "term": "黃巾起義",
           "quote": "黃權傳",
           "reason": "本段僅為卷首傳名，無正文內容，未提張寶，向量候選誤命中，排除。"
+        },
+        {
+          "id": "zhangbao-excl-031",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 151,
+          "term": "下曲陽之戰",
+          "quote": "夏，劉裕敗魏將鵝青于河曲",
+          "reason": "本段記劉裕敗魏將鵝青事，全段未提張寶、未提下曲陽，向量候選誤命中，排除。"
+        },
+        {
+          "id": "zhangbao-excl-032",
+          "work": "houhanshu",
+          "source": "a03-107",
+          "paragraph": 14,
+          "term": "黃巾起義",
+          "quote": "到中平元年二月，張角兄弟起兵兾州",
+          "reason": "本段僅言張角兄弟起兵，未具名張寶，按全字匹配原則不能確指張寶本人，排除。"
+        },
+        {
+          "id": "zhangbao-excl-033",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "term": "黃巾起義",
+          "quote": "黃巾起，鮑信招合徒衆，禁附從焉。",
+          "reason": "本段為于禁傳，記于禁附從鮑信事，全段未提張寶，向量候選誤命中，排除。"
         }
       ],
       "unresolved": []
