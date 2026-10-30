@@ -82188,6 +82188,33 @@
           "from": "益州牧劉璋與表有隙",
           "through": "令璋下兵以綴表軍。",
           "citation": "《三國志·魏書二十一 王衛二劉傅傳 衛覬傳》"
+        },
+        {
+          "id": "liuzhang-sgz-xianzhu-gongqu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "劉璋不武，不能自守。",
+          "through": "權不聽，遣孫瑜率水軍住夏口。",
+          "citation": "《三國志·蜀書二 先主傳》"
+        },
+        {
+          "id": "liuzhang-sgz-xianzhu-yingbei-211",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 12,
+          "from": "璋然之，遣法正將四千人迎先主",
+          "through": "璋增先主兵，使擊張魯，又令督白水軍。",
+          "citation": "《三國志·蜀書二 先主傳》"
+        },
+        {
+          "id": "liuzhang-sgz-xianzhu-xique-212",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "乃從璋求萬兵及資實，欲以東行。璋但許兵四千，其餘皆給半。",
+          "through": "於是璋收斬松，嫌隙始構矣。",
+          "citation": "《三國志·蜀書二 先主傳》"
         }
       ],
       "exclusions": [],
