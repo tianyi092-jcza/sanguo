@@ -81601,6 +81601,33 @@
           "from": "諸將爭權，遂殺稠，并其衆。",
           "through": "諸將爭權，遂殺稠，并其衆。",
           "citation": "《三國志·魏書六·董二袁劉傳》"
+        },
+        {
+          "id": "hsui-sg-taoqian-zhangwen-against-hansui",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 8,
+          "from": "後邊章、韓遂為亂",
+          "through": "司空張溫銜命征討；",
+          "citation": "《三國志·魏書八·二公孫陶四張傳·陶謙傳》"
+        },
+        {
+          "id": "hsui-sg-zhanglu-refugees-hansui-revolt",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 25,
+          "from": "韓遂、馬超之亂",
+          "through": "奔之者數萬家。",
+          "citation": "《三國志·魏書八·二公孫陶四張傳·張魯傳》"
+        },
+        {
+          "id": "hsui-sg-xiahouyuan-weinan-against-hansui",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 7,
+          "from": "從征韓遂等",
+          "through": "戰於渭南。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳·夏侯淵傳》"
         }
       ],
       "exclusions": [],
