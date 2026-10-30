@@ -80235,7 +80235,7 @@
     {
       "id": "p0110",
       "name": "審配",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "shenpei-hhs-xunyu-guandu-ping",
@@ -80443,13 +80443,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：向量候選已耗盡（以最新 covered 重跑 retrieve，候選 0 段）、未決 0 條；共錄摘錄 19 條（《三國志》8、《後漢書》11）、排除 1 條（本傳單字「配」婚配動詞誤報）。",
+        "本傳補齊：核對檢索配置 bio_files《三國志》卷六 a04-006 全 39 段，含「審配」者僅第 20、25 段（皆已錄為摘錄），第 30 段單字「配」為婚配動詞已排除；本傳無遺漏。",
+        "辨人：審配字正南，與袁譚、袁尚、逢紀、許攸及同卷袁紹諸子嚴格區分；單字「配」須核實確指本人才錄，婚配義動詞不錄。",
+        "事蹟主幹：韓馥舊臣不得志，袁紹得冀州後任治中；官渡前夕與逢紀統軍事，官渡相持時收繫許攸家致其叛歸曹操；袁紹死後與逢紀矯遺命奉袁尚為嗣，留守鄴城；建安九年鄴破被擒，終無撓辭而死；破鄴後家財籍沒。",
+        "勢力繫年：始終屬袁紹—袁尚一系，未轉投；與附袁譚的郭圖、辛評一派對立（獻書勸譚、議不益譚兵皆此脈絡），不以譚尚爭位混淆其歸屬。"
+      ]
     }
   ]
 }
