@@ -79579,6 +79579,36 @@
           "through": "術深恨之",
           "citation": "《三國志·魏書十·荀攸傳》",
           "note": "裴注引漢末名士錄：袁術豪俠，與袁紹爭名；何顒未嘗造術，術深恨之。反映袁術早年聲名與交遊情形，屬裴注引書，非正文。"
+        },
+        {
+          "id": "yuanshu-xunyou-bu-shi-shu",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 17,
+          "from": "布驍猛，又恃袁術",
+          "through": "豪傑必應之。",
+          "citation": "《三國志·魏書十·荀攸傳》",
+          "note": "裴注引魏書：荀攸勸太祖乘呂布初叛往擊，謂布驍猛又恃袁術，若縱橫淮、泗間豪傑必應之。見袁術為呂布之恃，屬裴注引書，非正文。"
+        },
+        {
+          "id": "yuanshu-yuanhuan-zhengyi-jing",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 1,
+          "from": "後避地江、淮間，為袁術所命",
+          "through": "然敬之不敢不禮也。",
+          "citation": "《三國志·魏書十一·袁渙傳》",
+          "note": "袁渙避地江、淮間為袁術所命，術每有所咨訪，渙常正議，術不能抗然敬之不敢不禮。見袁術對直言士的禮遇。"
+        },
+        {
+          "id": "yuanshu-zhangfan-zhaopin-jianhao",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 7,
+          "from": "袁術備禮招請，範稱疾不往",
+          "through": "術不恱。",
+          "citation": "《三國志·魏書十一·張範傳》",
+          "note": "袁術備禮招請張範，範稱疾不往，術不強屈；遣張承相見，術自比齊桓、高祖，承以在德不在彊對，術不悅。見袁術招士與僭擬之志。"
         }
       ],
       "exclusions": [
