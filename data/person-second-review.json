@@ -83102,9 +83102,37 @@
           "from": "璋增先主兵，使擊張魯，又令督白水軍。",
           "through": "璋增先主兵，使擊張魯，又令督白水軍。",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhanglu-sgz-xianzhu-lu-dun-baxi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 15,
+          "from": "是歲，曹公定漢中，張魯遁走巴西。",
+          "through": "是歲，曹公定漢中，張魯遁走巴西。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhanglu-sgz-zhangfei-po-lu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 10,
+          "from": "曹公破張魯，留夏侯淵、張郃守漢川。",
+          "through": "曹公破張魯，留夏侯淵、張郃守漢川。",
+          "citation": "《三國志·蜀書六·張飛傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhanglu-excl-a04-033-p1",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 1,
+          "term": "張魯",
+          "quote": "簡喜，以語張魯，魯為洗沐送詣益州",
+          "reason": "《三國志·蜀書三·後主傳》第1段：張魯僅見於裴注引《魏略》引文，松之已判「此則魏略之妄說」，後主未曾與先主相失；張魯並非敘述對象，不作生平新證據。排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
