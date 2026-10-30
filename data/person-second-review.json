@@ -79679,6 +79679,16 @@
           "through": "先主拒之於盱眙、淮陰。",
           "citation": "《三國志·蜀書二·先主傳》",
           "note": "袁術來攻先主，先主拒之於盱眙、淮陰，見袁術對徐州方向主動用兵、與先主正面交戰。"
+        },
+        {
+          "id": "yuanshu-xianzhu-yaoji-shu-bingsi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 4,
+          "from": "袁術欲經徐州北就袁紹，",
+          "through": "未至，術病死。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "袁術欲經徐州北就袁紹，曹公遣先主督朱靈、路招要擊，未至而術病死，見袁術末路北投未果而卒。"
         }
       ],
       "exclusions": [
@@ -79897,6 +79907,24 @@
           "term": "袁術",
           "quote": "避袁術命召",
           "reason": "段落主體為韓曁出身、報父仇、隱居魯陽山中化山民的履歷；袁術僅為命召對象一語提及，韓曁避召徙居山都之山，命召內容與袁術行事皆無細節，不獨立成條，排除。"
+        },
+        {
+          "id": "yuanshu-excl-songzhi-bo-huchong-yaoji",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 6,
+          "term": "袁術",
+          "quote": "魏武帝遣先主統諸將要擊袁術",
+          "reason": "段落主體為裴松之駁胡沖吳歷種菜遁逃說，要擊袁術事僅作「其事顯然」之舉證一語，無袁術行事新細節，且正文要擊、病死事已另條錄入，不獨立成條，排除。"
+        },
+        {
+          "id": "yuanshu-excl-zhugeliang-congfu-shu-shu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 0,
+          "term": "袁術",
+          "quote": "從父玄為袁術所署豫章太守",
+          "reason": "段落主體為諸葛亮家世與早年，袁術署諸葛玄為豫章太守僅一語背景，任命細節與後續皆無，不獨立成條，排除。"
         }
       ],
       "unresolved": [],
