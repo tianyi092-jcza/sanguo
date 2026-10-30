@@ -78946,6 +78946,55 @@
         "生平繫年：袁紹以中子熈為幽州；建安中袁紹為熈納甄氏，熈出為幽州、后留養姑，鄴破後甄氏為曹丕所納；建安十年焦觸、張南叛攻，熙、尚奔遼西烏丸；建安十二年與烏丸戰敗奔遼東，為公孫康誘斬，獻帝紀「遼東太守公孫康殺袁尚、袁熙」互證。",
         "收尾依據：本輪向量候選 0 段、未解決 0 條；按本傳補齊核對，本傳 a04-006 全卷僅第 20、26 段提及熈且皆已覆蓋，故結案，未硬湊無關段落。"
       ]
+    },
+    {
+      "id": "p0109",
+      "name": "袁術",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "yuanshu-hhs-yuanshu-bio-start",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 18,
+          "from": "袁術字公路，汝南汝陽人",
+          "through": "累遷至河南尹、虎賁中郎將。",
+          "citation": "《後漢書·劉焉袁術呂布列傳·袁術傳》",
+          "note": "袁術傳開篇：字公路，汝南汝陽人，司空袁逢之子；少以俠氣聞，後頗折節，舉孝廉，累遷至河南尹、虎賁中郎將。"
+        },
+        {
+          "id": "yuanshu-hhs-lingdi-shao-dongxi-gong",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 24,
+          "from": "於是虎賁中郎將袁術燒東西宮，攻諸宦者。",
+          "through": "於是虎賁中郎將袁術燒東西宮，攻諸宦者。",
+          "citation": "《後漢書·孝靈帝紀》所載",
+          "context": "八月戊辰",
+          "note": "中平六年八月誅宦之役；袁術時任虎賁中郎將，燒東西宮、攻諸宦者。"
+        },
+        {
+          "id": "yuanshu-hhs-xiandi-sha-wuxiu-wanggui",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 3,
+          "from": "將作大匠吳脩、越騎校尉王瓌安集關東",
+          "through": "後將軍袁術、河內太守王匡各執而殺之",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "初平元年",
+          "note": "初平元年，袁術為後將軍，與河內太守王匡執殺安集關東的吳脩、王瓌。同段另載董卓以山東兵起、依紹術為主，故誅袁術親屬。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
