@@ -81841,6 +81841,33 @@
           "from": "扶私謂太常劉焉曰：「京師將亂，益州分野有天子氣。」",
           "through": "焉信之，遂求出爲益州牧，扶亦爲蜀郡屬國都尉，相與入蜀。",
           "citation": "《後漢書·方術列傳》"
+        },
+        {
+          "id": "liuyan-hhs-baiguan-zhoumu-yifu",
+          "work": "houhanshu",
+          "source": "a03-118",
+          "paragraph": 3,
+          "from": "劉焉徼偽，自為身謀",
+          "through": "故焉牧益土，造帝服於岷、峨；",
+          "citation": "《後漢書·百官志五》"
+        },
+        {
+          "id": "liuyan-sgz-gongsunzan-yingxiongji-jianwei",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 2,
+          "from": "虞讓太尉，因薦衞尉趙謨、益州牧劉焉",
+          "through": "並任為公。",
+          "citation": "《三國志·魏書八 公孫瓚傳》裴注引《英雄記》"
+        },
+        {
+          "id": "liuyan-sgz-zhanglu-duyisima",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 25,
+          "from": "益州牧劉焉以魯為督義司馬",
+          "through": "魯遂襲脩殺之，奪其衆。",
+          "citation": "《三國志·魏書八 張魯傳》"
         }
       ],
       "exclusions": [],
