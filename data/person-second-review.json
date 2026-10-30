@@ -79189,6 +79189,36 @@
           "through": "奔其部曲陳簡、雷薄於灊山",
           "citation": "《後漢書·劉焉袁術呂布列傳·袁術傳》",
           "note": "袁術晚年資實空盡、不能自立，於四年夏燒宮室，奔其部曲陳簡、雷薄於灊山。"
+        },
+        {
+          "id": "yuanshu-hhs-jiangting-ou-xue-si",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 25,
+          "from": "術因欲北至青州從袁譚",
+          "through": "因憤慨結病，歐血死",
+          "citation": "《後漢書·劉焉袁術呂布列傳·袁術傳》",
+          "note": "袁術末路：欲北至青州從袁譚，為曹操使劉備徼阻不得過，復走還壽春，六月至江亭，坐簀牀歎「袁術乃至是乎」，憤慨結病，歐血死。"
+        },
+        {
+          "id": "yuanshu-hhs-lubu-nanyang-dai-hou",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 29,
+          "from": "袁術待之甚厚",
+          "through": "復去從張楊於河內",
+          "citation": "《後漢書·劉焉袁術呂布列傳·呂布傳》",
+          "note": "呂布殺董卓後走出武關奔南陽，袁術待之甚厚；布自恃殺卓有德袁氏，恣兵鈔掠，術患之，布不安，復去從張楊於河內。"
+        },
+        {
+          "id": "yuanshu-hhs-shu-lubu-ji-bei",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 32,
+          "from": "術欲引布擊備",
+          "through": "董卓殺隗及術兄基等男女二十餘人",
+          "citation": "《後漢書·劉焉袁術呂布列傳·呂布傳》",
+          "note": "袁術欲引呂布擊劉備，致書呂布：己舉兵詣闕未能屠裂董卓，將軍誅卓為術報恥，功一也；董卓殺隗及術兄基等男女二十餘人。"
         }
       ],
       "exclusions": [
