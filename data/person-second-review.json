@@ -83639,6 +83639,33 @@
           "from": "張角之捷，本之於盧植",
           "through": "而己不有焉。",
           "citation": "《後漢書·皇甫嵩傳》"
+        },
+        {
+          "id": "zhangjue-hhs-dongzhuo-xiaquyang",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 3,
+          "from": "中平元年，拜東中郎將，持節，代盧植擊張角於下曲陽，軍敗抵罪。",
+          "through": "中平元年，拜東中郎將，持節，代盧植擊張角於下曲陽，軍敗抵罪。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "zhangjue-hhs-liuyan-taipingdao",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 13,
+          "from": "太平道師持九節杖，為符祝，敎病人叩頭思過，因以符水飲之。",
+          "through": "太平道師持九節杖，為符祝，敎病人叩頭思過，因以符水飲之。",
+          "citation": "《後漢書·劉焉傳》注"
+        },
+        {
+          "id": "zhangjue-hhs-zhangjun-shangshu",
+          "work": "houhanshu",
+          "source": "a03-078",
+          "paragraph": 66,
+          "from": "竊惟張角所以能興兵作亂，萬人所以樂附之者，其源皆由十常侍多放父兄、子弟、婚親、賔客典據州郡，辜榷財利，侵掠百姓，百姓之冤無所告訴，故謀議不軌，聚為盜賊。",
+          "through": "竊惟張角所以能興兵作亂，萬人所以樂附之者，其源皆由十常侍多放父兄、子弟、婚親、賔客典據州郡，辜榷財利，侵掠百姓，百姓之冤無所告訴，故謀議不軌，聚為盜賊。",
+          "citation": "《後漢書·宦者列傳》"
         }
       ],
       "exclusions": [],
