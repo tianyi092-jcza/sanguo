@@ -82539,6 +82539,33 @@
           "from": "建安六年，劉璋改永寧為巴東郡，",
           "through": "分巴郡墊江置巴西郡。",
           "citation": "《晉書·卷十四·地理志》"
+        },
+        {
+          "id": "liuzhang-jin-dili-yizhou",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 129,
+          "from": "獻帝初平元年，劉璋分巴郡立永寧郡。",
+          "through": "建安六年，改永寧為巴東，以巴郡為巴西，又立涪陵郡。",
+          "citation": "《晉書·卷十四·地理志》"
+        },
+        {
+          "id": "liuzhang-huayang-bazhi-sanba",
+          "work": "huayang",
+          "source": "a06-001",
+          "paragraph": 17,
+          "from": "初平元年征東中郎將安漢趙穎建議分巴為二郡",
+          "through": "徙羲為巴西太守是為三巴",
+          "citation": "《華陽國志·卷一 巴志》"
+        },
+        {
+          "id": "liuzhang-huayang-xianzhu-jiang",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 19,
+          "from": "其所佩振威將軍印綬還其財物遷璋于",
+          "through": "劉主東征璋還呉卒也",
+          "citation": "《華陽國志·卷五 公孫述劉二牧志》"
         }
       ],
       "exclusions": [],
