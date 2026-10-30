@@ -83048,6 +83048,33 @@
           "from": "太祖克張魯，洽陳便宜以時拔軍徙民，可省置守之費。",
           "through": "太祖未納，其後竟徙民棄漢中。",
           "citation": "《三國志·魏書二十三·和洽傳》"
+        },
+        {
+          "id": "zhanglu-sgz-duxi-congtao-lu",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 19,
+          "from": "後襲領丞相長史，隨太祖到漢中討張魯。",
+          "through": "太祖還，拜襲駙馬都尉，留督漢中軍事。",
+          "citation": "《三國志·魏書二十三·杜襲傳》"
+        },
+        {
+          "id": "zhanglu-sgz-gaorou-jian-tao-lu",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 14,
+          "from": "太祖欲遣鍾繇等討張魯，柔諫，以為今猥遣大兵，西有韓遂、馬超，謂為己舉，將相扇動作逆，宜先招集三輔，三輔苟平，漢中可傳檄而定也。",
+          "through": "繇入關，遂、超等果反。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "zhanglu-pei-chao-ben-lu-debing",
+          "work": "peizhu",
+          "source": "a04-025",
+          "paragraph": 13,
+          "from": "超奔漢中，從張魯得兵還。",
+          "through": "超奔漢中，從張魯得兵還。",
+          "citation": "裴注引皇甫謐《列女傳》"
         }
       ],
       "exclusions": [],
