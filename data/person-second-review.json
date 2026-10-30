@@ -81628,6 +81628,33 @@
           "from": "從征韓遂等",
           "through": "戰於渭南。",
           "citation": "《三國志·魏書九·諸夏侯曹傳·夏侯淵傳》"
+        },
+        {
+          "id": "hsui-sg-xiahouyuan-changli-214",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 9,
+          "from": "韓遂在顯親，",
+          "through": "大破遂軍，得其旌麾，",
+          "citation": "《三國志·魏書九·諸夏侯曹傳·夏侯淵傳》"
+        },
+        {
+          "id": "hsui-sg-xunyu-guanzhong-strongest",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 5,
+          "from": "關中將帥以十數，莫能相一，唯韓遂、馬超最彊。",
+          "through": "關中將帥以十數，莫能相一，唯韓遂、馬超最彊。",
+          "citation": "《三國志·魏書十·荀彧荀攸賈詡傳·荀彧傳》"
+        },
+        {
+          "id": "hsui-pei-jiaxu-weinan-211",
+          "work": "peizhu",
+          "source": "a04-010",
+          "paragraph": 26,
+          "from": "太祖後與韓遂、馬超戰於渭南，超等索割地以和，并求任子。",
+          "through": "卒破遂、超，詡本謀也。",
+          "citation": "《三國志·魏書十·荀彧荀攸賈詡傳·賈詡傳》裴松之注"
         }
       ],
       "exclusions": [],
