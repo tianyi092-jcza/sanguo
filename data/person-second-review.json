@@ -79139,6 +79139,26 @@
           "through": "而術竟不遣之",
           "citation": "《後漢書》卷七十三·劉虞傳",
           "note": "劉虞子和奉使長安途經南陽，袁術扣留子和、要求劉虞遣兵俱西迎天子；劉虞遣數千騎就和奉迎，袁術最終仍不遣子和。"
+        },
+        {
+          "id": "yuanshu-hhs-gongsunzan-yue-sunjian",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "瓚旣諫劉虞遣兵就袁術",
+          "through": "越為流矢所中死",
+          "citation": "《後漢書》卷七十三·公孫瓚傳",
+          "note": "公孫瓚從弟越將千餘騎詣袁術自結，袁術遣越隨其將孫堅擊袁紹將周昕，越中流矢死；瓚因此怒紹，舉兵攻紹。"
+        },
+        {
+          "id": "yuanshu-hhs-zhisha-yinxun",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 7,
+          "from": "袁術亦執殺陰循",
+          "through": "惟韓融以名德免",
+          "citation": "《後漢書》卷七十四·袁紹傳",
+          "note": "董卓遣韓融、陰循等譬解袁紹等軍，袁紹使王匡殺胡母班等人，袁術亦執殺陰循，唯韓融以名德得免。"
         }
       ],
       "exclusions": [
@@ -79195,6 +79215,15 @@
           "term": "袁術",
           "quote": "誣衞尉張溫與袁術交通",
           "reason": "段落主事為董卓誣陷衞尉張溫、笞殺之以塞天變；袁術僅出現在誣陷罪名「與袁術交通」一句中，屬董卓羅織之詞，無袁術本人行為或新史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-caocao-yangbiao-yuanshu-hunyin",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 31,
+          "term": "袁術",
+          "quote": "操託彪與術婚姻，誣以欲圖廢置",
+          "reason": "段落主事為曹操誣陷太尉楊彪下獄、羅織罪名；袁術僅出現在「託彪與術婚姻」的誣陷藉口中，無袁術本人行為或新史實，排除。"
         }
       ],
       "unresolved": [],
