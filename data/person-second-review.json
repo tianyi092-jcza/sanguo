@@ -83934,7 +83934,35 @@
       },
       "conclusions": [],
       "excerpts": [],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangbao-excl-001",
+          "work": "jinshu",
+          "source": "a05-121-ahcb",
+          "paragraph": 5,
+          "term": "張寶",
+          "quote": "遣其將張寶襲梓潼，陷之。",
+          "reason": "本段為成漢李雄事，其將張寶襲梓潼，與黃巾地公將軍張寶同名異人，排除。"
+        },
+        {
+          "id": "zhangbao-excl-002",
+          "work": "houhanshu",
+          "source": "a03-008",
+          "paragraph": 17,
+          "term": "黃巾起義",
+          "quote": "中平元年春二月，鉅鹿人張角自稱「黃天」，其部師有三十六萬，皆著黃巾，同日反叛。",
+          "reason": "全段記中平元年黃巾起義與朝廷討伐經過，全段未提張寶本人名，按全名精確匹配寧錯過原則，排除。"
+        },
+        {
+          "id": "zhangbao-excl-003",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 77,
+          "term": "黃巾賊",
+          "quote": "巾，以葛爲之，形如㡊而橫著之，古尊卑共服也。故漢末妖賊以黃爲巾，世謂黃巾賊。",
+          "reason": "《晉書·輿服志》通釋黃巾名義，未提張寶本人，非張寶史實，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
