@@ -82134,7 +82134,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "liuzhang-hhs-xiandi-214",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 27,
+          "from": "五月，雨水。劉備破劉璋，據益州。",
+          "through": "劉備破劉璋，據益州。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "liuzhang-hhs-kaicheng-214",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 11,
+          "from": "璋言：「父子在州二十餘歲，無恩德以加百姓，而攻戰三載，肌膏草野者，以璋故也。何心能安！」遂開城出降，羣下莫不流涕。",
+          "through": "備遷璋於公安",
+          "citation": "《後漢書·劉焉袁術呂布列傳》"
+        },
+        {
+          "id": "liuzhang-hhs-tianwen-214",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 26,
+          "from": "是時益州牧劉璋據益州，漢中太守張魯別據漢中",
+          "through": "其年秋，璋失益州。",
+          "citation": "《後漢書·天文志》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
