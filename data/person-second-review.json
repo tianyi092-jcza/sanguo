@@ -83612,6 +83612,33 @@
           "from": "中平元年，黃巾賊張角等起，以進為大將軍，率左右羽林五營士屯都亭，修理器械，以鎮京師。",
           "through": "張角別黨馬元義謀起洛陽，進發其姦，以功封慎侯。",
           "citation": "《後漢書·何進傳》"
+        },
+        {
+          "id": "zhangjue-hhs-huangfusong-bingsi",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 5,
+          "from": "角先已病死，乃剖棺戮屍，傳首京師。",
+          "through": "角先已病死，乃剖棺戮屍，傳首京師。",
+          "citation": "《後漢書·皇甫嵩傳》"
+        },
+        {
+          "id": "zhangjue-hhs-huangfusong-taozhangjue",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 10,
+          "from": "初，嵩討張角，路由鄴，見中常侍趙忠舍宅踰制，乃奏沒入之。",
+          "through": "初，嵩討張角，路由鄴，見中常侍趙忠舍宅踰制，乃奏沒入之。",
+          "citation": "《後漢書·皇甫嵩傳》"
+        },
+        {
+          "id": "zhangjue-hhs-huangfusong-lunzhangjuejie",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 30,
+          "from": "張角之捷，本之於盧植",
+          "through": "而己不有焉。",
+          "citation": "《後漢書·皇甫嵩傳》"
         }
       ],
       "exclusions": [],
