@@ -83491,6 +83491,50 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0119",
+      "name": "張角",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "zhangjue-hhs-lingdi-184qiyi",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 17,
+          "from": "中平元年春二月，鉅鹿人張角自稱「黃天」，其部師有三十六萬，皆著黃巾，同日反叛。",
+          "through": "中平元年春二月，鉅鹿人張角自稱「黃天」，其部師有三十六萬，皆著黃巾，同日反叛。",
+          "citation": "《後漢書·孝靈帝紀》"
+        },
+        {
+          "id": "zhangjue-hhs-liutao-yujing",
+          "work": "houhanshu",
+          "source": "a03-057",
+          "paragraph": 22,
+          "from": "時鉅鹿張角偽託大道，妖惑小民",
+          "through": "有敢回避，與之同罪。」",
+          "citation": "《後漢書·劉陶傳》"
+        },
+        {
+          "id": "zhangjue-hhs-huangfusong-daxianliangshi",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 2,
+          "from": "初，鉅鹿張角自稱「大賢良師」",
+          "through": "訛言「蒼天已死，黃天當立，歲在甲子，天下大吉」。",
+          "citation": "《後漢書·皇甫嵩傳》"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
