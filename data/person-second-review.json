@@ -76769,6 +76769,36 @@
           "through": "煑殺之",
           "citation": "《三國志·魏書六·董卓傳》",
           "note": "裴注引獻帝紀：董卓獲袁紹之豫州從事李延而煑殺之。此為裴注層，非正文；記袁紹部屬遭董卓殺害，與關東起兵討卓背景相關。"
+        },
+        {
+          "id": "yuanshao-bio-bohai-qibing-zhumeng",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 18,
+          "from": "紹遂以勃海起兵",
+          "through": "馥懷不自安",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：袁紹以勃海起兵討董卓，自號車騎將軍而主盟，與韓馥共立劉虞為帝，虞不敢受；後公孫瓚入兾州，馥懷不自安。此為袁紹據兾州前的主盟與起兵背景。"
+        },
+        {
+          "id": "yuanshao-bio-jushou-celve-biaoshou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 19,
+          "from": "紹喜曰",
+          "through": "即表授為監軍、奮威將軍",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：從事沮授獻據河北、合四州、迎大駕之策，紹喜而納之，即表授為監軍、奮威將軍。此為袁紹領兾州後採納沮授戰略的關鍵節點。"
+        },
+        {
+          "id": "yuanshao-bio-tianfeng-jiuchi-xiji",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 23,
+          "from": "初，紹之南也",
+          "through": "械繫之",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：南征曹公前，田豐獻久持、農戰擾敵之策，紹不從；豐懇諫，紹怒而以為沮衆，械繫之。此為官渡戰前袁紹拒納田豐之策，與後來戰敗殺豐相呼應。"
         }
       ],
       "exclusions": [
