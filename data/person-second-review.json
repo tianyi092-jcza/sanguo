@@ -78838,7 +78838,7 @@
     {
       "id": "p0108",
       "name": "袁熙",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yuanxi-hhs-xiandi-liaodong-death",
@@ -78934,13 +78934,18 @@
       "exclusions": [],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪共錄摘錄 9 條（《三國志》7 條、《後漢書》2 條，袁紹傳裴注引典略臨刑語另層分離），排除 0 條，未解決 0 條。",
+        "辨人：底本「熈」即袁熙，袁紹中子，字顯弈；與父袁紹、兄袁譚、弟袁尚嚴格區分，單字命中均核實確指本人後方錄入。",
+        "生平繫年：袁紹以中子熈為幽州；建安中袁紹為熈納甄氏，熈出為幽州、后留養姑，鄴破後甄氏為曹丕所納；建安十年焦觸、張南叛攻，熙、尚奔遼西烏丸；建安十二年與烏丸戰敗奔遼東，為公孫康誘斬，獻帝紀「遼東太守公孫康殺袁尚、袁熙」互證。",
+        "收尾依據：本輪向量候選 0 段、未解決 0 條；按本傳補齊核對，本傳 a04-006 全卷僅第 20、26 段提及熈且皆已覆蓋，故結案，未硬湊無關段落。"
+      ]
     }
   ]
 }
