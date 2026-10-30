@@ -79119,6 +79119,26 @@
           "through": "欲討宦官",
           "citation": "《後漢書·董卓列傳》",
           "note": "董卓未至而何進已敗，任虎賁中郎將的袁術燒南宮以討宦官；中常侍段珪等遂劫少帝及陳留王夜走小平津。"
+        },
+        {
+          "id": "yuanshu-hhs-dongzhuo-yangfeng-hanxian-ben-shu",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 32,
+          "from": "奉、暹奔袁術",
+          "through": "遂縱暴楊、徐閒",
+          "citation": "《後漢書·董卓列傳》",
+          "note": "楊奉、韓暹為曹操所敗後奔袁術，並在楊、徐之間縱暴。"
+        },
+        {
+          "id": "yuanshu-hhs-liuyu-zhi-he",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 4,
+          "from": "後將軍袁術聞其狀，遂質和",
+          "through": "而術竟不遣之",
+          "citation": "《後漢書》卷七十三·劉虞傳",
+          "note": "劉虞子和奉使長安途經南陽，袁術扣留子和、要求劉虞遣兵俱西迎天子；劉虞遣數千騎就和奉迎，袁術最終仍不遣子和。"
         }
       ],
       "exclusions": [
@@ -79166,6 +79186,15 @@
           "term": "袁術",
           "quote": "前以露袁術之罪",
           "reason": "段落為孔融上疏論荊州牧劉表郊祀天地、擬儀社稷之僭偽；袁術僅在論證中以「前以露袁術之罪」一句類比提及，無袁術本人新史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-dongzhuo-zhangwen-yuanshu-jiaotong",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 18,
+          "term": "袁術",
+          "quote": "誣衞尉張溫與袁術交通",
+          "reason": "段落主事為董卓誣陷衞尉張溫、笞殺之以塞天變；袁術僅出現在誣陷罪名「與袁術交通」一句中，屬董卓羅織之詞，無袁術本人行為或新史實，排除。"
         }
       ],
       "unresolved": [],
