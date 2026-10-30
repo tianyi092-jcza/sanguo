@@ -79339,6 +79339,36 @@
           "through": "會術病死",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "建安四年，袁術自敗於陳後稍困，袁譚自青州遣迎之；術欲從下邳北過，太祖遣劉備、朱靈要之，會術病死。"
+        },
+        {
+          "id": "yuanshu-wudi-jianan13-xi-gui-han",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 23,
+          "from": "術死後，璆得術璽",
+          "through": "致之漢朝",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "裴注引先賢行狀：袁術死後，徐璆得其璽歸還漢朝；被劫欲授上公而不屈事已見後漢書徐璆傳條目，此條補術死後璽歸漢一節。"
+        },
+        {
+          "id": "yuanshu-weiwu-jiujiang-jianhao-men",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 25,
+          "from": "又袁術僭號於九江",
+          "through": "發病而死",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "魏武故事所載曹操自述：袁術僭號於九江，下皆稱臣，名門曰建號門，衣被皆為天子之制，兩婦預爭為皇后；人勸其即帝位，術答以曹公尚在未可；後為曹操討禽四將，窮亡解沮，發病而死。"
+        },
+        {
+          "id": "yuanshu-wudi-qiyang-qiaorui-shou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 30,
+          "from": "袁術僭逆",
+          "through": "術以隕潰",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "表文列曹操功績：袁術僭逆於淮南，蘄陽之役橋蕤授首，術以隕潰；與武帝紀建安二年橋蕤被斬事相應，此為表文概括。"
         }
       ],
       "exclusions": [
