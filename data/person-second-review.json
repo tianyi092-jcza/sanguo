@@ -83237,6 +83237,33 @@
           "from": "超盡兼隴右之衆，而張魯又遣大將楊昂以助之，凡萬餘人，攻城。",
           "through": "超盡兼隴右之衆，而張魯又遣大將楊昂以助之，凡萬餘人，攻城。",
           "citation": "《三國志·魏書二十五·楊阜傳》"
+        },
+        {
+          "id": "zhanglu-sgz-xianzhu-xiandi-chunqiu-mizei",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "米賊張魯居王巴、漢，為曹操耳目，規圖益州。",
+          "through": "米賊張魯居王巴、漢，為曹操耳目，規圖益州。",
+          "citation": "《三國志·蜀書二·先主傳》裴注引《獻帝春秋》"
+        },
+        {
+          "id": "zhanglu-sgz-zhuge-longzhong-zhanglu-zaibei",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 1,
+          "from": "劉璋闇弱，張魯在北，民殷國富而不知存卹，智能之士思得明君。",
+          "through": "劉璋闇弱，張魯在北，民殷國富而不知存卹，智能之士思得明君。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhanglu-sgz-zhuge-jianan16-fa-zheng-ji-lu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 4,
+          "from": "建安十六年，益州牧劉璋遣法正迎先主，使擊張魯。",
+          "through": "建安十六年，益州牧劉璋遣法正迎先主，使擊張魯。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
