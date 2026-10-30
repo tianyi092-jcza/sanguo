@@ -81967,6 +81967,33 @@
           "from": "自免歸州牧劉焉表",
           "through": "拜都尉",
           "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "liuyan-hhs-jiguan-zongshi-liguan",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 1,
+          "from": "劉焉字君郎",
+          "through": "稍遷南陽太守、宗正、太常。",
+          "citation": "《後漢書·卷七十五·列傳第六十五》"
+        },
+        {
+          "id": "liuyan-hhs-lun-yiqi-houwang",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 17,
+          "from": "論曰：劉焉覩時方艱",
+          "through": "吉之先見。",
+          "citation": "《後漢書·卷七十五·列傳第六十五》"
+        },
+        {
+          "id": "liuyan-hhs-renan-biaojian",
+          "work": "houhanshu",
+          "source": "a03-079",
+          "paragraph": 14,
+          "from": "州牧劉焉表薦之",
+          "through": "詔命竟不至。",
+          "citation": "《後漢書·卷七十九上·儒林列傳第六十九上》"
         }
       ],
       "exclusions": [
