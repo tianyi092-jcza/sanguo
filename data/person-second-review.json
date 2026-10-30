@@ -82012,6 +82012,33 @@
           "from": "而劉焉聞董扶之辭則心存益土",
           "through": "其惑甚矣。",
           "citation": "《三國志·蜀書一 劉焉傳》"
+        },
+        {
+          "id": "liuyan-sgz-qinmi-zouji-jian-renan",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 19,
+          "from": "奏記州牧劉焉，薦儒士任定祖曰",
+          "through": "如今見察，則一州斯服。",
+          "citation": "《三國志·蜀書八 秦宓傳》"
+        },
+        {
+          "id": "liuyan-hygz-zhanglu-midao-shangshu",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 5,
+          "from": "魯遂有漢中數害漢使",
+          "through": "斷\n道",
+          "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "liuyan-hygz-mianzhu-chu-suo-zhi",
+          "work": "huayang",
+          "source": "a06-003",
+          "paragraph": 23,
+          "from": "綿竹縣劉焉初所治",
+          "through": "畆收三十斛",
+          "citation": "《華陽國志》卷三·四部叢刊本"
         }
       ],
       "exclusions": [
