@@ -78514,7 +78514,38 @@
       "id": "p0107",
       "name": "袁尚",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yuanshang-hhs-xiandi-jizhou-defeat",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 17,
+          "from": "九年秋八月戊寅，曹操大破袁尚，平兾州，自領兾州牧。",
+          "through": "九年秋八月戊寅，曹操大破袁尚，平兾州，自領兾州牧。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "note": "建安九年秋八月，曹操大破袁尚、平冀州並自領冀州牧；此為獻帝紀正文。"
+        },
+        {
+          "id": "yuanshang-hhs-xiandi-liaodong-death",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 20,
+          "from": "十一月，遼東太守公孫康殺袁尚、袁熙。",
+          "through": "十一月，遼東太守公孫康殺袁尚、袁熙。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "note": "建安十二年十一月，遼東太守公孫康殺袁尚、袁熙；段內前半柳城破烏桓斬蹋頓與尚無直接行狀，不併入本條。"
+        },
+        {
+          "id": "yuanshang-hhs-wuhuan-ben-tadun-liaodong",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 13,
+          "from": "及紹子尚敗，奔蹋頓。",
+          "through": "袁尚與樓班、烏延等皆走遼東，遼東太守公孫康並斬送之。",
+          "citation": "《後漢書·卷九十·烏桓鮮卑列傳第八十》",
+          "note": "尚敗後奔蹋頓，欲憑烏桓兵力復圖中國；建安十二年曹操破蹋頓於柳城後，尚與樓班、烏延等走遼東，公孫康並斬送之；段內注文不併入本條。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
