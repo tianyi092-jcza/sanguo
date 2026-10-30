@@ -77479,6 +77479,36 @@
           "through": "遂勒兵捕諸閹人，無少長皆殺之",
           "citation": "《三國志·魏書六·董卓傳》",
           "note": "正文：何進被殺、宮中亂後，袁紹斬宦者所署司隷校尉許相，遂勒兵捕諸閹人無少長皆殺之。僅錄此正文一段，本段所引續漢書、九州春秋裴注另層，不併入。"
+        },
+        {
+          "id": "yuanshao-bio-zhuo-yi-feidi-shao-hengdao-qu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 17,
+          "from": "董卓呼紹，議欲廢帝，立陳留王",
+          "through": "紹不應，橫刀長揖而去",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：董卓呼紹議廢帝、立陳留王，紹偽許以須與太傅議，終不應而橫刀長揖去。此為紹與卓決裂的起點；本段獻帝春秋裴注與松之評另層，不併入。"
+        },
+        {
+          "id": "yuanshao-bio-ying-tianzi-du-ye-shao-bucong",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 20,
+          "from": "初，天子之立非紹意",
+          "through": "圖還說紹迎天子都鄴，紹不從",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：天子之立非紹意，紹遣郭圖使於河東，圖還說迎天子都鄴，紹不從。此為紹拒迎天子、與後來太祖迎天子都許對照的關鍵節點；本段獻帝傳等裴注另層，不併入。"
+        },
+        {
+          "id": "yuanshao-bio-jinjun-liyang-yanliang-baima-zhan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 22,
+          "from": "紹進軍黎陽，遣顏良攻劉延於白馬",
+          "through": "太祖救延，與良戰，破斬良",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：紹進軍黎陽，遣顏良攻劉延於白馬，沮授諫良性促狹不可獨任，紹不聽，太祖救延破斬良。此為官渡前哨白馬之戰的開端；本段獻帝傳等裴注另層，不併入。"
         }
       ],
       "exclusions": [
