@@ -76699,6 +76699,26 @@
           "through": "為紹所厚",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "袁紹立三郡烏丸酋豪為單于，以家人子為己女嫁之；遼西單于蹋頓尤強，為袁紹所厚。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-weishiling-poshao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 25,
+          "from": "及至袁紹據河北",
+          "through": "梟其二子",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "魏武故事所載曹操令中自述：袁紹據河北、兵勢強盛，曹操自度實不敵，幸而破紹、梟其二子。"
+        },
+        {
+          "id": "yuanshao-sg-wudi-cewen-guandu-dajian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 30,
+          "from": "袁紹逆亂天常",
+          "through": "俾我國家拯於危墜",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "封魏公冊文列曹操功績：袁紹逆亂、稱兵內侮，曹操於官渡大殲其眾，國家拯於危墜。"
         }
       ],
       "exclusions": [
@@ -76809,6 +76829,15 @@
           "term": "袁紹",
           "quote": "及袁紹與弟術喪母，歸葬汝南",
           "reason": "此段主體為皇甫謐逸士傳所載王儁事，袁紹僅見於與袁術喪母歸葬汝南的會面背景及「劉表見紹彊，陰與紹通」一句，未紀袁紹本人事實經過，排除。"
+        },
+        {
+          "id": "yuanshao-excl-fuzi-jianjin-shao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 44,
+          "term": "袁紹",
+          "quote": "袁紹、崔豹之徒，雖為將帥，皆著縑巾",
+          "reason": "此段主體為傅子論漢末王公服制，袁紹僅與崔豹並列為著縑巾之例，未紀袁紹本人事實經過，排除。"
         }
       ],
       "unresolved": [],
