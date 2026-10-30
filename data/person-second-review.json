@@ -78262,9 +78262,38 @@
           "through": "其後譚叛，從斬譚於南皮。",
           "citation": "《三國志·魏書十·荀攸傳》",
           "note": "荀攸傳正文：建安七年討譚、尚於黎陽，次年譚遣辛毗乞降請救、曹操許和親還擊破尚，其後譚叛、從斬譚於南皮；佐證譚、尚爭冀州與譚先降後叛的轉折，不作荀攸以外人物的行狀依據。"
+        },
+        {
+          "id": "yuantan-sgz-wangxiu-tanshang-nanpi",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 21,
+          "from": "紹死，譚、尚有隙。",
+          "through": "太祖遂引軍攻譚於南皮。",
+          "citation": "《三國志·魏書十一·王脩傳》",
+          "note": "王脩傳正文：紹死後譚、尚相隙，脩諫兄弟還相攻擊是敗亡之道、譚不聽，遂與尚相攻擊而請救於太祖；太祖破冀州後譚又叛，遂引軍攻譚於南皮。佐證譚、尚爭位與譚先求救後叛的轉折。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yuantan-excl-tianchou-ku",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "term": "袁譚",
+          "quote": "與王脩哭袁譚，貌同而心異也。",
+          "reason": "裴注松之案以田疇弔袁尚首與王脩哭袁譚作對比，段落主旨為論田疇進退，袁譚僅為類比提及，無譚本人行狀，排除；譚之死與王脩哭譚已由王脩傳第21段正文錄入。"
+        },
+        {
+          "id": "yuantan-excl-xunyou-qijiang",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 20,
+          "term": "袁譚",
+          "quote": "佐治為袁譚乞降，王師自往平之，吾何知焉？",
+          "reason": "裴注引魏書載辛韜問荀攸事，段落主旨為荀攸深密避言軍國事，袁譚乞降僅為問話引子，且譚遣辛毗乞降一事已由荀攸傳第19段錄入，不另立條目。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
