@@ -82665,6 +82665,33 @@
           "from": "劉璋遣扶風孟達副法正",
           "through": "使迎先主",
           "citation": "《三國志·蜀書十 劉彭廖李劉魏楊傳第十 劉封傳》"
+        },
+        {
+          "id": "liuzhang-sgz-liyan-chengduling",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 16,
+          "from": "劉璋以為成都令",
+          "through": "復有能名",
+          "citation": "《三國志·蜀書十 劉彭廖李劉魏楊傳第十 李嚴傳》"
+        },
+        {
+          "id": "liuzhang-sgz-huojun-shoujiameng",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 1,
+          "from": "先主自葭萌南還襲劉璋",
+          "through": "留峻守葭萌城",
+          "citation": "《三國志·蜀書十一 霍王向張楊費傳第十一 霍峻傳》"
+        },
+        {
+          "id": "liuzhang-sgz-wanglian-zitongling",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 4,
+          "from": "劉璋時入蜀",
+          "through": "為梓潼令",
+          "citation": "《三國志·蜀書十一 霍王向張楊費傳第十一 王連傳》"
         }
       ],
       "exclusions": [
