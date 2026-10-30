@@ -82755,6 +82755,33 @@
           "from": "州大吏趙韙等貪璋溫仁",
           "through": "領益州牧",
           "citation": "《三國志·蜀書一 劉二牧傳》"
+        },
+        {
+          "id": "liuzhang-sgz-zhanglu-chou",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 4,
+          "from": "璋殺魯母及弟",
+          "through": "數為所破",
+          "citation": "《三國志·蜀書一 劉二牧傳》"
+        },
+        {
+          "id": "liuzhang-sgz-kaicheng-chujiang",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 5,
+          "from": "璋言：「父子在州二十餘年",
+          "through": "盡歸其財物、故佩振威將軍印綬",
+          "citation": "《三國志·蜀書一 劉二牧傳》"
+        },
+        {
+          "id": "liuzhang-sgz-erzi-wushu",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 6,
+          "from": "初，璋長子循妻，龐羲女也",
+          "through": "是以璋二子之後，分在吳、蜀",
+          "citation": "《三國志·蜀書一 劉二牧傳》"
         }
       ],
       "exclusions": [
