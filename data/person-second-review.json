@@ -81949,9 +81949,37 @@
           "from": "州牧劉焉自綿竹移雒縣城築闕門云其地不王乃",
           "through": "留孫脩據之",
           "citation": "《華陽國志》卷三·四部叢刊本"
+        },
+        {
+          "id": "liuyan-hygz-jianyi-mubo-dongfu",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 7,
+          "from": "太常竟陵劉焉字君郎建議言剌史太守貨賂爲官",
+          "through": "焉議得行",
+          "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "liuyan-hygz-jingyi-biao-duwei",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 100,
+          "from": "自免歸州牧劉焉表",
+          "through": "拜都尉",
+          "citation": "《華陽國志》卷十·四部叢刊本"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "liuyan-excl-001",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 0,
+          "term": "劉焉",
+          "quote": "劉焉　袁術　呂布",
+          "reason": "僅為卷首篇名行（劉焉、袁術、呂布三傳並列之目），無關於劉焉生平事實的敘述，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
