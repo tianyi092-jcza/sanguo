@@ -81412,6 +81412,33 @@
           "from": "西平、金城諸將麴演、蔣石等共斬送韓遂首。",
           "through": "西平、金城諸將麴演、蔣石等共斬送韓遂首。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "hsui-sg-zhangxiu-liangzhou",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 23,
+          "from": "邊章、韓遂為亂涼州，金城麴勝襲殺祖厲長劉儁。",
+          "through": "邊章、韓遂為亂涼州，金城麴勝襲殺祖厲長劉儁。",
+          "citation": "《三國志·魏書八·二公孫陶四張傳》"
+        },
+        {
+          "id": "hsui-sg-huangzhong-yanxing",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 17,
+          "from": "典略曰：韓遂在湟中，其壻閻行欲殺遂以降，夜攻遂，不下。",
+          "through": "遂從其計，時隨從者男女尚數千人。",
+          "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳》"
+        },
+        {
+          "id": "hsui-sg-jincheng-devastated",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 5,
+          "from": "金城郡，昔為韓遂所見屠剥，死喪流亡，或竄戎狄，或陷寇亂，戶不滿五百。",
+          "through": "金城郡，昔為韓遂所見屠剥，死喪流亡，或竄戎狄，或陷寇亂，戶不滿五百。",
+          "citation": "《三國志·魏書十六·任蘇杜鄭倉傳》"
         }
       ],
       "exclusions": [],
