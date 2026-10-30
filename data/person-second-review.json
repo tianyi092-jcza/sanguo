@@ -83961,6 +83961,33 @@
           "term": "黃巾賊",
           "quote": "巾，以葛爲之，形如㡊而橫著之，古尊卑共服也。故漢末妖賊以黃爲巾，世謂黃巾賊。",
           "reason": "《晉書·輿服志》通釋黃巾名義，未提張寶本人，非張寶史實，排除。"
+        },
+        {
+          "id": "zhangbao-excl-004",
+          "work": "jinshu",
+          "source": "a05-085-ahcb",
+          "paragraph": 2,
+          "term": "崢嶸洲",
+          "quote": "戰於崢嶸洲",
+          "reason": "向量候選誤命中：本段記劉裕、劉毅追討桓玄、戰於崢嶸洲，與張寶、黃巾無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-005",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 105,
+          "term": "李雄",
+          "quote": "李雄使其將李恭、羅寅寇巴東。",
+          "reason": "向量候選誤命中：本段記晉愍帝建興五年李雄寇巴東事，與張寶、黃巾無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-006",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 18,
+          "term": "黃忠傳",
+          "quote": "黃忠傳",
+          "reason": "向量候選誤命中：本段僅為《三國志·蜀書·關張馬黃趙傳》黃忠傳標題行，無正文內容，與張寶無關，排除。"
         }
       ],
       "unresolved": []
