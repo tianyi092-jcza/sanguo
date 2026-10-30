@@ -77881,6 +77881,36 @@
           "quote": "遣乾自結袁紹",
           "reason": "此段主體為孫乾隨先主周旋、使劉表事；袁紹僅為先主遣乾結交的被動提及，無本段言行決策，後段劉表與袁尚書亦主體為袁尚兄弟分爭而非袁紹本人，排除。",
           "citation": "《三國志·蜀書八·許麋孫簡伊秦傳·孫乾傳》"
+        },
+        {
+          "id": "yuanshao-excl-ce-guandu-bg",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 13,
+          "term": "袁紹",
+          "quote": "曹公與袁紹相拒於官渡",
+          "reason": "此段主體為孫策陰欲襲許、遇許貢客刺殺而卒及裴注考證策遇害時間；袁紹僅為官渡相拒的背景對手與注中考證時間的參照，無本段言行決策，排除。",
+          "citation": "《三國志·吳書一·孫破虜討逆傳·孫策傳》"
+        },
+        {
+          "id": "yuanshao-excl-yu-xinpo-shao",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 3,
+          "term": "袁紹",
+          "quote": "曹公新破袁紹",
+          "reason": "此段主體為周瑜議不送質子事；袁紹僅為江表傳中形容曹公兵威日盛的背景提及，無本段言行決策，排除。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·周瑜傳》"
+        },
+        {
+          "id": "yuanshao-excl-su-xinbing-shao",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 18,
+          "term": "袁紹",
+          "quote": "新并袁紹",
+          "reason": "此段主體為魯肅勸權拒曹公事；袁紹僅為魯肅激說中形容曹公新并袁紹、兵馬甚精的背景提及，無本段言行決策，排除。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·魯肅傳》"
         }
       ],
       "unresolved": [],
