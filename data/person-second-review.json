@@ -83558,6 +83558,33 @@
           "from": "竊見天下前遇張角之亂，後遭邊章之寇",
           "through": "每聞羽書告急之聲，心灼內熱，四體驚竦。",
           "citation": "《後漢書·劉陶傳》"
+        },
+        {
+          "id": "zhangjue-hhs-fuxie-jutao",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 14,
+          "from": "後為護軍司馬，與左中郎將皇甫嵩俱討賊張角。",
+          "through": "後為護軍司馬，與左中郎將皇甫嵩俱討賊張角。",
+          "citation": "《後漢書·傅爕傳》"
+        },
+        {
+          "id": "zhangjue-hhs-fuxie-zhaoweiliuzhou",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 15,
+          "from": "今張角起於趙、魏，黃巾亂於六州。",
+          "through": "今張角起於趙、魏，黃巾亂於六州。",
+          "citation": "《後漢書·傅爕傳》"
+        },
+        {
+          "id": "zhangjue-hhs-lixie-anpingwang",
+          "work": "houhanshu",
+          "source": "a03-063",
+          "paragraph": 26,
+          "from": "先是安平王續為張角賊所略，國家贖王得還，朝廷議復其國。",
+          "through": "先是安平王續為張角賊所略，國家贖王得還，朝廷議復其國。",
+          "citation": "《後漢書·李固傳》"
         }
       ],
       "exclusions": [],
