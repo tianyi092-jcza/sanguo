@@ -83585,6 +83585,33 @@
           "from": "先是安平王續為張角賊所略，國家贖王得還，朝廷議復其國。",
           "through": "先是安平王續為張角賊所略，國家贖王得還，朝廷議復其國。",
           "citation": "《後漢書·李固傳》"
+        },
+        {
+          "id": "zhangjue-hhs-luzhi-poguangzong",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 25,
+          "from": "連戰破賊帥張角，斬獲萬餘人。",
+          "through": "角等走保廣宗，植築圍鑿壍，造作雲梯，垂當拔之。",
+          "citation": "《後漢書·盧植傳》"
+        },
+        {
+          "id": "zhangjue-hhs-luqiang-danggu",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 11,
+          "from": "中常侍呂彊言於帝曰：「黨錮乆積，人情多怨。若乆不赦宥，輕與張角合謀，為變滋大，悔之無救。」",
+          "through": "帝懼其言，乃大赦黨人，誅徙之家皆歸故郡。",
+          "citation": "《後漢書·黨錮列傳》"
+        },
+        {
+          "id": "zhangjue-hhs-hejin-mayanyi",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 15,
+          "from": "中平元年，黃巾賊張角等起，以進為大將軍，率左右羽林五營士屯都亭，修理器械，以鎮京師。",
+          "through": "張角別黨馬元義謀起洛陽，進發其姦，以功封慎侯。",
+          "citation": "《後漢書·何進傳》"
         }
       ],
       "exclusions": [],
