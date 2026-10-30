@@ -78142,7 +78142,38 @@
       "id": "p0106",
       "name": "袁譚",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yuantan-hhs-xiandi-qingzhou-death",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 18,
+          "from": "十年春正月，曹操破袁譚於青州，斬之。",
+          "through": "十年春正月，曹操破袁譚於青州，斬之。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "note": "建安十年春正月，曹操破袁譚於青州並斬之；此為獻帝紀正文，段內隨後的魏書曰為注文層級，不併入本條。"
+        },
+        {
+          "id": "yuantan-hhs-kongrong-siege",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 13,
+          "from": "建安元年，為袁譚所攻，自春至夏，戰士所餘裁數百人，流矢雨集，戈矛內接。",
+          "through": "建安元年，為袁譚所攻，自春至夏，戰士所餘裁數百人，流矢雨集，戈矛內接。",
+          "citation": "《後漢書·卷七十·孔融傳》",
+          "note": "建安元年袁譚攻孔融，自春戰至夏，融軍所餘僅數百人、流矢雨集、戈矛內接；段內「隱，憑也」等為注文，與正文攻圍分開，不併入本條。"
+        },
+        {
+          "id": "yuantan-hhs-liyang-armor",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 1,
+          "from": "譚謂尚曰：「我鎧甲不精，故前爲曹操所敗。",
+          "through": "尚疑而不許，旣不益兵，又不易甲。",
+          "citation": "《後漢書·卷七十四下·袁譚傳》",
+          "note": "黎陽戰後，袁譚向袁尚自陳鎧甲不精致前敗，趁操軍退、人懷歸志、未濟之際掩擊可大潰，尚疑而不許，既不益兵亦不易甲；此為袁譚傳正文，譚與尚兄弟分開，不串人。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
