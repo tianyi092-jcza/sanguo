@@ -79069,6 +79069,16 @@
           "through": "術不敢逼",
           "citation": "《後漢書·楊終李法翟酺應奉霍諝爰延徐璆列傳·徐璆傳》",
           "note": "獻帝遷許，廷尉徐璆赴京途中為袁術所劫，術欲授以上公之位；璆引龔勝、鮑宣守節不從，術不敢逼。"
+        },
+        {
+          "id": "yuanshu-hhs-chenwang-qiu-liang-sha-chong",
+          "work": "houhanshu",
+          "source": "a03-050-full",
+          "paragraph": 8,
+          "from": "後袁術求糧於陳而俊拒絕之",
+          "through": "陳由是破敗",
+          "citation": "《後漢書·宗室列傳·陳王寵傳》",
+          "note": "袁術向陳國求糧，陳相駱俊拒絕；術忿恚，遣客詐殺駱俊及陳王劉寵，陳國由是破敗。"
         }
       ],
       "exclusions": [
@@ -79080,6 +79090,24 @@
           "term": "袁術",
           "quote": "幼年曾謁袁術，懷橘墯地者也",
           "reason": "段落主角為陸績（字公紀，仕吳為鬱林太守），袁術僅為其幼年謁見的對象；懷橘軼事屬陸績生平，無袁術本人實質史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-yangbiao-shu-hunyin",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 37,
+          "term": "袁術",
+          "quote": "時袁術僭亂，操託彪與術婚姻",
+          "reason": "段落主角為楊彪（曹操誣其與袁術婚姻、欲圖廢置而下獄，孔融力救得釋）；袁術僅以「僭亂」背景與誣陷藉口出現，無袁術本人實質史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-yangxiu-shu-zhi-sheng",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 39,
+          "term": "袁術",
+          "quote": "且以袁術之甥，慮為後患",
+          "reason": "段落主角為楊脩（曹操主簿，曹操因其機決過人而忌之）；袁術僅以「袁術之甥」的親屬關係出現，說明操忌脩的原因之一，無袁術本人實質史實，排除。"
         }
       ],
       "unresolved": [],
