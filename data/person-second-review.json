@@ -84345,7 +84345,35 @@
       },
       "conclusions": [],
       "excerpts": [],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangliang-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 5,
+          "term": "張梁",
+          "quote": "廣陵吳碩、河南張梁以軍旅",
+          "reason": "本段為孫皎傳，記孫皎委廬江劉靖、江夏李允、廣陵吳碩、河南張梁以軍旅事，此張梁為孫吳將領，與黃巾人公將軍張梁同名異人，排除。"
+        },
+        {
+          "id": "zhangliang-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 7,
+          "term": "張梁",
+          "quote": "吳碩、張梁皆裨將軍，賜爵關內侯",
+          "reason": "本段為孫奐傳，記孫奐以吳碩、張梁為軍前鋒、後拜裨將軍事，此張梁為孫吳將領，與黃巾人公將軍張梁同名異人，排除。"
+        },
+        {
+          "id": "zhangliang-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 18,
+          "term": "張梁",
+          "quote": "潛遣將軍周峻、張梁等擊江夏新市、安陸、石陽",
+          "reason": "本段為陸遜傳，記陸遜潛遣周峻、張梁等襲江夏新市、安陸、石陽事，此張梁為陸遜部將，與黃巾人公將軍張梁同名異人，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
