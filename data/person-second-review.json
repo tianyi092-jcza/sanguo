@@ -82719,6 +82719,33 @@
           "from": "建安十八年置郡",
           "through": "璋聴之",
           "citation": "《華陽國志》卷三·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-huayang-zhaoyi-jianan19",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 27,
+          "from": "建安十九年劉主圍劉璋扵成都",
+          "through": "昭儀自殺",
+          "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-huayang-wangshang-zhizhong",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 40,
+          "from": "州牧劉璋辟爲治中試守蜀郡太守",
+          "through": "啇勸璋攬竒枝雋甚善",
+          "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-huayang-zhengdu-jianyi",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 50,
+          "from": "先主自葭萌南攻說牧璋曰",
+          "through": "璋不納",
+          "citation": "《華陽國志》卷十·四部叢刊本"
         }
       ],
       "exclusions": [
