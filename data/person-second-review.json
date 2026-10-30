@@ -77449,6 +77449,36 @@
           "through": "紹身出鄴二百里與先主相見",
           "citation": "《華陽國志》卷六·四部叢刊本",
           "note": "袁紹本人事蹟：先主敗後奔袁譚，譚奉迎馳白父紹，紹身出鄴二百里與先主相見；僅錄袁紹出迎一句，前後劉備、關羽事不屬本條。"
+        },
+        {
+          "id": "yuanshao-hygz-lingdi-beng-shao-biao-changshi",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 82,
+          "from": "靈帝崩後大將軍袁紹表爲長史不就",
+          "through": "靈帝崩後大將軍袁紹表爲長史不就",
+          "citation": "《華陽國志》卷十·四部叢刊本",
+          "note": "靈帝崩後，大將軍袁紹表授本段人物為長史而其人不就；僅錄袁紹表授一句，本段主體為蜀地人物小傳，不併入被表授者事蹟。"
+        },
+        {
+          "id": "yuanshao-bio-baoxin-quan-shao-xi-zhuo",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 3,
+          "from": "信謂紹曰",
+          "through": "紹畏卓，不敢發",
+          "citation": "《三國志·魏書六·董卓傳》",
+          "note": "正文：鮑信募兵適至，勸袁紹趁董卓初至疲勞襲之可禽；紹畏卓不敢發，信遂還鄉里。僅錄勸紹與紹畏卓不敢發一段，不併入鮑信後續事蹟。"
+        },
+        {
+          "id": "yuanshao-bio-shao-zhan-xuxiang-lebing-sha-huan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 16,
+          "from": "紹旣斬宦者所署司隷校尉許相",
+          "through": "遂勒兵捕諸閹人，無少長皆殺之",
+          "citation": "《三國志·魏書六·董卓傳》",
+          "note": "正文：何進被殺、宮中亂後，袁紹斬宦者所署司隷校尉許相，遂勒兵捕諸閹人無少長皆殺之。僅錄此正文一段，本段所引續漢書、九州春秋裴注另層，不併入。"
         }
       ],
       "exclusions": [
