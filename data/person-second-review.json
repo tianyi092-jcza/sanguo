@@ -83156,6 +83156,24 @@
           "from": "及曹公破張魯，魯走入巴中",
           "through": "魯已還南鄭，北降曹公，",
           "citation": "《三國志·蜀書十三·黃權傳》"
+        },
+        {
+          "id": "zhanglu-sgz-lvdai-wushu-you-lu",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 21,
+          "from": "吳書曰：建安十六年，岱督郎將尹異等，以兵二千人西誘漢中賊帥張魯到漢興寋城，",
+          "through": "權遂召岱還。",
+          "citation": "《三國志·吳書十五·呂岱傳》"
+        },
+        {
+          "id": "zhanglu-jinshu-lite-guidao-jiaomin",
+          "work": "jinshu",
+          "source": "a05-120-ahcb",
+          "paragraph": 0,
+          "from": "漢末，張魯居漢中，以鬼道教百姓，",
+          "through": "多往奉之。",
+          "citation": "《晉書》卷一百二十·載記第二十"
         }
       ],
       "exclusions": [
@@ -83185,6 +83203,15 @@
           "term": "張魯",
           "quote": "若使備討張魯，是放虎於山林也",
           "reason": "《三國志·蜀書九·劉巴傳》第5段：劉巴諫劉璋，僅以先主討張魯為喻，謂放虎於山林，未提供張魯生平新證據；張魯據漢中事本傳已有詳載，此處不作新證據。排除。"
+        },
+        {
+          "id": "zhanglu-excl-a05-001-p2",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 2,
+          "term": "張魯",
+          "quote": "從討張魯",
+          "reason": "《晉書》卷一·宣帝紀第2段：司馬懿從討張魯時言於魏武，僅以討張魯為諫言背景，未提供張魯生平新證據；張魯降曹事本傳及武帝紀已有詳載，此處不作新證據。排除。"
         }
       ],
       "unresolved": []
