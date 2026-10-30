@@ -81574,6 +81574,33 @@
           "from": "韓遂等起涼州",
           "through": "西拒遂。",
           "citation": "《三國志·魏書六·董二袁劉傳》"
+        },
+        {
+          "id": "hsui-sg-huajiao-letter-capital-move",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 6,
+          "from": "邊章、韓約有書來",
+          "through": "公便可與袁氏西行。",
+          "citation": "《三國志·魏書六·董二袁劉傳》"
+        },
+        {
+          "id": "hsui-sg-dongzhuo-surrender-zhenxi",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 10,
+          "from": "是歲，韓遂、馬騰等降",
+          "through": "遣還涼州，",
+          "citation": "《三國志·魏書六·董二袁劉傳》"
+        },
+        {
+          "id": "hsui-sg-kill-fanchou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 11,
+          "from": "諸將爭權，遂殺稠，并其衆。",
+          "through": "諸將爭權，遂殺稠，并其衆。",
+          "citation": "《三國志·魏書六·董二袁劉傳》"
         }
       ],
       "exclusions": [],
