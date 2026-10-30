@@ -82859,7 +82859,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhanglu-hhs-xiandi-215",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 28,
+          "from": "秋七月，曹操破漢中，張魯降。",
+          "through": "秋七月，曹操破漢中，張魯降。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "zhanglu-hhs-dongzhuo-214",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 36,
+          "from": "超遂南奔張魯。",
+          "through": "超遂南奔張魯。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "zhanglu-hhs-liuyan-hanzhong",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 4,
+          "from": "沛人張魯，母有恣色，兼挾鬼道，往來焉家，遂任魯以為督義司馬，遂與別部司馬張脩將兵掩殺漢中太守蘇固，斷絕斜谷，殺使者。魯旣得漢中，遂復殺張脩而并其衆。",
+          "through": "魯旣得漢中，遂復殺張脩而并其衆。",
+          "citation": "《後漢書·劉焉傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
