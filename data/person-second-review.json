@@ -79079,6 +79079,26 @@
           "through": "陳由是破敗",
           "citation": "《後漢書·宗室列傳·陳王寵傳》",
           "note": "袁術向陳國求糧，陳相駱俊拒絕；術忿恚，遣客詐殺駱俊及陳王劉寵，陳國由是破敗。"
+        },
+        {
+          "id": "yuanshu-hhs-hejin-shao-gongmen",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 28,
+          "from": "袁術與匡共斫攻之",
+          "through": "欲以脅出讓等",
+          "citation": "《後漢書·竇何列傳·何進傳》",
+          "note": "中平六年八月誅宦之役；何進被害後，袁術與吳匡共斫攻宮門，日暮燒南宮九龍門及東西宮，欲脅出張讓等。"
+        },
+        {
+          "id": "yuanshu-hhs-zhenggongye-gui-shu-yangzhou",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 4,
+          "from": "公業脫身自武關走，東歸袁術",
+          "through": "術上以為楊州刺史",
+          "citation": "《後漢書·鄭孔荀列傳·鄭泰傳》",
+          "note": "鄭公業（鄭泰）謀殺董卓事洩後脫身自武關走，東歸袁術；袁術上表以其為揚州刺史，未至官、道卒，時年四十一。"
         }
       ],
       "exclusions": [
@@ -79108,6 +79128,15 @@
           "term": "袁術",
           "quote": "且以袁術之甥，慮為後患",
           "reason": "段落主角為楊脩（曹操主簿，曹操因其機決過人而忌之）；袁術僅以「袁術之甥」的親屬關係出現，說明操忌脩的原因之一，無袁術本人實質史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-wangyun-tao-yuanshu-ming",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 25,
+          "term": "袁術",
+          "quote": "以討袁術為名",
+          "reason": "段落主角為王允（與黃琬、鄭公業等謀誅董卓）；袁術僅為王允出兵武關道的藉口名目，實欲分路征卓、拔天子還洛陽，無袁術本人實質史實，排除。"
         }
       ],
       "unresolved": [],
