@@ -82566,6 +82566,33 @@
           "from": "其所佩振威將軍印綬還其財物遷璋于",
           "through": "劉主東征璋還呉卒也",
           "citation": "《華陽國志·卷五 公孫述劉二牧志》"
+        },
+        {
+          "id": "liuzhang-huayang-fazheng-ying",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 12,
+          "from": "十六年益州牧劉璋遣法正迎",
+          "through": "遂西入益州",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-huayang-yong-jiuchen",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 13,
+          "from": "和嚴權本劉璋所授用也",
+          "through": "彭羕璋所排擯也",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-huayang-wu-yizhoumu",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "from": "呉盡取荆州以劉璋為益州牧",
+          "through": "住秭歸",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [],
