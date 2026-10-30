@@ -82485,6 +82485,33 @@
           "from": "璋聞之，",
           "through": "遷畿江陽太守。",
           "citation": "《三國志·蜀書十五 楊戲傳附程畿》"
+        },
+        {
+          "id": "liuzhang-sgz-sunce-jiangbiao-bingli",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 12,
+          "from": "江表傳曰：策被詔勑，",
+          "through": "益州牧劉璋等并力討袁術、劉表。",
+          "citation": "《三國志·吳書一 孫策傳》"
+        },
+        {
+          "id": "liuzhang-sgz-zhouyu-qu-shu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 8,
+          "from": "是時劉璋為益州牧，",
+          "through": "乞與奮威俱進取蜀，",
+          "citation": "《三國志·吳書九 周瑜傳》"
+        },
+        {
+          "id": "liuzhang-sgz-lusu-gangwei-tuichi",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 22,
+          "from": "先是，益州牧劉璋綱維頹弛，",
+          "through": "周瑜、甘寧並勸權取蜀，",
+          "citation": "《三國志·吳書九 魯肅傳》"
         }
       ],
       "exclusions": [],
