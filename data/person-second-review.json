@@ -79016,6 +79016,39 @@
           "citation": "《後漢書·孝獻帝紀》所載",
           "context": "四年春",
           "note": "初平四年，袁術殺揚州刺史陳溫，據淮南。"
+        },
+        {
+          "id": "yuanshu-hhs-xiandi-liuyao-qua",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 7,
+          "from": "楊州刺史劉繇與袁術將孫策戰于曲阿",
+          "through": "楊州刺史劉繇與袁術將孫策戰于曲阿",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "興平元年",
+          "note": "興平元年，袁術將孫策於曲阿破楊州刺史劉繇，孫策遂據江東。"
+        },
+        {
+          "id": "yuanshu-hhs-xiandi-cheng-tianzi",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 10,
+          "from": "二年春，袁術自稱天子",
+          "through": "二年春，袁術自稱天子",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "二年春",
+          "note": "建安二年春，袁術自稱天子。同段另載是歲袁術殺陳王寵、孫策遣使奉貢。"
+        },
+        {
+          "id": "yuanshu-hhs-xiandi-shu-si",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 12,
+          "from": "夏六月，袁術死",
+          "through": "夏六月，袁術死",
+          "citation": "《後漢書·孝獻帝紀》所載",
+          "context": "四年春",
+          "note": "建安四年夏六月，袁術死。"
         }
       ],
       "exclusions": [],
