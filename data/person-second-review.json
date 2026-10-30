@@ -83933,7 +83933,26 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhangbao-hhs-digong-general",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 2,
+          "from": "角稱「天公將軍」",
+          "through": "寶弟梁稱「人公將軍」",
+          "citation": "《後漢書·卷七十一·皇甫嵩朱儁列傳》"
+        },
+        {
+          "id": "zhangbao-hhs-xiaquyang-death",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 6,
+          "from": "嵩復與鉅鹿太守馮翊郭典攻角弟寶於下曲陽",
+          "through": "築京觀於城南。",
+          "citation": "《後漢書·卷七十一·皇甫嵩朱儁列傳》"
+        }
+      ],
       "exclusions": [
         {
           "id": "zhangbao-excl-001",
