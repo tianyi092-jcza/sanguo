@@ -84344,7 +84344,17 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhangliang-hhs-guangzong-huo",
+          "work": "houhanshu",
+          "source": "a03-008",
+          "paragraph": 17,
+          "from": "冬十月，皇甫嵩與黃巾賊戰於廣宗，獲張角弟梁",
+          "through": "發棺斷頭，傳送馬市",
+          "citation": "《後漢書·孝靈帝紀》"
+        }
+      ],
       "exclusions": [
         {
           "id": "zhangliang-excl-001",
@@ -84372,6 +84382,24 @@
           "term": "張梁",
           "quote": "潛遣將軍周峻、張梁等擊江夏新市、安陸、石陽",
           "reason": "本段為陸遜傳，記陸遜潛遣周峻、張梁等襲江夏新市、安陸、石陽事，此張梁為陸遜部將，與黃巾人公將軍張梁同名異人，排除。"
+        },
+        {
+          "id": "zhangliang-excl-004",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 54,
+          "term": "張梁",
+          "quote": "廣宗，縣名，今貝州宗城縣",
+          "reason": "本段為《後漢書·孝和孝殤帝紀》，記封皇弟萬歲為廣宗王及廣宗地名注，全段無「張梁」字樣，僅「廣宗」地名與廣宗之戰事件向量誤配，與黃巾張梁無涉，排除。"
+        },
+        {
+          "id": "zhangliang-excl-005",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 57,
+          "term": "張梁",
+          "quote": "徙陳川部眾五千餘戶于廣宗",
+          "reason": "本段為《晉書·載記第四》石勒載記，記石季龍討伐及徙陳川部眾于廣宗事，全段無「張梁」字樣，僅「廣宗」地名與廣宗之戰事件向量誤配，與黃巾張梁無涉，排除。"
         }
       ],
       "unresolved": []
