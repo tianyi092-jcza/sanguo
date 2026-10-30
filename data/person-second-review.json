@@ -82886,6 +82886,33 @@
           "from": "沛人張魯，母有恣色，兼挾鬼道，往來焉家，遂任魯以為督義司馬，遂與別部司馬張脩將兵掩殺漢中太守蘇固，斷絕斜谷，殺使者。魯旣得漢中，遂復殺張脩而并其衆。",
           "through": "魯旣得漢中，遂復殺張脩而并其衆。",
           "citation": "《後漢書·劉焉傳》"
+        },
+        {
+          "id": "zhanglu-hhs-liuyan-cao-attack-hanzhong",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 10,
+          "from": "十六年，璋聞曹操當遣兵向漢中討張魯，內懷恐懼，",
+          "through": "十六年，璋聞曹操當遣兵向漢中討張魯，內懷恐懼，",
+          "citation": "《後漢書·劉焉傳》"
+        },
+        {
+          "id": "zhanglu-hhs-liuyan-cao-po-lu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 12,
+          "from": "明年，曹操破張魯，定漢中。",
+          "through": "明年，曹操破張魯，定漢中。",
+          "citation": "《後漢書·劉焉傳》"
+        },
+        {
+          "id": "zhanglu-hhs-tianwen-lu-hanzhong",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 26,
+          "from": "是時益州牧劉璋據益州，漢中太守張魯別據漢中，韓遂據涼州，宗建別據枹罕。",
+          "through": "是時益州牧劉璋據益州，漢中太守張魯別據漢中，韓遂據涼州，宗建別據枹罕。",
+          "citation": "《後漢書·天文志下》"
         }
       ],
       "exclusions": [],
