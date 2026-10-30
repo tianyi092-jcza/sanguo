@@ -81385,6 +81385,33 @@
           "from": "韓遂與馬騰自還涼州，更相戰爭，乃下隴據關中。",
           "through": "七年，乃拜騰征南將軍，遂征西將軍，並開府。",
           "citation": "《後漢書·董卓列傳》"
+        },
+        {
+          "id": "hsui-sg-bianzhang-revolt",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 2,
+          "from": "金城邊章、韓遂殺刺史郡守以叛，衆十餘萬，天下騷動。",
+          "through": "金城邊章、韓遂殺刺史郡守以叛，衆十餘萬，天下騷動。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "hsui-sg-jincheng-214",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "from": "韓遂徙金城，入氐王千萬部，率羌、胡萬餘騎與夏侯淵戰，擊，大破之，遂走西平。",
+          "through": "韓遂徙金城，入氐王千萬部，率羌、胡萬餘騎與夏侯淵戰，擊，大破之，遂走西平。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "hsui-sg-death-215",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "from": "西平、金城諸將麴演、蔣石等共斬送韓遂首。",
+          "through": "西平、金城諸將麴演、蔣石等共斬送韓遂首。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "exclusions": [],
