@@ -81249,6 +81249,36 @@
           "through": "因以折矛撾超項，幾殺之。",
           "citation": "《三國志·魏書十五·張旣傳》",
           "note": "張旣傳裴注魏略層（非正文）：建安初韓遂（約）與馬騰相攻擊，騰子超亦號為健，閻行嘗刺超，矛折，因以折矛撾超項，幾殺之。裴注軼事與正文分層，不作正文史實混錄。"
+        },
+        {
+          "id": "mateng-sgz-pangde-chuping-cong-teng",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 28,
+          "from": "初平中，從馬騰擊反羌叛氐。",
+          "through": "數有功，稍遷至校尉。",
+          "citation": "《三國志·魏書十八·龐悳傳》",
+          "note": "龐悳傳正文：初平中龐悳從馬騰擊反羌叛氐，數有功，稍遷至校尉。確指扶風馬騰本人；後文「騰子超」另指馬超，分開記。"
+        },
+        {
+          "id": "mateng-sgz-liuyan-tongmou-xi-changan",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 3,
+          "from": "時征西將軍馬騰屯郿而反",
+          "through": "騰敗，退還涼州",
+          "citation": "《三國志·蜀書一·劉焉傳》",
+          "note": "劉焉傳正文：征西將軍馬騰屯郿，與劉焉、劉範通謀引兵襲長安，事泄，騰敗退還涼州。繫年興平元年（194）前後；此馬騰確指本人，與韓遂、馬超分開記。"
+        },
+        {
+          "id": "mateng-sgz-xujing-peizhu-hansui-mateng-luan",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 7,
+          "from": "初，韓遂與馬騰作亂關中",
+          "through": "有連蜀之意。",
+          "citation": "《三國志·蜀書八·許靖傳》",
+          "note": "許靖傳裴注益州耆舊傳層（非正文）：韓遂與馬騰作亂關中，數與劉焉交通信；至騰子超復與劉璋相聞，有連蜀之意，王商以此諫璋拒絕。裴注層與正文分層，不作正文史實混錄；「騰子超」另指馬超。"
         }
       ],
       "exclusions": [
