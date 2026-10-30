@@ -84069,6 +84069,33 @@
           "term": "下曲陽之戰",
           "quote": "征東大將軍苟晞攻王彌別帥曹嶷",
           "reason": "向量候選誤命中：本段記苟晞、王彌、李洪事，與張寶、下曲陽之戰無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-016",
+          "work": "houhanshu",
+          "source": "a03-015",
+          "paragraph": 4,
+          "term": "下曲陽之戰",
+          "quote": "通與光武、李軼相遇棘陽",
+          "reason": "向量候選誤命中：本段記棘陽破前隊、殺甄阜、梁丘賜事，與張寶、下曲陽之戰無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-017",
+          "work": "houhanshu",
+          "source": "a03-031",
+          "paragraph": 49,
+          "term": "黃巾起義",
+          "quote": "乃以琮為兾州刺史",
+          "reason": "向量候選誤命中：本段記黃巾新破後琮為兾州刺史、整飭州界事，未提張寶，排除。"
+        },
+        {
+          "id": "zhangbao-excl-018",
+          "work": "houhanshu",
+          "source": "a03-081",
+          "paragraph": 88,
+          "term": "黃巾起義",
+          "quote": "後黃巾賊起，郡縣飢荒",
+          "reason": "向量候選誤命中：本段記黃巾賊起後翊救給鄉族乏絕事，未提張寶，排除。"
         }
       ],
       "unresolved": []
