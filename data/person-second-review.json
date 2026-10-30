@@ -82994,6 +82994,33 @@
           "from": "太祖西征張魯，淵等將涼州諸將侯王已下，與太祖會休亭。",
           "through": "即拜淵征西將軍。",
           "citation": "《三國志·魏書九·夏侯淵傳》"
+        },
+        {
+          "id": "zhanglu-sgz-lisheng-fu-quan-juhao",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 44,
+          "from": "張魯前為鎮北將軍，休為司馬，家南鄭。",
+          "through": "欲魯舉號，魯不聽。",
+          "citation": "《三國志·魏書九·曹爽傳》"
+        },
+        {
+          "id": "zhanglu-sgz-liuye-zhenglu-ping-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 31,
+          "from": "太祖征張魯，轉曄為主簿。",
+          "through": "魯奔走，漢中遂平。",
+          "citation": "《三國志·魏書十四·劉曄傳》"
+        },
+        {
+          "id": "zhanglu-sgz-zhangji-congzheng-lujiang",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 16,
+          "from": "從征張魯，別從散關入討叛氐，收其麥以給軍食。",
+          "through": "魯降，旣說太祖拔漢中民數萬戶以實長安及三輔。",
+          "citation": "《三國志·魏書十五·張既傳》"
         }
       ],
       "exclusions": [],
