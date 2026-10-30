@@ -77509,6 +77509,36 @@
           "through": "太祖救延，與良戰，破斬良",
           "citation": "《三國志·魏書六·袁紹傳》",
           "note": "正文：紹進軍黎陽，遣顏良攻劉延於白馬，沮授諫良性促狹不可獨任，紹不聽，太祖救延破斬良。此為官渡前哨白馬之戰的開端；本段獻帝傳等裴注另層，不併入。"
+        },
+        {
+          "id": "yuanshao-bio-xuzhou-zhu-bei-tianfeng-quanxi",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 21,
+          "from": "紹遣騎佐之",
+          "through": "備奔紹",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：紹遣騎佐備於沛，太祖遣劉岱、王忠擊備不克，建安五年太祖自東征備，田豐說紹襲太祖後，紹辭以子疾不許，備敗奔紹。後附魏氏春秋載紹檄州郡文（陳琳之辭）為裴注層，不併入正文摘錄。"
+        },
+        {
+          "id": "yuanshao-bio-jizhou-pingding-you-si",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 24,
+          "from": "兾州城邑多叛",
+          "through": "憂死",
+          "citation": "《三國志·魏書六·袁紹傳》",
+          "note": "正文：官渡敗後兾州城邑多叛，紹復擊定之，自軍敗後發病，七年憂死。此段記紹敗後平定兾州叛亂及發病憂死，為紹生平之終。"
+        },
+        {
+          "id": "yuanshao-peizhu-weishu-yuanshu-gui-dihao-shao",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 30,
+          "from": "術歸帝號於紹曰",
+          "through": "紹陰然之",
+          "citation": "《三國志·魏書六·袁術傳》",
+          "note": "裴注引魏書：術敗亡後欲歸帝號於紹，術以袁氏受命當王、紹擁四州勸進，紹陰然之。此段主體為袁術敗亡，僅此句確指紹對帝號之態度，單獨摘錄；術僭號、敗亡本事不記入紹名下。"
         }
       ],
       "exclusions": [
