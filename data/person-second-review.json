@@ -82746,6 +82746,15 @@
           "from": "先主自葭萌南攻說牧璋曰",
           "through": "璋不納",
           "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-sgz-ji-yizhoumu",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 3,
+          "from": "州大吏趙韙等貪璋溫仁",
+          "through": "領益州牧",
+          "citation": "《三國志·蜀書一 劉二牧傳》"
         }
       ],
       "exclusions": [
@@ -82784,6 +82793,24 @@
           "term": "劉璋",
           "quote": "敞乃故州牧劉璋曽孫也",
           "reason": "本段主述李雄時期敞隱居白鹿山、為尚所殺，劉璋僅用以標識敞為其曾孫，未載劉璋本人事蹟，排除。"
+        },
+        {
+          "id": "liuzhang-excl-huayang-wangshang",
+          "work": "huayang",
+          "source": "a06-011",
+          "paragraph": 14,
+          "term": "劉璋",
+          "quote": "州牧劉璋時爲蜀太守",
+          "reason": "本段主述王化，劉璋僅作其祖父王商任蜀太守時的繫年標記，未載劉璋本人事蹟，排除。"
+        },
+        {
+          "id": "liuzhang-excl-huayang-wanglei",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 29,
+          "term": "劉璋",
+          "quote": "忠烈從事王累(新都人也見劉璋傳)",
+          "reason": "華陽國志卷十二人物表僅以「見劉璋傳」注王累出處，兼以「劉氏世及二牧時」繫年，未載劉璋本人事實，排除。"
         }
       ],
       "unresolved": []
