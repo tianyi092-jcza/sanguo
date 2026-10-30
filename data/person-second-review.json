@@ -77458,6 +77458,33 @@
           "term": "袁本初",
           "quote": "昔孤與袁本初對官渡",
           "reason": "此段主體為蔣濟勸太祖勿徙淮南民，袁紹僅見於太祖回顧官渡舊事「昔孤與袁本初對官渡」及「自破袁紹」兩句，皆為回顧太祖戰績，無袁紹本人新事實，排除。"
+        },
+        {
+          "id": "yuanshao-zhengtai-shishuo-yuanbenchu",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 34,
+          "term": "袁本初",
+          "quote": "袁本初公卿子弟，生處京師，體長婦人",
+          "reason": "此段主體為鄭泰向董卓陳說十事、勸勿徵兵驚天下，袁紹僅見於其列舉山東諸人的一句，與張孟卓、孔公緒並舉作「皆非明公敵」之反襯，無袁紹本人事蹟，排除。"
+        },
+        {
+          "id": "yuanshao-zhangliao-yuanshaopo-dinglu",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 2,
+          "term": "袁紹",
+          "quote": "袁紹破，別遣遼定魯國諸縣",
+          "reason": "此段主體為張遼圍昌豨於東海、誘降之事，「袁紹破」僅作張遼受遣定魯國諸縣的時間背景，無袁紹本人言行事蹟，排除。"
+        },
+        {
+          "id": "yuanshao-yuejin-guandu-chunyuqiong",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 9,
+          "term": "袁紹",
+          "quote": "從擊袁紹於官渡，力戰，斬紹將淳于瓊",
+          "reason": "此段主體為樂進從太祖征戰的戰功，袁紹僅見於「從擊袁紹於官渡」一句，作樂進戰功的對手背景，無袁紹本人事蹟，排除。"
         }
       ],
       "unresolved": [],
