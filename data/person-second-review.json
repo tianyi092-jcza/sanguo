@@ -82692,6 +82692,24 @@
           "from": "劉璋時入蜀",
           "through": "為梓潼令",
           "citation": "《三國志·蜀書十一 霍王向張楊費傳第十一 王連傳》"
+        },
+        {
+          "id": "liuzhang-huayang-xiangcun-gongjun",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 13,
+          "from": "劉璋將向存扶禁由巴閬水攻峻歲餘",
+          "through": "更為峻所破敗退",
+          "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-huayang-dongzhou-tou",
+          "work": "huayang",
+          "source": "a06-003",
+          "paragraph": 16,
+          "from": "劉璋時召東州民居此",
+          "through": "改曰東州頭",
+          "citation": "《華陽國志》卷三·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -82703,6 +82721,15 @@
           "term": "劉璋",
           "quote": "忠謀從事鄭度(綿竹人也見劉璋傳)",
           "reason": "華陽國志卷十二人物表僅以「見劉璋傳」注鄭度出處，未載劉璋本人事實，排除。"
+        },
+        {
+          "id": "liuzhang-excl-jinshu-murongzhen",
+          "work": "jinshu",
+          "source": "a05-128-ahcb",
+          "paragraph": 12,
+          "term": "劉璋",
+          "quote": "主上既不能芟苗守嶮，又不肯徙人逃寇，酷似劉璋矣",
+          "reason": "《晉書·卷一百二十八·載記第二十八》慕容鎮以慕容超比劉璋，僅為後世類比修辭，未載劉璋本人事實，排除。"
         }
       ],
       "unresolved": []
