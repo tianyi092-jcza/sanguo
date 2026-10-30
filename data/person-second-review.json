@@ -81682,6 +81682,33 @@
           "from": "從破馬超、韓遂於渭南。",
           "through": "圍安定，降楊秋。",
           "citation": "《三國志·魏書十七·張樂于張徐傳·張郃傳》"
+        },
+        {
+          "id": "hsui-sg-xuhuang-tongguan-211",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "from": "韓遂、馬超等反關右，",
+          "through": "令上先人墓。",
+          "citation": "《三國志·魏書十七·張樂于張徐傳·徐晃傳》"
+        },
+        {
+          "id": "hsui-sg-xuchu-tongguan-211",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 22,
+          "from": "從討韓遂、馬超於潼關。",
+          "through": "大破超等",
+          "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳·許褚傳》"
+        },
+        {
+          "id": "hsui-sg-pangyu-zhangmeng-210",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 31,
+          "from": "至十五年，將軍韓遂自上討猛，",
+          "through": "乃反共攻猛。",
+          "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳·龐淯傳》"
         }
       ],
       "exclusions": [],
