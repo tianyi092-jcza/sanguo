@@ -82039,6 +82039,24 @@
           "from": "綿竹縣劉焉初所治",
           "through": "畆收三十斛",
           "citation": "《華陽國志》卷三·四部叢刊本"
+        },
+        {
+          "id": "liuyan-hygz-zhugui-pi-jiameng",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 88,
+          "from": "州牧劉焉辟之",
+          "through": "授葭萌長",
+          "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "liuyan-hygz-yanbin-jia-tuxiang",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 90,
+          "from": "牧劉焉",
+          "through": "誅馥等",
+          "citation": "《華陽國志》卷十·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -82059,6 +82077,15 @@
           "term": "劉焉",
           "quote": "劉焉傳子璋",
           "reason": "僅為本傳篇名行（劉焉傳及其子劉璋之目），無關於劉焉生平事實的敘述，排除。"
+        },
+        {
+          "id": "liuyan-excl-003",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 4,
+          "term": "劉焉",
+          "quote": "用州牧劉焉談調之末",
+          "reason": "僅以祝元靈與劉焉談笑為背景提及，無劉焉生平事實，排除。"
         }
       ],
       "unresolved": []
