@@ -80460,7 +80460,7 @@
     {
       "id": "p0111",
       "name": "田豐",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "tianfeng-hhs-xunyu-gang",
@@ -80655,16 +80655,41 @@
           "note": "荀彧傳正文層：官渡戰後，審配收許攸家致攸叛、顏良文醜授首、田豐以諫見誅，皆如荀彧前策。田豐之死繫於諫諍，與袁紹傳、後漢書本傳被殺記載相呼應。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "tianfeng-excl-jinshu-luhui",
+          "work": "jinshu",
+          "source": "a05-102-ahcb",
+          "paragraph": 18,
+          "term": "田豐",
+          "quote": "死者無知則已；若其有知，下見田豐爲徒，要當訴將軍於黃泉，使將軍不得服床枕而死。",
+          "reason": "晉載記中趙染長史魯徽臨刑之語，以田豐為忠諫見殺之典故比附己身，並非田豐本人史實；後世修辭，不錄為傳記材料。"
+        },
+        {
+          "id": "tianfeng-excl-jinshu-mengxun",
+          "work": "jinshu",
+          "source": "a05-126-ahcb",
+          "paragraph": 30,
+          "term": "田豐",
+          "quote": "袁紹敗于官渡，而田豐爲戮。",
+          "reason": "北涼沮渠蒙遜對景保之語，借官渡後田豐見戮作古事比附，屬後世修辭，非田豐本人史實；不錄為傳記材料。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "錄摘錄 18 條、排除 2 條，未解決 0 條。向量候選已窮盡；三國志本傳所寄袁紹傳（卷六）含「田豐」段落 5 段、後漢書袁紹傳（卷七十四）8 段皆已覆蓋，別字「元皓」段落亦無遺漏。",
+        "辨人：與後世借古嚴格區分；晉書兩段僅為後世人物臨刑、論事時借田豐見戮作比附，已排除，不作本人史實。",
+        "勢力繫年：田豐終身為袁紹謀士，未轉投他方；官渡前後以諫見忌、見誅，繫於袁紹一系。",
+        "生卒：生年史無明載；卒於建安五年（200），官渡敗後以諫見誅，與荀彧傳、袁紹傳記載相呼應。",
+        "田豐無獨立本傳，事寄《三國志》袁紹傳及《後漢書》袁紹傳、荀彧傳等，本輪未重複摘錄本傳全文。"
+      ]
     }
   ]
 }
