@@ -79309,6 +79309,36 @@
           "through": "洪不得進",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "建安元年春正月，太祖軍臨武平，袁術所置陳相袁嗣降；太祖遣曹洪將兵西迎天子，衞將軍董承與袁術將萇奴拒險，洪不得進。"
+        },
+        {
+          "id": "yuanshu-wudi-jianan2-yu-chengdi-gong-bu-po",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 11,
+          "from": "袁術欲稱帝於淮南",
+          "through": "術走渡淮",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安二年，袁術欲稱帝於淮南，使人告呂布；布收其使，上其書，術怒攻布，為布所破。秋九月術侵陳，太祖東征之，術棄軍走渡淮，留將橋蕤、李豐、梁綱、樂就皆被斬。"
+        },
+        {
+          "id": "yuanshu-wudi-jianan3-shi-gaoshun-gong-bei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "呂布復為袁術使高順攻劉備",
+          "through": "備為順所敗",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安三年，呂布復為袁術使高順攻劉備，太祖遣夏侯惇救之，不利，備為順所敗。"
+        },
+        {
+          "id": "yuanshu-wudi-jianan4-bing-si",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "from": "袁術自敗於陳",
+          "through": "會術病死",
+          "citation": "《三國志·魏書一·武帝紀》",
+          "note": "建安四年，袁術自敗於陳後稍困，袁譚自青州遣迎之；術欲從下邳北過，太祖遣劉備、朱靈要之，會術病死。"
         }
       ],
       "exclusions": [
