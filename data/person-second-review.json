@@ -80236,7 +80236,40 @@
       "id": "p0110",
       "name": "審配",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "shenpei-hhs-xunyu-guandu-ping",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 36,
+          "from": "紹兵雖多而法不整",
+          "through": "可一戰而擒也。",
+          "citation": "《後漢書》卷七十·荀彧傳",
+          "context": "五年，袁紹率大衆以攻許",
+          "note": "建安五年袁紹攻許、曹操與相距時，少府孔融問荀彧紹軍可否克，荀彧評紹幕府：田豐剛而犯上、許攸貪而不正、審配專而無謀、逢紀果而自用，顏良、文醜匹夫之勇可一戰而擒。範曄正文層；段中先賢行狀、英雄記夾注屬注文層級，本條只錄正文。"
+        },
+        {
+          "id": "shenpei-hhs-yuanshao-zhizhong",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 11,
+          "from": "紹乃以豐為別駕，配為治中",
+          "through": "甚見器任。",
+          "citation": "《後漢書·卷七十四上·袁紹傳》",
+          "note": "審配與鉅鹿田豐並以正直不得志於韓馥，袁紹得冀州後以田豐為別駕、審配為治中，甚見器任。單字「配」承上文「魏郡審配」確指本人。段中先賢行狀、英雄記夾注屬注文層級，本條只錄正文。"
+        },
+        {
+          "id": "shenpei-hhs-yuanshao-tong-junshi",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 25,
+          "from": "以審配、逢紀統軍事",
+          "through": "顏良、文醜為將帥。",
+          "citation": "《後漢書·卷七十四上·袁紹傳》",
+          "context": "簡精兵十萬，騎萬匹，欲出攻許",
+          "note": "袁紹簡精兵十萬、騎萬匹欲出攻許時，以審配、逢紀統軍事，田豐、荀諶及南陽許攸為謀主，顏良、文醜為將帥。官渡前夕袁紹軍的統軍分工。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
