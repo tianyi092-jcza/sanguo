@@ -79729,6 +79729,36 @@
           "through": "時袁術僭號，策以書責而絕之。",
           "citation": "《三國志·吳書一·孫策傳》",
           "note": "袁術僭號，孫策以書責而絕之，見袁術稱號後與孫策決裂。"
+        },
+        {
+          "id": "yuanshu-sgz-liuyao-huainan-tu-ni",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 2,
+          "from": "時袁術在淮南，繇畏憚，不敢之州。",
+          "through": "於是術乃自置揚州刺史，與景、賁并力攻英、能等，歲餘不下。",
+          "citation": "《三國志·吳書四·劉繇傳》",
+          "note": "袁術據淮南，揚州刺史劉繇畏憚不敢之州；術圖僭逆、攻沒諸郡縣，並自置揚州刺史，與吳景、孫賁攻劉繇部將樊能、張英，歲餘不下。"
+        },
+        {
+          "id": "yuanshu-sgz-wujing-shu-yong-gui",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 2,
+          "from": "袁術上景領丹楊太守",
+          "through": "景即委郡東歸，策復以景為丹楊太守。",
+          "citation": "《三國志·吳書五·妃嬪傳·孫破虜吳夫人傳》",
+          "note": "袁術上吳景領丹楊太守，後以景為督軍中郎將、廣陵太守；術僭號後孫策以書喻術不納、絕江津，景即委郡東歸，策復以景為丹楊太守。"
+        },
+        {
+          "id": "yuanshu-sgz-jiangbiao-yin-danyang",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 8,
+          "from": "江表傳曰：初，袁術遣從弟胤為丹楊",
+          "through": "策令琨討而代之。",
+          "citation": "《三國志·吳書五·妃嬪傳·吳主權徐夫人傳》",
+          "note": "異說層級（江表傳引文）：袁術遣從弟袁胤為丹楊太守，孫策令徐琨討而代之；見袁術在江東的人事佈置與孫策的對抗。"
         }
       ],
       "exclusions": [
