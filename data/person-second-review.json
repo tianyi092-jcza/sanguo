@@ -77369,6 +77369,16 @@
           "through": "皆以為單于。",
           "citation": "《三國志·魏書三十·烏丸鮮卑東夷傳》",
           "note": "正文層：紹與瓚連戰不決，蹋頓求和親助紹破瓚，紹矯制賜三王印綬皆以為單于。後附英雄記版文為異說引文，不與正文合併，不錄。"
+        },
+        {
+          "id": "yuanshao-sg-xianzhu-gongzan-dongtun",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 3,
+          "from": "袁紹攻公孫瓚，",
+          "through": "先主與田楷東屯齊。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "正文層：袁紹攻公孫瓚，先主與田楷東屯齊。同段後附獻帝春秋、英雄記引文為異說層，不與正文合併，不錄；段內袁公路、袁術為袁術，與本人分開。"
         }
       ],
       "exclusions": [
@@ -77767,6 +77777,24 @@
           "term": "袁紹",
           "quote": "自袁紹據河北，中國人多亡叛歸之，",
           "reason": "此段主體為軻比能崛起與部眾治理；袁紹僅見於「自袁紹據河北」作時間背景，無本段言行決策，排除。"
+        },
+        {
+          "id": "yuanshao-excl-xianzhu-tiankai-ju",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 2,
+          "term": "袁紹",
+          "quote": "使為青州刺史田楷以拒兾州牧袁紹。",
+          "reason": "此段主體為先主早年討黃巾、任安喜尉、棄官等事；袁紹僅見於英雄記引文中此句，作先主所拒對象，無本段言行決策，排除。"
+        },
+        {
+          "id": "yuanshao-excl-xianzhu-yuanshu-jiu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 4,
+          "term": "袁紹",
+          "quote": "袁術欲經徐州北就袁紹，",
+          "reason": "此段主體為先主還小沛、與呂布及曹公事；袁紹僅為袁術北投的目的地提及，無本段言行決策，排除。"
         }
       ],
       "unresolved": [],
