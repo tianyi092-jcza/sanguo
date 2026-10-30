@@ -82611,6 +82611,33 @@
           "from": "建安六年，劉璋分巴",
           "through": "以墊江為巴西郡",
           "citation": "《後漢書·郡國志（引譙周巴記）》"
+        },
+        {
+          "id": "liuzhang-hhs-junguo-jiangyang",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 13,
+          "from": "劉璋分立江陽郡",
+          "through": "劉璋分立江陽郡",
+          "citation": "《後漢書·郡國志》"
+        },
+        {
+          "id": "liuzhang-sgz-ping-zhang",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 7,
+          "from": "璋才非人雄，而據土亂世",
+          "through": "其見奪取，非不幸也",
+          "citation": "《三國志·蜀書一 劉二牧傳》"
+        },
+        {
+          "id": "liuzhang-sgz-xianzhu-shejian-changshi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "from": "堅去官，與弟援南入蜀依劉璋",
+          "through": "璋以堅為長史",
+          "citation": "《三國志·蜀書二 先主傳（裴注引三輔決錄注）》"
         }
       ],
       "exclusions": [
