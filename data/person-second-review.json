@@ -82377,6 +82377,33 @@
           "from": "劉璋辟為從事，",
           "through": "以疾去官。",
           "citation": "《三國志·蜀書十二 杜微傳》"
+        },
+        {
+          "id": "liuzhang-sgz-zhouqun-shiyou-congshi",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 4,
+          "from": "州牧劉璋，",
+          "through": "辟以為師友從事。",
+          "citation": "《三國志·蜀書十二 周羣傳》"
+        },
+        {
+          "id": "liuzhang-sgz-zhangyu-fuhui-shizuo",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 6,
+          "from": "初，先主與劉璋會涪時，",
+          "through": "侍坐。",
+          "citation": "《三國志·蜀書十二 周羣傳附張裕》"
+        },
+        {
+          "id": "liuzhang-sgz-duqiong-congshi",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 9,
+          "from": "劉璋時辟為從事。",
+          "through": "以瓊為議曹從事。",
+          "citation": "《三國志·蜀書十二 杜瓊傳》"
         }
       ],
       "exclusions": [],
