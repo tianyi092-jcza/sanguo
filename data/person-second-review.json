@@ -82573,7 +82573,7 @@
           "source": "a06-006",
           "paragraph": 12,
           "from": "十六年益州牧劉璋遣法正迎",
-          "through": "遂西入益州",
+          "through": "遂西",
           "citation": "《華陽國志》卷六·四部叢刊本"
         },
         {
@@ -82590,12 +82590,40 @@
           "work": "huayang",
           "source": "a06-006",
           "paragraph": 19,
-          "from": "呉盡取荆州以劉璋為益州牧",
+          "from": "呉盡取荆州以",
           "through": "住秭歸",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "liuzhang-hhs-machao-xiang",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 36,
+          "from": "聞備圍劉璋於成都",
+          "through": "璋即稽首",
+          "citation": "《後漢書》卷七十二·董卓傳（注引蜀志）"
+        },
+        {
+          "id": "liuzhang-hhs-junguo-fenba",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 7,
+          "from": "建安六年，劉璋分巴",
+          "through": "以墊江為巴西郡",
+          "citation": "《後漢書·郡國志（引譙周巴記）》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "liuzhang-excl-huayang-zhengdu",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 28,
+          "term": "劉璋",
+          "quote": "忠謀從事鄭度(綿竹人也見劉璋傳)",
+          "reason": "華陽國志卷十二人物表僅以「見劉璋傳」注鄭度出處，未載劉璋本人事實，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
