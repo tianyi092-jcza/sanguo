@@ -78834,6 +78834,22 @@
         "敗亡：太祖圍鄴時譚攻尚於中山，尚走故安從熈，譚悉收其衆；後尚、熈為其將焦觸、張南所攻，奔遼西烏丸，建安十二年太祖至遼西擊烏丸，尚、熈與烏丸逆軍戰，敗走奔遼東，公孫康誘斬之、送其首；裴注典略異說記尚欲奪取康衆、手擊康以據遼東，康伏兵縛而斬之。",
         "冀州一線：建安中尚領冀州，以李孚為主簿；拒太祖於黎陽，遣所置河東太守郭援、并州刺史高幹及匈奴單于取平陽，援敗死、幹及單于皆降；建安九年秋八月曹操大破袁尚、平冀州，自領冀州牧。"
       ]
+    },
+    {
+      "id": "p0108",
+      "name": "袁熙",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
