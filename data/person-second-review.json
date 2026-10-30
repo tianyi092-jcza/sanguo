@@ -82913,6 +82913,33 @@
           "from": "是時益州牧劉璋據益州，漢中太守張魯別據漢中，韓遂據涼州，宗建別據枹罕。",
           "through": "是時益州牧劉璋據益州，漢中太守張魯別據漢中，韓遂據涼州，宗建別據枹罕。",
           "citation": "《後漢書·天文志下》"
+        },
+        {
+          "id": "zhanglu-sgz-wudi-juhanzhong",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "張魯據漢中，三月，遣鍾繇討之。",
+          "through": "張魯據漢中，三月，遣鍾繇討之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhanglu-sgz-wudi-yangping",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "from": "張魯使弟衞與將楊昂等據陽平關，橫山築城十餘里",
+          "through": "魯潰奔巴中。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhanglu-pei-xiandi-ningwei",
+          "work": "peizhu",
+          "source": "a04-002",
+          "paragraph": 12,
+          "from": "臣以合辭語鎮南將軍張魯",
+          "through": "寧為魏公奴，不為劉備上客也。",
+          "citation": "裴注引《獻帝傳》"
         }
       ],
       "exclusions": [],
