@@ -81331,7 +81331,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "hsui-hhs-revolt-184",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 17,
+          "from": "湟中義從胡北宮伯玉與先零羌叛",
+          "through": "攻殺護羌校尉伶徵、金城太守陳懿。",
+          "citation": "《後漢書·孝靈帝紀》"
+        },
+        {
+          "id": "hsui-hhs-gengbi-defeat",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 20,
+          "from": "涼州刺史耿鄙討金城賊韓遂",
+          "through": "漢陽太守傅燮戰沒。",
+          "citation": "《後漢書·孝靈帝紀》"
+        },
+        {
+          "id": "hsui-hhs-changpingguan-194",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 7,
+          "from": "韓遂、馬騰與郭汜、樊稠戰於長平觀",
+          "through": "前益州刺史种劭戰歿。",
+          "citation": "《後漢書·孝獻帝紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
