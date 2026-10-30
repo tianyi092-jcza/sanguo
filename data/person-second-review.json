@@ -81922,6 +81922,33 @@
           "from": "獻帝遷都長安，遂逃入蜀",
           "through": "劉焉父子待以客禮。",
           "citation": "《三國志·蜀書十二 孟光傳》"
+        },
+        {
+          "id": "liuyan-sgz-yangxi-wuyi-suiliuyan-rushu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 32,
+          "from": "子遠名壹，陳留人也。",
+          "through": "隨劉焉入蜀。",
+          "citation": "《三國志·蜀書十五 楊戲傳》"
+        },
+        {
+          "id": "liuyan-hygz-zhanglu-duyisima",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 4,
+          "from": "於益州牧劉焉魯母有少容徃來焉家",
+          "through": "魯為督義司馬住漢中斷谷道",
+          "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "liuyan-hygz-mianzhu-yi-luoxian",
+          "work": "huayang",
+          "source": "a06-003",
+          "paragraph": 22,
+          "from": "州牧劉焉自綿竹移雒縣城築闕門云其地不王乃",
+          "through": "留孫脩據之",
+          "citation": "《華陽國志》卷三·四部叢刊本"
         }
       ],
       "exclusions": [],
