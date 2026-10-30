@@ -82512,6 +82512,33 @@
           "from": "先是，益州牧劉璋綱維頹弛，",
           "through": "周瑜、甘寧並勸權取蜀，",
           "citation": "《三國志·吳書九 魯肅傳》"
+        },
+        {
+          "id": "liuzhang-jin-sima-yi-lubei-lu",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 2,
+          "from": "劉備以詐力虜劉璋，",
+          "through": "蜀人未附而遠爭江陵，",
+          "citation": "《晉書·卷一·宣帝紀第一》"
+        },
+        {
+          "id": "liuzhang-jin-dili-yizhou-ahcb",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 209,
+          "from": "獻帝初平元年，劉璋分巴郡立永寧郡。",
+          "through": "建安六年，改永寧爲巴東，以巴郡爲巴西，又立涪陵郡。",
+          "citation": "《晉書·卷十四·地理志》"
+        },
+        {
+          "id": "liuzhang-jin-dili-liangzhou",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 119,
+          "from": "建安六年，劉璋改永寧為巴東郡，",
+          "through": "分巴郡墊江置巴西郡。",
+          "citation": "《晉書·卷十四·地理志》"
         }
       ],
       "exclusions": [],
