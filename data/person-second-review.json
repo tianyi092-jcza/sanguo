@@ -79239,6 +79239,26 @@
           "through": "七道攻布",
           "citation": "《後漢書·劉焉袁術呂布列傳·呂布傳》",
           "note": "袁術怒呂布殺韓胤，遣大將張勳、橋蕤等與韓暹、楊奉連勢，步騎數萬，七道攻布。"
+        },
+        {
+          "id": "yuanshu-hhs-lubu-fucong-shu-gong-pei",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 38,
+          "from": "建安二年，布遂復從袁術",
+          "through": "曹操遣夏侯惇救備",
+          "citation": "《後漢書·劉焉袁術呂布列傳·呂布傳》",
+          "note": "建安二年，呂布復從袁術，遣高順攻劉備於沛破之，曹操遣夏侯惇救備。"
+        },
+        {
+          "id": "yuanshu-hhs-liuyao-shu-ju-huainan-sunce-po-yao",
+          "work": "houhanshu",
+          "source": "a03-076",
+          "paragraph": 58,
+          "from": "時袁術據淮南",
+          "through": "袁術遣孫策攻破繇",
+          "citation": "《後漢書·循吏列傳·劉寵傳附劉繇》",
+          "note": "袁術據淮南，楊州牧劉繇移居曲阿；後袁術遣孫策攻破劉繇，繇奔豫章病卒。"
         }
       ],
       "exclusions": [
@@ -79313,6 +79333,15 @@
           "term": "袁術",
           "quote": "劉焉　袁術　呂布",
           "reason": "僅為本卷列傳篇目（劉焉、袁術、呂布三傳合卷之目），無袁術本人史實，排除。"
+        },
+        {
+          "id": "yuanshu-excl-lubu-miao-qiu-shu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 31,
+          "term": "袁術",
+          "quote": "邈詣袁術求救",
+          "reason": "段落主事為曹操與呂布、張邈之戰及張邈之死；袁術僅為張邈求救的對象，邈未至壽春即為其兵所害，袁術本人無行動、無實質史實，排除。"
         }
       ],
       "unresolved": [],
