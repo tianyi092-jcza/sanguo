@@ -79689,6 +79689,16 @@
           "through": "未至，術病死。",
           "citation": "《三國志·蜀書二·先主傳》",
           "note": "袁術欲經徐州北就袁紹，曹公遣先主督朱靈、路招要擊，未至而術病死，見袁術末路北投未果而卒。"
+        },
+        {
+          "id": "yuanshu-luyang-biao-sunjian-polu-yuzhou",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 4,
+          "from": "前到魯陽，與袁術相見。",
+          "through": "術表堅行破虜將軍，領豫州刺史。",
+          "citation": "《三國志·吳書一·孫堅傳》",
+          "note": "孫堅到魯陽與袁術相見，術表堅為行破虜將軍、領豫州刺史，見討董卓之際袁術對孫堅的表任與結納。"
         }
       ],
       "exclusions": [
@@ -79925,6 +79935,24 @@
           "term": "袁術",
           "quote": "從父玄為袁術所署豫章太守",
           "reason": "段落主體為諸葛亮家世與早年，袁術署諸葛玄為豫章太守僅一語背景，任命細節與後續皆無，不獨立成條，排除。"
+        },
+        {
+          "id": "yuanshu-excl-xujing-nan-du-beijing",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 3,
+          "term": "袁術",
+          "quote": "迫於袁術放命圮族，扇動羣逆，津塗四塞",
+          "reason": "段落主體為許靖在會稽避亂、南渡交州的流亡歷程，袁術僅為會稽傾覆、道路阻絕的背景原因一語，不獨立成條，排除。"
+        },
+        {
+          "id": "yuanshu-excl-mizhu-xianzhu-chu-ju-beijing",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 10,
+          "term": "袁術",
+          "quote": "呂布乘先主之出拒袁術，襲下邳",
+          "reason": "段落主體為麋竺家世與資助先主，袁術僅為先主出兵對象的一語背景，不獨立成條，排除。"
         }
       ],
       "unresolved": [],
