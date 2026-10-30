@@ -81709,6 +81709,33 @@
           "from": "至十五年，將軍韓遂自上討猛，",
           "through": "乃反共攻猛。",
           "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳·龐淯傳》"
+        },
+        {
+          "id": "hsui-sg-ruanyu-letter-211",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 7,
+          "from": "及征馬超，又使瑀作書與韓遂，",
+          "through": "此二書今具存。",
+          "citation": "《三國志·魏書二十一·阮瑀傳》"
+        },
+        {
+          "id": "hsui-sg-zhaoyan-relocated-troops",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 24,
+          "from": "太祖徙出故韓遂、馬超等兵五千餘人，",
+          "through": "盡統諸軍。",
+          "citation": "《三國志·魏書二十三·趙儼傳》"
+        },
+        {
+          "id": "hsui-sg-gaorou-zhongyao-revolt",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 14,
+          "from": "太祖欲遣鍾繇等討張魯，柔諫，",
+          "through": "繇入關，遂、超等果反。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
         }
       ],
       "exclusions": [],
