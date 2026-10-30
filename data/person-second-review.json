@@ -81868,6 +81868,33 @@
           "from": "益州牧劉焉以魯為督義司馬",
           "through": "魯遂襲脩殺之，奪其衆。",
           "citation": "《三國志·魏書八 張魯傳》"
+        },
+        {
+          "id": "liuyan-sgz-liuyan-jianyi-mubo",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 1,
+          "from": "焉覩靈帝政治衰缺",
+          "through": "可選清名重臣以為牧伯，鎮安方夏。",
+          "citation": "《三國志·蜀書一 劉焉傳》"
+        },
+        {
+          "id": "liuyan-sgz-liuyan-yitu-yiji",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 2,
+          "from": "焉徙治緜竹",
+          "through": "陰圖異計。",
+          "citation": "《三國志·蜀書一 劉焉傳》"
+        },
+        {
+          "id": "liuyan-sgz-muhuanghou-yizhi-nahou",
+          "work": "sanguozhi",
+          "source": "a04-034",
+          "paragraph": 3,
+          "from": "焉有異志",
+          "through": "遂為瑁納后。",
+          "citation": "《三國志·蜀書四 穆皇后傳》"
         }
       ],
       "exclusions": [],
