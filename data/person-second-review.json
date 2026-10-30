@@ -83021,6 +83021,33 @@
           "from": "從征張魯，別從散關入討叛氐，收其麥以給軍食。",
           "through": "魯降，旣說太祖拔漢中民數萬戶以實長安及三輔。",
           "citation": "《三國志·魏書十五·張既傳》"
+        },
+        {
+          "id": "zhanglu-sgz-zhanghe-zhenglu-yangping",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 17,
+          "from": "太祖征張魯，先遣郃督諸軍討興和氐王竇茂。",
+          "through": "至陽平，魯降，太祖還，留郃與夏侯淵等守漢中，拒劉備。",
+          "citation": "《三國志·魏書十七·張郃傳》"
+        },
+        {
+          "id": "zhanglu-sgz-pangde-ben-hanzhong-conglu",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 28,
+          "from": "後復隨超奔漢中，從張魯。",
+          "through": "太祖定漢中，悳隨衆降。",
+          "citation": "《三國志·魏書十八·龐悳傳》"
+        },
+        {
+          "id": "zhanglu-sgz-heqia-ke-lu-xi-min",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 4,
+          "from": "太祖克張魯，洽陳便宜以時拔軍徙民，可省置守之費。",
+          "through": "太祖未納，其後竟徙民棄漢中。",
+          "citation": "《三國志·魏書二十三·和洽傳》"
         }
       ],
       "exclusions": [],
