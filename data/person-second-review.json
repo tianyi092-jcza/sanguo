@@ -86810,6 +86810,33 @@
           "from": "超奔漢中，降劉備。",
           "through": "璋即稽首。",
           "citation": "《後漢書·卷七十二·列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "liubei-hhs-kill-chezhou-jupei",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 26,
+          "from": "五年，左將軍劉備殺徐州刺史車胄，據沛以背曹操。",
+          "through": "操懼，乃自將征備。",
+          "citation": "《後漢書·卷七十四上·列傳第六十四上 袁紹傳》"
+        },
+        {
+          "id": "liubei-hhs-flee-to-jingzhou-liubiao",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 22,
+          "from": "六年，劉備自袁紹奔荊州，表厚相待結而不能用也。",
+          "through": "六年，劉備自袁紹奔荊州，表厚相待結而不能用也。",
+          "citation": "《後漢書·卷七十四下·劉表傳》"
+        },
+        {
+          "id": "liubei-hhs-zhangsong-ally-liubei",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 9,
+          "from": "松懷恨而還，勸璋絕曹氏，而結好劉備。",
+          "through": "璋從之。",
+          "citation": "《後漢書·卷七十五·劉焉列傳（附劉璋傳）》"
         }
       ],
       "exclusions": [],
