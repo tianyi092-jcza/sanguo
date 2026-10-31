@@ -90608,6 +90608,24 @@
           "from": "明年，諸葛亮寇天水，圍將軍賈嗣、魏平於祁山。",
           "through": "亮宵遁，追擊破之，俘斬萬計。",
           "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "zhugeliang-jin-shu-chenxie-weizhen",
+          "work": "jinshu",
+          "source": "a05-024-ahcb",
+          "paragraph": 72,
+          "from": "及蜀破後，令勰受諸葛亮圍陣用兵倚伏之法",
+          "through": "勰悉闇練之，遂以勰爲殿中典兵中郎將，遷將軍。",
+          "citation": "《晉書》卷二十四·職官志"
+        },
+        {
+          "id": "zhugeliang-jin-shu-simafu-yukou-guanzhong",
+          "work": "jinshu",
+          "source": "a05-037",
+          "paragraph": 4,
+          "from": "每諸葛亮入寇關中，邊兵不能制敵，中軍奔赴，輒不及事機",
+          "through": "由是關中軍國有餘，待賊有備矣。",
+          "citation": "《晉書》卷三十七·安平獻王孚傳"
         }
       ],
       "exclusions": [
@@ -90997,6 +91015,15 @@
           "term": "諸葛亮",
           "quote": "言宣帝禦諸葛亮，養威重，運神兵，亮震怖而死也。",
           "reason": "樂志傅玄樂章頌宣帝功業之一句，亮僅為宣帝禦敵對照，非亮生平史實；卷二十三 sidneyluo 無本卷，此為四庫本正文而非鏡像。"
+        },
+        {
+          "id": "zhugeliang-excl-yanghu-lukang-yu",
+          "work": "jinshu",
+          "source": "a05-034",
+          "paragraph": 9,
+          "term": "諸葛孔明",
+          "quote": "抗稱祜之德量，雖樂毅、諸葛孔明不能過也。",
+          "reason": "陸抗稱羊祜德量以樂毅、諸葛孔明作比，亮僅為德量高下的比附對象，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
