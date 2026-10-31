@@ -89031,6 +89031,24 @@
           "from": "知劉禪降，乃率所統臨于都亭三日。",
           "through": "乃率所統臨于都亭三日。",
           "citation": "《晉書·卷五十七·羅憲傳》"
+        },
+        {
+          "id": "liushan-ming-zi-taizi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 0,
+          "from": "後主諱禪，字公嗣，先主子也。",
+          "through": "建安二十四年，先主為漢中王，立為王太子。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jicheng-xiwei-chengdu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 1,
+          "from": "三年夏四月，先主殂于永安宮。",
+          "through": "是歲魏黃初四年也。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
@@ -89141,6 +89159,15 @@
           "term": "劉禪",
           "quote": "遂得禮同劉禪，不亦優乎！",
           "reason": "此段論成漢後主處置時以禮同劉禪為例，僅借劉禪降後受封安樂公一事作比附，無劉禪本人新事實，且降魏與封安樂公已分別詳載於本傳及 a04-004:77，不作摘錄。"
+        },
+        {
+          "id": "liushan-excl-weilue-shizi-maimai",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 1,
+          "term": "禪",
+          "quote": "禪時年數歲，竄匿，隨人西入漢中，為人所賣。",
+          "reason": "魏略異說，稱禪幼年與備相失、竄匿入漢中、為人所賣，後為劉括所養；裴松之已案駁：按後主生於荊州、即位年十七推算為建安十二年生，長阪事與趙雲抱弱子相符，備與禪未嘗相失，魚豢所云年歲不合，斷為妄說，故不作本人史實摘錄。"
         }
       ],
       "unresolved": []
