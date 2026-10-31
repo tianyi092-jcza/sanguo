@@ -86064,6 +86064,33 @@
           "term": "士徽",
           "quote": "俄而晉將軍王龕拔其沛郡",
           "reason": "晉書段落記王龕拔沛郡、馬勖起兵被石苞攻滅事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-sanguozhi-wenqin-zhengwei",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 31,
+          "term": "士徽",
+          "quote": "其明年，文欽說峻征魏",
+          "reason": "三國志段落敘文欽說孫峻征魏、孫峻病死託後事事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-sanguozhi-chengyu-mou",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 2,
+          "term": "士徽",
+          "quote": "初平中，兖州刺史劉岱辟昱",
+          "reason": "三國志段落敘程昱為劉岱謀劃、勸其勿絕袁紹而求公孫瓚事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-wuhan-weiqu",
+          "work": "houhanshu",
+          "source": "a03-012",
+          "paragraph": 14,
+          "term": "士徽",
+          "quote": "吳漢進圍朐",
+          "reason": "後漢書段落敘吳漢圍朐、董憲潛出襲贛榆、被追斬傳首事，全段未提及士徽；向量誤觸。"
         }
       ],
       "unresolved": []
