@@ -86783,7 +86783,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "liubei-hhs-liubiao-seat-chenyuanlong",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 39,
+          "from": "後許汜與劉備並在荊州牧劉表坐",
+          "through": "表大笑也。",
+          "citation": "《後漢書·卷五十六·列傳第四十六 陳球傳》"
+        },
+        {
+          "id": "liubei-hhs-kongrong-qingzhou",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 13,
+          "from": "劉備表領青州刺史",
+          "through": "劉備表領青州刺史",
+          "citation": "《後漢書·卷七十·列傳第六十 孔融傳》"
+        },
+        {
+          "id": "liubei-hhs-machao-surrender-chengdu",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 36,
+          "from": "超奔漢中，降劉備。",
+          "through": "璋即稽首。",
+          "citation": "《後漢書·卷七十二·列傳第六十二 董卓傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
