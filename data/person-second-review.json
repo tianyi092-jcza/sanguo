@@ -86402,6 +86402,24 @@
           "from": "承謂服曰：「郭多有數百兵，壞李傕數萬人，但足下與吾同不耳！",
           "through": "承曰：「長水校尉种輯、議郎吳碩是吾腹心辦事者。」",
           "citation": "《三國志·卷三十二·蜀書二 先主傳第二》"
+        },
+        {
+          "id": "dongcheng-sg-sunce-jiangbiao-bingtao",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 12,
+          "from": "策被詔勑，與司空曹公、衞將軍董承、益州牧劉璋等并力討袁術、劉表。",
+          "through": "軍嚴當進，會術死",
+          "citation": "《三國志·卷四十六·吳書一 孫破虜討逆傳第一》"
+        },
+        {
+          "id": "dongcheng-js-shihuo-duojuan",
+          "work": "jinshu",
+          "source": "a05-026-ahcb",
+          "paragraph": 2,
+          "from": "后手持縑數匹，董承使符節令孫徽以刃脅奪之",
+          "through": "殺旁侍者，血濺后服。",
+          "citation": "《晉書·卷二十六·志第十六 食貨志》"
         }
       ],
       "exclusions": [
@@ -86458,6 +86476,15 @@
           "term": "董承",
           "quote": "臣昔與車騎將軍董承圖謀討操，機事不密，承見陷害，臣播越失據，忠義不果。",
           "reason": "本段主角為先主上言辭讓漢中王爵，董承僅以舊謀回顧出現，不載董承本人新事；衣帶詔密謀本事已見 a03-009:13、a03-072:35 摘錄，故不單獨立條。"
+        },
+        {
+          "id": "dongcheng-excl-guanyuzhuan-songzhi-jiumou",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 3,
+          "term": "董承",
+          "quote": "臣松之以為備後與董承等結謀，但事泄不克諧耳",
+          "reason": "本段主角為關羽與先主，董承僅在裴注松之案中以舊謀回顧提及，不載董承本人新事；衣帶詔密謀本事已見 a03-009:13、a03-072:35 摘錄，故不單獨立條。"
         }
       ],
       "unresolved": []
