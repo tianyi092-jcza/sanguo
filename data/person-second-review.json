@@ -89267,6 +89267,33 @@
           "from": "是歲大赦。",
           "through": "是歲大赦。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-yuan-lihou-tonghao",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 2,
+          "from": "是歲，主皇后張氏。",
+          "through": "是歲通好。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-san-nanzheng-gaijun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 4,
+          "from": "三年春三月，丞相亮南征四郡，四郡皆平。",
+          "through": "十二月，亮還成都。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-qi-keding-sunquan-yuemeng",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 8,
+          "from": "七年春，亮遣陳式攻武都、陰平，遂克定二郡。",
+          "through": "是歲，孫權稱帝，與蜀約盟，共交分天下。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
