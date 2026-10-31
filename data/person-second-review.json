@@ -88098,6 +88098,33 @@
           "from": "復合兵得萬餘人",
           "through": "復虜先主妻子送布",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-xiapi-shachezhou-huanxiaopei",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 6,
+          "from": "先主據下邳。靈等還，先主乃殺徐州刺史車胄，留關羽守下邳，而身還小沛。",
+          "through": "先主據下邳。靈等還，先主乃殺徐州刺史車胄，留關羽守下邳，而身還小沛。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-zicong-xiangjiang-buren",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 9,
+          "from": "子琮代立，遣使請降。先主屯樊，不知曹公卒至，至宛乃聞之，遂將其衆去。過襄陽，諸葛亮說先主攻琮，荊州可有。先主曰：「吾不忍也。」",
+          "through": "子琮代立，遣使請降。先主屯樊，不知曹公卒至，至宛乃聞之，遂將其衆去。過襄陽，諸葛亮說先主攻琮，荊州可有。先主曰：「吾不忍也。」",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-huangjin-congzoujing-anxiwei",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 2,
+          "from": "靈帝末，黃巾起，州郡各舉義兵，先主率其屬從校尉鄒靖討黃巾賊有功，除安喜尉。",
+          "through": "靈帝末，黃巾起，州郡各舉義兵，先主率其屬從校尉鄒靖討黃巾賊有功，除安喜尉。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
