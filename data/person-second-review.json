@@ -86258,6 +86258,24 @@
           "from": "董承使符節令孫徽以刃脅奪之",
           "through": "血濺后衣。",
           "citation": "《後漢書·卷十下·皇后紀第十下》"
+        },
+        {
+          "id": "dongcheng-hhs-zhaoqi-gongshi",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 37,
+          "from": "先遣衞將軍董承修理宮室。",
+          "through": "承即表遣歧使荊州，督租糧。",
+          "citation": "《後漢書·卷六十四·趙岐傳》"
+        },
+        {
+          "id": "dongcheng-hhs-dongzhuo-jumei",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 29,
+          "from": "汜遂復欲脅帝幸郿，定、奉、承不聽。",
+          "through": "汜恐變生，乃弃軍還就李傕。",
+          "citation": "《後漢書·卷七十二·董卓傳》"
         }
       ],
       "exclusions": [
@@ -86269,6 +86287,15 @@
           "term": "董承女",
           "quote": "董承女為貴人，操誅承而求貴人殺之。",
           "reason": "伏后傳敘事，主角為伏壽皇后與董承女（董貴人）；「操誅承」僅追述建安五年密詔事洩之誅殺，已於 a03-009:13 錄入，不載董承本人新事，故不單獨立條。"
+        },
+        {
+          "id": "dongcheng-excl-xunyu-dongchengzhu",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 41,
+          "term": "董承",
+          "quote": "獻帝春秋，董承之誅，伏后與父完書，言司空殺董承，帝方為報怨。",
+          "reason": "荀彧傳引《獻帝春秋》追述建安五年密詔事洩、董承被誅，已於 a03-009:13 錄入；本段主角為荀彧，不載董承本人新事，故不單獨立條。"
         }
       ],
       "unresolved": []
