@@ -90626,6 +90626,15 @@
           "from": "每諸葛亮入寇關中，邊兵不能制敵，中軍奔赴，輒不及事機",
           "through": "由是關中軍國有餘，待賊有備矣。",
           "citation": "《晉書》卷三十七·安平獻王孚傳"
+        },
+        {
+          "id": "zhugeliang-jin-chenshou-zhuan-liangji",
+          "work": "jinshu",
+          "source": "a05-082-ahcb",
+          "paragraph": 0,
+          "from": "撰蜀相諸葛亮集，奏之。",
+          "through": "撰蜀相諸葛亮集，奏之。",
+          "citation": "《晉書》卷八十二·陳壽傳"
         }
       ],
       "exclusions": [
@@ -91024,6 +91033,24 @@
           "term": "諸葛孔明",
           "quote": "抗稱祜之德量，雖樂毅、諸葛孔明不能過也。",
           "reason": "陸抗稱羊祜德量以樂毅、諸葛孔明作比，亮僅為德量高下的比附對象，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-xizhou-qinglun-jiecheng",
+          "work": "jinshu",
+          "source": "a05-054-ahcb",
+          "paragraph": 24,
+          "term": "諸葛孔明",
+          "quote": "借稱諸葛孔明以行其書也。",
+          "reason": "此段記他人作《西州清論》借稱諸葛孔明之名以行其書，亮僅為假託之名，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-lun-yueyi-jian-yu-liang",
+          "work": "jinshu",
+          "source": "a05-060-ahcb",
+          "paragraph": 30,
+          "term": "諸葛亮",
+          "quote": "又論魏武帝不及劉備，樂毅減於諸葛亮，詞多不載。",
+          "reason": "此段為他人著論，以樂毅減於諸葛亮作高下之比，亮僅為論中比附對象，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
