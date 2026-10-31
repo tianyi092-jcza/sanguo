@@ -90239,6 +90239,33 @@
           "from": "先生見諸葛亮連弩，曰：『巧則巧矣，未盡善也。』言作之可令加五倍。",
           "through": "先生見諸葛亮連弩，曰：『巧則巧矣，未盡善也。』言作之可令加五倍。",
           "citation": "《三國志·魏書二十九·方技傳·杜夔傳》"
+        },
+        {
+          "id": "zhugeliang-wen-qinmi-dongfu-chang",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 1,
+          "from": "後丞相諸葛亮問秦宓以扶所長，宓曰：「董扶襃秋毫之善，貶纖芥之惡。」",
+          "through": "後丞相諸葛亮問秦宓以扶所長，宓曰：「董扶襃秋毫之善，貶纖芥之惡。」",
+          "citation": "《三國志·蜀書一·劉二牧傳》"
+        },
+        {
+          "id": "zhugeliang-sui-su-jie-sunquan-tongmeng",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "備大喜，進住鄂縣，即遣諸葛亮隨肅詣孫權，結同盟誓。",
+          "through": "備大喜，進住鄂縣，即遣諸葛亮隨肅詣孫權，結同盟誓。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhugeliang-ju-nanjun",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "使關羽屯江陵，張飛屯秭歸，諸葛亮據南郡，備自住潺陵。",
+          "through": "使關羽屯江陵，張飛屯秭歸，諸葛亮據南郡，備自住潺陵。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
