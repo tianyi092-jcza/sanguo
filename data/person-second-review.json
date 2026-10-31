@@ -92083,6 +92083,24 @@
           "from": "軍師將軍臣諸葛亮、盪寇將軍漢壽亭侯臣關羽",
           "through": "征西將軍臣黃忠",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-houzhu-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 39,
+          "from": "追謚故將軍關羽",
+          "through": "黃忠",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "guanyu-zhuge-yushui-jie",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 1,
+          "from": "關羽、張飛等不恱",
+          "through": "羽、飛乃止",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
@@ -92184,6 +92202,15 @@
           "term": "關羽",
           "quote": "又前關羽圍樊、襄陽，襄陽男子張嘉、王休獻玉璽",
           "reason": "本段主角為群臣勸進先主稱帝、陳符瑞玉璽；關羽圍樊僅為玉璽獻進的時間背景，圍樊戰事已錄於樊城諸傳，本段無關羽新增事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-xianzhu-dongzheng-beijing",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 22,
+          "term": "關羽",
+          "quote": "初，先主忿孫權之襲關羽，將東征",
+          "reason": "本段主角為先主章武元年伐吳之起因與進軍；關羽被襲僅為東征動機背景，其被襲遇害事蹟已見本傳及相關傳，本段無關羽新增事蹟，不另錄。"
         }
       ],
       "unresolved": []
