@@ -90581,6 +90581,15 @@
           "from": "諸葛亮聞俊憂溫，",
           "through": "善惡太分。」",
           "citation": "《三國志·吳書十二·虞陸張駱陸吾朱傳·張溫傳》"
+        },
+        {
+          "id": "zhugeliang-luxun-bingzheng-lianhe",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 12,
+          "from": "備尋病亡，",
+          "through": "與權連和。",
+          "citation": "《三國志·吳書十三·陸遜傳》"
         }
       ],
       "exclusions": [
@@ -90862,6 +90871,24 @@
           "term": "諸葛亮",
           "quote": "諸葛亮達見計數，必知神慮屈申之宜",
           "reason": "本段為孫權遣張溫使蜀的交代；諸葛亮僅作為孫權、張溫揣度其反應的對象被提及，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-zhoufang-zhajiang",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 34,
+          "term": "諸葛亮",
+          "quote": "又命諸葛亮進指關西",
+          "reason": "本段為周魴詐降曹休的偽情報書，諸葛亮僅在偽稱的吳蜀聯動部署中被提及，非亮本人的言行、決策或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-shiyi-shishu",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 6,
+          "term": "諸葛亮",
+          "quote": "蜀相諸葛亮卒",
+          "reason": "本段為是儀傳；亮之卒僅為權遣是儀使蜀申固盟好的背景交代，無亮的具體言行或事蹟可摘，不作摘錄。"
         }
       ],
       "unresolved": []
