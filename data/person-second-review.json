@@ -88062,6 +88062,15 @@
           "from": "劉備領荊州，以濬為治中從事。",
           "through": "備入蜀，留典州事。",
           "citation": "《三國志·吳書十六·潘濬陸凱傳第十六·潘濬傳》"
+        },
+        {
+          "id": "liubei-sg-huzong-baidi-liaoxian-jiefan",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 14,
+          "from": "劉備下白帝，權以見兵少，使綜料諸縣，得六千人，立解煩兩部，詳領左部、綜領右部督。",
+          "through": "劉備下白帝，權以見兵少，使綜料諸縣，得六千人，立解煩兩部，詳領左部、綜領右部督。",
+          "citation": "《三國志·吳書十七·是儀胡綜傳第十七·胡綜傳》"
         }
       ],
       "exclusions": [
@@ -88460,6 +88469,24 @@
           "term": "劉備",
           "quote": "圖以武陵屬劉備",
           "reason": "潘濬傳敘樊伷誘夷圖屬劉備一段，劉備僅為樊伷圖謀之歸屬對象，未載劉備本人言行、部署或回應，屬他傳敘事帶提，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-wufan-jiapu-yu-bei-deshu",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 3,
+          "term": "劉備",
+          "quote": "歲在甲午，劉備當得益州",
+          "reason": "吳範占辭及事後驗證一段，劉備當得益州僅為占辭內容與驗證對象，未載劉備本人言行、部署或取蜀經過，屬他傳占驗帶提，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-wufan-xiling-shengbing-heqin",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 5,
+          "term": "劉備",
+          "quote": "劉備盛兵西陵",
+          "reason": "吳範以風氣占驗一段，劉備盛兵西陵僅為占辭觸發背景，段落主旨在吳範占驗如言，未載劉備部署、交涉或和親經過，屬他傳占驗帶提，不作摘錄。"
         }
       ],
       "unresolved": []
