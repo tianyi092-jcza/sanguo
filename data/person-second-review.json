@@ -86705,8 +86705,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "fuhuanghou-hhs-identity",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 41,
+          "from": "獻帝伏皇后諱壽",
+          "through": "為侍中。",
+          "citation": "《後漢書·卷十下·皇后紀第十下》"
+        },
+        {
+          "id": "fuhuanghou-hhs-killed-succeeded",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 44,
+          "from": "及伏皇后被弒",
+          "through": "立節為皇后。",
+          "citation": "《後漢書·卷十下·皇后紀第十下》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "fuhuanghou-excl-toc",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 0,
+          "term": "伏皇后",
+          "quote": "獻帝伏皇后",
+          "reason": "卷首皇后名目一覧，僅列「獻帝伏皇后」之名，無任何生平事實，不作摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
