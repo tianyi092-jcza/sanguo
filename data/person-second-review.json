@@ -85821,6 +85821,33 @@
           "term": "士徽",
           "quote": "董卓入洛陽，岱從侍中出為兖州刺史",
           "reason": "後漢書段落，敘劉岱出為兖州刺史、初平三年戰死事，與士徽無關；僅因岱字事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-064-mulu",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 0,
+          "term": "士徽",
+          "quote": "吳祐　延篤　史弼　盧植　趙歧",
+          "reason": "後漢書卷目人名表段，僅列吳祐等傳主名，無士徽相關內容；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-082-yuchen",
+          "work": "jinshu",
+          "source": "a05-082-ahcb",
+          "paragraph": 16,
+          "term": "士徽",
+          "quote": "太守庾琛命爲主簿，預上記陳時政所失",
+          "reason": "晉書段落敘庾琛屬下主簿上記陳時政，與士徽及其交州事無關；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-069-jianshuo",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 20,
+          "term": "士徽",
+          "quote": "六年，帝疾篤，屬協於蹇碩",
+          "reason": "後漢書段落敘靈帝末蹇碩、何進事，與士徽無關；僅因事件向量誤觸。"
         }
       ],
       "unresolved": []
