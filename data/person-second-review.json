@@ -89186,6 +89186,33 @@
           "from": "大赦。",
           "through": "總統國事。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-shisan-jin-jiangwan-dajiangjun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 14,
+          "from": "夏四月，進蔣琬位為大將軍。",
+          "through": "夏四月，進蔣琬位為大將軍。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-liu-dasha-feiyi-dajiangjun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 22,
+          "from": "十一月，大赦。",
+          "through": "以尚書令費禕為大將軍。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-shijiu-li-zan-xinpingwang",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 35,
+          "from": "是歲，立子瓚為新平王。",
+          "through": "大赦。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
