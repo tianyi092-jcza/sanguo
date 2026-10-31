@@ -89903,6 +89903,33 @@
           "from": "建興元年，丞相亮辟為西曹掾",
           "through": "亮南征，留邵為治中從事，是歲卒。",
           "citation": "《三國志·蜀書十五 楊戲傳附李邵》"
+        },
+        {
+          "id": "zhugeliang-xiakou-shiquan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "備進住夏口，使諸葛亮詣權",
+          "through": "權遣周瑜、程普等行。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zhugeliang-wugong-quan-dongzheng",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 32,
+          "from": "是時蜀相諸葛亮出武功",
+          "through": "自率水軍東征。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zhugeliang-jin-shu-dao-song",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 15,
+          "from": "蜀丞相諸葛亮與兄瑾書曰：「旣受東朝厚遇",
+          "through": "感用流涕。」",
+          "citation": "《三國志·吳書六·宗室傳》"
         }
       ],
       "exclusions": [
