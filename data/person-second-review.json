@@ -87324,6 +87324,24 @@
           "from": "建安二十年，權遣瑾使蜀通好劉備",
           "through": "退無私面。",
           "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
+        },
+        {
+          "id": "liubei-sg-yiling-jin-letter",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 24,
+          "from": "劉備東伐吳，吳王求和，瑾與備牋曰：「奄聞旗鼓來至白帝",
+          "through": "易於反掌。」",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七 諸葛瑾傳》"
+        },
+        {
+          "id": "liubei-sg-yiling-zhuran-yidu",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 11,
+          "from": "黃武元年，劉備舉兵攻宜都，然督五千人與陸遜并力拒備",
+          "through": "備遂破走。",
+          "citation": "《三國志·吳書十一·朱治朱然呂範朱桓傳第十一 朱然傳》"
         }
       ],
       "exclusions": [
@@ -87380,6 +87398,15 @@
           "term": "劉備",
           "quote": "劉備爭盟淮隅",
           "reason": "吳錄所載孫策責袁術書中羅列江淮群雄之一語，僅提及劉備與劉繇爭盟淮隅，無劉備本人新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-buzhi-linggui",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 32,
+          "term": "劉備",
+          "quote": "會劉備東下",
+          "reason": "步隲傳記其上益陽、征討零桂驚擾之事，劉備僅為東下背景一語，備敗績亦無新事實，不作摘錄。"
         }
       ],
       "unresolved": []
