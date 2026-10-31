@@ -86512,6 +86512,33 @@
           "term": "衣帶詔",
           "quote": "自公主、封君以上皆帶綬，以綵組爲緄帶，各如其綬色，金辟邪首爲帶玦。",
           "reason": "本段為晉書輿服志帶綬制度，全段未提董承、亦無衣帶詔事，僅因帶字誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-yuliang-shuzou",
+          "work": "jinshu",
+          "source": "a05-073-ahcb",
+          "paragraph": 11,
+          "term": "衣帶詔",
+          "quote": "疏奏，詔曰：",
+          "reason": "本段僅為庾亮上疏後的過渡句，全段未提董承、亦無衣帶詔事；上下文為晉書庾亮傳蘇峻之亂後事，與董承衣帶詔無關，僅因詔字誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-yufu-geban",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 81,
+          "term": "衣帶詔",
+          "quote": "革帶，古之鞶帶也，謂之鞶革",
+          "reason": "本段為晉書輿服志革帶制度，全段未提董承、亦無衣帶詔事，僅因帶字誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-houhanshu-anandi-zhao",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 198,
+          "term": "衣帶詔",
+          "quote": "乙卯，詔曰：「夫政，先京師，後諸夏。",
+          "reason": "本段為後漢書孝安帝紀賜貧困孤弱詔，全段未提董承、亦無衣帶詔事，僅因詔字誤觸事件檢索，故排除。"
         }
       ],
       "unresolved": []
