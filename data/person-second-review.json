@@ -89876,6 +89876,33 @@
           "from": "是以西土咸服諸葛亮能盡時人之器用也",
           "through": "是以西土咸服諸葛亮能盡時人之器用也",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳·楊洪傳》"
+        },
+        {
+          "id": "zhugeliang-feishi-you-mengda",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 19,
+          "from": "亮欲誘達以為外援",
+          "through": "亮亦以達無款誠之心，故不救助也。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·費詩傳》"
+        },
+        {
+          "id": "zhugeliang-jiangwei-piyong-pingjia",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 14,
+          "from": "亮辟維為倉曹掾，加奉義將軍，封當陽亭侯，時年二十七。",
+          "through": "畢教軍事，當遣詣宮，覲見主上。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳·姜維傳》"
+        },
+        {
+          "id": "zhugeliang-lishao-piyong-liushou",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 44,
+          "from": "建興元年，丞相亮辟為西曹掾",
+          "through": "亮南征，留邵為治中從事，是歲卒。",
+          "citation": "《三國志·蜀書十五 楊戲傳附李邵》"
         }
       ],
       "exclusions": [
