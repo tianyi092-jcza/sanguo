@@ -91975,6 +91975,24 @@
           "from": "關羽圍征南將軍曹仁於樊",
           "through": "果疾勑仁，如儼所策",
           "citation": "《三國志·魏書二十三·和常楊杜趙裴傳》"
+        },
+        {
+          "id": "guanyu-manchong-fancheng-jian-shou",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 4,
+          "from": "關羽圍襄陽，寵助征南將軍曹仁屯樊城拒之",
+          "through": "會徐晃等救至，寵力戰有功，羽遂退",
+          "citation": "《三國志·魏書二十六·滿田牽郭傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-pai-shou-xiapi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 3,
+          "from": "先主求和於呂布，布還其妻子",
+          "through": "先主遣關羽守下邳",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
@@ -92049,6 +92067,15 @@
           "term": "關羽",
           "quote": "曹仁為關羽所圍，太祖遣徐晃救之，不解",
           "reason": "本段主角為桓階諫止太祖親征；關羽圍樊、徐晃救圍之事已錄於徐晃傳等樊城諸傳，本段無關羽新增事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-liuzhang-sunquan-sha-yu-beijing",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 5,
+          "term": "關羽",
+          "quote": "孫權殺關羽，取荊州，以璋為益州牧，駐秭歸",
+          "reason": "本段主角為劉璋歸吳後事；關羽被殺、孫權取荊州僅為背景交代，無關羽新增事蹟，不另錄。"
         }
       ],
       "unresolved": []
