@@ -85357,6 +85357,33 @@
           "term": "士燮",
           "quote": "有星孛于翼，近太微上將星",
           "reason": "本段為晉書天文志，記明帝太和六年彗星占驗及孫權、諸葛亮軍事事，全段未提及士燮，且太和六年（232年）已在士燮卒年黃武五年（226年）之後，係事件關鍵詞誤命中，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jin-wudi-sunhao-guiming",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 156,
+          "term": "士燮",
+          "quote": "封孫皓爲歸命侯",
+          "reason": "本段記晉武帝封吳末帝孫皓為歸命侯及吳舊望隨才擢敘事，時在吳亡之後，全段未提及士燮，且士燮卒於黃武五年（226年），與其歸附孫權無關，係事件關鍵詞誤命中，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-wei-mingdi-hefei-xincheng",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 22,
+          "term": "士燮",
+          "quote": "孫權入居巢湖口，向合肥新城",
+          "reason": "本段記魏明帝時孫權攻合肥新城、明帝親征、權遁走事，全段未提及士燮，與士燮歸附孫權無關，係事件關鍵詞誤命中，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-wanglang-sunquan-shizi",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 21,
+          "term": "士燮",
+          "quote": "孫權欲遣子登入侍，不至",
+          "reason": "本段記王朗上疏論孫權遣子登入侍未至、諫阻東征事，全段未提及士燮，與士燮歸附孫權無關，係事件關鍵詞誤命中，不單立為燮摘錄。"
         }
       ],
       "unresolved": []
