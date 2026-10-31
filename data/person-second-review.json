@@ -86620,6 +86620,33 @@
           "term": "衣帶詔",
           "quote": "通天冠，高九寸，正豎，頂少邪却，乃直下為鐵卷梁",
           "reason": "本段為輿服志通天冠服制記載，全段未提董承、亦無衣帶詔事，僅因冠服詞語誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-juan27-yongjia-shengjian",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 145,
+          "term": "衣帶詔",
+          "quote": "孝懷帝永嘉中，士大夫競服生箋單衣",
+          "reason": "本段記晉懷帝永嘉中士大夫服生箋單衣之讖與胡賊之亂、帝遇害，全段未提董承、亦無衣帶詔事，僅因事件檢索向量相似誤觸，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-houhanshu-juan63-zhaoshu-jin",
+          "work": "houhanshu",
+          "source": "a03-063",
+          "paragraph": 5,
+          "term": "衣帶詔",
+          "quote": "又詔書所以禁侍中尚書中臣子弟不得為吏察孝廉者",
+          "reason": "本段論詔書禁侍中尚書中臣子弟為吏察孝廉事，全段未提董承、亦無衣帶詔事，僅因「詔書」詞語與事件檢索向量相似誤觸，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-sanguozhi-juan20-zhongshanwang-gun",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 15,
+          "term": "衣帶詔",
+          "quote": "初，衮來朝，犯京都禁",
+          "reason": "本段記中山王衮來朝犯京都禁、削縣及薨後事，全段未提董承、亦無衣帶詔事，僅因「詔」字與事件檢索向量相似誤觸，故排除。"
         }
       ],
       "unresolved": []
