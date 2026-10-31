@@ -86037,6 +86037,33 @@
           "term": "士徽",
           "quote": "冬十月丙辰，徐州刺史蔡豹以畏懦伏誅",
           "reason": "晉書段落僅記蔡豹伏誅、王敦殺向碩事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-xijian-shangshuling",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 80,
+          "term": "士徽",
+          "quote": "八月，以安北將軍郗鑒爲尚書令",
+          "reason": "晉書段落記郗鑒為尚書令、石季龍陷青州、曹嶷遇害事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-dengai-mieshu",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 51,
+          "term": "士徽",
+          "quote": "十一月，鄧艾帥萬餘人自陰平踰絕險至江由",
+          "reason": "晉書段落記鄧艾滅蜀、劉禪降、鍾會潛謀事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-wangkan-peijun",
+          "work": "jinshu",
+          "source": "a05-107-ahcb",
+          "paragraph": 11,
+          "term": "士徽",
+          "quote": "俄而晉將軍王龕拔其沛郡",
+          "reason": "晉書段落記王龕拔沛郡、馬勖起兵被石苞攻滅事，全段未提及士徽；向量誤觸。"
         }
       ],
       "unresolved": []
