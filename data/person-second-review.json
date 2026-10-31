@@ -91912,6 +91912,33 @@
           "from": "秋，大霖雨，漢水溢，平地水數丈，禁等七軍皆沒",
           "through": "禁遂降，惟龐悳不屈節而死",
           "citation": "《三國志·魏書十七·張樂于張徐傳》"
+        },
+        {
+          "id": "guanyu-xuhuang-hanjin-tao-guan",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "from": "又與滿寵討關羽於漢津",
+          "through": "與曹仁擊周瑜於江陵",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
+        },
+        {
+          "id": "guanyu-xuhuang-fancheng-sizhong-po-wei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 24,
+          "from": "羽見四冢欲壞，自將步騎五千出戰",
+          "through": "或自投沔水死",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
+        },
+        {
+          "id": "guanyu-litong-jiangling-jue-beidao",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 9,
+          "from": "劉備與周瑜圍曹仁於江陵，別遣關羽絕北道",
+          "through": "以迎仁軍",
+          "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳》"
         }
       ],
       "exclusions": [
