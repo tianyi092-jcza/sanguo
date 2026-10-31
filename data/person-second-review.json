@@ -87189,6 +87189,24 @@
           "from": "劉備、孫權，外親內踈，關羽得志，權必不願也。可遣人勸躡其後，許割江南以封權，則樊圍自解。」太祖如其言。權聞之，即引兵西襲公安、江陵。羽遂見禽。",
           "through": "劉備、孫權，外親內踈，關羽得志，權必不願也。可遣人勸躡其後，許割江南以封權，則樊圍自解。」太祖如其言。權聞之，即引兵西襲公安、江陵。羽遂見禽。",
           "citation": "《三國志·魏書十四·蔣濟傳》"
+        },
+        {
+          "id": "liubei-sg-yuejin-pei-po",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 9,
+          "from": "攻劉備於沛，皆破之",
+          "through": "攻劉備於沛，皆破之",
+          "citation": "《三國志·魏書十七·樂進傳》"
+        },
+        {
+          "id": "liubei-sg-yuejin-po-linju-jingyang-chiefs",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 10,
+          "from": "又討劉備臨沮長杜普、旌陽長梁大，皆大破之。",
+          "through": "又討劉備臨沮長杜普、旌陽長梁大，皆大破之。",
+          "citation": "《三國志·魏書十七·樂進傳》"
         }
       ],
       "exclusions": [
@@ -87218,6 +87236,15 @@
           "term": "劉備",
           "quote": "卿得無為劉備刺客邪？",
           "reason": "文帝戲問孟達是否為劉備刺客，僅附帶提及；段落主體為孟達歸魏及反事，無劉備本人新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-xuhuang-congpo-brief",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "term": "劉備",
+          "quote": "從破劉備",
+          "reason": "徐晃傳履歷中僅以「從破劉備」一語帶過，未交代時間地點；東擊破備之事已見武帝紀與樂進傳摘錄，無劉備本人新事實，不作摘錄。"
         }
       ],
       "unresolved": []
