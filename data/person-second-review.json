@@ -87387,6 +87387,33 @@
           "from": "蜀分南郡，立宜都郡，劉備沒後，宜都、武陵、零陵、南郡四郡之地悉復屬吳。",
           "through": "蜀分南郡，立宜都郡，劉備沒後，宜都、武陵、零陵、南郡四郡之地悉復屬吳。",
           "citation": "《晉書》卷十五·地理志"
+        },
+        {
+          "id": "liubei-jin-wuxing-zhangwu2-huangqi-yiling",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 126,
+          "from": "蜀劉備章武二年，東伐。二月，自秭歸進屯夷道。六月，秭歸有黃氣見，長十餘里，廣數十丈。後踰旬，備爲陸議所破，近黃祥也。",
+          "through": "蜀劉備章武二年，東伐。二月，自秭歸進屯夷道。六月，秭歸有黃氣見，長十餘里，廣數十丈。後踰旬，備爲陸議所破，近黃祥也。",
+          "citation": "《晉書》卷二十九·五行志"
+        },
+        {
+          "id": "liubei-huayang-hanzhong-qing-taolu-fan-xi",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 6,
+          "from": "楊懐髙沛守關頭請劉先主討魯",
+          "through": "遂委質魏武",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "liubei-houhan-jianan19-po-liuzhang-ju-yizhou",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 27,
+          "from": "劉備破劉璋，據益州。",
+          "through": "劉備破劉璋，據益州。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
         }
       ],
       "exclusions": [
