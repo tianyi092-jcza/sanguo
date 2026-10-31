@@ -90536,6 +90536,33 @@
           "from": "恭子厷，為丞相西曹令史，隨諸葛亮於漢中，早夭，亮甚惜之",
           "through": "為朝中損益多矣。",
           "citation": "《三國志·蜀書十五 楊戲傳附王謀》"
+        },
+        {
+          "id": "zhugeliang-yinli-chengtan",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 16,
+          "from": "後與張溫俱使蜀，",
+          "through": "諸葛亮甚稱歎之。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳·顧邵傳》"
+        },
+        {
+          "id": "zhugeliang-yanjun-shanzhi",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 7,
+          "from": "畯嘗為衞尉，使至蜀，",
+          "through": "蜀相諸葛亮深善之。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳·嚴畯傳》"
+        },
+        {
+          "id": "zhugeliang-shiquan-chibi",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 5,
+          "from": "遣諸葛亮詣權，",
+          "through": "遇於赤壁。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·周瑜傳》"
         }
       ],
       "exclusions": [
