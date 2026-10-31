@@ -91993,6 +91993,33 @@
           "from": "先主求和於呂布，布還其妻子",
           "through": "先主遣關羽守下邳",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-qin-yu-yigui",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 6,
+          "from": "曹公盡收其衆",
+          "through": "并禽關羽以歸",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-wang-gui-xianzhu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 7,
+          "from": "紹遣先主將兵與辟等略許下",
+          "through": "關羽亡歸先主",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-jiangling-hui-shi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 9,
+          "from": "別遣關羽乘船數百艘",
+          "through": "使會江陵",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
