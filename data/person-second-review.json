@@ -88968,6 +88968,24 @@
           "from": "艾進軍向成都，劉禪詣艾降",
           "through": "遣使勑維等令降於會。",
           "citation": "《三國志·魏書二十八·鄧艾傳》"
+        },
+        {
+          "id": "liushan-jiangwei-mishu-fushu",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 22,
+          "from": "華陽國志曰：維教會誅北來諸將，旣死，徐欲殺會，盡坑魏兵，還復蜀祚，密書與後主曰",
+          "through": "臣欲使社稷危而復安，日月幽而復明。」",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
+        },
+        {
+          "id": "liushan-wu-jiushu-babing",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 20,
+          "from": "甲申，使大將軍丁奉督諸軍向魏壽春，將軍留平別詣施績於南郡，議兵所向，將軍丁封、孫異如沔中，皆救蜀。蜀主劉禪降魏問至，然後罷。",
+          "through": "蜀主劉禪降魏問至，然後罷。",
+          "citation": "《三國志·吳書三·三嗣主傳第三 孫休傳》"
         }
       ],
       "exclusions": [
@@ -89006,6 +89024,15 @@
           "term": "劉禪",
           "quote": "張璠以為譙周所陳降魏之策，蓋素料劉禪懦弱，心無害戾，故得行也。",
           "reason": "張璠於評曰中論譙周降魏之策以劉禪懦弱為前提，僅為後人對降策可行性的評價，無劉禪本人新事實，且降魏經過本傳炎興元年段已詳載，不作摘錄。"
+        },
+        {
+          "id": "liushan-excl-ahcb-simazhao-fashu-mirror",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 45,
+          "term": "劉禪",
+          "quote": "以劉禪之闇，而邊城外破，士女內震，其亡可知也。",
+          "reason": "四庫本此段與 sidneyluo《晉書·卷二·文帝紀》a05-002:15 為同一伐蜀議段落之異本，後者已記為 exclusion（司馬昭伐蜀議中對劉禪的評價，無劉禪本人新事實），此異本不重複摘錄。"
         }
       ],
       "unresolved": []
