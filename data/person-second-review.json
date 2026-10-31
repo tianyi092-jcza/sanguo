@@ -85303,6 +85303,33 @@
           "term": "士燮",
           "quote": "孫權以將軍領會稽太守，統年二十，試為烏程相",
           "reason": "本段僅記駱統為烏程相及勸孫權事，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-manchong-sunquan",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 5,
+          "term": "士燮",
+          "quote": "寵度其必襲西陽而為之備",
+          "reason": "本段記滿寵鎮淮南禦孫權事，全段未提及士燮，與士燮生平無關，係「歸附孫權」事件關鍵詞誤命中，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-sunchen-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 32,
+          "term": "士燮",
+          "quote": "孫綝傳",
+          "reason": "本段僅為卷末傳目標題，無史實內容、未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jinshu-dizhen",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 143,
+          "term": "士燮",
+          "quote": "吳孫權赤烏十一年二月，江東地仍震",
+          "reason": "本段記赤烏十一年江東地震及孫權黜朱據、廢太子事，全段未提及士燮，且士燮卒於黃武五年（226年），赤烏十一年（248年）已在其卒後，與士燮生平無關，不單立為燮摘錄。"
         }
       ],
       "unresolved": []
