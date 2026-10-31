@@ -91559,6 +91559,33 @@
           "from": "時都護諸葛瞻初統朝事",
           "through": "時都護諸葛瞻初統朝事",
           "citation": "《三國志·蜀書十五·宗預傳》"
+        },
+        {
+          "id": "zhugezhan-dengai-mianzhu-zhan",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 30,
+          "from": "蜀衞將軍諸葛瞻自涪還綿竹，列陳待艾",
+          "through": "斬瞻及尚書張遵等首，進軍到雒",
+          "citation": "《三國志·魏書二十八·鄧艾傳》"
+        },
+        {
+          "id": "zhugezhan-zhonghui-mianzhu-dazhan-zhan",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 46,
+          "from": "艾遂至緜竹，大戰，斬諸葛瞻",
+          "through": "艾遂至緜竹，大戰，斬諸葛瞻",
+          "citation": "《三國志·魏書二十八·鍾會傳》"
+        },
+        {
+          "id": "zhugezhan-zhangfei-zun-sui-zhan-si",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 12,
+          "from": "苞子遵為尚書，隨諸葛瞻於緜竹，與鄧艾戰，死",
+          "through": "苞子遵為尚書，隨諸葛瞻於緜竹，與鄧艾戰，死",
+          "citation": "《三國志·蜀書六·張飛傳》"
         }
       ],
       "exclusions": [],
