@@ -85902,6 +85902,33 @@
           "term": "士徽",
           "quote": "戎渡江，綏慰新附",
           "reason": "晉書段落敘王戎渡江綏慰新附、表薦石偉及劉肇賂布事，未提及士徽；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-lukai-wangfan",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 4,
+          "term": "士徽",
+          "quote": "丞相陸凱上疏曰",
+          "reason": "三國志段落為陸凱上疏痛惜王蕃被殺、蕃家屬徙廣州事，全段未提及士徽；僅因地緣向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-shanyu",
+          "work": "houhanshu",
+          "source": "a03-089",
+          "paragraph": 47,
+          "term": "士徽",
+          "quote": "單于檀立二十七年薨",
+          "reason": "後漢書段落敘單于更替與耿夔免官、法度代為將軍事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-gurong",
+          "work": "jinshu",
+          "source": "a05-068-ahcb",
+          "paragraph": 31,
+          "term": "士徽",
+          "quote": "以軍司顧榮卒，引循代之",
+          "reason": "晉書段落敘顧榮卒、引循代軍司及循稱疾上牋事，全段未提及士徽；向量誤觸。"
         }
       ],
       "unresolved": []
