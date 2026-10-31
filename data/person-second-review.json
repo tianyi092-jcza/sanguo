@@ -87441,6 +87441,24 @@
           "from": "明年，劉備稱帝于蜀，",
           "through": "於是天下遂三分矣。",
           "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "liubei-hhs-kongrong-rescue-3000",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 11,
+          "from": "備驚曰：「孔北海乃復知天下有劉備邪？」",
+          "through": "即遣兵三千救之，賊乃散走。",
+          "citation": "《後漢書·卷七十·列傳第六十 孔融傳》"
+        },
+        {
+          "id": "liubei-hhs-yangfeng-killed",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 32,
+          "from": "奉、暹奔袁術，遂縱暴楊、徐閒。",
+          "through": "明年，左將軍劉備誘奉斬之。",
+          "citation": "《後漢書·卷七十二·列傳第六十二 董卓傳》"
         }
       ],
       "exclusions": [
@@ -87542,6 +87560,15 @@
           "term": "劉備",
           "quote": "蜀分南郡，立宜都郡，劉備沒後，宜都、武陵、零陵、南郡四郡之地悉復屬吳。",
           "reason": "此段荊州沿革與本輪摘錄的 a05-015 第 18 段同文異本重出，僅縣數與用字小異，無劉備新事實，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-hhs-yangxiu-jilei-liubei-mention",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 39,
+          "term": "劉備",
+          "quote": "及操自平漢中，欲因討劉備而不得進，欲守之又難為功",
+          "reason": "本段主體為楊脩雞肋事與被殺，劉備僅作曹操漢中進退背景一語帶過，無劉備新事實，不摘錄。"
         }
       ],
       "unresolved": []
