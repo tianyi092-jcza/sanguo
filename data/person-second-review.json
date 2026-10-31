@@ -89552,15 +89552,21 @@
     {
       "id": "p0129",
       "name": "諸葛亮",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "共錄正摘錄 157 條，排除 59 條，未解決 0 條；本輪向量候選 0 段，已枯竭。",
+        "辨人：諸葛亮字孔明，與其兄諸葛瑾、嗣子諸葛喬及同卷合傳人物嚴格區分；郭沖三事所載空城退敵已按裴松之駁斥列為排除，不作本人史實。",
+        "生平繫年：早年隆中躬耕，建安十三年後佐劉備，赤壁後入蜀定益州；章武三年劉備託孤後總攬蜀漢軍政，建興年間屢次北伐，建興十二年（234 年）卒於五丈原軍中。",
+        "本傳補齊：本傳《三國志·蜀書五·諸葛亮傳》（a04-035）共 33 段，本輪補最後未覆蓋段 24、25（陳壽進呈表文，列為排除）後全部覆蓋；向量候選枯竭、未解決為 0，遂收尾。",
+        "生卒：生 181 年，卒建興十二年（234 年）。"
+      ],
       "excerpts": [
         {
           "id": "zhugeliang-induce-mengda",
@@ -91492,6 +91498,24 @@
           "term": "諸葛亮",
           "quote": "喬字伯松，亮兄瑾之第二子也",
           "reason": "此段主角為諸葛喬（亮兄瑾之第二子，後為亮嗣子），主體為喬之生平與早卒，雖提及亮收喬為嗣及亮與瑾書信，非亮本人史實，故不錄為亮 excerpt。"
+        },
+        {
+          "id": "zhugeliang-excl-chenshou-jinbiao",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 24,
+          "term": "陳壽",
+          "quote": "臣壽誠惶誠恐，頓首頓首，死罪死罪",
+          "reason": "此段為陳壽進呈諸葛氏集之表文結語（謹錄寫上詣著作），非諸葛亮本人事蹟，故不錄為亮 excerpt。"
+        },
+        {
+          "id": "zhugeliang-excl-chenshou-shangbiao-riqi",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 25,
+          "term": "陳壽",
+          "quote": "泰始十年二月一日癸巳，平陽侯相臣陳壽上",
+          "reason": "此段為陳壽上表署銜日期，非諸葛亮本人事蹟，故不錄為亮 excerpt。"
         }
       ],
       "unresolved": []
