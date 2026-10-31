@@ -88251,6 +88251,33 @@
           "from": "太傅許靖、安漢將軍糜笁、軍師將軍諸葛亮",
           "through": "即皇帝位於成都武擔之南。",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-zhangwu-zhi-baiguan-lizongmiao",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 22,
+          "from": "章武元年夏四月，大赦，改年。",
+          "through": "祫祭高皇帝以下。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-xiaoting-dabai-huan-yongan",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 23,
+          "from": "夏六月，黃氣見自秭歸十餘里中，廣數十丈。",
+          "through": "改魚復縣曰永安。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-bingdu-tuogu-zu-yongan",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 24,
+          "from": "先主病篤，託孤於丞相亮，尚書令李嚴為副。",
+          "through": "時年六十三。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
