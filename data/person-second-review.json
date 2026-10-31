@@ -85222,6 +85222,33 @@
           "term": "士燮",
           "quote": "又遣陳時代燮為交阯太守",
           "reason": "本段主角為燮子徽與呂岱、戴良，述徽自署交阯太守拒良、呂岱誅徽兄弟及孫盛論；燮本人僅於「代燮」「燮質子廞」等處被提及，燮卒已於本傳 a04-049:19 摘錄，身後太守更代已於呂岱傳 a04-060:24 摘錄，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-xianzhu-jingzhou-wuguan",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 15,
+          "term": "士燮",
+          "quote": "孫權以先主已得益州，使使報欲得荊州",
+          "reason": "本段為先主傳建安二十年荊州爭奪敘事，全段未提及士燮，與士燮分據交州、歸附孫權無關；歸附事已於步騭傳 a04-052:31 與薛綜傳 a04-053:17 摘錄，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jin-xuandi-zhengwu-wuguan",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 7,
+          "term": "士燮",
+          "quote": "六年，天子復大興舟師征吳，復命帝居守",
+          "reason": "本段為晉書宣帝紀居守、受顧命及征吳敘事，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-heqi-hefei-wuguan",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 7,
+          "term": "士燮",
+          "quote": "二十年，從權征合肥",
+          "reason": "本段為賀齊從權征合肥及江表傳津北遇襲敘事，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
         }
       ],
       "unresolved": []
