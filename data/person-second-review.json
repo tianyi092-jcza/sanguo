@@ -90653,6 +90653,24 @@
           "from": "初，諸葛亮造八陣圖於魚復平沙之上",
           "through": "壘石爲八行，行相去二丈。",
           "citation": "《晉書》卷九十八·桓溫傳"
+        },
+        {
+          "id": "zhugeliang-hygz-liyan-bazhou-buxu",
+          "work": "huayang",
+          "source": "a06-001",
+          "paragraph": 18,
+          "from": "丞相諸葛亮不許",
+          "through": "故穿山不逮",
+          "citation": "《華陽國志》卷一·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-zang-dingjunshan",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 7,
+          "from": "蜀丞相諸葛亮葬定軍山",
+          "through": "蜀丞相諸葛亮葬定軍山",
+          "citation": "《華陽國志》卷二·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -91105,6 +91123,15 @@
           "term": "諸葛亮",
           "quote": "上表請以諸葛亮、蔣琬、費禕等子孫流徙中畿，宜見敘用",
           "reason": "文立上表請敘用亮等子孫，亮僅為名單中的先人標識，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-huanwen-yi-zhugeliang-gushi",
+          "work": "jinshu",
+          "source": "a05-098-ahcb",
+          "paragraph": 48,
+          "term": "諸葛亮",
+          "quote": "詔溫依諸葛亮故事，甲仗百人入殿",
+          "reason": "桓溫廢立事，詔以諸葛亮舊事為比，亮僅為先例標識，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
