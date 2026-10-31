@@ -90356,6 +90356,15 @@
           "from": "羽書與諸葛亮，問超人才可誰比類。",
           "through": "羽省書大恱，以示賔客。",
           "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
+        },
+        {
+          "id": "zhugeliang-wolong-pangdegong",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 1,
+          "from": "襄陽記曰：諸葛孔明為卧龍，龐士元為鳳雛，司馬德操為水鏡，皆龐德公語也。",
+          "through": "孔明每至其家，獨拜牀下，德公初不令止。",
+          "citation": "《三國志·蜀書七·龐統法正傳·龐統傳》"
         }
       ],
       "exclusions": [
@@ -90538,6 +90547,24 @@
           "term": "諸葛亮",
           "quote": "飛與諸葛亮等泝流而上，分定郡縣",
           "reason": "本段主體為張飛定江州、釋嚴顏事蹟；諸葛亮僅與飛等並列泝流、分定郡縣，入蜀泝流平定郡縣已分別錄於先主傳與趙雲傳，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-machao-peizhu-chongfu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 16,
+          "term": "諸葛亮",
+          "quote": "羽聞馬超歸降，以書問諸葛亮「超人才可誰比類」",
+          "reason": "本段主體為馬超歸備、呼備字軼事及裴松之駁論；諸葛亮僅在駁論中重提關羽問書一事，該事件已錄於 a04-036:3 關羽傳摘錄，且松之明指其說不實（羽時鎮荊州、未在益土），不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-zhaoyun-zhuishi-binglie",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "term": "諸葛亮",
+          "quote": "後主時，諸葛亮功德蓋世，蔣琬、費禕荷國之重，亦見謚",
+          "reason": "本段主體為趙雲追謚詔議；諸葛亮僅在開頭與蔣琬、費禕並列提及功德蓋世，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
         }
       ],
       "unresolved": []
