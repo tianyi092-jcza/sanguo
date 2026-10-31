@@ -91519,6 +91519,22 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0130",
+      "name": "諸葛瞻",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
