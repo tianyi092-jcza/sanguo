@@ -88878,6 +88878,24 @@
           "from": "先主又為詔勑後主曰",
           "through": "事之如父。",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "liushan-jin-fuma-duwei",
+          "work": "jinshu",
+          "source": "a05-003",
+          "paragraph": 2,
+          "from": "賜山陽公劉康、安樂公劉禪子弟一人為駙馬都尉。",
+          "through": "賜山陽公劉康、安樂公劉禪子弟一人為駙馬都尉。",
+          "citation": "《晉書·卷三·武帝紀》"
+        },
+        {
+          "id": "liushan-jianxing-dili",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 129,
+          "from": "劉禪建興二年，改益州郡為建寧郡",
+          "through": "分廣漢立東廣漢郡。",
+          "citation": "《晉書·卷十四·地理志》"
         }
       ],
       "exclusions": [
@@ -88898,6 +88916,15 @@
           "term": "劉禪",
           "quote": "以劉禪之闇，而邊城外破，士女內震，其亡可知也。",
           "reason": "景元四年司馬昭謀伐蜀時以劉禪之闇論蜀之可亡，僅為伐蜀決策背景之評價，無劉禪本人新事實，且伐蜀經過本傳炎興元年段已詳載，不作摘錄。"
+        },
+        {
+          "id": "liushan-excl-ahcb-dili-mirror",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 209,
+          "term": "劉禪",
+          "quote": "劉禪建興二年，改益州郡爲建寧郡，廣漢屬國爲陰平郡，分建寧永昌立雲南郡，分建寧牂柯立興古郡，分廣漢立東廣漢郡。",
+          "reason": "與 sidneyluo 本《晉書》卷十四地理志第 129 段同一益州沿革段落，僅為四庫全書本異文重出，同一事實已按底本錄為摘錄，不重複計。"
         }
       ],
       "unresolved": []
