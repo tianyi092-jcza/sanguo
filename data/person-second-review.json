@@ -87558,6 +87558,33 @@
           "from": "孫權破劉備於夷陵。",
           "through": "孫權破劉備於夷陵。",
           "citation": "《三國志·魏書二·文帝紀》"
+        },
+        {
+          "id": "liubei-sg-yuanshao-yanjin-tiaozhan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 22,
+          "from": "紹渡河，壁延津南，使劉備、文醜挑戰。",
+          "through": "太祖擊破之，斬醜，再戰，禽紹大將。",
+          "citation": "《三國志·魏書六·袁紹傳》"
+        },
+        {
+          "id": "liubei-sg-chendeng-xusi-pinglun",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 14,
+          "from": "後許汜與劉備並在荊州牧劉表坐，表與備共論天下人，汜曰：「陳元龍湖海之士，豪氣不除。」",
+          "through": "備因言曰：「若元龍文武膽志，當求之於古耳，造次難得比也。」",
+          "citation": "《三國志·魏書七·陳登傳》"
+        },
+        {
+          "id": "liubei-sg-xiahouyuan-yangping-dingshan",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 12,
+          "from": "二十三年，劉備軍陽平關，淵率諸將拒之，相守連年。",
+          "through": "淵分所將兵半助郃，為備所襲，淵遂戰死。",
+          "citation": "《三國志·魏書九·夏侯淵傳》"
         }
       ],
       "exclusions": [
