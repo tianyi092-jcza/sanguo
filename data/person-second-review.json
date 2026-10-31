@@ -91966,6 +91966,15 @@
           "from": "二十四年，曹仁為關羽所圍",
           "through": "於是悔而罷之",
           "citation": "《三國志·魏書十九·任城陳蕭王傳》"
+        },
+        {
+          "id": "guanyu-zhaoyan-fancheng-ce-yu-wuzhui",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 26,
+          "from": "關羽圍征南將軍曹仁於樊",
+          "through": "果疾勑仁，如儼所策",
+          "citation": "《三國志·魏書二十三·和常楊杜趙裴傳》"
         }
       ],
       "exclusions": [
@@ -92022,6 +92031,24 @@
           "term": "關羽",
           "quote": "關羽、張飛勇冠三軍而為將",
           "reason": "本段主角為劉曄勸太祖乘勢取蜀；關羽僅與張飛並稱勇冠三軍，為通用評價，無具體事蹟新史實，且與程昱、郭嘉傳同類評價重複，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-fugu-zhengwu-beijing",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 36,
+          "term": "關羽",
+          "quote": "孫權自破關羽并荊州之後",
+          "reason": "本段主角為傅嘏論征吳之策（嘉平四年）；關羽僅作為孫權破荊州的既往背景提及，其敗亡經過已由本傳及樊城諸傳錄載，無新增事蹟，且後半為司馬彪戰略引文重述，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-huanjie-jian-zhiqinzheng",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 2,
+          "term": "關羽",
+          "quote": "曹仁為關羽所圍，太祖遣徐晃救之，不解",
+          "reason": "本段主角為桓階諫止太祖親征；關羽圍樊、徐晃救圍之事已錄於徐晃傳等樊城諸傳，本段無關羽新增事蹟，不另錄。"
         }
       ],
       "unresolved": []
