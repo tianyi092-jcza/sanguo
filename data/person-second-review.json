@@ -86303,6 +86303,33 @@
           "from": "董承患之，潛召兖州牧曹操。",
           "through": "因奏韓暹、張楊之罪。",
           "citation": "《後漢書·卷七十二·董卓傳》"
+        },
+        {
+          "id": "dongcheng-hhs-dongzhuo-cheqi-kaifu",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 34,
+          "from": "以董承為車騎將軍",
+          "through": "開府。",
+          "citation": "《後漢書·卷七十二·董卓傳》"
+        },
+        {
+          "id": "dongcheng-hhs-dongzhuo-mizhao-liubei",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 35,
+          "from": "帝忌操專偪，乃密詔董承，使結天下義士共誅之。",
+          "through": "承、服、輯、碩皆為操所誅。",
+          "citation": "《後漢書·卷七十二·董卓傳》"
+        },
+        {
+          "id": "dongcheng-sg-wudi-juxian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "衞將軍董承與袁術將萇奴拒險",
+          "through": "洪不得進。",
+          "citation": "《三國志·卷一·魏書一 武帝紀第一》"
         }
       ],
       "exclusions": [
