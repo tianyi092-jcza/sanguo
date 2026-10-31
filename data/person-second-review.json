@@ -89930,6 +89930,33 @@
           "from": "蜀丞相諸葛亮與兄瑾書曰：「旣受東朝厚遇",
           "through": "感用流涕。」",
           "citation": "《三國志·吳書六·宗室傳》"
+        },
+        {
+          "id": "zhugeliang-lusu-faai",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 23,
+          "from": "肅年四十六，建安二十二年卒。權為舉哀，又臨其葬。",
+          "through": "諸葛亮亦為發哀。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·魯肅傳》"
+        },
+        {
+          "id": "zhugeliang-jin-shu-cu-mengda",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 8,
+          "from": "蜀相諸葛亮惡其反覆，又慮其為患。",
+          "through": "因漏泄其謀。",
+          "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "zhugeliang-jin-shu-wuzhangyuan-shimi",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 12,
+          "from": "先是，亮使至，帝問曰：「諸葛公起居何如，食可幾米？」",
+          "through": "諸葛孔明其能久乎！」",
+          "citation": "《晉書》卷一·宣帝紀"
         }
       ],
       "exclusions": [
