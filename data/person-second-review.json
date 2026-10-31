@@ -89159,6 +89159,33 @@
           "from": "立子琮為西河王。",
           "through": "立子琮為西河王。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-er-wunong-ximin",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 3,
+          "from": "二年春，務農殖穀，閉關息民。",
+          "through": "二年春，務農殖穀，閉關息民。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-ba-xi-wang-yong-li",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 9,
+          "from": "徙魯王永為甘陵王。",
+          "through": "皆以魯、梁在吳分界故也。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-shier-dasha-renming",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 13,
+          "from": "大赦。",
+          "through": "總統國事。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
