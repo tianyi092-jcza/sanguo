@@ -90320,6 +90320,33 @@
           "from": "使臣定故蜀丞相諸葛亮故事。",
           "through": "凡為二十四篇，篇名如右。",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-cheng-dongjue-liangshi",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 28,
+          "from": "董厥者，丞相亮時為府令史，亮稱之曰：「董令史，良士也。",
+          "through": "思慎宜適。」",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-pingyue-xiangguo-zhizhi",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 29,
+          "from": "評曰：諸葛亮之為相國也，撫百姓，示儀軌",
+          "through": "蓋應變將略，非其所長歟！",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-yuanzi-gesi-zhaogong",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 30,
+          "from": "亮死至今數十年，國人歌思，如周人之思召公也",
+          "through": "諸葛亮有焉。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
