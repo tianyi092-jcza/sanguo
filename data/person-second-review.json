@@ -85049,15 +85049,21 @@
     {
       "id": "p0123",
       "name": "士燮",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共覆核 70 段候選，錄正摘錄 14 條（《三國志》13、《晉書》1，裴注另層分離），排除 56 條（向量誤擊為主，如晉書曆法推算文字、同名誤擊），未解決 0 條。",
+        "辨人：與弟士壹、士䵋、士武及子士徽嚴格區分；同卷合傳人物劉繇、太史慈段落（a04-049 第 0–12 段）不記入士燮名下。",
+        "本傳補齊：本傳 a04-049 中士燮相關段落（第 13–21 段，含士燮傳正文及評曰）已全部覆蓋；向量候選枯竭後再檢本傳，無未覆蓋的確指士燮段落。",
+        "勢力繫年：漢末分據交州、兄弟並為列郡；建安中歸附孫權，孫權以其子徽領交阯，燮卒後以陳時代燮；歸附前後按階段分開，不整段一刀切。",
+        "生卒：生約 137 年；卒黃武五年（226 年），年九十，與本傳（《三國志·吳書四·劉繇太史慈士燮傳》士燮傳）互證確定。"
+      ],
       "excerpts": [
         {
           "id": "shixie-xujing-shu",
@@ -85680,6 +85686,15 @@
           "paragraph": 78,
           "term": "士燮",
           "quote": "以章歲乘加時盛縮，差法除之",
+          "reason": "本段為晉書曆法推算文字，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jinshu-lifa-jiaohuicha-p28",
+          "work": "jinshu",
+          "source": "a05-018-ahcb",
+          "paragraph": 28,
+          "term": "士燮",
+          "quote": "交會差率四十一萬二千九百一十九。",
           "reason": "本段為晉書曆法推算文字，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
         }
       ],
