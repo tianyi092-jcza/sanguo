@@ -91777,8 +91777,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "guanyu-houhanshu-baima-zhan-yanliang",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 34,
+          "from": "曹操遂救劉延，擊顏良斬之。蜀志曰：「曹公使張遼及關羽為先鋒，羽望見良麾蓋，策馬刺良萬衆之中，斬其首還，諸將莫能當，遂解白馬圍。」",
+          "through": "曹操遂救劉延，擊顏良斬之。蜀志曰：「曹公使張遼及關羽為先鋒，羽望見良麾蓋，策馬刺良萬衆之中，斬其首還，諸將莫能當，遂解白馬圍。」",
+          "citation": "《後漢書·袁紹傳》"
+        },
+        {
+          "id": "guanyu-wudiji-wang-gui-liubei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "關羽亡歸劉備",
+          "through": "關羽亡歸劉備",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "guanyu-excl-liuzhang-sunquan-po-jingzhou-shundai",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 11,
+          "term": "關羽",
+          "quote": "孫權破關羽，取荊州",
+          "reason": "本段主角為劉璋（劉焉傳所附），關羽僅順帶一語；荊州敗亡事實將由本傳及吳書正錄覆蓋，本段無關於羽的新史實，不另錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
