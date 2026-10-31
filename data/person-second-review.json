@@ -90599,6 +90599,15 @@
           "from": "諸葛亮聞恪代詳，",
           "through": "即轉恪領兵。",
           "citation": "《三國志·吳書十九 諸葛恪傳》"
+        },
+        {
+          "id": "zhugeliang-jin-shu-qishan-sima-yi",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 10,
+          "from": "明年，諸葛亮寇天水，圍將軍賈嗣、魏平於祁山。",
+          "through": "亮宵遁，追擊破之，俘斬萬計。",
+          "citation": "《晉書》卷一·宣帝紀"
         }
       ],
       "exclusions": [
@@ -90916,6 +90925,24 @@
           "term": "諸葛亮",
           "quote": "諸葛亮寇天水",
           "reason": "四庫本此段與 sidneyluo 本 a05-001:10 同文（僅個別用字異），以 sidneyluo 本為準，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-jin-shu-sun-jing",
+          "work": "jinshu",
+          "source": "a05-003",
+          "paragraph": 6,
+          "term": "諸葛亮",
+          "quote": "己未，詔蜀相諸葛亮孫京隨才署吏。",
+          "reason": "此詔主角為亮之孫諸葛京，亮僅作親屬標識，無亮本人事蹟，僅提及不摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-ahcb-sun-jing",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 44,
+          "term": "諸葛亮",
+          "quote": "己未，詔蜀相諸葛亮孫京隨才署吏。",
+          "reason": "四庫本此段與 sidneyluo 本 a05-003:6 同文（僅個別用字異），以 sidneyluo 本為準，不重複摘錄。"
         }
       ],
       "unresolved": []
