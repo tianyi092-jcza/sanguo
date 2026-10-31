@@ -85058,7 +85058,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "shixie-xujing-shu",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 3,
+          "from": "前令交阯太守士威彥",
+          "through": "深相分託於益州兄弟",
+          "citation": "《三國志·蜀書八·許麋孫簡伊秦傳》許靖傳"
+        },
+        {
+          "id": "shixie-bio-kaipian",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 14,
+          "from": "士燮字威彥，蒼梧廣信人也",
+          "through": "遷交阯太守。",
+          "citation": "《三國志·吳書四·劉繇太史慈士燮傳》士燮傳"
+        },
+        {
+          "id": "shixie-bu-zhi-guiming",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 31,
+          "from": "士燮兄弟，相率供命",
+          "through": "南土之賔，自此始也。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳》步騭傳"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
