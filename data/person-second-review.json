@@ -90428,6 +90428,24 @@
           "from": "丞相諸葛亮連年出軍，調發諸郡，多不相救，乂募取兵五千人詣亮，慰喻檢制，無逃竄者。",
           "through": "丞相諸葛亮連年出軍，調發諸郡，多不相救，乂募取兵五千人詣亮，慰喻檢制，無逃竄者。",
           "citation": "《三國志·蜀書九·董劉馬陳董呂傳·呂乂傳》"
+        },
+        {
+          "id": "zhugeliang-quan-xianzhu-chu-feng",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 6,
+          "from": "諸葛亮慮封剛猛，易世之後終難制御，勸先主因此除之。",
+          "through": "於是賜封死，使自裁。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·劉封傳》"
+        },
+        {
+          "id": "zhugeliang-mi-yan-pengyang-nanbao",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 9,
+          "from": "諸葛亮雖外接待羕，而內不能善。",
+          "through": "先主旣敬信亮，加察羕行事，意以稍踈，左遷羕為江陽太守。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·彭羕傳》"
         }
       ],
       "exclusions": [
@@ -90646,6 +90664,15 @@
           "term": "諸葛亮",
           "quote": "良留荊州，與亮書曰",
           "reason": "本段主體為馬良致亮之書信內容及馬良事蹟；亮僅為收信人、被稱為「尊兄」，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-liufeng-xishang-binglie",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 1,
+          "term": "諸葛亮",
+          "quote": "將兵俱與諸葛亮、張飛等泝流西上",
+          "reason": "本段主體為劉封隨先主入蜀、西上作戰之事蹟；諸葛亮僅與張飛並列提及為同行將領，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
         }
       ],
       "unresolved": []
