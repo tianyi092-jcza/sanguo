@@ -89606,6 +89606,24 @@
           "from": "青龍二年，諸葛亮率衆出渭南。",
           "through": "青龍二年，諸葛亮率衆出渭南。",
           "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳》"
+        },
+        {
+          "id": "zhugeliang-kebineng-envoy",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 25,
+          "from": "會亮時在祁山，果遣使連結比能。",
+          "through": "會亮時在祁山，果遣使連結比能。",
+          "citation": "《三國志·魏書二十六·滿田牽郭傳》"
+        },
+        {
+          "id": "zhugeliang-qinglong-xiegu-lankeng",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 30,
+          "from": "青龍二年，諸葛亮出斜谷，並田于蘭坑。",
+          "through": "青龍二年，諸葛亮出斜谷，並田于蘭坑。",
+          "citation": "《三國志·魏書二十六·滿田牽郭傳》"
         }
       ],
       "exclusions": [
@@ -89617,6 +89635,15 @@
           "term": "諸葛亮",
           "quote": "見待次於諸葛亮",
           "reason": "傅子裴注中僅以龐統見待次於諸葛亮作比較，無諸葛亮本人新事實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-liuzhang-son-return",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 5,
+          "term": "諸葛亮",
+          "quote": "丞相諸葛亮平南土",
+          "reason": "劉璋子劉闡傳末僅以諸葛亮平南土交代闡還吳的背景，無亮平南的具體事實，不作摘錄。"
         }
       ],
       "unresolved": []
