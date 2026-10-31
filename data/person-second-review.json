@@ -88860,6 +88860,24 @@
           "from": "用光祿大夫譙周策，降於艾",
           "through": "艾解縛焚櫬，延請相見。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "liushan-anle-duke",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 43,
+          "from": "後主舉家東遷",
+          "through": "並封列侯。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "liushan-tuogu-edict",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 5,
+          "from": "先主又為詔勑後主曰",
+          "through": "事之如父。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
@@ -88871,6 +88889,15 @@
           "term": "劉禪",
           "quote": "使劉禪君臣靣縛，叉手屈膝",
           "reason": "泰始三年議郎段灼為鄧艾鳴冤的上疏中概括提及劉禪君臣降艾，無劉禪本人新事實，且降魏經過本傳炎興元年段已詳載，不作摘錄。"
+        },
+        {
+          "id": "liushan-excl-simazhao-fashu",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 15,
+          "term": "劉禪",
+          "quote": "以劉禪之闇，而邊城外破，士女內震，其亡可知也。",
+          "reason": "景元四年司馬昭謀伐蜀時以劉禪之闇論蜀之可亡，僅為伐蜀決策背景之評價，無劉禪本人新事實，且伐蜀經過本傳炎興元年段已詳載，不作摘錄。"
         }
       ],
       "unresolved": []
