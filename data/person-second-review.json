@@ -86910,6 +86910,33 @@
           "from": "陶謙死，劉備代之。",
           "through": "陶謙死，劉備代之。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-lubu-flee-to-liubei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 9,
+          "from": "布東奔劉備，",
+          "through": "布東奔劉備，",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-lubu-seize-xiapi-flee-cao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "呂布襲劉備，取下邳。",
+          "through": "備來奔。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-gaoshun-attack-liubei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "呂布復為袁術使高順攻劉備，公遣夏侯惇救之，不利。備為順所敗。",
+          "through": "呂布復為袁術使高順攻劉備，公遣夏侯惇救之，不利。備為順所敗。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "exclusions": [
