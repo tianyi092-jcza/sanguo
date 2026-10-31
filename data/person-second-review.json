@@ -90140,6 +90140,33 @@
           "from": "劉備有雄才，諸葛亮善治國，孫權識虛實，陸議見兵勢，據險守要，汎舟江湖，皆難卒謀也。",
           "through": "劉備有雄才，諸葛亮善治國，孫權識虛實，陸議見兵勢，據險守要，汎舟江湖，皆難卒謀也。",
           "citation": "《三國志·魏書十·荀彧荀攸賈詡傳·賈詡傳》"
+        },
+        {
+          "id": "zhugeliang-zhongyu-taihe-qishan",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 6,
+          "from": "太和初，蜀相諸葛亮圍祁山",
+          "through": "太和初，蜀相諸葛亮圍祁山",
+          "citation": "《三國志·魏書十三·鍾繇華歆王朗傳·鍾繇傳》"
+        },
+        {
+          "id": "zhugeliang-liufang-qinglong-lianhe",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 47,
+          "from": "青龍初，孫權與諸葛亮連和，欲俱出為寇。",
+          "through": "青龍初，孫權與諸葛亮連和，欲俱出為寇。",
+          "citation": "《三國志·魏書十四·程郭董劉蔣劉傳·劉放傳》"
+        },
+        {
+          "id": "zhugeliang-zhangji-longshang-pozou",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 16,
+          "from": "後十餘日，諸軍上隴，諸葛亮破走。",
+          "through": "後十餘日，諸軍上隴，諸葛亮破走。",
+          "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳·張旣傳》"
         }
       ],
       "exclusions": [
