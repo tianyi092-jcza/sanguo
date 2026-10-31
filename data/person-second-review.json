@@ -87900,6 +87900,33 @@
           "from": "先主奔江南，荊、楚羣士從之如雲",
           "through": "而巴北詣曹公。",
           "citation": "《三國志·蜀書九·董劉馬陳董呂傳第九·劉巴傳》"
+        },
+        {
+          "id": "liubei-sg-xiaoting-fengxi-zhangnan-si",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 45,
+          "from": "先主東征吳，習為領軍，統諸軍，大敗於猇亭。",
+          "through": "與習俱死。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
+        },
+        {
+          "id": "liubei-pei-wushu-zhengquan-wenming",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 20,
+          "from": "使蜀，劉備問曰：「吳王何以不荅吾書，得無以吾正名不宜乎？」",
+          "through": "備甚慙恧。",
+          "citation": "《三國志·吳書二·吳主傳》裴注引《吳書》"
+        },
+        {
+          "id": "liubei-sg-pingyuan-jiu-kongrong",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 8,
+          "from": "備斂容荅曰：「孔北海知世間有劉備邪！」",
+          "through": "賊聞兵至，解圍散走。",
+          "citation": "《三國志·吳書四·劉繇太史慈士燮傳第四·太史慈傳》"
         }
       ],
       "exclusions": [
