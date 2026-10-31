@@ -87297,6 +87297,33 @@
           "from": "是歲，劉備帥軍來伐，至巫山、秭歸",
           "through": "權以陸遜為督，督朱然、潘璋等以拒之。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "liubei-sg-yiling-benzo",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 19,
+          "from": "自正月至閏月，大破之",
+          "through": "劉備奔走，僅以身免。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "liubei-sg-baidi-beng",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 21,
+          "from": "劉備薨于白帝。",
+          "through": "劉備薨于白帝。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "liubei-sg-jianan20-jin-shi",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 22,
+          "from": "建安二十年，權遣瑾使蜀通好劉備",
+          "through": "退無私面。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
         }
       ],
       "exclusions": [
