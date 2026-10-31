@@ -86696,15 +86696,21 @@
     {
       "id": "p0126",
       "name": "伏皇后",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "共錄正摘錄 5 條（皆《後漢書·卷十下·皇后紀第十下》段 41–44），排除 1 條（卷首名目），未解決 0 條；本輪向量候選 0 段，已枯竭。",
+        "辨人：伏皇后諱壽，琅邪東武人，大司徒伏湛八世孫，父伏完；與同卷獻穆曹皇后（段 44 主角）及其他皇后嚴格區分，段 44 僅取「及伏皇后被弒」過渡句，不把曹皇后生平記入其名下。",
+        "生平繫年：初平元年從大駕西遷長安、入掖庭為貴人，興平二年立為皇后；都許後守位而已，宿衞皆曹氏黨舊；因與父完書言曹操殘逼、令密圖之，建安十九年（214 年）事洩，被廢、下暴室以幽崩，所生二皇子皆酖殺，在位二十年。",
+        "本傳補齊：本傳即《後漢書》卷十下段 41–43，皆已覆蓋，段 44 過渡句亦已錄；向量候選枯竭、未解決為 0，遂收尾。",
+        "生卒：卒建安十九年（214 年）幽崩；生年無確載，不妄定。"
+      ],
       "excerpts": [
         {
           "id": "fuhuanghou-hhs-identity",
