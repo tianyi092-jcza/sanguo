@@ -90347,6 +90347,15 @@
           "from": "亮死至今數十年，國人歌思，如周人之思召公也",
           "through": "諸葛亮有焉。",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-da-yu-shu-ping-machao",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 3,
+          "from": "羽書與諸葛亮，問超人才可誰比類。",
+          "through": "羽省書大恱，以示賔客。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
         }
       ],
       "exclusions": [
@@ -90511,6 +90520,24 @@
           "term": "諸葛亮",
           "quote": "雖使諸葛亮在，不能輔之乆全",
           "reason": "漢晉春秋引文借司馬文王之口作假設評論，非亮本人事蹟；本段主體為劉禪東遷受封安樂公，與亮無直接具體事實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-guanxing-shenqi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 6,
+          "term": "諸葛亮",
+          "quote": "丞相諸葛亮深器異之",
+          "reason": "本段主體為關興嗣爵、官職與家系，諸葛亮僅以「深器異之」一句帶過，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-fei-suliu-chongfu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 9,
+          "term": "諸葛亮",
+          "quote": "飛與諸葛亮等泝流而上，分定郡縣",
+          "reason": "本段主體為張飛定江州、釋嚴顏事蹟；諸葛亮僅與飛等並列泝流、分定郡縣，入蜀泝流平定郡縣已分別錄於先主傳與趙雲傳，不重複摘錄。"
         }
       ],
       "unresolved": []
