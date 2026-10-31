@@ -85713,7 +85713,35 @@
       },
       "conclusions": [],
       "excerpts": [],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "shihui-excl-lvdai-title",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 20,
+          "term": "士徽",
+          "quote": "呂岱傳",
+          "reason": "僅為呂岱傳篇目，無敘事內容，不單獨立條；向量事件匹配誤觸。"
+        },
+        {
+          "id": "shihui-excl-shixie-kaipian",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 14,
+          "term": "士徽",
+          "quote": "士燮字威彥，蒼梧廣信人也",
+          "reason": "士燮本傳開篇，敘其父士燮出身仕歷，非士徽事。"
+        },
+        {
+          "id": "shihui-excl-shixie-fenggong",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 18,
+          "term": "士徽",
+          "quote": "後燮遣吏張旻奉貢詣京都",
+          "reason": "敘士燮受漢璽書、遣吏奉貢事，皆其父士燮生平，非士徽事。"
+        }
+      ],
       "unresolved": []
     }
   ]
