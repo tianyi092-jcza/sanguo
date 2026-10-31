@@ -89240,6 +89240,33 @@
           "from": "五年春正月，西河王琮卒。",
           "through": "五年春正月，西河王琮卒。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-shisi-dasha",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 30,
+          "from": "冬，復北駐漢壽。大赦。",
+          "through": "大赦。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-shiqi-dasha",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 33,
+          "from": "姜維還成都。大赦。",
+          "through": "大赦。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-ershi-dasha",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 36,
+          "from": "是歲大赦。",
+          "through": "是歲大赦。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
