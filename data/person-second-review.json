@@ -85983,6 +85983,33 @@
           "term": "士徽",
           "quote": "預處分既定，乃啟請伐吳之期",
           "reason": "晉書杜預傳段落敘杜預啟請伐吳之期、陳伐吳至計及帝許之事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-zhaoran-luhui",
+          "work": "jinshu",
+          "source": "a05-102-ahcb",
+          "paragraph": 20,
+          "term": "士徽",
+          "quote": "趙染寇北地，夢魯徽大怒",
+          "reason": "晉書段落敘趙染寇北地、夢魯徽大怒事，全段未提及士徽；「徽」為魯徽非士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-sanguozhi-luqian-title",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 18,
+          "term": "士徽",
+          "quote": "呂虔傳",
+          "reason": "三國志段落僅為〈呂虔傳〉傳名標題，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-weiguan-fawu",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 139,
+          "term": "士徽",
+          "quote": "冬十月，以征北大將軍衛瓘爲尚書令",
+          "reason": "晉書段落敘衛瓘為尚書令、應綽伐吳皖城事，全段未提及士徽；向量誤觸。"
         }
       ],
       "unresolved": []
