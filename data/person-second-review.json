@@ -85085,6 +85085,33 @@
           "from": "士燮兄弟，相率供命",
           "through": "南土之賔，自此始也。",
           "citation": "《三國志·吳書七·張顧諸葛步傳》步騭傳"
+        },
+        {
+          "id": "shixie-chengbing-changshi",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 10,
+          "from": "士燮命為長史",
+          "through": "士燮命為長史。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳》程秉傳"
+        },
+        {
+          "id": "shixie-xuezong-fuquan",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 17,
+          "from": "士燮旣附孫權",
+          "through": "除合浦、交阯太守。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳》薛綜傳"
+        },
+        {
+          "id": "shixie-danmeng-zhitao-buke",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 18,
+          "from": "交阯太守士燮遣兵致討",
+          "through": "卒不能克。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳》薛綜傳"
         }
       ],
       "exclusions": [],
