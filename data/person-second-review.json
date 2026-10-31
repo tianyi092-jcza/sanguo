@@ -90969,7 +90969,34 @@
           "paragraph": 15,
           "term": "諸葛亮",
           "quote": "遺詔以桓溫輔政，依諸葛亮、王導故事。",
-          "reason": "四庫本此段與 sidneyluo 本 a05-009:2 末段同文，僅於孝武帝遺詔中以亮為輔政故事之例，非亮生平史實；且以 sidneyluo 本為準，不重複摘錄。"
+          "reason": "四庫本此段與 sidneyluo 本 a05-009:2 末段同文，僅於簡文帝遺詔中以亮為輔政故事之例，非亮生平史實；且以 sidneyluo 本為準，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-jianwen-yizhao-gushi",
+          "work": "jinshu",
+          "source": "a05-009",
+          "paragraph": 2,
+          "term": "諸葛亮",
+          "quote": "遺詔以桓溫輔政，依諸葛亮、王導故事。",
+          "reason": "簡文帝遺詔以亮為桓溫輔政故事之例，僅借亮為輔政先例，非亮生平史實。"
+        },
+        {
+          "id": "zhugeliang-excl-tianwen-mingdan",
+          "work": "jinshu",
+          "source": "a05-011",
+          "paragraph": 84,
+          "term": "諸葛亮",
+          "quote": "陳卓、范蠡、鬼谷先生、張良、諸葛亮、譙周、京房、張衡並云：",
+          "reason": "天文志僅列亮於天文家名單之中，無亮生平史實。"
+        },
+        {
+          "id": "zhugeliang-excl-yuezhi-xuandi-yuliang",
+          "work": "jinshu",
+          "source": "a05-023-ahcb",
+          "paragraph": 4,
+          "term": "諸葛亮",
+          "quote": "言宣帝禦諸葛亮，養威重，運神兵，亮震怖而死也。",
+          "reason": "樂志傅玄樂章頌宣帝功業之一句，亮僅為宣帝禦敵對照，非亮生平史實；卷二十三 sidneyluo 無本卷，此為四庫本正文而非鏡像。"
         }
       ],
       "unresolved": []
