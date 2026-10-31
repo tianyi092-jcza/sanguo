@@ -91523,15 +91523,21 @@
     {
       "id": "p0130",
       "name": "諸葛瞻",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "共錄正摘錄 18 條，排除 3 條，未解決 0 條；本輪向量候選 0 段，已枯竭。",
+        "辨人：諸葛瞻字思遠，諸葛亮之子，與其父亮、長子尚及孫京等嚴格區分；本傳附父亮傳，段中單稱「瞻」者確指本人，不與亮本人混淆。",
+        "生平繫年：年十七尚公主，拜騎都尉，歷羽林中郎將、射聲校尉、侍中、尚書、尚書僕射，加軍師將軍；景耀四年為行都護衞將軍，與董厥並平尚書事；景耀六年冬魏征西將軍鄧艾自陰平入蜀，瞻督軍至涪，前鋒破而退守緜竹，斬艾使拒降，大敗臨陣死，長子尚俱沒。",
+        "本傳補齊：本傳《三國志·蜀書五·諸葛亮傳》（a04-035）共 33 段，唯一瞻段第 27 段已錄正文全段及干寶、華陽國志兩條裴注；其餘段為亮本人、董厥、評曰等，無瞻新史實；向量候選枯竭、未解決為 0，遂收尾。",
+        "生卒：生 227 年，卒景耀六年（263 年）。"
+      ],
       "excerpts": [
         {
           "id": "zhugezhan-houzhu-mianzhu-zhanbai",
