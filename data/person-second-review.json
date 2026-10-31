@@ -90392,6 +90392,24 @@
           "from": "或謂諸葛亮曰：「法正於蜀郡太縱橫，將軍宜啟主公，抑其威福。」",
           "through": "如何禁止法正使不得行其意邪！",
           "citation": "《三國志·蜀書七·龐統法正傳·法正傳》"
+        },
+        {
+          "id": "zhugeliang-yiji-gongzao-shuke",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 17,
+          "from": "後遷昭文將軍，與諸葛亮、法正、劉巴、李嚴共造蜀科；",
+          "through": "蜀科之制，由此五人焉。",
+          "citation": "《三國志·蜀書八·許麋孫簡伊秦傳·伊籍傳》"
+        },
+        {
+          "id": "zhugeliang-donghe-jiao-qunxia-canshu",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 2,
+          "from": "亮後為丞相，教與羣下曰：「夫參署者，集衆思廣忠益也。",
+          "through": "苟能慕元直之十一，幼宰之殷勤，有忠於國，則亮可少過矣。」",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳·董和傳》"
         }
       ],
       "exclusions": [
@@ -90592,6 +90610,15 @@
           "term": "諸葛亮",
           "quote": "後主時，諸葛亮功德蓋世，蔣琬、費禕荷國之重，亦見謚",
           "reason": "本段主體為趙雲追謚詔議；諸葛亮僅在開頭與蔣琬、費禕並列提及功德蓋世，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-jianyong-dushen-binglie",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 15,
+          "term": "諸葛亮",
+          "quote": "諸葛亮已下則獨擅一榻，項枕卧語，無所為屈",
+          "reason": "本段主體為簡雍的言行風儀；諸葛亮僅作為比較對象在句中並列提及，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
         }
       ],
       "unresolved": []
