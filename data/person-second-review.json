@@ -87207,6 +87207,24 @@
           "from": "又討劉備臨沮長杜普、旌陽長梁大，皆大破之。",
           "through": "又討劉備臨沮長杜普、旌陽長梁大，皆大破之。",
           "citation": "《三國志·魏書十七·樂進傳》"
+        },
+        {
+          "id": "liubei-sg-liuzhang-welcome-fu-211",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 4,
+          "from": "璋又從之，遣法正請先主。",
+          "through": "璋資給先主，使討張魯，然後分別。",
+          "citation": "《三國志·蜀書一·劉二牧傳》"
+        },
+        {
+          "id": "liubei-sg-ling-xuzhou-chendeng-kongrong",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 3,
+          "from": "謙死，笁率州人迎先主，先主未敢當。",
+          "through": "先主遂領徐州。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
@@ -87245,6 +87263,15 @@
           "term": "劉備",
           "quote": "從破劉備",
           "reason": "徐晃傳履歷中僅以「從破劉備」一語帶過，未交代時間地點；東擊破備之事已見武帝紀與樂進傳摘錄，無劉備本人新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-yanwen-zhangxiao-precedent",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 35,
+          "term": "劉備",
+          "quote": "劉備嘗用之",
+          "reason": "世語所載晉武帝世張斆收王濬從事事，僅以「劉備嘗用之」一語作收從事之先例，無劉備本人新事實，不作摘錄。"
         }
       ],
       "unresolved": []
