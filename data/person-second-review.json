@@ -89321,6 +89321,33 @@
           "from": "九年春二月，亮復出軍圍祁山，始以木牛運。",
           "through": "秋八月，都護李平廢徙梓潼郡。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-shi-xiushi-quannong-liuma",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 11,
+          "from": "十年，亮休士勸農於黃沙，作流馬木牛畢，教兵講武。",
+          "through": "十年，亮休士勸農於黃沙，作流馬木牛畢，教兵講武。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-shiyi-yunmi-xiegu-mazhong-pingnan",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 12,
+          "from": "十一年冬，亮使諸軍運米，集於斜谷口，治斜谷邸閣。",
+          "through": "是歲，南夷劉胄反，將軍馬忠破平之。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-san-zhangning-pingding-yuexi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 19,
+          "from": "三年春，使越嶲太守張嶷平定越嶲郡。",
+          "through": "三年春，使越嶲太守張嶷平定越嶲郡。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
