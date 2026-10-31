@@ -90943,6 +90943,33 @@
           "term": "諸葛亮",
           "quote": "己未，詔蜀相諸葛亮孫京隨才署吏。",
           "reason": "四庫本此段與 sidneyluo 本 a05-003:6 同文（僅個別用字異），以 sidneyluo 本為準，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-ahcb-shimi",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 27,
+          "term": "諸葛孔明",
+          "quote": "先是，亮使至，帝問曰：「諸葛公起居何如，食可幾米？」對曰：「三四升。」",
+          "reason": "四庫本此段與 sidneyluo 本 a05-001:12 同文（僅個別用字異），該食米問政事已自 sidneyluo 本摘錄，以 sidneyluo 本為準，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-xironglun-kongming",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 20,
+          "term": "諸葛孔明",
+          "quote": "非有吳先主、諸葛孔明之能也",
+          "reason": "晉書卷五所載論述僅以亮為才具之喻、與吳先主並舉作比，非關亮生平史實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-ahcb-yizhao-gushi",
+          "work": "jinshu",
+          "source": "a05-009-ahcb",
+          "paragraph": 15,
+          "term": "諸葛亮",
+          "quote": "遺詔以桓溫輔政，依諸葛亮、王導故事。",
+          "reason": "四庫本此段與 sidneyluo 本 a05-009:2 末段同文，僅於孝武帝遺詔中以亮為輔政故事之例，非亮生平史實；且以 sidneyluo 本為準，不重複摘錄。"
         }
       ],
       "unresolved": []
