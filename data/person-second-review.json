@@ -90959,6 +90959,24 @@
           "from": "諸葛氏集目錄",
           "through": "右二十四篇，凡十萬四千一百一十二字。",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-moji-lunliang-sima",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 31,
+          "from": "吳大鴻臚張儼作默記，其述佐篇論亮與司馬宣王書曰",
+          "through": "方之司馬，不亦優乎！",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-shuji-longzhong-jie",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 32,
+          "from": "蜀記曰：晉永興中，鎮南將軍劉弘至隆中，觀亮故宅，立碣表閭",
+          "through": "蜀記曰：晉永興中，鎮南將軍劉弘至隆中，觀亮故宅，立碣表閭",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
@@ -91465,6 +91483,15 @@
           "term": "諸葛亮",
           "quote": "亮屯于陽平，遣魏延諸軍并兵東下，亮惟留萬人守城",
           "reason": "郭沖三事所載亮開城門、臥旗息鼓以退司馬懿事，裴松之已於同段逐條駁斥（陽平交兵時序、兵力調度皆不符），結論「此書舉引皆虛」，不作亮本人史實摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-qiao",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 26,
+          "term": "諸葛亮",
+          "quote": "喬字伯松，亮兄瑾之第二子也",
+          "reason": "此段主角為諸葛喬（亮兄瑾之第二子，後為亮嗣子），主體為喬之生平與早卒，雖提及亮收喬為嗣及亮與瑾書信，非亮本人史實，故不錄為亮 excerpt。"
         }
       ],
       "unresolved": []
