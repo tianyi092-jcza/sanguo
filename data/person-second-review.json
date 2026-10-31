@@ -90365,6 +90365,33 @@
           "from": "襄陽記曰：諸葛孔明為卧龍，龐士元為鳳雛，司馬德操為水鏡，皆龐德公語也。",
           "through": "孔明每至其家，獨拜牀下，德公初不令止。",
           "citation": "《三國志·蜀書七·龐統法正傳·龐統傳》"
+        },
+        {
+          "id": "zhugeliang-jian-pangtong-weizhizhong",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 4,
+          "from": "諸葛亮亦言之於先主，先主見與善譚，大器之，以為治中從事。",
+          "through": "諸葛亮亦言之於先主，先主見與善譚，大器之，以為治中從事。",
+          "citation": "《三國志·蜀書七·龐統法正傳·龐統傳》"
+        },
+        {
+          "id": "zhugeliang-qinbai-pangtongfu",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 6,
+          "from": "拜統父議郎，遷諫議大夫，諸葛亮親為之拜。",
+          "through": "拜統父議郎，遷諫議大夫，諸葛亮親為之拜。",
+          "citation": "《三國志·蜀書七·龐統法正傳·龐統傳》"
+        },
+        {
+          "id": "zhugeliang-da-fazheng-zongheng",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 11,
+          "from": "或謂諸葛亮曰：「法正於蜀郡太縱橫，將軍宜啟主公，抑其威福。」",
+          "through": "如何禁止法正使不得行其意邪！",
+          "citation": "《三國志·蜀書七·龐統法正傳·法正傳》"
         }
       ],
       "exclusions": [
