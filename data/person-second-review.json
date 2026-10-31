@@ -89375,6 +89375,33 @@
           "from": "十年，涼州胡王白虎文、治無戴等率衆降，衞將軍姜維迎逆安撫，居之于繁縣。",
           "through": "是歲，汶山平康夷反，維往討，破平之。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-shiyi-feiyi-hanzhong-dengzhi-fuling",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 27,
+          "from": "十一年夏五月，大將軍費禕出屯漢中。",
+          "through": "秋，涪陵屬國民夷反，車騎將軍鄧芝往討，皆破平之。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-shier-xiahoba-jiangwei-yongzhou",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 28,
+          "from": "十二年春正月，魏誅大將軍曹爽等，右將軍夏侯霸來降。",
+          "through": "將軍句安、李韶降魏。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-shisan-jiangwei-xiping",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 29,
+          "from": "十三年，姜維復出西平，不克而還。",
+          "through": "十三年，姜維復出西平，不克而還。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
