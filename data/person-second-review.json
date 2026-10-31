@@ -85712,7 +85712,26 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "shihui-sgz-zishu-jiaozhi",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 20,
+          "from": "權以交阯縣遠",
+          "through": "傳首詣武昌。",
+          "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 士燮傳》"
+        },
+        {
+          "id": "shihui-peizhu-sunsheng-lvdai",
+          "work": "peizhu",
+          "source": "a04-049",
+          "paragraph": 20,
+          "from": "孫盛曰：夫柔遠能邇",
+          "through": "祚不延者也。",
+          "citation": "裴注引孫盛曰"
+        }
+      ],
       "exclusions": [
         {
           "id": "shihui-excl-lvdai-title",
@@ -86154,6 +86173,15 @@
           "term": "士徽",
           "quote": "己未，九江太守丘騰有罪，下獄死。",
           "reason": "後漢書段落記九江太守丘騰有罪下獄死事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-shixie-yuanhuishu",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 16,
+          "term": "士徽",
+          "quote": "燮體器寬厚，謙虛下士，中國士人往依避難者以百數。",
+          "reason": "本傳段落記士燮體器寬厚、下士及陳國袁徽致荀彧書稱士府君，全段記士燮事，未提及士徽（袁徽為陳國袁徽，非士徽）；本傳補齊確屬他人，記為排除。"
         }
       ],
       "unresolved": []
