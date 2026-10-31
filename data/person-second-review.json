@@ -89004,6 +89004,33 @@
           "from": "安樂國相。蜀主劉禪封此縣公。",
           "through": "蜀主劉禪封此縣公。",
           "citation": "《晉書·卷十四·地理志上》"
+        },
+        {
+          "id": "liushan-jicheng-gaiyuan-jianxing",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 2,
+          "from": "劉備卒，劉禪即位，未葬，亦未踰月，而改元爲建興，此言之不從也。",
+          "through": "而改元爲建興，此言之不從也。",
+          "citation": "《晉書·卷二十八·五行志中》"
+        },
+        {
+          "id": "liushan-yanghu-shu-jiangfu",
+          "work": "jinshu",
+          "source": "a05-034",
+          "paragraph": 12,
+          "from": "至劉禪降服，諸營堡者索然俱散。",
+          "through": "諸營堡者索然俱散。",
+          "citation": "《晉書·卷三十四·羊祜傳》"
+        },
+        {
+          "id": "liushan-luoxian-lin-du-ting",
+          "work": "jinshu",
+          "source": "a05-057-ahcb",
+          "paragraph": 1,
+          "from": "知劉禪降，乃率所統臨于都亭三日。",
+          "through": "乃率所統臨于都亭三日。",
+          "citation": "《晉書·卷五十七·羅憲傳》"
         }
       ],
       "exclusions": [
