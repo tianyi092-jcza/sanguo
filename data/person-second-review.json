@@ -88829,6 +88829,51 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0128",
+      "name": "劉禪",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "liushan-anle-gong-feng",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 77,
+          "from": "丁亥，封劉禪為安樂公。",
+          "through": "丁亥，封劉禪為安樂公。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "liushan-yanxing-surrender",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 42,
+          "from": "用光祿大夫譙周策，降於艾",
+          "through": "艾解縛焚櫬，延請相見。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "liushan-excl-duanzhuo-shu-surrender",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 35,
+          "term": "劉禪",
+          "quote": "使劉禪君臣靣縛，叉手屈膝",
+          "reason": "泰始三年議郎段灼為鄧艾鳴冤的上疏中概括提及劉禪君臣降艾，無劉禪本人新事實，且降魏經過本傳炎興元年段已詳載，不作摘錄。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
