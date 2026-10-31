@@ -90113,6 +90113,33 @@
           "from": "諸葛亮寇天水，詔大將軍司馬宣王拒之。",
           "through": "諸葛亮寇天水，詔大將軍司馬宣王拒之。",
           "citation": "《三國志·魏書三·明帝紀》"
+        },
+        {
+          "id": "zhugeliang-fifth-xiegu-weinan",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 21,
+          "from": "是月，諸葛亮出斜谷，屯渭南，司馬宣王率諸軍拒之。",
+          "through": "是月，諸葛亮出斜谷，屯渭南，司馬宣王率諸軍拒之。",
+          "citation": "《三國志·魏書三·明帝紀》"
+        },
+        {
+          "id": "zhugeliang-weinan-xiangchi-quan-dong",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 22,
+          "from": "羣臣以為大將軍方與諸葛亮相持未解，車駕可西幸長安。",
+          "through": "帝曰：「權走，亮膽破，大將軍以制之，吾無憂矣。」",
+          "citation": "《三國志·魏書三·明帝紀》"
+        },
+        {
+          "id": "zhugeliang-jiaxu-shanzhiguo",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 28,
+          "from": "劉備有雄才，諸葛亮善治國，孫權識虛實，陸議見兵勢，據險守要，汎舟江湖，皆難卒謀也。",
+          "through": "劉備有雄才，諸葛亮善治國，孫權識虛實，陸議見兵勢，據險守要，汎舟江湖，皆難卒謀也。",
+          "citation": "《三國志·魏書十·荀彧荀攸賈詡傳·賈詡傳》"
         }
       ],
       "exclusions": [
