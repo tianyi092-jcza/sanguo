@@ -90806,6 +90806,33 @@
           "from": "栁伸字雅厚州牧諸葛亮辟爲從事",
           "through": "栁伸字雅厚州牧諸葛亮辟爲從事",
           "citation": "《華陽國志》卷十一·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-xiakou-shuoquan",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 3,
+          "from": "先主至于夏口，亮曰：「事急矣，請奉命求救於孫將軍。」",
+          "through": "權大恱，即遣周瑜、程普、魯肅等水軍三萬，隨亮詣先主，并力拒曹公。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-yongan-tuogu-liangzhuan",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 5,
+          "from": "章武三年春，先主於永安病篤，召亮於成都，屬以後事，謂亮曰：「君才十倍曹丕，必能安國，終定大事。若嗣子可輔，輔之；如其不才，君可自取。」",
+          "through": "先主又為詔勑後主曰：「汝與丞相從事，事之如父。」",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-nanzheng-pingding",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 6,
+          "from": "三年春，亮率衆南征，詔賜亮金鈇鉞一具，曲蓋一，前後羽葆鼓吹各一部，虎賁六十人。",
+          "through": "事在亮集。其秋悉平。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
