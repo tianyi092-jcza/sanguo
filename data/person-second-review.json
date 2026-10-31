@@ -85492,6 +85492,33 @@
           "term": "士燮",
           "quote": "推合朔交會月蝕定大小餘",
           "reason": "本段為晉書曆法推算文字，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jinshu-lifa-jiaohui-wuguan",
+          "work": "jinshu",
+          "source": "a05-018-ahcb",
+          "paragraph": 40,
+          "term": "士燮",
+          "quote": "交會差率，七十二萬三千七百四十九。",
+          "reason": "本段為晉書曆志曆法推算文字，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jinshu-lifa-xiaofen-wuguan",
+          "work": "jinshu",
+          "source": "a05-018-ahcb",
+          "paragraph": 270,
+          "term": "士燮",
+          "quote": "小分法，二千二百九。",
+          "reason": "本段為晉書曆志曆法推算文字，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jinshu-lifa-tuishu-wuguan",
+          "work": "jinshu",
+          "source": "a05-018",
+          "paragraph": 40,
+          "term": "士燮",
+          "quote": "推合朔交會月蝕定大小餘",
+          "reason": "本段為晉書曆志曆法推算文字，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
         }
       ],
       "unresolved": []
