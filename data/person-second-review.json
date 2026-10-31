@@ -87549,6 +87549,15 @@
           "from": "劉備在荊州所都，改曰公安。",
           "through": "劉備在荊州所都，改曰公安。",
           "citation": "《後漢書·志第二十二·郡國四》"
+        },
+        {
+          "id": "liubei-sg-wendi-yiling-quan-defeat",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 22,
+          "from": "孫權破劉備於夷陵。",
+          "through": "孫權破劉備於夷陵。",
+          "citation": "《三國志·魏書二·文帝紀》"
         }
       ],
       "exclusions": [
@@ -87704,6 +87713,24 @@
           "term": "劉備",
           "quote": "今深入征之，劉備必說劉表以襲許。",
           "reason": "此為曹營北征三郡烏丸前諸將的顧慮假想，劉備並未實際說劉表襲許；郭嘉亦斷劉表必不能任備，無劉備本人行動或新事實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-sg-mingdi-lubu-bei-en-rhetoric",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 5,
+          "term": "劉備",
+          "quote": "劉備背恩，自竄巴蜀。",
+          "reason": "此為魏明帝討諸葛亮露布（魏略載）中的貶斥之辭，僅追述劉備入蜀，無劉備本人新行動或新事實，且入蜀事實本傳已載，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-sg-shaodi-zhao-ji-han-summary",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 82,
+          "term": "劉備",
+          "quote": "劉備、孫權乘間作禍。",
+          "reason": "此為晉滅吳前詔書的追述總括，僅以劉備、孫權乘間作禍概括季漢分崩，無劉備具體行動、繫年或新事實，不摘錄。"
         }
       ],
       "unresolved": []
