@@ -86375,6 +86375,24 @@
           "from": "建安元年，楊奉、董承、韓暹挾天子還舊京",
           "through": "楊以糧迎道路，遂至洛陽。",
           "citation": "《三國志·卷八·魏書八 二公孫陶四張傳第八》"
+        },
+        {
+          "id": "dongcheng-sg-dongzhao-luoyang-buhe",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 19,
+          "from": "會天子還洛陽，韓暹、楊奉、董承及楊各違戾不和",
+          "through": "會天子還洛陽，韓暹、楊奉、董承及楊各違戾不和。",
+          "citation": "《三國志·卷十四·魏書十四 程郭董劉蔣劉傳第十四》"
+        },
+        {
+          "id": "dongcheng-sg-xuhuang-luoyang-zhengdou",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 22,
+          "from": "及到洛陽，韓暹、董承日爭鬬",
+          "through": "及到洛陽，韓暹、董承日爭鬬，",
+          "citation": "《三國志·卷十七·魏書十七 張樂于張徐傳第十七》"
         }
       ],
       "exclusions": [
@@ -86404,6 +86422,15 @@
           "term": "董承",
           "quote": "十一月，漢皇后伏氏坐昔與父故屯騎校尉完書，云帝以董承被誅怨恨公，辭甚醜惡，發聞，后廢黜死，兄弟皆伏法。",
           "reason": "本段主角為伏后因與父書信事發而廢黜，董承僅以「被誅」背景出現，不載董承本人新事，故不單獨立條。"
+        },
+        {
+          "id": "dongcheng-excl-xunyu-zhuan-beizhu",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 11,
+          "term": "董承",
+          "quote": "獻帝春秋曰：董承之誅，伏后與父完書，言司空殺董承，帝方為報怨。",
+          "reason": "本段主角為荀彧處置伏后書信事，董承僅以「董承之誅」背景出現，不載董承本人新事，故不單獨立條；同書異文已見 a03-070 排除條。"
         }
       ],
       "unresolved": []
