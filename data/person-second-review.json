@@ -90779,6 +90779,24 @@
           "from": "是以西土咸服諸葛亮之能攬㧞秀異也",
           "through": "是以西土咸服諸葛亮之能攬㧞秀異也",
           "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-pengyang-xindazhi",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 50,
+          "from": "諸葛亮以爲心大志廣",
+          "through": "難可保勸先主因事誅之",
+          "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-wuliang-gongcao",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 64,
+          "from": "州選迎牧諸葛亮爲功曺遷五官中郎將",
+          "through": "州選迎牧諸葛亮爲功曺遷五官中郎將",
+          "citation": "《華陽國志》卷十·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -91267,6 +91285,15 @@
           "term": "諸葛亮",
           "quote": "蜀人以諸葛亮蔣",
           "reason": "段落主體為董允立朝事蹟，亮僅與蔣琬、費禕、董允並稱「四相」「四英」，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-zisun-liuxi",
+          "work": "huayang",
+          "source": "a06-011",
+          "paragraph": 5,
+          "term": "諸葛亮",
+          "quote": "又上諸葛亮蒋琬費禕等子孫流徙中畿",
+          "reason": "段落主體為太子中庶子立的上疏，亮僅與蔣琬、費禕並列為已故大臣、其子孫流徙中畿而請敘用，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
