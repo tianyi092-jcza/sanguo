@@ -86420,6 +86420,15 @@
           "from": "后手持縑數匹，董承使符節令孫徽以刃脅奪之",
           "through": "殺旁侍者，血濺后服。",
           "citation": "《晉書·卷二十六·志第十六 食貨志》"
+        },
+        {
+          "id": "dongcheng-huayang-yidaizhao-mimou",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 5,
+          "from": "車騎將軍董承受命衣帶中宻詔當殺曺公",
+          "through": "而承等謀洩受誅",
+          "citation": "《華陽國志·卷六·劉先主志》"
         }
       ],
       "exclusions": [
@@ -86485,6 +86494,24 @@
           "term": "董承",
           "quote": "臣松之以為備後與董承等結謀，但事泄不克諧耳",
           "reason": "本段主角為關羽與先主，董承僅在裴注松之案中以舊謀回顧提及，不載董承本人新事；衣帶詔密謀本事已見 a03-009:13、a03-072:35 摘錄，故不單獨立條。"
+        },
+        {
+          "id": "dongcheng-excl-huayang-zhaowen-zhengquan",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 15,
+          "term": "董承",
+          "quote": "車騎将軍李傕與董承",
+          "reason": "本段主角非董承，董承僅在李傕與董承張濟等爭權一句中並列提及，未載董承本人新事；董承護駕東歸、諸將爭權事已見 a03-072:29-31、a04-008:12 等摘錄，故不單獨立條。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-yufu-dai",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 94,
+          "term": "衣帶詔",
+          "quote": "自公主、封君以上皆帶綬，以綵組爲緄帶，各如其綬色，金辟邪首爲帶玦。",
+          "reason": "本段為晉書輿服志帶綬制度，全段未提董承、亦無衣帶詔事，僅因帶字誤觸事件檢索，故排除。"
         }
       ],
       "unresolved": []
