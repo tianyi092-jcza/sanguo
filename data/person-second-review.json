@@ -90491,6 +90491,33 @@
           "from": "先主爭漢中，急書發兵，軍師將軍諸葛亮以問洪",
           "through": "亮於是表洪領蜀郡太守，衆事皆辦，遂使即真。",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳·楊洪傳》"
+        },
+        {
+          "id": "zhugeliang-huangquan-tuicheng-xiangxin",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 3,
+          "from": "臣與劉、葛推誠相信，明臣本志。",
+          "through": "臣與劉、葛推誠相信，明臣本志。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·黃權傳》"
+        },
+        {
+          "id": "zhugeliang-jiangwan-sheji-zhiqi",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 1,
+          "from": "蔣琬，社稷之器，非百里之才也",
+          "through": "願主公重加察之",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳·蔣琬傳》"
+        },
+        {
+          "id": "zhugeliang-jiangwan-qinchuan-daoxian",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 5,
+          "from": "昔諸葛亮數闚秦川，道險運艱，竟不能克",
+          "through": "昔諸葛亮數闚秦川，道險運艱，竟不能克",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳·蔣琬傳》"
         }
       ],
       "exclusions": [
