@@ -88541,6 +88541,33 @@
           "term": "劉備",
           "quote": "劉備卒，劉禪即位，未葬，亦未踰月，而改元爲建興",
           "reason": "此段主述譙周論先主、後主諱訓與未踰月改元失禮，劉備卒、劉禪即位僅為譙周論改元之背景，未載劉備本人言行或新事實，嗣位事本傳已載，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-j60-lun-weiwu-buji-liubei",
+          "work": "jinshu",
+          "source": "a05-060-ahcb",
+          "paragraph": 30,
+          "term": "劉備",
+          "quote": "又論魏武帝不及劉備，樂毅減於諸葛亮，詞多不載",
+          "reason": "輔著論中僅以劉備與魏武帝比較一句帶過，且原文稱詞多不載，未載劉備本人言行或新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-j65-wangdao-jinling-wangzhe",
+          "work": "jinshu",
+          "source": "a05-065-ahcb",
+          "paragraph": 13,
+          "term": "劉玄德",
+          "quote": "孫仲謀、劉玄德俱言王者之宅",
+          "reason": "王導反對遷都時引孫權、劉備皆言金陵為王者之宅為據，僅借劉備之言作論據，未載劉備本人言行經過或新事實，且為後世引述，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-j85-liuyi-yushui-biyu",
+          "work": "jinshu",
+          "source": "a05-085-ahcb",
+          "paragraph": 10,
+          "term": "劉備",
+          "quote": "昔劉備之有孔明，猶魚之有水",
+          "reason": "劉毅以劉備得孔明如魚得水自比與郗僧施之關係，僅借劉備舊事作比，未載劉備新事實，不作摘錄。"
         }
       ],
       "unresolved": []
