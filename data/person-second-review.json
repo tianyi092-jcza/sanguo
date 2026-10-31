@@ -89624,6 +89624,33 @@
           "from": "青龍二年，諸葛亮出斜谷，並田于蘭坑。",
           "through": "青龍二年，諸葛亮出斜谷，並田于蘭坑。",
           "citation": "《三國志·魏書二十六·滿田牽郭傳》"
+        },
+        {
+          "id": "zhugeliang-xiangyang-quangongcong",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 9,
+          "from": "過襄陽，諸葛亮說先主攻琮，荊州可有。",
+          "through": "過襄陽，諸葛亮說先主攻琮，荊州可有。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhugeliang-liushou-jingzhou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 12,
+          "from": "先主留諸葛亮、關羽等據荊州，將步卒數萬人入益州。",
+          "through": "先主留諸葛亮、關羽等據荊州，將步卒數萬人入益州。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhugeliang-chengdu-gugong",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "先主復領益州牧，諸葛亮為股肱，法正為謀主，關羽、張飛、馬超為爪牙，許靖、麋笁、簡雍為賔友。",
+          "through": "先主復領益州牧，諸葛亮為股肱，法正為謀主，關羽、張飛、馬超為爪牙，許靖、麋笁、簡雍為賔友。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
