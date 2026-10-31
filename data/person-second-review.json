@@ -89669,6 +89669,24 @@
           "from": "先主病篤，託孤於丞相亮，尚書令李嚴為副。",
           "through": "先主病篤，託孤於丞相亮，尚書令李嚴為副。",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhugeliang-jianxing-chengxiang-zongneiwai",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 1,
+          "from": "及禪立，以亮為丞相，委以諸事，謂亮曰：「政由葛氏，祭則寡人。」",
+          "through": "亮亦以禪未閑於政，遂總內外。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "zhugeliang-jianxing-tun-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 6,
+          "from": "五年春，丞相亮出屯漢中，營沔北陽平石馬。",
+          "through": "五年春，丞相亮出屯漢中，營沔北陽平石馬。",
+          "citation": "《三國志·蜀書三·後主傳》"
         }
       ],
       "exclusions": [
@@ -89698,6 +89716,15 @@
           "term": "諸葛亮",
           "quote": "軍師將軍諸葛亮",
           "reason": "勸進上言聯名列名而已，段落主體為符瑞勸進論述及裴注雜載，未載亮個人具體言行，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-changfang-case",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 2,
+          "term": "諸葛亮",
+          "quote": "諸葛亮誅房諸子",
+          "reason": "魏氏春秋所載亮誅常房諸子、徙其弟事，裴松之已案其妄（房為襃所誣，執政宜澄察，安有妄殺不辜以恱姦慝），不作確實事實摘錄。"
         }
       ],
       "unresolved": []
