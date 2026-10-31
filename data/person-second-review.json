@@ -90266,6 +90266,15 @@
           "from": "使關羽屯江陵，張飛屯秭歸，諸葛亮據南郡，備自住潺陵。",
           "through": "使關羽屯江陵，張飛屯秭歸，諸葛亮據南郡，備自住潺陵。",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhugeliang-suliu-ding-baidi-jiangzhou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "諸葛亮、張飛、趙雲等將兵泝流定白帝、江州、江陽",
+          "through": "諸葛亮、張飛、趙雲等將兵泝流定白帝、江州、江陽",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
@@ -90403,6 +90412,24 @@
           "term": "諸葛孔明",
           "quote": "諸葛孔明仍規秦川",
           "reason": "鍾會檄蜀文追述亮規秦川、姜維出隴右，僅為勸降修辭，無亮北伐的具體事實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-hanzhongwang-lianming",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "term": "諸葛亮",
+          "quote": "軍師將軍臣諸葛亮",
+          "reason": "上表勸進先主為漢中王的聯名具名而已，段落主體為勸進表文，未載亮個人具體言行，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-pingyue-tuogu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 26,
+          "term": "諸葛亮",
+          "quote": "及其舉國託孤於諸葛亮，而心神無貳",
+          "reason": "陳壽評曰的史論讚譽，託孤事實已另錄（a04-032:24），此段無新的具體事實，不作摘錄。"
         }
       ],
       "unresolved": []
