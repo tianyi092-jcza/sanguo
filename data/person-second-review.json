@@ -88514,6 +88514,33 @@
           "term": "劉備",
           "quote": "劉備以詐力虜劉璋，蜀人未附而遠爭江陵",
           "reason": "此段主述宣帝從討張魯時獻取蜀之策而魏武不從，劉備僅為宣帝論蜀勢之辭中的對象，未載劉備本人言行或取蜀、爭江陵的新事實，入蜀事本傳已載，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-xuandi-fanwei-quanbei-a05-001",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 3,
+          "term": "劉備",
+          "quote": "孫權、劉備，外親內踈",
+          "reason": "此段與已排除的 a05-001-ahcb 第 5 段同文異本重出，主述宣帝諫止魏武遷都、權遣呂蒙襲公安，劉備僅在宣帝論孫權、劉備關係之辭中帶提，未載劉備本人言行、部署或樊圍新事實，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-xuandi-yu-mengda-qi-bei-a05-001",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 8,
+          "term": "劉備",
+          "quote": "將軍昔棄劉備，託身國家",
+          "reason": "此段與已排除的 a05-001-ahcb 第 16 段同文異本重出，主述宣帝諭孟達、潛軍進討，劉備僅在宣帝致孟達書中以「昔棄劉備」一語追述孟達歸魏背景，未載劉備本人言行或新事實，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-wuxing-qiaozhou-bei-beng-gaiyuan",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 2,
+          "term": "劉備",
+          "quote": "劉備卒，劉禪即位，未葬，亦未踰月，而改元爲建興",
+          "reason": "此段主述譙周論先主、後主諱訓與未踰月改元失禮，劉備卒、劉禪即位僅為譙周論改元之背景，未載劉備本人言行或新事實，嗣位事本傳已載，不作摘錄。"
         }
       ],
       "unresolved": []
