@@ -87936,6 +87936,33 @@
           "from": "與陸遜共拒劉備",
           "through": "忿恚歎曰：「吾昔初至京城，桓尚小兒，而今迫孤乃至此也！」",
           "citation": "《三國志·吳書六·宗室傳第六·孫桓傳》裴注引《吳書》"
+        },
+        {
+          "id": "liubei-pei-jiangbiao-quandu-moling",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 3,
+          "from": "後劉備之東，宿於秣陵，周觀地形，亦勸權都之。",
+          "through": "權曰：「智者意同。」遂都焉。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八·張紘傳》裴注引《江表傳》"
+        },
+        {
+          "id": "liubei-sg-chibi-dangyang-xiakou",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 5,
+          "from": "時劉備為曹公所破，欲引南渡江，與魯肅遇於當陽，遂共圖計，因進住夏口，遣諸葛亮詣權",
+          "through": "權遂遣瑜及程普等與備并力逆曹公，遇於赤壁。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·周瑜傳》"
+        },
+        {
+          "id": "liubei-sg-ling-jingzhou-mu-gongan",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 7,
+          "from": "劉備以左將軍領荊州牧，治公安。",
+          "through": "備詣京見權",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·周瑜傳》"
         }
       ],
       "exclusions": [
