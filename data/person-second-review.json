@@ -87414,6 +87414,33 @@
           "from": "劉備破劉璋，據益州。",
           "through": "劉備破劉璋，據益州。",
           "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "liubei-houhan-jianan23-gengji-nanyuan",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 31,
+          "from": "與耿紀、韋晃欲挾天子以攻魏，南援劉備。",
+          "through": "與耿紀、韋晃欲挾天子以攻魏，南援劉備。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "liubei-houhan-jianan24-qu-hanzhong-cheng-wang",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 32,
+          "from": "夏五月，劉備取漢中。",
+          "through": "秋七月庚子，劉備自稱漢中王。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "liubei-houhan-zhangwu1-chengdi-yu-shu",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 34,
+          "from": "明年，劉備稱帝于蜀，",
+          "through": "於是天下遂三分矣。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
         }
       ],
       "exclusions": [
