@@ -87972,6 +87972,24 @@
           "from": "肅徑迎之，到當陽長阪，與備會，宣騰權旨，及陳江東彊固，勸備與權併力。",
           "through": "備遂到夏口，遣亮使權，肅亦反命。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·魯肅傳》"
+        },
+        {
+          "id": "liubei-sg-lusu-yiyang-xiangshui-jie",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 22,
+          "from": "備旣定益州，權求長沙、零、桂，備不承旨",
+          "through": "備遂割湘水為界，於是罷軍。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·魯肅傳》"
+        },
+        {
+          "id": "liubei-sg-lumeng-qing-meng-xiangshui",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 34,
+          "from": "劉備請盟，權乃歸普等，割湘水，以零陵還之。",
+          "through": "劉備請盟，權乃歸普等，割湘水，以零陵還之。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·呂蒙傳》"
         }
       ],
       "exclusions": [
@@ -88325,6 +88343,15 @@
           "term": "劉備",
           "quote": "何不遣兵助劉備，而欲斬我乎？",
           "reason": "魯肅傳記肅勸權不可迎操之事，劉備僅為肅激說中建議相助的對象及權遣瑜助備的背景，未載備之具體言行，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-zhouyu-bing-jian-su",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 21,
+          "term": "劉備",
+          "quote": "劉備近在公安，邊境密邇，百姓未附，宜得良將以鎮撫之。",
+          "reason": "周瑜病困上疏薦魯肅代己，正傳與江表傳所載瑜牋皆僅以劉備在公安、邊境未附為薦肅之背景，未載備之具體言行，不作摘錄。"
         }
       ],
       "unresolved": []
