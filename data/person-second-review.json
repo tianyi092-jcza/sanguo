@@ -90086,6 +90086,33 @@
           "from": "諸葛亮表有耽文山、澤山、司彌瘞山、婁山、辟龍山",
           "through": "此等並皆未詳所在縣。",
           "citation": "《後漢書》志第二十三·郡國五"
+        },
+        {
+          "id": "zhugeliang-hhs-zhuti-silver",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 28,
+          "from": "諸葛亮書云：「漢嘉金，朱提銀，採之不足以自食。」",
+          "through": "諸葛亮書云：「漢嘉金，朱提銀，採之不足以自食。」",
+          "citation": "《後漢書》志第二十三·郡國五"
+        },
+        {
+          "id": "zhugeliang-first-northern-expedition",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 5,
+          "from": "蜀大將諸葛亮寇邊，天水、南安、安定三郡吏民叛應亮。",
+          "through": "蜀大將諸葛亮寇邊，天水、南安、安定三郡吏民叛應亮。",
+          "citation": "《三國志·魏書三·明帝紀》"
+        },
+        {
+          "id": "zhugeliang-kou-tianshui-sima-yi",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 12,
+          "from": "諸葛亮寇天水，詔大將軍司馬宣王拒之。",
+          "through": "諸葛亮寇天水，詔大將軍司馬宣王拒之。",
+          "citation": "《三國志·魏書三·明帝紀》"
         }
       ],
       "exclusions": [
