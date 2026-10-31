@@ -88568,6 +88568,33 @@
           "term": "劉備",
           "quote": "昔劉備之有孔明，猶魚之有水",
           "reason": "劉毅以劉備得孔明如魚得水自比與郗僧施之關係，僅借劉備舊事作比，未載劉備新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-j104-shijilong-yi-liubei-zaishu",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 60,
+          "term": "劉備",
+          "quote": "請依劉備在蜀、魏王在鄴故事",
+          "reason": "石季龍等上疏勸石勒即帝位，僅借劉備在蜀稱帝舊事作比，未載劉備本人言行或新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-j105-xuguang-xuande-sunquan",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 68,
+          "term": "玄德",
+          "quote": "彼司馬家兒復何異玄德，李氏亦猶孫權",
+          "reason": "徐光勸石勒防中山王，僅以玄德（劉備）與孫權作比，喻司馬家兒與李氏之勢，未載劉備本人言行或新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-huayang-mengda-qi-bei",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 11,
+          "term": "劉備",
+          "quote": "劉備託身國家委將軍以疆埸之任",
+          "reason": "此段主述孟達叛魏歸蜀、宣王喻達，劉備僅在宣王致孟達書中以「昔棄劉備」一語追述孟達歸魏背景；同文已於晉書本排除（a05-001-ahcb 第 16 段、a05-001 第 8 段），未載劉備本人新事實，不重複摘錄。"
         }
       ],
       "unresolved": []
