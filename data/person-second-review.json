@@ -87531,6 +87531,24 @@
           "from": "劉備曰：「不可。明公不見呂布事丁建陽、董太師乎？」",
           "through": "劉備曰：「不可。明公不見呂布事丁建陽、董太師乎？」",
           "citation": "《後漢書·卷七十五·呂布傳》"
+        },
+        {
+          "id": "liubei-hhs-dongfu-yuyan-cheng-tianzi",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 17,
+          "from": "後劉備稱天子於蜀，皆如扶言。",
+          "through": "後劉備稱天子於蜀，皆如扶言。",
+          "citation": "《後漢書·卷八十二下·方術列傳第七十二下》"
+        },
+        {
+          "id": "liubei-hhs-junguo-gongan-gai-ming",
+          "work": "houhanshu",
+          "source": "a03-112",
+          "paragraph": 27,
+          "from": "劉備在荊州所都，改曰公安。",
+          "through": "劉備在荊州所都，改曰公安。",
+          "citation": "《後漢書·志第二十二·郡國四》"
         }
       ],
       "exclusions": [
@@ -87677,6 +87695,15 @@
           "term": "劉備",
           "quote": "玄德爭盟，劉備也。",
           "reason": "孫策諫袁術書中僅列名泛指劉備與諸侯爭盟之勢，無劉備具體事實，本段主體為孫策諫術，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-sg-wudi-bei-zheng-shuo-biao-xi-xu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 22,
+          "term": "劉備",
+          "quote": "今深入征之，劉備必說劉表以襲許。",
+          "reason": "此為曹營北征三郡烏丸前諸將的顧慮假想，劉備並未實際說劉表襲許；郭嘉亦斷劉表必不能任備，無劉備本人行動或新事實，不摘錄。"
         }
       ],
       "unresolved": []
