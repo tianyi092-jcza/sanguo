@@ -86991,6 +86991,33 @@
           "from": "劉備襲劉璋，取益州，遂據巴中；遣張郃擊之。",
           "through": "劉備襲劉璋，取益州，遂據巴中；遣張郃擊之。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-wudi-217-xiabian-zhangfei-machao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 37,
+          "from": "劉備遣張飛、馬超、吳蘭等屯下辯；遣曹洪拒之。",
+          "through": "劉備遣張飛、馬超、吳蘭等屯下辯；遣曹洪拒之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-wudi-218-xizheng-liubei-changan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 38,
+          "from": "秋七月，治兵，遂西征劉備，九月，至長安。",
+          "through": "秋七月，治兵，遂西征劉備，九月，至長安。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-wudi-219-yangping-xiahouyuan-killed",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "from": "夏侯淵與劉備戰於陽平，為備所殺。",
+          "through": "夏侯淵與劉備戰於陽平，為備所殺。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "exclusions": [
