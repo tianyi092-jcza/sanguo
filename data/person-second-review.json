@@ -87225,6 +87225,33 @@
           "from": "謙死，笁率州人迎先主，先主未敢當。",
           "through": "先主遂領徐州。",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-shuzhong-daxiang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "蜀中殷盛豐樂，先主置酒大饗士卒，取蜀城中金銀分賜將士",
+          "through": "還其穀帛。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-jidi-ce-liang-chengxiang",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 4,
+          "from": "先主於是即帝位，策亮為丞相曰",
+          "through": "君其勗哉！",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "liubei-sg-sangu-caolu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 8,
+          "from": "先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事",
+          "through": "遂許先帝以驅馳。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
