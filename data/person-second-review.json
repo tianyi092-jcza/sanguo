@@ -89741,6 +89741,33 @@
           "from": "亮率雲與張飛等俱泝江西上，平定郡縣。",
           "through": "亮率雲與張飛等俱泝江西上，平定郡縣。",
           "citation": "《三國志·蜀書六·關張馬黃趙傳·趙雲傳》"
+        },
+        {
+          "id": "zhugeliang-fazheng-tan",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 13,
+          "from": "亮歎曰：「法孝直若在，則能制主上，令不東行；就復東行，必不傾危矣。」",
+          "through": "亮歎曰：「法孝直若在，則能制主上，令不東行；就復東行，必不傾危矣。」",
+          "citation": "《三國志·蜀書七·龐統法正傳·法正傳》"
+        },
+        {
+          "id": "zhugeliang-xujing-bai",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 8,
+          "from": "丞相諸葛亮皆為之拜。",
+          "through": "丞相諸葛亮皆為之拜。",
+          "citation": "《三國志·蜀書八·許麋孫簡伊秦傳·許靖傳》"
+        },
+        {
+          "id": "zhugeliang-liuba-zhangfei",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 5,
+          "from": "諸葛亮謂巴曰：「張飛雖實武人，敬慕足下。主公今方收合文武，以定大事；足下雖天素高亮，宜少降意也。」",
+          "through": "諸葛亮謂巴曰：「張飛雖實武人，敬慕足下。主公今方收合文武，以定大事；足下雖天素高亮，宜少降意也。」",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳·劉巴傳》"
         }
       ],
       "exclusions": [
