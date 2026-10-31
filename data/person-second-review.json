@@ -90716,6 +90716,33 @@
           "from": "諸葛亮張飛趙雲等泝江降下巴東入巴",
           "through": "諸葛亮張飛趙雲等泝江降下巴東入巴",
           "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-xushu-tuijian",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 7,
+          "from": "徐元直致瑯琊諸葛亮曰孔眀臥龍",
+          "through": "徐元直致瑯琊諸葛亮曰孔眀臥龍",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-junshi-zhonglang",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 11,
+          "from": "以亮爲軍師中郎將督南三郡事",
+          "through": "以亮爲軍師中郎將督南三郡事",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-gugu-mouzhu",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 13,
+          "from": "扵是亮爲股肱正",
+          "through": "爲謀主",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
