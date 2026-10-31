@@ -91532,7 +91532,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhugezhan-houzhu-mianzhu-zhanbai",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 42,
+          "from": "冬，鄧艾破衞將軍諸葛瞻於緜竹",
+          "through": "冬，鄧艾破衞將軍諸葛瞻於緜竹",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "zhugezhan-lihui-qiu-sui-ju-dengai",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 8,
+          "from": "隨諸葛瞻拒鄧艾",
+          "through": "隨諸葛瞻拒鄧艾",
+          "citation": "《三國志·蜀書十三·李恢傳》"
+        },
+        {
+          "id": "zhugezhan-zongyu-duhu-tong-chaoshi",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 8,
+          "from": "時都護諸葛瞻初統朝事",
+          "through": "時都護諸葛瞻初統朝事",
+          "citation": "《三國志·蜀書十五·宗預傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
