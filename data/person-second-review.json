@@ -87792,6 +87792,24 @@
           "from": "及劉備取漢中以逼下辯，太祖以武都孤遠，欲移之，恐吏民戀土。",
           "through": "及劉備取漢中以逼下辯，太祖以武都孤遠，欲移之，恐吏民戀土。",
           "citation": "《三國志·魏書二十五·楊阜傳》"
+        },
+        {
+          "id": "liubei-sg-tianyu-tuo-bei-qi-zhi",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 9,
+          "from": "劉備之奔公孫瓚也，豫時年少，自託於備，備甚奇之。",
+          "through": "備為豫州刺史，豫以母老求歸，備涕泣與別，曰：「恨不與君共成大事也。」",
+          "citation": "《三國志·魏書二十六·田豫傳》"
+        },
+        {
+          "id": "liubei-sg-guaihuai-bei-yu-du-hanshui",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 28,
+          "from": "其明日，備欲渡漢水來攻。",
+          "through": "旣陣，備疑不渡，淮遂堅守，示無還心。",
+          "citation": "《三國志·魏書二十六·郭淮傳》"
         }
       ],
       "exclusions": [
@@ -88082,6 +88100,15 @@
           "term": "劉備",
           "quote": "使居中國，能亂人而不能為治也。若乘間守險，足以為一方主。",
           "reason": "此段主角為裴潛，太祖問潛以備才略，潛之答僅為對備才略的評價，未載備之言行史實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-zhonghui-bu-shi-zuo-liubei",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 47,
+          "term": "劉備",
+          "quote": "不成，退保蜀漢，不失作劉備也。",
+          "reason": "此段主角為鍾會，謀反之際以「不失作劉備」自況，僅借備為割據自立之比況，未載備之言行史實，不摘錄。"
         }
       ],
       "unresolved": []
