@@ -92101,6 +92101,24 @@
           "from": "關羽、張飛等不恱",
           "through": "羽、飛乃止",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "guanyu-zhuge-chibi-bingli",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 3,
+          "from": "今戰士還者及關羽水軍精甲萬人",
+          "through": "劉琦合江夏戰士亦不下萬人",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "guanyu-zhuge-zhen-jingzhou",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 4,
+          "from": "建安十六年，益州牧劉璋遣法正迎先主",
+          "through": "亮與關羽鎮荊州",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
@@ -92211,6 +92229,15 @@
           "term": "關羽",
           "quote": "初，先主忿孫權之襲關羽，將東征",
           "reason": "本段主角為先主章武元年伐吳之起因與進軍；關羽被襲僅為東征動機背景，其被襲遇害事蹟已見本傳及相關傳，本段無關羽新增事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhuge-beifa-zhuishu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 11,
+          "term": "關羽",
+          "quote": "吳更違盟，關羽毀敗",
+          "reason": "本段為亮北伐上言，追述先帝以來敗局（吳違盟、關羽毀敗、秭歸蹉跌、曹丕稱帝）以論進取之勢；關羽毀敗僅為背景追述，無關羽新增事蹟，其事已見本傳，不另錄。"
         }
       ],
       "unresolved": []
