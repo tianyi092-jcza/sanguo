@@ -89975,6 +89975,33 @@
           "from": "其七月，車騎將軍張郃追諸葛亮，為亮所害。",
           "through": "其七月，車騎將軍張郃追諸葛亮，為亮所害。",
           "citation": "《晉書》卷十三·天文志"
+        },
+        {
+          "id": "zhugeliang-jin-tianwen-juweinan-xiangchi",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 6,
+          "from": "是時，諸葛亮據渭南，宣帝與相持；孫權寇合肥，又遣陸議、孫昭等入淮沔，天子親東征。",
+          "through": "是時，諸葛亮據渭南，宣帝與相持；孫權寇合肥，又遣陸議、孫昭等入淮沔，天子親東征。",
+          "citation": "《晉書》卷十三·天文志"
+        },
+        {
+          "id": "zhugeliang-jin-tianwen-ruqinchuan",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 48,
+          "from": "又明年，諸葛亮入秦川。",
+          "through": "又明年，諸葛亮入秦川。",
+          "citation": "《晉書》卷十三·天文志"
+        },
+        {
+          "id": "zhugeliang-jin-wuxing-zhanghe-po",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 15,
+          "from": "又，是春宣帝南擒孟達，置二郡，張郃西破諸葛亮，斃馬謖。",
+          "through": "又，是春宣帝南擒孟達，置二郡，張郃西破諸葛亮，斃馬謖。",
+          "citation": "《晉書》卷二十八·五行志中"
         }
       ],
       "exclusions": [
