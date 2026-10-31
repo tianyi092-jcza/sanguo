@@ -85703,15 +85703,21 @@
     {
       "id": "p0124",
       "name": "士徽",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "共錄正摘錄 3 條（《三國志》正文 2、裴注 1），排除 50 條，未解決 0 條；本輪向量候選為 0，已枯竭。",
+        "辨人：與父士燮、陳國袁徽及同卷合傳人物劉繇、太史慈嚴格區分；本傳第 20 段「燮子徽」確指士徽，士燮本傳其餘段落不記入士徽名下。",
+        "本傳補齊：本傳 a04-049 士燮傳相關段落（第 14–21 段，含正文及評曰）已全部覆蓋；向量候選枯竭後再檢本傳，無未覆蓋的確指士徽段落；第 0–12 段為劉繇、太史慈傳，與士徽無關。",
+        "勢力繫年：父燮卒後自署交阯太守，發宗兵拒戴良，後為呂岱誘殺、傳首武昌；拒吳自據與被誘伏誅按階段分開，不整段一刀切。",
+        "生卒：卒黃武五年（226 年），為呂岱所殺，與本傳互證確定；生年無確載，不妄定。"
+      ],
       "excerpts": [
         {
           "id": "shihui-sgz-zishu-jiaozhi",
@@ -85730,6 +85736,15 @@
           "from": "孫盛曰：夫柔遠能邇",
           "through": "祚不延者也。",
           "citation": "裴注引孫盛曰"
+        },
+        {
+          "id": "shihui-sgz-pingyue-zibushen",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 21,
+          "from": "士燮作守南越",
+          "through": "使之然也。",
+          "citation": "《三國志·卷四十九 ‧ 吳書四　劉繇太史慈士燮傳第四 士燮傳》"
         }
       ],
       "exclusions": [
