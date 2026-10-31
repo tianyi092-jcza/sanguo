@@ -88071,6 +88071,33 @@
           "from": "劉備下白帝，權以見兵少，使綜料諸縣，得六千人，立解煩兩部，詳領左部、綜領右部督。",
           "through": "劉備下白帝，權以見兵少，使綜料諸縣，得六千人，立解煩兩部，詳領左部、綜領右部督。",
           "citation": "《三國志·吳書十七·是儀胡綜傳第十七·胡綜傳》"
+        },
+        {
+          "id": "liubei-huayang-kongrong-qiujiu-chendeng-ping",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 2,
+          "from": "北海相魯國孔\n融爲黄巾賊所圍使太史慈求救扵先主",
+          "through": "雄姿傑出有王霸之畧吾敬劉玄德名器盡此",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "liubei-huayang-hezong-zanli-honglu",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 22,
+          "from": "何宗字\n彦英郫縣人也",
+          "through": "讚立先主爲鴻臚方授公輔㑹䘚",
+          "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "liubei-sg-xiaopei-hebing-zoucao",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 4,
+          "from": "復合兵得萬餘人",
+          "through": "復虜先主妻子送布",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
