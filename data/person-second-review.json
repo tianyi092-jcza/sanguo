@@ -91849,6 +91849,15 @@
           "from": "昔關羽率荊州之衆，降于禁於漢濵，遂有北向爭天下之志",
           "through": "後孫權襲取其將士家屬，羽士衆一旦瓦解",
           "citation": "《三國志·魏書十三·鍾繇華歆王朗傳》"
+        },
+        {
+          "id": "guanyu-dongzhao-fancheng-luquan",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 23,
+          "from": "及關羽圍曹仁於樊",
+          "through": "羽乃破敗",
+          "citation": "《三國志·魏書十四·程昱郭嘉董昭劉曄蔣濟劉放傳》"
         }
       ],
       "exclusions": [
@@ -91887,6 +91896,24 @@
           "term": "關羽",
           "quote": "張飛、關羽者，皆萬人之敵也，為之死用",
           "reason": "本段主角為郭嘉諫太祖早圖劉備；關羽僅與張飛並稱萬人之敵、為備死用一語，為通用評價，無具體事蹟新史實，且與程昱傳同類評價重複，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-dongzhao-yuyi-shundai",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 21,
+          "term": "關羽",
+          "quote": "備勇而志大，關羽、張飛為之羽翼",
+          "reason": "本段主角為董昭諫太祖勿令劉備拒袁術及招降袁紹同族事；關羽僅與張飛並稱劉備羽翼，為通用評價，無具體事蹟新史實，且與程昱、郭嘉傳同類評價重複，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-liuye-yongguan-shundai",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 31,
+          "term": "關羽",
+          "quote": "關羽、張飛勇冠三軍而為將",
+          "reason": "本段主角為劉曄勸太祖乘勢取蜀；關羽僅與張飛並稱勇冠三軍，為通用評價，無具體事蹟新史實，且與程昱、郭嘉傳同類評價重複，不另錄。"
         }
       ],
       "unresolved": []
