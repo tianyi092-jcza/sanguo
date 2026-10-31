@@ -85139,6 +85139,24 @@
           "from": "士燮作守南越，優游終世",
           "through": "使之然也。",
           "citation": "《三國志·吳書四·劉繇太史慈士燮傳》"
+        },
+        {
+          "id": "shixie-xishu-suinan-zhonglang",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 18,
+          "from": "漢聞張津死，賜燮璽書曰",
+          "through": "封龍度亭侯。",
+          "citation": "《三國志·吳書四·劉繇太史慈士燮傳》士燮傳"
+        },
+        {
+          "id": "shixie-bu-zhi-guifu-wei-jiangjun-zu",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 19,
+          "from": "建安十五年，孫權遣步隲為交州刺史",
+          "through": "黃武五年，年九十卒。",
+          "citation": "《三國志·吳書四·劉繇太史慈士燮傳》士燮傳"
         }
       ],
       "exclusions": [
@@ -85168,6 +85186,15 @@
           "term": "士燮",
           "quote": "士燮",
           "reason": "僅為太史慈傳與士燮傳之間的本傳篇目二字，無敘事內容，不單獨立條；士燮傳正文已於 a04-049:14 摘錄。"
+        },
+        {
+          "id": "shixie-excl-hui-ju-liang-dai-zhu",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 20,
+          "term": "士燮",
+          "quote": "又遣陳時代燮為交阯太守",
+          "reason": "本段主角為燮子徽與呂岱、戴良，述徽自署交阯太守拒良、呂岱誅徽兄弟及孫盛論；燮本人僅於「代燮」「燮質子廞」等處被提及，燮卒已於本傳 a04-049:19 摘錄，身後太守更代已於呂岱傳 a04-060:24 摘錄，不單立為燮摘錄。"
         }
       ],
       "unresolved": []
