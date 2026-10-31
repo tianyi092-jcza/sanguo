@@ -86539,6 +86539,33 @@
           "term": "衣帶詔",
           "quote": "乙卯，詔曰：「夫政，先京師，後諸夏。",
           "reason": "本段為後漢書孝安帝紀賜貧困孤弱詔，全段未提董承、亦無衣帶詔事，僅因詔字誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-yufu-kushe",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 83,
+          "term": "衣帶詔",
+          "quote": "袴褶之制，未詳所起，近世凡車駕親戎、中外戒嚴服之。",
+          "reason": "本段為晉書輿服志袴褶制度，全段未提董承、亦無衣帶詔事，僅因帶字誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-houhanshu-yufu-weimaoguan",
+          "work": "houhanshu",
+          "source": "a03-120",
+          "paragraph": 5,
+          "term": "衣帶詔",
+          "quote": "委貌冠、皮弁冠同制，長七寸，高四寸，制如覆杯，前高廣，後卑銳。",
+          "reason": "本段為後漢書輿服下冠服制度，全段未提董承、亦無衣帶詔事，僅因帶字誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-houhanshu-yufu-daishou",
+          "work": "houhanshu",
+          "source": "a03-120",
+          "paragraph": 43,
+          "term": "衣帶詔",
+          "quote": "自公主封君以上皆帶綬，以采組為緄帶，各如其綬色。",
+          "reason": "本段為後漢書輿服下帶綬制度，全段未提董承、亦無衣帶詔事，僅因帶字誤觸事件檢索，故排除。"
         }
       ],
       "unresolved": []
