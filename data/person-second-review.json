@@ -89651,6 +89651,24 @@
           "from": "先主復領益州牧，諸葛亮為股肱，法正為謀主，關羽、張飛、馬超為爪牙，許靖、麋笁、簡雍為賔友。",
           "through": "先主復領益州牧，諸葛亮為股肱，法正為謀主，關羽、張飛、馬超為爪牙，許靖、麋笁、簡雍為賔友。",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhugeliang-zhangwu-chengxiang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 22,
+          "from": "以諸葛亮為丞相，許靖為司徒。",
+          "through": "以諸葛亮為丞相，許靖為司徒。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhugeliang-yongan-tuogu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 24,
+          "from": "先主病篤，託孤於丞相亮，尚書令李嚴為副。",
+          "through": "先主病篤，託孤於丞相亮，尚書令李嚴為副。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
@@ -89671,6 +89689,15 @@
           "term": "諸葛亮",
           "quote": "丞相諸葛亮平南土",
           "reason": "劉璋子劉闡傳末僅以諸葛亮平南土交代闡還吳的背景，無亮平南的具體事實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-quanjin-list",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 21,
+          "term": "諸葛亮",
+          "quote": "軍師將軍諸葛亮",
+          "reason": "勸進上言聯名列名而已，段落主體為符瑞勸進論述及裴注雜載，未載亮個人具體言行，不作摘錄。"
         }
       ],
       "unresolved": []
