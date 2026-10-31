@@ -91795,6 +91795,33 @@
           "from": "關羽亡歸劉備",
           "through": "關羽亡歸劉備",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "guanyu-wudiji-218-qiangsheng",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 38,
+          "from": "時關羽彊盛",
+          "through": "時關羽彊盛",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "guanyu-wudiji-219-yujin-junmo",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "from": "遣于禁助曹仁擊關羽",
+          "through": "羽獲禁，遂圍仁",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "guanyu-mingdiji-xiandizhuan-qiu-dushi",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 18,
+          "from": "布之被圍，關羽屢請於太祖，求以杜氏為妻",
+          "through": "及城陷，太祖見之，乃自納之",
+          "citation": "《三國志·魏書三·明帝紀》注引《獻帝傳》"
         }
       ],
       "exclusions": [
