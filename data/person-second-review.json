@@ -87729,6 +87729,24 @@
           "from": "劉表使劉備北侵，至葉，太祖遣典從夏侯惇拒之。",
           "through": "備望見救至，軍散退。",
           "citation": "《三國志·魏書十八·李典傳》"
+        },
+        {
+          "id": "liubei-sg-litong-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 9,
+          "from": "劉備與周瑜圍曹仁於江陵，別遣關羽絕北道。",
+          "through": "通率衆擊之，下馬拔鹿角入圍，且戰且前，以迎仁軍，勇冠諸將。",
+          "citation": "《三國志·魏書十八·李通傳》"
+        },
+        {
+          "id": "liubei-sg-zangba-xuxi-maohui",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 11,
+          "from": "太祖語劉備，令語霸送二人首。",
+          "through": "乃皆以翕、暉為郡守。",
+          "citation": "《三國志·魏書十八·臧霸傳》"
         }
       ],
       "exclusions": [
@@ -87947,6 +87965,15 @@
           "term": "劉備",
           "quote": "與夏侯尚討劉備於上庸，破之。",
           "reason": "此段為徐晃晚年履歷總述，劉備僅以「討劉備於上庸」一句作對手標籤，未交代劉備本人行動與上庸事細節，上庸事已見本傳及相關人物傳，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-wenpin-changban-zhui-tao",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 15,
+          "term": "劉備",
+          "quote": "授聘兵，使與曹純追討劉備於長阪。",
+          "reason": "此段為文聘履歷，劉備僅以長阪被追討的對象出現，未交代劉備本人行動與長阪事細節，長阪事已見本傳及相關人物傳，不摘錄。"
         }
       ],
       "unresolved": []
