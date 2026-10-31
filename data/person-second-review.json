@@ -89114,6 +89114,33 @@
           "term": "劉禪",
           "quote": "安樂國相。蜀主劉禪封此縣公。",
           "reason": "四庫本此段與 sidneyluo《晉書·卷十四·地理志上》a05-014:70 為同一燕國沿革段落之異本，僅分段與空格異體，該本已記為 excerpt（安樂國相、蜀主劉禪封此縣公），此異本不重複摘錄。"
+        },
+        {
+          "id": "liushan-excl-fujian-liushan-yizuo",
+          "work": "jinshu",
+          "source": "a05-114-ahcb",
+          "paragraph": 58,
+          "term": "劉禪",
+          "quote": "劉禪可非漢之遺祚，然終爲中國之所并。",
+          "reason": "苻堅與苻融論伐吳時以劉禪為例，謂漢之遺祚終為中國所并，僅為後世伐吳決策中的比附之辭，無劉禪本人新事實，且劉禪降魏經過本傳炎興元年段已詳載，不作摘錄。"
+        },
+        {
+          "id": "liushan-excl-lite-jiange-yongcai",
+          "work": "jinshu",
+          "source": "a05-120-ahcb",
+          "paragraph": 2,
+          "term": "劉禪",
+          "quote": "劉禪有如此之地而面縛於人，豈非庸才邪！",
+          "reason": "李特入蜀至劍閣時顧險而嘆，謂劉禪有如此之地而面縛於人，僅為後世人物對劉禪降魏的評價，無劉禪本人新事實，且降魏經過本傳炎興元年段已詳載，不作摘錄。"
+        },
+        {
+          "id": "liushan-excl-zaiji-li-tong-liushan",
+          "work": "jinshu",
+          "source": "a05-121-ahcb",
+          "paragraph": 41,
+          "term": "劉禪",
+          "quote": "遂得禮同劉禪，不亦優乎！",
+          "reason": "此段論成漢後主處置時以禮同劉禪為例，僅借劉禪降後受封安樂公一事作比附，無劉禪本人新事實，且降魏與封安樂公已分別詳載於本傳及 a04-004:77，不作摘錄。"
         }
       ],
       "unresolved": []
