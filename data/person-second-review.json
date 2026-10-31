@@ -85848,6 +85848,33 @@
           "term": "士徽",
           "quote": "六年，帝疾篤，屬協於蹇碩",
           "reason": "後漢書段落敘靈帝末蹇碩、何進事，與士徽無關；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-zhugeke-jian",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 25,
+          "term": "士徽",
+          "quote": "恪將悉衆伐魏，胤諫恪曰",
+          "reason": "三國志段落敘諸葛恪伐魏、孫胤諫止事，未提及士徽；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-079-xuan",
+          "work": "jinshu",
+          "source": "a05-079-ahcb",
+          "paragraph": 36,
+          "term": "士徽",
+          "quote": "玄既還，遇疾，上疏解職",
+          "reason": "晉書段落敘玄還朝遇疾解職、移鎮東陽事，未提及士徽；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-026-hong",
+          "work": "houhanshu",
+          "source": "a03-026",
+          "paragraph": 29,
+          "term": "士徽",
+          "quote": "弘在位五年，坐考上黨太守無所據",
+          "reason": "後漢書段落敘弘在位免官、國除事，未提及士徽；僅因事件向量誤觸。"
         }
       ],
       "unresolved": []
