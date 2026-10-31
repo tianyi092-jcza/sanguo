@@ -90671,6 +90671,24 @@
           "from": "蜀丞相諸葛亮葬定軍山",
           "through": "蜀丞相諸葛亮葬定軍山",
           "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-zhao-mengda-beifa-waiyuan",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 11,
+          "from": "北伐招達為外援",
+          "through": "遂背魏通吴蜀",
+          "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-yongkai-nanzheng",
+          "work": "huayang",
+          "source": "a06-004",
+          "paragraph": 6,
+          "from": "丞相諸葛亮以初遭大喪未便加兵",
+          "through": "三年亮南征自安上由水路入越嶲",
+          "citation": "《華陽國志》卷四·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -91132,6 +91150,15 @@
           "term": "諸葛亮",
           "quote": "詔溫依諸葛亮故事，甲仗百人入殿",
           "reason": "桓溫廢立事，詔以諸葛亮舊事為比，亮僅為先例標識，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-maliang-yi-shouxinren",
+          "work": "huayang",
+          "source": "a06-003",
+          "paragraph": 23,
+          "term": "諸葛亮",
+          "quote": "襄陽馬良書詒諸葛亮曰",
+          "reason": "亮僅為馬良書信的收件人，段落主體為廣漢郡雒縣以下縣邑地理，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
