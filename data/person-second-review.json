@@ -88986,6 +88986,15 @@
           "from": "甲申，使大將軍丁奉督諸軍向魏壽春，將軍留平別詣施績於南郡，議兵所向，將軍丁封、孫異如沔中，皆救蜀。蜀主劉禪降魏問至，然後罷。",
           "through": "蜀主劉禪降魏問至，然後罷。",
           "citation": "《三國志·吳書三·三嗣主傳第三 孫休傳》"
+        },
+        {
+          "id": "liushan-shu-fall-jin-annals",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 21,
+          "from": "十一月，鄧艾帥萬餘人自陰平踰絕險至江由，破蜀將諸葛瞻於緜竹，斬瞻，傳首。進軍雒縣，劉禪降。",
+          "through": "劉禪降。",
+          "citation": "《晉書·卷二·文帝紀》"
         }
       ],
       "exclusions": [
@@ -89033,6 +89042,24 @@
           "term": "劉禪",
           "quote": "以劉禪之闇，而邊城外破，士女內震，其亡可知也。",
           "reason": "四庫本此段與 sidneyluo《晉書·卷二·文帝紀》a05-002:15 為同一伐蜀議段落之異本，後者已記為 exclusion（司馬昭伐蜀議中對劉禪的評價，無劉禪本人新事實），此異本不重複摘錄。"
+        },
+        {
+          "id": "liushan-excl-ahcb-wendi-jiang-mirror",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 51,
+          "term": "劉禪",
+          "quote": "進軍雒縣，劉禪降。",
+          "reason": "四庫本此段與 sidneyluo《晉書·卷二·文帝紀》a05-002:21 為同一段落之異本（僅綿／緜異體），該本已記為 excerpt（鄧艾破綿竹、進軍雒縣、劉禪降），此異本不重複摘錄。"
+        },
+        {
+          "id": "liushan-excl-ahcb-wudi-fuma-mirror",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 9,
+          "term": "劉禪",
+          "quote": "賜山陽公劉康、安樂公劉禪子弟一人爲駙馬都尉。",
+          "reason": "四庫本此段與 sidneyluo《晉書·卷三·武帝紀》a05-003:2 為同一詔段之異本，該本已記為 excerpt（賜安樂公劉禪子弟一人為駙馬都尉），此異本不重複摘錄。"
         }
       ],
       "unresolved": []
