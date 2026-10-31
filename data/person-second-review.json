@@ -87054,6 +87054,33 @@
           "from": "紹遣騎佐之。",
           "through": "太祖遣劉岱、王忠擊之，不克。",
           "citation": "《三國志·魏書六·袁紹傳》"
+        },
+        {
+          "id": "liubei-sg-liubiao-benbiao-houdai-buyong",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 35,
+          "from": "劉備奔表，表厚待之，然不能用。",
+          "through": "劉備奔表，表厚待之，然不能用。",
+          "citation": "《三國志·魏書六·劉表傳》"
+        },
+        {
+          "id": "liubei-sg-liubiao-congxiang-zou-xiakou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 36,
+          "from": "太祖軍到襄陽，琮舉州降。",
+          "through": "備走奔夏口。",
+          "citation": "《三國志·魏書六·劉表傳》"
+        },
+        {
+          "id": "liubei-sg-zhangmiao-bu-benbei",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 7,
+          "from": "二年間，太祖乃盡復收諸城，擊破布於鉅野。",
+          "through": "布東奔劉備。",
+          "citation": "《三國志·魏書七·張邈傳》"
         }
       ],
       "exclusions": [
