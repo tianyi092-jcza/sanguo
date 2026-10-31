@@ -87108,6 +87108,33 @@
           "from": "從征荊州，追劉備於長坂，獲其二女輜重，收其散卒。",
           "through": "從征荊州，追劉備於長坂，獲其二女輜重，收其散卒。",
           "citation": "《三國志·魏書九·曹純傳》裴注引《英雄記》"
+        },
+        {
+          "id": "liubei-sg-caozhen-xiabian-yangping-po-biejian",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 36,
+          "from": "以偏將軍將兵擊劉備別將於下辯，破之",
+          "through": "督徐晃等破劉備別將高詳於陽平",
+          "citation": "《三國志·魏書九·曹真傳》"
+        },
+        {
+          "id": "liubei-sg-xiahou-shang-shangyong-po-biejun",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 47,
+          "from": "尚奏：「劉備別軍在上庸，山道險難，彼不我虞，若以奇兵潛行，出其不意，則獨克之勢也。」",
+          "through": "遂勒諸軍擊破上庸，平三郡九縣，遷征南大將軍。",
+          "citation": "《三國志·魏書九·夏侯尚傳》"
+        },
+        {
+          "id": "liubei-sg-xunyu-si-liubei-yan-laozei",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 11,
+          "from": "權以露布於蜀，劉備聞之，曰：「老賊不死，禍亂未已。」",
+          "through": "權以露布於蜀，劉備聞之，曰：「老賊不死，禍亂未已。」",
+          "citation": "《三國志·魏書十·荀彧傳》裴注引《獻帝春秋》"
         }
       ],
       "exclusions": [
