@@ -86566,6 +86566,33 @@
           "term": "衣帶詔",
           "quote": "自公主封君以上皆帶綬，以采組為緄帶，各如其綬色。",
           "reason": "本段為後漢書輿服下帶綬制度，全段未提董承、亦無衣帶詔事，僅因帶字誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-juan46-rouxing",
+          "work": "jinshu",
+          "source": "a05-046-ahcb",
+          "paragraph": 3,
+          "term": "衣帶詔",
+          "quote": "又論肉刑，見刑法志。",
+          "reason": "本段論肉刑與封國之制，全段未提董承、亦無衣帶詔事，屬事件檢索誤觸，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-houhanshu-juan54-yifu",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 31,
+          "term": "衣帶詔",
+          "quote": "詔賜御府衣一襲，衣單複具曰襲。自所服冠幘綬，玉壺革帶，金錯鉤佩。",
+          "reason": "本段為拜太常後賜御府衣、革帶等服飾記載，全段未提董承、亦無衣帶詔事，僅因衣、帶二字誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-juan01-qiru",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 18,
+          "term": "衣帶詔",
+          "quote": "時有兵士寒凍，乞襦，帝弗之與。",
+          "reason": "本段記兵士寒凍乞襦、班師之事，全段未提董承、亦無衣帶詔事，屬事件檢索誤觸，故排除。"
         }
       ],
       "unresolved": []
