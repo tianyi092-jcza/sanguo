@@ -88896,6 +88896,33 @@
           "from": "劉禪建興二年，改益州郡為建寧郡",
           "through": "分廣漢立東廣漢郡。",
           "citation": "《晉書·卷十四·地理志》"
+        },
+        {
+          "id": "liushan-jingyao-wuxing-dashu",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 136,
+          "from": "蜀劉禪景耀五年，宮中大樹無故自折。",
+          "through": "蜀果亡，如周言，此草妖也。",
+          "citation": "《晉書·卷二十八·五行志中》"
+        },
+        {
+          "id": "liushan-yanxing-dizhen-huanghao",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 144,
+          "from": "蜀劉禪炎興元年，蜀地震。",
+          "through": "是冬，蜀亡。",
+          "citation": "《晉書·卷二十九·五行志下》"
+        },
+        {
+          "id": "liushan-feng-guoxiu-zuojiangjun",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 23,
+          "from": "劉禪以為左將軍，脩欲刺禪而不得親近",
+          "through": "事輙不克，故殺禕焉。",
+          "citation": "《三國志·魏書四·三少帝紀》"
         }
       ],
       "exclusions": [
