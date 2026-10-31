@@ -87810,6 +87810,33 @@
           "from": "其明日，備欲渡漢水來攻。",
           "through": "旣陣，備疑不渡，淮遂堅守，示無還心。",
           "citation": "《三國志·魏書二十六·郭淮傳》"
+        },
+        {
+          "id": "liubei-sg-changban-qi-zou-hanjin",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "曹公以江陵有軍實，恐先主據之，乃釋輜重，輕軍到襄陽。",
+          "through": "遇表長子江夏太守琦衆萬餘人，與俱到夏口。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-nanzheng-sijun-jie-jiang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "先主表琦為荊州刺史，又南征四郡。",
+          "through": "武陵太守金旋、長沙太守韓玄、桂陽太守趙範、零陵太守劉度皆降。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-mianyang-shetan-yu-wangguan",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "from": "遂於沔陽設壇場，陳兵列衆，羣臣陪位，讀奏訖，御王冠于先主。",
+          "through": "遂於沔陽設壇場，陳兵列衆，羣臣陪位，讀奏訖，御王冠于先主。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
