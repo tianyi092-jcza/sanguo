@@ -90743,6 +90743,24 @@
           "from": "扵是亮爲股肱正",
           "through": "爲謀主",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-huangzhong-mingwang",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 17,
+          "from": "軍師諸葛亮曰黄忠名望本非關張馬超之倫也",
+          "through": "軍師諸葛亮曰黄忠名望本非關張馬超之倫也",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-da-yu-ma-chao",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 18,
+          "from": "亮知羽忌前答曰孟起黥彭之徒一世之桀",
+          "through": "亮知羽忌前答曰孟起黥彭之徒一世之桀",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -91213,6 +91231,15 @@
           "term": "諸葛亮",
           "quote": "襄陽馬良書詒諸葛亮曰",
           "reason": "亮僅為馬良書信的收件人，段落主體為廣漢郡雒縣以下縣邑地理，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-dengzhi-shiwu-shouxinren",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 1,
+          "term": "諸葛亮",
+          "quote": "權曰君之誠懇乃至於此書與亮曰",
+          "reason": "段落主體為鄧芝使吳、說孫權聯蜀，亮僅在芝言與權書中被提及，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
