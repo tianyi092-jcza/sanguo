@@ -91668,6 +91668,36 @@
           "from": "閭術縛冨送州刺史童策斬之初諸葛瞻與鄧艾戰",
           "through": "故冨假之也",
           "citation": "《華陽國志·大同志》"
+        },
+        {
+          "id": "zhugezhan-zhugeliangfu-shengping-mianzhu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 27,
+          "from": "瞻字思遠",
+          "through": "瞻長子尚，與瞻俱沒",
+          "citation": "《三國志·蜀書五·諸葛亮傳》",
+          "note": "正文層：瞻附父亮傳之本傳段落，自幼年、仕進至緜竹戰死、長子尚俱沒。"
+        },
+        {
+          "id": "zhugezhan-peizhu-ganbao-zhongxiao",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 27,
+          "from": "干寶曰：瞻雖智不足以扶危",
+          "through": "忠孝存焉",
+          "citation": "《三國志·蜀書五·諸葛亮傳》",
+          "note": "裴注層：干寶評瞻外不負國、內不改父志，忠孝存焉。"
+        },
+        {
+          "id": "zhugezhan-peizhu-huayang-shang-fusi",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 27,
+          "from": "華陽國志曰：尚歎曰",
+          "through": "乃馳赴魏軍而死",
+          "citation": "《三國志·蜀書五·諸葛亮傳》",
+          "note": "裴注層：裴注引《華陽國志》，瞻長子尚歎父子荷國重恩、馳赴魏軍而死。"
         }
       ],
       "exclusions": [
