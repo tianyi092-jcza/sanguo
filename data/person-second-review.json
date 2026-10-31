@@ -86118,6 +86118,33 @@
           "term": "士徽",
           "quote": "太中大夫徐惲擅殺臨淮太守劉度",
           "reason": "後漢書段落敘徐惲擅殺劉度坐誅事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-xiean-xufeng",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 245,
+          "term": "士徽",
+          "quote": "是月，下邳人謝安應募擊徐鳳等，斬之。",
+          "reason": "後漢書段落敘謝安應募擊徐鳳事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-lite-yizhou",
+          "work": "jinshu",
+          "source": "a05-004-ahcb",
+          "paragraph": 89,
+          "term": "士徽",
+          "quote": "三月，李特攻陷益州。荊州刺史宋岱擊特，斬之，傳首京師。",
+          "reason": "晉書段落記李特攻陷益州、宋岱擊斬李特事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-luguang-liangzhou",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 3,
+          "term": "士徽",
+          "quote": "三月，呂光子纂爲乞伏乾歸所敗。光建康太守段業自號涼州牧。慕容寶敗魏師于薊。",
+          "reason": "晉書段落記呂纂敗於乞伏乾歸、段業自號涼州牧、慕容寶敗魏師事，全段未提及士徽；向量誤觸。"
         }
       ],
       "unresolved": []
