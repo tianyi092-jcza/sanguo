@@ -89561,8 +89561,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "zhugeliang-induce-mengda",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 3,
+          "from": "諸葛亮聞之，陰欲誘達，數書招之，達與相報荅。",
+          "through": "諸葛亮聞之，陰欲誘達，數書招之，達與相報荅。",
+          "citation": "《三國志·魏書三·明帝紀》"
+        },
+        {
+          "id": "zhugeliang-qishan-sanjun",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 37,
+          "from": "諸葛亮圍祁山，南安、天水、安定三郡反應亮。",
+          "through": "諸葛亮圍祁山，南安、天水、安定三郡反應亮。",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhugeliang-excl-pangtong-rank",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 36,
+          "term": "諸葛亮",
+          "quote": "見待次於諸葛亮",
+          "reason": "傅子裴注中僅以龐統見待次於諸葛亮作比較，無諸葛亮本人新事實，不作摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
