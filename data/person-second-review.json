@@ -87963,6 +87963,15 @@
           "from": "劉備以左將軍領荊州牧，治公安。",
           "through": "備詣京見權",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·周瑜傳》"
+        },
+        {
+          "id": "liubei-sg-lusu-dangyang-quanbing",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 17,
+          "from": "肅徑迎之，到當陽長阪，與備會，宣騰權旨，及陳江東彊固，勸備與權併力。",
+          "through": "備遂到夏口，遣亮使權，肅亦反命。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·魯肅傳》"
         }
       ],
       "exclusions": [
@@ -88298,6 +88307,24 @@
           "term": "劉備",
           "quote": "後劉備表權行車騎將軍",
           "reason": "張昭傳記昭輔權、諫射虎之事，劉備僅以表權一語出現，未載備之具體言行，此處無新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-zhouyu-jing-huan-songbie",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 8,
+          "term": "劉備",
+          "quote": "劉備之自京還也，權乘飛雲大船，與張昭、秦松、魯肅等十餘人共追送之，大宴會敘別。",
+          "reason": "周瑜傳記瑜取蜀之議、病卒及權哀悼之事，劉備僅以自京還受權追送、聽權歎瑜出現，未載備之具體言行新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-lusu-quan-bu-yingcao",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 18,
+          "term": "劉備",
+          "quote": "何不遣兵助劉備，而欲斬我乎？",
+          "reason": "魯肅傳記肅勸權不可迎操之事，劉備僅為肅激說中建議相助的對象及權遣瑜助備的背景，未載備之具體言行，不作摘錄。"
         }
       ],
       "unresolved": []
