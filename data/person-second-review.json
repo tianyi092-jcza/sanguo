@@ -91885,6 +91885,33 @@
           "from": "關羽驍銳，乘利而進",
           "through": "必將為患",
           "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳》"
+        },
+        {
+          "id": "guanyu-zhangliao-fancheng-zhao-huan",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 6,
+          "from": "關羽圍曹仁於樊",
+          "through": "仁圍解",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
+        },
+        {
+          "id": "guanyu-yuejin-xiangyang-ji-guan",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 10,
+          "from": "留屯襄陽，擊關羽、蘇非等",
+          "through": "皆走之",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
+        },
+        {
+          "id": "guanyu-yujin-fancheng-shuiyan-jiang",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 14,
+          "from": "秋，大霖雨，漢水溢，平地水數丈，禁等七軍皆沒",
+          "through": "禁遂降，惟龐悳不屈節而死",
+          "citation": "《三國志·魏書十七·張樂于張徐傳》"
         }
       ],
       "exclusions": [
