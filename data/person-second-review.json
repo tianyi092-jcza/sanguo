@@ -89714,6 +89714,33 @@
           "from": "先主外出，亮常鎮守成都，足食足兵。",
           "through": "先主外出，亮常鎮守成都，足食足兵。",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-jianxing-wugong-shu-zhan",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 27,
+          "from": "建興十二年，亮出武功，與兄瑾書曰：「瞻今已八歲而聦慧可愛，嫌其早成，恐不為重器耳。」",
+          "through": "建興十二年，亮出武功，與兄瑾書曰：「瞻今已八歲而聦慧可愛，嫌其早成，恐不為重器耳。」",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-huangzhong-rank-advice",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 19,
+          "from": "諸葛亮說先主曰：「忠之名望，素非關、馬之倫也。而今便令同列。馬、張在近，親見其功，尚可喻指；關遙聞之，恐必不恱，得無不可乎！」",
+          "through": "諸葛亮說先主曰：「忠之名望，素非關、馬之倫也。而今便令同列。馬、張在近，親見其功，尚可喻指；關遙聞之，恐必不恱，得無不可乎！」",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·黃忠傳》"
+        },
+        {
+          "id": "zhugeliang-zhaoyun-rushu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "from": "亮率雲與張飛等俱泝江西上，平定郡縣。",
+          "through": "亮率雲與張飛等俱泝江西上，平定郡縣。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·趙雲傳》"
         }
       ],
       "exclusions": [
