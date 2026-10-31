@@ -92020,6 +92020,33 @@
           "from": "別遣關羽乘船數百艘",
           "through": "使會江陵",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-hanjin-zhouhui",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "先主斜趣漢津，適與羽舩會",
+          "through": "得濟沔",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-jiangling-tunshou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "使關羽屯江陵",
+          "through": "備自住潺陵",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-liushou-jingzhou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 12,
+          "from": "先主留諸葛亮、關羽等據荊州",
+          "through": "將步卒數萬人入益州",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
