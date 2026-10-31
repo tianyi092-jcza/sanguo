@@ -90635,6 +90635,15 @@
           "from": "撰蜀相諸葛亮集，奏之。",
           "through": "撰蜀相諸葛亮集，奏之。",
           "citation": "《晉書》卷八十二·陳壽傳"
+        },
+        {
+          "id": "zhugeliang-jin-limi-anlegong-kangwei",
+          "work": "jinshu",
+          "source": "a05-088-ahcb",
+          "paragraph": 5,
+          "from": "安樂公得諸葛亮而抗魏，任黃皓而喪國",
+          "through": "是知成敗一也。",
+          "citation": "《晉書》卷八十八·李密傳"
         }
       ],
       "exclusions": [
@@ -91051,6 +91060,24 @@
           "term": "諸葛亮",
           "quote": "又論魏武帝不及劉備，樂毅減於諸葛亮，詞多不載。",
           "reason": "此段為他人著論，以樂毅減於諸葛亮作高下之比，亮僅為論中比附對象，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-lihao-xunliang-yu",
+          "work": "jinshu",
+          "source": "a05-087-ahcb",
+          "paragraph": 10,
+          "term": "諸葛亮",
+          "quote": "覽諸葛亮訓勵，應璩奏諫，尋其終始，周孔之教盡在中矣。",
+          "reason": "此段為李暠勉子之言，僅引諸葛亮訓勵為範，亮僅為勉勵之範例對象，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-lixing-lijie-wen",
+          "work": "jinshu",
+          "source": "a05-088-ahcb",
+          "paragraph": 7,
+          "term": "諸葛孔明",
+          "quote": "弘立諸葛孔明、羊叔子碣，使興俱爲之文",
+          "reason": "劉弘為諸葛孔明立碣、李興為之作文字，亮僅為立碣之對象，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
