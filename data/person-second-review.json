@@ -90230,6 +90230,15 @@
           "from": "值諸葛亮出祁山，隴右三郡反，邈輙遣參軍及金城太守等擊南安賊，破之。",
           "through": "值諸葛亮出祁山，隴右三郡反，邈輙遣參軍及金城太守等擊南安賊，破之。",
           "citation": "《三國志·魏書二十七·徐胡二王傳·徐邈傳》"
+        },
+        {
+          "id": "zhugeliang-majun-liannu-wubei",
+          "work": "sanguozhi",
+          "source": "a04-029",
+          "paragraph": 24,
+          "from": "先生見諸葛亮連弩，曰：『巧則巧矣，未盡善也。』言作之可令加五倍。",
+          "through": "先生見諸葛亮連弩，曰：『巧則巧矣，未盡善也。』言作之可令加五倍。",
+          "citation": "《三國志·魏書二十九·方技傳·杜夔傳》"
         }
       ],
       "exclusions": [
@@ -90349,6 +90358,24 @@
           "term": "諸葛亮",
           "quote": "諸葛亮，重人也",
           "reason": "袁子於鄧艾滅蜀後的評論，僅以亮驟用蜀兵論小國弱民難以久存，無亮本人事實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-zhonghui-ji-mu",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 43,
+          "term": "諸葛亮",
+          "quote": "遣人祭諸葛亮之墓",
+          "reason": "鍾會伐蜀行軍段落，僅記會西出陽安口遣人祭亮墓，無亮本人事實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-zhonghui-xi-kongming",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 45,
+          "term": "諸葛孔明",
+          "quote": "諸葛孔明仍規秦川",
+          "reason": "鍾會檄蜀文追述亮規秦川、姜維出隴右，僅為勸降修辭，無亮北伐的具體事實，不作摘錄。"
         }
       ],
       "unresolved": []
