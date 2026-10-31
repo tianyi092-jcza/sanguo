@@ -88995,6 +88995,15 @@
           "from": "十一月，鄧艾帥萬餘人自陰平踰絕險至江由，破蜀將諸葛瞻於緜竹，斬瞻，傳首。進軍雒縣，劉禪降。",
           "through": "劉禪降。",
           "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "liushan-dili-anle-gong",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 70,
+          "from": "安樂國相。蜀主劉禪封此縣公。",
+          "through": "蜀主劉禪封此縣公。",
+          "citation": "《晉書·卷十四·地理志上》"
         }
       ],
       "exclusions": [
@@ -89060,6 +89069,24 @@
           "term": "劉禪",
           "quote": "賜山陽公劉康、安樂公劉禪子弟一人爲駙馬都尉。",
           "reason": "四庫本此段與 sidneyluo《晉書·卷三·武帝紀》a05-003:2 為同一詔段之異本，該本已記為 excerpt（賜安樂公劉禪子弟一人為駙馬都尉），此異本不重複摘錄。"
+        },
+        {
+          "id": "liushan-excl-diji-zan-ruchen",
+          "work": "jinshu",
+          "source": "a05-005",
+          "paragraph": 18,
+          "term": "劉禪",
+          "quote": "三關電埽，劉禪入臣",
+          "reason": "此段為帝紀中追述晉室受命、滅蜀的史臣論贊，僅以「劉禪入臣」概括降魏一事，無劉禪本人新事實；降魏經過與封安樂公已分別詳載於本傳及 a05-002:21、a04-004:77，不作摘錄。"
+        },
+        {
+          "id": "liushan-excl-ahcb-dili-anle-mirror",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 105,
+          "term": "劉禪",
+          "quote": "安樂國相。蜀主劉禪封此縣公。",
+          "reason": "四庫本此段與 sidneyluo《晉書·卷十四·地理志上》a05-014:70 為同一燕國沿革段落之異本，僅分段與空格異體，該本已記為 excerpt（安樂國相、蜀主劉禪封此縣公），此異本不重複摘錄。"
         }
       ],
       "unresolved": []
