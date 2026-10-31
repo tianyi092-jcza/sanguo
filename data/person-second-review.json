@@ -87027,6 +87027,33 @@
           "from": "孫權上書，說：「劉備支黨四萬人，馬二三千匹，出秭歸，請往埽撲，以克捷為效。」",
           "through": "孫權上書，說：「劉備支黨四萬人，馬二三千匹，出秭歸，請往埽撲，以克捷為效。」",
           "citation": "《三國志·魏書二·文帝紀》"
+        },
+        {
+          "id": "liubei-pei-xiandizhuan-zou-xiaopei",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 18,
+          "from": "及劉備走小沛，張飛隨之，",
+          "through": "及劉備走小沛，張飛隨之，",
+          "citation": "《三國志·魏書三·明帝紀》裴注引《獻帝傳》"
+        },
+        {
+          "id": "liubei-sg-kill-hanxian-yangfeng",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "暹、奉不能奉王法，各出奔，寇徐、揚閒，為劉備所殺。",
+          "through": "暹、奉不能奉王法，各出奔，寇徐、揚閒，為劉備所殺。",
+          "citation": "《三國志·魏書六·李傕郭汜傳》"
+        },
+        {
+          "id": "liubei-sg-yuanshao-aid-daidai-wangzhong-repulsed",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 21,
+          "from": "紹遣騎佐之。",
+          "through": "太祖遣劉岱、王忠擊之，不克。",
+          "citation": "《三國志·魏書六·袁紹傳》"
         }
       ],
       "exclusions": [
