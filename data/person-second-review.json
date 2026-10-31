@@ -92292,6 +92292,33 @@
           "term": "關羽",
           "quote": "賜諸葛亮、法正、飛及關羽金各五百斤，銀千斤，錢五千萬，錦千匹",
           "reason": "本段主角為張飛入蜀破嚴顏、會於成都之事，關羽僅在益州既平賞賜名單中並列一語，無關羽具體事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhangfei-zhuan-feiyu-binglun",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 12,
+          "term": "關羽",
+          "quote": "初，飛雄壯威猛，亞於關羽，魏謀臣程昱等咸稱羽、飛萬人之敵也。",
+          "reason": "本段主角為張飛（其性情、被害、追謚及子孫），關羽僅在開篇與張飛對舉比較（萬人之敵、善待卒伍而驕於士大夫），無關羽獨立事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-machao-zhuan-huzi-lizhi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 16,
+          "term": "關羽",
+          "quote": "超因見備待之厚，與備言，常呼備字，關羽怒，請殺之。",
+          "reason": "山陽公載記所載羽、飛杖刀立直事，裴松之已於同段辨其不實：羽時留鎮荊州、未嘗在益土，且羽係以書問諸葛亮超人才可比類，不得如書所云；異說不作關羽事實錄入。"
+        },
+        {
+          "id": "guanyu-excl-zhaoyun-zhuan-zhuishi-binglie",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "term": "關羽",
+          "quote": "於是關羽、張飛、馬超、龐統、黃忠及雲乃追謚，時論以為榮。",
+          "reason": "本段主角為趙雲追謚事（雲別傳載詔與姜維等議謚順平侯），關羽僅在追謚名單中並列一語，無關羽具體事蹟，不另錄。"
         }
       ],
       "unresolved": []
