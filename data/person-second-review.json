@@ -87756,6 +87756,24 @@
           "from": "劉備臨豫州，辟羣為別駕。",
           "through": "備恨不用羣言。",
           "citation": "《三國志·魏書二十二·陳羣傳》"
+        },
+        {
+          "id": "liubei-sg-chenqun-chengdu-baishui-chuanshe",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 10,
+          "from": "昔劉備自成都至白水，多作傳舍，興費人役，太祖知其疲民也。",
+          "through": "昔劉備自成都至白水，多作傳舍，興費人役，太祖知其疲民也。",
+          "citation": "《三國志·魏書二十二·陳羣傳》"
+        },
+        {
+          "id": "liubei-sg-duxi-xiahouyuan-mei",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 19,
+          "from": "夏侯淵為劉備所沒，軍喪元帥，將士失色。",
+          "through": "夏侯淵為劉備所沒，軍喪元帥，將士失色。",
+          "citation": "《三國志·魏書二十三·杜襲傳》"
         }
       ],
       "exclusions": [
@@ -88028,6 +88046,15 @@
           "term": "劉備",
           "quote": "劉備不賔於蜀",
           "reason": "此段主角為杜廙上疏勸太祖勿親征蜀，「劉備不賔於蜀」僅為廙論敵勢之辭，未載備之言行史實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-chenjiao-chendeng-jing-xuande",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 17,
+          "term": "劉玄德",
+          "quote": "雄姿傑出，有王霸之略，吾敬劉玄德",
+          "reason": "此段主角為陳矯轉述陳登之言，登列舉平生所敬五人，備僅為其中一人；僅為登對備之評價，未載備之言行史實，不摘錄。"
         }
       ],
       "unresolved": []
