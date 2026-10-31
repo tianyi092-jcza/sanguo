@@ -91822,6 +91822,24 @@
           "from": "布之被圍，關羽屢請於太祖，求以杜氏為妻",
           "through": "及城陷，太祖見之，乃自納之",
           "citation": "《三國志·魏書三·明帝紀》注引《獻帝傳》"
+        },
+        {
+          "id": "guanyu-caoren-fancheng-shuiyan-qijun",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 20,
+          "from": "關羽攻樊，時漢水暴溢，于禁等七軍皆沒，禁降羽",
+          "through": "徐晃救至，水亦稍減，晃從外擊羽，仁得潰圍出，羽退走",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "guanyu-zhongyao-weilue-sunquan-zhansong",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 3,
+          "from": "孫權稱臣，斬送關羽",
+          "through": "孫權稱臣，斬送關羽",
+          "citation": "《三國志·魏書十三·鍾繇華歆王朗傳》注引《魏略》"
         }
       ],
       "exclusions": [
@@ -91833,6 +91851,15 @@
           "term": "關羽",
           "quote": "孫權破關羽，取荊州",
           "reason": "本段主角為劉璋（劉焉傳所附），關羽僅順帶一語；荊州敗亡事實將由本傳及吳書正錄覆蓋，本段無關於羽的新史實，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-huzhao-sunlang-nanfu-shundai",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 38,
+          "term": "關羽",
+          "quote": "狼等遂南附關羽。羽授印給兵，還為寇賊",
+          "reason": "本段主角為胡昭與孫狼叛亂，關羽僅遠程授印一語；荊州強盛與樊城戰事將由本傳及武帝紀、曹仁傳正錄覆蓋，本段無關於羽生平的新史實，不另錄。"
         }
       ],
       "unresolved": []
