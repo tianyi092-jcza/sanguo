@@ -89132,6 +89132,33 @@
           "from": "四年春三月，追謚故將軍趙雲。",
           "through": "四年春三月，追謚故將軍趙雲。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-huanghou-zhangshi-hong",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 16,
+          "from": "十五年夏六月，皇后張氏薨。",
+          "through": "十五年夏六月，皇后張氏薨。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-huangtaihou-hong",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 24,
+          "from": "八年秋八月，皇太后薨。",
+          "through": "八年秋八月，皇太后薨。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-li-zi-cong-wei-xihe-wang",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 31,
+          "from": "立子琮為西河王。",
+          "through": "立子琮為西河王。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
