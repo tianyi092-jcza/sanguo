@@ -87711,6 +87711,24 @@
           "from": "太祖從散關入漢中，又先遣郃督步卒五千於前通路。",
           "through": "太祖乃引出漢中諸軍，郃還屯陳倉。",
           "citation": "《三國志·魏書十七·張郃傳》"
+        },
+        {
+          "id": "liubei-sg-xuhuang-yangping-ju-bei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 24,
+          "from": "太祖還鄴，留晃與夏侯淵拒劉備於陽平。",
+          "through": "太祖遂自至陽平，引出漢中諸軍。",
+          "citation": "《三國志·魏書十七·徐晃傳》"
+        },
+        {
+          "id": "liubei-sg-lidian-ye-fu-bei",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 2,
+          "from": "劉表使劉備北侵，至葉，太祖遣典從夏侯惇拒之。",
+          "through": "備望見救至，軍散退。",
+          "citation": "《三國志·魏書十八·李典傳》"
         }
       ],
       "exclusions": [
@@ -87920,6 +87938,15 @@
           "term": "劉備",
           "quote": "劉備以徐州叛，太祖東征之。",
           "reason": "此段主述于禁守延津拒袁紹及後續征戰，劉備僅以「以徐州叛」一句作太祖東征背景帶過，未交代叛事細節，徐州事已見本傳，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-xuhuang-shangyong-tao-bei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 25,
+          "term": "劉備",
+          "quote": "與夏侯尚討劉備於上庸，破之。",
+          "reason": "此段為徐晃晚年履歷總述，劉備僅以「討劉備於上庸」一句作對手標籤，未交代劉備本人行動與上庸事細節，上庸事已見本傳及相關人物傳，不摘錄。"
         }
       ],
       "unresolved": []
