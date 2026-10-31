@@ -87702,6 +87702,15 @@
           "from": "太祖征劉備，先遣逵至斜谷觀形勢。",
           "through": "太祖征劉備，先遣逵至斜谷觀形勢。",
           "citation": "《三國志·魏書十五·賈逵傳》"
+        },
+        {
+          "id": "liubei-sg-zhanghe-hanzhong-ju-bei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 17,
+          "from": "太祖從散關入漢中，又先遣郃督步卒五千於前通路。",
+          "through": "太祖乃引出漢中諸軍，郃還屯陳倉。",
+          "citation": "《三國志·魏書十七·張郃傳》"
         }
       ],
       "exclusions": [
@@ -87893,6 +87902,24 @@
           "term": "劉備",
           "quote": "孫權始遣使稱藩，而與劉備交兵",
           "reason": "此段主述王朗建安末議興師與吳并取蜀之計，劉備僅以「與劉備交兵」「蜀賊」作背景帶過，無劉備具體行動、繫年細節或本傳以外的新事實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-zhangliao-fuzi-liubiao-bei-xu",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 3,
+          "term": "劉備",
+          "quote": "若劉表遣劉備襲許，據之以號令四方",
+          "reason": "此段主述張遼從征袁譚袁尚及柳城事，劉備僅在傅子引遼諫中作假設性威脅提及，未實際襲許，太祖亦判定劉表必不能任備，無劉備具體行動或本傳以外的新事實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-yujin-xuzhou-pan-bei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "term": "劉備",
+          "quote": "劉備以徐州叛，太祖東征之。",
+          "reason": "此段主述于禁守延津拒袁紹及後續征戰，劉備僅以「以徐州叛」一句作太祖東征背景帶過，未交代叛事細節，徐州事已見本傳，不摘錄。"
         }
       ],
       "unresolved": []
