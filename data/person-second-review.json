@@ -85112,9 +85112,37 @@
           "from": "交阯太守士燮遣兵致討",
           "through": "卒不能克。",
           "citation": "《三國志·吳書八·張嚴程闞薛傳》薛綜傳"
+        },
+        {
+          "id": "shixie-zu-lvdai-dingjiao",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 24,
+          "from": "交阯太守士燮卒，權以燮子徽為安遠將軍",
+          "through": "以校尉陳時代燮。",
+          "citation": "《三國志·吳書十五·賀全呂周鍾離傳》呂岱傳"
+        },
+        {
+          "id": "shixie-jianan8-gongbiao-lizhou",
+          "work": "jinshu",
+          "source": "a05-015",
+          "paragraph": 62,
+          "from": "建安八年，張津為刺史，士燮為交阯太守，共表立為州",
+          "through": "乃拜津為交州牧。",
+          "citation": "《晉書·卷十五·志第五》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "shixie-excl-jin-dili-mirror",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 115,
+          "term": "士燮",
+          "quote": "建安八年，張津爲刺史，士燮爲交阯太守，共表立爲州，乃拜津爲交州牧。",
+          "reason": "與《晉書》卷十五 sidneyluo 本 a05-015:62 同段異本，內容重複，已於 a05-015:62 摘錄，不重複計入。"
+        }
+      ],
       "unresolved": []
     }
   ]
