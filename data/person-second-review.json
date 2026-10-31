@@ -88833,15 +88833,21 @@
     {
       "id": "p0128",
       "name": "劉禪",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "共錄正摘錄 64 條（本輪補本傳第 32、34 段：延熙十六年費禕為郭循所殺、姜維圍南安不克；延熙十八年姜維出狄道、洮西大破王經），排除 13 條，未解決 0 條；本輪向量候選 0 段，已枯竭。",
+        "辨人：劉禪字公嗣，先主子，與其父劉備、子劉諶及同卷合傳人物嚴格區分；後主本紀條目雖主角多為姜維、費禕等將相，仍按本紀記事體例錄為後主朝事，不把將相個人生平記入其名下；魏略幼年相失、為人所賣異說已按裴注案駁列為排除。",
+        "生平繫年：建安二十四年立為王太子，章武三年（223 年）即位；延熙、景耀年間姜維屢次北伐、黃皓專政；炎興元年（263 年）用譙周策降於鄧艾，舉家東遷，封安樂公。",
+        "本傳補齊：本傳《三國志》卷三十三（a04-033）共 45 段，本輪補最後未覆蓋段 32、34 後全部覆蓋；向量候選枯竭、未解決為 0，遂收尾。",
+        "生卒：生 207 年，卒泰始七年（271 年）。"
+      ],
       "excerpts": [
         {
           "id": "liushan-anle-gong-feng",
@@ -89401,6 +89407,24 @@
           "paragraph": 29,
           "from": "十三年，姜維復出西平，不克而還。",
           "through": "十三年，姜維復出西平，不克而還。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-shiliu-feiyi-beisha-jiangwei-weinan",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 32,
+          "from": "十六年春正月，大將軍費禕為魏降人郭循所殺于漢壽。夏四月，衞將軍姜維復率衆圍南安，不克而還。",
+          "through": "十六年春正月，大將軍費禕為魏降人郭循所殺于漢壽。夏四月，衞將軍姜維復率衆圍南安，不克而還。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-shiba-jiangwei-didao-taoxi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 34,
+          "from": "十八年春，姜維還成都。夏，復率諸軍出狄道，與魏雍州刺史王經戰于洮西，大破之。經退保狄道城，維却住鍾題。",
+          "through": "十八年春，姜維還成都。夏，復率諸軍出狄道，與魏雍州刺史王經戰于洮西，大破之。經退保狄道城，維却住鍾題。",
           "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
