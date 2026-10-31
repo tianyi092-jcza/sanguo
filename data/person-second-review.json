@@ -90761,6 +90761,24 @@
           "from": "亮知羽忌前答曰孟起黥彭之徒一世之桀",
           "through": "亮知羽忌前答曰孟起黥彭之徒一世之桀",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-zhuanyue-pingliang",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 33,
+          "from": "譔曰諸葛亮雖資英覇之能",
+          "through": "猶可自保",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-hezhi-lanba-xiuyi",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 22,
+          "from": "是以西土咸服諸葛亮之能攬㧞秀異也",
+          "through": "是以西土咸服諸葛亮之能攬㧞秀異也",
+          "citation": "《華陽國志》卷十·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -91240,6 +91258,15 @@
           "term": "諸葛亮",
           "quote": "權曰君之誠懇乃至於此書與亮曰",
           "reason": "段落主體為鄧芝使吳、說孫權聯蜀，亮僅在芝言與權書中被提及，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-siying-bingcheng",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 18,
+          "term": "諸葛亮",
+          "quote": "蜀人以諸葛亮蔣",
+          "reason": "段落主體為董允立朝事蹟，亮僅與蔣琬、費禕、董允並稱「四相」「四英」，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
