@@ -90032,6 +90032,33 @@
           "from": "魏黄初二年也春太傅許靖安漢將軍糜竺軍師將",
           "through": "軍諸葛亮太常賴恭光禄勲黄權少府王謀等乃勸",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-limiao-qingmian",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 51,
+          "from": "諸葛亮爲請得兔",
+          "through": "丞相參軍安漢将",
+          "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hhs-liuqi-wenji",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 23,
+          "from": "而琦不自寧，甞與琅邪人諸葛亮謀自安之術",
+          "through": "亮曰：「君不見申生在內而危，重耳居外而安乎？」",
+          "citation": "《後漢書》卷七十四下·劉表傳"
+        },
+        {
+          "id": "zhugeliang-hhs-qinmi-wenfu",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 17,
+          "from": "蜀丞相諸葛亮問廣漢秦密，董扶及任安所長",
+          "through": "忘人之過」云",
+          "citation": "《後漢書》卷八十二下·董扶傳"
         }
       ],
       "exclusions": [
