@@ -85794,6 +85794,33 @@
           "term": "士徽",
           "quote": "恪征行之後，曹所奏署令長職司，一罷更選",
           "reason": "諸葛恪本傳段落，敘恪征行後罷易曹所奏署令長、治威嚴事，與士徽無關；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-lvdai-qingshen",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 27,
+          "term": "士徽",
+          "quote": "岱清身奉公，所在可述",
+          "reason": "呂岱本傳段落，敘岱清身奉公、孫權賜錢米布絹事，與士徽無關；僅因呂岱事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-chenmin",
+          "work": "jinshu",
+          "source": "a05-068-ahcb",
+          "paragraph": 29,
+          "term": "士徽",
+          "quote": "及陳敏之亂，詐稱詔書，以循爲丹楊內史",
+          "reason": "晉書段落，敘陳敏之亂、顧循辭丹楊內史事，與士徽無關；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-liudai",
+          "work": "houhanshu",
+          "source": "a03-076",
+          "paragraph": 57,
+          "term": "士徽",
+          "quote": "董卓入洛陽，岱從侍中出為兖州刺史",
+          "reason": "後漢書段落，敘劉岱出為兖州刺史、初平三年戰死事，與士徽無關；僅因岱字事件向量誤觸。"
         }
       ],
       "unresolved": []
