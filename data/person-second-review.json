@@ -85130,6 +85130,15 @@
           "from": "建安八年，張津為刺史，士燮為交阯太守，共表立為州",
           "through": "乃拜津為交州牧。",
           "citation": "《晉書·卷十五·志第五》"
+        },
+        {
+          "id": "shixie-pingyue-shou-nanyue",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 21,
+          "from": "士燮作守南越，優游終世",
+          "through": "使之然也。",
+          "citation": "《三國志·吳書四·劉繇太史慈士燮傳》"
         }
       ],
       "exclusions": [
@@ -85141,6 +85150,24 @@
           "term": "士燮",
           "quote": "建安八年，張津爲刺史，士燮爲交阯太守，共表立爲州，乃拜津爲交州牧。",
           "reason": "與《晉書》卷十五 sidneyluo 本 a05-015:62 同段異本，內容重複，已於 a05-015:62 摘錄，不重複計入。"
+        },
+        {
+          "id": "shixie-excl-bianwanglun",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "士燮",
+          "quote": "士燮蒙險而效命",
+          "reason": "晉人陸機《辨亡論》後世論述，僅以「蒙險而效命」修辭概括歸附，不載具體史實；歸附事已於步騭傳 a04-052:31 與薛綜傳 a04-053:17 摘錄，不重複計入。"
+        },
+        {
+          "id": "shixie-excl-biaomu",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 13,
+          "term": "士燮",
+          "quote": "士燮",
+          "reason": "僅為太史慈傳與士燮傳之間的本傳篇目二字，無敘事內容，不單獨立條；士燮傳正文已於 a04-049:14 摘錄。"
         }
       ],
       "unresolved": []
