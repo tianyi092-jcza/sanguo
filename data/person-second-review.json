@@ -90275,6 +90275,24 @@
           "from": "諸葛亮、張飛、趙雲等將兵泝流定白帝、江州、江陽",
           "through": "諸葛亮、張飛、趙雲等將兵泝流定白帝、江州、江陽",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zhugeliang-longzhong-dui",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 1,
+          "from": "亮荅曰：「自董卓已來，豪傑並起",
+          "through": "誠如是，則霸業可成，漢室可興矣。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-lunshe-zhishi-dade",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 44,
+          "from": "華陽國志曰：丞相亮時，有言公惜赦者，亮荅曰",
+          "through": "若劉景升、季玉父子，歲歲赦宥，何益於治！",
+          "citation": "《三國志·蜀書三·後主傳》"
         }
       ],
       "exclusions": [
@@ -90430,6 +90448,15 @@
           "term": "諸葛亮",
           "quote": "及其舉國託孤於諸葛亮，而心神無貳",
           "reason": "陳壽評曰的史論讚譽，託孤事實已另錄（a04-032:24），此段無新的具體事實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-wenwang-jiashe-ping",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 43,
+          "term": "諸葛亮",
+          "quote": "雖使諸葛亮在，不能輔之乆全",
+          "reason": "漢晉春秋引文借司馬文王之口作假設評論，非亮本人事蹟；本段主體為劉禪東遷受封安樂公，與亮無直接具體事實，不作摘錄。"
         }
       ],
       "unresolved": []
