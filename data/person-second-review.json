@@ -88950,6 +88950,24 @@
           "from": "劉禪遣使奉皇帝璽綬",
           "through": "為箋詣艾請降。",
           "citation": "《三國志·魏書二十八·鄧艾傳》"
+        },
+        {
+          "id": "liushan-dengai-hou-shan-fufeng",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 32,
+          "from": "今宜厚劉禪以致孫休",
+          "through": "以顯歸命之寵。",
+          "citation": "《三國志·魏書二十八·鄧艾傳》"
+        },
+        {
+          "id": "liushan-yi-ai-jiang-chi-wei",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 46,
+          "from": "艾進軍向成都，劉禪詣艾降",
+          "through": "遣使勑維等令降於會。",
+          "citation": "《三國志·魏書二十八·鄧艾傳》"
         }
       ],
       "exclusions": [
@@ -88979,6 +88997,15 @@
           "term": "劉禪",
           "quote": "劉禪建興二年，改益州郡爲建寧郡，廣漢屬國爲陰平郡，分建寧永昌立雲南郡，分建寧牂柯立興古郡，分廣漢立東廣漢郡。",
           "reason": "與 sidneyluo 本《晉書》卷十四地理志第 129 段同一益州沿革段落，僅為四庫全書本異文重出，同一事實已按底本錄為摘錄，不重複計。"
+        },
+        {
+          "id": "liushan-excl-zhangfan-ruoruo-ping",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 45,
+          "term": "劉禪",
+          "quote": "張璠以為譙周所陳降魏之策，蓋素料劉禪懦弱，心無害戾，故得行也。",
+          "reason": "張璠於評曰中論譙周降魏之策以劉禪懦弱為前提，僅為後人對降策可行性的評價，無劉禪本人新事實，且降魏經過本傳炎興元年段已詳載，不作摘錄。"
         }
       ],
       "unresolved": []
