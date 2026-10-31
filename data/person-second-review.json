@@ -87342,6 +87342,24 @@
           "from": "黃武元年，劉備舉兵攻宜都，然督五千人與陸遜并力拒備",
           "through": "備遂破走。",
           "citation": "《三國志·吳書十一·朱治朱然呂範朱桓傳第十一 朱然傳》"
+        },
+        {
+          "id": "liubei-sg-yiling-luxun-baidi",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 8,
+          "from": "備升馬鞍山，陳兵自繞",
+          "through": "僅得入白帝城。",
+          "citation": "《三國志·卷五十八 ‧ 吳書十三　陸遜傳第十三 陸遜傳》"
+        },
+        {
+          "id": "liubei-jin-dili-zhangwu-hukou",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 6,
+          "from": "劉備章武元年，亦以郡國封建諸王",
+          "through": "其戶二十萬，男女口九十萬。",
+          "citation": "《晉書》卷十四·地理志"
         }
       ],
       "exclusions": [
@@ -87407,6 +87425,15 @@
           "term": "劉備",
           "quote": "會劉備東下",
           "reason": "步隲傳記其上益陽、征討零桂驚擾之事，劉備僅為東下背景一語，備敗績亦無新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-quancong-fanxiang",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 14,
+          "term": "劉備",
+          "quote": "建安二十四年，劉備將關羽圍樊、襄陽",
+          "reason": "全琮傳記全琮獻討關羽之計並其後受封，劉備僅為關羽圍樊、襄陽的背景一語，關羽圍樊之事已有本傳及他傳摘錄，無劉備本人新事實，不作摘錄。"
         }
       ],
       "unresolved": []
