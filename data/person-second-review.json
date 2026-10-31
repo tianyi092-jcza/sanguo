@@ -86774,15 +86774,21 @@
     {
       "id": "p0127",
       "name": "劉備",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "共錄正摘錄 167 條（本輪補本傳第 25 段正文：諸葛亮上言、昭烈謚號、惠陵葬事），排除 59 條（本輪同段葛洪《神仙傳》李意其預言軼事列為排除），未解決 0 條；本輪向量候選 0 段，已枯竭。",
+        "辨人：劉備字玄德，與其子劉禪（後主）、關羽張飛及劉表劉璋等宗室人物嚴格區分；本傳段 25 正文主角為諸葛亮上言與先主身後事，裴注神仙傳軼事分層排除，不併入正文摘錄。",
+        "生平繫年：章武三年（223 年）病篤於永安、託孤諸葛亮，時年六十三；五月梓宮自永安還成都，謚曰昭烈皇帝，秋八月葬惠陵。",
+        "本傳補齊：本傳《三國志》卷三十二（a04-032）共 27 段，本輪補最後未覆蓋段 25 後全部覆蓋；向量候選枯竭、未解決為 0，遂收尾。",
+        "生卒：生 161 年，卒章武三年（223 年）永安病篤，謚昭烈皇帝，葬惠陵。"
+      ],
       "excerpts": [
         {
           "id": "liubei-hhs-liubiao-seat-chenyuanlong",
@@ -88278,6 +88284,15 @@
           "from": "先主病篤，託孤於丞相亮，尚書令李嚴為副。",
           "through": "時年六十三。",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "liubei-sg-liang-shangyan-shihao-huiling",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 25,
+          "from": "亮上言於後主曰",
+          "through": "秋，八月，葬惠陵。",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
@@ -88802,6 +88817,15 @@
           "term": "劉備",
           "quote": "劉備託身國家委將軍以疆埸之任",
           "reason": "此段主述孟達叛魏歸蜀、宣王喻達，劉備僅在宣王致孟達書中以「昔棄劉備」一語追述孟達歸魏背景；同文已於晉書本排除（a05-001-ahcb 第 16 段、a05-001 第 8 段），未載劉備本人新事實，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-sg-shenxian-liyiqi-yuyan",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 25,
+          "term": "先主",
+          "quote": "先主欲伐吳，遣人迎意其",
+          "reason": "葛洪《神仙傳》所載李意其方士預言軼事（畫兵馬器仗裂壞、畫大人埋地以寓先主死），屬神仙家後世附會，非正史實錄；先主伐吳大敗、病死永安事實已於本傳第 24 段摘錄，不重複摘錄。"
         }
       ],
       "unresolved": []
