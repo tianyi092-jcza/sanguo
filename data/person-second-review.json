@@ -87378,6 +87378,15 @@
           "from": "劉備據蜀，又分廣漢之葭萌、涪城、梓潼、白水四縣",
           "through": "以縣並屬巴西郡。",
           "citation": "《晉書》卷十四·地理志"
+        },
+        {
+          "id": "liubei-jin-dili-jingzhou-yidu-fu-wu",
+          "work": "jinshu",
+          "source": "a05-015",
+          "paragraph": 18,
+          "from": "蜀分南郡，立宜都郡，劉備沒後，宜都、武陵、零陵、南郡四郡之地悉復屬吳。",
+          "through": "蜀分南郡，立宜都郡，劉備沒後，宜都、武陵、零陵、南郡四郡之地悉復屬吳。",
+          "citation": "《晉書》卷十五·地理志"
         }
       ],
       "exclusions": [
@@ -87461,6 +87470,24 @@
           "term": "劉備",
           "quote": "劉備章武元年，亦以郡國封建諸王",
           "reason": "此段章武元年封建諸王及戶口數與已摘錄的 a05-014-ahcb 第 6 段同文異本重出，無劉備本人新事實，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-dili-yizhou-guling-mirror",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 129,
+          "term": "劉備",
+          "quote": "二十一年，劉備分巴郡立固陵郡。蜀章武元年，又改固陵為巴東郡",
+          "reason": "此段益州郡縣沿革與已摘錄的 a05-014-ahcb 第 209 段同文異本重出，劉備分巴立固陵及章武改置內容已見彼段，無新事實，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-dili-jingzhou-mirror",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 30,
+          "term": "劉備",
+          "quote": "蜀分南郡，立宜都郡，劉備沒後，宜都、武陵、零陵、南郡四郡之地悉復屬吳。",
+          "reason": "此段荊州沿革與本輪摘錄的 a05-015 第 18 段同文異本重出，僅縣數與用字小異，無劉備新事實，不重複摘錄。"
         }
       ],
       "unresolved": []
