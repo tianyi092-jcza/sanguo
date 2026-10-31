@@ -84755,7 +84755,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "menghuo-pei-qizong-qin",
+          "work": "peizhu",
+          "source": "a04-035",
+          "paragraph": 6,
+          "from": "聞孟獲者，為夷、漢所服",
+          "through": "南人不復反矣。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "menghuo-pei-shehuo",
+          "work": "peizhu",
+          "source": "a04-039",
+          "paragraph": 10,
+          "from": "亮納其策",
+          "through": "南方不敢復反。",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳》裴注引《襄陽記》"
+        },
+        {
+          "id": "menghuo-huayang-qilu-qishe",
+          "work": "huayang",
+          "source": "a06-004",
+          "paragraph": 7,
+          "from": "孟獲代闓為主",
+          "through": "邊民長不為惡矣",
+          "citation": "《華陽國志·卷四》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
