@@ -85157,6 +85157,33 @@
           "from": "建安十五年，孫權遣步隲為交州刺史",
           "through": "黃武五年，年九十卒。",
           "citation": "《三國志·吳書四·劉繇太史慈士燮傳》士燮傳"
+        },
+        {
+          "id": "shixie-biao-yi-ling-hepu",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 15,
+          "from": "燮乃表壹領合浦太守",
+          "through": "䵋弟武，領南海太守。",
+          "citation": "《三國志·吳書四·劉繇太史慈士燮傳》士燮傳"
+        },
+        {
+          "id": "shixie-tiji-kuanhou",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 16,
+          "from": "燮體器寬厚",
+          "through": "為之注解。",
+          "citation": "《三國志·吳書四·劉繇太史慈士燮傳》士燮傳"
+        },
+        {
+          "id": "shixie-xiongdi-liejun",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 17,
+          "from": "燮兄弟並為列郡",
+          "through": "尉他不足踰也。",
+          "citation": "《三國志·吳書四·劉繇太史慈士燮傳》士燮傳"
         }
       ],
       "exclusions": [
