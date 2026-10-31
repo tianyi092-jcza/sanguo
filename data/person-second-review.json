@@ -87974,6 +87974,33 @@
           "term": "劉備",
           "quote": "授聘兵，使與曹純追討劉備於長阪。",
           "reason": "此段為文聘履歷，劉備僅以長阪被追討的對象出現，未交代劉備本人行動與長阪事細節，長阪事已見本傳及相關人物傳，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-pangde-ma-yu-yongcai",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 29,
+          "term": "劉備",
+          "quote": "汝劉備庸才耳，豈能敵邪！",
+          "reason": "此段為龐悳傳，述悳守樊、力戰被擒、罵關羽不降而死；劉備僅在悳罵羽之語中被提及為羽所事之主，未交代劉備本人行動與樊城事細節，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-caozhang-weilue-hanzhong-zhao-zhang",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 2,
+          "term": "劉備",
+          "quote": "劉備栖於山頭，使劉封下挑戰",
+          "reason": "此段為曹彰傳，主述彰北征烏丸及太祖召彰事；魏略所載劉備栖山頭、使劉封挑戰僅為太祖召彰之背景交代，漢中對峙事本傳已載主幹，不另摘錄。"
+        },
+        {
+          "id": "liubei-excl-wangcan-zhu-bei-longyou-weishuo",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 2,
+          "term": "劉備",
+          "quote": "逐劉備於隴右",
+          "reason": "此段為王粲勸劉琮歸曹之辭（文士傳所載），「逐劉備於隴右」一句已為裴注所駁：備身未嘗涉於關、隴，屬張隲假偽之辭，不可當作劉備史實；且本段主角為王粲，不摘錄。"
         }
       ],
       "unresolved": []
