@@ -86204,15 +86204,21 @@
     {
       "id": "p0125",
       "name": "董承",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "共錄正摘錄 24 條（《後漢書》12、《三國志》10、《晉書》1、《華陽國志》1），排除 28 條，未解決 0 條；本輪向量候選僅餘 1 條，已枯竭。",
+        "辨人：董承為車騎將軍、衣帶詔主謀，與楊奉、李傕等同卷人物及服制、詔書用語誤觸段落嚴格區分；未提董承亦無衣帶詔事者一律排除。",
+        "勢力繫年：初從獻帝東歸、與楊奉等破李傕，後受衣帶密詔謀誅曹操，建安五年（200 年）謀洩受誅；各階段按段落繫年分開，不整段一刀切。",
+        "本傳補齊：董承無三國志本傳配置（檢索配置 bio_files 為空），無本傳待補段落；向量候選枯竭、未解決為 0，遂收尾。",
+        "生卒：卒建安五年（200 年），謀洩受誅；生年無確載，不妄定。"
+      ],
       "excerpts": [
         {
           "id": "dongcheng-hhs-fengying-pojue",
@@ -86674,6 +86680,15 @@
           "term": "衣帶詔",
           "quote": "却非冠，制似長冠",
           "reason": "本段為後漢書輿服志論却非冠形制與門吏僕射冠之，全段未提董承、亦無衣帶詔事，僅因服制段落與檢索向量相似誤觸，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-sanguozhi-juan4-simayan-zhaozhi",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 61,
+          "term": "衣帶詔",
+          "quote": "請自今殿下令書，皆稱詔制，如先代故事。",
+          "reason": "本段為三國志魏書卷四論魏末禪代：司馬炎北迎常道鄉公、群公奏請令書稱詔制，全段未提董承、亦無衣帶詔事，僅因「詔制」用語與檢索向量相似誤觸，故排除。"
         }
       ],
       "unresolved": []
