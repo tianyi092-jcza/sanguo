@@ -86213,7 +86213,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "dongcheng-hhs-fengying-pojue",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "楊奉、董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑",
+          "through": "與李傕等戰，破之。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "dongcheng-hhs-fuguo-jiangjun",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 9,
+          "from": "封衞將軍董承為輔國將軍",
+          "through": "伏完等十三人為列侯，",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "dongcheng-hhs-cheqi-jiangjun",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 12,
+          "from": "衞將軍董承為車騎將軍",
+          "through": "衞將軍董承為車騎將軍。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
