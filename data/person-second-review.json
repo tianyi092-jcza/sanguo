@@ -89822,6 +89822,33 @@
           "from": "諸葛亮集有嚴與亮書，勸亮宜受九錫，進爵稱王。",
           "through": "若滅魏斬叡，帝還故居，與諸子並升，雖十命可受，況於九邪！」",
           "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·李嚴傳》"
+        },
+        {
+          "id": "zhugeliang-liping-duyun-shizhi",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "from": "九年春，亮軍祁山，平催督運事。",
+          "through": "平辭窮情竭，首謝罪負。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·李嚴傳》"
+        },
+        {
+          "id": "zhugeliang-weiyan-renyong-beifa",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 23,
+          "from": "五年，諸葛亮駐漢中，更以延為督前部，領丞相司馬、涼州刺史",
+          "through": "遷為前軍師征西大將軍，假節，進封南鄭侯。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·魏延傳》"
+        },
+        {
+          "id": "zhugeliang-wanglian-jian-nanzheng",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 4,
+          "from": "時南方諸郡不賔，諸葛亮將自征之",
+          "through": "故停留者乆之。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·王連傳》"
         }
       ],
       "exclusions": [
