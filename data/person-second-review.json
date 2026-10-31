@@ -90167,6 +90167,24 @@
           "from": "後十餘日，諸軍上隴，諸葛亮破走。",
           "through": "後十餘日，諸軍上隴，諸葛亮破走。",
           "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳·張旣傳》"
+        },
+        {
+          "id": "zhugeliang-mengjian-xue-qishan",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 25,
+          "from": "少與諸葛亮俱遊學。亮後出祁山，荅司馬宣王書，使杜子緒宣意於公威也。",
+          "through": "少與諸葛亮俱遊學。亮後出祁山，荅司馬宣王書，使杜子緒宣意於公威也。",
+          "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳·溫恢傳》"
+        },
+        {
+          "id": "zhugeliang-zhanghe-jieting",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 18,
+          "from": "諸葛亮出祁山。加郃位特進，遣督諸軍，拒亮將馬謖於街亭。謖依阻南山，不下據城。郃絕其汲道，擊，大破之。",
+          "through": "諸葛亮出祁山。加郃位特進，遣督諸軍，拒亮將馬謖於街亭。謖依阻南山，不下據城。郃絕其汲道，擊，大破之。",
+          "citation": "《三國志·魏書十七·張樂于張徐傳·張郃傳》"
         }
       ],
       "exclusions": [
@@ -90241,6 +90259,15 @@
           "term": "諸葛亮",
           "quote": "諸葛亮據渭南",
           "reason": "四庫本此段前半與 sidneyluo 本 a05-013:6 同文（僅分段與個別用字異），以 sidneyluo 本為準，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-zhangji-son-shangbian",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 20,
+          "term": "諸葛亮",
+          "quote": "會諸葛亮出，緝上便宜",
+          "reason": "張既子張緝傳附載僅以諸葛亮出為緝上便宜的背景，無亮出兵的具體事實，不作摘錄。"
         }
       ],
       "unresolved": []
