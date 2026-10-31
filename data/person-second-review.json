@@ -91858,6 +91858,33 @@
           "from": "及關羽圍曹仁於樊",
           "through": "羽乃破敗",
           "citation": "《三國志·魏書十四·程昱郭嘉董昭劉曄蔣濟劉放傳》"
+        },
+        {
+          "id": "guanyu-liuye-yu-bei-fawu-baochou",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 32,
+          "from": "且關羽與備，義為君臣，恩猶父子",
+          "through": "後備果出兵擊吳",
+          "citation": "《三國志·魏書十四·程昱郭嘉董昭劉曄蔣濟劉放傳》"
+        },
+        {
+          "id": "guanyu-jiangji-quanwu-xi-houfang",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 37,
+          "from": "關羽圍樊、襄陽",
+          "through": "羽遂見禽",
+          "citation": "《三國志·魏書十四·程昱郭嘉董昭劉曄蔣濟劉放傳》"
+        },
+        {
+          "id": "guanyu-wenhui-yu-fancheng-zhi-huan",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 23,
+          "from": "關羽驍銳，乘利而進",
+          "through": "必將為患",
+          "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳》"
         }
       ],
       "exclusions": [
