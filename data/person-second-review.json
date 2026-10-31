@@ -86883,6 +86883,33 @@
           "through": "建安二十二年，劉備以為郡。",
           "context": "梓潼地道記「五婦山，馳水出」。",
           "citation": "《後漢書·志第二十三·郡國五》"
+        },
+        {
+          "id": "liubei-sg-garrison-gaotang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "from": "瓚使劉備屯高唐，單經屯平原，陶謙屯發干，以逼紹。",
+          "through": "太祖與紹會擊，皆破之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-tan-east-intercept",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 8,
+          "from": "還過郯，謙將曹豹與劉備屯郯東，要太祖。",
+          "through": "太祖擊破之，遂攻拔襄賁，所過多所殘戮。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-succeed-taoqian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 8,
+          "from": "陶謙死，劉備代之。",
+          "through": "陶謙死，劉備代之。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "exclusions": [
