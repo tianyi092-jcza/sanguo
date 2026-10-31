@@ -92119,6 +92119,15 @@
           "from": "建安十六年，益州牧劉璋遣法正迎先主",
           "through": "亮與關羽鎮荊州",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "guanyu-ben-zhuan-zaoqi-shi-liubei",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 1,
+          "from": "關羽字雲長，本字長生，河東解人也",
+          "through": "隨先主周旋，不避艱險",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
         }
       ],
       "exclusions": [
@@ -92238,6 +92247,24 @@
           "term": "關羽",
           "quote": "吳更違盟，關羽毀敗",
           "reason": "本段為亮北伐上言，追述先帝以來敗局（吳違盟、關羽毀敗、秭歸蹉跌、曹丕稱帝）以論進取之勢；關羽毀敗僅為背景追述，無關羽新增事蹟，其事已見本傳，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-yuanzi-zhuge-zhuishu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 30,
+          "term": "關羽",
+          "quote": "張飛、關羽與劉備俱起，爪牙腹心之臣，而武人也",
+          "reason": "本段為袁子論諸葛亮（附於諸葛亮傳末），關羽僅與張飛並提為與劉備俱起之爪牙腹心，無關羽新增事蹟，其早年從劉備事已見本傳，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-guanyu-zhuan-timu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 0,
+          "term": "關羽",
+          "quote": "關羽傳",
+          "reason": "本段僅為本傳篇目題名，無事蹟內容，不另錄。"
         }
       ],
       "unresolved": []
