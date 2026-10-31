@@ -87747,6 +87747,15 @@
           "from": "太祖語劉備，令語霸送二人首。",
           "through": "乃皆以翕、暉為郡守。",
           "citation": "《三國志·魏書十八·臧霸傳》"
+        },
+        {
+          "id": "liubei-sg-chenqun-biejia-dong-xuzhou",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 5,
+          "from": "劉備臨豫州，辟羣為別駕。",
+          "through": "備恨不用羣言。",
+          "citation": "《三國志·魏書二十二·陳羣傳》"
         }
       ],
       "exclusions": [
@@ -88001,6 +88010,24 @@
           "term": "劉備",
           "quote": "逐劉備於隴右",
           "reason": "此段為王粲勸劉琮歸曹之辭（文士傳所載），「逐劉備於隴右」一句已為裴注所駁：備身未嘗涉於關、隴，屬張隲假偽之辭，不可當作劉備史實；且本段主角為王粲，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-ruanyu-shu-yu-bei",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 7,
+          "term": "劉備",
+          "quote": "使瑀作書與劉備",
+          "reason": "此段主角為阮瑀，裴注引典略僅言太祖使瑀作書與劉備，未載書信內容與備之言行，僅為阮瑀事蹟之旁及，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-duyi-shu-bei-bu-bin",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 22,
+          "term": "劉備",
+          "quote": "劉備不賔於蜀",
+          "reason": "此段主角為杜廙上疏勸太祖勿親征蜀，「劉備不賔於蜀」僅為廙論敵勢之辭，未載備之言行史實，不摘錄。"
         }
       ],
       "unresolved": []
