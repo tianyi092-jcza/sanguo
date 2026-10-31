@@ -89049,6 +89049,35 @@
           "from": "三年夏四月，先主殂于永安宮。",
           "through": "是歲魏黃初四年也。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-wu-zhao-shouliang",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 6,
+          "from": "諸葛丞相弘毅忠壯，忘身憂國，先帝託以天下，以勗朕躬。",
+          "through": "克復舊都，在此行也。",
+          "context": "五年春，丞相亮出屯漢中，營沔北陽平石馬。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-shisi-zhi-jian",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 15,
+          "from": "登觀阪，看汶水之流，",
+          "through": "旬日還成都。",
+          "context": "十四年夏四月，後主至湔，",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-pingyue-renxian-huoyan",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 44,
+          "from": "後主任賢相則為循理之君，惑閹豎則為昏闇之后，",
+          "through": "信矣哉！",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
