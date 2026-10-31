@@ -90941,6 +90941,24 @@
           "from": "青龍二年春，亮帥衆出武功，分兵屯田，為乆駐之基。其秋病卒，黎庶追思，以為口實。",
           "through": "青龍二年春，亮帥衆出武功，分兵屯田，為乆駐之基。其秋病卒，黎庶追思，以為口實。",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-ping-qishan-muniu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 13,
+          "from": "九年，亮復出祁山，以木牛運，",
+          "through": "九年，亮復出祁山，以木牛運，",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-ping-zhugeji-mulu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 19,
+          "from": "諸葛氏集目錄",
+          "through": "右二十四篇，凡十萬四千一百一十二字。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
@@ -91438,6 +91456,15 @@
           "term": "諸葛亮",
           "quote": "又上諸葛亮蒋琬費禕等子孫流徙中畿",
           "reason": "段落主體為太子中庶子立的上疏，亮僅與蔣琬、費禕並列為已故大臣、其子孫流徙中畿而請敘用，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-guochong-kongcheng",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 10,
+          "term": "諸葛亮",
+          "quote": "亮屯于陽平，遣魏延諸軍并兵東下，亮惟留萬人守城",
+          "reason": "郭沖三事所載亮開城門、臥旗息鼓以退司馬懿事，裴松之已於同段逐條駁斥（陽平交兵時序、兵力調度皆不符），結論「此書舉引皆虛」，不作亮本人史實摘錄。"
         }
       ],
       "unresolved": []
