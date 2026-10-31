@@ -90518,6 +90518,24 @@
           "from": "昔諸葛亮數闚秦川，道險運艱，竟不能克",
           "through": "昔諸葛亮數闚秦川，道險運艱，竟不能克",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳·蔣琬傳》"
+        },
+        {
+          "id": "zhugeliang-dengzhi-xiuhao-wu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 2,
+          "from": "丞相諸葛亮深慮權聞先主殂隕，恐有異計，未知所如。",
+          "through": "乃遣芝脩好於權。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳·鄧芝傳》"
+        },
+        {
+          "id": "zhugeliang-xi-laihong-shu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 31,
+          "from": "恭子厷，為丞相西曹令史，隨諸葛亮於漢中，早夭，亮甚惜之",
+          "through": "為朝中損益多矣。",
+          "citation": "《三國志·蜀書十五 楊戲傳附王謀》"
         }
       ],
       "exclusions": [
@@ -90781,6 +90799,15 @@
           "term": "諸葛亮",
           "quote": "又諸葛亮、蔣琬、費禕等子孫流徙中畿",
           "reason": "本段主體為譙周晚年事與文立上言請量才叙用故蜀大官及盡忠死事者子孫；諸葛亮僅在文立所列名單中被提及，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-feiyi-sangli",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 10,
+          "term": "諸葛亮",
+          "quote": "諸葛亮及諸貴人悉集，車乘甚鮮",
+          "reason": "本段為費禕傳許靖喪子葬禮場景；諸葛亮僅作為在場貴人之一被提及，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
         }
       ],
       "unresolved": []
