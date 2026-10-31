@@ -92047,6 +92047,33 @@
           "from": "先主留諸葛亮、關羽等據荊州",
           "through": "將步卒數萬人入益州",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-liu-zhen-jingzhou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "諸葛亮、張飛、趙雲等將兵泝流定白帝、江州、江陽",
+          "through": "惟關羽留鎮荊州",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-yizhou-zhuaya",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "先主復領益州牧",
+          "through": "關羽、張飛、馬超為爪牙",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-ling-ru-yiyang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 15,
+          "from": "權忿之，乃遣呂蒙襲奪長沙、零陵、桂陽三郡",
+          "through": "令關羽入益陽",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
