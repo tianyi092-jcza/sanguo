@@ -91650,6 +91650,24 @@
           "from": "諸葛瞻又輕壽。壽爲亮立傳，謂亮將略非長，無應敵之才，言瞻惟工書，名過其實。",
           "through": "諸葛瞻又輕壽。壽爲亮立傳，謂亮將略非長，無應敵之才，言瞻惟工書，名過其實。",
           "citation": "《晉書·卷八十二·陳壽傳》"
+        },
+        {
+          "id": "zhugezhan-huayang-mianzhu-zhan-shang-si",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 29,
+          "from": "懸逺議欲還而鄧艾由隂平景谷傍入後主又遣都",
+          "through": "乃驅馬赴魏軍而死",
+          "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "zhugezhan-huayang-fu-jiazhan",
+          "work": "huayang",
+          "source": "a06-008",
+          "paragraph": 2,
+          "from": "閭術縛冨送州刺史童策斬之初諸葛瞻與鄧艾戰",
+          "through": "故冨假之也",
+          "citation": "《華陽國志·大同志》"
         }
       ],
       "exclusions": [
@@ -91670,6 +91688,15 @@
           "term": "諸葛瞻",
           "quote": "諸葛瞻不據束馬之嶮，卒擒于鄧艾。",
           "reason": "後世慕容鎮議事引古為喻，借緜竹舊事作反例，無關於瞻的新史實，不作本人史實錄入。"
+        },
+        {
+          "id": "zhugezhan-excl-changxu-shundai-tiji",
+          "work": "huayang",
+          "source": "a06-011",
+          "paragraph": 10,
+          "term": "諸葛瞻",
+          "quote": "魏征西将軍鄧艾伐蜀破諸葛瞻扵",
+          "reason": "常勗傳順帶提及艾破瞻一語，已由三國志與晉書多條摘錄覆蓋，本段無關於瞻的新史實，且句意截於段末，不另錄。"
         }
       ],
       "unresolved": []
