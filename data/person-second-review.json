@@ -86091,6 +86091,33 @@
           "term": "士徽",
           "quote": "吳漢進圍朐",
           "reason": "後漢書段落敘吳漢圍朐、董憲潛出襲贛榆、被追斬傳首事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-sanguozhi-xueti-taishan",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 21,
+          "term": "士徽",
+          "quote": "泰山太守東郡薛悌異之",
+          "reason": "三國志段落敘泰山太守薛悌與郡吏結親友、後任魏郡及尚書令事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-dongzhuo-zhukui",
+          "work": "houhanshu",
+          "source": "a03-045",
+          "paragraph": 16,
+          "term": "士徽",
+          "quote": "董卓忿紹、術背己",
+          "reason": "後漢書段落敘董卓因袁紹、袁術背己而誅袁隗及袁基男女事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-houhanshu-xuyun-shaliudu",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 113,
+          "term": "士徽",
+          "quote": "太中大夫徐惲擅殺臨淮太守劉度",
+          "reason": "後漢書段落敘徐惲擅殺劉度坐誅事，全段未提及士徽；向量誤觸。"
         }
       ],
       "unresolved": []
