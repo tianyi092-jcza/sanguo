@@ -89795,6 +89795,33 @@
           "from": "諸葛亮與兄瑾書曰：「孝起忠純之性，老而益篤，及其贊述東西，歡樂和合，有可貴者。」",
           "through": "諸葛亮與兄瑾書曰：「孝起忠純之性，老而益篤，及其贊述東西，歡樂和合，有可貴者。」",
           "citation": "《三國志·蜀書九·董劉馬陳董呂傳·陳震傳》"
+        },
+        {
+          "id": "zhugeliang-donghui-zhiyan",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 16,
+          "from": "諸葛亮聞之，以為知言。",
+          "through": "還未滿三日，辟為丞相府屬，遷巴郡太守。",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳·董允傳》"
+        },
+        {
+          "id": "zhugeliang-liaoli-chu-liangcai",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 13,
+          "from": "諸葛亮鎮荊土，孫權遣使通好於亮，因問士人皆誰相經緯者，",
+          "through": "亮荅曰：「龐統、廖立，楚之良才，當贊興世業者也。」",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·廖立傳》"
+        },
+        {
+          "id": "zhugeliang-liyan-jiuxi-refuse",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 17,
+          "from": "諸葛亮集有嚴與亮書，勸亮宜受九錫，進爵稱王。",
+          "through": "若滅魏斬叡，帝還故居，與諸子並升，雖十命可受，況於九邪！」",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·李嚴傳》"
         }
       ],
       "exclusions": [
