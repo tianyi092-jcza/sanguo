@@ -87252,6 +87252,24 @@
           "from": "先帝不以臣卑鄙，猥自枉屈，三顧臣於草廬之中，諮臣以當世之事",
           "through": "遂許先帝以驅馳。",
           "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "liubei-sg-liuba-zhibai-fuku",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 5,
+          "from": "初攻劉璋，備與士衆約：「若事定，府庫百物，孤無預焉。」",
+          "through": "備從之，數月之間，府庫充實。",
+          "citation": "《三國志·蜀書九·劉巴傳》"
+        },
+        {
+          "id": "liubei-sg-chibi-qianjie-liang",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "劉備欲南濟江，肅與相見，因傳權旨，為陳成敗。",
+          "through": "備進住夏口，使諸葛亮詣權，權遣周瑜、程普等行。",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [
@@ -87299,6 +87317,15 @@
           "term": "劉備",
           "quote": "劉備嘗用之",
           "reason": "世語所載晉武帝世張斆收王濬從事事，僅以「劉備嘗用之」一語作收從事之先例，無劉備本人新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-sunce-letter-brief",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 12,
+          "term": "劉備",
+          "quote": "劉備爭盟淮隅",
+          "reason": "吳錄所載孫策責袁術書中羅列江淮群雄之一語，僅提及劉備與劉繇爭盟淮隅，無劉備本人新事實，不作摘錄。"
         }
       ],
       "unresolved": []
