@@ -90446,6 +90446,24 @@
           "from": "諸葛亮雖外接待羕，而內不能善。",
           "through": "先主旣敬信亮，加察羕行事，意以稍踈，左遷羕為江陽太守。",
           "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·彭羕傳》"
+        },
+        {
+          "id": "zhugeliang-biao-liaoli-fei",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 14,
+          "from": "邵、琬具白其言於諸葛亮。",
+          "through": "於是廢立為民，徙汶山郡。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·廖立傳》"
+        },
+        {
+          "id": "zhugeliang-linzhong-tuijun-jiedu",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 25,
+          "from": "秋，亮病困，密與長史楊儀、司馬費禕、護軍姜維等作身歿之後退軍節度",
+          "through": "若延或不從命，軍便自發。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·魏延傳》"
         }
       ],
       "exclusions": [
@@ -90673,6 +90691,15 @@
           "term": "諸葛亮",
           "quote": "將兵俱與諸葛亮、張飛等泝流西上",
           "reason": "本段主體為劉封隨先主入蜀、西上作戰之事蹟；諸葛亮僅與張飛並列提及為同行將領，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-pengyang-yuzhong-shu",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 11,
+          "term": "諸葛亮",
+          "quote": "羕於獄中與諸葛亮書曰",
+          "reason": "本段為彭羕下獄後致諸葛亮的自辯書，全篇陳述羕個人遭遇、怨望之由與悔意；亮僅為收信人與被稱頌對象（「足下，當世伊、呂也」），無亮的具體言行、決策或事蹟可摘，不作摘錄。"
         }
       ],
       "unresolved": []
