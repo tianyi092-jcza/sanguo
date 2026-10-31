@@ -86864,9 +86864,38 @@
           "from": "操復盡收諸城，破布於鉅野，布東奔劉備。",
           "through": "操復盡收諸城，破布於鉅野，布東奔劉備。",
           "citation": "《後漢書·卷七十五·張邈傳》"
+        },
+        {
+          "id": "liubei-hhs-lubu-attack-pei-197",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 38,
+          "from": "建安二年，布遂復從袁術，遣順攻劉備於沛，破之。",
+          "through": "曹操遣夏侯惇救備。",
+          "citation": "《後漢書·卷七十五·呂布傳》"
+        },
+        {
+          "id": "liubei-hhs-zitong-commandery-217",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 10,
+          "from": "建安二十二年，劉備以為郡。",
+          "through": "建安二十二年，劉備以為郡。",
+          "context": "梓潼地道記「五婦山，馳水出」。",
+          "citation": "《後漢書·志第二十三·郡國五》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "liubei-excl-wuxing-ganbao-omen",
+          "work": "houhanshu",
+          "source": "a03-105",
+          "paragraph": 52,
+          "term": "劉備",
+          "quote": "十六年，劉備入蜀，與吳再爭荊州",
+          "reason": "五行志山鳴祥異條下干寶後世附會解說，僅概括提及劉備入蜀、爭荊州及當陽被逐等已見他處之事，無劉備本人新事實，不作摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
