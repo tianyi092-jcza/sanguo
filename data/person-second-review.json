@@ -86010,6 +86010,33 @@
           "term": "士徽",
           "quote": "冬十月，以征北大將軍衛瓘爲尚書令",
           "reason": "晉書段落敘衛瓘為尚書令、應綽伐吳皖城事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-sanguozhi-lvdai-chushi",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 21,
+          "term": "士徽",
+          "quote": "呂岱字定公，廣陵海陵人也",
+          "reason": "三國志段落敘呂岱早年歷官、平定會稽東冶五縣事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-chaoxun-qingzhou",
+          "work": "jinshu",
+          "source": "a05-128-ahcb",
+          "paragraph": 4,
+          "term": "士徽",
+          "quote": "超尋遣慕容鎮等攻青州",
+          "reason": "晉書段落敘慕容超遣將攻青州、徐州及慕容凝內鬨事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-caibao-fuzhu",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 47,
+          "term": "士徽",
+          "quote": "冬十月丙辰，徐州刺史蔡豹以畏懦伏誅",
+          "reason": "晉書段落僅記蔡豹伏誅、王敦殺向碩事，全段未提及士徽；向量誤觸。"
         }
       ],
       "unresolved": []
