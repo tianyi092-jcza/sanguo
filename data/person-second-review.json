@@ -89213,6 +89213,33 @@
           "from": "是歲，立子瓚為新平王。",
           "through": "大赦。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-er-jin-jiangwan-dashima",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 18,
+          "from": "二年春三月，進蔣琬位為大司馬。",
+          "through": "二年春三月，進蔣琬位為大司馬。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-qi-anpingwang-li-zu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 23,
+          "from": "夏四月，安平王理卒。",
+          "through": "夏四月，安平王理卒。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jingyao-wu-xihewang-cong-zu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 41,
+          "from": "五年春正月，西河王琮卒。",
+          "through": "五年春正月，西河王琮卒。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
