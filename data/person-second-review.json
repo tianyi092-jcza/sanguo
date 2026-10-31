@@ -90689,6 +90689,33 @@
           "from": "丞相諸葛亮以初遭大喪未便加兵",
           "through": "三年亮南征自安上由水路入越嶲",
           "citation": "《華陽國志》卷四·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-nanyi-tupu",
+          "work": "huayang",
+          "source": "a06-004",
+          "paragraph": 11,
+          "from": "諸葛亮乃為夷作圖譜先畫天地日月君長城府",
+          "through": "夷甚重之許致生口直又與瑞錦鐵劵今皆存",
+          "citation": "《華陽國志》卷四·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-liushou-jingzhou",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 13,
+          "from": "劉主大悅乃留軍師中郎將諸葛亮將",
+          "through": "劉主大悅乃留軍師中郎將諸葛亮將",
+          "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "zhugeliang-hygz-sujiang-ruba",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 17,
+          "from": "諸葛亮張飛趙雲等泝江降下巴東入巴",
+          "through": "諸葛亮張飛趙雲等泝江降下巴東入巴",
+          "citation": "《華陽國志》卷五·四部叢刊本"
         }
       ],
       "exclusions": [
