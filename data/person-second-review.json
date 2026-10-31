@@ -90563,6 +90563,24 @@
           "from": "遣諸葛亮詣權，",
           "through": "遇於赤壁。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·周瑜傳》"
+        },
+        {
+          "id": "zhugeliang-lusu-dingjiao",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 17,
+          "from": "時諸葛亮與備相隨，",
+          "through": "肅亦反命。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·魯肅傳》"
+        },
+        {
+          "id": "zhugeliang-zhangwen-qingzhuo",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 21,
+          "from": "諸葛亮聞俊憂溫，",
+          "through": "善惡太分。」",
+          "citation": "《三國志·吳書十二·虞陸張駱陸吾朱傳·張溫傳》"
         }
       ],
       "exclusions": [
@@ -90835,6 +90853,15 @@
           "term": "諸葛亮",
           "quote": "諸葛亮及諸貴人悉集，車乘甚鮮",
           "reason": "本段為費禕傳許靖喪子葬禮場景；諸葛亮僅作為在場貴人之一被提及，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-zhangwen-shishu",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 18,
+          "term": "諸葛亮",
+          "quote": "諸葛亮達見計數，必知神慮屈申之宜",
+          "reason": "本段為孫權遣張溫使蜀的交代；諸葛亮僅作為孫權、張溫揣度其反應的對象被提及，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
         }
       ],
       "unresolved": []
