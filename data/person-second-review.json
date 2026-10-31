@@ -90644,6 +90644,15 @@
           "from": "安樂公得諸葛亮而抗魏，任黃皓而喪國",
           "through": "是知成敗一也。",
           "citation": "《晉書》卷八十八·李密傳"
+        },
+        {
+          "id": "zhugeliang-jin-huanwen-bazhen-tu",
+          "work": "jinshu",
+          "source": "a05-098-ahcb",
+          "paragraph": 33,
+          "from": "初，諸葛亮造八陣圖於魚復平沙之上",
+          "through": "壘石爲八行，行相去二丈。",
+          "citation": "《晉書》卷九十八·桓溫傳"
         }
       ],
       "exclusions": [
@@ -91078,6 +91087,24 @@
           "term": "諸葛孔明",
           "quote": "弘立諸葛孔明、羊叔子碣，使興俱爲之文",
           "reason": "劉弘為諸葛孔明立碣、李興為之作文字，亮僅為立碣之對象，無亮本人言行或事蹟，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-luzhi-qinlongyou",
+          "work": "jinshu",
+          "source": "a05-090-ahcb",
+          "paragraph": 2,
+          "term": "諸葛亮",
+          "quote": "會蜀相諸葛亮侵隴右，淮復請芝爲別駕",
+          "reason": "亮侵隴右僅為郭淮復請魯芝為別駕的時間背景，無亮北伐的具體事實（戰役經過、決策或結果），不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-wenli-xuyong-zisun",
+          "work": "jinshu",
+          "source": "a05-091-ahcb",
+          "paragraph": 4,
+          "term": "諸葛亮",
+          "quote": "上表請以諸葛亮、蔣琬、費禕等子孫流徙中畿，宜見敘用",
+          "reason": "文立上表請敘用亮等子孫，亮僅為名單中的先人標識，無亮本人言行或事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
