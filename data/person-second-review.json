@@ -87018,6 +87018,15 @@
           "from": "夏侯淵與劉備戰於陽平，為備所殺。",
           "through": "夏侯淵與劉備戰於陽平，為備所殺。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "liubei-sg-wendi-222-zigui-remnant-troops",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 19,
+          "from": "孫權上書，說：「劉備支黨四萬人，馬二三千匹，出秭歸，請往埽撲，以克捷為效。」",
+          "through": "孫權上書，說：「劉備支黨四萬人，馬二三千匹，出秭歸，請往埽撲，以克捷為效。」",
+          "citation": "《三國志·魏書二·文帝紀》"
         }
       ],
       "exclusions": [
@@ -87029,6 +87038,24 @@
           "term": "劉備",
           "quote": "十六年，劉備入蜀，與吳再爭荊州",
           "reason": "五行志山鳴祥異條下干寶後世附會解說，僅概括提及劉備入蜀、爭荊州及當陽被逐等已見他處之事，無劉備本人新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-wendi-220-zhanglu-remark",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 12,
+          "term": "劉備",
+          "quote": "寧為魏公奴，不為劉備上客也",
+          "reason": "禪代議論中引張魯舊言，僅以劉備為對比附帶提及；段落另有魏王令泛稱權、備尚存，均無劉備本人新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-mingdi-taihe-mengda-joke",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 3,
+          "term": "劉備",
+          "quote": "卿得無為劉備刺客邪？",
+          "reason": "文帝戲問孟達是否為劉備刺客，僅附帶提及；段落主體為孟達歸魏及反事，無劉備本人新事實，不作摘錄。"
         }
       ],
       "unresolved": []
