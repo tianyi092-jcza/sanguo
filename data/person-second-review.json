@@ -85875,6 +85875,33 @@
           "term": "士徽",
           "quote": "弘在位五年，坐考上黨太守無所據",
           "reason": "後漢書段落敘弘在位免官、國除事，未提及士徽；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-040-chong",
+          "work": "jinshu",
+          "source": "a05-040",
+          "paragraph": 15,
+          "term": "士徽",
+          "quote": "王濬之克武昌也",
+          "reason": "晉書段落敘賈充諫止平吳、荀勖附和、杜預固爭及孫皓降後犒勞事，未提及士徽；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-081-zhao",
+          "work": "jinshu",
+          "source": "a05-081-ahcb",
+          "paragraph": 66,
+          "term": "士徽",
+          "quote": "肇襲爵，官至散騎侍郎",
+          "reason": "晉書段落敘肇襲爵、子孫相繼嗣爵至宋受禪國除事，未提及士徽；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-043-rong",
+          "work": "jinshu",
+          "source": "a05-043-ahcb",
+          "paragraph": 31,
+          "term": "士徽",
+          "quote": "戎渡江，綏慰新附",
+          "reason": "晉書段落敘王戎渡江綏慰新附、表薦石偉及劉肇賂布事，未提及士徽；僅因事件向量誤觸。"
         }
       ],
       "unresolved": []
