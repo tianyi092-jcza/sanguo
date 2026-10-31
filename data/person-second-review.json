@@ -89294,6 +89294,33 @@
           "from": "七年春，亮遣陳式攻武都、陰平，遂克定二郡。",
           "through": "是歲，孫權稱帝，與蜀約盟，共交分天下。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-si-liyan-jiangzhou-zhucheng",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 5,
+          "from": "四年春，都護李嚴自永安還住江州，築大城。",
+          "through": "今巴郡故城是。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-liu-liang-qishan-chenchang",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 7,
+          "from": "六年春，亮出攻祁山，不克。",
+          "through": "魏將王雙率軍追亮，亮與戰，破之，斬雙，還漢中。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jianxing-jiu-liang-qishan-liping-xi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 10,
+          "from": "九年春二月，亮復出軍圍祁山，始以木牛運。",
+          "through": "秋八月，都護李平廢徙梓潼郡。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
