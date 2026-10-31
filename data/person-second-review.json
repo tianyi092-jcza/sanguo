@@ -86348,6 +86348,33 @@
           "from": "五年春正月，董承等謀泄",
           "through": "皆伏誅。",
           "citation": "《三國志·卷一·魏書一 武帝紀第一》"
+        },
+        {
+          "id": "dongcheng-sg-donger-fengcheng-huanluo",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "奉及將軍董承以天子還洛陽",
+          "through": "奉及將軍董承以天子還洛陽。",
+          "citation": "《三國志·卷六·魏書六 董二袁劉傳第六》"
+        },
+        {
+          "id": "dongcheng-sg-donger-congtaizu-zhu",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "董承從太祖歲餘",
+          "through": "董承從太祖歲餘，誅。",
+          "citation": "《三國志·卷六·魏書六 董二袁劉傳第六》"
+        },
+        {
+          "id": "dongcheng-sg-zhangyang-xie-huanjing",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "建安元年，楊奉、董承、韓暹挾天子還舊京",
+          "through": "楊以糧迎道路，遂至洛陽。",
+          "citation": "《三國志·卷八·魏書八 二公孫陶四張傳第八》"
         }
       ],
       "exclusions": [
