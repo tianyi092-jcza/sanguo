@@ -86330,6 +86330,24 @@
           "from": "衞將軍董承與袁術將萇奴拒險",
           "through": "洪不得進。",
           "citation": "《三國志·卷一·魏書一 武帝紀第一》"
+        },
+        {
+          "id": "dongcheng-sg-wudi-moufan-tunpei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "from": "備之未東也，陰與董承等謀反",
+          "through": "舉兵屯沛。",
+          "citation": "《三國志·卷一·魏書一 武帝紀第一》"
+        },
+        {
+          "id": "dongcheng-sg-wudi-mouxie-fuzhu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 15,
+          "from": "五年春正月，董承等謀泄",
+          "through": "皆伏誅。",
+          "citation": "《三國志·卷一·魏書一 武帝紀第一》"
         }
       ],
       "exclusions": [
@@ -86350,6 +86368,15 @@
           "term": "董承",
           "quote": "獻帝春秋，董承之誅，伏后與父完書，言司空殺董承，帝方為報怨。",
           "reason": "荀彧傳引《獻帝春秋》追述建安五年密詔事洩、董承被誅，已於 a03-009:13 錄入；本段主角為荀彧，不載董承本人新事，故不單獨立條。"
+        },
+        {
+          "id": "dongcheng-excl-fuhou-beizhu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "董承",
+          "quote": "十一月，漢皇后伏氏坐昔與父故屯騎校尉完書，云帝以董承被誅怨恨公，辭甚醜惡，發聞，后廢黜死，兄弟皆伏法。",
+          "reason": "本段主角為伏后因與父書信事發而廢黜，董承僅以「被誅」背景出現，不載董承本人新事，故不單獨立條。"
         }
       ],
       "unresolved": []
