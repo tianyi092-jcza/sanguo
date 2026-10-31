@@ -86723,6 +86723,33 @@
           "from": "及伏皇后被弒",
           "through": "立節為皇后。",
           "citation": "《後漢書·卷十下·皇后紀第十下》"
+        },
+        {
+          "id": "fuhuanghou-hhs-guiren-lihou",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 42,
+          "from": "初平元年，從大駕西遷長安",
+          "through": "興平二年，立為皇后，完遷執金吾。",
+          "citation": "《後漢書·卷十下·皇后紀第十下》"
+        },
+        {
+          "id": "fuhuanghou-hhs-mitu-shixie-feihou",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 43,
+          "from": "后自是懷懼，乃與父完書",
+          "through": "遂逼帝廢后",
+          "citation": "《後漢書·卷十下·皇后紀第十下》"
+        },
+        {
+          "id": "fuhuanghou-hhs-baoshi-youbeng",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 43,
+          "from": "遂將后下暴室，以幽崩。",
+          "through": "所生二皇子，皆酖殺之。",
+          "citation": "《後漢書·卷十下·皇后紀第十下》"
         }
       ],
       "exclusions": [
