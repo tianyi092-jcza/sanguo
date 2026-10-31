@@ -86593,6 +86593,33 @@
           "term": "衣帶詔",
           "quote": "時有兵士寒凍，乞襦，帝弗之與。",
           "reason": "本段記兵士寒凍乞襦、班師之事，全段未提董承、亦無衣帶詔事，屬事件檢索誤觸，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-juan25-yifu",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 76,
+          "term": "衣帶詔",
+          "quote": "案漢末王公名士多委王服，以幅巾爲雅",
+          "reason": "本段為輿服志論漢末巾幘服制，全段未提董承、亦無衣帶詔事，僅因衣、巾服飾詞語誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-sanguozhi-juan25-fu",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 16,
+          "term": "衣帶詔",
+          "quote": "阜問帝曰：「此於禮何法服也？」",
+          "reason": "本段記楊阜諫明帝法服之事，全段未提董承、亦無衣帶詔事，僅因服飾詞語誤觸事件檢索，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-houhanshu-juan120-tongtianguan",
+          "work": "houhanshu",
+          "source": "a03-120",
+          "paragraph": 7,
+          "term": "衣帶詔",
+          "quote": "通天冠，高九寸，正豎，頂少邪却，乃直下為鐵卷梁",
+          "reason": "本段為輿服志通天冠服制記載，全段未提董承、亦無衣帶詔事，僅因冠服詞語誤觸事件檢索，故排除。"
         }
       ],
       "unresolved": []
