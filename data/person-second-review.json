@@ -90212,6 +90212,24 @@
           "from": "諸葛亮出秦川，大將軍曹真督諸軍拒亮，徙襲為大將軍軍師，分邑百戶賜兄基爵關內侯。",
           "through": "諸葛亮出秦川，大將軍曹真督諸軍拒亮，徙襲為大將軍軍師，分邑百戶賜兄基爵關內侯。",
           "citation": "《三國志·魏書二十三·和常楊杜趙裴傳·杜襲傳》"
+        },
+        {
+          "id": "zhugeliang-xinpi-weilue-qishan",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 7,
+          "from": "魏略曰：諸葛亮圍祁山，不克，引退。張郃追之，為流矢所中死。",
+          "through": "魏略曰：諸葛亮圍祁山，不克，引退。張郃追之，為流矢所中死。",
+          "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳·辛毗傳》"
+        },
+        {
+          "id": "zhugeliang-xumiao-qishan-nanan",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 2,
+          "from": "值諸葛亮出祁山，隴右三郡反，邈輙遣參軍及金城太守等擊南安賊，破之。",
+          "through": "值諸葛亮出祁山，隴右三郡反，邈輙遣參軍及金城太守等擊南安賊，破之。",
+          "citation": "《三國志·魏書二十七·徐胡二王傳·徐邈傳》"
         }
       ],
       "exclusions": [
@@ -90322,6 +90340,15 @@
           "term": "諸葛亮",
           "quote": "徐福事在諸葛亮傳",
           "reason": "魏略列傳卷首說明徐福事蹟見諸葛亮傳，僅為篇目指引，無亮本人事實，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-yuanzi-zhongren",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 32,
+          "term": "諸葛亮",
+          "quote": "諸葛亮，重人也",
+          "reason": "袁子於鄧艾滅蜀後的評論，僅以亮驟用蜀兵論小國弱民難以久存，無亮本人事實，不作摘錄。"
         }
       ],
       "unresolved": []
