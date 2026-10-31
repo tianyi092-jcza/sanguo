@@ -89966,6 +89966,15 @@
           "from": "五年三月，諸葛亮以大衆寇天水。",
           "through": "魏東西奔命。",
           "citation": "《晉書》卷十二·天文志"
+        },
+        {
+          "id": "zhugeliang-jin-tianwen-zhanghe-zhui",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 4,
+          "from": "其七月，車騎將軍張郃追諸葛亮，為亮所害。",
+          "through": "其七月，車騎將軍張郃追諸葛亮，為亮所害。",
+          "citation": "《晉書》卷十三·天文志"
         }
       ],
       "exclusions": [
@@ -90022,6 +90031,24 @@
           "term": "諸葛亮",
           "quote": "諸葛亮據渭南",
           "reason": "四庫本此段與 sidneyluo 本 a05-012:126 後半同文（僅分段異），已錄 sidneyluo 本，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-ahcb-tianwen-zhanghe-zhui",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 1,
+          "term": "諸葛亮",
+          "quote": "張郃追諸葛亮",
+          "reason": "四庫本此段前半與 sidneyluo 本 a05-013:4 同文（僅分段異），已錄 sidneyluo 本，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-ahcb-tianwen-juweinan",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 2,
+          "term": "諸葛亮",
+          "quote": "諸葛亮據渭南",
+          "reason": "四庫本此段前半與 sidneyluo 本 a05-013:6 同文（僅分段與個別用字異），以 sidneyluo 本為準，不重複摘錄。"
         }
       ],
       "unresolved": []
