@@ -85276,6 +85276,33 @@
           "term": "士燮",
           "quote": "十五年，吳王孫權薨",
           "reason": "本段僅記吳王孫權薨及立子事，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-shiyi-wuguan",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 2,
+          "term": "士燮",
+          "quote": "孫權承攝大業，優文徵儀",
+          "reason": "本段僅記孫權徵用是儀事，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jin-xuandi-jiangxia-wuguan",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 14,
+          "term": "士燮",
+          "quote": "及孫權圍江夏，遣其將諸葛瑾、張霸并攻襄陽",
+          "reason": "本段僅記晉宣帝討孫權圍江夏事，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-luotong-wuguan",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 24,
+          "term": "士燮",
+          "quote": "孫權以將軍領會稽太守，統年二十，試為烏程相",
+          "reason": "本段僅記駱統為烏程相及勸孫權事，全段未提及士燮，與士燮生平無關，不單立為燮摘錄。"
         }
       ],
       "unresolved": []
