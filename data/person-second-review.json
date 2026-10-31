@@ -89105,6 +89105,33 @@
           "from": "三年秋九月，追謚故將軍關羽、張飛、馬超、龐統、黃忠。",
           "through": "三年秋九月，追謚故將軍關羽、張飛、馬超、龐統、黃忠。",
           "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-yanxi-jiu-zishe-guoshi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 25,
+          "from": "魏略曰：琬卒，禪乃自攝國事。",
+          "through": "魏略曰：琬卒，禪乃自攝國事。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jingyao-er-li-sanzi-wang",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 38,
+          "from": "二年夏六月，立子諶為北地王，恂為新興王，虔為上黨王。",
+          "through": "二年夏六月，立子諶為北地王，恂為新興王，虔為上黨王。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "liushan-jingyao-si-zhuishi-zhaoyun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 40,
+          "from": "四年春三月，追謚故將軍趙雲。",
+          "through": "四年春三月，追謚故將軍趙雲。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
         }
       ],
       "exclusions": [
