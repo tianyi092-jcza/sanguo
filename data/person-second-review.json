@@ -91939,6 +91939,33 @@
           "from": "劉備與周瑜圍曹仁於江陵，別遣關羽絕北道",
           "through": "以迎仁軍",
           "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳》"
+        },
+        {
+          "id": "guanyu-wenpin-xunkou-hanjin-shaochuan",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 15,
+          "from": "與樂進討關羽於尋口",
+          "through": "燒其船於荊城",
+          "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳》"
+        },
+        {
+          "id": "guanyu-pangde-fancheng-shuizhan-beisha",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 29,
+          "from": "羽乘船攻之",
+          "through": "遂為羽所殺",
+          "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳》"
+        },
+        {
+          "id": "guanyu-caozhi-219-zui-bu-neng-shouming",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 6,
+          "from": "二十四年，曹仁為關羽所圍",
+          "through": "於是悔而罷之",
+          "citation": "《三國志·魏書十九·任城陳蕭王傳》"
         }
       ],
       "exclusions": [
