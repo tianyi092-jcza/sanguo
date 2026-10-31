@@ -90059,6 +90059,33 @@
           "from": "蜀丞相諸葛亮問廣漢秦密，董扶及任安所長",
           "through": "忘人之過」云",
           "citation": "《後漢書》卷八十二下·董扶傳"
+        },
+        {
+          "id": "zhugeliang-hhs-panggong",
+          "work": "houhanshu",
+          "source": "a03-083",
+          "paragraph": 50,
+          "from": "諸葛孔明每至德公家，獨拜牀下",
+          "through": "德公初不令止。",
+          "citation": "《後漢書》卷八十三·逸民列傳·龐公"
+        },
+        {
+          "id": "zhugeliang-hhs-wuyuedu-lu",
+          "work": "houhanshu",
+          "source": "a03-086",
+          "paragraph": 28,
+          "from": "故諸葛亮表云「五月度瀘」",
+          "through": "言其艱苦也。",
+          "citation": "《後漢書》卷八十六·南蠻西南夷列傳"
+        },
+        {
+          "id": "zhugeliang-hhs-yizhou-shan",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 19,
+          "from": "諸葛亮表有耽文山、澤山、司彌瘞山、婁山、辟龍山",
+          "through": "此等並皆未詳所在縣。",
+          "citation": "《後漢書》志第二十三·郡國五"
         }
       ],
       "exclusions": [
