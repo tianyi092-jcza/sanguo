@@ -89849,6 +89849,33 @@
           "from": "時南方諸郡不賔，諸葛亮將自征之",
           "through": "故停留者乆之。",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳·王連傳》"
+        },
+        {
+          "id": "zhugeliang-biao-jian-xiangchong",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 7,
+          "from": "諸葛亮當北行，表與後主曰",
+          "through": "優劣得所也。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·向寵傳》"
+        },
+        {
+          "id": "zhugeliang-huangyuan-fan",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 14,
+          "from": "漢嘉太守黃元素為諸葛亮所不善",
+          "through": "是以元益無所憚。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·楊洪傳》"
+        },
+        {
+          "id": "zhugeliang-jin-shiren-qiyong",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 16,
+          "from": "是以西土咸服諸葛亮能盡時人之器用也",
+          "through": "是以西土咸服諸葛亮能盡時人之器用也",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·楊洪傳》"
         }
       ],
       "exclusions": [
