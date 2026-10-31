@@ -87459,6 +87459,24 @@
           "from": "奉、暹奔袁術，遂縱暴楊、徐閒。",
           "through": "明年，左將軍劉備誘奉斬之。",
           "citation": "《後漢書·卷七十二·列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "liubei-hhs-dongcheng-yidai-mou-zhucao",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 35,
+          "from": "帝忌操專偪，乃密詔董承，使結天下義士共誅之。",
+          "through": "承遂與劉備同謀，未發，會備出征，承更與偏將軍王服、長水校尉种輯、議郎吳碩結謀。",
+          "citation": "《後漢書·卷七十二·列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "liubei-hhs-cao-ji-bei-ben-shao",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 27,
+          "from": "曹操畏紹過河，乃急擊備，遂破之。",
+          "through": "備奔紹，紹於是進軍攻許。",
+          "citation": "《後漢書·卷七十四上·列傳第六十四上 袁紹傳》"
         }
       ],
       "exclusions": [
@@ -87569,6 +87587,15 @@
           "term": "劉備",
           "quote": "及操自平漢中，欲因討劉備而不得進，欲守之又難為功",
           "reason": "本段主體為楊脩雞肋事與被殺，劉備僅作曹操漢中進退背景一語帶過，無劉備新事實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-hhs-yuanshao-xi-lubu-benbei-mention",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 29,
+          "term": "劉備",
+          "quote": "布夜走，東奔劉備。",
+          "reason": "本段為袁紹討曹操檄文，劉備僅在引魏志敘呂布敗走事中一語帶過；呂布東奔劉備一事已另錄 a03-075 第 31 段摘錄，本段無劉備新事實，不重複摘錄。"
         }
       ],
       "unresolved": []
