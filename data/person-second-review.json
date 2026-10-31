@@ -86240,9 +86240,37 @@
           "from": "衞將軍董承為車騎將軍",
           "through": "衞將軍董承為車騎將軍。",
           "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "dongcheng-hhs-mizhao-zhucao-beisha",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 13,
+          "from": "五年春正月，車騎將軍董承、偏將軍王服、越騎校尉种輯受密詔誅曹操，事洩。",
+          "through": "曹操殺董承等，夷三族。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "dongcheng-hhs-duo-hou-juan",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 42,
+          "from": "董承使符節令孫徽以刃脅奪之",
+          "through": "血濺后衣。",
+          "citation": "《後漢書·卷十下·皇后紀第十下》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "dongcheng-excl-dongchengnu-guieren",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 43,
+          "term": "董承女",
+          "quote": "董承女為貴人，操誅承而求貴人殺之。",
+          "reason": "伏后傳敘事，主角為伏壽皇后與董承女（董貴人）；「操誅承」僅追述建安五年密詔事洩之誅殺，已於 a03-009:13 錄入，不載董承本人新事，故不單獨立條。"
+        }
+      ],
       "unresolved": []
     }
   ]
