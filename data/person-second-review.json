@@ -87774,6 +87774,24 @@
           "from": "夏侯淵為劉備所沒，軍喪元帥，將士失色。",
           "through": "夏侯淵為劉備所沒，軍喪元帥，將士失色。",
           "citation": "《三國志·魏書二十三·杜襲傳》"
+        },
+        {
+          "id": "liubei-sg-yangfu-zhangfei-machao-xiabian",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 14,
+          "from": "會劉備遣張飛、馬超等從沮道趣下辯，而氐雷定等七部萬餘落反應之。",
+          "through": "會劉備遣張飛、馬超等從沮道趣下辯，而氐雷定等七部萬餘落反應之。",
+          "citation": "《三國志·魏書二十五·楊阜傳》"
+        },
+        {
+          "id": "liubei-sg-yangfu-bei-qu-hanzhong-bi-xiabian",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 15,
+          "from": "及劉備取漢中以逼下辯，太祖以武都孤遠，欲移之，恐吏民戀土。",
+          "through": "及劉備取漢中以逼下辯，太祖以武都孤遠，欲移之，恐吏民戀土。",
+          "citation": "《三國志·魏書二十五·楊阜傳》"
         }
       ],
       "exclusions": [
@@ -88055,6 +88073,15 @@
           "term": "劉玄德",
           "quote": "雄姿傑出，有王霸之略，吾敬劉玄德",
           "reason": "此段主角為陳矯轉述陳登之言，登列舉平生所敬五人，備僅為其中一人；僅為登對備之評價，未載備之言行史實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-pei-qian-ping-bei-cailue",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 29,
+          "term": "劉備",
+          "quote": "使居中國，能亂人而不能為治也。若乘間守險，足以為一方主。",
+          "reason": "此段主角為裴潛，太祖問潛以備才略，潛之答僅為對備才略的評價，未載備之言行史實，不摘錄。"
         }
       ],
       "unresolved": []
