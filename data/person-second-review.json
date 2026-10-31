@@ -86647,6 +86647,33 @@
           "term": "衣帶詔",
           "quote": "初，衮來朝，犯京都禁",
           "reason": "本段記中山王衮來朝犯京都禁、削縣及薨後事，全段未提董承、亦無衣帶詔事，僅因「詔」字與事件檢索向量相似誤觸，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-sanguozhi-juan19-zhuguo-tongwen-zhao",
+          "work": "sanguozhi",
+          "source": "a04-019",
+          "paragraph": 22,
+          "term": "衣帶詔",
+          "quote": "本無禁固諸國通問之詔也",
+          "reason": "本段為皇帝詔報諸國兄弟通問事，論禁固諸國通問之詔矯枉過正，全段未提董承、亦無衣帶中密詔謀殺曹操事，僅因「詔」字與衣帶詔事件檢索向量相似誤觸，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-jinshu-juan25-guanfu-zhidu",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 54,
+          "term": "衣帶詔",
+          "quote": "周禮，弁師掌六冕",
+          "reason": "本段為晉書輿服志論冕服制度沿革，全段未提董承、亦無衣帶詔事，僅因服制段落與檢索向量相似誤觸，故排除。"
+        },
+        {
+          "id": "dongcheng-excl-houhanshu-zhi30-quefei-guan",
+          "work": "houhanshu",
+          "source": "a03-120",
+          "paragraph": 16,
+          "term": "衣帶詔",
+          "quote": "却非冠，制似長冠",
+          "reason": "本段為後漢書輿服志論却非冠形制與門吏僕射冠之，全段未提董承、亦無衣帶詔事，僅因服制段落與檢索向量相似誤觸，故排除。"
         }
       ],
       "unresolved": []
