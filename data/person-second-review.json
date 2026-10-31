@@ -85956,6 +85956,33 @@
           "term": "士徽",
           "quote": "時將繕宮城，尚書符下陳留王",
           "reason": "晉書段落敘陳留王出城夫爭議及奕駁議獲詔從事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-wudiao",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 13,
+          "term": "士徽",
+          "quote": "三月戊戌，吳人來弔祭",
+          "reason": "晉書段落敘吳人來弔祭、晉帝答詔事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-lukai-wangfan-061",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 25,
+          "term": "士徽",
+          "quote": "中常侍王蕃黃中通理",
+          "reason": "三國志段落敘王蕃因直諫被孫皓梟首、臣上疏指孫皓不遵先帝事，全段未提及士徽；向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-jinshu-duyu-fawu",
+          "work": "jinshu",
+          "source": "a05-034-ahcb",
+          "paragraph": 40,
+          "term": "士徽",
+          "quote": "預處分既定，乃啟請伐吳之期",
+          "reason": "晉書杜預傳段落敘杜預啟請伐吳之期、陳伐吳至計及帝許之事，全段未提及士徽；向量誤觸。"
         }
       ],
       "unresolved": []
