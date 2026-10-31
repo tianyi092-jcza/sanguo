@@ -87270,6 +87270,33 @@
           "from": "劉備欲南濟江，肅與相見，因傳權旨，為陳成敗。",
           "through": "備進住夏口，使諸葛亮詣權，權遣周瑜、程普等行。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "liubei-sg-biaoquan-lingjingzhou",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 9,
+          "from": "劉備表權行車騎將軍，領徐州牧。",
+          "through": "備領荊州牧，屯公安。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "liubei-sg-dingshu-fenjingzhou",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 13,
+          "from": "是歲劉備定蜀。",
+          "through": "遂分荊州長沙、江夏、桂陽以東屬權，南郡、零陵、武陵以西屬備。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "liubei-sg-yiling-qianfa",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 18,
+          "from": "是歲，劉備帥軍來伐，至巫山、秭歸",
+          "through": "權以陸遜為督，督朱然、潘璋等以拒之。",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [
