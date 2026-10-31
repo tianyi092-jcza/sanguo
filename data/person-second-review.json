@@ -87504,6 +87504,33 @@
           "from": "曹操使劉備徼之，不得過，復走還壽春。",
           "through": "曹操使劉備徼之，不得過，復走還壽春。",
           "citation": "《後漢書·卷七十五·袁術傳》"
+        },
+        {
+          "id": "liubei-hhs-lubu-xiapi-huo-bei-qi-zi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 32,
+          "from": "布得書大恱，即勒兵襲下邳，獲備妻子。",
+          "through": "布得書大恱，即勒兵襲下邳，獲備妻子。",
+          "citation": "《後漢書·卷七十五·呂布傳》"
+        },
+        {
+          "id": "liubei-hhs-jiling-gong-bei-qiu-jiu-bu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 33,
+          "from": "術遣將紀靈等步騎三萬以攻備，備求救於布。",
+          "through": "術遣將紀靈等步騎三萬以攻備，備求救於布。",
+          "citation": "《後漢書·卷七十五·呂布傳》"
+        },
+        {
+          "id": "liubei-hhs-baimen-quan-cao-sha-bu",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 39,
+          "from": "劉備曰：「不可。明公不見呂布事丁建陽、董太師乎？」",
+          "through": "劉備曰：「不可。明公不見呂布事丁建陽、董太師乎？」",
+          "citation": "《後漢書·卷七十五·呂布傳》"
         }
       ],
       "exclusions": [
