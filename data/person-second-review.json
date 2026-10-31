@@ -91586,6 +91586,33 @@
           "from": "苞子遵為尚書，隨諸葛瞻於緜竹，與鄧艾戰，死",
           "through": "苞子遵為尚書，隨諸葛瞻於緜竹，與鄧艾戰，死",
           "citation": "《三國志·蜀書六·張飛傳》"
+        },
+        {
+          "id": "zhugezhan-huangchong-fu-panhuan-tui-mianzhu",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 4,
+          "from": "隨衞將軍諸葛瞻拒鄧艾",
+          "through": "瞻却戰至緜竹",
+          "citation": "《三國志·蜀書十三·黃權傳》"
+        },
+        {
+          "id": "zhugezhan-zhangyi-shizhong-shu-quan",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 30,
+          "from": "侍中諸葛瞻，丞相亮之子，恪從弟也",
+          "through": "侍中諸葛瞻，丞相亮之子，恪從弟也",
+          "citation": "《三國志·蜀書十三·張嶷傳》"
+        },
+        {
+          "id": "zhugezhan-zhonghui-jiangbin-xianzhi-qilei",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 6,
+          "from": "至於足下、諸葛思遠，譬諸草木，吾氣類也",
+          "through": "至於足下、諸葛思遠，譬諸草木，吾氣類也",
+          "citation": "《三國志·蜀書十四·蔣琬傳》"
         }
       ],
       "exclusions": [],
