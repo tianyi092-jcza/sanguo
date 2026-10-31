@@ -85411,6 +85411,33 @@
           "term": "士燮",
           "quote": "孫賁傳",
           "reason": "本段僅為卷內孫賁小傳標題，無正文內容、未提及士燮，係事件關鍵詞誤命中，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-jiangqin-shuijun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 17,
+          "term": "士燮",
+          "quote": "欽督水軍入沔",
+          "reason": "本段記蔣欽督水軍入沔事，全段未提及士燮，係「歸附孫權」事件關鍵詞誤命中，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-zhuran-zhuzhong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 13,
+          "term": "士燮",
+          "quote": "吳將朱然入柤中",
+          "reason": "本段記吳將朱然入柤中及司馬宣王、曹爽議事，全段未提及士燮，係「歸附孫權」事件關鍵詞誤命中，不單立為燮摘錄。"
+        },
+        {
+          "id": "shixie-excl-wanglang-lun-wushu",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 20,
+          "term": "士燮",
+          "quote": "孫權始遣使稱藩",
+          "reason": "本段記王朗論孫權與蜀交兵、當興師與吳并取蜀否，全段未提及士燮，係「歸附孫權」事件關鍵詞誤命中，不單立為燮摘錄。"
         }
       ],
       "unresolved": []
