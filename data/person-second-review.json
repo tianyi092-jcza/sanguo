@@ -84782,9 +84782,37 @@
           "from": "孟獲代闓為主",
           "through": "邊民長不為惡矣",
           "citation": "《華陽國志·卷四》"
+        },
+        {
+          "id": "menghuo-huayang-yongkai-shuoyi",
+          "work": "huayang",
+          "source": "a06-004",
+          "paragraph": 6,
+          "from": "闓使建寧孟獲",
+          "through": "皆從闓",
+          "citation": "《華陽國志·卷四》"
+        },
+        {
+          "id": "menghuo-huayang-yushi-zhongcheng",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 41,
+          "from": "御史中丞孟獲",
+          "through": "右三人建寧人士",
+          "citation": "《華陽國志·卷十二》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "menghuo-excl-001",
+          "work": "jinshu",
+          "source": "a05-073-ahcb",
+          "paragraph": 16,
+          "term": "亮",
+          "quote": "亮有開復中原之謀",
+          "reason": "此「亮」為東晉庾亮（亮弟翼為南蠻校尉可證），與諸葛亮南征及孟獲無關，段中亦無孟獲；僅向量事件相似誤命中，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
