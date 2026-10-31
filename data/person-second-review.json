@@ -89957,6 +89957,15 @@
           "from": "先是，亮使至，帝問曰：「諸葛公起居何如，食可幾米？」",
           "through": "諸葛孔明其能久乎！」",
           "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "zhugeliang-jin-tianwen-beifa-zhan",
+          "work": "jinshu",
+          "source": "a05-012",
+          "paragraph": 126,
+          "from": "五年三月，諸葛亮以大衆寇天水。",
+          "through": "魏東西奔命。",
+          "citation": "《晉書》卷十二·天文志"
         }
       ],
       "exclusions": [
@@ -89995,6 +90004,24 @@
           "term": "諸葛亮",
           "quote": "諸葛亮誅房諸子",
           "reason": "魏氏春秋所載亮誅常房諸子、徙其弟事，裴松之已案其妄（房為襃所誣，執政宜澄察，安有妄殺不辜以恱姦慝），不作確實事實摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-ahcb-tianwen-taibai",
+          "work": "jinshu",
+          "source": "a05-012-ahcb",
+          "paragraph": 166,
+          "term": "諸葛亮",
+          "quote": "諸葛亮以大眾寇天水",
+          "reason": "四庫本此段與 sidneyluo 本 a05-012:126 前半同文（僅分段與用字異），已錄 sidneyluo 本，不重複摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-ahcb-tianwen-yinghuo",
+          "work": "jinshu",
+          "source": "a05-012-ahcb",
+          "paragraph": 167,
+          "term": "諸葛亮",
+          "quote": "諸葛亮據渭南",
+          "reason": "四庫本此段與 sidneyluo 本 a05-012:126 後半同文（僅分段異），已錄 sidneyluo 本，不重複摘錄。"
         }
       ],
       "unresolved": []
