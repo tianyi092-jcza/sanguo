@@ -87603,6 +87603,33 @@
           "from": "劉備遣將吳蘭屯下辯，太祖遣曹洪征之",
           "through": "飛果走。",
           "citation": "《三國志·魏書九·曹休傳》"
+        },
+        {
+          "id": "liubei-sg-jiaxu-xianwenhouwu",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 28,
+          "from": "帝問詡曰：「吾欲伐不從命以一天下，吳、蜀何先？」",
+          "through": "臣以為當今宜先文後武。」",
+          "citation": "《三國志·魏書十·賈詡傳》"
+        },
+        {
+          "id": "liubei-sg-yuanhuan-jumaocai-juru",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 1,
+          "from": "劉備之為豫州，舉渙茂才。",
+          "through": "布慙而止。",
+          "citation": "《三國志·魏書十一·袁渙傳》"
+        },
+        {
+          "id": "liubei-sg-yuanhuan-wenbeisi-buhe",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 4,
+          "from": "時有傳劉備死者，羣臣皆賀；",
+          "through": "以垣下穀者，親舊也。」",
+          "citation": "《三國志·魏書十一·袁渙傳》"
         }
       ],
       "exclusions": [
