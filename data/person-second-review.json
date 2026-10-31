@@ -90293,6 +90293,33 @@
           "from": "華陽國志曰：丞相亮時，有言公惜赦者，亮荅曰",
           "through": "若劉景升、季玉父子，歲歲赦宥，何益於治！",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "zhugeliang-liuqi-shensheng-zhonger",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 2,
+          "from": "琦每欲與亮謀自安之術，亮輒拒塞，未與處畫。",
+          "through": "亮荅曰：「君不見申生在內而危，重耳在外而安乎？」",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-miaoli-mianyang",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 18,
+          "from": "景耀六年春，詔為亮立廟於沔陽。",
+          "through": "景耀六年春，詔為亮立廟於沔陽。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-gushi-ershisi-pian",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 20,
+          "from": "使臣定故蜀丞相諸葛亮故事。",
+          "through": "凡為二十四篇，篇名如右。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
