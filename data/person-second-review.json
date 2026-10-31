@@ -85767,6 +85767,33 @@
           "term": "士徽",
           "quote": "吳將陶璜等圍交趾",
           "reason": "敘陶璜圍交趾、楊稷等降吳事，時代在士徽之後，與士徽生平無關；僅因交趾地名向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-sunce-xuji",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 13,
+          "term": "士徽",
+          "quote": "策陰欲襲許，迎漢帝",
+          "reason": "孫策事，敘孫策欲襲許、殺高岱、于吉及遇刺身亡事，全段未提及士徽；僅因事件向量誤觸。"
+        },
+        {
+          "id": "shihui-excl-shixie-xiongzhang",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 17,
+          "term": "士徽",
+          "quote": "燮兄弟並為列郡，雄長一州",
+          "reason": "士燮本傳段落，敘燮兄弟並為列郡、雄長交州及董奉活燮事，皆其父輩事，未提及士徽。"
+        },
+        {
+          "id": "shihui-excl-zhugeke-zhengxing",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 14,
+          "term": "士徽",
+          "quote": "恪征行之後，曹所奏署令長職司，一罷更選",
+          "reason": "諸葛恪本傳段落，敘恪征行後罷易曹所奏署令長、治威嚴事，與士徽無關；僅因事件向量誤觸。"
         }
       ],
       "unresolved": []
