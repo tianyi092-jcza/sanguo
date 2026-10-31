@@ -85740,6 +85740,33 @@
           "term": "士徽",
           "quote": "後燮遣吏張旻奉貢詣京都",
           "reason": "敘士燮受漢璽書、遣吏奉貢事，皆其父士燮生平，非士徽事。"
+        },
+        {
+          "id": "shihui-excl-shiyi-hepu",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 15,
+          "term": "士徽",
+          "quote": "燮乃表壹領合浦太守",
+          "reason": "敘士燮表其弟士壹領合浦太守及諸弟分領郡事，皆士壹兄弟生平，未提及士徽。"
+        },
+        {
+          "id": "shihui-excl-shixie-wannian",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 19,
+          "term": "士徽",
+          "quote": "燮在郡四十餘歲，黃武五年，年九十卒",
+          "reason": "敘士燮晚年奉吳、遣子入質及卒於黃武五年，皆其父士燮生平，止於燮卒，未及士徽自署拒吳事。"
+        },
+        {
+          "id": "shihui-excl-jinshu-taohuang",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 68,
+          "term": "士徽",
+          "quote": "吳將陶璜等圍交趾",
+          "reason": "敘陶璜圍交趾、楊稷等降吳事，時代在士徽之後，與士徽生平無關；僅因交趾地名向量誤觸。"
         }
       ],
       "unresolved": []
