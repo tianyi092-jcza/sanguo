@@ -88487,6 +88487,33 @@
           "term": "劉備",
           "quote": "劉備盛兵西陵",
           "reason": "吳範以風氣占驗一段，劉備盛兵西陵僅為占辭觸發背景，段落主旨在吳範占驗如言，未載劉備部署、交涉或和親經過，屬他傳占驗帶提，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-xuandi-fanwei-quanbei-waixiang",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 5,
+          "term": "劉備",
+          "quote": "孫權、劉備，外親內疏",
+          "reason": "此段主述宣帝諫止魏武遷都、權遣呂蒙襲公安，劉備僅在宣帝論孫權、劉備關係之辭中帶提，未載劉備本人言行、部署或樊圍新事實，屬他傳論說帶提，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-xuandi-yu-mengda-qi-bei",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 16,
+          "term": "劉備",
+          "quote": "將軍昔棄劉備，託身國家",
+          "reason": "此段主述宣帝諭孟達、潛軍進討，劉備僅在宣帝致孟達書中以「昔棄劉備」一語追述孟達歸魏背景，未載劉備本人言行或新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-xuandi-zhanglu-qu-shu-ce",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 2,
+          "term": "劉備",
+          "quote": "劉備以詐力虜劉璋，蜀人未附而遠爭江陵",
+          "reason": "此段主述宣帝從討張魯時獻取蜀之策而魏武不從，劉備僅為宣帝論蜀勢之辭中的對象，未載劉備本人言行或取蜀、爭江陵的新事實，入蜀事本傳已載，不作摘錄。"
         }
       ],
       "unresolved": []
