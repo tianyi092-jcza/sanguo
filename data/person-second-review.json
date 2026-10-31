@@ -87360,6 +87360,24 @@
           "from": "劉備章武元年，亦以郡國封建諸王",
           "through": "其戶二十萬，男女口九十萬。",
           "citation": "《晉書》卷十四·地理志"
+        },
+        {
+          "id": "liubei-jin-dili-yizhou-guling",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 209,
+          "from": "二十一年，劉備分巴郡立固陵郡。",
+          "through": "以犍爲屬國爲朱提郡。",
+          "citation": "《晉書》卷十四·地理志"
+        },
+        {
+          "id": "liubei-jin-dili-liangzhou-zitong",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 119,
+          "from": "劉備據蜀，又分廣漢之葭萌、涪城、梓潼、白水四縣",
+          "through": "以縣並屬巴西郡。",
+          "citation": "《晉書》卷十四·地理志"
         }
       ],
       "exclusions": [
@@ -87434,6 +87452,15 @@
           "term": "劉備",
           "quote": "建安二十四年，劉備將關羽圍樊、襄陽",
           "reason": "全琮傳記全琮獻討關羽之計並其後受封，劉備僅為關羽圍樊、襄陽的背景一語，關羽圍樊之事已有本傳及他傳摘錄，無劉備本人新事實，不作摘錄。"
+        },
+        {
+          "id": "liubei-excl-jin-dili-zhangwu-mirror",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 13,
+          "term": "劉備",
+          "quote": "劉備章武元年，亦以郡國封建諸王",
+          "reason": "此段章武元年封建諸王及戶口數與已摘錄的 a05-014-ahcb 第 6 段同文異本重出，無劉備本人新事實，不重複摘錄。"
         }
       ],
       "unresolved": []
