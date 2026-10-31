@@ -92128,6 +92128,15 @@
           "from": "關羽字雲長，本字長生，河東解人也",
           "through": "隨先主周旋，不避艱險",
           "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
+        },
+        {
+          "id": "guanyu-ben-zhuan-fancheng-shuiyan-qijun",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 5,
+          "from": "二十四年，先主為漢中王，拜羽為前將軍，假節鉞",
+          "through": "羽威震華夏",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
         }
       ],
       "exclusions": [
@@ -92265,6 +92274,24 @@
           "term": "關羽",
           "quote": "關羽傳",
           "reason": "本段僅為本傳篇目題名，無事蹟內容，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhangfei-zhuan-tongshi-nianchang",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 8,
+          "term": "關羽",
+          "quote": "少與關羽俱事先主。羽年長數歲，飛兄事之",
+          "reason": "本段主角為張飛（張飛傳起首），關羽僅在起首交代少時同事先主、年長數歲一語；關羽早年事蹟由本傳正錄覆蓋，本段不另錄為關羽事蹟。"
+        },
+        {
+          "id": "guanyu-excl-zhangfei-zhuan-yizhou-shangci-binglie",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 9,
+          "term": "關羽",
+          "quote": "賜諸葛亮、法正、飛及關羽金各五百斤，銀千斤，錢五千萬，錦千匹",
+          "reason": "本段主角為張飛入蜀破嚴顏、會於成都之事，關羽僅在益州既平賞賜名單中並列一語，無關羽具體事蹟，不另錄。"
         }
       ],
       "unresolved": []
