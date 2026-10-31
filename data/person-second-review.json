@@ -90482,6 +90482,15 @@
           "from": "會先主薨，諸葛亮遣鄧芝使吳",
           "through": "故許芝遣裔。",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳·張裔傳》"
+        },
+        {
+          "id": "zhugeliang-hanzhong-wen-yanghong-biao-taishou",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 13,
+          "from": "先主爭漢中，急書發兵，軍師將軍諸葛亮以問洪",
+          "through": "亮於是表洪領蜀郡太守，衆事皆辦，遂使即真。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·楊洪傳》"
         }
       ],
       "exclusions": [
@@ -90727,6 +90736,24 @@
           "term": "諸葛亮",
           "quote": "先主甚悼惜，乃詔諸葛亮曰",
           "reason": "本段主體為霍峻守葭萌城、破扶禁向存之功及卒後先主悼惜、親率群僚弔祭；諸葛亮僅為詔令受文者，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-zhouqun-biaoqing",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 6,
+          "term": "諸葛亮",
+          "quote": "諸葛亮表請其罪",
+          "reason": "本段主體為周羣私語漏言、先主銜其不遜而下獄棄市；諸葛亮僅表請其罪而未得允（先主荅以「芳蘭生門，不得不鉏」），無亮的具體言行、決策結果或事蹟可摘，不作摘錄。"
+        },
+        {
+          "id": "zhugeliang-excl-wenli-yan-liangzisun",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 30,
+          "term": "諸葛亮",
+          "quote": "又諸葛亮、蔣琬、費禕等子孫流徙中畿",
+          "reason": "本段主體為譙周晚年事與文立上言請量才叙用故蜀大官及盡忠死事者子孫；諸葛亮僅在文立所列名單中被提及，無亮的具體言行、決策或事蹟可摘，不作摘錄。"
         }
       ],
       "unresolved": []
