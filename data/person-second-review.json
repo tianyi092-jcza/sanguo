@@ -91641,9 +91641,37 @@
           "from": "十一月，鄧艾帥萬餘人自陰平踰絕險至江由，破蜀將諸葛瞻於綿竹，斬瞻，傳首。",
           "through": "十一月，鄧艾帥萬餘人自陰平踰絕險至江由，破蜀將諸葛瞻於綿竹，斬瞻，傳首。",
           "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "zhugezhan-jinshu-chenshou-wei-gongshu",
+          "work": "jinshu",
+          "source": "a05-082-ahcb",
+          "paragraph": 0,
+          "from": "諸葛瞻又輕壽。壽爲亮立傳，謂亮將略非長，無應敵之才，言瞻惟工書，名過其實。",
+          "through": "諸葛瞻又輕壽。壽爲亮立傳，謂亮將略非長，無應敵之才，言瞻惟工書，名過其實。",
+          "citation": "《晉書·卷八十二·陳壽傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhugezhan-excl-wendi-mianzhu-yiben-chongchu",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 21,
+          "term": "諸葛瞻",
+          "quote": "破蜀將諸葛瞻於緜竹，斬瞻，傳首。",
+          "reason": "與已錄 a05-002-ahcb:51（《晉書·卷二·文帝紀》四庫本同段）同文異本重出，不重錄。"
+        },
+        {
+          "id": "zhugezhan-excl-murongzhen-yinyu",
+          "work": "jinshu",
+          "source": "a05-128-ahcb",
+          "paragraph": 12,
+          "term": "諸葛瞻",
+          "quote": "諸葛瞻不據束馬之嶮，卒擒于鄧艾。",
+          "reason": "後世慕容鎮議事引古為喻，借緜竹舊事作反例，無關於瞻的新史實，不作本人史實錄入。"
+        }
+      ],
       "unresolved": []
     }
   ]
