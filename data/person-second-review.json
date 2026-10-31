@@ -87585,6 +87585,24 @@
           "from": "二十三年，劉備軍陽平關，淵率諸將拒之，相守連年。",
           "through": "淵分所將兵半助郃，為備所襲，淵遂戰死。",
           "citation": "《三國志·魏書九·夏侯淵傳》"
+        },
+        {
+          "id": "liubei-sg-caoren-guandu-xunxian",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 17,
+          "from": "紹遣劉備徇㶏彊諸縣，多舉衆應之。",
+          "through": "仁盡復收諸叛縣而還。",
+          "citation": "《三國志·魏書九·曹仁傳》"
+        },
+        {
+          "id": "liubei-sg-caoxiu-xiabian-wulan",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 31,
+          "from": "劉備遣將吳蘭屯下辯，太祖遣曹洪征之",
+          "through": "飛果走。",
+          "citation": "《三國志·魏書九·曹休傳》"
         }
       ],
       "exclusions": [
@@ -87758,6 +87776,15 @@
           "term": "劉備",
           "quote": "劉備、孫權乘間作禍。",
           "reason": "此為晉滅吳前詔書的追述總括，僅以劉備、孫權乘間作禍概括季漢分崩，無劉備具體行動、繫年或新事實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-sg-xunyou-lubu-bai-bei",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 17,
+          "term": "劉備",
+          "quote": "布以敗劉備，而臧霸等應之。",
+          "reason": "此段主述荀攸勸太祖征呂布之謀議，劉備僅以「布以敗劉備」一句作背景帶過，無劉備具體行動、繫年細節或本傳以外的新事實，不摘錄。"
         }
       ],
       "unresolved": []
