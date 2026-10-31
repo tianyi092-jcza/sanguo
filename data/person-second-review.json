@@ -89579,6 +89579,33 @@
           "from": "諸葛亮圍祁山，南安、天水、安定三郡反應亮。",
           "through": "諸葛亮圍祁山，南安、天水、安定三郡反應亮。",
           "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "zhugeliang-liuye-hanzhong-advice",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 31,
+          "from": "若小緩之，諸葛亮明於治而為相，關羽、張飛勇冠三軍而為將，蜀民旣定，據險守要，則不可犯矣。",
+          "through": "若小緩之，諸葛亮明於治而為相，關羽、張飛勇冠三軍而為將，蜀民旣定，據險守要，則不可犯矣。",
+          "citation": "《三國志·魏書十四·程郭董劉蔣劉傳》"
+        },
+        {
+          "id": "zhugeliang-nanzheng-court-debate",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 46,
+          "from": "諸葛亮出在南鄭，時議者以為可因大發兵，就討之，帝意亦然，以問資。",
+          "through": "諸葛亮出在南鄭，時議者以為可因大發兵，就討之，帝意亦然，以問資。",
+          "citation": "《三國志·魏書十四·程郭董劉蔣劉傳》"
+        },
+        {
+          "id": "zhugeliang-qinglong-weinan",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 8,
+          "from": "青龍二年，諸葛亮率衆出渭南。",
+          "through": "青龍二年，諸葛亮率衆出渭南。",
+          "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳》"
         }
       ],
       "exclusions": [
