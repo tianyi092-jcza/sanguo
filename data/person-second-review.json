@@ -92074,6 +92074,15 @@
           "from": "權忿之，乃遣呂蒙襲奪長沙、零陵、桂陽三郡",
           "through": "令關羽入益陽",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "guanyu-xianzhu-hanzhongwang-biao-qianming",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "from": "軍師將軍臣諸葛亮、盪寇將軍漢壽亭侯臣關羽",
+          "through": "征西將軍臣黃忠",
+          "citation": "《三國志·蜀書二·先主傳》"
         }
       ],
       "exclusions": [
@@ -92157,6 +92166,24 @@
           "term": "關羽",
           "quote": "孫權殺關羽，取荊州，以璋為益州牧，駐秭歸",
           "reason": "本段主角為劉璋歸吳後事；關羽被殺、孫權取荊州僅為背景交代，無關羽新增事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-xianzhu-dianlue-fan-sha-yu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 19,
+          "term": "關羽",
+          "quote": "時關羽攻曹公將曹仁，禽于禁於樊。俄而孫權襲殺羽，取荊州。",
+          "reason": "本段主角為先主受漢中王印綬、還治成都及拔魏延鎮漢中；關羽樊城攻曹仁、禽于禁事已錄於曹仁傳、于禁傳等樊城諸傳，襲殺敗亡經過由本傳正錄，本段典略附語無關羽新增事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-xianzhu-quanjin-yuxi-beijing",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 21,
+          "term": "關羽",
+          "quote": "又前關羽圍樊、襄陽，襄陽男子張嘉、王休獻玉璽",
+          "reason": "本段主角為群臣勸進先主稱帝、陳符瑞玉璽；關羽圍樊僅為玉璽獻進的時間背景，圍樊戰事已錄於樊城諸傳，本段無關羽新增事蹟，不另錄。"
         }
       ],
       "unresolved": []
