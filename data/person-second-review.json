@@ -87486,6 +87486,24 @@
           "from": "紹使劉備、文醜挑戰，曹操又擊破之，斬文醜。",
           "through": "紹使劉備、文醜挑戰，曹操又擊破之，斬文醜。",
           "citation": "《後漢書·卷七十四上·列傳第六十四上 袁紹傳》"
+        },
+        {
+          "id": "liubei-hhs-biao-qi-jingzhou-cishi",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 26,
+          "from": "劉備表琦爲荊州刺史。",
+          "through": "劉備表琦爲荊州刺史。",
+          "citation": "《後漢書·卷七十四下·劉表傳》"
+        },
+        {
+          "id": "liubei-hhs-jiao-yuanshu-shouchun",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 25,
+          "from": "曹操使劉備徼之，不得過，復走還壽春。",
+          "through": "曹操使劉備徼之，不得過，復走還壽春。",
+          "citation": "《後漢書·卷七十五·袁術傳》"
         }
       ],
       "exclusions": [
@@ -87623,6 +87641,15 @@
           "term": "劉備",
           "quote": "琮舉州請降，劉備奔夏口。",
           "reason": "劉琮降、劉備奔夏口一事已另錄三國志 a04-006 第 36 段及 a04-001 第 23 段摘錄，本段僅為後漢書劉表傳同事件異文，附夏口地注，無劉備新事實，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-hhs-sunce-jian-shu-xuande-zhengmeng",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 22,
+          "term": "劉備",
+          "quote": "玄德爭盟，劉備也。",
+          "reason": "孫策諫袁術書中僅列名泛指劉備與諸侯爭盟之勢，無劉備具體事實，本段主體為孫策諫術，不重複摘錄。"
         }
       ],
       "unresolved": []
