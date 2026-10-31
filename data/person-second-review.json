@@ -87477,6 +87477,15 @@
           "from": "曹操畏紹過河，乃急擊備，遂破之。",
           "through": "備奔紹，紹於是進軍攻許。",
           "citation": "《後漢書·卷七十四上·列傳第六十四上 袁紹傳》"
+        },
+        {
+          "id": "liubei-hhs-shao-shi-bei-wenchou-tiaozhan",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 35,
+          "from": "紹使劉備、文醜挑戰，曹操又擊破之，斬文醜。",
+          "through": "紹使劉備、文醜挑戰，曹操又擊破之，斬文醜。",
+          "citation": "《後漢書·卷七十四上·列傳第六十四上 袁紹傳》"
         }
       ],
       "exclusions": [
@@ -87596,6 +87605,24 @@
           "term": "劉備",
           "quote": "布夜走，東奔劉備。",
           "reason": "本段為袁紹討曹操檄文，劉備僅在引魏志敘呂布敗走事中一語帶過；呂布東奔劉備一事已另錄 a03-075 第 31 段摘錄，本段無劉備新事實，不重複摘錄。"
+        },
+        {
+          "id": "liubei-excl-hhs-fuxun-yi-liubei-yu-caogong",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 24,
+          "term": "劉備",
+          "quote": "以劉備而敵曹公，不當也",
+          "reason": "本段主體為傅巽說劉琮歸降，劉備僅作比較對象出現於論證中，無劉備本人行動或新事實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-hhs-liucong-jiang-bei-ben-xiakou-yilu",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 25,
+          "term": "劉備",
+          "quote": "琮舉州請降，劉備奔夏口。",
+          "reason": "劉琮降、劉備奔夏口一事已另錄三國志 a04-006 第 36 段及 a04-001 第 23 段摘錄，本段僅為後漢書劉表傳同事件異文，附夏口地注，無劉備新事實，不重複摘錄。"
         }
       ],
       "unresolved": []
