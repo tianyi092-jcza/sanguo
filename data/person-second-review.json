@@ -91613,6 +91613,34 @@
           "from": "至於足下、諸葛思遠，譬諸草木，吾氣類也",
           "through": "至於足下、諸葛思遠，譬諸草木，吾氣類也",
           "citation": "《三國志·蜀書十四·蔣琬傳》"
+        },
+        {
+          "id": "zhugezhan-jiangwei-mianzhu-po",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 21,
+          "from": "而鄧艾自陰平由景谷道傍入，遂破諸葛瞻於緜竹。",
+          "through": "而鄧艾自陰平由景谷道傍入，遂破諸葛瞻於緜竹。",
+          "citation": "《三國志·蜀書十四·姜維傳》"
+        },
+        {
+          "id": "zhugezhan-sunsheng-mianzhu-bai-chengdu-kui",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 22,
+          "from": "艾詭道傍入，出於其後，諸葛瞻旣敗，成都自潰。",
+          "through": "艾詭道傍入，出於其後，諸葛瞻旣敗，成都自潰。",
+          "citation": "《三國志·蜀書十四·姜維傳》",
+          "note": "孫盛《晉陽秋》異說層：以瞻敗、成都自潰論姜維進退兩難。"
+        },
+        {
+          "id": "zhugezhan-jinshu-wendi-mianzhu-zhan-si",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 51,
+          "from": "十一月，鄧艾帥萬餘人自陰平踰絕險至江由，破蜀將諸葛瞻於綿竹，斬瞻，傳首。",
+          "through": "十一月，鄧艾帥萬餘人自陰平踰絕險至江由，破蜀將諸葛瞻於綿竹，斬瞻，傳首。",
+          "citation": "《晉書·卷二·文帝紀》"
         }
       ],
       "exclusions": [],
