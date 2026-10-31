@@ -87135,6 +87135,33 @@
           "from": "權以露布於蜀，劉備聞之，曰：「老賊不死，禍亂未已。」",
           "through": "權以露布於蜀，劉備聞之，曰：「老賊不死，禍亂未已。」",
           "citation": "《三國志·魏書十·荀彧傳》裴注引《獻帝春秋》"
+        },
+        {
+          "id": "liubei-sg-jiaxu-zhanglu-shuzhong-jing",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 26,
+          "from": "魏武後克平張魯，蜀中一日數十驚，劉備雖斬之而不能止，由不用劉曄之計，以失席卷之會，斤石旣差，悔無所及，即亦此事之類也。",
+          "through": "魏武後克平張魯，蜀中一日數十驚，劉備雖斬之而不能止，由不用劉曄之計，以失席卷之會，斤石旣差，悔無所及，即亦此事之類也。",
+          "citation": "《三國志·魏書十·賈詡傳》裴注"
+        },
+        {
+          "id": "liubei-sg-kongrong-biao-qingzhou",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 8,
+          "from": "在郡六年，劉備表融領青州刺史。",
+          "through": "在郡六年，劉備表融領青州刺史。",
+          "citation": "《三國志·魏書十二·崔琰傳》裴注引《續漢書》"
+        },
+        {
+          "id": "liubei-sg-hekui-chengfu-zhenfu",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 18,
+          "from": "自劉備叛後，東南多變。太祖以陳羣為鄖令，夔為城父令，諸縣皆用名士以鎮撫之，其後吏民稍定。",
+          "through": "自劉備叛後，東南多變。太祖以陳羣為鄖令，夔為城父令，諸縣皆用名士以鎮撫之，其後吏民稍定。",
+          "citation": "《三國志·魏書十二·何夔傳》裴注引《魏書》"
         }
       ],
       "exclusions": [
