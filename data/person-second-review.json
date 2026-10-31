@@ -84335,15 +84335,21 @@
     {
       "id": "p0121",
       "name": "張梁",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪收尾：共錄摘錄 3 條（《後漢書》3 條：靈帝紀 1 條、皇甫嵩傳 2 條），排除 40 條（《後漢書》19 條、《三國志》9 條、《晉書》12 條），未解決 0 條；向量候選已窮盡（以最新 covered 41 段重跑 retrieve，得候選 0 段）。",
+        "本傳補齊：張梁在《三國志》中無專傳；已核對《後漢書》卷七十一皇甫嵩傳 a03-071 全 32 段，提及本人者僅第 2、5 段（人公將軍稱號、廣宗之戰被斬），皆已錄為摘錄；其餘含「梁」字段落為梁州、梁衍、梁龍等一般用語或他人，非本人，未硬湊無關段落。",
+        "辨人：張梁為太平道首領張角之弟、張寶之弟，稱人公將軍；與孫吳將領張梁（孫皎、孫奐、陸遜部將）同名異人嚴格區分；單字「梁」須確認確指本人；「張角兄弟」泛稱未具名者按全字匹配原則不錄入張梁名下。",
+        "生平繫年：中平元年（184）黃巾起義，稱人公將軍；同年於廣宗為皇甫嵩所破被斬，獲首三萬級；靈帝紀亦載皇甫嵩於廣宗獲張角弟梁。",
+        "勢力繫年：自始即為太平道／黃巾一系，與兄張角、張寶同系，不屬任何諸侯勢力；其死後黃巾餘部去向不得倒記為張梁本人勢力延續。"
+      ],
       "excerpts": [
         {
           "id": "zhangliang-hhs-guangzong-huo",
@@ -84353,6 +84359,24 @@
           "from": "冬十月，皇甫嵩與黃巾賊戰於廣宗，獲張角弟梁",
           "through": "發棺斷頭，傳送馬市",
           "citation": "《後漢書·孝靈帝紀》"
+        },
+        {
+          "id": "zhangliang-hhs-rengong-general",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 2,
+          "from": "角弟寶稱「地公將軍」",
+          "through": "寶弟梁稱「人公將軍」",
+          "citation": "《後漢書·卷七十一·皇甫嵩朱儁列傳》"
+        },
+        {
+          "id": "zhangliang-hhs-guangzong-zhan",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 5,
+          "from": "梁衆精勇，嵩不能剋",
+          "through": "斬梁，獲首三萬級，赴河死者五萬許人",
+          "citation": "《後漢書·卷七十一·皇甫嵩朱儁列傳》"
         }
       ],
       "exclusions": [
