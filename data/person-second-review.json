@@ -88923,6 +88923,33 @@
           "from": "劉禪以為左將軍，脩欲刺禪而不得親近",
           "through": "事輙不克，故殺禕焉。",
           "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "liushan-shu-fall-wei-annals",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 75,
+          "from": "自鄧艾、鍾會率衆伐蜀",
+          "through": "巴蜀皆平。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "liushan-peizhu-huanghou-xiahoushi",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 14,
+          "from": "產息女，為劉禪皇后。",
+          "through": "厚加爵寵。",
+          "citation": "《三國志·魏書九·夏侯淵傳》"
+        },
+        {
+          "id": "liushan-dengai-qingjiang",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 30,
+          "from": "劉禪遣使奉皇帝璽綬",
+          "through": "為箋詣艾請降。",
+          "citation": "《三國志·魏書二十八·鄧艾傳》"
         }
       ],
       "exclusions": [
