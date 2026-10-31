@@ -87630,6 +87630,24 @@
           "from": "時有傳劉備死者，羣臣皆賀；",
           "through": "以垣下穀者，親舊也。」",
           "citation": "《三國志·魏書十一·袁渙傳》"
+        },
+        {
+          "id": "liubei-sg-chengyu-quansha-bei-jiebing",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 5,
+          "from": "劉備失徐州，來歸太祖。昱說太祖殺備，太祖不聽。",
+          "through": "備至徐州，遂殺車胄，舉兵背太祖。",
+          "citation": "《三國志·魏書十四·程昱傳》"
+        },
+        {
+          "id": "liubei-sg-xuzhongping-xushu-gui",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 3,
+          "from": "徐庶母為曹公所得，劉備乃遣庶歸，",
+          "through": "欲為天下者恕人子之情也。",
+          "citation": "《三國志·魏書十四·程昱傳》"
         }
       ],
       "exclusions": [
@@ -87812,6 +87830,15 @@
           "term": "劉備",
           "quote": "布以敗劉備，而臧霸等應之。",
           "reason": "此段主述荀攸勸太祖征呂布之謀議，劉備僅以「布以敗劉備」一句作背景帶過，無劉備具體行動、繫年細節或本傳以外的新事實，不摘錄。"
+        },
+        {
+          "id": "liubei-excl-sg-wanglang-yi-wu-shu",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 20,
+          "term": "劉備",
+          "quote": "孫權始遣使稱藩，而與劉備交兵",
+          "reason": "此段主述王朗建安末議興師與吳并取蜀之計，劉備僅以「與劉備交兵」「蜀賊」作背景帶過，無劉備具體行動、繫年細節或本傳以外的新事實，不摘錄。"
         }
       ],
       "unresolved": []
