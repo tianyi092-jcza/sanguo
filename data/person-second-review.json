@@ -89687,6 +89687,33 @@
           "from": "五年春，丞相亮出屯漢中，營沔北陽平石馬。",
           "through": "五年春，丞相亮出屯漢中，營沔北陽平石馬。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "zhugeliang-zhaoyun-dujiang-liu-taizi",
+          "work": "sanguozhi",
+          "source": "a04-034",
+          "paragraph": 3,
+          "from": "夫人欲將太子歸吳，諸葛亮使趙雲勒兵斷江留太子，乃得止。",
+          "through": "夫人欲將太子歸吳，諸葛亮使趙雲勒兵斷江留太子，乃得止。",
+          "citation": "《三國志·蜀書四·二主妃子傳·先主穆皇后傳》"
+        },
+        {
+          "id": "zhugeliang-gonggeng-longmu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 0,
+          "from": "玄卒，亮躬耕隴畒，好為梁父吟。",
+          "through": "玄卒，亮躬耕隴畒，好為梁父吟。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zhugeliang-zhenshou-chengdu-zushi-zubing",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 4,
+          "from": "先主外出，亮常鎮守成都，足食足兵。",
+          "through": "先主外出，亮常鎮守成都，足食足兵。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
         }
       ],
       "exclusions": [
