@@ -93223,6 +93223,33 @@
           "from": "張飛、關羽勇而有義，皆萬人之敵，而為之將",
           "through": "張飛、關羽勇而有義，皆萬人之敵，而為之將",
           "citation": "裴注引《傅子》"
+        },
+        {
+          "id": "zhangfei-xianzhuzhuan-dangqu-po-he",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 15,
+          "from": "先主令張飛進兵宕渠，與郃等戰於瓦口，破郃等，郃收兵還南鄭",
+          "through": "先主令張飛進兵宕渠，與郃等戰於瓦口，破郃等，郃收兵還南鄭",
+          "citation": "《三國志·蜀書二·先主傳第二》"
+        },
+        {
+          "id": "zhangfei-xianzhuzhuan-hanzhongwang-biao-zhenglu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "from": "征虜將軍新亭侯臣張飛",
+          "through": "征虜將軍新亭侯臣張飛",
+          "citation": "《三國志·蜀書二·先主傳第二》"
+        },
+        {
+          "id": "zhangfei-xianzhuzhuan-cheqi-zuoyou-hai",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 22,
+          "from": "車騎將軍張飛為其左右所害",
+          "through": "車騎將軍張飛為其左右所害",
+          "citation": "《三國志·蜀書二·先主傳第二》"
         }
       ],
       "exclusions": [
