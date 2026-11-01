@@ -93697,6 +93697,33 @@
           "from": "趙雲傳曰「雲身抱弱子以免」，即後主也",
           "through": "趙雲傳曰「雲身抱弱子以免」，即後主也",
           "citation": "裴注引《趙雲傳》"
+        },
+        {
+          "id": "zhaoyun-houzhu-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 40,
+          "from": "四年春三月，追謚故將軍趙雲",
+          "through": "四年春三月，追謚故將軍趙雲",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "zhaoyun-ganhuanghou-changban-baohu",
+          "work": "sanguozhi",
+          "source": "a04-034",
+          "paragraph": 1,
+          "from": "賴趙雲保護，得免於難",
+          "through": "賴趙雲保護，得免於難",
+          "citation": "《三國志·蜀書四·二主妃子傳·先主甘皇后傳》"
+        },
+        {
+          "id": "zhaoyun-hanjinchunqiu-duanjiang-liutaizi",
+          "work": "peizhu",
+          "source": "a04-034",
+          "paragraph": 3,
+          "from": "諸葛亮使趙雲勒兵斷江留太子，乃得止",
+          "through": "諸葛亮使趙雲勒兵斷江留太子，乃得止",
+          "citation": "裴注引《漢晉春秋》"
         }
       ],
       "exclusions": [],
