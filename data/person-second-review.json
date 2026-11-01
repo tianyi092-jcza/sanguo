@@ -99235,6 +99235,33 @@
           "from": "以都護李嚴書曉喻闓",
           "through": "闓荅曰愚聞",
           "citation": "《華陽國志·卷四 南中志》"
+        },
+        {
+          "id": "ly-hygz-mianzhu-jiang",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 17,
+          "from": "遣䕶軍南陽李嚴江夏費觀等督綿竹軍",
+          "through": "降同拜禆將軍",
+          "citation": "《華陽國志·卷五 公孫述劉二牧志》"
+        },
+        {
+          "id": "ly-hygz-jianwei-taishou",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 13,
+          "from": "李嚴爲犍爲太守",
+          "through": "和嚴權本劉璋所授用也",
+          "citation": "《華陽國志·卷六 劉先主志》"
+        },
+        {
+          "id": "ly-hygz-yanghong-gongcao",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 16,
+          "from": "初洪爲犍爲太守李嚴功曺",
+          "through": "嚴故在職",
+          "citation": "《華陽國志·卷六 劉先主志》"
         }
       ],
       "exclusions": [
