@@ -93322,6 +93322,24 @@
           "from": "雲與張飛勒兵截江，",
           "through": "乃得後主還。",
           "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
+        },
+        {
+          "id": "zhangfei-zhaoyunzhuan-suxi-pingding",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "from": "亮率雲與張飛等俱泝江西上，",
+          "through": "平定郡縣。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
+        },
+        {
+          "id": "zhangfei-zhaoyunzhuan-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "from": "於是關羽、張飛、馬超、龐統、黃忠及雲乃追謚，",
+          "through": "時論以為榮。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
         }
       ],
       "exclusions": [
@@ -93351,6 +93369,15 @@
           "term": "張飛",
           "quote": "張飛傳",
           "reason": "本段僅為《張飛傳》篇目標題，無敘事內容；張飛本傳正文自次段（a04-036:8，長阪斷橋）起，已另錄為 excerpt，不另錄標題段。"
+        },
+        {
+          "id": "zhangfei-excl-shanyang-lizhi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 16,
+          "term": "張飛",
+          "quote": "羽、飛並杖刀立直",
+          "reason": "本段所引山陽公載記稱馬超呼備字、關羽與張飛杖刀立直以威懾，裴松之已駁斥：備入蜀時關羽鎮荊州、未嘗在益土，焉得與張飛立直，言不經理；此軼事不可作張飛史實錄入，僅記排除。"
         }
       ],
       "unresolved": []
