@@ -98207,6 +98207,36 @@
           "through": "違亮節度爲郃所破",
           "citation": "《華陽國志》卷七所載",
           "note": "華陽國志記祁山之役，張郃拒亮，亮使參軍馬謖與王平在前，馬謖違亮節度為郃所破；與三國志街亭記載互證。"
+        },
+        {
+          "id": "masu-hygz-houzhuce-jieting",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 8,
+          "from": "街亭之敗咎由馬謖",
+          "through": "君其無辭",
+          "citation": "《華陽國志》卷七所載",
+          "note": "華陽國志記後主詔策諸葛亮：街亭之敗咎由馬謖，而亮引愆自抑，詔令復其丞相之任；與三國志街亭記載互證。"
+        },
+        {
+          "id": "masu-sgz-jieting-zhengwen",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 11,
+          "from": "建興六年，亮出軍向祁山",
+          "through": "謖年三十九。",
+          "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 馬良傳》所載",
+          "note": "本傳正文：建興六年亮出軍祁山，違衆拔謖統大衆在前，與張郃戰于街亭，為郃所破；謖下獄物故，年三十九。"
+        },
+        {
+          "id": "masu-sgz-linzhongshu-peizhu",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 11,
+          "from": "襄陽記曰：謖臨終與亮書曰",
+          "through": "謖雖死無恨於黃壤也。",
+          "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 馬良傳》所載",
+          "note": "裴注引襄陽記：謖臨終與亮書，自比猶子猶父，願亮深惟殛鯀興禹之義，使平生之交不虧；與正文下獄物故分層，不相混。"
         }
       ],
       "exclusions": [],
