@@ -94573,8 +94573,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "huangzhong-xianzhuan-xiang-zhang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "乃使黃忠、卓膺勒兵向璋",
+          "citation": "《三國志·蜀書二·先主傳第二》",
+          "through": "乃使黃忠、卓膺勒兵向璋"
+        },
+        {
+          "id": "huangzhong-xianzhuan-dingjun-zhan-yuan",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 17,
+          "from": "先主命黃忠乘高鼓譟攻之，大破淵軍，斬淵",
+          "citation": "《三國志·蜀書二·先主傳第二》",
+          "through": "先主命黃忠乘高鼓譟攻之，大破淵軍，斬淵"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "huangzhong-excl-houhanshu-pan-tongjun",
+          "work": "houhanshu",
+          "source": "a03-053",
+          "paragraph": 32,
+          "term": "黃忠",
+          "quote": "使蟠同郡黃忠書勸曰",
+          "reason": "此黃忠為隱士蟠之同郡人、代大將軍何進致書勸蟠出仕，與南陽黃忠（荊州牧劉表部將、後歸先主）籍貫與事蹟皆不相合，疑為同名異人，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
