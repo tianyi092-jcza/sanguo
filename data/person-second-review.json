@@ -93823,6 +93823,33 @@
           "from": "丞相亮揚聲由斜谷道取郿使鎮東將軍趙雲",
           "through": "據箕谷為疑軍",
           "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "zhaoyun-benzhuan-hanshui-kongying",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "from": "雲入營，更大開門，偃旗息鼓",
+          "through": "墮漢水中死者甚多",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
+        },
+        {
+          "id": "zhaoyun-benzhuan-zu-shunping",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 23,
+          "from": "七年卒",
+          "through": "追謚順平侯",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
+        },
+        {
+          "id": "zhaoyun-benzhuan-zhuishi-yilun",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "from": "於是關羽、張飛、馬超、龐統、黃忠及雲乃追謚",
+          "through": "時論以為榮",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
         }
       ],
       "exclusions": [
