@@ -93088,6 +93088,33 @@
           "from": "張益德與下邳相曹豹共爭",
           "through": "大破益德兵，獲備妻子軍資及部曲將吏士家口",
           "citation": "裴注引《英雄記》"
+        },
+        {
+          "id": "zhangfei-pei-weilue-qu-xiahou-shi",
+          "work": "peizhu",
+          "source": "a04-009",
+          "paragraph": 14,
+          "from": "初，建安五年，時霸從妹年十三四，在本郡，出行樵採，為張飛所得",
+          "through": "故淵之初亡，飛妻請而葬之",
+          "citation": "裴注引《魏略》"
+        },
+        {
+          "id": "zhangfei-caoxiuzhuan-gushan-duan-hou",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 31,
+          "from": "備遣張飛屯固山，欲斷軍後",
+          "through": "飛果走",
+          "citation": "《三國志·魏書九·諸夏侯曹傳第九·曹休傳》"
+        },
+        {
+          "id": "zhangfei-chengyuzhuan-wanren-di",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 5,
+          "from": "劉備有英名，關羽、張飛皆萬人敵也",
+          "through": "權必資之以禦我",
+          "citation": "《三國志·魏書十四·程郭董劉蔣劉傳第十四·程昱傳》"
         }
       ],
       "exclusions": [
