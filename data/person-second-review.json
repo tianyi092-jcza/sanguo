@@ -92263,6 +92263,15 @@
           "from": "與關羽分土接境，知羽驍雄，有并兼心，且居國上流，其勢難乆。",
           "through": "外倍脩恩厚，與羽結好。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九 呂蒙傳》"
+        },
+        {
+          "id": "guanyu-jiangqin-du-shuijun-ru-mian",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 17,
+          "from": "權討關羽，欽督水軍入沔，",
+          "through": "還，道病卒。",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳第十 蔣欽傳》"
         }
       ],
       "exclusions": [
@@ -92508,6 +92517,24 @@
           "term": "關羽",
           "quote": "關羽實熊虎也，計安可不豫定？",
           "reason": "本段主角為呂蒙、魯肅計議如何防備關羽，蒙為肅畫五策而策文未詳；羽僅為計議中被防備的鄰敵，江表傳品格評語亦為他人論羽之言，非羽的具體事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-sunquan-lun-lumeng-tuyu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 41,
+          "term": "關羽",
+          "quote": "圖取關羽，勝於子敬。",
+          "reason": "孫權論周瑜、魯肅、呂蒙三人之語，羽僅為呂蒙圖取之對象、與魯肅「羽不足忌」之論對照而論優劣，非羽的具體事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-pingyue-lumeng-qin-yu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 42,
+          "term": "關羽",
+          "quote": "譎郝普，禽關羽，最其妙者。",
+          "reason": "陳壽評曰總括呂蒙之功，羽被禽之事已見本傳及他傳具體記載，此處僅為史家評語、無新增事蹟，不另錄。"
         }
       ],
       "unresolved": []
