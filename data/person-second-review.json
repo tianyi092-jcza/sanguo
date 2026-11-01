@@ -99190,6 +99190,24 @@
           "from": "正方受遺，豫聞後綱，不陳不僉，造此異端，斥逐當時，任業以喪。",
           "through": "正方受遺，豫聞後綱，不陳不僉，造此異端，斥逐當時，任業以喪。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳 楊戲傳》"
+        },
+        {
+          "id": "ly-hygz-bazhi-jiangzhou-gengcheng",
+          "work": "huayang",
+          "source": "a06-001",
+          "paragraph": 18,
+          "from": "後都護李嚴更城",
+          "through": "嚴子農代為都督",
+          "citation": "《華陽國志·卷一 巴志》"
+        },
+        {
+          "id": "ly-hygz-badong-dudu",
+          "work": "huayang",
+          "source": "a06-001",
+          "paragraph": 21,
+          "from": "斯郡以尚書令李嚴為都",
+          "through": "嚴還江州",
+          "citation": "《華陽國志·卷一 巴志》"
         }
       ],
       "exclusions": [
@@ -99228,6 +99246,15 @@
           "term": "李嚴",
           "quote": "李嚴傳",
           "reason": "本傳卷首標題段，僅為傳名，無史實內容可錄。"
+        },
+        {
+          "id": "ly-excl-005",
+          "work": "jinshu",
+          "source": "a05-059-ahcb",
+          "paragraph": 33,
+          "term": "李嚴",
+          "quote": "積弩李嚴爲折衝將軍，率兵七千自延壽關出",
+          "reason": "《晉書·卷五十九·趙王倫傳》載趙王倫麾下積弩將軍李嚴率兵拒三王義師，事在永寧元年（301）；蜀漢李嚴卒於建興十二年（234），時代不合，同名異人，排除。"
         }
       ],
       "unresolved": []
