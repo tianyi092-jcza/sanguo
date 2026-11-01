@@ -92362,6 +92362,33 @@
           "from": "關羽見獲",
           "through": "公聞而義之",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-dangyang-chuan-hui-jiangling",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 9,
+          "from": "别遣關羽乗船",
+          "through": "㑹江陵",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-dangkou-xiangyang-taishou",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 11,
+          "from": "以關羽爲盪",
+          "through": "住江北",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-du-jingzhou-shi",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 12,
+          "from": "關羽督荆州事",
+          "through": "巴西太守",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
