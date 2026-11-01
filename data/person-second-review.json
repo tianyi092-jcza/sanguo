@@ -97572,6 +97572,22 @@
         "勢力繫年：少有才學，州郡辟命輒稱疾不往，劉璋時仍拒王商勸仕；先主定益州後任師友祭酒、從事祭酒，諫阻東征而下獄，後貸出；建興二年諸葛亮領益州牧，選為別駕，尋拜左中郎將、長水校尉，後遷大司農，始終屬劉備、蜀漢陣營，無轉投他勢力的階段轉折。",
         "生卒：本傳未載確切生年，不硬定；卒建興四年（226 年），本傳「遷大司農，四年卒」為據。"
       ]
+    },
+    {
+      "id": "p0144",
+      "name": "董和",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
