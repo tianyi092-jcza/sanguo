@@ -96882,6 +96882,22 @@
         "生卒：卒章武二年（222 年），本傳正文「章武二年卒」為據；生年本傳未載確年，不硬定。",
         "收尾依據：向量候選枯竭（0 段）、未解決 0 條；按本傳補齊核對，本傳 a04-038 許靖傳段 0–8、25 皆已覆蓋（本輪補錄與曹公書續段 4、5），同卷段 9–24 為麋竺、孫乾、簡雍、伊籍、秦宓傳確屬他人不錄，故結案，未硬湊無關段落。"
       ]
+    },
+    {
+      "id": "p0139",
+      "name": "麋竺",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "conclusions": []
     }
   ]
 }
