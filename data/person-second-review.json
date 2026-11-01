@@ -96546,7 +96546,38 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xj-sg-bio-zaoqi",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 1,
+          "from": "許靖字文休，汝南平輿人。",
+          "through": "補御史中丞。",
+          "citation": "《三國志·蜀書八·許靖傳》",
+          "note": "本傳開篇正文層：許靖字文休，汝南平輿人，少與從弟劭俱知名；劉翊舉為計吏、察孝廉，除尚書郎典選舉；董卓秉政時與周毖共謀進退天下之士，進用荀爽、韓融、陳紀等，遷巴郡太守不就，補御史中丞。段後「蜀記云」裴注層不在本條範圍。"
+        },
+        {
+          "id": "xj-hhs-xiandi-shanyang",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 25,
+          "from": "山陽公載記曰：「時許靖在巴郡",
+          "through": "其孟德之謂乎！』」",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "note": "建安十七年立諸王事之後所附山陽公載記引文層（非獻帝紀正文）：時許靖在巴郡，聞立諸王，曰「將欲歙之，必姑張之；將欲奪之，必姑與之。其孟德之謂乎！」此條證其當時在巴郡任上並對曹操立諸王之舉有所議論。"
+        },
+        {
+          "id": "xj-hhs-xushao-yuedan",
+          "work": "houhanshu",
+          "source": "a03-068",
+          "paragraph": 28,
+          "from": "初，劭與靖俱有高名",
+          "through": "故汝南俗有「月旦評」焉。",
+          "citation": "《後漢書·卷六十八·許劭傳》",
+          "note": "後漢書正文層：許劭與從兄許靖俱有高名，好共覈論鄉黨人物，每月輒更其品題，故汝南俗有「月旦評」。本條證「月旦評」為靖、劭共覈人物品題之俗稱；段中「蜀志曰」引文層不在本條範圍。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "conclusions": []
