@@ -92335,6 +92335,33 @@
           "from": "十九年關羽",
           "through": "泝江降下巴東",
           "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-xu-bai-zhonglangjiang",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 4,
+          "from": "又拜關羽張飛皆",
+          "through": "中郎將",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-liu-xing-xiapi-taishou",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 5,
+          "from": "留關羽行下",
+          "through": "邳太守事",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-huo-pianjiangjun",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 6,
+          "from": "關羽見獲",
+          "through": "公聞而義之",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
