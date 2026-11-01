@@ -99918,6 +99918,24 @@
           "from": "楊儀字威公",
           "through": "因辟為左將軍兵曹掾。",
           "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳》"
+        },
+        {
+          "id": "yyi-sg-008",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 29,
+          "from": "楊儀以當官顯",
+          "through": "並咸貴重。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳》"
+        },
+        {
+          "id": "yyi-sg-009",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 11,
+          "from": "值軍師魏延與長史楊儀相憎惡",
+          "through": "禕匡救之力也。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳》"
         }
       ],
       "exclusions": [
@@ -99929,6 +99947,15 @@
           "term": "楊儀傳",
           "quote": "楊儀傳",
           "reason": "段落僅為《楊儀傳》篇首標題，無史實內容，不具摘錄價值，排除。"
+        },
+        {
+          "id": "yyi-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 31,
+          "term": "楊儀",
+          "quote": "楊儀宗人也",
+          "reason": "段落主角為楊顒（襄陽記所載楊顒事蹟），「楊儀宗人」僅點明楊顒與楊儀的宗親關係，無楊儀本人史實，排除。"
         }
       ],
       "unresolved": []
