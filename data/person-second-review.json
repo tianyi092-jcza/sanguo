@@ -93169,6 +93169,33 @@
           "from": "英雄記曰：備留張飛守下邳，",
           "through": "張飛敗走。",
           "citation": "裴注引《英雄記》"
+        },
+        {
+          "id": "zhangfei-pei-wuli-zhongcai-ye-tao",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 6,
+          "from": "備謂張飛、關羽曰：「吾豈種菜者乎？曹公必有疑意，不可復留。」",
+          "through": "其夜開後柵，與飛等輕騎俱去，所得賜遺衣服，悉封留之，乃往小沛收合兵衆。",
+          "citation": "裴注引胡沖《吳歷》"
+        },
+        {
+          "id": "zhangfei-xianzhuzhuan-changban-nan-tao",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "先主棄妻子，與諸葛亮、張飛、趙雲等數十騎走，曹公大獲其人衆輜重。",
+          "through": "先主棄妻子，與諸葛亮、張飛、趙雲等數十騎走，曹公大獲其人衆輜重。",
+          "citation": "《三國志·蜀書二·先主傳第二》"
+        },
+        {
+          "id": "zhangfei-xianzhuzhuan-tun-zigui",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "使關羽屯江陵，張飛屯秭歸，諸葛亮據南郡，備自住潺陵。",
+          "through": "使關羽屯江陵，張飛屯秭歸，諸葛亮據南郡，備自住潺陵。",
+          "citation": "《三國志·蜀書二·先主傳第二》"
         }
       ],
       "exclusions": [
