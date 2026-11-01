@@ -93340,6 +93340,33 @@
           "from": "於是關羽、張飛、馬超、龐統、黃忠及雲乃追謚，",
           "through": "時論以為榮。",
           "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
+        },
+        {
+          "id": "zhangfei-ping-wanrenzhidi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 25,
+          "from": "關羽、張飛皆稱萬人之敵，為世虎臣。",
+          "through": "飛暴而無恩，以短取敗，理數之常也。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六》"
+        },
+        {
+          "id": "zhangfei-fazhengjian-badong",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 9,
+          "from": "張益德數萬之衆已定巴東",
+          "through": "將何以禦之？",
+          "citation": "《三國志·蜀書七·龐統法正傳第七·法正傳》"
+        },
+        {
+          "id": "zhangfei-liuba-su",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 5,
+          "from": "張飛甞就巴宿",
+          "through": "飛遂忿恚。",
+          "citation": "《三國志·蜀書九·劉彭廖李劉魏楊傳第九·劉巴傳》"
         }
       ],
       "exclusions": [
