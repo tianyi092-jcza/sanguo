@@ -96894,7 +96894,26 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "mz-sg-yangxi-zan",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 30,
+          "from": "安漢雍容",
+          "through": "是謂循臣。",
+          "citation": "《三國志·蜀書十五·楊戲傳》"
+        },
+        {
+          "id": "mz-hy-taoqian-tuofu",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 2,
+          "from": "别駕東海麋竺曰",
+          "through": "非劉備不能安此州也",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "conclusions": []
