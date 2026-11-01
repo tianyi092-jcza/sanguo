@@ -94816,6 +94816,36 @@
           "through": "龐士元皆親善。",
           "citation": "裴注引《襄陽記》",
           "note": "向朗少師事司馬德操，與徐元直、韓德高、龐士元皆親善，證龐統早年與向朗同屬司馬徽門下交遊圈。此為向朗傳裴注引《襄陽記》層。"
+        },
+        {
+          "id": "pt-sg-zhangcun-tong-zhongshi",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 43,
+          "from": "存素不服龐統",
+          "through": "免存官。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳》",
+          "note": "張存本不服龐統，龐統中矢卒後先主發言嘉歎，張存以「違大雅之義」評之觸怒先主而被免官。互證龐統雒城中矢身死及先主對其評價。此為鄧張宗楊傳附載張存事之正文層。"
+        },
+        {
+          "id": "pt-sg-houzhu-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 39,
+          "from": "三年秋九月",
+          "through": "黃忠。",
+          "citation": "《三國志·蜀書三·後主傳》",
+          "note": "後主三年秋九月追謚故將軍關羽、張飛、馬超、龐統、黃忠，證龐統死後得追謚。"
+        },
+        {
+          "id": "pt-sg-zhaoyun-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "from": "於是關羽、張飛、馬超、龐統、黃忠及雲乃追謚",
+          "through": "時論以為榮。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳》",
+          "note": "趙雲傳載後主時關羽、張飛、馬超、龐統、黃忠及趙雲乃追謚，時論以為榮，與後主傳追謚記載互證。"
         }
       ],
       "exclusions": [],
