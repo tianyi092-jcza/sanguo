@@ -93043,15 +93043,21 @@
     {
       "id": "p0132",
       "name": "張飛",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "收尾時向量候選已枯竭（本輪 retrieve 返 0 段）、未解決 0 條；累計錄正摘錄 60 條（《三國志》正文 42、裴注 5、《華陽國志》13），排除 6 條。",
+        "本傳已全覆蓋：卷36《張飛傳》正文段 8–12（長阪斷橋、嚴顏、巴西破張郃、漢中王拜右將軍、性格與追謚）均已錄；合傳內關羽、馬超、黃忠、趙雲各段不屬張飛，不另錄。",
+        "辨人：與黑山帥張燕（軍中號「張飛燕」）嚴格區分，兩條同名誤擊已排除；《晉書》劉遐傳借張飛勇名作比況、《華陽國志》嚴顏條注「見張飛傳」均不載本人事跡，已排除。",
+        "勢力繫年：張飛始終從先主劉備，無轉投他勢力的階段轉折——涿郡起事、長阪斷橋、定江南、入蜀定益州、巴西破張郃、漢中王拜右將軍、章武元年遷車騎將軍，按階段分段錄入。",
+        "生卒：本傳未明載生年；卒章武元年（221 年），為部將張達、范彊所害，本傳與《華陽國志》互證；追謚桓侯已錄。後漢書、晉書本輪無確指本人事跡的正摘錄，僅各有 1 條排除，候選枯竭且無未決項，覆蓋置 complete。"
+      ],
       "excerpts": [
         {
           "id": "zhangfei-wudiji-217-tun-xiabian",
