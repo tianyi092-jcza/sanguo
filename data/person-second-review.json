@@ -98579,7 +98579,38 @@
       "id": "p0150",
       "name": "呂乂",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lvyi-sgz-chen-zhi-successor",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 18,
+          "from": "呂乂卒，",
+          "through": "守尚書令，",
+          "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 陳祗傳》所載",
+          "note": "陳祗傳旁證：呂乂卒後，陳祗以侍中守尚書令，證呂乂生前曾任尚書令、卒於陳祗接任之前。"
+        },
+        {
+          "id": "lvyi-sgz-biography-early",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 20,
+          "from": "呂乂字季陽，南陽人也。",
+          "through": "無逃竄者。",
+          "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 呂乂傳》所載",
+          "note": "呂乂本傳開篇：字季陽，南陽人，父隨劉焉入蜀不得還；先主定益州後任鹽府典曹都尉，遷新都、緜竹令得百姓稱譽，遷巴西太守，諸葛亮連年出軍時募兵五千詣亮、慰喻檢制無逃竄者。為呂乂出身與早期仕歷的本傳正文。"
+        },
+        {
+          "id": "lvyi-sgz-biography-later",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 20,
+          "from": "徙為漢中太守，",
+          "through": "延熈十四年卒。",
+          "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 呂乂傳》所載",
+          "note": "呂乂本傳後段：徙漢中太守兼領督農供繼軍糧，亮卒後累遷廣漢、蜀郡太守，治蜀郡數年漏脫自出萬餘口；後入為尚書、代董允為尚書令，衆事無留、門無停賔；歷職內外治身儉約、為政簡而不煩、號為清能，然持法刻深、好用文俗吏，故居大官名聲損於郡縣；延熈十四年卒。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
