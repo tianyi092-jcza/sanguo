@@ -93670,7 +93670,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhaoyun-xianzhu-changban-zou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "先主棄妻子，與諸葛亮、張飛、趙雲等數十騎走",
+          "through": "先主棄妻子，與諸葛亮、張飛、趙雲等數十騎走",
+          "citation": "《三國志·蜀書二·先主傳第二》"
+        },
+        {
+          "id": "zhaoyun-xianzhu-rushu-dingjiang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "諸葛亮、張飛、趙雲等將兵泝流定白帝、江州、江陽",
+          "through": "諸葛亮、張飛、趙雲等將兵泝流定白帝、江州、江陽",
+          "citation": "《三國志·蜀書二·先主傳第二》"
+        },
+        {
+          "id": "zhaoyun-peizhu-houzhu-baoruozi",
+          "work": "peizhu",
+          "source": "a04-033",
+          "paragraph": 1,
+          "from": "趙雲傳曰「雲身抱弱子以免」，即後主也",
+          "through": "趙雲傳曰「雲身抱弱子以免」，即後主也",
+          "citation": "裴注引《趙雲傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
