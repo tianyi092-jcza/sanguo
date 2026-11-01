@@ -94072,6 +94072,33 @@
           "from": "是歲驃騎將軍馬超亦䘚",
           "citation": "《華陽國志》卷六·四部叢刊本",
           "through": "是歲驃騎將軍馬超亦䘚"
+        },
+        {
+          "id": "machao-xiandi-weinan-bai",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 24,
+          "from": "十六年秋九月庚戌，曹操與韓遂、馬超戰於渭南，遂等大敗，關西平。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "through": "十六年秋九月庚戌，曹操與韓遂、馬超戰於渭南，遂等大敗，關西平。"
+        },
+        {
+          "id": "machao-xiandi-poliangzhou-shaweikang",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 25,
+          "from": "八月，馬超破涼州，殺刺史韋康。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "through": "八月，馬超破涼州，殺刺史韋康。"
+        },
+        {
+          "id": "machao-doufu-congzheng-si",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 10,
+          "from": "從征馬超，為流矢所中死。",
+          "citation": "《後漢書·卷六十九·竇武傳》",
+          "through": "從征馬超，為流矢所中死。"
         }
       ],
       "exclusions": [],
