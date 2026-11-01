@@ -94333,6 +94333,24 @@
           "from": "阜內有報超之志",
           "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳·楊阜傳》",
           "through": "超遂南奔張魯。"
+        },
+        {
+          "id": "machao-peizhu-jiangxu-bimen-shiju",
+          "work": "peizhu",
+          "source": "a04-025",
+          "paragraph": 13,
+          "from": "超聞，果自出擊叙，寬等從後閉兾門",
+          "citation": "裴注引《列女傳》",
+          "through": "超失據。"
+        },
+        {
+          "id": "machao-yangfu-xiabian-yu",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 14,
+          "from": "會劉備遣張飛、馬超等從沮道趣下辯",
+          "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳·楊阜傳》",
+          "through": "超等退還。"
         }
       ],
       "exclusions": [
@@ -94344,6 +94362,15 @@
           "term": "馬超",
           "quote": "隗嚻捐子，馬超背父",
           "reason": "高柔上疏論取質之弊，僅借「馬超背父」為反例泛論，非記述馬超事蹟，排除。"
+        },
+        {
+          "id": "machao-excl-xirong-di-congchao",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 51,
+          "term": "馬超",
+          "quote": "至十六年，從馬超為亂",
+          "reason": "魏略西戎傳記氐人種落風俗，僅以「從馬超為亂」作背景繫年，非記述馬超事蹟，排除。"
         }
       ],
       "unresolved": []
