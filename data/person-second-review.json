@@ -93439,6 +93439,33 @@
           "from": "劉備以梟雄之姿，而有關羽、張飛熊虎之將，必非乆屈為人用者。",
           "through": "恐蛟龍得雲雨，終非池中物也。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·周瑜傳》"
+        },
+        {
+          "id": "zhangfei-huayang-rushu-sujiang",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 14,
+          "from": "軍關羽張飛鎮荆州率萬人泝江西上",
+          "through": "供奉入境如歸",
+          "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-bajun-duantou",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 17,
+          "from": "十九年關羽",
+          "through": "我州但有斷頭將軍無降將軍也",
+          "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-enruo-xiongdi",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 1,
+          "from": "河東關羽雲長同郡張飛益德竝以壯烈爲之",
+          "through": "㤙若弟兄然",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
