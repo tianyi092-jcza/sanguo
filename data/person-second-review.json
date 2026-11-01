@@ -93565,6 +93565,33 @@
           "from": "飛呵顏曰",
           "through": "引為賔客",
           "citation": "《三國志·蜀書六·關張馬黃趙傳第六·張飛傳》"
+        },
+        {
+          "id": "zhangfei-feizhuan-dangqu-po-zhanghe",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 10,
+          "from": "郃別督諸軍下巴西",
+          "through": "巴土獲安。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·張飛傳》"
+        },
+        {
+          "id": "zhangfei-feizhuan-hanzhongwang-youjiangjun-xixianghou",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 11,
+          "from": "先主為漢中王，拜飛為右將軍、假節。",
+          "through": "進封西鄉侯，",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·張飛傳》"
+        },
+        {
+          "id": "zhangfei-feizhuan-xingge-yuci-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 12,
+          "from": "初，飛雄壯威猛，亞於關羽，",
+          "through": "追謚飛曰桓侯。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·張飛傳》"
         }
       ],
       "exclusions": [
