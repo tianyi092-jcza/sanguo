@@ -98851,6 +98851,22 @@
         "勢力繫年：始終事劉備一方，未轉投魏：初為先主養子從軍，後守上庸，拒孟達勸降，至死未降魏；與孟達由共事而決裂，達降魏為封失勢的轉折，不把達降魏後的魏方活動記到封名下。",
         "後漢書、《晉書》：向量檢索未命中本人相關段落，列為已查（無摘錄）；裴注已有干寶晉紀、魏略二條旁證，華陽國志已有上庸事二條。"
       ]
+    },
+    {
+      "id": "p0152",
+      "name": "彭羕",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
