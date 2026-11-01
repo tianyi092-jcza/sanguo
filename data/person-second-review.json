@@ -98683,7 +98683,38 @@
       "id": "p0151",
       "name": "劉封",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "liufeng-pei-ganbao-xincheng",
+          "work": "peizhu",
+          "source": "a04-003",
+          "paragraph": 3,
+          "from": "干寶晉紀曰：達初入新城，",
+          "through": "劉封、申耽，據金城千里而失之乎！」",
+          "citation": "裴注引干寶《晉紀》",
+          "note": "裴注引干寶晉紀追述：孟達初入新城、登白馬塞時，歎劉封、申耽據金城千里而失之；為後世對上庸失守的感嘆旁證，不作當時正文史實，僅存錄此一感嘆句。"
+        },
+        {
+          "id": "liufeng-pei-weilue-tiaozhan",
+          "work": "peizhu",
+          "source": "a04-019",
+          "paragraph": 2,
+          "from": "魏略曰：太祖在漢中，",
+          "through": "長使假子拒汝公乎！",
+          "citation": "裴注引《魏略》",
+          "note": "裴注引魏略：太祖在漢中時，劉備栖於山頭，使劉封下挑戰；太祖罵劉備「賣履舍兒，長使假子拒汝公」，稱劉封為假子（養子），與本傳先主養封為子互證；此為魏方異說措辭，僅作劉封為先主養子及漢中對峙時曾下挑戰的旁證，不錄後段召彰行程。"
+        },
+        {
+          "id": "liufeng-sgz-xianzhu-shangyong",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 17,
+          "from": "遣劉封、孟達、李平等攻申耽於上庸。",
+          "through": "遣劉封、孟達、李平等攻申耽於上庸。",
+          "citation": "《三國志·蜀書二 先主傳第二》所載",
+          "note": "先主傳正文：建安二十四年先主得漢中後，遣劉封、孟達、李平等攻申耽於上庸；為劉封與孟達共攻上庸的正文起點，與本傳封自漢中乘沔水下統達軍、會上庸、申耽舉衆降互證。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
