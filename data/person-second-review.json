@@ -92326,6 +92326,15 @@
           "from": "關羽張飛鎮荆州",
           "through": "率萬人泝江西上",
           "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-tong-jingzhou",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 17,
+          "from": "十九年關羽",
+          "through": "泝江降下巴東",
+          "citation": "《華陽國志》卷五·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -92751,6 +92760,24 @@
           "term": "關羽",
           "quote": "昔關羽見重曹公，猶不忘先主之恩",
           "reason": "此段主述慕容德留趙思、趙思求還慕容寶，關羽僅為趙思自況忠於故主之典故，忠蜀事本傳已載，本段無關於羽的新史實，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-qingni-lejin-xiangju",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 15,
+          "term": "關羽",
+          "quote": "樂進在清泥與關羽相拒",
+          "reason": "此段主述劉璋與張松、劉主之間的謀議，關羽僅在「樂進在清泥與關羽相拒」一句中作戰局背景提及，無關於羽的新史實，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-tongchuang-enruo-xiongdi",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 1,
+          "term": "關羽",
+          "quote": "先主與二子寢則同牀食則共器㤙若弟兄然",
+          "reason": "此段主述先主起兵得關羽、張飛為禦侮，寢則同牀、食則共器、恩若兄弟及侍立終日事本傳已載，本段無關於羽的新史實，不另錄。"
         }
       ],
       "unresolved": []
