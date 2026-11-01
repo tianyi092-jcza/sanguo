@@ -93724,6 +93724,33 @@
           "from": "諸葛亮使趙雲勒兵斷江留太子，乃得止",
           "through": "諸葛亮使趙雲勒兵斷江留太子，乃得止",
           "citation": "裴注引《漢晉春秋》"
+        },
+        {
+          "id": "zhaoyun-liangzhuan-sujiang-weichengdu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 4,
+          "from": "亮與張飛、趙雲等率衆泝江，分定郡縣，與先主共圍成都",
+          "through": "亮與張飛、趙雲等率衆泝江，分定郡縣，與先主共圍成都",
+          "citation": "《三國志·蜀書五·諸葛亮傳第五》"
+        },
+        {
+          "id": "zhaoyun-liangzhuan-jigu-yijun",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 11,
+          "from": "六年春，揚聲由斜谷道取郿，使趙雲、鄧芝為疑軍，據箕谷，魏大將軍曹真舉衆拒之",
+          "through": "六年春，揚聲由斜谷道取郿，使趙雲、鄧芝為疑軍，據箕谷，魏大將軍曹真舉衆拒之",
+          "citation": "《三國志·蜀書五·諸葛亮傳第五》"
+        },
+        {
+          "id": "zhaoyun-ben-zhuan-gongsunzan-suicong",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 21,
+          "from": "本屬公孫瓚，瓚遣先主為田楷拒袁紹，雲遂隨從，為先主主騎",
+          "through": "本屬公孫瓚，瓚遣先主為田楷拒袁紹，雲遂隨從，為先主主騎",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
         }
       ],
       "exclusions": [],
