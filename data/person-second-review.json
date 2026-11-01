@@ -94459,6 +94459,24 @@
           "from": "初羽聞馬超來降素非知故書與諸葛亮問其人才",
           "citation": "《華陽國志》卷六·四部叢刊本",
           "through": "亮知羽忌前答曰孟起黥彭之徒一世之桀"
+        },
+        {
+          "id": "machao-huayang-piaoji-liangzhou",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 22,
+          "from": "馬超驃騎將軍領凉州",
+          "citation": "《華陽國志》卷六·四部叢刊本",
+          "through": "刺史封斄鄊侯"
+        },
+        {
+          "id": "machao-huayang-zhuishi-weihou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 26,
+          "from": "驃騎將軍馬超曰威侯",
+          "citation": "《華陽國志》卷七·四部叢刊本",
+          "through": "驃騎將軍馬超曰威侯"
         }
       ],
       "exclusions": [
