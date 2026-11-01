@@ -98909,6 +98909,33 @@
           "from": "才雋江陽太守彭羕字年",
           "through": "彭羕字年(廣漢人)",
           "citation": "《華陽國志》卷十二·四部叢刊本"
+        },
+        {
+          "id": "py-sg-zuoqian",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 9,
+          "from": "羕仕州，不過書佐",
+          "through": "左遷羕為江陽太守。",
+          "citation": "《三國志·蜀書十 劉彭廖李劉魏楊傳第十 彭羕傳》所載"
+        },
+        {
+          "id": "py-sg-neiwai",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 10,
+          "from": "又謂超曰：「卿為其外，我為其內，天下不足定也。」",
+          "through": "於是收羕付有司。",
+          "citation": "《三國志·蜀書十 劉彭廖李劉魏楊傳第十 彭羕傳》所載"
+        },
+        {
+          "id": "py-sg-yuzhong",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 11,
+          "from": "羕一朝狂悖，自求葅醢",
+          "through": "羕竟誅死，時年三十七。",
+          "citation": "《三國志·蜀書十 劉彭廖李劉魏楊傳第十 彭羕傳》所載"
         }
       ],
       "exclusions": [
