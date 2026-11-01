@@ -93547,6 +93547,24 @@
           "from": "追諡故前將軍關羽曰壯繆侯車騎",
           "through": "張飛曰桓侯",
           "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-houzhu-lihou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 0,
+          "from": "立皇后張氏",
+          "through": "張飛女也",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-feizhuan-yishi-yanyan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 9,
+          "from": "飛呵顏曰",
+          "through": "引為賔客",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·張飛傳》"
         }
       ],
       "exclusions": [
@@ -93594,6 +93612,15 @@
           "term": "張飛",
           "quote": "冀方比之張飛、關羽",
           "reason": "本段為《晉書》劉遐傳，稱冀方以劉遐比之張飛、關羽，僅借張飛勇名作比況，不載張飛本人事跡，不另錄。"
+        },
+        {
+          "id": "zhangfei-excl-huayang-yanyan-jianfei",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 22,
+          "term": "張飛",
+          "quote": "壮烈將軍嚴顔(臨江人也見張飛傳)",
+          "reason": "本段為《華陽國志》卷十二人物名錄，提及張飛僅為嚴顏條下注「見張飛傳」，不載張飛本人事跡，不另錄。"
         }
       ],
       "unresolved": []
