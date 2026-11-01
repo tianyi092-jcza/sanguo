@@ -93421,6 +93421,24 @@
           "from": "齊為太守張飛功曹。",
           "through": "飛貢之先主，為尚書郎。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
+        },
+        {
+          "id": "zhangfei-pei-wulu-nanjun-yide-qianren",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 6,
+          "from": "使張益德將千人隨卿，卿分二千人追我，相為從夏水入截仁後，仁聞吾入必走。",
+          "through": "瑜以二千人益之。",
+          "citation": "裴注引《吳錄》"
+        },
+        {
+          "id": "zhangfei-zhouyuzhuan-xionghuji",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 7,
+          "from": "劉備以梟雄之姿，而有關羽、張飛熊虎之將，必非乆屈為人用者。",
+          "through": "恐蛟龍得雲雨，終非池中物也。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·周瑜傳》"
         }
       ],
       "exclusions": [
@@ -93459,6 +93477,15 @@
           "term": "張飛",
           "quote": "羽、飛並杖刀立直",
           "reason": "本段所引山陽公載記稱馬超呼備字、關羽與張飛杖刀立直以威懾，裴松之已駁斥：備入蜀時關羽鎮荊州、未嘗在益土，焉得與張飛立直，言不經理；此軼事不可作張飛史實錄入，僅記排除。"
+        },
+        {
+          "id": "zhangfei-excl-liuxia-bi-zhangfei",
+          "work": "jinshu",
+          "source": "a05-081-ahcb",
+          "paragraph": 61,
+          "term": "張飛",
+          "quote": "冀方比之張飛、關羽",
+          "reason": "本段為《晉書》劉遐傳，稱冀方以劉遐比之張飛、關羽，僅借張飛勇名作比況，不載張飛本人事跡，不另錄。"
         }
       ],
       "unresolved": []
