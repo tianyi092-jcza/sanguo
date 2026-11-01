@@ -92218,6 +92218,33 @@
           "from": "從討關羽於華容，誘羽餘黨，得五千人，牛馬器械甚衆。",
           "through": "從討關羽於華容，誘羽餘黨，得五千人，牛馬器械甚衆。",
           "citation": "《三國志·吳書六·宗室傳第六 孫桓傳》"
+        },
+        {
+          "id": "guanyu-zhugejin-quanhe-lun-guan-yu-zhi-si",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 24,
+          "from": "奄聞旗鼓來至白帝，或恐議臣以吳王侵取此州，危害關羽，怨深禍大，不宜荅和，此用心於小，未留意於大者也。",
+          "through": "若審此數，易於反掌。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七 諸葛瑾傳》"
+        },
+        {
+          "id": "guanyu-zhouyu-shangshu-xionghu-zhi-jiang",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 7,
+          "from": "劉備以梟雄之姿，而有關羽、張飛熊虎之將，必非乆屈為人用者。",
+          "through": "恐蛟龍得雲雨，終非池中物也。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九 周瑜傳》"
+        },
+        {
+          "id": "guanyu-lusu-yiyang-dandao-hui",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 22,
+          "from": "後備西圖璋，留關羽守，權曰：「猾虜乃敢挾詐！」",
+          "through": "備遂割湘水為界，於是罷軍。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九 魯肅傳》"
         }
       ],
       "exclusions": [
