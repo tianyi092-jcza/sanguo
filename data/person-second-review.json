@@ -94153,6 +94153,33 @@
           "from": "韓遂、馬超之亂，關西民從子午谷奔之者數萬家。",
           "citation": "《三國志·魏書八·張魯傳》",
           "through": "韓遂、馬超之亂，關西民從子午谷奔之者數萬家。"
+        },
+        {
+          "id": "machao-xiahouyuan-weikang-ji",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 8,
+          "from": "馬超圍涼州刺史韋康於兾，淵救康，未到，康敗。",
+          "citation": "《三國志·魏書九·夏侯淵傳》",
+          "through": "馬超圍涼州刺史韋康於兾，淵救康，未到，康敗。"
+        },
+        {
+          "id": "machao-xiahouyuan-jianan-shijiu-taochao",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 9,
+          "from": "十九年，趙衢、尹奉等謀討超，姜叙起兵鹵城以應之。",
+          "citation": "《三國志·魏書九·夏侯淵傳》",
+          "through": "十九年，趙衢、尹奉等謀討超，姜叙起兵鹵城以應之。"
+        },
+        {
+          "id": "machao-caoren-tongguan-weinan",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 20,
+          "from": "太祖討馬超，以仁行安西將軍，督諸將拒潼關，破超渭南。",
+          "citation": "《三國志·魏書九·曹仁傳》",
+          "through": "太祖討馬超，以仁行安西將軍，督諸將拒潼關，破超渭南。"
         }
       ],
       "exclusions": [],
