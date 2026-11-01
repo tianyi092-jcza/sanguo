@@ -93466,6 +93466,33 @@
           "from": "河東關羽雲長同郡張飛益德竝以壯烈爲之",
           "through": "㤙若弟兄然",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-zhonglangjiang",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 4,
+          "from": "先主還得妻子從公還許爲左將軍",
+          "through": "中郎將",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-changban-duanqiao",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 10,
+          "from": "飛據水斷橋横馬案矛曰",
+          "through": "我張益德也可來決死",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-zhenglu-yidu",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 11,
+          "from": "張飛爲征虜將軍宐都",
+          "through": "太守",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
