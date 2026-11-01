@@ -93250,6 +93250,33 @@
           "from": "車騎將軍張飛為其左右所害",
           "through": "車騎將軍張飛為其左右所害",
           "citation": "《三國志·蜀書二·先主傳第二》"
+        },
+        {
+          "id": "zhangfei-houzhuzhuan-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 39,
+          "from": "三年秋九月，追謚故將軍關羽、張飛、馬超、龐統、黃忠。",
+          "through": "三年秋九月，追謚故將軍關羽、張飛、馬超、龐統、黃忠。",
+          "citation": "《三國志·蜀書三·後主傳第三》"
+        },
+        {
+          "id": "zhangfei-feizizhuan-jingai-changnu",
+          "work": "sanguozhi",
+          "source": "a04-034",
+          "paragraph": 5,
+          "from": "後主敬哀皇后，車騎將軍張飛長女也。",
+          "through": "後主敬哀皇后，車騎將軍張飛長女也。",
+          "citation": "《三國志·蜀書四·二主妃子傳第四》"
+        },
+        {
+          "id": "zhangfei-zhugeliangzhuan-buyue-yushui",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 1,
+          "from": "關羽、張飛等不恱",
+          "through": "羽、飛乃止。",
+          "citation": "《三國志·蜀書五·諸葛亮傳第五》"
         }
       ],
       "exclusions": [
