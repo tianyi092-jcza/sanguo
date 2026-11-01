@@ -92308,6 +92308,24 @@
           "from": "及蜀將關羽圍曹仁於樊",
           "through": "脩、方果降羽",
           "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "guanyu-hygz-fancheng-qiu-fengda",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 10,
+          "from": "關羽圍樊城求助於封逹",
+          "through": "羽為吴所破殺",
+          "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-zhen-jingzhou-xishang",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 14,
+          "from": "關羽張飛鎮荆州",
+          "through": "率萬人泝江西上",
+          "citation": "《華陽國志》卷五·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -92724,6 +92742,15 @@
           "term": "關羽",
           "quote": "故魏武善關羽之奔",
           "reason": "主述傉檀赦熾磐逃歸，關羽之奔僅引為臣子歸君父之典故，無關羽新史實。"
+        },
+        {
+          "id": "guanyu-excl-zhaosi-yin-guanyu-zhongyi",
+          "work": "jinshu",
+          "source": "a05-127-ahcb",
+          "paragraph": 6,
+          "term": "關羽",
+          "quote": "昔關羽見重曹公，猶不忘先主之恩",
+          "reason": "此段主述慕容德留趙思、趙思求還慕容寶，關羽僅為趙思自況忠於故主之典故，忠蜀事本傳已載，本段無關於羽的新史實，不另錄。"
         }
       ],
       "unresolved": []
