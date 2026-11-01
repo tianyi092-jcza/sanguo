@@ -94477,6 +94477,33 @@
           "from": "驃騎將軍馬超曰威侯",
           "citation": "《華陽國志》卷七·四部叢刊本",
           "through": "驃騎將軍馬超曰威侯"
+        },
+        {
+          "id": "machao-ben-chuan-tongguan-ben-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 15,
+          "from": "超旣統衆，遂與韓遂合從，及楊秋、李堪、成宜等相結，進軍至潼關。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·馬超傳》",
+          "through": "密書請降。"
+        },
+        {
+          "id": "machao-ben-chuan-hanzhongwang-baijiang-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 17,
+          "from": "先主為漢中王，拜超為左將軍，假節。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·馬超傳》",
+          "through": "超女配安平王理。"
+        },
+        {
+          "id": "machao-peizhu-dianlue-shiliubu-ben-shu",
+          "work": "peizhu",
+          "source": "a04-036",
+          "paragraph": 15,
+          "from": "典略曰：建安十六年，超與關中諸將侯選、程銀、李堪、張橫、梁興、成宜、馬玩、楊秋、韓遂等，凡十部，俱反，其衆十萬，同據河、潼，建列營陣。",
+          "citation": "裴注引《典略》",
+          "through": "轉奔往蜀。是歲建安十九年也。"
         }
       ],
       "exclusions": [
