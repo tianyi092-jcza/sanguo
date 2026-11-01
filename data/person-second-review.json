@@ -99963,6 +99963,15 @@
           "from": "亮部將楊儀、魏延爭權",
           "through": "儀斬延，并其眾。",
           "citation": "《晉書·卷一·宣帝紀》"
+        },
+        {
+          "id": "yyi-hy-001",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 4,
+          "from": "弘農太守楊儀爲參軍從行",
+          "through": "統留府事",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -99983,6 +99992,24 @@
           "term": "楊儀",
           "quote": "楊儀宗人也",
           "reason": "段落主角為楊顒（襄陽記所載楊顒事蹟），「楊儀宗人」僅點明楊顒與楊儀的宗親關係，無楊儀本人史實，排除。"
+        },
+        {
+          "id": "yyi-excl-003",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 12,
+          "term": "楊儀",
+          "quote": "亮長史楊儀反旗鳴皷",
+          "reason": "本段為《晉書·卷一·宣帝紀》sidneyluo 本，與已錄 ahcb 本 yyi-jin-001（反旗結陣去）及 yyi-jin-002（斬魏延并其眾）為同一段落的異本重出，史實已錄，不重複摘錄，排除。"
+        },
+        {
+          "id": "yyi-excl-004",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 164,
+          "term": "楊儀",
+          "quote": "鑿楊儀道以通運",
+          "reason": "「楊儀道」為地名（桓溫北伐鑿道通運），非人名；且時代為東晉桓溫時期，蜀漢楊儀已卒百餘年，排除。"
         }
       ],
       "unresolved": []
