@@ -94207,6 +94207,33 @@
           "from": "太祖征馬超，文帝留守，使昱參軍事。",
           "citation": "《三國志·魏書十四·程郭董劉蔣劉傳第十四》",
           "through": "太祖征馬超，文帝留守，使昱參軍事。"
+        },
+        {
+          "id": "machao-weilue-yanxing-ci",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 17,
+          "from": "騰子超亦號為健。行嘗刺超，矛折，因以折矛撾超項，幾殺之。",
+          "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳第十五》",
+          "through": "騰子超亦號為健。行嘗刺超，矛折，因以折矛撾超項，幾殺之。"
+        },
+        {
+          "id": "machao-jiakui-hongnong-shou",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 28,
+          "from": "太祖征馬超，至弘農，曰「此西道之要」，以逵領弘農太守。",
+          "citation": "《三國志·魏書十五·劉司馬梁張溫賈傳第十五》",
+          "through": "太祖征馬超，至弘農，曰「此西道之要」，以逵領弘農太守。"
+        },
+        {
+          "id": "machao-duji-hongfeng-ying",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 12,
+          "from": "韓遂、馬超之叛也，弘農、馮翊多舉縣邑以應之。",
+          "citation": "《三國志·魏書十六·任蘇杜鄭倉傳第十六》",
+          "through": "韓遂、馬超之叛也，弘農、馮翊多舉縣邑以應之。"
         }
       ],
       "exclusions": [],
