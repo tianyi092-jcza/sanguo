@@ -99145,6 +99145,24 @@
           "from": "先主定蜀，太守李嚴命為功曹。",
           "through": "嚴欲薦洪於州，為蜀部從事。",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳 楊洪傳》"
+        },
+        {
+          "id": "ly-sg-yanghong-qianwei",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 16,
+          "from": "始洪為李嚴功曹，",
+          "through": "嚴未至犍為而洪已為蜀郡。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳 楊洪傳》"
+        },
+        {
+          "id": "ly-sg-feishi-wangchong",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 20,
+          "from": "為牙門將，統屬江州督李嚴。",
+          "through": "為嚴所疾，懼罪降魏。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳 費詩傳》"
         }
       ],
       "exclusions": [
@@ -99174,6 +99192,15 @@
           "term": "李嚴",
           "quote": "班位每亞李嚴",
           "reason": "劉琰傳段落，李嚴僅作班位比較對象出現，無李嚴個人史實內容可錄。"
+        },
+        {
+          "id": "ly-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 15,
+          "term": "李嚴",
+          "quote": "李嚴傳",
+          "reason": "本傳卷首標題段，僅為傳名，無史實內容可錄。"
         }
       ],
       "unresolved": []
