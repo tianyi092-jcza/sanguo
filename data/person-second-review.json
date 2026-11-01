@@ -92245,6 +92245,24 @@
           "from": "後備西圖璋，留關羽守，權曰：「猾虜乃敢挾詐！」",
           "through": "備遂割湘水為界，於是罷軍。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九 魯肅傳》"
+        },
+        {
+          "id": "guanyu-lumeng-zheng-sanjun-yiyang-duizhi",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 34,
+          "from": "是時劉備令關羽鎮守，專有荊土，權命蒙西取長沙、零、桂三郡。",
+          "through": "而飛書召蒙，使捨零陵，急還助肅。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九 呂蒙傳》"
+        },
+        {
+          "id": "guanyu-lumeng-michen-quyu-jiehao",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 36,
+          "from": "與關羽分土接境，知羽驍雄，有并兼心，且居國上流，其勢難乆。",
+          "through": "外倍脩恩厚，與羽結好。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九 呂蒙傳》"
         }
       ],
       "exclusions": [
@@ -92481,6 +92499,15 @@
           "term": "關羽",
           "quote": "志報關羽之敗，圖收湘西之地。",
           "reason": "本段為陸機《辨亡論》論吳亡之文，關羽僅在追述劉備伐吳動機「志報關羽之敗」中被提及，無關羽生平新事蹟；樊城敗亡已見本傳及吳主傳正錄，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-lumeng-lusu-lun-yu-wuce",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 30,
+          "term": "關羽",
+          "quote": "關羽實熊虎也，計安可不豫定？",
+          "reason": "本段主角為呂蒙、魯肅計議如何防備關羽，蒙為肅畫五策而策文未詳；羽僅為計議中被防備的鄰敵，江表傳品格評語亦為他人論羽之言，非羽的具體事蹟，不另錄。"
         }
       ],
       "unresolved": []
