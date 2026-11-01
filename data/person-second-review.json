@@ -99289,6 +99289,24 @@
           "from": "中護軍李嚴假節",
           "through": "封都鄊侯督永安事",
           "citation": "《華陽國志·卷七 劉後主志》"
+        },
+        {
+          "id": "ly-hygz-jianxing-jiangzhou-huan",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 4,
+          "from": "四年永安都護李嚴還",
+          "through": "封亭侯",
+          "citation": "《華陽國志·卷七 劉後主志》"
+        },
+        {
+          "id": "ly-hygz-jianxing-piaoqi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 8,
+          "from": "丞相亮軍城固表進江州都護李嚴驃騎將軍",
+          "through": "丞相亮軍城固表進江州都護李嚴驃騎將軍",
+          "citation": "《華陽國志·卷七 劉後主志》"
         }
       ],
       "exclusions": [
@@ -99336,6 +99354,15 @@
           "term": "李嚴",
           "quote": "積弩李嚴爲折衝將軍，率兵七千自延壽關出",
           "reason": "《晉書·卷五十九·趙王倫傳》載趙王倫麾下積弩將軍李嚴率兵拒三王義師，事在永寧元年（301）；蜀漢李嚴卒於建興十二年（234），時代不合，同名異人，排除。"
+        },
+        {
+          "id": "ly-excl-006",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 22,
+          "term": "李嚴",
+          "quote": "楊洪爲太守李嚴功曺",
+          "reason": "華陽國志卷十何祗段落，李嚴僅作為楊洪舊任太守提及，楊洪為李嚴功曹一事已見楊洪傳摘錄，無李嚴新增個人史實可錄。"
         }
       ],
       "unresolved": []
