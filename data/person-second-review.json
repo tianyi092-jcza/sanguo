@@ -98348,6 +98348,52 @@
         "勢力繫年：始終事蜀漢（先主、後主），無依附轉投記載，不作多階段切分；華陽國志留府分工異文（以尚書陳震為中書令）與本傳尚書令說法不同，存異文備考，不逕改；華陽國志蜀朝卿士列稱衞尉陳震忠惇篤粹，與建興七年衞尉使吳互證。",
         "後漢書、《晉書》：向量檢索未命中本人相關段落，列為已查（無摘錄）。"
       ]
+    },
+    {
+      "id": "p0149",
+      "name": "董允",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "dongyun-sgz-chushibiao-shilang",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 7,
+          "from": "侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。",
+          "through": "愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。",
+          "citation": "《三國志·蜀書五 諸葛亮傳第五》所載",
+          "note": "出師表薦董允：先帝簡拔以遺後主的侍郎之一，列為良實、志慮忠純；諸葛亮請後主宮中之事悉以咨之，為董允早期任侍郎、參預宮中事的他傳旁證。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "dongyun-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 13,
+          "term": "侍中董允",
+          "quote": "諸葛亮與長史蔣琬、侍中董允書曰",
+          "reason": "段落主體為陳震本傳全文，董允僅在「亮與蔣琬、侍中董允書」一句中為信件收件人之一，信件內容論李平、陳震事，無董允本人事蹟，不計入其史料摘錄，排除。"
+        },
+        {
+          "id": "dongyun-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 14,
+          "term": "董允傳",
+          "quote": "董允傳",
+          "reason": "僅為《三國志·蜀書九》中的傳目標記「董允傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
