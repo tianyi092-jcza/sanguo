@@ -99671,6 +99671,24 @@
           "from": "初，先主留魏延鎮漢中，",
           "through": "使不得入。",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳·姜維傳》"
+        },
+        {
+          "id": "wyan-sg-016",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 32,
+          "from": "建興八年，與魏延入南安界，",
+          "through": "破魏將費瑤，",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳·楊戲傳》"
+        },
+        {
+          "id": "wyan-sg-017",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 41,
+          "from": "文長剛粗，臨難受命，",
+          "through": "實惟厥性。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳·楊戲傳》"
         }
       ],
       "exclusions": [
@@ -99682,6 +99700,15 @@
           "term": "魏延",
           "quote": "魏延傳",
           "reason": "僅為《蜀書十》魏延傳篇目，無敘事內容，非史實記載，排除，不作摘錄。"
+        },
+        {
+          "id": "wyan-excl-002",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 27,
+          "term": "魏延",
+          "quote": "亮部將楊儀、魏延爭權，儀斬延，并其眾。",
+          "reason": "與 sidneyluo《晉書》卷一（a05-001:12）同段鏡像，四庫本重複，不重複摘錄；魏延之死以 sidneyluo 底本段為準，留待該段處理。"
         }
       ],
       "unresolved": []
