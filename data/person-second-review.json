@@ -93115,6 +93115,33 @@
           "from": "劉備有英名，關羽、張飛皆萬人敵也",
           "through": "權必資之以禦我",
           "citation": "《三國志·魏書十四·程郭董劉蔣劉傳第十四·程昱傳》"
+        },
+        {
+          "id": "zhangfei-pei-fuzi-guojia-wanren-di",
+          "work": "peizhu",
+          "source": "a04-014",
+          "paragraph": 10,
+          "from": "嘉言於太祖曰：「備有雄才而甚得衆心。張飛、關羽者，皆萬人之敵也，為之死用。",
+          "through": "宜早為之所。」",
+          "citation": "裴注引《傅子》"
+        },
+        {
+          "id": "zhangfei-dongzhaozhuan-yuyi",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 21,
+          "from": "昭曰：「備勇而志大，關羽、張飛為之羽翼，",
+          "through": "恐備之心未可得論也！」",
+          "citation": "《三國志·魏書十四·程郭董劉蔣劉傳第十四·董昭傳》"
+        },
+        {
+          "id": "zhangfei-liuyezhuan-yongguan-sanjun",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 31,
+          "from": "關羽、張飛勇冠三軍而為將，蜀民旣定，據險守要，",
+          "through": "則不可犯矣。",
+          "citation": "《三國志·魏書十四·程郭董劉蔣劉傳第十四·劉曄傳》"
         }
       ],
       "exclusions": [
