@@ -94591,6 +94591,33 @@
           "from": "先主命黃忠乘高鼓譟攻之，大破淵軍，斬淵",
           "citation": "《三國志·蜀書二·先主傳第二》",
           "through": "先主命黃忠乘高鼓譟攻之，大破淵軍，斬淵"
+        },
+        {
+          "id": "huangzhong-benjuang-quanwen",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 19,
+          "from": "黃忠字漢升，南陽人也。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·黃忠傳》",
+          "through": "子叙，早沒，無後。"
+        },
+        {
+          "id": "huangzhong-xianzhuan-hanzhongwang-biao",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "from": "秋，羣下上先主為漢中王，表於漢帝曰：",
+          "citation": "《三國志·蜀書二·先主傳第二》",
+          "through": "征西將軍臣黃忠"
+        },
+        {
+          "id": "huangzhong-houzhuzhuan-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 39,
+          "from": "三年秋九月，追謚故將軍關羽、張飛、馬超、龐統、黃忠。",
+          "citation": "《三國志·蜀書三·後主傳第三》",
+          "through": "三年秋九月，追謚故將軍關羽、張飛、馬超、龐統、黃忠。"
         }
       ],
       "exclusions": [
