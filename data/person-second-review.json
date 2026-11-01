@@ -93751,9 +93751,37 @@
           "from": "本屬公孫瓚，瓚遣先主為田楷拒袁紹，雲遂隨從，為先主主騎",
           "through": "本屬公孫瓚，瓚遣先主為田楷拒袁紹，雲遂隨從，為先主主騎",
           "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
+        },
+        {
+          "id": "zhaoyun-pingyue-huangzhong-zhaoyun-zhuangmeng",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 25,
+          "from": "黃忠、趙雲彊摯壯猛，並作爪牙，其灌、滕之徒歟？",
+          "through": "黃忠、趙雲彊摯壯猛，並作爪牙，其灌、滕之徒歟？",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
+        },
+        {
+          "id": "zhaoyun-yangxi-zan-zhengnan-houzhong",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 37,
+          "from": "征南厚重，征西忠克，統時選士，猛將之烈。",
+          "through": "征南厚重，征西忠克，統時選士，猛將之烈。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳·季漢輔臣贊》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhaoyun-excl-zhaoyunzhuan-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 20,
+          "term": "趙雲",
+          "quote": "趙雲傳",
+          "reason": "僅為《趙雲傳》篇目標題，無史實內容，不作摘錄依據；標記已處理以免重複候選。"
+        }
+      ],
       "unresolved": []
     }
   ]
