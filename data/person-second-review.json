@@ -92562,6 +92562,33 @@
           "term": "關羽",
           "quote": "後權破關羽，欲進圖蜀，",
           "reason": "此段主述周泰因破羽後拜漢中太守之事，關羽之敗僅為敘事背景、無新增事蹟，本傳及吳主傳已有破獲之具體記載，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhuran-linju-qinyu",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 10,
+          "term": "關羽",
+          "quote": "建安二十四年，從討關羽，別與潘璋到臨沮禽羽",
+          "reason": "此段主述朱然從討建功，關羽於臨沮被禽之事本傳已有「斬羽及子平于臨沮」的正錄，潘璋傳亦有斷道禽獲記載，本段無關於羽的新事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-lvfan-po-yu-beijing",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 24,
+          "term": "關羽",
+          "quote": "權破羽還，都武昌",
+          "reason": "此段主述呂範受權倚重、拜建威將軍等事，關羽之敗僅為敘事背景，本傳已有臨沮被斬正錄，無新增事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-yufan-shi-zhantou",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 5,
+          "term": "關羽",
+          "quote": "關羽旣敗，權使翻筮之",
+          "reason": "此段主述虞翻筮占應驗，預言不出二日斷頭、果如其言，關羽被斬僅為占驗對象；本傳已有臨沮斬羽正錄，本段無關於羽的新事蹟，不另錄。"
         }
       ],
       "unresolved": []
