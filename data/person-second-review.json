@@ -93394,6 +93394,33 @@
           "from": "張飛自荊州由墊江入",
           "through": "軍敗，還成都。",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳第十一·張裔傳》"
+        },
+        {
+          "id": "zhangfei-zongyuzhuan-jianan-su-rushu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 8,
+          "from": "建安中，隨張飛入蜀。",
+          "through": "建安中，隨張飛入蜀。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·宗預傳》"
+        },
+        {
+          "id": "zhangfei-yangxizhuan-zan-guanyun-zhangyide",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 20,
+          "from": "關、張赳赳，出身匡世，",
+          "through": "隕身匡國。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
+        },
+        {
+          "id": "zhangfei-yangxizhuan-maqi-gongcao-gong",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 44,
+          "from": "齊為太守張飛功曹。",
+          "through": "飛貢之先主，為尚書郎。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
         }
       ],
       "exclusions": [
