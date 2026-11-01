@@ -99416,6 +99416,51 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0155",
+      "name": "劉琰",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "lyan-sg-bio-001",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 20,
+          "from": "劉琰字威碩，魯國人也。",
+          "through": "於是亮遣琰還成都，官位如故。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳 劉琰傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "lyan-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "term": "劉琰",
+          "quote": "行中軍師車騎將軍都鄉侯臣劉琰",
+          "reason": "李嚴傳段落，劉琰僅為諸葛亮上表廢李嚴時的聯署列名，無劉琰個人史實內容可錄。"
+        },
+        {
+          "id": "lyan-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 19,
+          "term": "劉琰",
+          "quote": "劉琰傳",
+          "reason": "本傳篇題段，僅為傳名，無史實內容可錄。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
