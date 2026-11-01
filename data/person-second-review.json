@@ -97167,8 +97167,38 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "jy-sg-xianzhu-binyou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "先主復領益州牧",
+          "through": "簡雍為賔友。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "先主傳正文層：先主定益州後復領益州牧，以諸葛亮為股肱、法正為謀主、關羽張飛馬超為爪牙，許靖、麋笁、簡雍為賔友，見簡雍在入蜀後的賓友地位。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "jianyong-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 13,
+          "term": "簡雍",
+          "quote": "見禮次麋笁，與簡雍同等",
+          "reason": "段為孫乾傳正文，主角為孫乾定益州後拜秉忠將軍；「簡雍」僅為見禮等級的比較基準，段內無簡雍本人行動、職任或言行史實，不具摘錄價值，排除。"
+        },
+        {
+          "id": "jianyong-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 14,
+          "term": "簡雍傳",
+          "quote": "簡雍傳",
+          "reason": "僅為《三國志·蜀書八》中的傳目標記「簡雍傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
