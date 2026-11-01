@@ -92290,6 +92290,15 @@
           "from": "權征關羽，璋與朱然斷羽走道，",
           "through": "并羽子平、都督趙累等。",
           "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳第十 潘璋傳》"
+        },
+        {
+          "id": "guanyu-ludai-changsha-wudang-yuanlong-shouwei-yu",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 22,
+          "from": "安成長吳碭及中郎將袁龍等首尾關羽，",
+          "through": "復為反亂。",
+          "citation": "《三國志·吳書十五·賀齊全琮呂岱周魴鍾離牧傳第十五 呂岱傳》"
         }
       ],
       "exclusions": [
@@ -92616,6 +92625,24 @@
           "term": "關羽",
           "quote": "劉備將關羽圍樊、襄陽",
           "reason": "此段主述全琮上疏陳討羽之計及事後封陽華亭侯，羽圍樊、襄陽本傳已有正錄，本段無關於羽的新事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-panjun-shaquan-bing-jingtu",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 2,
+          "term": "關羽",
+          "quote": "孫權殺關羽，并荊土",
+          "reason": "本段主角為潘濬，關羽僅於開篇一語交代拜官背景；羽之敗亡經過已由本傳及吳書正錄覆蓋，本段無關於羽的新史實，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-shiyi-quan-lumeng-xi-yu",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 3,
+          "term": "關羽",
+          "quote": "呂蒙圖襲關羽，權以問儀，儀善其計，勸權聽之",
+          "reason": "本段主角為是儀進言贊成襲羽之計，襲取荊州之謀已由呂蒙傳及本傳正錄覆蓋，本段無關於羽的新史實，不另錄。"
         }
       ],
       "unresolved": []
