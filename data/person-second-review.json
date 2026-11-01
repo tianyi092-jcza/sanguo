@@ -99064,8 +99064,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "ly-sg-xianzhu-mianzhu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "璋復遣李嚴督緜竹諸軍，",
+          "through": "嚴率衆降先主。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "ly-sg-xianzhu-xianren",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "及董和、黃權、李嚴等本璋之所授用也，",
+          "through": "皆處之顯任，盡其器能。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "ly-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "term": "李嚴",
+          "quote": "興業將軍臣李嚴等一百二十人",
+          "reason": "僅為漢中王上表署名列名，無李嚴個人史實內容可錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
