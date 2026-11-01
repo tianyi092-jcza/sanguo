@@ -92272,6 +92272,24 @@
           "from": "權討關羽，欽督水軍入沔，",
           "through": "還，道病卒。",
           "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳第十 蔣欽傳》"
+        },
+        {
+          "id": "guanyu-ganning-yiyang-ju-yu-bu-du",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 36,
+          "from": "後隨魯肅鎮益陽，拒關羽。",
+          "through": "今遂名此處為關羽瀨。",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳第十 甘寧傳》"
+        },
+        {
+          "id": "guanyu-panzhang-duan-dao-qin-yu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 60,
+          "from": "權征關羽，璋與朱然斷羽走道，",
+          "through": "并羽子平、都督趙累等。",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳第十 潘璋傳》"
         }
       ],
       "exclusions": [
@@ -92535,6 +92553,15 @@
           "term": "關羽",
           "quote": "譎郝普，禽關羽，最其妙者。",
           "reason": "陳壽評曰總括呂蒙之功，羽被禽之事已見本傳及他傳具體記載，此處僅為史家評語、無新增事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhoutai-po-yu-bai-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 21,
+          "term": "關羽",
+          "quote": "後權破關羽，欲進圖蜀，",
+          "reason": "此段主述周泰因破羽後拜漢中太守之事，關羽之敗僅為敘事背景、無新增事蹟，本傳及吳主傳已有破獲之具體記載，不另錄。"
         }
       ],
       "unresolved": []
