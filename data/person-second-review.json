@@ -94432,6 +94432,33 @@
           "from": "改將進酒爲平關中",
           "citation": "《晉書·卷二十三·志第十三·樂志》",
           "through": "言曹公征馬超，定關中也。"
+        },
+        {
+          "id": "machao-huayang-hanzhong-qingjiang",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 18,
+          "from": "偏將軍扶風馬超率衆自漢中請降",
+          "citation": "《華陽國志》卷五·四部叢刊本",
+          "through": "偏將軍扶風馬超率衆自漢中請降"
+        },
+        {
+          "id": "machao-huayang-zuojiangjun",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 17,
+          "from": "馬超為左將軍皆假節",
+          "citation": "《華陽國志》卷六·四部叢刊本",
+          "through": "馬超為左將軍皆假節"
+        },
+        {
+          "id": "machao-huayang-liang-ping-mengqi",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 18,
+          "from": "初羽聞馬超來降素非知故書與諸葛亮問其人才",
+          "citation": "《華陽國志》卷六·四部叢刊本",
+          "through": "亮知羽忌前答曰孟起黥彭之徒一世之桀"
         }
       ],
       "exclusions": [
