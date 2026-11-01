@@ -92200,6 +92200,24 @@
           "from": "十二月，璋司馬馬忠獲羽及其子平、都督趙累等於章鄉，遂定荊州。",
           "through": "十二月，璋司馬馬忠獲羽及其子平、都督趙累等於章鄉，遂定荊州。",
           "citation": "《三國志·吳書二·吳主傳第二》"
+        },
+        {
+          "id": "guanyu-sunjiao-qin-guan-yu-ding-jingzhou",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 5,
+          "from": "禽關羽，定荊州，皎有力焉。",
+          "through": "禽關羽，定荊州，皎有力焉。",
+          "citation": "《三國志·吳書六·宗室傳第六 孫皎傳》"
+        },
+        {
+          "id": "guanyu-sunhuan-huarong-you-yu-dang",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 23,
+          "from": "從討關羽於華容，誘羽餘黨，得五千人，牛馬器械甚衆。",
+          "through": "從討關羽於華容，誘羽餘黨，得五千人，牛馬器械甚衆。",
+          "citation": "《三國志·吳書六·宗室傳第六 孫桓傳》"
         }
       ],
       "exclusions": [
@@ -92427,6 +92445,15 @@
           "term": "關羽",
           "quote": "雖致命虜庭，梟獲關羽，功效淺薄，未報萬一。",
           "reason": "本段為魏文帝與孫權往來書牋、魏三公奏議，關羽僅在追述「梟獲關羽」中被提及，無關羽生平新事蹟；樊城敗亡已見本傳及吳主傳正錄，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-luji-bianwanglun-zhi-bao-guan-yu-zhi-bai",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "關羽",
+          "quote": "志報關羽之敗，圖收湘西之地。",
+          "reason": "本段為陸機《辨亡論》論吳亡之文，關羽僅在追述劉備伐吳動機「志報關羽之敗」中被提及，無關羽生平新事蹟；樊城敗亡已見本傳及吳主傳正錄，不另錄。"
         }
       ],
       "unresolved": []
