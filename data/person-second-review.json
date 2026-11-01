@@ -98483,6 +98483,36 @@
           "through": "統宿衛兵",
           "citation": "《華陽國志》卷七·四部叢刊本",
           "note": "華陽國志載蔣琬登大位之際，侍郎董允兼虎賁中郎將統宿衛兵；與本傳 a04-039:15 統宿衛親兵相合，補其任職情形。"
+        },
+        {
+          "id": "dongyun-huayang-fuguo-sixiang",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 18,
+          "from": "允加輔國將軍守尚書令",
+          "through": "一號四英",
+          "citation": "《華陽國志》卷七·四部叢刊本",
+          "note": "華陽國志載費禕加大將軍領益州刺史之際，董允加輔國將軍守尚書令，立朝正色、上匡主下帥群司，時人以諸葛亮、蔣琬、費禕及允為四相、一號四英。"
+        },
+        {
+          "id": "dongyun-huayang-zhongshuling-zu",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 20,
+          "from": "大司馬琬卒諡曰恭侯",
+          "through": "中書令董允亦䘚",
+          "citation": "《華陽國志》卷七·四部叢刊本",
+          "note": "華陽國志於蔣琬卒諡恭侯之後，續載中書令董允亦卒，見董允卒時官為中書令，與本傳卒事相合。"
+        },
+        {
+          "id": "dongyun-huayang-zhuisi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 25,
+          "from": "蜀人無不追思",
+          "through": "百姓疲弊",
+          "citation": "《華陽國志》卷七·四部叢刊本",
+          "note": "華陽國志載陳祗、黃皓用事、姜維權任不如之際，蜀人無不追思董允，時兵車久駕、百姓疲弊，見董允身後仍為蜀人所思。"
         }
       ],
       "exclusions": [
