@@ -95413,6 +95413,22 @@
         "勢力繫年：龐統初為荊州從事、守耒陽令，後隨先主入蜀獻策、圍雒城卒，始終屬劉備陣營，無轉投他勢力的階段轉折；不得把同卷法正事記為龐統事。",
         "生卒：生卒年取原庫記錄 179–214；本傳載進圍雒縣、統率衆攻城、為流矢所中、卒時年三十六，與原庫卒年互證。後漢書、華陽國志、晉書本輪無確指本人事跡的正摘錄，候選枯竭且無未決項，覆蓋置 checked。"
       ]
+    },
+    {
+      "id": "p0137",
+      "name": "法正",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "conclusions": []
     }
   ]
 }
