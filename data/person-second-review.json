@@ -92670,6 +92670,33 @@
           "term": "關羽",
           "quote": "關羽新破，諸爲惡者藏竄觀望。",
           "reason": "此段主述司馬懿諫止徙荊州遺黎之議，羽僅以「新破」作時間標記，敗亡事本傳已有，本段無關於羽的新史實，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-simayi-caoRen-shou-xiangyang",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 8,
+          "term": "關羽",
+          "quote": "孫權新破關羽，此其欲自結之時也",
+          "reason": "此段主述魏文帝時曹仁鎮襄陽、朝議孫權西過之議，羽僅以「新破」作判斷背景，敗亡事本傳已有，本段無關於羽的新史實，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-simayi-juan1-fuhe-chongfu",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 3,
+          "term": "關羽",
+          "quote": "脩、方果降羽",
+          "reason": "此段主述司馬懿諫遷都、諫止徙荊州遺黎，所載降羽事已於 a05-001-ahcb 第 4 段錄為摘錄，「關羽新破」之議已於第 6 段排除，被獲事本傳已有；本段為同卷異本重出，無新史實，不重錄。"
+        },
+        {
+          "id": "guanyu-excl-simayi-xiangyang-yiben-chongfu",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 4,
+          "term": "關羽",
+          "quote": "孫權新破關羽",
+          "reason": "此段與 a05-001-ahcb 第 8 段同文異本，僅字形小異，主述曹仁鎮襄陽之議，羽僅以「新破」作背景，本輪已於 ahcb 本排除，無新史實，不重錄。"
         }
       ],
       "unresolved": []
