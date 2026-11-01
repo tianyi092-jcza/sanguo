@@ -92299,6 +92299,15 @@
           "from": "安成長吳碭及中郎將袁龍等首尾關羽，",
           "through": "復為反亂。",
           "citation": "《三國志·吳書十五·賀齊全琮呂岱周魴鍾離牧傳第十五 呂岱傳》"
+        },
+        {
+          "id": "guanyu-jinshu-fancheng-xiufang-jiangyu",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 4,
+          "from": "及蜀將關羽圍曹仁於樊",
+          "through": "脩、方果降羽",
+          "citation": "《晉書》卷一·宣帝紀"
         }
       ],
       "exclusions": [
@@ -92643,6 +92652,24 @@
           "term": "關羽",
           "quote": "呂蒙圖襲關羽，權以問儀，儀善其計，勸權聽之",
           "reason": "本段主角為是儀進言贊成襲羽之計，襲取荊州之謀已由呂蒙傳及本傳正錄覆蓋，本段無關於羽的新史實，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-wufan-maicheng-yuyan",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 4,
+          "term": "關羽",
+          "quote": "後羽在麥城，使使請降。權問範曰：「竟當降否？」範曰：「彼有走氣，言降詐耳。」",
+          "reason": "此段主述吳範占候預言羽必就擒（斷其詐降、預言明日日中得羽），羽被擒事本傳及潘璋傳正錄已有，本段無關於羽的新事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-simayi-zhixi-jingzhou-yimin",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 6,
+          "term": "關羽",
+          "quote": "關羽新破，諸爲惡者藏竄觀望。",
+          "reason": "此段主述司馬懿諫止徙荊州遺黎之議，羽僅以「新破」作時間標記，敗亡事本傳已有，本段無關於羽的新史實，不另錄。"
         }
       ],
       "unresolved": []
