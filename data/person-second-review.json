@@ -99626,9 +99626,37 @@
           "from": "延先至，據南谷口，遣兵逆擊儀等，",
           "through": "遂夷延三族。",
           "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·魏延傳》"
+        },
+        {
+          "id": "wyan-sg-011",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 27,
+          "from": "亮深惜儀之才幹，",
+          "through": "不忍有所偏廢也。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·楊儀傳》"
+        },
+        {
+          "id": "wyan-sg-012",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 29,
+          "from": "魏延以勇略任，",
+          "through": "魏延以勇略任，",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "wyan-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 22,
+          "term": "魏延",
+          "quote": "魏延傳",
+          "reason": "僅為《蜀書十》魏延傳篇目，無敘事內容，非史實記載，排除，不作摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
