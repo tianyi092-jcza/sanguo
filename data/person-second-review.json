@@ -97260,7 +97260,7 @@
     {
       "id": "p0142",
       "name": "伊籍",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yiji-sgz-origin-yibiao",
@@ -97313,16 +97313,32 @@
           "note": "先主定益州後任官用人，伊籍與糜竺、簡雍、孫乾等同列賓友。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yiji-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 16,
+          "term": "伊籍傳",
+          "quote": "伊籍傳",
+          "reason": "僅為《三國志·蜀書八》中的傳目標記「伊籍傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "收尾依據：本輪向量候選未覆蓋僅餘 a04-038:16 篇題，排除後候選枯竭、未解決 0 條；按本傳補齊核對，本傳 a04-038 中確指伊籍的段落（16 篇題已排除、17 本傳正文已錄 3 條、25 評曰伊籍句已錄）皆已覆蓋，故結案，未硬湊無關段落。",
+        "共錄正摘錄 5 條（《三國志》4、《華陽國志》1），排除 1 條（本傳篇題）；摘錄涵蓋本傳開篇家世與依劉表、隨先主南渡江入益州、定益州後從事中郎與使吳機辯、遷昭文將軍共造蜀科、評曰總評，以及華陽國志定益州後賓友互證。",
+        "辨人：伊籍字機伯，山陽人；與同卷合傳的許靖、麋竺、孫乾、簡雍、秦宓嚴格區分，評曰與華陽國志賓友句僅取確指伊籍的部分，不把同列人物的事跡記到伊籍名下。",
+        "勢力繫年：少依同邑鎮南將軍劉表；先主在荊州時常往來自託，表卒後隨先主南渡江、從入益州；益州既定後為左將軍從事中郎、奉命東使於吳，後遷昭文將軍與諸葛亮等共造蜀科，始終屬劉備陣營，無轉投他勢力的階段轉折。",
+        "生卒：本傳未載確切生卒年，不硬定；原庫 year_range 為空，亦不補定。"
+      ]
     }
   ]
 }
