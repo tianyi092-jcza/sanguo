@@ -93039,6 +93039,51 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0132",
+      "name": "張飛",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "zhangfei-wudiji-217-tun-xiabian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 37,
+          "from": "劉備遣張飛、馬超、吳蘭等屯下辯",
+          "through": "劉備遣張飛、馬超、吳蘭等屯下辯",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhangfei-wudiji-218-zou-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 38,
+          "from": "張飛、馬超走漢中",
+          "through": "陰平氐強端斬吳蘭，傳其首",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhangfei-excl-zhangfeiyan-heishan",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 18,
+          "term": "張飛",
+          "quote": "軍中號曰張飛燕",
+          "reason": "本段「張飛燕」是黑山賊首領張燕（本姓褚）的軍中號，並非蜀漢張飛；「張飛」二字僅為其號中前兩字誤觸，不另錄。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
