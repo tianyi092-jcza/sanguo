@@ -99644,6 +99644,33 @@
           "from": "魏延以勇略任，",
           "through": "魏延以勇略任，",
           "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳》"
+        },
+        {
+          "id": "wyan-sg-013",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 17,
+          "from": "十二年，亮卒於武功，",
+          "through": "平之功也。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·王平傳》"
+        },
+        {
+          "id": "wyan-sg-014",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 11,
+          "from": "值軍師魏延與長史楊儀相憎惡，",
+          "through": "禕匡救之力也。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳·費禕傳》"
+        },
+        {
+          "id": "wyan-sg-015",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 19,
+          "from": "初，先主留魏延鎮漢中，",
+          "through": "使不得入。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳·姜維傳》"
         }
       ],
       "exclusions": [
