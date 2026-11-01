@@ -94288,6 +94288,33 @@
           "from": "會馬超作亂",
           "citation": "《三國志·魏書二十二·桓二陳徐衛盧傳第二十二》",
           "through": "留統諸軍。"
+        },
+        {
+          "id": "machao-zhaoyan-guanzhong-hujun",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 24,
+          "from": "太祖徙出故韓遂、馬超等兵",
+          "citation": "《三國志·魏書二十三·和常楊杜趙裴傳第二十三》",
+          "through": "盡統諸軍。"
+        },
+        {
+          "id": "machao-yangan-chaofan-san",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 31,
+          "from": "及馬超反，幹郡近超，民人分散。",
+          "citation": "《三國志·魏書二十三·和常楊杜趙裴傳第二十三》",
+          "through": "超破，為漢陽太守。"
+        },
+        {
+          "id": "machao-gaorou-jian-xi",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 14,
+          "from": "太祖欲遣鍾繇等討張魯",
+          "citation": "《三國志·魏書二十四·韓崔高孫王傳第二十四》",
+          "through": "遂、超等果反。"
         }
       ],
       "exclusions": [],
