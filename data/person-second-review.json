@@ -99262,6 +99262,33 @@
           "from": "初洪爲犍爲太守李嚴功曺",
           "through": "嚴故在職",
           "citation": "《華陽國志·卷六 劉先主志》"
+        },
+        {
+          "id": "ly-hygz-zhangwu-fuhan",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 22,
+          "from": "魏延鎮北將軍李嚴輔漢將軍",
+          "through": "襄陽馬良爲侍中",
+          "citation": "《華陽國志·卷六 劉先主志》"
+        },
+        {
+          "id": "ly-hygz-yongan-tuogu",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 26,
+          "from": "書令李嚴竝受寄託",
+          "through": "先主殂于永安宫",
+          "citation": "《華陽國志·卷六 劉先主志》"
+        },
+        {
+          "id": "ly-hygz-jianxing-zhonghujun",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 0,
+          "from": "中護軍李嚴假節",
+          "through": "封都鄊侯督永安事",
+          "citation": "《華陽國志·卷七 劉後主志》"
         }
       ],
       "exclusions": [
