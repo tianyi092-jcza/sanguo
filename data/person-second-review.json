@@ -92967,6 +92967,33 @@
           "term": "關羽",
           "quote": "馬超字孟起，右扶風茂陵人也",
           "reason": "本段主角為馬超（字孟起、右扶風茂陵人，述其父騰事蹟），關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-machao-zhuan-tongguan-longshang",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 15,
+          "term": "關羽",
+          "quote": "超旣統衆，遂與韓遂合從",
+          "reason": "本段主角為馬超（與韓遂合從、進軍潼關、後敗走隴上諸郡、奔漢中事），關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-machao-zhuan-bai-zuojiangjun-zu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 17,
+          "term": "關羽",
+          "quote": "先主為漢中王，拜超為左將軍，假節",
+          "reason": "本段主角為馬超（漢中王拜左將軍、章武元年遷驃騎將軍、領涼州牧、卒年四十七、追謚威侯），關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-huangzhong-zhuan-timu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 18,
+          "term": "關羽",
+          "quote": "黃忠傳",
+          "reason": "本段僅為黃忠傳篇目題名，主角為黃忠，關羽未出現，不另錄。"
         }
       ],
       "unresolved": []
