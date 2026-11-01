@@ -99572,6 +99572,33 @@
           "from": "時有宿將魏延、吳壹等，論者皆言以為宜令為先鋒",
           "through": "而亮違衆拔謖",
           "citation": "《三國志·蜀書九·董劉馬陳董呂傳·馬謖傳》"
+        },
+        {
+          "id": "wyan-pei-002",
+          "work": "peizhu",
+          "source": "a04-039",
+          "paragraph": 16,
+          "from": "孫權甞大醉問禕曰：「楊儀、魏延，牧豎小人也。",
+          "through": "諸葛亮聞之，以為知言。",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳·董允傳》裴注引襄陽記"
+        },
+        {
+          "id": "wyan-sg-006",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "from": "輙與行中軍師車騎將軍都鄉侯臣劉琰",
+          "through": "前軍師征西大將軍領涼州刺史南鄭侯臣魏延",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·李平傳》"
+        },
+        {
+          "id": "wyan-sg-007",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 20,
+          "from": "建興十年，與前軍師魏延不和",
+          "through": "亮責讓之。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·劉琰傳》"
         }
       ],
       "exclusions": [],
