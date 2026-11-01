@@ -92994,6 +92994,33 @@
           "term": "關羽",
           "quote": "黃忠傳",
           "reason": "本段僅為黃忠傳篇目題名，主角為黃忠，關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhaoyun-zhuan-timu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 20,
+          "term": "關羽",
+          "quote": "趙雲傳",
+          "reason": "本段僅為趙雲傳篇目題名，主角為趙雲，關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhaoyun-zhuan-zilong-changshan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 21,
+          "term": "關羽",
+          "quote": "趙雲字子龍，常山真定人也",
+          "reason": "本段主角為趙雲（常山真定人，本屬公孫瓚，後隨先主，長阪懷抱後主、截江留後主等事），關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhaoyun-zhuan-yizhou-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "term": "關羽",
+          "quote": "先主自葭萌還攻劉璋，召諸葛亮",
+          "reason": "本段主角為趙雲（隨諸葛亮入蜀、成都定後為翊軍將軍、漢水空營退曹軍、諫止伐吳、箕谷斷後等事），關羽未出現，不另錄。"
         }
       ],
       "unresolved": []
