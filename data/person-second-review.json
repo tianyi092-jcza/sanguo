@@ -97692,6 +97692,22 @@
         "生平繫年：劉璋舊臣（牛鞞、江原長、成都令、巴東屬國都尉、益州太守），先主定蜀後徵為掌軍中郎將，與諸葛亮並署左將軍大司馬府事；清儉之風見本傳與楊戲《季漢輔臣贊》互證。",
         "本傳補齊：a04-039 董和本傳中出現董和／董幼宰的段落（0、1、2、22）已全部覆蓋；向量候選已耗盡（10 段），無遺漏段落，收尾結案。"
       ]
+    },
+    {
+      "id": "p0145",
+      "name": "劉巴",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
