@@ -99846,7 +99846,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yyi-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 13,
+          "from": "征西大將軍魏延與丞相長史楊儀爭權不和",
+          "through": "儀率諸軍還成都。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "yyi-sg-002",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 14,
+          "from": "中軍師楊儀",
+          "through": "廢徙漢嘉郡。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "yyi-pei-001",
+          "work": "peizhu",
+          "source": "a04-035",
+          "paragraph": 14,
+          "from": "漢晉春秋曰：楊儀等整軍而出",
+          "through": "入谷然後發喪。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》裴注引漢晉春秋"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
