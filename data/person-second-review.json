@@ -92146,6 +92146,33 @@
           "from": "芳為南郡太守，與關羽共事",
           "through": "羽因覆敗",
           "citation": "《三國志·蜀書八·許麋孫簡伊秦傳·糜竺傳》"
+        },
+        {
+          "id": "guanyu-fancheng-hu-fengda-fa-bing-beiju",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 2,
+          "from": "自關羽圍樊城、襄陽",
+          "through": "會羽覆敗",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·劉封傳》"
+        },
+        {
+          "id": "guanyu-yangyi-ming-gongcao-qian-shi",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 27,
+          "from": "羽命為功曹",
+          "through": "遣奉使西詣先主",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·楊儀傳》"
+        },
+        {
+          "id": "guanyu-feishi-quan-qian-jiangjun-shou-bai",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 18,
+          "from": "遣詩拜關羽為前將軍",
+          "through": "羽大感悟，遽即受拜",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·費詩傳》"
         }
       ],
       "exclusions": [
