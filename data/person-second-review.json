@@ -99936,6 +99936,33 @@
           "from": "值軍師魏延與長史楊儀相憎惡",
           "through": "禕匡救之力也。",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳》"
+        },
+        {
+          "id": "yyi-sg-010",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 42,
+          "from": "威公狷狹，取異衆人",
+          "through": "舍順入凶，大易之云。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳》"
+        },
+        {
+          "id": "yyi-jin-001",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 26,
+          "from": "亮長史楊儀反旗鳴鼓",
+          "through": "於是楊儀結陣而去。",
+          "citation": "《晉書·卷一·宣帝紀》"
+        },
+        {
+          "id": "yyi-jin-002",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 27,
+          "from": "亮部將楊儀、魏延爭權",
+          "through": "儀斬延，并其眾。",
+          "citation": "《晉書·卷一·宣帝紀》"
         }
       ],
       "exclusions": [
