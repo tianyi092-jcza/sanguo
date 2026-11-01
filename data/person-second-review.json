@@ -98255,6 +98255,53 @@
         "勢力繫年：始終事蜀漢（先主、諸葛亮），任亮參軍，無依附轉投記載，不作多階段切分。",
         "後漢書：向量檢索未命中本人相關段落，列為已查（無摘錄）。"
       ]
+    },
+    {
+      "id": "p0148",
+      "name": "陳震",
+      "status": "pilot",
+      "excerpts": [
+        {
+          "id": "chenzhen-sgz-zhugeliang-qingquan",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 12,
+          "from": "乃遣衞尉陳震慶權正號。",
+          "through": "乃遣衞尉陳震慶權正號。",
+          "citation": "《三國志·蜀書五 諸葛亮傳第五》所載",
+          "note": "建興七年（229）孫權稱尊號，諸葛亮遣衞尉陳震赴吳慶賀權正號；此為陳震奉命使吳的他傳旁證。"
+        },
+        {
+          "id": "chenzhen-sgz-ben-zhuan",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 13,
+          "from": "陳震字孝起，南陽人也。",
+          "through": "子濟嗣。",
+          "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 陳震傳》所載",
+          "note": "陳震本傳全文：字孝起，南陽人；先主領荊州牧時辟為從事，隨先主入蜀，歷蜀郡北部都尉、汶山太守、犍為，建興三年入拜尚書、遷尚書令，奉命使吳；建興七年以衞尉賀孫權踐阼，至武昌與權升壇歃盟、交分天下，還封城陽亭侯；建興十三年卒，子濟嗣。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "chenzhen-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 12,
+          "term": "陳震傳",
+          "quote": "陳震傳",
+          "reason": "僅為《三國志·蜀書九》中的傳目標記「陳震傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
