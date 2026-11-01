@@ -92940,6 +92940,33 @@
           "term": "關羽",
           "quote": "拜飛為右將軍、假節",
           "reason": "本段為劉備拜張飛為右將軍、進封西鄉侯之策文，主角為張飛，關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhangfei-zhuan-timu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 7,
+          "term": "關羽",
+          "quote": "張飛傳",
+          "reason": "本段僅為張飛傳篇目題名，主角為張飛，關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-machao-zhuan-timu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 13,
+          "term": "關羽",
+          "quote": "馬超傳",
+          "reason": "本段僅為馬超傳篇目題名，主角為馬超，關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-machao-zhuan-mengqi-maoling",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 14,
+          "term": "關羽",
+          "quote": "馬超字孟起，右扶風茂陵人也",
+          "reason": "本段主角為馬超（字孟起、右扶風茂陵人，述其父騰事蹟），關羽未出現，不另錄。"
         }
       ],
       "unresolved": []
