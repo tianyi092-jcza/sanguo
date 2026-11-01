@@ -97866,8 +97866,38 @@
       "id": "p0146",
       "name": "馬良",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "maliang-sgz-xianzhu-wuxi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 23,
+          "from": "遣侍中馬良安慰五谿蠻夷，",
+          "through": "咸相率響應。",
+          "citation": "《三國志·蜀書二 先主傳第二》所載",
+          "note": "章武二年（222）先主東征，遣侍中馬良安慰五谿蠻夷，蠻夷咸相率響應；見馬良在夷陵之役前任侍中、負責招納五谿蠻夷的角色。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "maliang-excl-001",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 32,
+          "term": "馬良",
+          "quote": "及家富馬良，其子好騎，墯而折髀，",
+          "reason": "此段引塞翁失馬典故，「家富馬良」指家富而馬匹良善，非蜀漢侍中馬良其人；僅字面同形，排除。"
+        },
+        {
+          "id": "maliang-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 6,
+          "term": "馬良傳",
+          "quote": "馬良傳",
+          "reason": "僅為《三國志·蜀書九》中的傳目標記「馬良傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
