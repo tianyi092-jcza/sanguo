@@ -98056,7 +98056,7 @@
     {
       "id": "p0147",
       "name": "馬謖",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "masu-sgz-caozhen-qishan",
@@ -98242,13 +98242,19 @@
       "exclusions": [],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：摘錄 18 條（《三國志》13、《晉書》2、《華陽國志》3），排除 0 條，未解決 0 條；向量候選已枯竭（本輪重跑 0 條），本傳段落（a04-039:10–11）皆已覆蓋，評 22 僅涉其兄馬良。",
+        "辨人：與其兄馬良及同卷合傳人物嚴格區分；本傳附傳段落 7–9 屬馬良，不錄入馬謖名下；單字命中均核實確指本人才錄入。",
+        "生平：馬謖字幼常，襄陽宜城人，馬良之弟；以荊州從事隨先主入蜀，除緜竹成都令、越嶲太守；才器過人，好論軍計，亮深加器異，然先主臨薨誡亮「言過其實，不可大用」；建興三年獻攻心之策，亮赦孟獲以服南方；建興六年亮違衆拔謖統大衆在前，街亭敗於張郃，士卒離散，謖下獄物故，年三十九；亮為之流涕，詔策咎由馬謖；臨終與亮書自比猶子猶父，願亮深惟殛鯀興禹之義。",
+        "勢力繫年：始終事蜀漢（先主、諸葛亮），任亮參軍，無依附轉投記載，不作多階段切分。",
+        "後漢書：向量檢索未命中本人相關段落，列為已查（無摘錄）。"
+      ]
     }
   ]
 }
