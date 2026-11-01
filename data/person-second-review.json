@@ -93661,15 +93661,21 @@
     {
       "id": "p0133",
       "name": "趙雲",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "收尾時向量候選已枯竭（本輪 retrieve 返 0 段）、未解決 0 條；累計錄正摘錄 20 條（《三國志》正文 12、裴注 2、《華陽國志》6），排除 4 條。",
+        "本傳已全覆蓋：卷36《趙雲傳》正文段 21–24（初屬公孫瓚隨從先主、長阪截江得後主還、入蜀泝江、建興七年卒追謚順平侯、追謚時論）均已錄；篇目標題段 20 已排除處置；合傳評段 25 已錄；合傳內關羽、張飛、馬超、黃忠各段不屬趙雲，不另錄。",
+        "辨人：華陽國志卷十二「趙雲君妻華」同名異人疑似，已排除；《晉書》天文志「趙雲如牛」為天象用語、非本人事跡，雙底本 2 條均已排除。",
+        "勢力繫年：初屬公孫瓚，瓚遣先主拒袁紹時遂隨從先主，此後始終從劉備陣營（長阪、入蜀、漢中、箕谷疑軍皆屬蜀漢），無再轉投他勢力的階段轉折。",
+        "生卒：本傳未明載生年；卒建興七年，追謚順平侯，本傳與後主傳追謚互證。後漢書、晉書本輪無確指本人事跡的正摘錄，晉書僅天文志誤擊排除，候選枯竭且無未決項，覆蓋置 checked。"
+      ],
       "excerpts": [
         {
           "id": "zhaoyun-xianzhu-changban-zou",
