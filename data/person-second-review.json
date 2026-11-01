@@ -94414,6 +94414,24 @@
           "from": "驃騎奮起",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳·楊戲傳》",
           "through": "託鳳攀龍。"
+        },
+        {
+          "id": "machao-zhouyu-qushu-jieyuan",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 8,
+          "from": "因留奮威固守其地",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九》",
+          "through": "好與馬超結援。"
+        },
+        {
+          "id": "machao-jin-yuezhi-pingguanzhong",
+          "work": "jinshu",
+          "source": "a05-023-ahcb",
+          "paragraph": 2,
+          "from": "改將進酒爲平關中",
+          "citation": "《晉書·卷二十三·志第十三·樂志》",
+          "through": "言曹公征馬超，定關中也。"
         }
       ],
       "exclusions": [
@@ -94452,6 +94470,15 @@
           "term": "馬超",
           "quote": "關羽、張飛、馬超、龐統、黃忠及雲乃追謚",
           "reason": "趙雲傳追謚段落，僅以馬超並列於追謚群臣之中，未載其謚號與事蹟，排除。"
+        },
+        {
+          "id": "machao-excl-jin-shihuo-machao-zhi-luan",
+          "work": "jinshu",
+          "source": "a05-026-ahcb",
+          "paragraph": 5,
+          "term": "馬超",
+          "quote": "京兆自馬超之亂，百姓不專農殖",
+          "reason": "晉書食貨志記顏斐為京兆太守，僅以「馬超之亂」作京兆凋敝之背景，未載馬超事蹟，排除。"
         }
       ],
       "unresolved": []
