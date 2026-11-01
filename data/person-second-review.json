@@ -94261,6 +94261,33 @@
           "from": "超將步騎萬餘人，來奔太祖軍，矢下如雨。",
           "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳第十八》",
           "through": "超將步騎萬餘人，來奔太祖軍，矢下如雨。"
+        },
+        {
+          "id": "machao-yanwen-jicheng",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 34,
+          "from": "馬超走奔上邽",
+          "citation": "《三國志·魏書十八·二李臧文呂許典二龐閻傳第十八》",
+          "through": "超遂殺之。"
+        },
+        {
+          "id": "machao-peizhu-ruanyu-shu-hansui",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 7,
+          "from": "又典略載太祖初征荊州",
+          "citation": "《三國志·魏書二十一·王衛二劉傅傳第二十一》",
+          "through": "此二書今具存。"
+        },
+        {
+          "id": "machao-xuxuan-liushou",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 23,
+          "from": "會馬超作亂",
+          "citation": "《三國志·魏書二十二·桓二陳徐衛盧傳第二十二》",
+          "through": "留統諸軍。"
         }
       ],
       "exclusions": [],
