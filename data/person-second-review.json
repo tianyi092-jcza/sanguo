@@ -98057,7 +98057,38 @@
       "id": "p0147",
       "name": "馬謖",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "masu-sgz-caozhen-qishan",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 37,
+          "from": "帝遣真督諸軍軍郿，",
+          "through": "遣張郃擊亮將馬謖，大破之。",
+          "citation": "《三國志·魏書九 諸夏侯曹傳第九 曹真傳》所載",
+          "note": "祁山之役中，曹真督諸軍，遣張郃擊破諸葛亮將馬謖；此為街亭之敗的魏方記載。"
+        },
+        {
+          "id": "masu-sgz-guohuai-jieting",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 30,
+          "from": "太和二年，蜀相諸葛亮出祁山，遣將軍馬謖至街亭，",
+          "through": "張郃擊謖，淮攻詳營，皆破之。",
+          "citation": "《三國志·魏書二十六 滿田牽郭傳第二十六 郭淮傳》所載",
+          "note": "太和二年（228）諸葛亮出祁山，遣將軍馬謖至街亭，張郃擊破馬謖、郭淮攻破高詳營。"
+        },
+        {
+          "id": "masu-sgz-zhugeliang-jieting",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 11,
+          "from": "亮使馬謖督諸軍在前，",
+          "through": "大為郃所破。",
+          "citation": "《三國志·蜀書五 諸葛亮傳第五》所載",
+          "note": "諸葛亮攻祁山，使馬謖督諸軍在前，與張郃戰于街亭；馬謖違亮節度，舉動失宜而大敗。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
