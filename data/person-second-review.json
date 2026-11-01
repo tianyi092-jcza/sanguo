@@ -98609,9 +98609,39 @@
           "through": "延熈十四年卒。",
           "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 呂乂傳》所載",
           "note": "呂乂本傳後段：徙漢中太守兼領督農供繼軍糧，亮卒後累遷廣漢、蜀郡太守，治蜀郡數年漏脫自出萬餘口；後入為尚書、代董允為尚書令，衆事無留、門無停賔；歷職內外治身儉約、為政簡而不煩、號為清能，然持法刻深、好用文俗吏，故居大官名聲損於郡縣；延熈十四年卒。"
+        },
+        {
+          "id": "lvyi-sgz-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 22,
+          "from": "呂乂臨郡則垂稱，",
+          "through": "亦黃、薛之流亞矣。",
+          "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九》卷末評曰所載",
+          "note": "卷末評曰中關於呂乂的品評：臨郡則有稱譽，處朝則受損，與黃、薛之流相亞。為陳壽對呂乂郡縣與朝中表現的對照評價。"
+        },
+        {
+          "id": "lvyi-sgz-wanglian-recommendation",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 4,
+          "from": "若呂乂、杜祺、劉幹等，",
+          "through": "自連所拔也。",
+          "citation": "《三國志·蜀書十一 霍王向張楊費傳第十一 王連傳》所載",
+          "note": "王連傳旁證：王連為司鹽校尉時簡取良才為官屬，呂乂與杜祺、劉幹等皆自連所拔、終至大官；與本傳「王連請乂為典曹都尉」互證。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "lvyi-excl-title",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 19,
+          "term": "呂乂",
+          "quote": "呂乂傳",
+          "reason": "僅為本傳篇題，無史實內容；本傳正文已錄於第 20 段，不另立摘錄。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
