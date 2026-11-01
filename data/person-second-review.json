@@ -97865,7 +97865,7 @@
     {
       "id": "p0146",
       "name": "馬良",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "maliang-sgz-xianzhu-wuxi",
@@ -97996,6 +97996,16 @@
           "through": "先主拜良子秉為騎都尉",
           "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 馬良傳》所載",
           "note": "本傳正文：先主稱尊號後以良為侍中，東征時遣良入武陵招納五溪蠻夷，夷陵敗績時良亦遇害，先主拜其子秉為騎都尉。與先主傳、華陽國志所記招納五溪事相印證。"
+        },
+        {
+          "id": "maliang-sgz-liangsi-sanshiliu",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 11,
+          "from": "良死時年三十六",
+          "through": "謖年三十九",
+          "citation": "《三國志·蜀書九 董劉馬陳董呂傳第九 馬良傳》所載",
+          "note": "馬謖附傳段落中記良死時年三十六，為馬良卒年年齡的直接記載；與其生 187、卒章武二年（222）相合。"
         }
       ],
       "exclusions": [
@@ -98016,17 +98026,32 @@
           "term": "馬良傳",
           "quote": "馬良傳",
           "reason": "僅為《三國志·蜀書九》中的傳目標記「馬良傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        },
+        {
+          "id": "maliang-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 10,
+          "term": "良弟謖",
+          "quote": "良弟謖",
+          "reason": "本段主角為其弟馬謖（字幼常），記其入蜀任官、受諸葛亮器重及建興三年獻攻心之策；僅開首「良弟」表明與馬良的兄弟關係，無馬良本人史實，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：摘錄 14 條（《三國志》10、《華陽國志》4），排除 3 條，未解決 0 條；向量候選已枯竭（本輪重跑 0 條），本傳段落（a04-039:6–11 及評 22）皆已覆蓋。",
+        "辨人：與其弟馬謖（良弟謖附傳段落）及《後漢書》家富馬良（同名異人）嚴格區分；單字命中均核實確指本人才錄入。",
+        "生平：馬良字季常，襄陽宜城人；兄弟五人並有才名，鄉里諺稱「馬氏五常，白眉最良」；先主稱尊號後以良為侍中，東征時遣良入武陵招納五溪蠻夷，夷陵敗績時良亦遇害，死時年三十六；先主拜其子秉為騎都尉。",
+        "勢力繫年：始終事先主（劉備），無依附轉投記載，不作多階段切分。",
+        "後漢書：僅見同名異人，已排除；《晉書》向量檢索未命中本人相關段落，列為已查（無摘錄）。"
+      ]
     }
   ]
 }
