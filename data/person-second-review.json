@@ -99505,6 +99505,50 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0156",
+      "name": "魏延",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "wyan-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 19,
+          "from": "拔魏延為都督",
+          "through": "鎮漢中。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "wyan-sg-002",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 9,
+          "from": "是歲，魏延破",
+          "through": "郭淮于陽谿。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "wyan-sg-003",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 13,
+          "from": "征西大將軍魏延與丞相長史楊儀爭權不和",
+          "through": "儀率諸軍還成都。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
