@@ -98891,9 +98891,37 @@
           "from": "廣漢彭羕爲治中",
           "through": "彭羕璋所排擯也",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "py-hygz-bio",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 50,
+          "from": "彭羕字永年廣漢人有俊才",
+          "through": "勸先主因事誅之",
+          "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "py-hygz-caijun",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 28,
+          "from": "才雋江陽太守彭羕字年",
+          "through": "彭羕字年(廣漢人)",
+          "citation": "《華陽國志》卷十二·四部叢刊本"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "py-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 7,
+          "term": "彭羕傳",
+          "quote": "彭羕傳",
+          "reason": "僅為本傳篇題，無史實內容可錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
