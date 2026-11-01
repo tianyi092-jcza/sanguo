@@ -99545,6 +99545,33 @@
           "from": "征西大將軍魏延與丞相長史楊儀爭權不和",
           "through": "儀率諸軍還成都。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "wyan-pei-001",
+          "work": "peizhu",
+          "source": "a04-035",
+          "paragraph": 10,
+          "from": "郭沖三事曰：亮屯于陽平，遣魏延諸軍并兵東下",
+          "through": "亮惟留萬人守城。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》裴注引郭沖三事（裴松之駁其虛）"
+        },
+        {
+          "id": "wyan-sg-004",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 13,
+          "from": "亮使魏延、高翔、吳班赴拒",
+          "through": "宣王還保營。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "wyan-sg-005",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 11,
+          "from": "時有宿將魏延、吳壹等，論者皆言以為宜令為先鋒",
+          "through": "而亮違衆拔謖",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳·馬謖傳》"
         }
       ],
       "exclusions": [],
