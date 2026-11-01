@@ -98453,6 +98453,36 @@
           "through": "賛揚日月",
           "citation": "《華陽國志》卷七·四部叢刊本",
           "note": "諸葛亮開府領益州牧時，董允與江夏費禕、郭攸之同始為侍郎、賛揚日月，是董允早年侍郎仕歷的華陽國志旁證，與出師表侍郎記載相合。"
+        },
+        {
+          "id": "dongyun-huayang-chushibiao-jianba",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 6,
+          "from": "董允先帝簡㧞以遺陛下",
+          "through": "必能禆補闕漏有所廣益",
+          "citation": "《華陽國志》卷七·四部叢刊本",
+          "note": "華陽國志卷七所載董允事：先帝簡拔董允以遺陛下，宮省之事以諮之，必能裨補闕漏；與 a04-035:7 出師表原文互證，文字略異（斟酌規益、宮省之事）。"
+        },
+        {
+          "id": "dongyun-huayang-baoyi-yiyan",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 11,
+          "from": "留府長史蔣琬侍中董允保楊儀疑延",
+          "through": "延逆欲擊",
+          "citation": "《華陽國志》卷七·四部叢刊本",
+          "note": "華陽國志載亮卒後魏延、楊儀之爭：留府長史蔣琬、侍中董允保楊儀而疑魏延；與 a04-040:25 三國志魏延傳「琬、允咸保儀疑延」互證。"
+        },
+        {
+          "id": "dongyun-huayang-huben-tongsuwei",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 13,
+          "from": "侍郎董允兼虎賁中郎將",
+          "through": "統宿衛兵",
+          "citation": "《華陽國志》卷七·四部叢刊本",
+          "note": "華陽國志載蔣琬登大位之際，侍郎董允兼虎賁中郎將統宿衛兵；與本傳 a04-039:15 統宿衛親兵相合，補其任職情形。"
         }
       ],
       "exclusions": [
