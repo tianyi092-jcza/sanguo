@@ -93508,7 +93508,7 @@
           "work": "huayang",
           "source": "a06-006",
           "paragraph": 15,
-          "from": "先主率張飛等進軍宕渠之蒙頭拒郃",
+          "from": "主率張飛等進軍宕渠之蒙頭拒郃",
           "through": "從間道還南也",
           "citation": "《華陽國志》卷六·四部叢刊本"
         },
@@ -93517,9 +93517,36 @@
           "work": "huayang",
           "source": "a06-006",
           "paragraph": 17,
-          "from": "關羽爲前將軍張飛爲右將軍馬超為左將軍",
-          "through": "皆假節鉞",
+          "from": "羽爲前將軍張飛爲右將軍馬超為左將軍",
+          "through": "鉞",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-zhangwu-cheqi-xixiang",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 22,
+          "from": "張飛車騎將",
+          "through": "進封西鄊侯",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-zhangda-fanjiang-shafei",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 22,
+          "from": "命張飛率巴",
+          "through": "奔呉",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-zhuishi-huanhou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 26,
+          "from": "追諡故前將軍關羽曰壯繆侯車騎",
+          "through": "張飛曰桓侯",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
