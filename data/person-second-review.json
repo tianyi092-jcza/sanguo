@@ -92389,6 +92389,33 @@
           "from": "關羽督荆州事",
           "through": "巴西太守",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-yiyang-fen-jingzhou",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 14,
+          "from": "先主下公安令關羽入益陽",
+          "through": "西屬",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-feshi-machao",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 18,
+          "from": "時關羽自江陵圍曺仁扵樊",
+          "through": "羽美鬢髭故亮稱云髯也",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-dongzheng-fu-chou",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 22,
+          "from": "先主將東征以復關羽之恥",
+          "through": "將㑹江州",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
