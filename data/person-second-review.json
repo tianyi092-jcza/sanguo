@@ -96538,13 +96538,13 @@
     {
       "id": "p0138",
       "name": "許靖",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "excerpts": [
         {
@@ -96787,6 +96787,36 @@
           "through": "章武二年卒",
           "citation": "《三國志·蜀書八·許靖傳》",
           "note": "本傳正文晚年條：靖年逾七十仍愛樂人物、誘納後進、清談不倦，丞相諸葛亮皆為之拜，章武二年卒。本條僅取正文前半，後附魏略王朗與文休書三通為異說層，未併入。"
+        },
+        {
+          "id": "xj-sg-bio-shu-zhangjin",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 4,
+          "from": "知聖主允明",
+          "through": "入於裔土矣。",
+          "citation": "《三國志·蜀書八·許靖傳》",
+          "note": "本傳正文：許靖與曹公書續段。靖請曹公向交州刺史張津（子雲）傳聲命、加以保屬，使己得假途由荊州北歸；若不得，則由益州兄弟紹介納受；否則隕沒裔土、永銜罪責。"
+        },
+        {
+          "id": "xj-sg-bio-shu-guren",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 5,
+          "from": "昔營丘翼周",
+          "through": "虎賁警蹕。",
+          "citation": "《三國志·蜀書八·許靖傳》",
+          "note": "本傳正文：與曹公書以營丘（太公）翼周、博陸（霍光）佐漢為比，言專征、警蹕之任；其間「漢書霍光傳曰……未詳虎賁所出也」為裴注層，未併入。"
+        },
+        {
+          "id": "xj-sg-bio-shu-quanzhu",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 5,
+          "from": "今日足下扶危持傾",
+          "through": "為民自愛。",
+          "citation": "《三國志·蜀書八·許靖傳》",
+          "note": "本傳正文：與曹公書勸勉段。靖言足下扶危持傾、為國柱石，爵高憂深、祿厚責重，當遠覽廢興、棄忘舊惡、為官擇人，讎必舉、親不授，以寧社稷、濟下民。"
         }
       ],
       "exclusions": [
@@ -96846,7 +96876,12 @@
         }
       ],
       "unresolved": [],
-      "conclusions": []
+      "conclusions": [
+        "本輪共錄正摘錄 27 條（《三國志》19、《後漢書》2、《華陽國志》6），排除 6 條（《三國志》5、《華陽國志》1），未解決 0 條。",
+        "辨人：許靖字文休，汝南平輿人；與同卷合傳的麋竺、孫乾、簡雍、伊籍、秦宓及從弟許劭嚴格區分，單字命中均核實確指本人後方錄入，本傳與他傳不得串人。",
+        "生卒：卒章武二年（222 年），本傳正文「章武二年卒」為據；生年本傳未載確年，不硬定。",
+        "收尾依據：向量候選枯竭（0 段）、未解決 0 條；按本傳補齊核對，本傳 a04-038 許靖傳段 0–8、25 皆已覆蓋（本輪補錄與曹公書續段 4、5），同卷段 9–24 為麋竺、孫乾、簡雍、伊籍、秦宓傳確屬他人不錄，故結案，未硬湊無關段落。"
+      ]
     }
   ]
 }
