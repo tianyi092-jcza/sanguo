@@ -94099,6 +94099,33 @@
           "from": "從征馬超，為流矢所中死。",
           "citation": "《後漢書·卷六十九·竇武傳》",
           "through": "從征馬超，為流矢所中死。"
+        },
+        {
+          "id": "machao-xunyu-weikang-wei",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 34,
+          "from": "後為馬超所圍，堅守歷時，救軍不至，遂為超所殺。",
+          "citation": "《後漢書·卷七十·荀彧傳》",
+          "through": "後為馬超所圍，堅守歷時，救軍不至，遂為超所殺。"
+        },
+        {
+          "id": "machao-zhanglu-hansui-luan",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 14,
+          "from": "韓遂、馬超之亂，關西民奔魯者數萬家。",
+          "citation": "《後漢書·卷七十五·張魯傳》",
+          "through": "韓遂、馬超之亂，關西民奔魯者數萬家。"
+        },
+        {
+          "id": "machao-wudiji-yuzhong-lantian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 27,
+          "from": "馬超餘衆梁興等屯藍田，使夏侯淵擊平之。",
+          "citation": "《三國志·魏書一·武帝紀第一》",
+          "through": "馬超餘衆梁興等屯藍田，使夏侯淵擊平之。"
         }
       ],
       "exclusions": [],
