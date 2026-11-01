@@ -92697,6 +92697,33 @@
           "term": "關羽",
           "quote": "孫權新破關羽",
           "reason": "此段與 a05-001-ahcb 第 8 段同文異本，僅字形小異，主述曹仁鎮襄陽之議，羽僅以「新破」作背景，本輪已於 ahcb 本排除，無新史實，不重錄。"
+        },
+        {
+          "id": "guanyu-excl-weizhao-shierqu-guanbeide",
+          "work": "jinshu",
+          "source": "a05-023-ahcb",
+          "paragraph": 3,
+          "term": "關羽",
+          "quote": "言蜀將關羽背棄吳德，權引師浮江而擒之也",
+          "reason": "主述吳韋昭制十二曲名，關羽僅見於「關背德」「通荊州」二曲解說，擒羽事本傳已載，此處僅為吳方曲名詮釋，無關羽新史實，不重錄。"
+        },
+        {
+          "id": "guanyu-excl-liuxia-bizhi-zhangfei-guanyu",
+          "work": "jinshu",
+          "source": "a05-081-ahcb",
+          "paragraph": 61,
+          "term": "關羽",
+          "quote": "冀方比之張飛、關羽",
+          "reason": "主述劉遐為塢主擊賊，關羽僅與張飛並舉為勇名比況，無關羽生平史實。"
+        },
+        {
+          "id": "guanyu-excl-nantan-yin-guanyuzhiben",
+          "work": "jinshu",
+          "source": "a05-126-ahcb",
+          "paragraph": 20,
+          "term": "關羽",
+          "quote": "故魏武善關羽之奔",
+          "reason": "主述傉檀赦熾磐逃歸，關羽之奔僅引為臣子歸君父之典故，無關羽新史實。"
         }
       ],
       "unresolved": []
