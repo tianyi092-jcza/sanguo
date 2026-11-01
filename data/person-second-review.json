@@ -99307,6 +99307,24 @@
           "from": "丞相亮軍城固表進江州都護李嚴驃騎將軍",
           "through": "丞相亮軍城固表進江州都護李嚴驃騎將軍",
           "citation": "《華陽國志·卷七 劉後主志》"
+        },
+        {
+          "id": "ly-hygz-zhenjue",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 69,
+          "from": "冲爲太守李嚴督郵嚴託縣遣孝義",
+          "through": "掾奉羔雁宣太守命聘之玦乃自投水捄援不死",
+          "citation": "《華陽國志·卷十 先賢士女》"
+        },
+        {
+          "id": "ly-sg-ben-zhangwu-tuogu",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 17,
+          "from": "章武二年，先主徵嚴詣永安宮，拜尚書令。",
+          "through": "嚴改名為平。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳 李嚴傳》"
         }
       ],
       "exclusions": [
