@@ -93070,6 +93070,24 @@
           "from": "張飛、馬超走漢中",
           "through": "陰平氐強端斬吳蘭，傳其首",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "zhangfei-pei-xiandizhuan-sha-yilu",
+          "work": "peizhu",
+          "source": "a04-003",
+          "paragraph": 18,
+          "from": "及劉備走小沛，張飛隨之",
+          "through": "悔欲還，飛殺之",
+          "citation": "裴注引《獻帝傳》"
+        },
+        {
+          "id": "zhangfei-pei-yingxiongji-xiapi-zheng-bao",
+          "work": "peizhu",
+          "source": "a04-007",
+          "paragraph": 8,
+          "from": "張益德與下邳相曹豹共爭",
+          "through": "大破益德兵，獲備妻子軍資及部曲將吏士家口",
+          "citation": "裴注引《英雄記》"
         }
       ],
       "exclusions": [
@@ -93081,6 +93099,15 @@
           "term": "張飛",
           "quote": "軍中號曰張飛燕",
           "reason": "本段「張飛燕」是黑山賊首領張燕（本姓褚）的軍中號，並非蜀漢張飛；「張飛」二字僅為其號中前兩字誤觸，不另錄。"
+        },
+        {
+          "id": "zhangfei-excl-zhangfeiyan-zhangyan",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 21,
+          "term": "張飛",
+          "quote": "謂輕捷者為張飛燕",
+          "reason": "本段為張燕本傳（《三國志·魏書八·二公孫陶四張傳》張燕傳），「張飛燕」是黑山帥張燕（本姓褚）的軍中號，並非蜀漢張飛；「張飛」二字僅為其號中前兩字誤觸，不另錄。（同例 zhangfei-excl-zhangfeiyan-heishan）"
         }
       ],
       "unresolved": []
