@@ -97576,7 +97576,7 @@
     {
       "id": "p0144",
       "name": "董和",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "donghe-sgz-chengdu-renyong",
@@ -97637,6 +97637,16 @@
           "through": "民思其綱。",
           "citation": "《三國志·蜀書十五 鄧張宗楊傳第十五》所載",
           "note": "楊戲《季漢輔臣贊》贊董幼宰之語：董幼宰即董和之字，掌軍指其先主定蜀後所任掌軍中郎將；贊其清節亢然、讜言惟司，民思其綱。"
+        },
+        {
+          "id": "donghe-huayang-dingshu-zhangjun",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 13,
+          "from": "益州太守南郡董和掌軍中郎",
+          "through": "益州太守南郡董和掌軍中郎",
+          "citation": "《華陽國志·卷六》",
+          "note": "先主定蜀後任命序列：稱董和為前益州太守、南郡人，任掌軍中郎將；與本傳「先主定蜀，徵和為掌軍中郎將」互證。本段底本無標點，「掌軍中郎」後接「太守漢嘉王謀為别駕」為下一任命（漢嘉太守王謀任别駕），不屬董和，不錄。"
         }
       ],
       "exclusions": [
@@ -97670,13 +97680,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "共錄正摘錄 7 條（《三國志》6、《華陽國志》1），排除 3 條（同名異人 2、傳目標記 1），未解決 0 條。",
+        "辨人：與魏彭城王司馬董和、吳軍所獲廬江參軍董和等同名異人嚴格區分；傳目標記「董和傳」無史實內容，排除。",
+        "生平繫年：劉璋舊臣（牛鞞、江原長、成都令、巴東屬國都尉、益州太守），先主定蜀後徵為掌軍中郎將，與諸葛亮並署左將軍大司馬府事；清儉之風見本傳與楊戲《季漢輔臣贊》互證。",
+        "本傳補齊：a04-039 董和本傳中出現董和／董幼宰的段落（0、1、2、22）已全部覆蓋；向量候選已耗盡（10 段），無遺漏段落，收尾結案。"
+      ]
     }
   ]
 }
