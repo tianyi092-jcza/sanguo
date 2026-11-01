@@ -92443,6 +92443,24 @@
           "from": "先主收江南諸郡，乃封拜元勳，以羽為襄陽太守、盪寇將軍，駐江北",
           "through": "拜羽董督荊州事",
           "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
+        },
+        {
+          "id": "guanyu-ben-zhuan-shuji-mengzhu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 6,
+          "from": "蜀記曰：羽初出軍圍樊，夢豬嚙其足",
+          "through": "然不得還！」",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
+        },
+        {
+          "id": "guanyu-ben-zhuan-jiangbiao-hao-zuoshi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 6,
+          "from": "江表傳云：羽好左氏傳",
+          "through": "諷誦略皆上口",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
         }
       ],
       "exclusions": [
@@ -92886,6 +92904,15 @@
           "term": "關羽",
           "quote": "先主與二子寢則同牀食則共器㤙若弟兄然",
           "reason": "此段主述先主起兵得關羽、張飛為禦侮，寢則同牀、食則共器、恩若兄弟及侍立終日事本傳已載，本段無關於羽的新史實，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-huangzhong-zhuan-houjiangjun-binglun",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 19,
+          "term": "關羽",
+          "quote": "忠之名望，素非關、馬之倫也",
+          "reason": "本段主角為黃忠（定軍山斬夏侯淵、拜後將軍事），關羽僅在諸葛亮論忠名望素非關馬之倫、及與羽等齊位處作比較與並列，無關羽獨立事蹟，不另錄。"
         }
       ],
       "unresolved": []
