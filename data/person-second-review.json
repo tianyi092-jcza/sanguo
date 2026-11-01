@@ -93769,6 +93769,15 @@
           "from": "征南厚重，征西忠克，統時選士，猛將之烈。",
           "through": "征南厚重，征西忠克，統時選士，猛將之烈。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳·季漢輔臣贊》"
+        },
+        {
+          "id": "zhaoyun-huayang-sujiang-badong",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 17,
+          "from": "綂荆州事諸葛亮張飛趙雲等泝江降下巴東入巴",
+          "through": "綂荆州事諸葛亮張飛趙雲等泝江降下巴東入巴",
+          "citation": "《華陽國志》卷五·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -93780,6 +93789,24 @@
           "term": "趙雲",
           "quote": "趙雲傳",
           "reason": "僅為《趙雲傳》篇目標題，無史實內容，不作摘錄依據；標記已處理以免重複候選。"
+        },
+        {
+          "id": "zhaoyun-excl-tianwen-zhaoyunruniu",
+          "work": "jinshu",
+          "source": "a05-012",
+          "paragraph": 64,
+          "term": "趙雲",
+          "quote": "趙雲如牛",
+          "reason": "《晉書·卷十二·志第二》天文占候列舉各國雲氣之形，「趙雲」指趙國之雲如牛，非人物趙雲；與趙雲生平無關，排除。"
+        },
+        {
+          "id": "zhaoyun-excl-tianwen-zhaoyunruniu-ahcb",
+          "work": "jinshu",
+          "source": "a05-012-ahcb",
+          "paragraph": 77,
+          "term": "趙雲",
+          "quote": "趙雲如牛",
+          "reason": "《晉書·卷十二·志第二》天文占候（與 a05-012 第 64 段同文，四庫全書本再載），「趙雲」指趙國之雲如牛，非人物趙雲；與趙雲生平無關，排除。"
         }
       ],
       "unresolved": []
