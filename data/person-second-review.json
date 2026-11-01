@@ -93805,6 +93805,24 @@
           "from": "又以黄忠為後將軍趙雲翊軍將軍",
           "through": "又以黄忠為後將軍趙雲翊軍將軍",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhaoyun-huayang-houzhu-zhonghujun-dutinghou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 0,
+          "from": "中護軍趙雲",
+          "through": "皆封都亭侯",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "zhaoyun-huayang-jigu-yijun",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 6,
+          "from": "丞相亮揚聲由斜谷道取郿使鎮東將軍趙雲",
+          "through": "據箕谷為疑軍",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -93834,6 +93852,15 @@
           "term": "趙雲",
           "quote": "趙雲如牛",
           "reason": "《晉書·卷十二·志第二》天文占候（與 a05-012 第 64 段同文，四庫全書本再載），「趙雲」指趙國之雲如牛，非人物趙雲；與趙雲生平無關，排除。"
+        },
+        {
+          "id": "zhaoyun-excl-huayang-zhaoyunjun-qi-hua",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 23,
+          "term": "趙雲",
+          "quote": "趙雲君妻華(貞烈)",
+          "reason": "華陽國志卷十二閬中貞烈女之夫「趙雲君」，未見確指將軍趙雲（常山真定人，本傳未載其妻）；同名異人疑似，依寧錯過原則排除，不作本人史實。"
         }
       ],
       "unresolved": []
