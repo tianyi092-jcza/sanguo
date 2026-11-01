@@ -92137,6 +92137,15 @@
           "from": "二十四年，先主為漢中王，拜羽為前將軍，假節鉞",
           "through": "羽威震華夏",
           "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
+        },
+        {
+          "id": "guanyu-mizhu-fang-beipan-fubai",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 11,
+          "from": "芳為南郡太守，與關羽共事",
+          "through": "羽因覆敗",
+          "citation": "《三國志·蜀書八·許麋孫簡伊秦傳·糜竺傳》"
         }
       ],
       "exclusions": [
@@ -92319,6 +92328,24 @@
           "term": "關羽",
           "quote": "於是關羽、張飛、馬超、龐統、黃忠及雲乃追謚，時論以為榮。",
           "reason": "本段主角為趙雲追謚事（雲別傳載詔與姜維等議謚順平侯），關羽僅在追謚名單中並列一語，無關羽具體事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-pingyue-zongping-binglie",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 25,
+          "term": "關羽",
+          "quote": "然羽剛而自矜，飛暴而無恩，以短取敗，理數之常也。",
+          "reason": "本段為卷末總評，並列關羽、張飛、馬超、黃忠、趙雲五人，僅陳壽品評（羽剛而自矜、以短取敗），無關羽具體新事蹟，不另錄為事蹟摘錄。"
+        },
+        {
+          "id": "guanyu-excl-fazheng-dongzheng-fuchi-dongji",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 13,
+          "term": "關羽",
+          "quote": "先主旣即尊號，將東征孫權以復關羽之耻，羣臣多諫，一不從。",
+          "reason": "本段主角為法正（兼先主東征議論），關羽僅作為東征動機（復其耻）被提及，無關羽具體事蹟，不另錄。"
         }
       ],
       "unresolved": []
