@@ -100129,6 +100129,33 @@
           "from": "先主自葭萌南還襲劉璋，留峻守葭萌城。",
           "through": "即斬存首。",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳·霍峻傳》"
+        },
+        {
+          "id": "hjun-sg-003",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 21,
+          "from": "霍峻孤城不傾",
+          "through": "霍峻孤城不傾，",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·霍峻傳》"
+        },
+        {
+          "id": "hjun-hy-001",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 13,
+          "from": "建安十八年劉先王自葭\n萌南攻州牧劉璋留中郎將南郡霍峻守葭萌城",
+          "through": "既定先主嘉峻功",
+          "citation": "《華陽國志》卷二·四部叢刊本"
+        },
+        {
+          "id": "hjun-sg-004",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 1,
+          "from": "先主定蜀，嘉峻之功",
+          "through": "當時榮之。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·霍峻傳》"
         }
       ],
       "exclusions": [
