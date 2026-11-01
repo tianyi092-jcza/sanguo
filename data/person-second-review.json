@@ -97697,8 +97697,39 @@
       "id": "p0145",
       "name": "劉巴",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "liuba-sgz-xianzhu-xianren",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "劉巴者宿昔之所忌恨也，",
+          "through": "皆處之顯任，盡其器能。",
+          "citation": "《三國志·蜀書二 先主傳第二》所載",
+          "note": "先主定益州後，劉巴雖為先主宿昔所忌恨者，亦與董和、黃權、李嚴等同處顯任、盡其器能，有志之士無不競勸。"
+        },
+        {
+          "id": "liuba-sgz-yiji-shuke",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 17,
+          "from": "與諸葛亮、法正、劉巴、李嚴共造蜀科；",
+          "through": "蜀科之制，由此五人焉。",
+          "citation": "《三國志·蜀書八 許麋孫簡伊秦傳第八》所載",
+          "note": "伊籍遷昭文將軍後，與諸葛亮、法正、劉巴、李嚴共造蜀科，蜀科之制由此五人而成；此段出伊籍傳，劉巴為共造蜀科五人之一。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "liuba-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 3,
+          "term": "劉巴傳",
+          "quote": "劉巴傳",
+          "reason": "僅為《三國志·蜀書九》中的傳目標記「劉巴傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
