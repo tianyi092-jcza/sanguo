@@ -94378,6 +94378,15 @@
           "from": "羽聞馬超來降",
           "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》",
           "through": "猶未及髯之絕倫逸羣也。"
+        },
+        {
+          "id": "machao-guixiang-chengdu-pingxi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 16,
+          "from": "先主遣人迎超",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·馬超傳》",
+          "through": "因為前都亭侯。"
         }
       ],
       "exclusions": [
@@ -94398,6 +94407,24 @@
           "term": "馬超",
           "quote": "至十六年，從馬超為亂",
           "reason": "魏略西戎傳記氐人種落風俗，僅以「從馬超為亂」作背景繫年，非記述馬超事蹟，排除。"
+        },
+        {
+          "id": "machao-excl-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 13,
+          "term": "馬超",
+          "quote": "馬超傳",
+          "reason": "僅為卷內分傳小標題，無記述內容，排除。"
+        },
+        {
+          "id": "machao-excl-zhaoyun-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "term": "馬超",
+          "quote": "關羽、張飛、馬超、龐統、黃忠及雲乃追謚",
+          "reason": "趙雲傳追謚段落，僅以馬超並列於追謚群臣之中，未載其謚號與事蹟，排除。"
         }
       ],
       "unresolved": []
