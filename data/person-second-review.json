@@ -94736,10 +94736,42 @@
           "through": "曰：「諸葛孔明、龐士元也。」",
           "citation": "裴注引《襄陽記》",
           "note": "司馬徽稱此間自有伏龍、鳳雛，問為誰，曰諸葛孔明、龐士元也；龐統號鳳雛之證。此為諸葛亮傳裴注引《襄陽記》層。"
+        },
+        {
+          "id": "pt-sg-benji-simahui",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 1,
+          "from": "龐統字士元，襄陽人也。",
+          "through": "由是漸顯。",
+          "citation": "《三國志·蜀書七·龐統法正傳》",
+          "note": "龐統字士元，襄陽人；弱冠往見司馬徽，徽稱其當為南州士之冠冕，由是漸顯。本傳正文層。"
+        },
+        {
+          "id": "pt-pei-xiangyangji-degong-congzi",
+          "work": "peizhu",
+          "source": "a04-037",
+          "paragraph": 1,
+          "from": "統，德公從子也",
+          "through": "此實盛德也。",
+          "citation": "裴注引《襄陽記》",
+          "note": "統為龐德公從子，少未有識者惟德公重之，年十八往見司馬德操，德操歎德公誠知人。本傳裴注引《襄陽記》層；鳳雛稱號已見諸葛亮傳裴注引同書（a04-035:1）。"
+        },
+        {
+          "id": "pt-sg-leiyang-zhizhong",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 4,
+          "from": "先主領荊州，統以從事守耒陽令",
+          "through": "以為治中從事。",
+          "citation": "《三國志·蜀書七·龐統法正傳》",
+          "note": "先主領荊州，統以從事守耒陽令，在縣不治免官；魯肅遺書稱龐士元非百里才，諸葛亮亦言之，先主見與善譚大器之，以為治中從事。本傳正文層。"
         }
       ],
       "exclusions": [],
-      "unresolved": [],
+      "unresolved": [
+        "a04-037:4 裴注層待錄：江表傳周瑜留劉備事與九州春秋入蜀說，皆屬龐統事，段落已因正文錄入而 covered，須以本備忘補錄，勿遺漏。"
+      ],
       "coverage": {
         "sanguozhi": "in-progress",
         "peizhu": "in-progress",
