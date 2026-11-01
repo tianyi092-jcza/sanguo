@@ -99325,6 +99325,33 @@
           "from": "章武二年，先主徵嚴詣永安宮，拜尚書令。",
           "through": "嚴改名為平。",
           "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳 李嚴傳》"
+        },
+        {
+          "id": "ly-sg-ben-jianxing-yunliang",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "from": "九年春，亮軍祁山，平催督運事。",
+          "through": "平辭窮情竭，首謝罪負。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳 李嚴傳》"
+        },
+        {
+          "id": "ly-sg-ben-jianxing-feiwei",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "from": "輙解平任，免官祿、節傳、印綬、符策，削其爵土。",
+          "through": "乃廢平為民，徙梓潼郡。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳 李嚴傳》"
+        },
+        {
+          "id": "ly-sg-ben-jianxing-wenliangzu",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "from": "十二年，平聞亮卒，發病死。",
+          "through": "平常兾亮當自補復，策後人不能，故以激憤也。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳 李嚴傳》"
         }
       ],
       "exclusions": [
