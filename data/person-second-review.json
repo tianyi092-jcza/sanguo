@@ -93304,6 +93304,24 @@
           "from": "先主於鄉里合徒衆",
           "through": "恩若兄弟。",
           "citation": "《三國志·蜀書六·關張馬黃趙傳第六·關羽傳》"
+        },
+        {
+          "id": "zhangfei-feizhuan-changban-duanqiao",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 8,
+          "from": "曹公追之，一日一夜，及於當陽之長阪。",
+          "through": "故遂得免。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·張飛傳》"
+        },
+        {
+          "id": "zhangfei-zhaoyunzhuan-jiejiang-huan-houzhu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 21,
+          "from": "雲與張飛勒兵截江，",
+          "through": "乃得後主還。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》"
         }
       ],
       "exclusions": [
@@ -93324,6 +93342,15 @@
           "term": "張飛",
           "quote": "謂輕捷者為張飛燕",
           "reason": "本段為張燕本傳（《三國志·魏書八·二公孫陶四張傳》張燕傳），「張飛燕」是黑山帥張燕（本姓褚）的軍中號，並非蜀漢張飛；「張飛」二字僅為其號中前兩字誤觸，不另錄。（同例 zhangfei-excl-zhangfeiyan-heishan）"
+        },
+        {
+          "id": "zhangfei-excl-biaoti-zhangfeizhuan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 7,
+          "term": "張飛",
+          "quote": "張飛傳",
+          "reason": "本段僅為《張飛傳》篇目標題，無敘事內容；張飛本傳正文自次段（a04-036:8，長阪斷橋）起，已另錄為 excerpt，不另錄標題段。"
         }
       ],
       "unresolved": []
