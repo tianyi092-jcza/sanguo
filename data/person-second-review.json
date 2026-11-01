@@ -94045,6 +94045,33 @@
           "from": "先主嘉之，從至雒城，遣恢至漢中交好馬超，超遂從命。",
           "citation": "《三國志·蜀書十三·黃李呂馬王張傳第十三》",
           "through": "先主嘉之，從至雒城，遣恢至漢中交好馬超，超遂從命。"
+        },
+        {
+          "id": "machao-zhouyu-chibi-qian-houhuan",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 4,
+          "from": "今北土旣未平安，加馬超、韓遂尚在關西，為操後患。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九》",
+          "through": "今北土旣未平安，加馬超、韓遂尚在關西，為操後患。"
+        },
+        {
+          "id": "machao-pingxi-jiangjun",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 12,
+          "from": "馬超平西將軍不用許靖",
+          "citation": "《華陽國志》卷六·四部叢刊本",
+          "through": "馬超平西將軍不用許靖"
+        },
+        {
+          "id": "machao-bingzu-piaoji",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 25,
+          "from": "是歲驃騎將軍馬超亦䘚",
+          "citation": "《華陽國志》卷六·四部叢刊本",
+          "through": "是歲驃騎將軍馬超亦䘚"
         }
       ],
       "exclusions": [],
