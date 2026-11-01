@@ -98987,6 +98987,33 @@
           "from": "於是廢立為民，徙汶山郡。",
           "through": "立遂終於徙所。",
           "citation": "《三國志·蜀書十 劉彭廖李劉魏楊傳第十 廖立傳》所載"
+        },
+        {
+          "id": "ll-sg-xi-comment",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "from": "諸葛亮之使廖立垂泣",
+          "through": "豈徒無怨言而已哉！",
+          "citation": "《三國志·蜀書十 劉彭廖李劉魏楊傳第十》習鑿齒曰所載"
+        },
+        {
+          "id": "ll-sg-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 29,
+          "from": "彭羕、廖立以才拔進",
+          "through": "招禍取咎，無不自己也。",
+          "citation": "《三國志·蜀書十 劉彭廖李劉魏楊傳第十》評曰所載"
+        },
+        {
+          "id": "ll-hy-bianqian",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 3,
+          "from": "廖立坐謗訕朝廷改徙汶山",
+          "through": "而性傲侮後更冗散故致黜廢",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
