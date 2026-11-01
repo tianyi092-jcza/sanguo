@@ -94706,7 +94706,38 @@
       "id": "p0136",
       "name": "龐統",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "pt-pei-fuzi-banyingxiong",
+          "work": "peizhu",
+          "source": "a04-006",
+          "paragraph": 36,
+          "from": "巽在荊州，目龐統為半英雄",
+          "through": "並有名德。",
+          "citation": "裴注引《傅子》",
+          "note": "傅巽在荊州時目龐統為半英雄；統後附劉備，見待次於諸葛亮。此為劉琮傳裴注引《傅子》層，與正文劉琮降曹事分層。"
+        },
+        {
+          "id": "pt-sg-xianzhu-fuhui",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 12,
+          "from": "張松令法正白先主，及謀臣龐統進說",
+          "through": "先主曰：「此大事也，不可倉卒。」",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "建安十六年涪會：張松令法正白先主，龐統亦進說可於會所襲劉璋，先主以事大不可倉卒未納。"
+        },
+        {
+          "id": "pt-pei-xiangyangji-fengchu",
+          "work": "peizhu",
+          "source": "a04-035",
+          "paragraph": 1,
+          "from": "襄陽記曰：劉備訪世事於司馬德操",
+          "through": "曰：「諸葛孔明、龐士元也。」",
+          "citation": "裴注引《襄陽記》",
+          "note": "司馬徽稱此間自有伏龍、鳳雛，問為誰，曰諸葛孔明、龐士元也；龐統號鳳雛之證。此為諸葛亮傳裴注引《襄陽記》層。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
