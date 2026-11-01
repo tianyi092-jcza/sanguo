@@ -99208,6 +99208,33 @@
           "from": "斯郡以尚書令李嚴為都",
           "through": "嚴還江州",
           "citation": "《華陽國志·卷一 巴志》"
+        },
+        {
+          "id": "ly-hygz-hanzhong-mengda-shu",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 11,
+          "from": "都護李嚴亦與書曰",
+          "through": "思得良伴",
+          "citation": "《華陽國志·卷二 漢中志》"
+        },
+        {
+          "id": "ly-hygz-shu-tianzhu-tongdao",
+          "work": "huayang",
+          "source": "a06-003",
+          "paragraph": 27,
+          "from": "太守南陽李嚴乃鑿天柱山尋江通車",
+          "through": "吏民悅之",
+          "citation": "《華陽國志·卷三 蜀志》"
+        },
+        {
+          "id": "ly-hygz-nanzhong-yongkai-shu",
+          "work": "huayang",
+          "source": "a06-004",
+          "paragraph": 6,
+          "from": "以都護李嚴書曉喻闓",
+          "through": "闓荅曰愚聞",
+          "citation": "《華陽國志·卷四 南中志》"
         }
       ],
       "exclusions": [
