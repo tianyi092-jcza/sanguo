@@ -99972,6 +99972,24 @@
           "from": "弘農太守楊儀爲參軍從行",
           "through": "統留府事",
           "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "yyi-hy-002",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 8,
+          "from": "楊儀爲長史加綏逺將軍",
+          "through": "遷姜維護軍",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "yyi-hy-003",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 11,
+          "from": "西大將軍魏延與長史楊儀素不和",
+          "through": "儀遣平北將軍馬倵討滅延",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -100010,6 +100028,15 @@
           "term": "楊儀",
           "quote": "鑿楊儀道以通運",
           "reason": "「楊儀道」為地名（桓溫北伐鑿道通運），非人名；且時代為東晉桓溫時期，蜀漢楊儀已卒百餘年，排除。"
+        },
+        {
+          "id": "yyi-excl-005",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 2,
+          "term": "儀",
+          "quote": "以耽弟儀為建信將軍",
+          "reason": "此「儀」為上庸太守申耽之弟申儀，非蜀漢丞相長史楊儀；段落主角為孟達降魏事，與楊儀無關，排除。"
         }
       ],
       "unresolved": []
