@@ -94351,6 +94351,33 @@
           "from": "會劉備遣張飛、馬超等從沮道趣下辯",
           "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳·楊阜傳》",
           "through": "超等退還。"
+        },
+        {
+          "id": "machao-xianzhu-quanjin-hanzhongwang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 18,
+          "from": "羣下上先主為漢中王",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "through": "平西將軍都亭侯臣馬超"
+        },
+        {
+          "id": "machao-zhuishi-jianxing-sannian",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 39,
+          "from": "三年秋九月",
+          "citation": "《三國志·蜀書三·後主傳》",
+          "through": "黃忠。"
+        },
+        {
+          "id": "machao-zhugeliang-pingjia",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 3,
+          "from": "羽聞馬超來降",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》",
+          "through": "猶未及髯之絕倫逸羣也。"
         }
       ],
       "exclusions": [
