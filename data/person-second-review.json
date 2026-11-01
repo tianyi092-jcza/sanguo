@@ -97344,8 +97344,39 @@
       "id": "p0143",
       "name": "秦宓",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "qinmi-sgz-origin",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 19,
+          "from": "秦宓字子勑，廣漢緜竹人也。",
+          "through": "誠知晝不操燭，日有餘光，但愚情區區，貪陳所見。」",
+          "citation": "《三國志·蜀書八 許麋孫簡伊秦傳第八 秦宓傳》所載",
+          "note": "秦宓字子勑，廣漢緜竹人；少有才學，州郡辟命輒稱疾不往；奏記州牧劉焉，薦儒士任定祖，言選士用能不拘長幼。"
+        },
+        {
+          "id": "qinmi-pei-renan",
+          "work": "peizhu",
+          "source": "a04-038",
+          "paragraph": 19,
+          "from": "益部耆舊傳曰：安，廣漢人。",
+          "through": "後丞相亮問秦宓以安所長，宓曰：「記人之善，忘人之過。」",
+          "citation": "裴注引《益部耆舊傳》",
+          "note": "裴注引益部耆舊傳補任安事跡：任安廣漢人，舉孝廉茂才、太尉辟博士、公車徵皆稱疾不就，建安七年卒年七十九；丞相亮問秦宓以安所長，宓曰「記人之善，忘人之過」。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "qinmi-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 18,
+          "term": "秦宓傳",
+          "quote": "秦宓傳",
+          "reason": "僅為《三國志·蜀書八》中的傳目標記「秦宓傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
