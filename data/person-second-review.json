@@ -98678,6 +98678,22 @@
         "他傳旁證：王連傳稱呂乂自連所拔、終至大官，與本傳王連請乂為典曹都尉互證。",
         "本人物合計：摘錄 7 條、排除 1 條（本傳篇題）、未解決 0 條。"
       ]
+    },
+    {
+      "id": "p0151",
+      "name": "劉封",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
