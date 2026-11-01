@@ -94618,6 +94618,33 @@
           "from": "三年秋九月，追謚故將軍關羽、張飛、馬超、龐統、黃忠。",
           "citation": "《三國志·蜀書三·後主傳第三》",
           "through": "三年秋九月，追謚故將軍關羽、張飛、馬超、龐統、黃忠。"
+        },
+        {
+          "id": "huangzhong-yunzhuan-beishan-qumi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "from": "黃忠以為可取，雲兵隨忠取米。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》",
+          "through": "雲將數十騎輕行出圍，迎視忠等。"
+        },
+        {
+          "id": "huangzhong-yunzhuan-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "from": "於是關羽、張飛、馬超、龐統、黃忠及雲乃追謚，時論以為榮。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·趙雲傳》",
+          "through": "於是關羽、張飛、馬超、龐統、黃忠及雲乃追謚，時論以為榮。"
+        },
+        {
+          "id": "huangzhong-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 25,
+          "from": "黃忠、趙雲彊摯壯猛，並作爪牙，其灌、滕之徒歟？",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六》",
+          "through": "黃忠、趙雲彊摯壯猛，並作爪牙，其灌、滕之徒歟？"
         }
       ],
       "exclusions": [
