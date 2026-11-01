@@ -97015,7 +97015,38 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "sq-sg-bio-kaipian",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 13,
+          "from": "孫乾字公祐",
+          "through": "後隨從周旋。",
+          "citation": "《三國志·蜀書八·孫乾傳》",
+          "note": "本傳開篇正文層：孫乾字公祐，北海人；先主領徐州，辟為從事，鄭玄薦之於州，後隨從周旋。"
+        },
+        {
+          "id": "sq-sg-bio-shiyuanshao-liubiao",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 13,
+          "from": "先主之背曹公",
+          "through": "皆如意指。",
+          "citation": "《三國志·蜀書八·孫乾傳》",
+          "note": "本傳正文層：先主背曹公之後，遣乾自結袁紹，又與麋竺俱使劉表，皆如意指。"
+        },
+        {
+          "id": "sq-sg-bio-bingzhong-zu",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 13,
+          "from": "先主定益州",
+          "through": "頃之，卒。",
+          "citation": "《三國志·蜀書八·孫乾傳》",
+          "note": "本傳正文層：先主定益州後，乾自從事中郎為秉忠將軍，見禮次麋竺，與簡雍同等，頃之卒；本傳未載卒年，不硬定。"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
