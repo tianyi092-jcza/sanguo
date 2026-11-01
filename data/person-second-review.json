@@ -93910,7 +93910,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "machao-houhanshu-tongguan-beicao",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 36,
+          "from": "十六年，超與韓遂舉關中背曹操，操擊破之，遂、超敗走，騰坐夷三族",
+          "citation": "《後漢書·卷七十二·董卓傳》",
+          "through": "十六年，超與韓遂舉關中背曹操，操擊破之，遂、超敗走，騰坐夷三族"
+        },
+        {
+          "id": "machao-wudiji-tongguan-qibing",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 26,
+          "from": "是時關中諸將疑繇欲自襲，馬超遂與韓遂、楊秋、李堪、成宜等叛",
+          "citation": "《三國志·魏書一·武帝紀第一》",
+          "through": "是時關中諸將疑繇欲自襲，馬超遂與韓遂、楊秋、李堪、成宜等叛"
+        },
+        {
+          "id": "machao-wudiji-xiabian-tun",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 37,
+          "from": "劉備遣張飛、馬超、吳蘭等屯下辯；遣曹洪拒之",
+          "citation": "《三國志·魏書一·武帝紀第一》",
+          "through": "劉備遣張飛、馬超、吳蘭等屯下辯；遣曹洪拒之"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
