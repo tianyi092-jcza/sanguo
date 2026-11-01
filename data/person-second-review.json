@@ -93142,6 +93142,33 @@
           "from": "關羽、張飛勇冠三軍而為將，蜀民旣定，據險守要，",
           "through": "則不可犯矣。",
           "citation": "《三國志·魏書十四·程郭董劉蔣劉傳第十四·劉曄傳》"
+        },
+        {
+          "id": "zhangfei-zhanghe-dangqu-beiju",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 17,
+          "from": "進軍宕渠，為備將張飛所拒，",
+          "through": "引還南鄭。",
+          "citation": "《三國志·魏書十七·張樂于張徐傳第十七·張郃傳》"
+        },
+        {
+          "id": "zhangfei-yangfu-judao-xiabian",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 14,
+          "from": "會劉備遣張飛、馬超等從沮道趣下辯，",
+          "through": "反應之。",
+          "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳第二十五·楊阜傳》"
+        },
+        {
+          "id": "zhangfei-pei-yingxiongji-shou-xiapi-bai-zou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 3,
+          "from": "英雄記曰：備留張飛守下邳，",
+          "through": "張飛敗走。",
+          "citation": "裴注引《英雄記》"
         }
       ],
       "exclusions": [
