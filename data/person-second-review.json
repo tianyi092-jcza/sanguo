@@ -93778,6 +93778,33 @@
           "from": "綂荆州事諸葛亮張飛趙雲等泝江降下巴東入巴",
           "through": "綂荆州事諸葛亮張飛趙雲等泝江降下巴東入巴",
           "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "zhaoyun-huayang-jiangzhou-ding-jiangyang",
+          "work": "huayang",
+          "source": "a06-005",
+          "paragraph": 18,
+          "from": "趙雲自江州分定江陽犍爲",
+          "through": "趙雲自江州分定江陽犍爲",
+          "citation": "《華陽國志》卷五·四部叢刊本"
+        },
+        {
+          "id": "zhaoyun-huayang-changban-baohu",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 10,
+          "from": "先主弱子後主及擁先主甘夫人相及濟江",
+          "through": "先主弱子後主及擁先主甘夫人相及濟江",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhaoyun-huayang-yijun-jiangjun",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 17,
+          "from": "又以黄忠為後將軍趙雲翊軍將軍",
+          "through": "又以黄忠為後將軍趙雲翊軍將軍",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
