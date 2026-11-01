@@ -92416,6 +92416,33 @@
           "from": "先主將東征以復關羽之恥",
           "through": "將㑹江州",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "guanyu-hygz-zhuishi-zhuangmou-hou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 26,
+          "from": "秋九月追諡故前將軍關羽曰壯繆侯",
+          "through": "黄忠曰剛侯",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "guanyu-ben-zhuan-baima-zhan-yanliang-feng-hanshou-tinghou",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 2,
+          "from": "羽望見良麾蓋，策馬刺良於萬衆之中，斬其首還",
+          "through": "曹公即表封羽為漢壽亭侯",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
+        },
+        {
+          "id": "guanyu-ben-zhuan-xiangyang-taishou-dongdu-jingzhou",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 3,
+          "from": "先主收江南諸郡，乃封拜元勳，以羽為襄陽太守、盪寇將軍，駐江北",
+          "through": "拜羽董督荊州事",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
         }
       ],
       "exclusions": [
