@@ -92461,6 +92461,15 @@
           "from": "江表傳云：羽好左氏傳",
           "through": "諷誦略皆上口",
           "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
+        },
+        {
+          "id": "guanyu-ben-zhuan-guagu-liaodu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 4,
+          "from": "羽甞為流矢所中",
+          "through": "言笑自若",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》"
         }
       ],
       "exclusions": [
@@ -92913,6 +92922,24 @@
           "term": "關羽",
           "quote": "忠之名望，素非關、馬之倫也",
           "reason": "本段主角為黃忠（定軍山斬夏侯淵、拜後將軍事），關羽僅在諸葛亮論忠名望素非關馬之倫、及與羽等齊位處作比較與並列，無關羽獨立事蹟，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhangfei-zhuan-dangqu-po-zhanghe",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 10,
+          "term": "關羽",
+          "quote": "飛遂破郃",
+          "reason": "本段主角為張飛（宕渠破張郃、巴土獲安），關羽未出現；張飛傳內容不屬關羽生平，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhangfei-zhuan-bai-youjiangjun",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 11,
+          "term": "關羽",
+          "quote": "拜飛為右將軍、假節",
+          "reason": "本段為劉備拜張飛為右將軍、進封西鄉侯之策文，主角為張飛，關羽未出現，不另錄。"
         }
       ],
       "unresolved": []
