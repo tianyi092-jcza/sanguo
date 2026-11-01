@@ -97696,7 +97696,7 @@
     {
       "id": "p0145",
       "name": "劉巴",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "liuba-sgz-xianzhu-xianren",
@@ -97848,13 +97848,19 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪收尾：摘錄 10 條（《三國志》8、《華陽國志》2），排除 5 條，未解決 0 條；向量候選已枯竭（本輪重跑 0 條），本傳段落（a04-039:3–5）皆已覆蓋。",
+        "辨人：與董和傳地名「巴」（巴郡、巴東屬國都尉）及《晉書》載記東萊太守劉巴（同名異人）嚴格區分；單字命中均核實確指本人才錄入。",
+        "生平：劉巴字子初，零陵烝陽人；早年為劉表所拘欲殺（後得免），連辟與舉茂才皆不就；後北詣曹操，辟為掾，使招納三郡；入蜀見劉璋，諫阻內備不聽，閉門稱疾；定蜀後歸先主，任左將軍西曹掾、尚書，後代法正為尚書令；獻策鑄直百錢、平諸物賈，數月之間府庫充實；先主稱尊號時，凡諸文誥策命皆巴所作；章武二年（222）卒。",
+        "勢力繫年：劉表、曹操、劉璋、先主四階段分開標記，不整段一刀切。",
+        "後漢書：多輪向量檢索未命中本人相關段落，列為已查（無摘錄）；《晉書》僅見同名異人，已排除。"
+      ]
     }
   ]
 }
