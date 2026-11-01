@@ -91768,15 +91768,21 @@
     {
       "id": "p0131",
       "name": "關羽",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "共錄正摘錄 77 條，排除 62 條，未解決 0 條；本輪向量候選 0 段，已枯竭。",
+        "辨人：關羽字雲長，河東解人，與劉備、張飛及子關平、關興嚴格區分；同卷合傳張飛、馬超、黃忠、趙雲各段按主角分開，不把合傳人物事蹟記入關羽名下；本傳段中單稱「羽」者確指本人方錄。",
+        "生平繫年：早年從劉備起兵，建安五年（200 年）白馬斬顏良、封漢壽亭侯；赤壁後鎮荊州；建安二十四年（219 年）圍樊城、水淹七軍、擒于禁斬龐德，後孫權襲荊州，敗走麥城被擒遇害。",
+        "本傳補齊：本傳《三國志·蜀書六·關張馬黃趙傳·關羽傳》（a04-036）共 26 段，本輪補最後未覆蓋段 23（趙雲建興七年卒、追謚順平侯，列為排除）後全部覆蓋；向量候選枯竭、未解決為 0，遂收尾。",
+        "生卒：生年不詳，卒建安二十四年（219 年冬至 220 年初）。"
+      ],
       "excerpts": [
         {
           "id": "guanyu-houhanshu-baima-zhan-yanliang",
@@ -93021,6 +93027,15 @@
           "term": "關羽",
           "quote": "先主自葭萌還攻劉璋，召諸葛亮",
           "reason": "本段主角為趙雲（隨諸葛亮入蜀、成都定後為翊軍將軍、漢水空營退曹軍、諫止伐吳、箕谷斷後等事），關羽未出現，不另錄。"
+        },
+        {
+          "id": "guanyu-excl-zhaoyun-zhuan-jianxing-qinian-zu-shunping",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 23,
+          "term": "關羽",
+          "quote": "七年卒，追謚順平侯。",
+          "reason": "本段為趙雲傳結尾，承前段趙雲入蜀、漢水退曹、箕谷斷後等事；「七年」指建興七年趙雲卒、追謚順平侯，關羽未出現，不另錄。"
         }
       ],
       "unresolved": []
