@@ -97261,7 +97261,38 @@
       "id": "p0142",
       "name": "伊籍",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yiji-sgz-origin-yibiao",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 17,
+          "from": "伊籍字機伯，山陽人。",
+          "through": "遂隨先主南渡江，從入益州。",
+          "citation": "《三國志·蜀書八 許麋孫簡伊秦傳第八 伊籍傳》所載",
+          "note": "伊籍字機伯，山陽人；少依同邑鎮南將軍劉表，先主在荊州時常往來自託，劉表卒後隨先主南渡江、從入益州。"
+        },
+        {
+          "id": "yiji-sgz-shiwu-jibian",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 17,
+          "from": "益州旣定，以籍為左將軍從事中郎，見待亞於簡雍、孫乾等。",
+          "through": "權甚異之。",
+          "citation": "《三國志·蜀書八 許麋孫簡伊秦傳第八 伊籍傳》所載",
+          "note": "益州既定後，伊籍為左將軍從事中郎，受待僅次於簡雍、孫乾；奉命東使於吳，孫權以「勞事無道之君乎」相詰，籍以「一拜一起，未足為勞」應對，機捷類此，孫權甚異之。"
+        },
+        {
+          "id": "yiji-sgz-zhaowen-shuke",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 17,
+          "from": "後遷昭文將軍，與諸葛亮、法正、劉巴、李嚴共造蜀科",
+          "through": "蜀科之制，由此五人焉。",
+          "citation": "《三國志·蜀書八 許麋孫簡伊秦傳第八 伊籍傳》所載",
+          "note": "後遷昭文將軍，與諸葛亮、法正、劉巴、李嚴共造蜀科，蜀科之制由此五人而定。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
