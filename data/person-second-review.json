@@ -97861,6 +97861,22 @@
         "勢力繫年：劉表、曹操、劉璋、先主四階段分開標記，不整段一刀切。",
         "後漢書：多輪向量檢索未命中本人相關段落，列為已查（無摘錄）；《晉書》僅見同名異人，已排除。"
       ]
+    },
+    {
+      "id": "p0146",
+      "name": "馬良",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
