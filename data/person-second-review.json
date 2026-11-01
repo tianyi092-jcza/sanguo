@@ -97256,6 +97256,22 @@
         "生卒：本傳未載確切生卒年，不硬定；原庫 year_range 為空，亦不補定。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0142",
+      "name": "伊籍",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
