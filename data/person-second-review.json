@@ -94315,9 +94315,37 @@
           "from": "太祖欲遣鍾繇等討張魯",
           "citation": "《三國志·魏書二十四·韓崔高孫王傳第二十四》",
           "through": "遂、超等果反。"
+        },
+        {
+          "id": "machao-yangfu-longshang-weicheng",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 11,
+          "from": "馬超之戰敗渭南也",
+          "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳·楊阜傳》",
+          "through": "使楊昂殺刺史、太守。"
+        },
+        {
+          "id": "machao-yangfu-taochao-nanben",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 12,
+          "from": "阜內有報超之志",
+          "citation": "《三國志·魏書二十五·辛毗楊阜高堂隆傳·楊阜傳》",
+          "through": "超遂南奔張魯。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "machao-excl-gaorou-shu-yu",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 24,
+          "term": "馬超",
+          "quote": "隗嚻捐子，馬超背父",
+          "reason": "高柔上疏論取質之弊，僅借「馬超背父」為反例泛論，非記述馬超事蹟，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
