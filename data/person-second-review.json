@@ -94126,6 +94126,33 @@
           "from": "馬超餘衆梁興等屯藍田，使夏侯淵擊平之。",
           "citation": "《三國志·魏書一·武帝紀第一》",
           "through": "馬超餘衆梁興等屯藍田，使夏侯淵擊平之。"
+        },
+        {
+          "id": "machao-wudiji-weinan-cewen",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 30,
+          "from": "馬超、成宜，同惡相濟，濵據河、潼，求逞所欲，殄之渭南，獻馘萬計，遂定邊境，撫和戎狄，此又君之功也。",
+          "citation": "《三國志·魏書一·武帝紀第一》",
+          "through": "馬超、成宜，同惡相濟，濵據河、潼，求逞所欲，殄之渭南，獻馘萬計，遂定邊境，撫和戎狄，此又君之功也。"
+        },
+        {
+          "id": "machao-wudiji-hanyang-qianghu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 33,
+          "from": "馬超在漢陽，復因羌、胡為害，氐王千萬叛應超，屯興國。",
+          "citation": "《三國志·魏書一·武帝紀第一》",
+          "through": "馬超在漢陽，復因羌、胡為害，氐王千萬叛應超，屯興國。"
+        },
+        {
+          "id": "machao-zhanglu-zigugu-ben",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 25,
+          "from": "韓遂、馬超之亂，關西民從子午谷奔之者數萬家。",
+          "citation": "《三國志·魏書八·張魯傳》",
+          "through": "韓遂、馬超之亂，關西民從子午谷奔之者數萬家。"
         }
       ],
       "exclusions": [],
