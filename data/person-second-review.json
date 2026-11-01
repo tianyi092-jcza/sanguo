@@ -94846,9 +94846,39 @@
           "through": "時論以為榮。",
           "citation": "《三國志·蜀書六·關張馬黃趙傳》",
           "note": "趙雲傳載後主時關羽、張飛、馬超、龐統、黃忠及趙雲乃追謚，時論以為榮，與後主傳追謚記載互證。"
+        },
+        {
+          "id": "pt-sg-chen-ping",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 14,
+          "from": "評曰：龐統雅好人流",
+          "through": "正其程、郭之儔儷邪？",
+          "citation": "《三國志·蜀書七·龐統法正傳》",
+          "note": "陳壽評曰：龐統雅好人流、經學思謀，於時荊、楚謂之高俊；並以荀彧之仲叔擬統、程郭之儔儷擬法正。此為陳壽史論層。"
+        },
+        {
+          "id": "pt-sg-pengyang-shu",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 11,
+          "from": "僕因法孝直自衒鬻，龐統斟酌其間",
+          "through": "遂舉事焉。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳》",
+          "note": "彭羕獄中與諸葛亮書自述：經法正、龐統斟酌，得詣先主於葭萌，建取益州之策。互證龐統在入蜀決策中的居間作用。此為彭羕傳附載書信正文層。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "pt-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 0,
+          "term": "龐統",
+          "quote": "龐統傳",
+          "reason": "本傳篇題，僅篇名、無史事內容，不作摘錄；非同名誤命中。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
