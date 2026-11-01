@@ -100111,8 +100111,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "hjun-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 1,
+          "from": "霍峻字仲邈，南郡枝江人也。",
+          "through": "先主以峻為中郎將。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·霍峻傳》"
+        },
+        {
+          "id": "hjun-sg-002",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 1,
+          "from": "先主自葭萌南還襲劉璋，留峻守葭萌城。",
+          "through": "即斬存首。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·霍峻傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "hjun-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 0,
+          "term": "霍峻傳",
+          "quote": "霍峻傳",
+          "reason": "段落僅為《霍峻傳》篇首標題，無史實內容，不具摘錄價值，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
