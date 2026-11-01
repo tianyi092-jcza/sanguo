@@ -93493,6 +93493,33 @@
           "from": "張飛爲征虜將軍宐都",
           "through": "太守",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-keshu-shangci-baxi",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 12,
+          "from": "賜諸葛亮法正關羽張飛金五百斤",
+          "through": "爲巴西太守",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-dangqu-pohe",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 15,
+          "from": "先主率張飛等進軍宕渠之蒙頭拒郃",
+          "through": "從間道還南也",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zhangfei-huayang-hanzhongwang-youjiangjun",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 17,
+          "from": "關羽爲前將軍張飛爲右將軍馬超為左將軍",
+          "through": "皆假節鉞",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
