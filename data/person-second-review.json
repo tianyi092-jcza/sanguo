@@ -103454,6 +103454,33 @@
           "from": "冬十一月，大將軍蔣琬出屯漢中。",
           "through": "冬十一月，大將軍蔣琬出屯漢中。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi2-jin-dasima",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 18,
+          "from": "二年春三月，進蔣琬位為大司馬。",
+          "through": "二年春三月，進蔣琬位為大司馬。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi4-feiyi-hanzhong-zilun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 20,
+          "from": "四年冬十月，尚書令費禕至漢中，與蔣琬諮論事計，歲盡還。",
+          "through": "四年冬十月，尚書令費禕至漢中，與蔣琬諮論事計，歲盡還。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi6-huan-hanzhong-zhufu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 22,
+          "from": "六年冬十月，大司馬蔣琬自漢中還，住涪。",
+          "through": "六年冬十月，大司馬蔣琬自漢中還，住涪。",
+          "citation": "《三國志·蜀書三·後主傳》"
         }
       ],
       "exclusions": [],
