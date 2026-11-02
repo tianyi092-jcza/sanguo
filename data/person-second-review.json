@@ -105056,6 +105056,24 @@
           "from": "大將軍姜維每出北征",
           "through": "國賴其資",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·王嗣傳》"
+        },
+        {
+          "id": "jw-wu-zhuge-ke-yue-jiangwei-tongju",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 10,
+          "from": "恪使司馬季無往蜀說姜維，令同舉",
+          "through": "維從之。",
+          "citation": "《三國志·吳書十九·諸葛恪傳》"
+        },
+        {
+          "id": "jw-js-wendi-didao-yangsheng-gui",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 21,
+          "from": "蜀將姜維又寇隴右",
+          "through": "維果燒營而去。",
+          "citation": "《晉書·卷二·文帝紀》"
         }
       ],
       "exclusions": [
@@ -105139,6 +105157,15 @@
           "term": "姜維",
           "quote": "姜維傳",
           "reason": "僅為姜維傳傳目，無事蹟內容，排除。"
+        },
+        {
+          "id": "jw-excl-pingyue-zhangyi-kangrui",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 53,
+          "term": "姜維",
+          "quote": "張翼亢姜維之銳",
+          "reason": "鄧張宗楊傳評曰歷稱鄧芝、張翼、宗預、楊戲，姜維僅在「張翼亢姜維之銳」一句中作為張翼的比較對象出現，無姜維本人言行事蹟，排除。"
         }
       ],
       "conclusions": [],
