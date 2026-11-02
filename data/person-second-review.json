@@ -104359,6 +104359,24 @@
           "from": "大將軍曹爽之伐蜀也，以帝為征蜀將軍，副夏侯玄出駱谷，次于興勢。",
           "through": "爽等引旋，禕果馳兵趣三嶺，爭險乃得過。",
           "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "fy-hy-kaifu-shilang",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 2,
+          "from": "而江夏費禕南郡董允",
+          "through": "郭攸之始爲侍郎",
+          "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "fy-hy-pingfei-sima",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 10,
+          "from": "奪平子豐兵以爲從事",
+          "through": "時費禕爲司馬也",
+          "citation": "《華陽國志·劉後主志》"
         }
       ],
       "exclusions": [
