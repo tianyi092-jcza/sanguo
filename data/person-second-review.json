@@ -105637,6 +105637,22 @@
         "勢力階段與辨人：漢末入蜀前未仕，入蜀後終身為蜀漢臣（尚書、中監軍、前軍師、車騎將軍皆蜀漢任內事），使吳修好為蜀漢外交，不得記為吳事。與同名異人扶風鄧芝（成漢李雄改元玉衡之後率流民入蜀）嚴格分開，已排除；與同卷張翼、宗預、楊戲及吳使張溫等分開，僅為篇題、同一事重複或無本人事蹟的段已排除。射猿一事本傳正文、異說（一曰）與裴注按語分層，不與正文合併。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0178",
+      "name": "宗預",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
