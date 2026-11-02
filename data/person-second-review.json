@@ -104966,6 +104966,33 @@
           "from": "自瞻、厥、建統事，姜維常征伐在外",
           "through": "咸共將護，無能匡矯",
           "citation": "《三國志·蜀書五·諸葛亮傳附董厥傳》"
+        },
+        {
+          "id": "jw-sg-zhaoyun-yishi-shunping",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "from": "大將軍姜維等議，以為雲昔從先帝",
+          "through": "應謚雲曰順平侯",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六 趙雲傳》裴注引《雲別傳》"
+        },
+        {
+          "id": "jw-sg-liaoli-wenshan-wang",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 14,
+          "from": "後監軍姜維率偏軍經汶山",
+          "through": "稱立意氣不衰，言論自若",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳第十 廖立傳》"
+        },
+        {
+          "id": "jw-sg-liangmo-tuijun-ci",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 25,
+          "from": "密與長史楊儀、司馬費禕、護軍姜維等作身歿之後退軍節度",
+          "through": "令延斷後，姜維次之",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳第十 魏延傳》"
         }
       ],
       "exclusions": [
