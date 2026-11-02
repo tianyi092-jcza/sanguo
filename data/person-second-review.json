@@ -102091,6 +102091,36 @@
           "through": "冬十月，以鎮南將軍黃權為車騎將軍。",
           "citation": "《三國志·魏書四·三少帝紀》",
           "note": "三少帝紀載黃權在魏由鎮南將軍遷為車騎將軍。"
+        },
+        {
+          "id": "hq-sg-shaodi-quan-hong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 5,
+          "from": "夏四月，車騎將軍黃權薨。",
+          "through": "夏四月，車騎將軍黃權薨。",
+          "citation": "《三國志·魏書四·三少帝紀》",
+          "note": "三少帝紀載車騎將軍黃權於夏四月薨。"
+        },
+        {
+          "id": "hq-sg-shaodi-peizhu-jueshang",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 48,
+          "from": "魏初有孟達、黃權",
+          "through": "達、權爵賞比壹為輕",
+          "citation": "《三國志·魏書四·三少帝紀》",
+          "note": "裴注松之議孫壹受賞過厚時，以魏初孟達、黃權為比，謂二人爵賞較壹為輕。"
+        },
+        {
+          "id": "hq-sg-liuzhang-jianzu",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 4,
+          "from": "璋主簿黃權陳其利害",
+          "through": "璋一無所納",
+          "citation": "《三國志·蜀書一·劉二牧傳》",
+          "note": "劉璋欲迎劉備入蜀時，其主簿黃權陳說利害以諫，璋不納。"
         }
       ],
       "exclusions": [],
