@@ -105937,6 +105937,24 @@
           "from": "時孟光亦以樞機不慎，議論干時",
           "through": "俱以其耆宿學士見禮於世。",
           "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 來敏傳》"
+        },
+        {
+          "id": "mg-hygz-xianzhu-liyi",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 21,
+          "from": "先主乃從之亮與博士許慈議郎孟光建立",
+          "through": "擇令辰",
+          "citation": "《華陽國志》卷六·四部叢刊本（諸葛亮與許慈、孟光建立禮儀）"
+        },
+        {
+          "id": "mg-hygz-zefei-she",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 19,
+          "from": "秋大赦司農孟光",
+          "through": "禕但顧謝焉",
+          "citation": "《華陽國志》卷七·四部叢刊本（孟光眾責費禕數赦）"
         }
       ],
       "exclusions": [
@@ -105969,6 +105987,16 @@
           "quote": "少君之從約禮，孟光之符隱志",
           "citation": "《晉書·卷九十六·列女傳》",
           "reason": "此處孟光與少君並舉，指梁鴻之妻孟光之故事，為同名異人典故，非蜀漢孟光本人史實，不錄。"
+        },
+        {
+          "id": "mg-sg-bio-title",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 13,
+          "term": "孟光",
+          "quote": "孟光傳",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》",
+          "reason": "僅為本傳篇名標題，無史實內容；本傳正文已另錄為摘錄。"
         }
       ],
       "unresolved": []
