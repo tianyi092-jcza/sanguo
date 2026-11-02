@@ -106462,7 +106462,35 @@
       "id": "p0187",
       "name": "馬岱",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "madai-sg-weiyan-killed",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 25,
+          "from": "儀遣馬岱追斬之",
+          "through": "致首於儀",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·魏延傳》"
+        },
+        {
+          "id": "madai-jin-invasion-235",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 13,
+          "from": "蜀將馬岱入寇",
+          "through": "斬千餘級",
+          "citation": "《晉書·卷一·宣帝紀第一》"
+        },
+        {
+          "id": "madai-jin-ahcb-invasion-235",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 28,
+          "from": "蜀將馬岱入寇",
+          "through": "斬千餘級",
+          "citation": "《晉書》卷一·宣帝紀"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
