@@ -106365,7 +106365,26 @@
       "name": "張苞",
       "status": "pilot",
       "excerpts": [],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangbao-excl-001",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 27,
+          "term": "張苞",
+          "quote": "汜與傕將張苞、張龍謀誅傕",
+          "reason": "《後漢書》所載李傕、郭汜相攻時郭汜部將張苞，與蜀漢張飛子張苞（早夭）同名異人：此人為漢末關中軍將，陣營、時代皆與張飛子無關，排除。"
+        },
+        {
+          "id": "zhangbao-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 1,
+          "term": "張苞",
+          "quote": "縣人張苞為郡督郵，貪穢受取，干亂吏政",
+          "reason": "滿寵傳所載高平縣人張苞，為郡督郵而貪穢受取、為滿寵所誅之漢末地方吏員，與張飛子張苞同名異人，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
