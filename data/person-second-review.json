@@ -100765,6 +100765,24 @@
           "from": "魏延呉懿皆封都亭侯",
           "through": "楊洪王謀等關内侯",
           "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "yhong-hy-005",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 63,
+          "from": "楊洪字",
+          "through": "漢嘉太守黄元反後主從其計克元封關内侯後",
+          "citation": "《華陽國志》卷十·四部叢刊本"
+        },
+        {
+          "id": "yhong-sg-006",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 14,
+          "from": "先主旣稱尊號，征吳不克",
+          "through": "領郡如故。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·楊洪傳》"
         }
       ],
       "exclusions": [
@@ -100794,6 +100812,15 @@
           "term": "楊洪",
           "quote": "祗爲洪門下書佐",
           "reason": "此段為《華陽國志》卷十何祗事蹟，楊洪僅作為何祗曾任職的上官背景出現，無楊洪具體事蹟，不另立條目。"
+        },
+        {
+          "id": "yhong-excl-004",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 32,
+          "term": "楊洪",
+          "quote": "政事蜀郡太守関内侯楊洪字季休",
+          "reason": "此段為《華陽國志》卷十二劉氏世人物表列，僅列楊洪官爵籍貫，無具體事蹟，不另立條目。"
         }
       ],
       "conclusions": [],
