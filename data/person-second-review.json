@@ -102326,8 +102326,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "lh-sg-lihui-zaoqi",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 6,
+          "from": "李恢字德昂，建寧俞元人也。",
+          "through": "寢而不許。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·李恢傳》",
+          "note": "李恢字德昂，建寧俞元人，仕郡督郵，坐姑夫爨習事免官，太守董和以習為方土大姓寢而不許；段中「華陽國志曰」句為注層，不併入此條。"
+        },
+        {
+          "id": "lh-sg-lihui-guijiang",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 6,
+          "from": "後貢恢於州，",
+          "through": "住平夷縣。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·李恢傳》",
+          "note": "恢託名郡使北詣先主於緜竹，從至雒城，遣至漢中交好馬超；成都既定為功曹書佐主簿，誣謀反得明後遷別駕從事；章武元年鄧方卒，自薦代為庲降都督，使持節領交州刺史，住平夷縣；段末臣松之訊蜀人句為注層，不併入此條。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "lh-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 13,
+          "term": "李恢",
+          "quote": "畿與太僕李恢、東安太守郭智有好。恢子豐交結英雋，以才智顯於天下。",
+          "reason": "此李恢為魏太僕、李豐之父（段云恢死後豐為中書令、父子兄弟皆誅），與蜀漢庲降都督李恢（字德昂、建寧俞元人）同名異人，不得混同。"
+        }
+      ],
       "unresolved": []
     }
   ]
