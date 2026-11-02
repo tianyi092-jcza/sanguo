@@ -106262,8 +106262,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "gp-sg-yu-shuji-ziping",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 6,
+          "from": "蜀記曰：羽初出軍圍樊，夢豬嚙其足，語子平曰：「吾今年衰矣，然不得還！」",
+          "through": "蜀記曰：羽初出軍圍樊，夢豬嚙其足，語子平曰：「吾今年衰矣，然不得還！」",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六 關羽傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "gp-sg-wu-tongming",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 4,
+          "term": "關平",
+          "quote": "權令關平辭訟事",
+          "citation": "《三國志·吳書五·妃嬪傳第五 孫破虜吳夫人傳》",
+          "reason": "此段為吳夫人弟吳景之子吳祺事，祺與張溫、顧譚友善，皆孫權中晚年吳臣（二三〇年代），其「關平」為吳中同名者，不可能為建安二十四年已卒於臨沮的關羽子平；同名異人，不錄。"
+        },
+        {
+          "id": "gp-js-sunsheng-feirenming",
+          "work": "jinshu",
+          "source": "a05-082-ahcb",
+          "paragraph": 23,
+          "term": "關平",
+          "quote": "從入關平洛",
+          "citation": "《晉書·卷八十二·列傳第五十二 孫盛傳》",
+          "reason": "「從入關平洛」是隨桓溫入關、平定洛陽之省語，「關」為關中、「平」為平定，非人名關平；檢索單字誤觸，不錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
