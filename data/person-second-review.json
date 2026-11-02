@@ -101080,6 +101080,50 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0165",
+      "name": "周羣",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "zqun-hh-001",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 25,
+          "from": "十二年十月辛卯，有星孛于鶉尾。",
+          "through": "舉軍詣公降。",
+          "citation": "《後漢書·卷一百二·志第十二·天文下》"
+        },
+        {
+          "id": "zqun-hh-002",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 26,
+          "from": "十七年十二月，有星孛于五諸侯。",
+          "through": "魯降。",
+          "citation": "《後漢書·卷一百二·志第十二·天文下》"
+        },
+        {
+          "id": "zqun-hh-003",
+          "work": "houhanshu",
+          "source": "a03-107",
+          "paragraph": 22,
+          "from": "七年，越巂有男化為女子。",
+          "through": "封于山陽。",
+          "citation": "《後漢書·卷一百七·志第十七·五行五》"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
