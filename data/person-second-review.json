@@ -105101,6 +105101,33 @@
           "from": "魏明帝太和中，姜維歸蜀",
           "through": "無有當歸。」",
           "citation": "《晉書·卷二十八·五行志中》"
+        },
+        {
+          "id": "jw-js-xuandi-jiangwei-xinpi-buchu",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 25,
+          "from": "初，蜀將姜維聞毗來",
+          "through": "豈千里而請戰邪！」",
+          "citation": "《晉書·卷一·帝紀第一·宣帝紀》"
+        },
+        {
+          "id": "jw-js-wendi-jiangwei-kou-longyou",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 19,
+          "from": "蜀將姜維之寇隴右也",
+          "through": "帥眾來降。",
+          "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "jw-js-fu-jiangwei-kou-longyou",
+          "work": "jinshu",
+          "source": "a05-037",
+          "paragraph": 7,
+          "from": "及蜀將姜維寇隴右",
+          "through": "維退。",
+          "citation": "《晉書·卷三十七·安平獻王孚傳》"
         }
       ],
       "exclusions": [
