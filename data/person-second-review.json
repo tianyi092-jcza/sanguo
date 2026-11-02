@@ -101673,6 +101673,26 @@
           "through": "軫少師譙周發明髙經扵譙氏之門",
           "citation": "《華陽國志·卷十一·後賢志》",
           "note": "杜軫少時師事譙周，於譙氏之門發明高經，見譙周為杜軫之師。"
+        },
+        {
+          "id": "hy-houxian-qiaodeng-qiaozhou-sun",
+          "work": "huayang",
+          "source": "a06-011",
+          "paragraph": 43,
+          "from": "譙登字愼朙巴西西充國人譙周孫也",
+          "through": "譙登字愼朙巴西西充國人譙周孫也",
+          "citation": "《華陽國志·卷十一·後賢志》",
+          "note": "此条主角为譙登（巴西西充国人），明言其为譙周之孙，证譙周后人世系。"
+        },
+        {
+          "id": "hy-shinu-qiaozhou-chengyang-tinghou",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 23,
+          "from": "散騎常侍城陽亭侯譙周字允南",
+          "through": "散騎常侍城陽亭侯譙周字允南",
+          "citation": "《華陽國志·卷十二·序志并益梁寧三州先漢以來士女名目錄》",
+          "note": "益梁寧三州先漢以来士女名目录将譙周列入刘氏三国之世二十三人，称散骑常侍、城阳亭侯，字允南，与本传相合。"
         }
       ],
       "exclusions": [
@@ -101693,6 +101713,15 @@
           "term": "譙周",
           "quote": "蔡邕、譙周各有撰錄",
           "reason": "此段為《晉書》卷十一·天文志上序文的四庫本文字，與 sidneyluo 本 a05-011:1 為同一段落的異本（僅文字小異），本輪已按 sidneyluo 本立 excerpt，不另立條目。"
+        },
+        {
+          "id": "qz-excl-003",
+          "work": "huayang",
+          "source": "a06-012",
+          "paragraph": 47,
+          "term": "譙周",
+          "quote": "譙周字彦紹(周子見周傳)",
+          "reason": "此条注云周子，主角为譙周之子（字彦紹），非譙周本人（字允南）；表面同名，须与本人分开，故不立为本人摘录。"
         }
       ],
       "unresolved": []
