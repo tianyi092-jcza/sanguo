@@ -105825,9 +105825,37 @@
           "from": "楊戲商略，意在不羣",
           "through": "殆罹世難云。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
+        },
+        {
+          "id": "yx-sg-bio-xingqing",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 13,
+          "from": "戲性雖簡惰省略",
+          "through": "有識以此貴戲。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
+        },
+        {
+          "id": "yx-sg-bio-fuchenzan",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 15,
+          "from": "戲以延熈四年著季漢輔臣贊",
+          "through": "可以觕知其髣髴云爾。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yx-excl-bio-title",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 11,
+          "term": "楊戲",
+          "quote": "楊戲傳",
+          "reason": "僅為本傳篇名標題，無史實內容；本傳正文自下段起，已另錄為摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
