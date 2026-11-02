@@ -105564,6 +105564,24 @@
           "from": "芝對曰呉蜀二國之地呉有\n三江之阻蜀有重險之固",
           "through": "退可鼎\n足而峙",
           "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "dz-hygz-jianxing6-jigu",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 6,
+          "from": "使鎮東將軍趙雲中\n監軍鄧芝據箕谷為疑軍",
+          "through": "魏大將軍曺真舉衆當之",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "dz-hygz-jianxing12-qianjunshi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 12,
+          "from": "輔漢\n將軍鄧芝前軍師領兖州刺史",
+          "through": "領兖州刺史",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -105575,6 +105593,15 @@
           "term": "鄧芝",
           "quote": "鄧芝傳",
           "reason": "僅為本傳篇題，無史事內容，不作摘錄。"
+        },
+        {
+          "id": "dz-excl-002",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 2,
+          "term": "鄧芝",
+          "quote": "呉遣中郎將張温來\n聘報鄧芝也",
+          "reason": "僅言吳遣張溫報鄧芝之聘，與本傳摘錄 dz-sg-xiuhao-wu 所載同一事，不重複錄入。"
         }
       ],
       "conclusions": [],
