@@ -101017,6 +101017,33 @@
           "from": "杜微字國輔，梓潼涪人也。",
           "through": "拜為諫議大夫，以從其志。",
           "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳·杜微傳》"
+        },
+        {
+          "id": "dwei-sg-002",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 45,
+          "from": "杜微脩身隱靜，不役當世，",
+          "through": "庶幾夷、皓之槩。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳·評曰》"
+        },
+        {
+          "id": "dwei-hy-001",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 2,
+          "from": "杜微為主簿",
+          "through": "皆州俊彦也",
+          "citation": "《華陽國志·卷七·劉後主志》"
+        },
+        {
+          "id": "dwei-hy-002",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 39,
+          "from": "弟子杜微何宗杜瓊皆",
+          "through": "名士至卿佐",
+          "citation": "《華陽國志·卷十·先賢志》"
         }
       ],
       "exclusions": [
