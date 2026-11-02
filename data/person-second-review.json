@@ -105492,6 +105492,33 @@
           "from": "乃遣芝脩好於權",
           "through": "遣張溫報聘於蜀。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五 鄧芝傳》"
+        },
+        {
+          "id": "dz-sg-yanxi10-zongyu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 8,
+          "from": "時車騎將軍鄧芝自江州還",
+          "through": "我六十何為不受邪？",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五 宗預傳》"
+        },
+        {
+          "id": "dz-sg-pinglun",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 53,
+          "from": "鄧芝堅貞簡亮，臨官忘家",
+          "through": "臨官忘家",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五》"
+        },
+        {
+          "id": "dz-sg-huangwu2-wuzhu-laipin",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 21,
+          "from": "冬十一月，蜀使中郎將鄧芝來聘。",
+          "through": "冬十一月，蜀使中郎將鄧芝來聘。",
+          "citation": "《三國志·吳書二·吳主傳第二 吳主傳》"
         }
       ],
       "exclusions": [],
