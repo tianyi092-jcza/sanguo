@@ -101303,6 +101303,36 @@
           "from": "譙周等上言",
           "through": "以寧海內。」",
           "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "qz-sg-houzhu-jiangce",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 42,
+          "from": "用光祿大夫譙周策",
+          "through": "降於艾，奉書曰",
+          "citation": "《三國志·蜀書三·後主傳》",
+          "note": "炎興元年，鄧艾破諸葛瞻於緜竹後，後主用譙周之策降於鄧艾；同段後文載後主遣張紹、譙周、鄧良奉齎印綬請命。"
+        },
+        {
+          "id": "qz-sg-houzhu-fenghou",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 43,
+          "from": "尚書令樊建、侍中張紹、光祿大夫譙周",
+          "through": "並封列侯。",
+          "citation": "《三國志·蜀書三·後主傳》",
+          "note": "後主舉家東遷至洛陽、受封安樂縣公後，譙周與樊建、張紹等並封列侯。"
+        },
+        {
+          "id": "qz-sg-qinmi-zixun",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 24,
+          "from": "譙允南少時數往諮訪",
+          "through": "文多故不載。",
+          "citation": "《三國志·蜀書八 許麋孫簡伊秦傳第八 秦宓傳》",
+          "note": "譙周少時數往秦宓處諮訪，並將其言紀錄於《春秋然否論》，此段未載原文。"
         }
       ],
       "exclusions": [],
