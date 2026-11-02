@@ -104023,6 +104023,22 @@
         "勢力階段與辨人：隨先主入蜀後終身為蜀漢臣（廣都長、尚書郎、東曹掾、參軍、留府長史、尚書令、大將軍、錄尚書事、大司馬皆蜀漢任內事），不得把入蜀前州書佐記為蜀漢，亦不得把其子蔣斌降魏後事、姜維後期事記為蔣琬本人。與同卷費禕、姜維、子蔣斌、弟蔣顯及魏將蔣舒嚴格分開：蔣斌、蔣舒皆非蔣琬本人，相關段已排除；吳主傳、潘濬傳中指蔣琬守漢中不出、與人密使自託的傳聞皆已被當面駁斥，不錄為史實；僅為收件人、轉述人或並列提及、無獨立言行事迹的段亦已排除。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0175",
+      "name": "費禕",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
