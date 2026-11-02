@@ -100886,6 +100886,33 @@
           "from": "先主為漢中王，遣詩拜關羽為前將軍",
           "through": "遽即受拜。",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳·費詩傳》"
+        },
+        {
+          "id": "fshi-sg-003",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 21,
+          "from": "費詩率意而言",
+          "through": "況庸后乎哉！",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·費詩傳》"
+        },
+        {
+          "id": "fshi-hy-001",
+          "work": "huayang",
+          "source": "a06-004",
+          "paragraph": 18,
+          "from": "犍為費詩",
+          "through": "皆著勲烈",
+          "citation": "《華陽國志》卷四·四部叢刊本"
+        },
+        {
+          "id": "fshi-hy-002",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 18,
+          "from": "遣前部司馬犍爲費詩拜假節",
+          "through": "羽即受拜",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
