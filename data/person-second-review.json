@@ -104795,6 +104795,33 @@
           "from": "蜀將姜維聞毗來，謂亮曰",
           "through": "賊不復出矣。",
           "citation": "《晉書·卷一·帝紀第一·宣帝紀》"
+        },
+        {
+          "id": "jw-js-wendi-longyou-nanzheng",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 7,
+          "from": "蜀將姜維之寇隴右也",
+          "through": "帥衆來降。",
+          "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "jw-js-fashu-tazhong-juelu",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 15,
+          "from": "使鄧艾自狄道攻姜維於沓中",
+          "through": "絕維歸路，",
+          "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "jw-js-tianwen-longxi-guohuai",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 17,
+          "from": "蜀將姜維攻隴西",
+          "through": "車騎將軍郭淮討破之。",
+          "citation": "《晉書·卷十三·志第三·天文下》"
         }
       ],
       "exclusions": [
