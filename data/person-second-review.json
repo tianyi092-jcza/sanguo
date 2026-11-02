@@ -103231,9 +103231,39 @@
           "through": "累遷至廣漢、蜀郡太守。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳·張翼傳》",
           "note": "張翼早期仕途：先主定益州時為書佐，建安末舉孝廉，歷江陽長、涪陵令、梓潼太守，累遷至廣漢、蜀郡太守。"
+        },
+        {
+          "id": "zy-sg-liaohua-guanwei-qi",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 9,
+          "from": "官位與張翼齊",
+          "through": "而在宗預之右。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳·廖化傳》",
+          "note": "廖化傳稱廖化官位與張翼齊等而在宗預之右，側面反映張翼晚年官位之高。"
+        },
+        {
+          "id": "zy-sg-ping-zhangyi-kangrui",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 53,
+          "from": "張翼亢姜維之銳",
+          "through": "張翼亢姜維之銳",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳》",
+          "note": "陳壽論贊稱張翼能抗衡姜維之銳，與鄧芝、宗預並稱有可稱者。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangyi-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 4,
+          "term": "張翼",
+          "quote": "張翼傳",
+          "reason": "本傳篇題，僅標題文字，無史事內容，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
