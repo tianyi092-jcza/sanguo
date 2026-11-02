@@ -100913,6 +100913,33 @@
           "from": "遣前部司馬犍爲費詩拜假節",
           "through": "羽即受拜",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "fshi-hy-003",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 21,
+          "from": "費詩上䟽曰殿下以曺操父子逼主簒",
+          "through": "左遷詩部永昌從事",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "fshi-hy-004",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 4,
+          "from": "蔣琬從事費詩曰歸當有書與子度相聞",
+          "through": "詩數率意而言故凌遲扵世",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "fshi-hy-005",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 64,
+          "from": "興三年從丞相亮南征",
+          "through": "亮方北面欲招逹爲外援",
+          "citation": "《華陽國志》卷十·四部叢刊本"
         }
       ],
       "exclusions": [
