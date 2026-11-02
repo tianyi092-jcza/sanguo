@@ -104035,7 +104035,35 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "fy-sg-guoxiu-ci",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 23,
+          "from": "往歲偽大將軍費禕驅率羣衆",
+          "through": "脩於廣坐之中手刃擊禕",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "fy-sg-xingshi-sanling",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 40,
+          "from": "費禕進兵據三嶺以截爽",
+          "through": "僅乃得過",
+          "citation": "《三國志·魏書九·諸夏侯曹傳》"
+        },
+        {
+          "id": "fy-sg-hanzhong-zilun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 20,
+          "from": "四年冬十月，尚書令費禕至漢中",
+          "through": "歲盡還。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
