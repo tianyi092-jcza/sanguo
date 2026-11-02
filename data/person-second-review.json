@@ -103508,9 +103508,37 @@
           "from": "蔣琬後詣漢中，謂亮曰：「昔楚殺得臣，然後文公喜可知也。天下未定而戮智計之士，豈不惜乎！」",
           "through": "蔣琬後詣漢中，謂亮曰：「昔楚殺得臣，然後文公喜可知也。天下未定而戮智計之士，豈不惜乎！」",
           "citation": "《三國志·蜀書九·董劉馬陳董呂傳第九 馬謖傳》"
+        },
+        {
+          "id": "jw-sg-dongyun-rang",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 15,
+          "from": "尚書令蔣琬領益州刺史，上疏以讓費禕及允",
+          "through": "尚書令蔣琬領益州刺史，上疏以讓費禕及允",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳第九 董允傳》"
+        },
+        {
+          "id": "jw-sg-huayang-siying",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 16,
+          "from": "華陽國志曰：時蜀人以諸葛亮、蔣琬、費禕及允為四相，一號四英也。",
+          "through": "華陽國志曰：時蜀人以諸葛亮、蔣琬、費禕及允為四相，一號四英也。",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳第九 董允傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "jw-excl-chenzhen-shouxin",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 13,
+          "term": "蔣琬",
+          "quote": "諸葛亮與長史蔣琬、侍中董允書曰",
+          "reason": "蔣琬僅為諸葛亮書信收件人之一，本段所述為陳震使吳及李平誣罔事，無蔣琬言行事迹，不錄為摘錄。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
