@@ -105182,6 +105182,33 @@
           "from": "大將軍維議以爲漢中錯守諸\n圍",
           "through": "此殄敵之術也",
           "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-jiangwei-jiang-hui",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 30,
+          "from": "姜維未知後主降",
+          "through": "詣鍾㑹降于涪",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-jiangwei-wangchong-lun",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 32,
+          "from": "鄧艾以疲兵二萬",
+          "through": "已自招",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-jiangwei-xian-hui-ping",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 33,
+          "from": "鍾㑹之智略稱爲子房",
+          "through": "美意播越矣",
+          "citation": "《華陽國志》卷七·劉後主志"
         }
       ],
       "exclusions": [
