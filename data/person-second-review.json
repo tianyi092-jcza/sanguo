@@ -104723,6 +104723,33 @@
           "from": "遣太僕蔣顯有命勑姜維",
           "through": "遣太僕蔣顯有命勑姜維。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-qishan-lujiangwei",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 11,
+          "from": "圍天水，拔兾城，虜姜維",
+          "through": "虜姜維，驅略士女數千人還蜀。",
+          "citation": "《三國志·蜀書五·諸葛亮傳第五》裴注引《郭沖四事》"
+        },
+        {
+          "id": "jw-sg-wuzhangyuan-fanqi-tuijun",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 14,
+          "from": "姜維令儀反旗鳴鼓",
+          "through": "宣王乃退，不敢偪。",
+          "citation": "《三國志·蜀書五·諸葛亮傳第五》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "jw-sg-chenzhi-quanzhongyuwei",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 18,
+          "from": "大將軍姜維雖班在祗上",
+          "through": "權重於維。",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳第九·陳祗傳》"
         }
       ],
       "exclusions": [
