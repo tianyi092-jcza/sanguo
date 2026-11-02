@@ -105020,6 +105020,24 @@
           "from": "輙與費禕等議，以涼州胡塞之要，進退有資",
           "through": "宜以姜維為涼州刺史",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 蔣琬傳》"
+        },
+        {
+          "id": "jw-zhonghui-houdai-tongyu-tongxi",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 22,
+          "from": "會厚待維等，皆權還其印號節蓋",
+          "through": "會與維出則同轝，坐則同席",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
+        },
+        {
+          "id": "jw-xizheng-qingsu-jieyue",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 23,
+          "from": "宅舍弊薄，資財無餘",
+          "through": "飲食節制，不奢不約，官給費用，隨手消盡",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
         }
       ],
       "exclusions": [
@@ -105085,6 +105103,15 @@
           "term": "姜伯約",
           "quote": "姜伯約屢出隴右，勞動我邊境，侵擾我氐、羌",
           "reason": "鍾會傳檄蜀勸降文，歷數蜀方用兵背景時提及姜維屢出隴右及段谷、侯和之敗，無其本人具體言行事蹟，僅為勸降修辭背景，排除。"
+        },
+        {
+          "id": "jw-excl-dengzhi-qiyi-bijiao",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 3,
+          "term": "姜維",
+          "quote": "唯器異姜維云",
+          "reason": "鄧芝傳記鄧芝事蹟，末句僅稱鄧芝唯器異姜維，無姜維具體言行事蹟，僅為人物比較提及，排除。"
         }
       ],
       "conclusions": [],
