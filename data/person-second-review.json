@@ -101273,7 +101273,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "qz-hhs-tianwen-jixu",
+          "work": "houhanshu",
+          "source": "a03-100",
+          "paragraph": 2,
+          "from": "謝沈書曰：「蔡邕撰建武已後，",
+          "through": "譙周接繼其下者。」",
+          "citation": "《後漢書·志第十 天文上》",
+          "note": "謝沈書言蔡邕撰建武已後星驗著明之文以續前志，其下由譙周接繼；譙周精研經學、頗曉天文，與此接繼星驗之文的學者形象相符。"
+        },
+        {
+          "id": "qz-hhs-junguo-baji",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 7,
+          "from": "譙周巴記曰",
+          "through": "以墊江為巴西郡。」",
+          "citation": "《後漢書·志第二十三·郡國五》",
+          "note": "後漢書郡國志引譙周《巴記》所載：初平元年趙穎分巴、建安六年劉璋分巴為巴東與巴西。"
+        },
+        {
+          "id": "qz-sg-xianzhu-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 20,
+          "context": "二十五年，魏文帝稱尊號",
+          "from": "譙周等上言",
+          "through": "以寧海內。」",
+          "citation": "《三國志·蜀書二·先主傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
