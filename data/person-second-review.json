@@ -100702,6 +100702,33 @@
           "from": "楊洪字季休，犍為武陽人也。",
           "through": "轉為益州治中從事。",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳·楊洪傳》"
+        },
+        {
+          "id": "yhong-sg-003",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 21,
+          "from": "評曰：霍峻孤城不傾",
+          "through": "皆有可紀焉。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·評曰》"
+        },
+        {
+          "id": "yhong-sg-004",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 1,
+          "from": "王元泰、李伯仁、王文儀、楊季休",
+          "through": "未見如舊。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳·杜微傳》"
+        },
+        {
+          "id": "yhong-sg-005",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 36,
+          "from": "越騎惟忠",
+          "through": "念公忘私。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳·贊楊季休》"
         }
       ],
       "exclusions": [
