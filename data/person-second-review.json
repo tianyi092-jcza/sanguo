@@ -106461,7 +106461,7 @@
     {
       "id": "p0187",
       "name": "馬岱",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "madai-sg-weiyan-killed",
@@ -106489,18 +106489,42 @@
           "from": "蜀將馬岱入寇",
           "through": "斬千餘級",
           "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "madai-sg-bio-rank",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 17,
+          "context": "惟有從弟岱，當為微宗血食之繼",
+          "from": "岱位至平北將軍",
+          "through": "進爵陳倉侯",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·馬超傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "madai-excl-qin-shangshulang",
+          "work": "jinshu",
+          "source": "a05-117-ahcb",
+          "paragraph": 18,
+          "term": "馬岱",
+          "quote": "尚書郎馬岱等，以文章雅正，參管機密。",
+          "reason": "此段為姚興時（苻堅之末後）之後秦尚書郎馬岱，與蜀漢馬岱時代相隔百餘年，僅同名，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本傳補齊：a04-036 全文 26 段逐段核對，含「岱」者僅段 17（馬超傳附載）：馬超臨沒上疏稱「惟有從弟岱，當為微宗血食之繼」，繼而載「岱位至平北將軍，進爵陳倉侯」，已按正文與上下文分層摘錄（context 以從弟岱確指本人）。本傳其餘段為關羽、張飛、馬超、黃忠、趙雲等人事，不記入岱名下。本輪向量候選共 4 段，前 3 段此前已錄，本輪新增排除 1 段、摘錄 1 條，未解決 0 條，累計摘錄 4 條、排除 1 條。",
+        "生平與事蹟：馬岱為馬超從弟，馬超臨沒託以宗祀之繼，岱位至平北將軍、進爵陳倉侯；楊儀遣馬岱追斬魏延、致首於儀；《晉書·宣帝紀》載蜀將馬岱入寇、魏軍斬千餘級（sidneyluo 本與四庫本兩本皆已摘錄）。除此之外，本傳他傳無岱獨立事蹟與生卒年確載，不硬補。",
+        "勢力階段與辨人：岱終身在蜀漢陣營，與馬超、魏延、楊儀嚴格分開，不串人；《晉書》卷一百十七載記段 18 的後秦尚書郎馬岱（姚興時）為同名異人，已排除。向量檢索未見《後漢書》《華陽國志》本人相關段。"
+      ]
     }
   ]
 }
