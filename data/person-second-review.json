@@ -105438,6 +105438,33 @@
           "from": "使趙雲、鄧芝為疑軍",
           "through": "據箕谷",
           "citation": "《三國志·蜀書五·諸葛亮傳第五 諸葛亮傳》"
+        },
+        {
+          "id": "dz-sg-jianxing6-jigu-yun",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 22,
+          "from": "亮令雲與鄧芝往拒",
+          "through": "不至大敗",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六 趙雲傳》"
+        },
+        {
+          "id": "dz-sg-jianxing9-feiping",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "from": "領長史綏軍將軍臣楊儀",
+          "through": "督左部行中監軍揚武將軍臣鄧芝",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳第十 李嚴傳》"
+        },
+        {
+          "id": "dz-sg-jianxing1-shiwu-zhangyi",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 10,
+          "from": "諸葛亮遣鄧芝使吳",
+          "through": "故許芝遣裔",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳第十一 張裔傳》"
         }
       ],
       "exclusions": [],
