@@ -106413,7 +106413,7 @@
     {
       "id": "p0186",
       "name": "諸葛尚",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "zhugeshang-sg-mianzhu-death",
@@ -106446,13 +106446,17 @@
       "exclusions": [],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本傳補齊：a04-035 全文 33 段逐段核對，含「諸葛尚」者僅段 27（諸葛瞻傳附載）；正文「瞻長子尚，與瞻俱沒」為本人唯一正文記載，裴注引《華陽國志》「尚歎曰……乃馳赴魏軍而死」為同段注文，已與正文分層摘錄；《華陽國志》卷七段 29 原文亦已摘錄。本輪向量候選 0 段新段，未解決 0 條，累計摘錄 3 條、排除 0 條。本傳其餘段為諸葛亮、諸葛瞻等人事，不記入尚名下；段 27 後半「次子京及攀子顯等」為弟諸葛京等人事，不另立條。",
+        "生平與事蹟：諸葛尚為諸葛瞻長子。景耀六年冬，魏鄧艾伐蜀，瞻督軍至涪、退守綿竹，尚隨父戰死於綿竹，父子俱沒；裴注引《華陽國志》載其臨死嘆曰「父子荷國重恩，不早斬黃皓，以致傾敗，用生何為！」遂馳赴魏軍而死。除此綿竹一死外，本傳他傳無尚獨立事蹟、官職與生卒年確載，不硬補。",
+        "勢力階段與辨人：尚終身隨父在蜀漢陣營，綿竹之死為父子同載，不另立勢力階段；與父諸葛瞻、弟諸葛京嚴格分開，不串人。向量檢索未見《後漢書》《晉書》本人相關段。"
+      ]
     }
   ]
 }
