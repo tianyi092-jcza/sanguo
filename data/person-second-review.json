@@ -100443,6 +100443,51 @@
         "勢力階段與辨人：初屬劉表（臨沮長），表卒歸先主，此後屬先主、後主一方；步兵校尉、丞相長史、光祿勳、左將軍皆蜀漢授任，不得記為劉表或他方勢力。與兄子向寵、向寵弟向充嚴格分開（卷41段7附傳已排除）；與前任丞相長史王連僅為代領關係，不串人；卷40段14他傳引文僅作他傳引文。後漢書、晉書向量候選無確指向朗段落。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0161",
+      "name": "張裔",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [
+        {
+          "id": "zyi-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 20,
+          "from": "偏將軍張裔",
+          "through": "譙周等上言",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zyi-sg-002",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 2,
+          "from": "先是，益州郡有大姓雍闓反，流太守張裔於吳，據郡不賔，越嶲夷王高定亦背叛。",
+          "through": "先是，益州郡有大姓雍闓反，流太守張裔於吳，據郡不賔，越嶲夷王高定亦背叛。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zyi-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 8,
+          "term": "張裔",
+          "quote": "張裔傳",
+          "reason": "此段僅為《蜀書十一》張裔傳篇目標題，無史實敘述；本傳正文在段9，留待後續摘錄，不另立條目。"
+        }
+      ],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
