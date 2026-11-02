@@ -104930,6 +104930,24 @@
           "from": "姜維因洮上之利，輕兵深入，糧餉不繼，軍覆上邽。",
           "through": "姜維因洮上之利，輕兵深入，糧餉不繼，軍覆上邽。",
           "citation": "《三國志·魏書二十七·王基傳》"
+        },
+        {
+          "id": "jw-sg-didao-duangu",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 28,
+          "from": "解雍州刺史王經圍於狄道，姜維退駐鍾提",
+          "through": "艾與戰於段谷，大破之。",
+          "citation": "《三國志·魏書二十八·鄧艾傳》"
+        },
+        {
+          "id": "jw-sg-duanlongyou-duangu",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 35,
+          "from": "昔姜維有斷隴右之志，艾脩治備守，積糓彊兵。",
+          "through": "故落門、段谷之戰，以少擊多，摧破彊賊。",
+          "citation": "《三國志·魏書二十八·鄧艾傳》"
         }
       ],
       "exclusions": [
@@ -104977,6 +104995,15 @@
           "term": "姜維",
           "quote": "此秋，姜維寇隴右。",
           "reason": "段落主述司馬景王謀廢齊王芳及許允謀殺司馬文王事，姜維僅在「世語及魏氏春秋並云」所引一句中作為背景提及，無其具體言行事蹟，排除。"
+        },
+        {
+          "id": "jw-excl-dengai-chengdu-bijiao",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 31,
+          "term": "姜維",
+          "quote": "姜維自一時雄兒也，與某相值，故窮耳。",
+          "reason": "段落主述鄧艾入成都受劉禪降、承制拜官、築京觀及自矜之言，姜維僅在艾「姜維自一時雄兒也」自誇句中作比較對象，無其本人言行事蹟，排除。"
         }
       ],
       "conclusions": [],
