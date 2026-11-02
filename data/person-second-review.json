@@ -105695,6 +105695,33 @@
           "from": "以征北大將軍南陽宗預為都督",
           "through": "預還内領軍",
           "citation": "《華陽國志》卷一·四部叢刊本"
+        },
+        {
+          "id": "zy-hygz-zhubu",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 2,
+          "from": "南陽宗預爲主簿",
+          "through": "皆州俊彦也",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "zy-hygz-shiwu-baidi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 13,
+          "from": "右中郎宗預使",
+          "through": "相問也",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "zy-hygz-zhennan-yanzhou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 25,
+          "from": "將軍宗預自永安徵拜",
+          "through": "領兖州刺史",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
