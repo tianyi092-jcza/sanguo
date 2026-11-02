@@ -104531,6 +104531,22 @@
         "勢力階段與辨人：入蜀後終身為蜀漢臣（舍人、黃門侍郎、侍中、參軍、中護軍、尚書令、大將軍、錄尚書事皆蜀漢任內事），使吳為奉使出使、非轉投他國，不得把使吳論辯記為東吳事蹟。與同卷蔣琬、姜維、子費承、弟費恭及魏將費繇嚴格分開：費繇（a04-044:14張郃費繇破亮前鋒段）非費禕，不錄；姜維後期北伐諸役不得記為費禕本人；郭循與郭脩為同一降刺客之異寫，本傳作循、他傳作脩，皆指延熈十六年行刺者。僅為並列提及、收件人或繫年一語、無獨立言行事蹟的段已排除。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0176",
+      "name": "姜維",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
