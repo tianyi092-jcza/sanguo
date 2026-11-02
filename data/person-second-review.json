@@ -104395,6 +104395,33 @@
           "from": "使費禕造延",
           "through": "故欲討儀",
           "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "fy-hy-hanzhong-zilun",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 16,
+          "from": "尚書令費禕至",
+          "through": "歲盡還",
+          "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "fy-hy-xingshi-weiqi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 17,
+          "from": "大將軍禕節率軍自成都赴漢中",
+          "through": "敏曰聊試君耳君信可人",
+          "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "fy-hy-dajiangjun-yizhou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 18,
+          "from": "軍領益州剌史",
+          "through": "允加輔國將軍守尚書令",
+          "citation": "《華陽國志·劉後主志》"
         }
       ],
       "exclusions": [
