@@ -101333,6 +101333,36 @@
           "through": "文多故不載。",
           "citation": "《三國志·蜀書八 許麋孫簡伊秦傳第八 秦宓傳》",
           "note": "譙周少時數往秦宓處諮訪，並將其言紀錄於《春秋然否論》，此段未載原文。"
+        },
+        {
+          "id": "qz-sg-xiangchong-qiaozhou-yan",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 7,
+          "from": "充聞之曰：「吾聞譙周之言",
+          "through": "此殆天意也。」",
+          "citation": "《三國志·蜀書十一 霍王向張楊費傳第十一 向朗傳》裴注引《襄陽記》",
+          "note": "向寵弟向充轉述譙周之言：先帝諱備訓具、後主諱禪訓授，言劉漢已具、當授與人，並以成都出瑞、藏於相國府為天意之徵。此為裴注所引《襄陽記》，非正文。"
+        },
+        {
+          "id": "qz-sg-xizheng-qiaozhou-jiangce",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 44,
+          "from": "景耀六年，後主從譙周之計",
+          "through": "其書，正所造也。",
+          "citation": "《三國志·蜀書十二 杜周杜許孟來尹李譙郤傳第十二 郤正傳》",
+          "note": "景耀六年後主採納譙周之計，向鄧艾遣使請降；降書由郤正所造。"
+        },
+        {
+          "id": "qz-jin-wuxing-dashu-zhe",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 136,
+          "from": "蜀劉禪景耀五年，宮中大樹無故自折。",
+          "through": "蜀果亡，如周言，此草妖也。",
+          "citation": "《晉書》卷二十八·五行志",
+          "note": "景耀五年宮中大樹無故自折，譙周憂而書柱，以「眾而大」「具而授」為讖，預言蜀將亡；蜀果亡，應其言。"
         }
       ],
       "exclusions": [],
