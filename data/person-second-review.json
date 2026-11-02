@@ -105668,6 +105668,33 @@
           "from": "預將命使吳",
           "through": "見敬亞於鄧芝、費禕。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·宗預傳》"
+        },
+        {
+          "id": "zy-sg-liaohua-guanwei",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 9,
+          "from": "官位與張翼齊",
+          "through": "在宗預之右。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·廖化傳》"
+        },
+        {
+          "id": "zy-sg-ping-yusunquan",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 53,
+          "from": "宗預禦孫權之嚴",
+          "through": "咸有可稱。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·評曰》"
+        },
+        {
+          "id": "zy-hygz-dudu-huannei",
+          "work": "huayang",
+          "source": "a06-001",
+          "paragraph": 21,
+          "from": "以征北大將軍南陽宗預為都督",
+          "through": "預還内領軍",
+          "citation": "《華陽國志》卷一·四部叢刊本"
         }
       ],
       "exclusions": [
