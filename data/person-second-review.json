@@ -104422,6 +104422,24 @@
           "from": "軍領益州剌史",
           "through": "允加輔國將軍守尚書令",
           "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "fy-hy-guoxiu-cisha",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "from": "十六年春正月朔魏降人郭脩因賀",
+          "through": "謚曰敬侯",
+          "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "fy-sg-shiwu-lunbian",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 11,
+          "from": "亮以初從南歸，以禕為昭信校尉使吳",
+          "through": "終不能屈。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳》"
         }
       ],
       "exclusions": [
@@ -104460,6 +104478,15 @@
           "term": "費禕",
           "quote": "侍中郭攸之費禕侍郎",
           "reason": "段落為諸葛亮上疏（出師表）引文，費禕僅在侍中名單中列名，無本人言行事蹟，排除。"
+        },
+        {
+          "id": "fy-excl-houxian-zisun",
+          "work": "huayang",
+          "source": "a06-011",
+          "paragraph": 5,
+          "term": "費禕",
+          "quote": "諸葛亮蒋琬費禕等子孫",
+          "reason": "段落為立上疏論子孫叙用，費禕僅與諸葛亮、蔣琬並列於子孫叙用之請中，無本人言行事蹟，排除。"
         }
       ],
       "conclusions": [],
