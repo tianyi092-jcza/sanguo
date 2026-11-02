@@ -100995,6 +100995,51 @@
         "勢力階段與辨人：初屬劉璋（緜竹令），先主攻緜竹舉城降後屬先主、後主一方；督軍從事、牂牁太守、州前部司馬、部永昌從事、諫議大夫皆蜀漢任內授任，不得記為劉璋勢力。上疏諫稱尊號、勸關羽受拜、進言孟達皆蜀漢任內事蹟。與同卷合傳的霍峻、王連、向朗、張裔、楊洪及關羽、孟達、王沖、李鴻、蔣琬嚴格分開，僅作本傳與他傳引文關係；王沖段末句僅言詩子立官職與後裔，不另立費詩事蹟。後漢書、晉書向量候選無確指費詩段落。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0164",
+      "name": "杜微",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "dwei-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 1,
+          "from": "杜微字國輔，梓潼涪人也。",
+          "through": "拜為諫議大夫，以從其志。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳·杜微傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "dwei-excl-001",
+          "work": "peizhu",
+          "source": "a04-033",
+          "paragraph": 1,
+          "term": "杜微",
+          "quote": "與主簿杜微書曰",
+          "reason": "此段為裴注辨後主生年之案語，杜微僅作為諸葛亮致書對象（主簿）被提及；其建興二年任主簿事本傳 a04-042:1 已有，不另立摘錄。"
+        },
+        {
+          "id": "dwei-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 0,
+          "term": "杜微",
+          "quote": "杜微傳",
+          "reason": "此段僅為《蜀書十二》杜微傳篇目標題，無史實敘述；本傳正文在 a04-042:1，已另立摘錄，不另立條目。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
