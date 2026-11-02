@@ -100868,8 +100868,37 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "fshi-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 18,
+          "from": "費詩字公舉，犍為南安人也。",
+          "through": "還為州前部司馬。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·費詩傳》"
+        },
+        {
+          "id": "fshi-sg-002",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 18,
+          "from": "先主為漢中王，遣詩拜關羽為前將軍",
+          "through": "遽即受拜。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·費詩傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "fshi-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 17,
+          "term": "費詩",
+          "quote": "費詩傳",
+          "reason": "此段僅為《蜀書十一》費詩傳篇目標題，無史實敘述；本傳正文在 a04-041:18，已另立摘錄，不另立條目。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
