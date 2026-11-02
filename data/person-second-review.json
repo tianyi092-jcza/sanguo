@@ -106077,6 +106077,52 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0181",
+      "name": "來敏",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "lm-sg-xuci-dianwen",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 12,
+          "from": "慈、潛並為博士",
+          "through": "與孟光、來敏等典掌舊文。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 許慈傳》"
+        },
+        {
+          "id": "lm-sg-mengguang-zhengyi",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 14,
+          "from": "好公羊春秋而譏呵左氏",
+          "through": "每與來敏爭此二義",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "lm-sg-title",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 16,
+          "term": "來敏",
+          "quote": "來敏傳",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 來敏傳》",
+          "reason": "此段僅為篇題「來敏傳」三字，無史實內容，不錄。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
