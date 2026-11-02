@@ -104993,6 +104993,33 @@
           "from": "密與長史楊儀、司馬費禕、護軍姜維等作身歿之後退軍節度",
           "through": "令延斷後，姜維次之",
           "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳第十 魏延傳》"
+        },
+        {
+          "id": "jw-sg-laizhong-jiangwei-canjun",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 17,
+          "from": "與尚書向充等並能協贊大將軍姜維",
+          "through": "維善之，以為參軍",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 來敏傳》"
+        },
+        {
+          "id": "jw-sg-zhangyi-jiangwei-longxi",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 31,
+          "from": "魏狄道長李簡密書請降，衞將軍姜維率嶷等因簡之資以出隴西",
+          "through": "簡悉率城中吏民出迎軍",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳第十三 張嶷傳》"
+        },
+        {
+          "id": "jw-sg-jiangwan-yi-jiangwei-liangzhou",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 5,
+          "from": "輙與費禕等議，以涼州胡塞之要，進退有資",
+          "through": "宜以姜維為涼州刺史",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 蔣琬傳》"
         }
       ],
       "exclusions": [
