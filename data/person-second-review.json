@@ -105155,6 +105155,33 @@
           "from": "征西姜維爲右監軍輔漢",
           "through": "輔漢\n將軍",
           "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-jiangwei-zhenxi-liangzhou-cishi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 17,
+          "from": "冬十月琬還",
+          "through": "將軍凉州剌史",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-jiangwei-weijiangjun-longxi-ke",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 21,
+          "from": "進姜維爲衛將軍",
+          "through": "戰剋之",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-jiangwei-hanzhong-tui-shou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 25,
+          "from": "大將軍維議以爲漢中錯守諸\n圍",
+          "through": "此殄敵之術也",
+          "citation": "《華陽國志》卷七·劉後主志"
         }
       ],
       "exclusions": [
