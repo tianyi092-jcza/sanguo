@@ -104678,6 +104678,33 @@
           "from": "夏，復率諸軍出狄道",
           "through": "維却住鍾題。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi-shijiu-shanggui",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 35,
+          "from": "十九年春，進姜維位為大將軍",
+          "through": "維退軍還成都。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi-ershi-luogu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 36,
+          "from": "二十年，聞魏大將軍諸葛誕據壽春以叛",
+          "through": "至芒水。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-jingyao-yuan-chengdu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 37,
+          "from": "景耀元年",
+          "through": "姜維還成都。",
+          "citation": "《三國志·蜀書三·後主傳》"
         }
       ],
       "exclusions": [],
