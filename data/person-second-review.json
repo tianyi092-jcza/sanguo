@@ -100747,6 +100747,24 @@
           "from": "治中楊洪",
           "through": "等上河洛符驗",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "yhong-hy-003",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 25,
+          "from": "治中從事楊洪啓",
+          "through": "太子遣將軍陳曶鄭綽由青衣水伐元滅之",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "yhong-hy-004",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 0,
+          "from": "魏延呉懿皆封都亭侯",
+          "through": "楊洪王謀等關内侯",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -100767,6 +100785,15 @@
           "term": "楊洪",
           "quote": "為楊洪皆見詠懐",
           "reason": "此段為《華陽國志》卷三蜀志成都縣敘述，僅在列舉中提及楊洪見詠懷，無楊洪具體事蹟，不另立條目。"
+        },
+        {
+          "id": "yhong-excl-003",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 22,
+          "term": "楊洪",
+          "quote": "祗爲洪門下書佐",
+          "reason": "此段為《華陽國志》卷十何祗事蹟，楊洪僅作為何祗曾任職的上官背景出現，無楊洪具體事蹟，不另立條目。"
         }
       ],
       "conclusions": [],
