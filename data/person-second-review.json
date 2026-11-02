@@ -105209,6 +105209,33 @@
           "from": "鍾㑹之智略稱爲子房",
           "through": "美意播越矣",
           "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-yangyi-shiwei-beifei",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 65,
+          "from": "酒後言笑多慢詞失大将軍姜維意",
+          "through": "爲維所\n廢",
+          "citation": "《華陽國志》卷十·先賢士女總讚"
+        },
+        {
+          "id": "jw-huayang-zhangyi-jian-duwu",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 66,
+          "from": "以爲國小不宐黷\n武",
+          "through": "每怏怏從行",
+          "citation": "《華陽國志》卷十·先賢士女總讚"
+        },
+        {
+          "id": "jw-sg-feiyi-caizhi-buguo-wan",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 15,
+          "from": "每欲興軍大舉，費禕常裁制不從",
+          "through": "與其兵不過萬人。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
         }
       ],
       "exclusions": [
