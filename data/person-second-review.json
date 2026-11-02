@@ -100388,6 +100388,33 @@
           "from": "向朗好學不倦",
           "through": "向朗好學不倦",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳》"
+        },
+        {
+          "id": "xlang-hy-001",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 4,
+          "from": "襄陽向朗爲",
+          "through": "統留府事",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "xlang-hy-002",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 7,
+          "from": "長史向朗以不時",
+          "through": "臧否免罷",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "xlang-hy-003",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 20,
+          "from": "以故丞相長史向朗爲左將軍",
+          "through": "以故丞相長史向朗爲左將軍",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
