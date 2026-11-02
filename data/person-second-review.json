@@ -105236,6 +105236,33 @@
           "from": "每欲興軍大舉，費禕常裁制不從",
           "through": "與其兵不過萬人。",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
+        },
+        {
+          "id": "jw-sg-yanxi16-shiying-taoxi",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 16,
+          "from": "十六年春，禕卒。",
+          "through": "維却住鍾題。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
+        },
+        {
+          "id": "jw-sg-yanxi19-duangu-zibian",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 17,
+          "from": "十九年春，就遷維為大將軍。",
+          "through": "為後將軍，行大將軍事。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
+        },
+        {
+          "id": "jw-sg-jingyao5-tazhong-binei",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 20,
+          "from": "五年，維率衆出漢、侯和，為鄧艾所破，還住沓中。",
+          "through": "故自危懼，不復還成都。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
         }
       ],
       "exclusions": [
