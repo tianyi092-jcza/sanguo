@@ -100856,6 +100856,22 @@
         "勢力階段與辨人：初屬劉璋（歷部諸郡），先主定蜀後屬先主、後主一方；蜀郡太守、益州治中從事、關內侯、忠節將軍、越騎校尉皆蜀漢授任，不得記為劉璋勢力。漢中發兵勸言、黃元討伐、薦張裔與向朗皆蜀漢任內事蹟。與同卷合傳的霍峻、王連、向朗、張裔、費詩及李嚴、黃元、何祗、陳曶、鄭綽嚴格分開，僅作本傳與他傳引文關係；何祗朝會坐次句主述何祗，不另立洪事蹟。後漢書、晉書向量候選無確指楊洪段落。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0163",
+      "name": "費詩",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
