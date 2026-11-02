@@ -106363,8 +106363,18 @@
     {
       "id": "p0185",
       "name": "張苞",
-      "status": "pilot",
-      "excerpts": [],
+      "status": "complete",
+      "excerpts": [
+        {
+          "id": "zhangbao-sg-zhangfei-early-death",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 12,
+          "from": "長子苞",
+          "through": "早夭。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六·張飛傳》"
+        }
+      ],
       "exclusions": [
         {
           "id": "zhangbao-excl-001",
@@ -106387,13 +106397,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本傳補齊：a04-036 全文 26 段逐段核對，含「苞」者僅段 12（張飛傳末）；「長子苞，早夭」為張飛長子張苞本人唯一本傳記載，錄正摘錄 1 條。同句後半「苞子遵為尚書，隨諸葛瞻於緜竹，與鄧艾戰，死」為其子張遵事，不另立條。",
+        "向量候選枯竭：本輪 retrieve 候選 0 段新段（已覆蓋 2 段皆為既有排除）；累計摘錄 1 條、排除 2 條（後漢書郭汜部將張苞、滿寵傳高平縣吏張苞，皆同名異人）、未解決 0 條。",
+        "生卒與事蹟：除「張飛長子、早夭、子遵」外無獨立事蹟、官職與生卒年確載，不硬補；與父張飛、弟張紹、子張遵嚴格分開，不串人。",
+        "勢力階段：無歸降、轉投、自立記載，不作勢力階段標記；《後漢書》《華陽國志》《晉書》無本人相關段。"
+      ]
     }
   ]
 }
