@@ -106414,7 +106414,35 @@
       "id": "p0186",
       "name": "諸葛尚",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhugeshang-sg-mianzhu-death",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 27,
+          "from": "瞻長子尚",
+          "through": "與瞻俱沒",
+          "citation": "《三國志·蜀書五·諸葛亮傳第五·諸葛瞻傳》"
+        },
+        {
+          "id": "zhugeshang-pei-huayang-lament",
+          "work": "peizhu",
+          "source": "a04-035",
+          "paragraph": 27,
+          "from": "尚歎曰",
+          "through": "乃馳赴魏軍而死",
+          "citation": "裴注引《華陽國志》（諸葛瞻傳附注）"
+        },
+        {
+          "id": "zhugeshang-hygz-mianzhu-death",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 29,
+          "from": "瞻長子尚歎曰",
+          "through": "乃驅馬赴魏軍而死",
+          "citation": "《華陽國志·卷七》"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
