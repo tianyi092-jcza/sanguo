@@ -100684,8 +100684,37 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "yhong-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 20,
+          "from": "治中從事楊洪",
+          "through": "譙周等上言",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "yhong-sg-002",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 13,
+          "from": "楊洪字季休，犍為武陽人也。",
+          "through": "轉為益州治中從事。",
+          "citation": "《三國志·蜀書十一·霍王向張楊費傳·楊洪傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "yhong-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 12,
+          "term": "楊洪",
+          "quote": "楊洪傳",
+          "reason": "此段僅為《蜀書十一》楊洪傳篇目標題，無史實敘述；本傳正文在 a04-041:13，留待後續摘錄，不另立條目。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
