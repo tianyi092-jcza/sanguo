@@ -105919,6 +105919,24 @@
           "from": "慈、潛並為博士",
           "through": "與孟光、來敏等典掌舊文。",
           "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 許慈傳》"
+        },
+        {
+          "id": "mg-sg-xizheng-zixun-mian",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 15,
+          "from": "後進文士祕書郎郤正數從光諮訪",
+          "through": "後光坐事免官，年九十餘卒。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
+        },
+        {
+          "id": "mg-sg-laimin-shuji",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 17,
+          "from": "時孟光亦以樞機不慎，議論干時",
+          "through": "俱以其耆宿學士見禮於世。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 來敏傳》"
         }
       ],
       "exclusions": [
@@ -105941,6 +105959,16 @@
           "quote": "妾亦請從少君、孟光之事矣。",
           "citation": "《後漢書·列女傳第七十四·袁隗妻》",
           "reason": "此處孟光指梁鴻之妻少君、孟光之故事，為同名異人典故，非蜀漢孟光本人史實，不錄。"
+        },
+        {
+          "id": "mg-js-lienu-xu-mention",
+          "work": "jinshu",
+          "source": "a05-096-ahcb",
+          "paragraph": 0,
+          "term": "孟光",
+          "quote": "少君之從約禮，孟光之符隱志",
+          "citation": "《晉書·卷九十六·列女傳》",
+          "reason": "此處孟光與少君並舉，指梁鴻之妻孟光之故事，為同名異人典故，非蜀漢孟光本人史實，不錄。"
         }
       ],
       "unresolved": []
