@@ -107749,6 +107749,33 @@
           "term": "孫權",
           "quote": "是時孫權受魏爵號，而稱兵距守。",
           "reason": "本段權事迹僅此一句，且該句已錄為同卷天文志四庫本第0段摘錄（quan-jin-tianwen-huangchu4-shoujue-jushou）；本段為同卷另一版本，無新增權事迹，其餘為星占、占辭及魏帝崩、大赦事，故不重錄。"
+        },
+        {
+          "id": "quan-excl-017",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 5,
+          "term": "孫權",
+          "quote": "明年，孫權遣張彌等將兵萬人，錫授公孫文懿為燕王，文懿斬彌等，虜其衆。",
+          "reason": "本段與四庫本第1段同文（僅衆／眾異體），張彌錫授燕王事已錄為四庫本摘錄 quan-jin-tianwen-zhangmi-yanwang；段內其餘為月犯、太白晝見占辭及太后郭氏崩，無新增權事迹，故不重錄。"
+        },
+        {
+          "id": "quan-excl-018",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 6,
+          "term": "孫權",
+          "quote": "孫權寇合肥，又遣陸議、孫昭等入淮沔，天子親東征。",
+          "reason": "本段與四庫本第2段同文，寇合肥、遣陸議等入淮沔事已錄為四庫本摘錄 quan-jin-tianwen-kouhefei-ruhuaimian（四庫本作孫韶，此本作孫昭，異文不另立）；其餘為月犯輿鬼、疫、大臣薨及崇華殿灾占應，無新增權事迹，故不重錄。"
+        },
+        {
+          "id": "quan-excl-019",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 16,
+          "term": "孫權",
+          "quote": "太和二年，權薨，是其應也，故國志書於吳。",
+          "reason": "本段與四庫本第6段同文，唯繫年異字：此本作太和二年，與赤烏十三年繫年不合，四庫本作太元二年已錄為摘錄 quan-jin-tianwen-taiyuan2-quanhong；其餘為熒惑行度、占辭及王淩謀立楚王彪事，無新增權事迹，故不重錄。"
         }
       ],
       "unresolved": []
