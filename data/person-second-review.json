@@ -104224,6 +104224,33 @@
           "from": "刺史費禕命為從事",
           "through": "稍遷尚書。",
           "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳》"
+        },
+        {
+          "id": "fy-sg-mazhong-liushou-chengdu",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 13,
+          "from": "七年春，大將軍費禕北禦魏敵",
+          "through": "禕還，忠乃歸南。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳》"
+        },
+        {
+          "id": "fy-sg-wangping-xingshi-yuan",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 18,
+          "from": "涪諸軍及大將軍費禕自成都相繼而至",
+          "through": "魏軍退還，如平本策。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳》"
+        },
+        {
+          "id": "fy-sg-zhangyi-jie-fanai",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 29,
+          "from": "嶷初見費禕為大將軍，恣性汎愛",
+          "through": "後禕果為魏降人郭脩所害。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳》"
         }
       ],
       "exclusions": [],
