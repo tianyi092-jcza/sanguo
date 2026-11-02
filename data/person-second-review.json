@@ -104570,6 +104570,33 @@
           "from": "淮策維必來攻霸",
           "through": "維遁退。",
           "citation": "《三國志·魏書二十六·郭淮傳》"
+        },
+        {
+          "id": "jw-sg-shanggui-fujun",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 29,
+          "from": "姜維深入，不待輜重",
+          "through": "覆軍上邽。",
+          "citation": "《三國志·魏書二十七·王基傳》裴注引《戰畧》"
+        },
+        {
+          "id": "jw-sg-taocheng-juwei",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 25,
+          "from": "嘉平元年，與征西將軍郭淮拒蜀偏將軍姜維。",
+          "through": "維果來渡，而艾先至據城，得以不敗。",
+          "citation": "《三國志·魏書二十八·鄧艾傳》"
+        },
+        {
+          "id": "jw-sg-ganlu-jiange",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 29,
+          "from": "甘露元年詔曰",
+          "through": "鍾會攻維未能克。",
+          "citation": "《三國志·魏書二十八·鄧艾傳》"
         }
       ],
       "exclusions": [],
