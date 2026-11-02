@@ -105074,6 +105074,33 @@
           "from": "蜀將姜維又寇隴右",
           "through": "維果燒營而去。",
           "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "jw-js-ban-jiangwei-ta-zhong",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 45,
+          "from": "今絆姜維於沓中",
+          "through": "以襲漢中。",
+          "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "jw-js-jiangwei-huan-shou-jiange",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 47,
+          "from": "姜維聞之，引還",
+          "through": "鍾會攻之。",
+          "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "jw-js-danggui-yuanzhi",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 3,
+          "from": "魏明帝太和中，姜維歸蜀",
+          "through": "無有當歸。」",
+          "citation": "《晉書·卷二十八·五行志中》"
         }
       ],
       "exclusions": [
