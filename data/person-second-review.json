@@ -105582,6 +105582,24 @@
           "from": "輔漢\n將軍鄧芝前軍師領兖州刺史",
           "through": "領兖州刺史",
           "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "dz-hygz-jiangzhou-cheqi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 17,
+          "from": "就遷江州都督鄧芝車騎將軍",
+          "through": "就遷江州都督鄧芝車騎將軍",
+          "citation": "《華陽國志》卷七·四部叢刊本"
+        },
+        {
+          "id": "dz-sg-lianjie-siwu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 3,
+          "from": "身之衣食資仰於官，不苟素儉，然終不治私產，妻子不免饑寒，死之日家無餘財。",
+          "through": "死之日家無餘財。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五 鄧芝傳》"
         }
       ],
       "exclusions": [
@@ -105602,6 +105620,15 @@
           "term": "鄧芝",
           "quote": "呉遣中郎將張温來\n聘報鄧芝也",
           "reason": "僅言吳遣張溫報鄧芝之聘，與本傳摘錄 dz-sg-xiuhao-wu 所載同一事，不重複錄入。"
+        },
+        {
+          "id": "dz-excl-003",
+          "work": "huayang",
+          "source": "a06-009",
+          "paragraph": 3,
+          "term": "鄧芝",
+          "quote": "扶風鄧芝楊虎等各率流民\n前後數千家入蜀",
+          "reason": "此鄧芝為扶風人，於成漢李雄改元玉衡之後率流民入蜀，與三國義陽鄧芝為同名異人，年代亦相隔數十年，不作本人摘錄。"
         }
       ],
       "conclusions": [],
