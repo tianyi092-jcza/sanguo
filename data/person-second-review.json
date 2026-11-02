@@ -105038,6 +105038,24 @@
           "from": "宅舍弊薄，資財無餘",
           "through": "飲食節制，不奢不約，官給費用，隨手消盡",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
+        },
+        {
+          "id": "jw-pingyue-wenwu-zhigongming",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 25,
+          "from": "姜維粗有文武",
+          "through": "終致隕斃",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 姜維傳》"
+        },
+        {
+          "id": "jw-wangsi-beizheng-junliang",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 50,
+          "from": "大將軍姜維每出北征",
+          "through": "國賴其資",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·王嗣傳》"
         }
       ],
       "exclusions": [
@@ -105112,6 +105130,15 @@
           "term": "姜維",
           "quote": "唯器異姜維云",
           "reason": "鄧芝傳記鄧芝事蹟，末句僅稱鄧芝唯器異姜維，無姜維具體言行事蹟，僅為人物比較提及，排除。"
+        },
+        {
+          "id": "jw-excl-chuanmu-jiangwei",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 13,
+          "term": "姜維",
+          "quote": "姜維傳",
+          "reason": "僅為姜維傳傳目，無事蹟內容，排除。"
         }
       ],
       "conclusions": [],
