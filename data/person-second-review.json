@@ -104305,9 +104305,37 @@
           "from": "評曰：蔣琬方整有威重，費禕寬濟而博愛",
           "through": "邦家和一",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳》"
+        },
+        {
+          "id": "fy-sg-feiyi-songwei-baoda",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 2,
+          "from": "先是，吳王孫權請和",
+          "through": "先主累遣宋瑋、費禕等與相報荅",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳·鄧芝傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "fy-excl-heading-feiyi",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 9,
+          "term": "費禕",
+          "quote": "費禕傳",
+          "reason": "僅為本傳篇目小標題，無史事內容，不錄為摘錄。"
+        },
+        {
+          "id": "fy-excl-zongyu-bijiao",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 8,
+          "term": "費禕",
+          "quote": "見敬亞於鄧芝、費禕",
+          "reason": "段落主角為宗預，費禕僅在孫權敬待次序與鄧芝驕傲的比較中出現，無費禕本人言行事蹟，排除。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
