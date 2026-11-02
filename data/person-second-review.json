@@ -104822,6 +104822,24 @@
           "from": "蜀將姜維攻隴西",
           "through": "車騎將軍郭淮討破之。",
           "citation": "《晉書·卷十三·志第三·天文下》"
+        },
+        {
+          "id": "jw-huayang-piwei-cangcao",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 7,
+          "from": "辟天水姜維為倉曹掾",
+          "through": "馬季常李永南不如也",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-shengwei-hujun-zhengxi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 8,
+          "from": "遷姜維護軍",
+          "through": "征西將軍",
+          "citation": "《華陽國志》卷七·劉後主志"
         }
       ],
       "exclusions": [
@@ -104842,6 +104860,15 @@
           "term": "姜維",
           "quote": "行護軍征南將軍當陽亭侯臣姜維",
           "reason": "段落為諸葛亮上表廢李平，姜維僅以聯署臣名列名，無本人言行事蹟，排除。"
+        },
+        {
+          "id": "jw-excl-huayang-wudu-binglie",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "term": "姜維",
+          "quote": "蜀丞相亮及魏延姜維等多從此出秦川",
+          "reason": "段落主述武都郡沿革與氐傁遷徙，姜維僅與諸葛亮、魏延並列於「多從此出秦川」一句，無其具體言行事蹟，排除。"
         }
       ],
       "conclusions": [],
