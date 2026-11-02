@@ -106342,7 +106342,17 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "gx-sg-yu-jiangbiao-xing",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 6,
+          "from": "子興嗣。興字安國，少有令問，丞相諸葛亮深器異之。弱冠為侍中、中監軍，數歲卒。",
+          "through": "子興嗣。興字安國，少有令問，丞相諸葛亮深器異之。弱冠為侍中、中監軍，數歲卒。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六 關羽傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
