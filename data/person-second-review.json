@@ -100343,8 +100343,37 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "xlang-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-034",
+          "paragraph": 7,
+          "from": "使行丞相事左將軍向朗持節授璽綬。",
+          "through": "使行丞相事左將軍向朗持節授璽綬。",
+          "citation": "《三國志·蜀書四·二主妃子傳·後主張皇后傳》"
+        },
+        {
+          "id": "xlang-sg-002",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 14,
+          "from": "朗昔奉馬良兄弟，謂為聖人，今作長史，素能合道。",
+          "through": "朗昔奉馬良兄弟，謂為聖人，今作長史，素能合道。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳·廖立傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "xlang-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 5,
+          "term": "向朗",
+          "quote": "向朗傳",
+          "reason": "此段僅為《蜀書十一》向朗傳篇目標題，無史實敘述；本傳正文在段6，留待後續摘錄，不另立條目。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
