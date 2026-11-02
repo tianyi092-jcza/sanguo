@@ -100672,6 +100672,22 @@
         "勢力階段與辨人：初屬劉璋（魚復長、帳下司馬、拒張飛、奉使詣先主），先主定蜀後屬先主、後主一方；巴郡太守、司金中郎將、益州太守、參軍、留府長史、輔漢將軍皆蜀漢授任，不得記為劉璋或孫吳勢力。流徙於吳數年、孫權引見問答屬被執送羈留期間事蹟，非歸附孫權；雍闓為執送裔之叛者，與裔本人嚴格分開；與同卷合傳的霍峻、王連、向朗、楊洪、費詩及楊恭、鄧芝嚴格分開，僅作本傳與他傳引文關係。後漢書、晉書向量候選無確指張裔段落。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0162",
+      "name": "楊洪",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
