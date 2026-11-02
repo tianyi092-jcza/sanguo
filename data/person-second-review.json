@@ -101613,6 +101613,36 @@
           "through": "仇國論言可爲文王難爲漢祖人莫察焉",
           "citation": "《華陽國志·卷七·劉後主志》",
           "note": "蜀漢末年，太中大夫譙周著《仇國論》，言可為文王、難為漢祖，人莫察焉。見譙周晚年著述及其對時局之論。"
+        },
+        {
+          "id": "hy-liuhouzhu-qiaozhou-quanjiang",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 29,
+          "from": "光禄大夫譙周勸降魏",
+          "through": "後主從之",
+          "citation": "《華陽國志·卷七·劉後主志》",
+          "note": "蜀亡之際，後主會群臣議南入七郡或奔吳，光祿大夫譙周勸降魏，謂魏必裂土封後主，後主從之。見譙周在蜀亡之際的勸降主張。"
+        },
+        {
+          "id": "hy-liuhouzhu-qiaozhou-fenghou",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 31,
+          "from": "以譙周",
+          "through": "全國濟民封城陽亭侯",
+          "citation": "《華陽國志·卷七·劉後主志》",
+          "note": "後主舉家東遷洛陽、封安樂縣公後，以譙周保全國、濟人民，封城陽亭侯。見譙周降魏後受封。"
+        },
+        {
+          "id": "hy-dazhi-qiaozhou-yuyan",
+          "work": "huayang",
+          "source": "a06-008",
+          "paragraph": 35,
+          "from": "譙周言巴沒三十年後當有",
+          "through": "譙周言巴沒三十年後當有",
+          "citation": "《華陽國志·大同志》",
+          "note": "此句在段末未完，下段續「異人入蜀，蜀由之亡；蜀亡之歲去周三十三年」。本條僅錄本段所載譙周預言之起句，見後世所傳譙周對巴蜀存亡的預言。"
         }
       ],
       "exclusions": [
