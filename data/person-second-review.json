@@ -102524,8 +102524,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "lk-sg-lvkai-shenfen",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 10,
+          "from": "呂凱字季平、永昌不韋人也。",
+          "through": "呂凱字季平、永昌不韋人也。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·呂凱傳》",
+          "note": "呂凱字季平，永昌不韋人；段中「孫盛蜀世譜曰」句為注層（秦徙呂不韋子弟於蜀漢、不韋縣得名之說），不併入此條。"
+        },
+        {
+          "id": "lk-sg-lvkai-jukai",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 10,
+          "from": "仕郡五官掾功曹。",
+          "through": "凱威恩內著，為郡中所信，故能全其節。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·呂凱傳》",
+          "note": "先主薨後雍闓驕黠、降吳遙署永昌太守，呂凱與府丞王伉帥厲吏民閉境拒闓，並以檄書勸闓改圖歸順；凱威恩內著、為郡中所信，故能全其節。與王伉分開：王伉為府丞同守者，非呂凱事蹟之重複計數；雍闓為叛方，不得記為呂凱勢力。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "lk-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 9,
+          "term": "呂凱",
+          "quote": "呂凱傳",
+          "reason": "此段僅為本傳篇題，無史事內容；本傳正文見 a04-043:10，不另作新證。"
+        }
+      ],
       "unresolved": []
     }
   ]
