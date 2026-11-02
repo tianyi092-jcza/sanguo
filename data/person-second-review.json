@@ -105128,6 +105128,33 @@
           "from": "及蜀將姜維寇隴右",
           "through": "維退。",
           "citation": "《晉書·卷三十七·安平獻王孚傳》"
+        },
+        {
+          "id": "jw-js-wang-jiangwei-lvkou-guanzhong",
+          "work": "jinshu",
+          "source": "a05-037",
+          "paragraph": 12,
+          "from": "先是蜀將姜維屢寇關中",
+          "through": "關中賴之。",
+          "citation": "《晉書·卷三十七·義陽成王望傳》"
+        },
+        {
+          "id": "jw-huayang-liangmo-jiangwei-ci-zhi",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 11,
+          "from": "退使延斷後姜維次之",
+          "through": "延怒舉軍先歸",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-jiangwei-youjianjun-fuhan",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 12,
+          "from": "征西姜維爲右監軍輔漢",
+          "through": "輔漢\n將軍",
+          "citation": "《華陽國志》卷七·劉後主志"
         }
       ],
       "exclusions": [
