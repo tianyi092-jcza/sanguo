@@ -101643,6 +101643,36 @@
           "through": "譙周言巴沒三十年後當有",
           "citation": "《華陽國志·大同志》",
           "note": "此句在段末未完，下段續「異人入蜀，蜀由之亡；蜀亡之歲去周三十三年」。本條僅錄本段所載譙周預言之起句，見後世所傳譙周對巴蜀存亡的預言。"
+        },
+        {
+          "id": "hy-lizhi-qiaozhou-chen",
+          "work": "huayang",
+          "source": "a06-009",
+          "paragraph": 22,
+          "from": "長老傳譙周䜟曰廣漢北有大賊曰",
+          "through": "終如其記",
+          "citation": "《華陽國志·卷九·李志》",
+          "note": "長老所傳譙周讖語，記廣漢北有大賊流、特事，謂其終自相賊殺；本條錄其讖語，傳聞性質見原文「長老傳」三字。"
+        },
+        {
+          "id": "hy-xianxian-qiaozhou-shi-qinmi",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 48,
+          "from": "弟子譙周具傳其業",
+          "through": "弟子譙周具傳其業",
+          "citation": "《華陽國志·卷十·先賢志》",
+          "note": "秦宓傳末句：弟子譙周盡傳其業，見譙周師事秦宓。"
+        },
+        {
+          "id": "hy-houxian-duzhen-shi-qiaozhou",
+          "work": "huayang",
+          "source": "a06-011",
+          "paragraph": 22,
+          "from": "軫少師譙周發明髙經扵譙氏之門",
+          "through": "軫少師譙周發明髙經扵譙氏之門",
+          "citation": "《華陽國志·卷十一·後賢志》",
+          "note": "杜軫少時師事譙周，於譙氏之門發明高經，見譙周為杜軫之師。"
         }
       ],
       "exclusions": [
