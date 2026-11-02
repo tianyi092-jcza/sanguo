@@ -106525,6 +106525,22 @@
         "生平與事蹟：馬岱為馬超從弟，馬超臨沒託以宗祀之繼，岱位至平北將軍、進爵陳倉侯；楊儀遣馬岱追斬魏延、致首於儀；《晉書·宣帝紀》載蜀將馬岱入寇、魏軍斬千餘級（sidneyluo 本與四庫本兩本皆已摘錄）。除此之外，本傳他傳無岱獨立事蹟與生卒年確載，不硬補。",
         "勢力階段與辨人：岱終身在蜀漢陣營，與馬超、魏延、楊儀嚴格分開，不串人；《晉書》卷一百十七載記段 18 的後秦尚書郎馬岱（姚興時）為同名異人，已排除。向量檢索未見《後漢書》《華陽國志》本人相關段。"
       ]
+    },
+    {
+      "id": "p0188",
+      "name": "霍弋",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
