@@ -104948,6 +104948,24 @@
           "from": "昔姜維有斷隴右之志，艾脩治備守，積糓彊兵。",
           "through": "故落門、段谷之戰，以少擊多，摧破彊賊。",
           "citation": "《三國志·魏書二十八·鄧艾傳》"
+        },
+        {
+          "id": "jw-zhonghui-haohe-xiangjiang",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 46,
+          "from": "維等聞瞻已破，率其衆東入于巴",
+          "through": "便從東道詣會降。",
+          "citation": "《三國志·魏書二十八·鍾會傳》"
+        },
+        {
+          "id": "jw-dongjue-wei-changzhengfa",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 28,
+          "from": "自瞻、厥、建統事，姜維常征伐在外",
+          "through": "咸共將護，無能匡矯",
+          "citation": "《三國志·蜀書五·諸葛亮傳附董厥傳》"
         }
       ],
       "exclusions": [
@@ -105004,6 +105022,15 @@
           "term": "姜維",
           "quote": "姜維自一時雄兒也，與某相值，故窮耳。",
           "reason": "段落主述鄧艾入成都受劉禪降、承制拜官、築京觀及自矜之言，姜維僅在艾「姜維自一時雄兒也」自誇句中作比較對象，無其本人言行事蹟，排除。"
+        },
+        {
+          "id": "jw-excl-zhonghui-xishu-boyue",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 45,
+          "term": "姜伯約",
+          "quote": "姜伯約屢出隴右，勞動我邊境，侵擾我氐、羌",
+          "reason": "鍾會傳檄蜀勸降文，歷數蜀方用兵背景時提及姜維屢出隴右及段谷、侯和之敗，無其本人具體言行事蹟，僅為勸降修辭背景，排除。"
         }
       ],
       "conclusions": [],
