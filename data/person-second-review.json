@@ -102121,6 +102121,36 @@
           "through": "璋一無所納",
           "citation": "《三國志·蜀書一·劉二牧傳》",
           "note": "劉璋欲迎劉備入蜀時，其主簿黃權陳說利害以諫，璋不納。"
+        },
+        {
+          "id": "hq-sg-xianzhu-shouren",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "及董和、黃權、李嚴等本璋之所授用也",
+          "through": "皆處之顯任，盡其器能。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "建安十九年先主得蜀後，黃權等原劉璋所授用者皆處顯任、盡其器能。"
+        },
+        {
+          "id": "hq-sg-xianzhu-yingzhanglu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 15,
+          "from": "遣黃權將兵迎張魯",
+          "through": "張魯已降曹公。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "建安二十年先主遣黃權將兵迎張魯，然張魯已降曹公。"
+        },
+        {
+          "id": "hq-sg-xianzhu-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 20,
+          "from": "偏將軍張裔 ‧ 黃權",
+          "through": "願大王應天順民，速即洪業，以寧海內。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "章武元年先主稱帝前，黃權以偏將軍與群臣上言勸進。"
         }
       ],
       "exclusions": [],
