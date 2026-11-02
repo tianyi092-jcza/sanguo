@@ -104750,6 +104750,24 @@
           "from": "大將軍姜維雖班在祗上",
           "through": "權重於維。",
           "citation": "《三國志·蜀書九·董劉馬陳董呂傳第九·陳祗傳》"
+        },
+        {
+          "id": "jw-sg-jianxing-liu-guishu",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 14,
+          "from": "建興六年，丞相諸葛亮軍向祁山",
+          "through": "維等乃俱詣諸葛亮。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四·姜維傳》"
+        },
+        {
+          "id": "jw-sg-yanxi-shiba-didao-wangjing",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 6,
+          "from": "維至狄道，大破魏雍州刺史王經",
+          "through": "維竟圍經於狄道，城不能克。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·張翼傳》"
         }
       ],
       "exclusions": [
@@ -104761,6 +104779,15 @@
           "term": "姜維",
           "quote": "而況姜維邪",
           "reason": "段落主角為後主劉禪東遷洛陽後的軼事，姜維僅在司馬文王「雖使諸葛亮在，不能輔之乆全，而況姜維邪」的反詰比較中出現，無姜維本人言行事蹟，排除。"
+        },
+        {
+          "id": "jw-excl-liping-biao-lianming",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "term": "姜維",
+          "quote": "行護軍征南將軍當陽亭侯臣姜維",
+          "reason": "段落為諸葛亮上表廢李平，姜維僅以聯署臣名列名，無本人言行事蹟，排除。"
         }
       ],
       "conclusions": [],
