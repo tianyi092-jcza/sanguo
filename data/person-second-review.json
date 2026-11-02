@@ -104170,6 +104170,33 @@
           "from": "費禕甚異之",
           "through": "故超繼允內侍。",
           "citation": "《三國志·蜀書九·董劉馬陳董呂傳》"
+        },
+        {
+          "id": "fy-sg-liyan-feiyi-lianming",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 18,
+          "from": "行中護軍偏將軍臣費禕",
+          "through": "行前護軍偏將軍漢成亭侯臣許允",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳》"
+        },
+        {
+          "id": "fy-sg-weiyan-tan-yi",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 25,
+          "from": "儀令禕往揣延意指",
+          "through": "禕出門馳馬而去",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳》"
+        },
+        {
+          "id": "fy-sg-yangyi-mi-biao",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 28,
+          "from": "惟後軍師費禕往慰省之",
+          "through": "禕密表其言。",
+          "citation": "《三國志·蜀書十·劉彭廖李劉魏楊傳》"
         }
       ],
       "exclusions": [],
