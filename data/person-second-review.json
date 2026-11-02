@@ -104867,6 +104867,15 @@
           "from": "大將軍姜維表後主求遣左右車騎張翼",
           "through": "群臣不知",
           "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-sg-guoxiu-kouchao",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 23,
+          "from": "乃者蜀將姜維寇鈔脩郡",
+          "through": "為所執略。",
+          "citation": "《三國志·魏書四·三少帝紀》"
         }
       ],
       "exclusions": [
@@ -104896,6 +104905,24 @@
           "term": "姜維",
           "quote": "蜀丞相亮及魏延姜維等多從此出秦川",
           "reason": "段落主述武都郡沿革與氐傁遷徙，姜維僅與諸葛亮、魏延並列於「多從此出秦川」一句，無其具體言行事蹟，排除。"
+        },
+        {
+          "id": "jw-excl-huayang-liuyin-congzheng",
+          "work": "huayang",
+          "source": "a06-011",
+          "paragraph": 8,
+          "term": "姜維",
+          "quote": "姜維征伐臨事設計當敵䧟陣勇畧冠軍",
+          "reason": "段落主角為柳隱，姜維僅在柳隱「數從大將軍姜維征伐」一句中作為從征背景出現，無姜維本人具體言行事蹟，排除。"
+        },
+        {
+          "id": "jw-excl-sg-feidi-koulongyou",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 26,
+          "term": "姜維",
+          "quote": "此秋，姜維寇隴右。",
+          "reason": "段落主述司馬景王謀廢齊王芳及許允謀殺司馬文王事，姜維僅在「世語及魏氏春秋並云」所引一句中作為背景提及，無其具體言行事蹟，排除。"
         }
       ],
       "conclusions": [],
