@@ -100729,6 +100729,24 @@
           "from": "越騎惟忠",
           "through": "念公忘私。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳·贊楊季休》"
+        },
+        {
+          "id": "yhong-hy-001",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 16,
+          "from": "二十三年先主急書發兵",
+          "through": "後遂即真",
+          "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "yhong-hy-002",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 20,
+          "from": "治中楊洪",
+          "through": "等上河洛符驗",
+          "citation": "《華陽國志》卷六·四部叢刊本"
         }
       ],
       "exclusions": [
@@ -100740,6 +100758,15 @@
           "term": "楊洪",
           "quote": "楊洪傳",
           "reason": "此段僅為《蜀書十一》楊洪傳篇目標題，無史實敘述；本傳正文在 a04-041:13，留待後續摘錄，不另立條目。"
+        },
+        {
+          "id": "yhong-excl-002",
+          "work": "huayang",
+          "source": "a06-003",
+          "paragraph": 18,
+          "term": "楊洪",
+          "quote": "為楊洪皆見詠懐",
+          "reason": "此段為《華陽國志》卷三蜀志成都縣敘述，僅在列舉中提及楊洪見詠懷，無楊洪具體事蹟，不另立條目。"
         }
       ],
       "conclusions": [],
