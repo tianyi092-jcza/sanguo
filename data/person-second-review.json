@@ -105982,6 +105982,33 @@
           "from": "先主定益州，拜為議郎",
           "through": "遷大司農。",
           "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
+        },
+        {
+          "id": "mg-sg-tao-shu-haoxue",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 14,
+          "from": "靈帝末為講部吏",
+          "through": "光常譊譊讙咋。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
+        },
+        {
+          "id": "mg-sg-zhizhai-weidai-xian",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 14,
+          "from": "光之指摘痛癢",
+          "through": "為代所嫌。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
+        },
+        {
+          "id": "mg-sg-nianzi-hou-ju-you",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 14,
+          "from": "年資皆在光後",
+          "through": "蓋以此也。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
         }
       ],
       "exclusions": [
