@@ -105537,6 +105537,33 @@
           "from": "蜀車騎將軍鄧芝征涪陵，見玄猿緣山，手射中之。",
           "through": "俄而卒，此射妖也。",
           "citation": "《晉書·卷二十九·志第十九》"
+        },
+        {
+          "id": "dz-hygz-yanxi13-xuju",
+          "work": "huayang",
+          "source": "a06-001",
+          "paragraph": 24,
+          "from": "延熈十三年大姓徐巨反車騎將軍鄧芝討平\n之",
+          "through": "乃移其豪徐藺謝范五千家於蜀為獵射官",
+          "citation": "《華陽國志》卷一·四部叢刊本"
+        },
+        {
+          "id": "dz-hygz-zhongyan-deyang",
+          "work": "huayang",
+          "source": "a06-003",
+          "paragraph": 24,
+          "from": "車騎將軍鄧芝雅有終焉\n之思",
+          "through": "後遂葬其山",
+          "citation": "《華陽國志》卷三·四部叢刊本"
+        },
+        {
+          "id": "dz-hygz-shiwu-wu-heqin",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 1,
+          "from": "芝對曰呉蜀二國之地呉有\n三江之阻蜀有重險之固",
+          "through": "退可鼎\n足而峙",
+          "citation": "《華陽國志》卷七·四部叢刊本"
         }
       ],
       "exclusions": [
