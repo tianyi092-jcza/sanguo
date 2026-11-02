@@ -105465,6 +105465,33 @@
           "from": "諸葛亮遣鄧芝使吳",
           "through": "故許芝遣裔",
           "citation": "《三國志·蜀書十一·霍王向張楊費傳第十一 張裔傳》"
+        },
+        {
+          "id": "dz-sg-yanxi7-dong",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 18,
+          "from": "是時，鄧芝在東",
+          "through": "咸著名迹。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳第十三 王平傳》"
+        },
+        {
+          "id": "dz-sg-zaonian-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 1,
+          "from": "鄧芝字伯苗",
+          "through": "入為尚書。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五 鄧芝傳》"
+        },
+        {
+          "id": "dz-sg-xiuhao-wu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 2,
+          "from": "乃遣芝脩好於權",
+          "through": "遣張溫報聘於蜀。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五 鄧芝傳》"
         }
       ],
       "exclusions": [],
