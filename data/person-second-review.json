@@ -105411,7 +105411,35 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "dz-sg-jianxing1-shiwu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 2,
+          "from": "遣尚書郎鄧芝固好於吳",
+          "through": "吳王孫權與蜀和親使聘，是歲通好。",
+          "citation": "《三國志·蜀書三·後主傳第三 後主傳》"
+        },
+        {
+          "id": "dz-sg-jianxing11-fuling",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 27,
+          "from": "秋，涪陵屬國民夷反",
+          "through": "車騎將軍鄧芝往討，皆破平之。",
+          "citation": "《三國志·蜀書三·後主傳第三 後主傳》"
+        },
+        {
+          "id": "dz-sg-jianxing6-jigu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 11,
+          "from": "使趙雲、鄧芝為疑軍",
+          "through": "據箕谷",
+          "citation": "《三國志·蜀書五·諸葛亮傳第五 諸葛亮傳》"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
