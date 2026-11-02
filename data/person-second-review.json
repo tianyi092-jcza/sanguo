@@ -103655,6 +103655,36 @@
           "through": "知居府事",
           "citation": "《華陽國志·卷七·劉後主志》",
           "note": "亮出屯漢中前，張裔為留府長史，蔣琬以參軍與知居府事。"
+        },
+        {
+          "id": "jw-hygz-lifeng-jiangwan-zhifu",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 10,
+          "from": "中郎與長史蔣琬共知居府事",
+          "through": "共知居府事",
+          "citation": "《華陽國志·卷七·劉後主志》",
+          "note": "亮廢李平為民、徙梓潼，奪其子李豐兵以為從事中郎，與長史蔣琬共知居府事；時費禕為司馬。此與亮出屯前蔣琬以參軍知居府事（a06-007:6）為兩事，不可混同。"
+        },
+        {
+          "id": "jw-hygz-bao-yangyi-yiyan",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 11,
+          "from": "留府長史蔣琬侍中董允保楊儀疑延",
+          "through": "疑延",
+          "citation": "《華陽國志·卷七·劉後主志》",
+          "note": "亮卒後魏延與楊儀相爭，留府長史蔣琬與侍中董允保楊儀、疑延為逆；後楊儀遣馬岱討滅延。"
+        },
+        {
+          "id": "jw-hygz-liang-mibiao-jiangwan-dai",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 12,
+          "from": "蔣琬代臣扵是以琬爲尚書令揔統國事",
+          "through": "揔統國事",
+          "citation": "《華陽國志·卷七·劉後主志》",
+          "note": "亮密表後主：若己不幸，可以蔣琬代臣；亮卒後遂以琬為尚書令，總統國事。"
         }
       ],
       "exclusions": [
