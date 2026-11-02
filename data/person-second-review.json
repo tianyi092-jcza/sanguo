@@ -102151,6 +102151,36 @@
           "through": "願大王應天順民，速即洪業，以寧海內。",
           "citation": "《三國志·蜀書二·先主傳》",
           "note": "章武元年先主稱帝前，黃權以偏將軍與群臣上言勸進。"
+        },
+        {
+          "id": "hq-sg-xianzhu-yiling-dujiangbei",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 23,
+          "from": "鎮北將軍黃權督江北諸軍",
+          "through": "與吳軍相拒於夷陵道。",
+          "citation": "《三國志·蜀書二·先主傳》",
+          "note": "章武二年夷陵之戰，黃權以鎮北將軍督江北諸軍，與吳軍相拒於夷陵道。"
+        },
+        {
+          "id": "hq-sg-benqi-bicheng",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 1,
+          "from": "權閉城堅守",
+          "through": "先主假權偏將軍。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·黃權傳》",
+          "note": "先主襲取益州時，黃權閉城堅守，待劉璋稽服乃詣降，先主假以偏將軍。"
+        },
+        {
+          "id": "hq-sg-benqi-yiling-jiangwei",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 2,
+          "from": "先主不從，以權為鎮北將軍",
+          "through": "待之如初。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·黃權傳》",
+          "note": "東伐吳前黃權請為先驅而先主不從，以權為鎮北將軍督江北軍；夷陵敗後道隔不得還，率所領降魏，先主拒收其妻子，謂「孤負黃權，權不負孤也」。"
         }
       ],
       "exclusions": [],
