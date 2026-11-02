@@ -104876,6 +104876,33 @@
           "from": "乃者蜀將姜維寇鈔脩郡",
           "through": "為所執略。",
           "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "jw-sg-koudidao-taoxi",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 33,
+          "from": "八月辛亥，蜀大將軍姜維寇狄道",
+          "through": "姜維退還。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "jw-sg-shanggui-dengai-powei",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 41,
+          "from": "安西將軍鄧艾大破蜀大將姜維於上邽",
+          "through": "稱朕意焉。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "jw-sg-zhao-luoquwei-fashu",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 73,
+          "from": "蜀，蕞爾小國，土狹民寡",
+          "through": "又命鎮西將軍鍾會由駱谷伐蜀。",
+          "citation": "《三國志·魏書四·三少帝紀》"
         }
       ],
       "exclusions": [
