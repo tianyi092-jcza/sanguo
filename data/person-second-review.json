@@ -104062,6 +104062,33 @@
           "from": "四年冬十月，尚書令費禕至漢中",
           "through": "歲盡還。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "fy-sg-ren-dajiangjun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 22,
+          "from": "十一月，大赦",
+          "through": "以尚書令費禕為大將軍。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "fy-sg-xingshi-jiuyuan",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 23,
+          "from": "七年閏月，魏大將軍曹爽、夏侯玄等向漢中",
+          "through": "魏軍退。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "fy-sg-hanzhong-xingweishou",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 24,
+          "from": "十二月，大將軍費禕至漢中",
+          "through": "行圍守。",
+          "citation": "《三國志·蜀書三·後主傳》"
         }
       ],
       "exclusions": [],
