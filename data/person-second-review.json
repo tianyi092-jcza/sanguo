@@ -105650,8 +105650,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "zy-sg-yanxi14-fanjian",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 28,
+          "from": "權問諸葛恪曰",
+          "through": "而雅性過之。",
+          "citation": "《三國志·蜀書五·諸葛亮傳第五 諸葛亮傳》"
+        },
+        {
+          "id": "zy-sg-shiwu-wu-kangzhi",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 8,
+          "from": "預將命使吳",
+          "through": "見敬亞於鄧芝、費禕。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·宗預傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zy-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 7,
+          "term": "宗預",
+          "quote": "宗預傳",
+          "reason": "僅為本傳篇題，無史事內容，不作摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
