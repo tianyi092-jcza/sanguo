@@ -104543,7 +104543,35 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "jw-sg-didao-tui",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 22,
+          "from": "漢晉春秋曰：是時姜維亦出圍狄道。",
+          "through": "姜維聞淮進兵，軍食少，乃退屯隴西界。",
+          "citation": "《三國志·魏書四·三少帝紀》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "jw-sg-taoyang-houhe",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 71,
+          "from": "冬十月，蜀大將姜維寇洮陽",
+          "through": "維遁走。",
+          "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "jw-sg-weichi-tui",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 32,
+          "from": "淮策維必來攻霸",
+          "through": "維遁退。",
+          "citation": "《三國志·魏書二十六·郭淮傳》"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
