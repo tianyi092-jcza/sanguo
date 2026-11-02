@@ -105955,6 +105955,33 @@
           "from": "秋大赦司農孟光",
           "through": "禕但顧謝焉",
           "citation": "《華陽國志》卷七·四部叢刊本（孟光眾責費禕數赦）"
+        },
+        {
+          "id": "mg-hygz-liangzhi-zhibing",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 20,
+          "from": "孟光亮直著聞皆良幹也",
+          "through": "但光好指擿利病",
+          "citation": "《華陽國志》卷七·四部叢刊本（孟光亮直著聞、好指擿利病）"
+        },
+        {
+          "id": "mg-hygz-feijiang-qichi",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 49,
+          "from": "時費姜秉政孟光來敏皆棲",
+          "through": "遲承以和獨立特進之也",
+          "citation": "《華陽國志》卷十·四部叢刊本（費姜秉政時孟光來敏棲遲）"
+        },
+        {
+          "id": "mg-sg-yizhou-yilang",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 14,
+          "from": "先主定益州，拜為議郎",
+          "through": "遷大司農。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
         }
       ],
       "exclusions": [
