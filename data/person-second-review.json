@@ -104768,6 +104768,33 @@
           "from": "維至狄道，大破魏雍州刺史王經",
           "through": "維竟圍經於狄道，城不能克。",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·張翼傳》"
+        },
+        {
+          "id": "jw-sg-jingyao5-liaohua-pingwei",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 9,
+          "from": "漢晉春秋曰：景耀五年，姜維率衆出狄道，廖化曰",
+          "through": "今日之事也。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·廖化傳》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "jw-sg-yanxi20-mangshui-yangxi-mian",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 12,
+          "from": "延熈二十年，隨大將軍姜維出軍至芒水。",
+          "through": "軍還，有司承旨奏戲，免為庶人。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
+        },
+        {
+          "id": "jw-js-wuzhangyuan-xinpi-pan",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 12,
+          "from": "蜀將姜維聞毗來，謂亮曰",
+          "through": "賊不復出矣。",
+          "citation": "《晉書·卷一·帝紀第一·宣帝紀》"
         }
       ],
       "exclusions": [
