@@ -104440,6 +104440,33 @@
           "from": "亮以初從南歸，以禕為昭信校尉使吳",
           "through": "終不能屈。",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳》"
+        },
+        {
+          "id": "fy-sg-xingshi-laimin-weiqi",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 12,
+          "from": "延熈七年，魏軍次于興勢，假禕節，率衆往禦之。",
+          "through": "禕至，敵遂退，封成鄉侯。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳》"
+        },
+        {
+          "id": "fy-sg-hanzhong-kaifu",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 12,
+          "from": "十一年，出住漢中。",
+          "through": "延熈十五年，命禕開府。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳》"
+        },
+        {
+          "id": "fy-sg-yanxi16-guoxun-cisha",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 12,
+          "from": "十六年歲首大會，魏降人郭循在坐。",
+          "through": "為循手刃所害，謚曰敬侯。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳》"
         }
       ],
       "exclusions": [
