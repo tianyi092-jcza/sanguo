@@ -103427,7 +103427,35 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "jw-sg-houzhu-shangshuling",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 13,
+          "from": "以丞相留府長史蔣琬為尚書令",
+          "through": "總統國事。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-jin-dajiangjun",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 14,
+          "from": "夏四月，進蔣琬位為大將軍。",
+          "through": "夏四月，進蔣琬位為大將軍。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi-tunhanzhong",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 17,
+          "from": "冬十一月，大將軍蔣琬出屯漢中。",
+          "through": "冬十一月，大將軍蔣琬出屯漢中。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
