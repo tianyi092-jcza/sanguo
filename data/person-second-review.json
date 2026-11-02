@@ -101861,8 +101861,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "xz-sg-houzhu-fenghou",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 43,
+          "from": "尚書令樊建、侍中張紹、",
+          "through": "並封列侯。",
+          "citation": "《三國志·蜀書三·後主傳》",
+          "note": "後主舉家東遷至洛陽、受封安樂縣公後，時任祕書令的郤正與樊建、張紹、譙周、張通並封列侯。"
+        },
+        {
+          "id": "xz-sg-houzhu-jiaozhan",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 43,
+          "from": "郤正聞之，求見禪曰：",
+          "through": "左右皆笑。",
+          "citation": "《三國志·蜀書三·後主傳》裴注引《漢晉春秋》",
+          "note": "司馬文王問後主頗思蜀否、後主答此間樂不思蜀後，郤正教後主再問時應泣答先人墳墓遠在隴蜀、無日不思並閉目；後主照此回答，文王識破為郤正之語。此為裴注所引《漢晉春秋》，非正文，與上條封侯正文分層摘錄。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "xz-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 1,
+          "term": "郤正",
+          "quote": "儉，郤正祖也。",
+          "reason": "此句僅說明益州刺史郤儉為郤正之祖，主角為祖父郤儉賦斂煩擾事，非郤正本人事蹟；郤正二字在此為郤儉與郤正的親屬關係標記，故不立為本人摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
