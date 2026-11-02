@@ -101583,6 +101583,36 @@
           "through": "軫師事譙周，博涉經書。",
           "citation": "《晉書》卷九十·杜軫傳",
           "note": "杜軫師事譙周，博涉經書。見譙周門人之一，蜀地經學傳承。"
+        },
+        {
+          "id": "qz-jin-wenli-qiaozhou-shishi",
+          "work": "jinshu",
+          "source": "a05-091-ahcb",
+          "paragraph": 4,
+          "from": "蜀時游太學，專毛詩、三禮，師事譙周，門人以立爲顏回，陳壽、李虔爲游夏，羅憲爲子貢。",
+          "through": "蜀時游太學，專毛詩、三禮，師事譙周，門人以立爲顏回，陳壽、李虔爲游夏，羅憲爲子貢。",
+          "citation": "《晉書》卷九十一·文立傳",
+          "note": "文立蜀時游太學，師事譙周，門人以立為顏回。見譙周門人之一，蜀地經學傳承。"
+        },
+        {
+          "id": "qz-jin-luchao-yin-qiaozhou-quanjiang",
+          "work": "jinshu",
+          "source": "a05-122-ahcb",
+          "paragraph": 40,
+          "from": "孫權屈身於魏，譙周勸主迎降，豈非大丈夫哉？",
+          "through": "孫權屈身於魏，譙周勸主迎降，豈非大丈夫哉？",
+          "citation": "《晉書》卷一百二十二·呂光載記",
+          "note": "後涼呂超諫呂隆時引譙周勸後主迎降事為喻，謂勢屈而降乃大丈夫之舉。此為後世引述，非當時記錄，僅見譙周勸降之名。"
+        },
+        {
+          "id": "hy-liuhouzhu-qiaozhou-chouguolun",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 25,
+          "from": "太中大夫譙周者著",
+          "through": "仇國論言可爲文王難爲漢祖人莫察焉",
+          "citation": "《華陽國志·卷七·劉後主志》",
+          "note": "蜀漢末年，太中大夫譙周著《仇國論》，言可為文王、難為漢祖，人莫察焉。見譙周晚年著述及其對時局之論。"
         }
       ],
       "exclusions": [
