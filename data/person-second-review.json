@@ -104840,6 +104840,33 @@
           "from": "遷姜維護軍",
           "through": "征西將軍",
           "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-yanxi2-xizheng-qiangzhong",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 16,
+          "from": "是歲西征入羗中",
+          "through": "魏眀帝崩",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-yanxi19-shanggui-zibian",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 24,
+          "from": "秋八月維復出天水至上邽",
+          "through": "以維爲後将軍行大将軍",
+          "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "jw-huayang-jingyao6-biao-fenhuguan",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 28,
+          "from": "大將軍姜維表後主求遣左右車騎張翼",
+          "through": "群臣不知",
+          "citation": "《華陽國志》卷七·劉後主志"
         }
       ],
       "exclusions": [
