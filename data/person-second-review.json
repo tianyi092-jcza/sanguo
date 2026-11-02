@@ -105519,9 +105519,37 @@
           "from": "冬十一月，蜀使中郎將鄧芝來聘。",
           "through": "冬十一月，蜀使中郎將鄧芝來聘。",
           "citation": "《三國志·吳書二·吳主傳第二 吳主傳》"
+        },
+        {
+          "id": "dz-sg-huangwu3-laipin-chongjie",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 22,
+          "from": "吳錄曰：是歲蜀主又遣鄧芝來聘，重結盟好。",
+          "through": "復有他圖。",
+          "citation": "《三國志·吳書二·吳主傳第二 吳主傳》"
+        },
+        {
+          "id": "dz-js-sheyuan-zhisi",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 190,
+          "from": "蜀車騎將軍鄧芝征涪陵，見玄猿緣山，手射中之。",
+          "through": "俄而卒，此射妖也。",
+          "citation": "《晉書·卷二十九·志第十九》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "dz-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 0,
+          "term": "鄧芝",
+          "quote": "鄧芝傳",
+          "reason": "僅為本傳篇題，無史事內容，不作摘錄。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
