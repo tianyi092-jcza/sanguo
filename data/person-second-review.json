@@ -103481,6 +103481,33 @@
           "from": "六年冬十月，大司馬蔣琬自漢中還，住涪。",
           "through": "六年冬十月，大司馬蔣琬自漢中還，住涪。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi9-zu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 25,
+          "from": "冬十一月，大司馬蔣琬卒。",
+          "through": "冬十一月，大司馬蔣琬卒。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-zhaoyun-jian-shi",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 24,
+          "from": "後主時，諸葛亮功德蓋世，蔣琬、費禕荷國之重，亦見謚；",
+          "through": "後主時，諸葛亮功德蓋世，蔣琬、費禕荷國之重，亦見謚；",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六 趙雲傳》"
+        },
+        {
+          "id": "jw-sg-masu-jian-liang",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 11,
+          "from": "蔣琬後詣漢中，謂亮曰：「昔楚殺得臣，然後文公喜可知也。天下未定而戮智計之士，豈不惜乎！」",
+          "through": "蔣琬後詣漢中，謂亮曰：「昔楚殺得臣，然後文公喜可知也。天下未定而戮智計之士，豈不惜乎！」",
+          "citation": "《三國志·蜀書九·董劉馬陳董呂傳第九 馬謖傳》"
         }
       ],
       "exclusions": [],
