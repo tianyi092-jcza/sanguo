@@ -104314,6 +104314,33 @@
           "from": "先是，吳王孫權請和",
           "through": "先主累遣宋瑋、費禕等與相報荅",
           "citation": "《三國志·蜀書十五·鄧張宗楊傳·鄧芝傳》"
+        },
+        {
+          "id": "fy-sg-xuecong-jiangbiao-chaonan",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 17,
+          "from": "江表傳曰：費禕聘于吳",
+          "through": "與本傳不同。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳·薛綜傳》"
+        },
+        {
+          "id": "fy-sg-zhugeke-biezhuan-maifu",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 2,
+          "from": "恪別傳曰：權甞饗蜀使費禕",
+          "through": "咸稱善焉。",
+          "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·諸葛恪傳》"
+        },
+        {
+          "id": "fy-sg-zhugeke-ping-weiqi",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 17,
+          "from": "費禕時為元帥，荷國任重",
+          "through": "卒為降人郭脩所害",
+          "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·諸葛恪傳》"
         }
       ],
       "exclusions": [
