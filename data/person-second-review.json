@@ -101393,6 +101393,36 @@
           "through": "譙周後改定以為禮儀志",
           "citation": "《後漢書·志第四·禮儀上》",
           "note": "據謝沈書引述：胡廣立漢制度，蔡邕依以為志，譙周後改定以為禮儀志；此為譙周治禮學之傳述。"
+        },
+        {
+          "id": "hhs-liyi-qiaozhou-wujing-ranfou-sanlao",
+          "work": "houhanshu",
+          "source": "a03-094",
+          "paragraph": 12,
+          "from": "譙周五經然否曰",
+          "through": "是皆不得視猶子也。",
+          "citation": "《後漢書·志第四·禮儀上》",
+          "note": "養三老五更段引譙周《五經然否》：漢初或云三老答天子拜，董鈞以「教事父之道」駁之而詔從鈞議；譙周論以尸服上服猶答子拜、士見異國君亦答拜，皆不得視猶子。此為譙周禮學論述之傳述。"
+        },
+        {
+          "id": "hhs-liyi-qiaozhou-lunyu-nuo",
+          "work": "houhanshu",
+          "source": "a03-095",
+          "paragraph": 16,
+          "from": "譙周論語注曰：「儺",
+          "through": "却之也。",
+          "citation": "《後漢書·志第五·禮儀中》",
+          "note": "大儺段引譙周《論語注》釋「儺」為却，即逐疫之義；此為譙周經注被後漢書禮儀志徵引之例。"
+        },
+        {
+          "id": "hhs-wuxing-qiaozhou-shuzhi-jianwu-zaiyi",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 1,
+          "from": "散騎常侍譙周蜀志曰",
+          "through": "並撰建武以來災異。",
+          "citation": "《後漢書·志第十三·五行一》",
+          "note": "五行志序引《蜀志》譙周小傳：字允南，巴西西充國人，治尚書兼通諸經及圖緯，州郡辟請皆不應，耽古篤學，蜀亡魏徵不至；並撰建武以來災異，合論以續前志。"
         }
       ],
       "exclusions": [],
