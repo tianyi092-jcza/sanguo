@@ -105870,6 +105870,53 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0180",
+      "name": "孟光",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "mg-sg-xianzhu-liyi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 21,
+          "from": "臣等謹與博士許慈、議郎孟光建立禮儀",
+          "through": "上尊號。",
+          "citation": "《三國志·蜀書二·先主傳第二》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "mg-hhs-lianghong-wife",
+          "work": "houhanshu",
+          "source": "a03-083",
+          "paragraph": 25,
+          "term": "孟光",
+          "quote": "字之曰德曜，名孟光。",
+          "citation": "《後漢書·逸民列傳第七十三·梁鴻傳》",
+          "reason": "此孟光為東漢梁鴻之妻，與蜀漢議郎孟光同名異人，非本人史實，不錄。"
+        },
+        {
+          "id": "mg-hhs-yuanwei-mention",
+          "work": "houhanshu",
+          "source": "a03-084",
+          "paragraph": 29,
+          "term": "孟光",
+          "quote": "妾亦請從少君、孟光之事矣。",
+          "citation": "《後漢書·列女傳第七十四·袁隗妻》",
+          "reason": "此處孟光指梁鴻之妻少君、孟光之故事，為同名異人典故，非蜀漢孟光本人史實，不錄。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
