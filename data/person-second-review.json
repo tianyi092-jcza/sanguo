@@ -104624,6 +104624,33 @@
           "from": "五年春正月，監軍姜維督偏軍",
           "through": "自漢中還屯涪縣。",
           "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi-shinian",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 26,
+          "from": "十年，涼州胡王白虎文",
+          "through": "維往討，破平之。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi-shier-yongzhou",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 28,
+          "from": "秋，衞將軍姜維出攻雍州",
+          "through": "不克而還。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "jw-sg-yanxi-shisan-xiping",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 29,
+          "from": "十三年，姜維復出西平",
+          "through": "不克而還。",
+          "citation": "《三國志·蜀書三·後主傳》"
         }
       ],
       "exclusions": [],
