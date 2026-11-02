@@ -102061,7 +102061,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "hq-hhs-liuzhang-jian",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 10,
+          "from": "劉備有梟名，",
+          "through": "此非自安之道。",
+          "citation": "《後漢書·劉焉傳》",
+          "note": "劉璋欲迎劉備以拒曹操時，身為璋主簿的黃權諫阻：以部曲遇劉備則不滿其心，以賓客禮待則一國不容二主，非自安之道；璋不納。此為正文所載諫言，段中「蜀志曰」引文為注層，已分開不併入此條。"
+        },
+        {
+          "id": "hq-sg-wendi-jiangwei",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 23,
+          "from": "八月，蜀大將黃權率衆降。",
+          "through": "八月，蜀大將黃權率衆降。",
+          "citation": "《三國志·魏書二·文帝紀》",
+          "note": "夷陵之戰蜀軍敗後，黃權因道隔不得還蜀，率眾降魏；此為文帝紀正文，裴注引《魏書》詳述受降禮遇為注層，已分開不併入此條。"
+        },
+        {
+          "id": "hq-sg-shaodi-cheqi",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 2,
+          "from": "冬十月，以鎮南將軍黃權為車騎將軍。",
+          "through": "冬十月，以鎮南將軍黃權為車騎將軍。",
+          "citation": "《三國志·魏書四·三少帝紀》",
+          "note": "三少帝紀載黃權在魏由鎮南將軍遷為車騎將軍。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
