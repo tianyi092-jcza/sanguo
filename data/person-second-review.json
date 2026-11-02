@@ -104341,6 +104341,24 @@
           "from": "費禕時為元帥，荷國任重",
           "through": "卒為降人郭脩所害",
           "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·諸葛恪傳》"
+        },
+        {
+          "id": "fy-js-wendi-fashu-ahcb",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 18,
+          "from": "大將軍曹爽之伐蜀也，以帝爲征蜀將軍，副夏侯玄出駱谷，次于興勢。",
+          "through": "爽等引旋，禕果馳兵趣三嶺，爭險乃得過。",
+          "citation": "《晉書·卷二·文帝紀》"
+        },
+        {
+          "id": "fy-js-wendi-fashu",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 7,
+          "from": "大將軍曹爽之伐蜀也，以帝為征蜀將軍，副夏侯玄出駱谷，次于興勢。",
+          "through": "爽等引旋，禕果馳兵趣三嶺，爭險乃得過。",
+          "citation": "《晉書·卷二·文帝紀》"
         }
       ],
       "exclusions": [
@@ -104361,6 +104379,15 @@
           "term": "費禕",
           "quote": "見敬亞於鄧芝、費禕",
           "reason": "段落主角為宗預，費禕僅在孫權敬待次序與鄧芝驕傲的比較中出現，無費禕本人言行事蹟，排除。"
+        },
+        {
+          "id": "fy-excl-wenli-zisun",
+          "work": "jinshu",
+          "source": "a05-091-ahcb",
+          "paragraph": 4,
+          "term": "費禕",
+          "quote": "請以諸葛亮、蔣琬、費禕等子孫流徙中畿，宜見敘用",
+          "reason": "段落主角為文立，費禕僅在請敘用諸葛亮、蔣琬、費禕等子孫的名單中出現，無費禕本人言行事蹟，排除。"
         }
       ],
       "conclusions": [],
