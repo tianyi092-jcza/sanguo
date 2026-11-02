@@ -105798,6 +105798,33 @@
           "from": "東曹掾楊戲素性簡略",
           "through": "是戲之快也。",
           "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四·蔣琬傳》"
+        },
+        {
+          "id": "yx-sg-bio-zaonian",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 12,
+          "from": "楊戲字文然，犍為武陽人也。",
+          "through": "府辟為屬主簿。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
+        },
+        {
+          "id": "yx-sg-bio-wanqi",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 12,
+          "from": "亮卒，為尚書右選部郎",
+          "through": "後景耀四年卒。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
+        },
+        {
+          "id": "yx-sg-ping-shanglue",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 53,
+          "from": "楊戲商略，意在不羣",
+          "through": "殆罹世難云。",
+          "citation": "《三國志·蜀書十五·鄧張宗楊傳第十五·楊戲傳》"
         }
       ],
       "exclusions": [],
