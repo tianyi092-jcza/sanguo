@@ -104903,6 +104903,33 @@
           "from": "蜀，蕞爾小國，土狹民寡",
           "through": "又命鎮西將軍鍾會由駱谷伐蜀。",
           "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "jw-sg-qushan-ercheng",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 12,
+          "from": "蜀大將軍姜維率衆依麴山築二城",
+          "through": "維懼，遁走，安等孤縣，遂皆降。",
+          "citation": "《三國志·魏書二十二·陳泰傳》"
+        },
+        {
+          "id": "jw-sg-didao-sandao",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 13,
+          "from": "云姜維、夏侯霸欲三道向祁山、石營、金城",
+          "through": "維果三日施伏。",
+          "citation": "《三國志·魏書二十二·陳泰傳》"
+        },
+        {
+          "id": "jw-sg-taoshang-shanggui",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 27,
+          "from": "姜維因洮上之利，輕兵深入，糧餉不繼，軍覆上邽。",
+          "through": "姜維因洮上之利，輕兵深入，糧餉不繼，軍覆上邽。",
+          "citation": "《三國志·魏書二十七·王基傳》"
         }
       ],
       "exclusions": [
