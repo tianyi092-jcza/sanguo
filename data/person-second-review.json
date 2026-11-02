@@ -104377,6 +104377,24 @@
           "from": "奪平子豐兵以爲從事",
           "through": "時費禕爲司馬也",
           "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "fy-hy-yanyi-hejie",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 11,
+          "from": "護軍費禕",
+          "through": "終亮之世盡其器用",
+          "citation": "《華陽國志·劉後主志》"
+        },
+        {
+          "id": "fy-hy-feiyi-zhaoyan",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 12,
+          "from": "使費禕造延",
+          "through": "故欲討儀",
+          "citation": "《華陽國志·劉後主志》"
         }
       ],
       "exclusions": [
@@ -104406,6 +104424,15 @@
           "term": "費禕",
           "quote": "請以諸葛亮、蔣琬、費禕等子孫流徙中畿，宜見敘用",
           "reason": "段落主角為文立，費禕僅在請敘用諸葛亮、蔣琬、費禕等子孫的名單中出現，無費禕本人言行事蹟，排除。"
+        },
+        {
+          "id": "fy-excl-chushibiao-lieming",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 5,
+          "term": "費禕",
+          "quote": "侍中郭攸之費禕侍郎",
+          "reason": "段落為諸葛亮上疏（出師表）引文，費禕僅在侍中名單中列名，無本人言行事蹟，排除。"
         }
       ],
       "conclusions": [],
