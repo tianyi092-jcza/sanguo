@@ -106271,6 +106271,15 @@
           "from": "蜀記曰：羽初出軍圍樊，夢豬嚙其足，語子平曰：「吾今年衰矣，然不得還！」",
           "through": "蜀記曰：羽初出軍圍樊，夢豬嚙其足，語子平曰：「吾今年衰矣，然不得還！」",
           "citation": "《三國志·蜀書六·關張馬黃趙傳第六 關羽傳》"
+        },
+        {
+          "id": "gp-sg-yu-linju-ziping",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 5,
+          "from": "權遣將逆擊羽，斬羽及子平于臨沮。",
+          "through": "權遣將逆擊羽，斬羽及子平于臨沮。",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六 關羽傳》"
         }
       ],
       "exclusions": [
@@ -106293,6 +106302,26 @@
           "quote": "從入關平洛",
           "citation": "《晉書·卷八十二·列傳第五十二 孫盛傳》",
           "reason": "「從入關平洛」是隨桓溫入關、平定洛陽之省語，「關」為關中、「平」為平定，非人名關平；檢索單字誤觸，不錄。"
+        },
+        {
+          "id": "gp-sg-yu-pingyuan-feirenming",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 1,
+          "term": "關平",
+          "quote": "先主為平原相",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六 關羽傳》",
+          "reason": "「平原」為地名，「平」字誤觸，非人名關平；不錄。"
+        },
+        {
+          "id": "gp-sg-yu-pingxi-feirenming",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 16,
+          "term": "關平",
+          "quote": "以超為平西將軍",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳第六 關羽傳》",
+          "reason": "「平西將軍」為馬超官銜，「平」字誤觸，非人名關平；不錄。"
         }
       ],
       "unresolved": []
