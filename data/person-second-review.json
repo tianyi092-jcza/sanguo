@@ -101120,9 +101120,37 @@
           "from": "七年，越巂有男化為女子。",
           "through": "封于山陽。",
           "citation": "《後漢書·卷一百七·志第十七·五行五》"
+        },
+        {
+          "id": "zqun-sg-001",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 4,
+          "from": "周羣字仲直，巴西閬中人也。",
+          "through": "州牧劉璋，辟以為師友從事。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳·周羣傳》"
+        },
+        {
+          "id": "zqun-pei-001",
+          "work": "peizhu",
+          "source": "a04-042",
+          "paragraph": 4,
+          "from": "續漢書曰：建安七年，越嶲有男子化為女人，",
+          "through": "二十年秋，曹公攻漢中，張魯降。",
+          "citation": "裴注引《續漢書》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zqun-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 3,
+          "term": "周羣",
+          "quote": "周羣傳",
+          "reason": "此段僅為《蜀書十二》周羣傳篇目標題，無史實敘述；本傳正文在 a04-042:4，已另立摘錄，不另立條目。"
+        }
+      ],
       "unresolved": []
     }
   ]
