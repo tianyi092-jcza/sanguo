@@ -106181,6 +106181,52 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0182",
+      "name": "尹默",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "ym-sg-xianzhu-quanjin",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 20,
+          "from": "勸學從事張爽、尹默、譙周等上言",
+          "through": "願大王應天順民，速即洪業，以寧海內。」",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "ym-sg-ben-zhuan",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 19,
+          "from": "尹默字思潛，梓潼涪人也。",
+          "through": "子宗傳其業，為博士。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 尹默傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "ym-sg-title",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 18,
+          "term": "尹默",
+          "quote": "尹默傳",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 尹默傳》",
+          "reason": "此段僅為篇題「尹默傳」三字，無史實內容，不錄。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
