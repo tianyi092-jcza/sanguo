@@ -106108,6 +106108,33 @@
           "from": "好公羊春秋而譏呵左氏",
           "through": "每與來敏爭此二義",
           "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
+        },
+        {
+          "id": "lm-sg-rushu-binke",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 17,
+          "from": "漢末大亂，敏隨姊奔荊州",
+          "through": "坐事去職",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 來敏傳》"
+        },
+        {
+          "id": "lm-sg-feiyi-weiqi",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 12,
+          "from": "光祿大夫來敏至禕許別",
+          "through": "必能辨賊者也",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四 費禕傳》"
+        },
+        {
+          "id": "lm-sg-yuxi-weiqi",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 17,
+          "from": "費禕時為元帥，荷國任重，而與來敏圍碁，意無厭倦",
+          "through": "君必能辦賊者也",
+          "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳第十九 諸葛恪傳》"
         }
       ],
       "exclusions": [
