@@ -104597,6 +104597,33 @@
           "from": "甘露元年詔曰",
           "through": "鍾會攻維未能克。",
           "citation": "《三國志·魏書二十八·鄧艾傳》"
+        },
+        {
+          "id": "jw-sg-tazhong-jiange",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 43,
+          "from": "姜維自沓中還",
+          "through": "合守劒閣拒會",
+          "citation": "《三國志·魏書二十八·鍾會傳》"
+        },
+        {
+          "id": "jw-sg-chengdu-si",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 47,
+          "from": "姜維率會左右戰",
+          "through": "衆旣格斬維，爭赴殺會。",
+          "citation": "《三國志·魏書二十八·鍾會傳》"
+        },
+        {
+          "id": "jw-sg-yanxi-fu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 21,
+          "from": "五年春正月，監軍姜維督偏軍",
+          "through": "自漢中還屯涪縣。",
+          "citation": "《三國志·蜀書三·後主傳》"
         }
       ],
       "exclusions": [],
