@@ -105771,7 +105771,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yx-sg-fuchenzan-lifu",
+          "work": "sanguozhi",
+          "source": "a04-031",
+          "paragraph": 2,
+          "from": "益部耆舊雜記曰",
+          "through": "見犍為楊戲輔臣贊。",
+          "citation": "《三國志·蜀書一·劉二牧傳第一·劉焉傳》"
+        },
+        {
+          "id": "yx-sg-fuchenzan-xizhen",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 6,
+          "from": "襄陽記云",
+          "through": "禎事在楊戲輔臣贊。",
+          "citation": "《三國志·蜀書七·龐統法正傳第七·龐統傳》"
+        },
+        {
+          "id": "yx-sg-jiangwan-dongcao",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 4,
+          "from": "東曹掾楊戲素性簡略",
+          "through": "是戲之快也。",
+          "citation": "《三國志·蜀書十四·蔣琬費禕姜維傳第十四·蔣琬傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
