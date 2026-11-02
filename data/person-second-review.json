@@ -106801,8 +106801,41 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "quan-hhs-xunyu-ruxu",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 41,
+          "from": "孫權聞操來，夾水立塢，狀如偃月，以相拒，月餘乃退。",
+          "through": "孫權聞操來，夾水立塢，狀如偃月，以相拒，月餘乃退。",
+          "citation": "《後漢書·荀彧傳》引《吳錄》所載",
+          "context": "至濡須",
+          "note": "引《吳錄》之文：孫權聞曹操來，於濡須夾水立塢、狀如偃月以相拒，月餘曹操乃退。為孫權濡須拒曹之旁證；此句屬引文層，不與荀彧正文事合併。"
+        },
+        {
+          "id": "quan-hhs-liuzhang-jingzhou",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 11,
+          "from": "孫權破關羽，取荊州，以璋為益州牧，留住秭歸。",
+          "through": "孫權破關羽，取荊州，以璋為益州牧，留住秭歸。",
+          "citation": "《後漢書·劉焉傳附劉璋傳》引《蜀志》所載",
+          "context": "先主遷璋于公安南",
+          "note": "引《蜀志》之文：孫權破關羽、取荊州後，以劉璋為益州牧、留住秭歸。為孫權取荊州之旁證；此句屬引文層，不與劉備、劉璋正文事合併。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "quan-excl-001",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 3,
+          "term": "孫權",
+          "quote": "堅字文臺，吳郡富春人，即孫權之父也。",
+          "reason": "董卓傳正文記孫堅說周慎事；「孫權」僅以「即孫權之父也」作孫堅身份注出現，所記為孫堅事，非孫權本人事迹，排除；與父孫堅嚴格分開。"
+        }
+      ],
       "unresolved": []
     }
   ]
