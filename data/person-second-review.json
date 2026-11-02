@@ -105892,6 +105892,33 @@
           "from": "臣等謹與博士許慈、議郎孟光建立禮儀",
           "through": "上尊號。",
           "citation": "《三國志·蜀書二·先主傳第二》"
+        },
+        {
+          "id": "mg-sg-origin",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 14,
+          "from": "孟光字孝裕，河南洛陽人",
+          "through": "漢太尉孟郁之族。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
+        },
+        {
+          "id": "mg-sg-yanxi-zhiyan",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 14,
+          "from": "延熈九年秋，大赦",
+          "through": "禕但顧謝踧踖而已。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 孟光傳》"
+        },
+        {
+          "id": "mg-sg-xuci-dianwen",
+          "work": "sanguozhi",
+          "source": "a04-042",
+          "paragraph": 12,
+          "from": "慈、潛並為博士",
+          "through": "與孟光、來敏等典掌舊文。",
+          "citation": "《三國志·蜀書十二·杜周杜許孟來尹李譙郤傳第十二 許慈傳》"
         }
       ],
       "exclusions": [
