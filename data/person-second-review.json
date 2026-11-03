@@ -110813,7 +110813,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "hao-sg-yongan-feng-wuchenghou",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 13,
+          "from": "己丑，封孫皓為烏程侯，",
+          "through": "謙永安侯。",
+          "citation": "《三國志·吳書三·三嗣主傳·孫休傳》",
+          "note": "孫休傳正文：永安元年己丑，封孫皓為烏程侯，其弟德為錢唐侯、謙為永安侯；僅取封侯一句，段內休詔、襄陽記李衡事與江表傳立后事皆休或他人事，不併入。"
+        },
+        {
+          "id": "hao-sg-huali-huan",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 31,
+          "from": "三年春正月晦，皓舉大衆出華里，",
+          "through": "東觀令華覈等固爭，乃還。",
+          "citation": "《三國志·吳書三·三嗣主傳·孫皓傳》",
+          "note": "孫皓傳正文僅此句：皓舉大衆出華里，母及妃妾皆行，東觀令華覈等固爭乃還；其後江表傳、漢晉春秋、楚國先賢傳皆裴注，不併入。"
+        },
+        {
+          "id": "hao-sg-wangjun-shouxiang",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 46,
+          "from": "壬申，王濬最先到，於是受皓之降，",
+          "through": "延請相見。",
+          "citation": "《三國志·吳書三·三嗣主傳·孫皓傳》",
+          "note": "孫皓傳正文：王濬最先到建業，受皓之降，解縛焚櫬，延請相見；其後晉陽秋、搜神記、干寶晉紀、吳錄皆裴注，歸命侯詔等正文後段留待下輪分層補錄，不與裴注合併。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
