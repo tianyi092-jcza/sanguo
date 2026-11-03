@@ -107903,6 +107903,36 @@
           "through": "胡沖吳歷曰：帝以素書所著典論及詩賦餉孫權，又以紙寫一通與張昭。",
           "citation": "《三國志·魏書二·文帝紀》",
           "note": "裴注引胡沖《吳歷》：文帝以所著典論及詩賦餉孫權，又以紙寫一通與張昭；與正文太宗論條分層，勿合併。"
+        },
+        {
+          "id": "quan-sg-mingdi-jiangxia-quan",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 1,
+          "from": "八月，孫權攻江夏郡，太守文聘堅守。",
+          "through": "權退走。",
+          "citation": "《三國志·魏書三·明帝紀》",
+          "note": "孫權攻江夏，文聘堅守；明帝論權習水戰、攻守勢倍不敢久，荀禹發縣兵舉火，權退走。"
+        },
+        {
+          "id": "quan-sg-mingdi-xincheng-quan",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 22,
+          "from": "孫權入居巢湖口，向合肥新城，又遣將陸議、孫韶各將萬餘人入淮、沔。",
+          "through": "議、韶等亦退。",
+          "citation": "《三國志·魏書三·明帝紀》",
+          "note": "孫權入巢湖口向合肥新城，遣陸議、孫韶入淮、沔；明帝親御龍舟東征，帝軍未至權已遁走，議、韶等亦退。"
+        },
+        {
+          "id": "quan-sg-mingdi-gaogouli-quanshi",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 30,
+          "from": "高句驪王宮斬送孫權使胡衞等首，詣幽州。",
+          "through": "高句驪王宮斬送孫權使胡衞等首，詣幽州。",
+          "citation": "《三國志·魏書三·明帝紀》",
+          "note": "高句驪王宮斬孫權使者胡衞等人，送其首級至幽州；見權與高句驪通使之一端。"
         }
       ],
       "exclusions": [
