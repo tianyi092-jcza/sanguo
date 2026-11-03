@@ -109926,8 +109926,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "liang-sg-sansizhu-chiwu13-litaizi",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 1,
+          "from": "孫亮字子明，權少子也。",
+          "through": "赤烏十三年，和廢，權遂立亮為太子，以全氏為妃。",
+          "citation": "《三國志·吳書三·三嗣主傳·孫亮傳》",
+          "note": "孫亮傳正文開篇：亮字子明、權少子，赤烏十三年和廢後立為太子、以全氏為妃；整段皆亮本人事，全段取用。"
+        },
+        {
+          "id": "liang-sg-feibin-panfuren-shengliang",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 18,
+          "from": "得幸有娠，夢有似龍頭授己者，己以蔽膝受之，遂生孫亮。",
+          "through": "赤烏十三年，亮立為太子，請出嫁夫人之姊，權聽許之。",
+          "citation": "《三國志·吳書五·妃嬪傳·吳主權潘夫人》",
+          "note": "潘夫人傳正文：潘夫人得幸有娠、夢龍頭授己而生亮，赤烏十三年亮立為太子；僅取正文此兩句，段內吳錄曰袁夫人等裴注不併入。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "liang-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 12,
+          "term": "孫亮",
+          "quote": "四月，權薨，休弟亮承統，諸葛恪秉政，不欲諸王在濵江兵馬之地，徙休於丹楊郡。",
+          "reason": "本段為孫休傳，記休封琅邪王、徙丹楊及亮廢後迎休即位經過；亮僅以「休弟亮承統」交代權薨後繼統背景，非亮本人事迹，排除；與弟孫休嚴格分開。"
+        }
+      ],
       "unresolved": []
     }
   ]
