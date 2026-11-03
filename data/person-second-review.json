@@ -109093,6 +109093,36 @@
           "through": "夏四月，權羣臣勸即尊號，權不許。",
           "citation": "《三國志·吳書二·吳主傳》",
           "note": "吳主傳正文：黃武二年夏四月，權羣臣勸其即尊號，權不許。僅取正文此句，段內江表傳辭讓語、吳書馮熙聘蜀等裴注不併入。"
+        },
+        {
+          "id": "quan-sg-wuzhu-huangwu-guyong-chengxiang",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 23,
+          "from": "六月，以太常顧雍為丞相。",
+          "through": "六月，以太常顧雍為丞相。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：黃武四年六月，權以太常顧雍為丞相。段內孫邵卒、吳錄、志林、吳書裴注不併入。"
+        },
+        {
+          "id": "quan-sg-wuzhu-huanglong-weiyu-yizhou",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 28,
+          "from": "詔立都講祭酒，以教學諸子。",
+          "through": "遣將軍衞溫、諸葛直將甲士萬人浮海求夷洲及亶洲。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：黃龍二年春正月，權詔立都講祭酒教學諸子，並遣衞溫、諸葛直浮海求夷洲及亶洲。魏作合肥新城句不屬權事，不併入。"
+        },
+        {
+          "id": "quan-sg-wuzhu-jiahe-gongsunyuan-chenfan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 30,
+          "from": "權大恱，加淵爵位。",
+          "through": "權大恱，加淵爵位。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：嘉禾元年冬十月，公孫淵遣使稱藩獻貂馬，權大恱，加淵爵位。段內江表傳、志林裴注不併入。"
         }
       ],
       "exclusions": [
