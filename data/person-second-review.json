@@ -110528,6 +110528,26 @@
           "through": "其是之謂乎！",
           "citation": "《三國志·吳書八·張嚴程闞薛傳·張紘傳》",
           "note": "裴注引漢晉春秋：孫休時張珝為五官中郎將，遣至蜀求馬；還，休問蜀政得失，珝對以主闇而不知其過、臣下容身、民皆菜色，以燕雀處堂喻蜀之危。"
+        },
+        {
+          "id": "xiu-dinggu-zuoyushi-dafu",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 10,
+          "from": "孫休時固為左御史大夫",
+          "through": "左御史大夫",
+          "citation": "《三國志·吳書十二·虞翻陸績張溫傳》",
+          "note": "虞翻傳附丁固：丁固歷顯位，孫休時為左御史大夫，後孫皓即位遷司徒。"
+        },
+        {
+          "id": "xiu-luxun-zhaohou-posthumous",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 25,
+          "from": "孫休時，追謚遜曰昭侯。",
+          "through": "昭侯。",
+          "citation": "《三國志·吳書十三·陸遜傳》",
+          "note": "孫休時追謚陸遜為昭侯。"
         }
       ],
       "exclusions": [
@@ -110557,6 +110577,15 @@
           "term": "孫休",
           "quote": "孫休朱夫人傳",
           "reason": "僅為朱夫人傳篇目標題，無正文史事，不錄為孫休史實。"
+        },
+        {
+          "id": "xiu-excl-sunxiu-title",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 11,
+          "term": "孫休",
+          "quote": "孫休傳",
+          "reason": "僅為三嗣主傳中孫休傳篇目標題，無正文史事，不錄為孫休史實。"
         }
       ],
       "unresolved": []
