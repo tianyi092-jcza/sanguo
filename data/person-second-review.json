@@ -114189,8 +114189,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "ci-hhs-kongrong-qiujiu",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 11,
+          "from": "融逼急，乃遣東萊太史慈求救於平原相劉備。",
+          "through": "融逼急，乃遣東萊太史慈求救於平原相劉備。",
+          "citation": "《後漢書·卷七十 ‧ 鄭孔荀列傳第六十 孔融傳》",
+          "note": "後漢書孔融傳正文：管亥圍北海、孔融逼急，遣東萊太史慈求救於平原相劉備。此句為正文，其後吳志注文（慈字子義、母勸赴難等）按分層不併入。確指太史慈北海求救事。"
+        },
+        {
+          "id": "ci-sg-wuzhu-linghaihun",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 4,
+          "from": "太史慈領海昏",
+          "through": "太史慈領海昏",
+          "citation": "《三國志·卷四十七 ‧ 吳書二 吳主傳第二》",
+          "note": "吳主傳正文：建安八年權西伐黃祖，還過豫章，使呂範、程普分討鄱陽等地，太史慈領海昏。確指太史慈任職海昏，與孫權、程普等人分開。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "ci-excl-a04-011-24",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 24,
+          "term": "太史慈",
+          "reason": "邴原傳正文，主角為邴原藏匿劉政事：太史慈僅以「當歸」一語出現，邴原因以政付之託其帶歸，無太史慈本人事蹟展開，不錄。",
+          "quote": "時東萊太史慈當歸，原因以政付之。"
+        }
+      ],
       "unresolved": []
     }
   ]
