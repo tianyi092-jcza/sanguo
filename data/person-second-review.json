@@ -107713,6 +107713,36 @@
           "through": "吳孫權嘉禾六年五月，江東地震。",
           "citation": "《晉書》卷二十九·五行志",
           "note": "五行志記嘉禾六年五月江東地震，僅取災異事實。"
+        },
+        {
+          "id": "quan-jin-wuxing-chilu11-zhen",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 143,
+          "from": "吳孫權赤烏十一年二月，江東地仍震。",
+          "through": "是時，權聽讒，尋黜朱據，廢太子。",
+          "citation": "《晉書》卷二十九·五行志",
+          "note": "五行志記赤烏十一年二月江東地仍震，並記權聽讒黜朱據、廢太子；僅取災異與黜廢事實。"
+        },
+        {
+          "id": "quan-jin-wuxing-chilu13-shanbeng",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 171,
+          "from": "吳孫權赤烏十三年八月，丹楊、句容及故鄣、寧國諸山崩，鴻水溢。",
+          "through": "吳孫權赤烏十三年八月，丹楊、句容及故鄣、寧國諸山崩，鴻水溢。",
+          "citation": "《晉書》卷二十九·五行志",
+          "note": "五行志記赤烏十三年八月丹楊等地山崩、鴻水溢，僅取災異事實；後續劉向、劉歆五行家附論不併入。"
+        },
+        {
+          "id": "quan-hygz-yongkai-yongchang",
+          "work": "huayang",
+          "source": "a06-004",
+          "paragraph": 5,
+          "from": "執送裔於吴吴王孫權遙用闓為永昌太守",
+          "through": "執送裔於吴吴王孫權遙用闓為永昌太守",
+          "citation": "《華陽國志》卷四·四部叢刊本",
+          "note": "華陽國志記雍闓執送張裔於吳，孫權遙用闓為永昌太守；僅取孫權遙授一事，蜀中叛亂經過不併入。"
         }
       ],
       "exclusions": [
