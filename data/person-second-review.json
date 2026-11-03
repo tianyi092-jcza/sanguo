@@ -108673,6 +108673,16 @@
           "through": "權臨薨，受遺輔政，領武衞將軍，故典宿衞，封都鄉侯。",
           "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·孫峻傳》",
           "note": "正文：權末徙孫峻武衞都尉、為侍中，臨薨受遺輔政、領武衞將軍、封都鄉侯。僅取權末任命至臨薨託付一段，其後誅諸葛恪、遷丞相等皆權薨後事，不併入；「吳錄曰」群臣推峻為太尉一段亦不併入。"
+        },
+        {
+          "id": "quan-jin-xuandi-quan-wei-qijiang-chengchen",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 2,
+          "from": "既而從討孫權，破之。",
+          "through": "畏天知命也。」",
+          "citation": "《晉書·卷一·宣帝紀第一》",
+          "note": "宣帝紀正文：司馬懿從討孫權破之，軍還後權遣使乞降、上表稱臣，魏武以爐炭為喻，司馬懿以天人之意釋稱臣。僅取從討孫權至稱臣一段，前段從討張魯諫言不併入；此為晉書視角的魏吳交戰記載，僅作交叉證據，不改動三國志主值。"
         }
       ],
       "exclusions": [
@@ -109179,6 +109189,24 @@
           "term": "孫權",
           "quote": "孫權新破關羽，此其欲自結之時也，必不敢爲患。",
           "reason": "本段主述魏文帝、曹仁棄樊、襄陽之議，孫權僅為議論中的外部動向對象；且四庫本此段與 sidneyluo 本 a05-001:4 同文（僅為／爲字形異），為免重複不另錄，留待 a05-001:4 處理。"
+        },
+        {
+          "id": "quan-excl-xuandi-ahcb14-tongwen-a05001p7",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 14,
+          "term": "孫權",
+          "quote": "及孫權圍江夏，遣其將諸葛瑾、張霸并攻襄陽，帝督諸軍討權，走之。進擊，敗瑾，斬霸，并首級千餘。遷驃騎將軍。",
+          "reason": "四庫本此段與《晉書》卷一 sidneyluo 本 a05-001:7 後半段同文（sidneyluo 本該段前半為顧命輔政事，四庫本分段後此段獨立），後者已錄為摘錄 quan-jin-xuandi-quan-wei-jiangxia-xiangyang；為免重複，此 ahcb 分段不另錄。"
+        },
+        {
+          "id": "quan-excl-xuandi-ahcb35-tongwen-a05001p15",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 35,
+          "term": "孫權",
+          "quote": "初，文懿聞魏師之出也，請救於孫權。權亦出兵遙爲之聲援，遺文懿書曰：「司馬公善用兵，變化若神，所向無前，深爲弟憂之。」",
+          "reason": "四庫本此段與《晉書》卷一 sidneyluo 本 a05-001:15 中請救至遺書一段同文（僅為／爲字形異），後者已錄為摘錄 quan-jin-xuandi-quan-yuan-liaodong-shengyuan；為免重複，此 ahcb 分段不另錄。"
         }
       ],
       "unresolved": []
