@@ -110548,6 +110548,26 @@
           "through": "昭侯。",
           "citation": "《三國志·吳書十三·陸遜傳》",
           "note": "孫休時追謚陸遜為昭侯。"
+        },
+        {
+          "id": "xiu-feng-hao-wuchenghou",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 14,
+          "from": "孫休立，封和子皓為烏程侯，自新都之本國。",
+          "through": "本國。",
+          "citation": "《三國志·吳書十四·吳主五子傳第十四 孫和傳》",
+          "note": "孫休立後，封孫和之子皓為烏程侯。"
+        },
+        {
+          "id": "xiu-fou-ke-libei",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 20,
+          "from": "孫休曰：「盛夏出軍，士卒傷損，無尺寸之功，不可謂能；受託孤之任，死於豎子之手，不可謂智。沖議為是。」",
+          "through": "沖議為是。」",
+          "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳第十九 諸葛恪傳》",
+          "note": "朝臣請為諸葛恪立碑，孫休以盛沖之議為是，遂寢其事。"
         }
       ],
       "exclusions": [
@@ -110586,6 +110606,15 @@
           "term": "孫休",
           "quote": "孫休傳",
           "reason": "僅為三嗣主傳中孫休傳篇目標題，無正文史事，不錄為孫休史實。"
+        },
+        {
+          "id": "xiu-excl-xiuzi-feili",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 21,
+          "term": "孫休",
+          "quote": "欲廢皓立孫休子",
+          "reason": "所言「孫休子」為孫休之子，非孫休本人；廢皓立其子之謀議在孫休死後，不錄為孫休生平史實。"
         }
       ],
       "unresolved": []
