@@ -109320,6 +109320,33 @@
           "term": "孫權",
           "quote": "李氏亦猶孫權。",
           "reason": "本段主體為徐光勸石勒早圖中山王、憂宗廟生荊棘事；孫權僅為徐光論符籙歸屬時的比況（李氏亦猶孫權），不涉孫權本人言行事蹟，排除。"
+        },
+        {
+          "id": "quan-excl-murongjun-daodeng-bikuang",
+          "work": "jinshu",
+          "source": "a05-110-ahcb",
+          "paragraph": 31,
+          "term": "孫權",
+          "quote": "孫權悼登無已",
+          "reason": "本段主體為慕容儁悼亡子曄、與群臣論悼念事；孫權僅為儁自況時引述的比況（孫權悼登無已），不涉孫權本人言行事蹟的直接記載，排除。"
+        },
+        {
+          "id": "quan-excl-lixiong-sunquan-zhiya",
+          "work": "jinshu",
+          "source": "a05-121-ahcb",
+          "paragraph": 40,
+          "term": "孫權",
+          "quote": "實孫權之亞也",
+          "reason": "本段為李雄贊語，主體為李雄英姿霸業與立嗣失圖事；孫權僅為衡量李雄的比況（實孫權之亞也），不涉孫權本人言行事蹟，排除。"
+        },
+        {
+          "id": "quan-excl-luchao-sunquan-qushen-bikuang",
+          "work": "jinshu",
+          "source": "a05-122-ahcb",
+          "paragraph": 40,
+          "term": "孫權",
+          "quote": "孫權屈身於魏",
+          "reason": "本段主體為呂超勸呂隆與姚興通好、呂隆從而請降事；孫權僅為呂超勸降時引述的歷史比況（孫權屈身於魏），不涉孫權本人言行事蹟，排除。"
         }
       ],
       "unresolved": []
