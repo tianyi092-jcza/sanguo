@@ -109293,6 +109293,33 @@
           "term": "孫權",
           "quote": "雖諸葛瑾之喻孫權不過也。",
           "reason": "本段主體為溫嶠評謝鯤子尚，孫權僅為「諸葛瑾之喻孫權」的比況對象，不涉孫權本人言行與決策。"
+        },
+        {
+          "id": "quan-excl-yutanmu-zusunnyu",
+          "work": "jinshu",
+          "source": "a05-096-ahcb",
+          "paragraph": 16,
+          "term": "孫權",
+          "quote": "虞潭母孫氏，吳郡富春人，孫權族孫女也。",
+          "reason": "本段主體為虞潭母孫氏守節撫孤、訓子忠義事；「孫權」僅以「族孫女」作孫氏身份注出現，所記為虞潭母事，非孫權本人言行事蹟，排除。"
+        },
+        {
+          "id": "quan-excl-wenqiao-liuya",
+          "work": "jinshu",
+          "source": "a05-098-ahcb",
+          "paragraph": 31,
+          "term": "孫仲謀",
+          "quote": "孫仲謀、晉宣王之流亞也。",
+          "reason": "本段主體為溫嶠風概與仕歷；孫仲謀僅為劉惔評溫嶠容貌風概時的比況對象，不涉孫權本人言行事蹟，排除。"
+        },
+        {
+          "id": "quan-excl-shile-xuguang-bikuang",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 68,
+          "term": "孫權",
+          "quote": "李氏亦猶孫權。",
+          "reason": "本段主體為徐光勸石勒早圖中山王、憂宗廟生荊棘事；孫權僅為徐光論符籙歸屬時的比況（李氏亦猶孫權），不涉孫權本人言行事蹟，排除。"
         }
       ],
       "unresolved": []
