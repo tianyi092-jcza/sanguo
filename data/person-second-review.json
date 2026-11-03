@@ -109003,6 +109003,36 @@
           "through": "二十一年冬，曹公次于居巢，遂攻濡須。",
           "citation": "《三國志·吳書二·吳主傳》",
           "note": "吳主傳正文：建安二十一年冬，曹公次于居巢，遂攻濡須。段落僅此一句，全取。"
+        },
+        {
+          "id": "quan-sg-wuzhu-pengqi-zong-jiangwei",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 25,
+          "from": "六年春正月，諸將獲彭綺。",
+          "through": "閏月，韓當子綜以其衆降魏。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：黃武六年春正月，諸將獲彭綺；閏月，韓當子綜以其衆降魏。全段皆正文，全取。"
+        },
+        {
+          "id": "quan-sg-wuzhu-huanglong-jiwei",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 27,
+          "from": "黃龍元年春，公卿百司皆勸權正尊號。",
+          "through": "丙申，南郊即皇帝位，",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：黃龍元年春，公卿百司皆勸權正尊號；夏四月夏口、武昌言黃龍鳳凰見，丙申南郊即皇帝位。僅取正文勸進至即位句，隨後吳錄告天文不併入。"
+        },
+        {
+          "id": "quan-sg-wuzhu-shenfeng-quan-hong",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 50,
+          "from": "夏四月，權薨，時年七十一，謚曰大皇帝。",
+          "through": "夏四月，權薨，時年七十一，謚曰大皇帝。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：神鳳二年夏四月，權薨，時年七十一，謚曰大皇帝。僅取正文此句，段內傅子論孫策及權繼業之語不併入。"
         }
       ],
       "exclusions": [
