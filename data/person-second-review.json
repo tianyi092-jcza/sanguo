@@ -110618,6 +110618,16 @@
           "through": "孫休分武陵立天門郡，分宜都立建平郡。",
           "citation": "《晉書·卷十五·地理志》",
           "note": "地理志荊州沿革：孫休分武陵立天門郡、分宜都立建平郡；僅取分郡一句，餘為歷代沿革不併入。"
+        },
+        {
+          "id": "xiu-lukang-yongan-luoxian",
+          "work": "jinshu",
+          "source": "a05-057-ahcb",
+          "paragraph": 1,
+          "from": "孫休怒，又遣陸抗助協。",
+          "through": "孫休怒，又遣陸抗助協。",
+          "citation": "《晉書·卷五十七·羅憲傳》",
+          "note": "魏滅蜀後吳使步協西征永安，羅憲破協軍，孫休怒遣陸抗助協；憲距守經年得荊州救兵，抗退。僅取孫休遣將一句，羅憲守城本末不併入。"
         }
       ],
       "exclusions": [
@@ -110674,6 +110684,24 @@
           "term": "孫休",
           "quote": "孫休分武陵立天門郡，分宜都立建平郡。",
           "reason": "與已錄 a05-015:18 同文異本（僅戶縣數小異），分郡事實已見已錄條，為避重複不另錄為 excerpt。"
+        },
+        {
+          "id": "xiu-excl-fushi-yaoyan",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 136,
+          "term": "孫休",
+          "quote": "孫休後，衣服之制上長下短",
+          "reason": "僅以「孫休後」繫年，述服制變易與干寶占斷、孫皓奢暴之應，非孫休本人事蹟，故不錄為 excerpt。"
+        },
+        {
+          "id": "xiu-excl-xiangyan-yishi",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 5,
+          "term": "孫休",
+          "quote": "吳孫休時，烏程人有得困病",
+          "reason": "僅以「吳孫休時」繫年，述烏程人困病後能響言之異事，非孫休本人事蹟，故不錄為 excerpt。"
         }
       ],
       "unresolved": []
