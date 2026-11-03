@@ -111136,6 +111136,33 @@
           "term": "孫皓",
           "quote": "及孫皓，又立新昌、武平、九德三郡。",
           "reason": "與本輪摘錄 hao-jiaozhou-xinjun（a05-015-ahcb:115）同段底本鏡像，內容相同不重錄。"
+        },
+        {
+          "id": "hao-excl-010",
+          "work": "jinshu",
+          "source": "a05-026-ahcb",
+          "paragraph": 4,
+          "term": "孫皓",
+          "quote": "既平孫皓，納百萬而罄三吳之資",
+          "reason": "全段主述晉初至東晉食貨沿革，孫皓僅以「既平」起興，非孫皓本事，不錄。"
+        },
+        {
+          "id": "hao-excl-011",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 22,
+          "term": "孫皓",
+          "quote": "孫皓建衡二年三月，大火，燒萬餘家，死者七百人。",
+          "reason": "五行志災異占語，主體以劉向春秋說附會皓政，照本輪既有占語排除例不錄。"
+        },
+        {
+          "id": "hao-excl-012",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 45,
+          "term": "孫皓",
+          "quote": "吳孫皓時，常歲無水旱，苗稼豐美而實不成，百姓以飢，闔境皆然，連歲不已。",
+          "reason": "五行志災異占語，苗稼不成附會為修宮室之罰，主體為占語非紀事，不錄。"
         }
       ],
       "unresolved": []
