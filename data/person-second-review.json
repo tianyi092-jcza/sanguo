@@ -114176,6 +114176,22 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0198",
+      "name": "太史慈",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
