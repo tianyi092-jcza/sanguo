@@ -110804,15 +110804,20 @@
     {
       "id": "p0195",
       "name": "孫皓",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "向量候選枯竭：retrieve 候選 0 段（covered 展開 185→214，年號剛性剔除 12 段），未解決 0 條；本輪無新增條目，累計摘錄 84 條、排除 101 條，收尾結案。",
+        "生平與事蹟：孫皓字元宗，孫和之子、孫權之孫；永安七年孫休薨後迎立，改元建興，遷都武昌、後還都建業；在位誅戮大臣、任用嬖倖，濮陽興、張布、王蕃、樓玄、韋曜等或死或黜，陸凱屢諫不納；天紀四年晉分路伐吳，王濬兵臨建業，皓降，封歸命侯，徙洛陽，太康五年卒。生 242、卒 284。",
+        "本傳與他傳：三國志以三嗣主傳孫皓傳（a04-048）為主幹，建興至天紀紀年事蹟已錄；晉書武帝紀伐吳、降封歸命侯及羊祜、杜預、王濬伐吳諸傳已錄；華陽國志交州事錄 1 條；後漢書無本人相關段，不硬補。",
+        "勢力階段與辨人：皓即位後為吳主自立政權之主，與父孫和、叔孫休、兄孫奮及孫權、孫亮等嚴格分開，不串人；排除多為僅以「孫皓時」標記他人任官時段、或主角為他人的段落（如顧承、朱據、陸抗諸子），按全字匹配、寧錯過原則不錄；辨亡論、孫盛論皓罪等裴注評論按正文、裴注分層，不併入正文事蹟。"
+      ],
       "excerpts": [
         {
           "id": "hao-sg-yongan-feng-wuchenghou",
