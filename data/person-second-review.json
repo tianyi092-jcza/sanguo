@@ -108913,6 +108913,36 @@
           "through": "除民所患苦。",
           "citation": "《三國志·吳書二·吳主傳》",
           "note": "吳主傳正文：太元元年十二月，權驛徵大將軍諸葛恪拜太子太傅，詔省徭役、減征賦、除民所患苦。僅取十二月一段，段內王表神異、孫盛論及吳錄注皆不併入。"
+        },
+        {
+          "id": "quan-sg-wuzhu-quan-congce-zheng-liuxun-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 1,
+          "from": "建安四年，從策征廬江太守劉勳。",
+          "through": "勳破，進討黃祖於沙羡。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：建安四年，權從兄策征廬江太守劉勳；勳破後，進討黃祖於沙羡。全段皆正文。"
+        },
+        {
+          "id": "quan-sg-wuzhu-quan-mu-wushi-hong",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 3,
+          "from": "七年，權母吳氏薨。",
+          "through": "七年，權母吳氏薨。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：建安七年，權母吳氏薨。僅取此一句編年事實，所記為權母之薨，非權本人征伐政事。"
+        },
+        {
+          "id": "quan-sg-wuzhu-quan-xifa-huangzu-ping-shankou",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 4,
+          "from": "八年，權西伐黃祖，破其舟軍，",
+          "through": "韓當、周泰、呂蒙等為劇縣令長。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "吳主傳正文：建安八年，權西伐黃祖，破其舟軍，惟城未克，而山寇復動；還過豫章，使呂範平鄱陽、會稽，程普討樂安，太史慈領海昏，韓當、周泰、呂蒙等為劇縣令長。全段皆正文。"
         }
       ],
       "exclusions": [
