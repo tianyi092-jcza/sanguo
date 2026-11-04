@@ -119480,6 +119480,33 @@
           "from": "周瑜病困，上疏曰",
           "through": "瑜隕踣之日，所懷盡矣。",
           "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-dai-yu-lukou",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 30,
+          "from": "魯肅代周瑜，當之陸口",
+          "through": "呂子明，吾不知卿才略所及乃至於此也。",
+          "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-yiyang-ju-yu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 34,
+          "from": "權時住陸口，使魯肅將萬人屯益陽拒羽",
+          "through": "而飛書召蒙，使捨零陵，急還助肅。",
+          "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-zu-jun-shu-meng",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 36,
+          "from": "魯肅卒，蒙西屯陸口",
+          "through": "肅軍人馬萬餘盡以屬蒙。",
+          "citation": "《三國志·吳書九·魯肅傳》"
         }
       ],
       "exclusions": [
