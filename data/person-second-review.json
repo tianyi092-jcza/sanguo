@@ -119790,9 +119790,37 @@
           "from": "建安二十四年，劉備將關羽圍樊、襄陽，琮上疏陳羽可討之計，權時已與呂蒙陰議襲之，恐事泄，故寢琮表不荅。",
           "through": "於是封陽華亭侯。",
           "citation": "《三國志·吳書十五·全琮傳》"
+        },
+        {
+          "id": "lmeng-jue-haopu",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 48,
+          "from": "郝普字子太，義陽人。",
+          "through": "為吳將呂蒙所譎，開城詣蒙。",
+          "citation": "《三國志·蜀書十五·楊戲傳》"
+        },
+        {
+          "id": "lmeng-jin-dai-nanjun",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 24,
+          "from": "後從討關羽，封宣城侯",
+          "through": "以綏南將軍代呂蒙領南郡太守，住公安。",
+          "citation": "《三國志·吳書七·諸葛瑾傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "lmeng-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "呂蒙",
+          "quote": "拔呂蒙於戎行，識潘濬於係虜。",
+          "reason": "晉陸機《辨亡論》後世論贊，僅列名褒揚與概括性評價，無具體史事；拔擢事已見吳主傳趙咨稱明條，不另立摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
