@@ -116827,7 +116827,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ci-sgz-zhanghong-bio-open",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 1,
+          "from": "張紘字子綱，廣陵人",
+          "through": "游學京都",
+          "citation": "《三國志·吳書八·張紘傳》",
+          "note": "本傳開篇：張紘字子綱，廣陵人，早年游學京都；為後續避難江東、委質孫策之起點。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-ce-mouzhu",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "from": "彭城張昭",
+          "through": "等為謀主",
+          "citation": "《三國志·吳書一·孫破虜討逆傳》",
+          "note": "孫策傳正文：平定江東、更置長吏時，彭城張昭、廣陵張紘等為謀主；與本傳「孫策創業，遂委質焉」相合，佐證張紘在孫策創業期已為核心謀士。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-guojiang",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 28,
+          "from": "作獻帝春秋，云",
+          "through": "迪與張紘等俱過江",
+          "citation": "《三國志·吳書十二·陸瑁傳》",
+          "note": "陸瑁傳引袁迪孫袁曄所作《獻帝春秋》：袁迪與張紘等俱過江，佐證張紘避難江東之事；此為他傳引書，非陸瑁本人言行。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
