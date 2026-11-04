@@ -122683,6 +122683,24 @@
           "from": "二年夏五月，吳將全琮寇芍陂，朱然、孫倫圍樊城，諸葛瑾、步騭掠柤中，帝請自討之。",
           "through": "吳軍夜遁走，追至三州口，斬獲萬餘人，收其舟船軍資而還。",
           "citation": "《晉書·卷一·宣帝紀》"
+        },
+        {
+          "id": "zran-tianwen-jingchu1-jiangxia",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 50,
+          "from": "九月，吳將朱然圍江夏。",
+          "through": "皇后毛氏崩。",
+          "citation": "《晉書·卷十三·志第三》"
+        },
+        {
+          "id": "zran-wuxing-jingchu1-jiangxia-huzhi",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 139,
+          "from": "景初元年六月戊申，京都地震。",
+          "through": "是秋，吳將朱然圍江夏，荊州刺史胡質擊退之。",
+          "citation": "《晉書·卷二十九·志第十九》"
         }
       ],
       "exclusions": [
@@ -122694,6 +122712,15 @@
           "term": "朱然",
           "quote": "二年夏五月，吳將全琮寇芍陂，朱然、孫倫圍樊城，諸葛瑾、步騭掠柤中，帝請自討之。",
           "reason": "與 sidneyluo 本 a05-001:21 同段《晉書·宣帝紀》文本之四庫本異文，底本以 sidneyluo 為準，本輪已錄 a05-001:21，不重複錄入。"
+        },
+        {
+          "id": "zran-excl-002",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 39,
+          "term": "朱然",
+          "quote": "九月，吳將朱然圍江夏。",
+          "reason": "與 sidneyluo 本 a05-013:50 同段《晉書·志第三》文本之四庫本異文，底本以 sidneyluo 為準，本輪已錄 a05-013:50，不重複錄入。"
         }
       ],
       "unresolved": []
