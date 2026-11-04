@@ -118590,6 +118590,33 @@
           "from": "薛綜曰：「以珩玉為充耳也",
           "through": "諸侯以石。』」",
           "citation": "《後漢書·志第三十·輿服下》（注引薛綜說）"
+        },
+        {
+          "id": "xzong-hhs-yufuxia-jianhua",
+          "work": "houhanshu",
+          "source": "a03-120",
+          "paragraph": 13,
+          "from": "薛綜曰：「下輪大",
+          "through": "上輪小。」",
+          "citation": "《後漢書·志第三十·輿服下》（注引薛綜說）"
+        },
+        {
+          "id": "xzong-sgz-wuzhu-qiejian",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 31,
+          "from": "尚書僕射薛綜等切諫",
+          "through": "切諫乃止。",
+          "citation": "《三國志·卷四十七·吳書二 吳主傳第二》"
+        },
+        {
+          "id": "xzong-sgz-gutan-rang",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 18,
+          "from": "薛綜為選曹尚書，固讓譚曰",
+          "through": "誠非愚臣所可越先。」",
+          "citation": "《三國志·卷五十二·吳書七 張顧諸葛步傳第七（顧譚）》"
         }
       ],
       "exclusions": [],
