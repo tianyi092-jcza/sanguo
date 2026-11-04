@@ -120343,6 +120343,24 @@
           "from": "昔周瑜、程普為左右部督",
           "through": "幾敗國事",
           "citation": "《三國志·吳書六·宗室傳》"
+        },
+        {
+          "id": "chpu-chibi-bingli",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 5,
+          "from": "權遂遣瑜及程普等與備并力逆曹公",
+          "through": "遇於赤壁",
+          "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 周瑜傳》"
+        },
+        {
+          "id": "chpu-nanjun-duiren",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 6,
+          "from": "瑜與程普又進南郡",
+          "through": "各隔大江",
+          "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 周瑜傳》"
         }
       ],
       "exclusions": [
@@ -120354,6 +120372,15 @@
           "term": "程普",
           "quote": "甘寧、淩統、程普、賀齊、朱桓、朱然之徒奮其威",
           "reason": "晉人陸機《辨亡論》後世追述，僅於吳將群像中列名，無程普具體事實，不作本人史實。"
+        },
+        {
+          "id": "chpu-excl-jingzhou-liming",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 33,
+          "term": "程普",
+          "quote": "諸葛瑾、陸遜、朱然、程普、潘濬、裴玄、夏侯承",
+          "reason": "步騭上疏條列于時事業在荊州界者名單，僅列名，無程普具體事實，不作本人史實。"
         }
       ],
       "unresolved": []
