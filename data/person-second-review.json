@@ -120991,6 +120991,33 @@
           "from": "近得守將周泰、全琮等白事",
           "through": "大相殺傷。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "ztai-xuancheng-huquan",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 19,
+          "from": "周泰字幼平，九江下蔡人也。",
+          "through": "策深德之，補春穀長。",
+          "citation": "《三國志·吳書十·周泰傳》"
+        },
+        {
+          "id": "ztai-wan-jiangxia-yichun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 19,
+          "from": "後從攻皖，及討江夏",
+          "through": "所在皆食其征賦。",
+          "citation": "《三國志·吳書十·周泰傳》"
+        },
+        {
+          "id": "ztai-ruxu-shichuang-yugai",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 20,
+          "from": "從討黃祖有功。",
+          "through": "其明日，遣使者授以御蓋。",
+          "citation": "《三國志·吳書十·周泰傳》"
         }
       ],
       "exclusions": [
