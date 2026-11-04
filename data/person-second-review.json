@@ -122530,6 +122530,33 @@
           "from": "時吳使朱然、諸葛瑾攻圍樊城，",
           "through": "攻圍樊城，",
           "citation": "《三國志·魏書二十三·崔林傳》裴注引《魏略》"
+        },
+        {
+          "id": "zran-wuzhu-guanyu-jinglu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 17,
+          "from": "權先使朱然、潘璋斷其徑路。",
+          "through": "斷其徑路。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-wuzhu-yiling-jushu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 18,
+          "from": "權以陸遜為督，督朱然、潘璋等以拒之。",
+          "through": "以拒之。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-wuzhu-fan-cheqi",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 39,
+          "from": "車騎將軍朱然圍樊，大將軍諸葛瑾取柤中。",
+          "through": "取柤中。",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [],
