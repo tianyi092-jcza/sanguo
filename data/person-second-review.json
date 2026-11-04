@@ -121609,6 +121609,33 @@
           "from": "建安二十年，從攻合肥，",
           "through": "寧引弓射敵，與統等死戰。",
           "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·甘寧傳》"
+        },
+        {
+          "id": "ltong-shiwu-chenqin",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 44,
+          "from": "統年十五，左右多稱述者，",
+          "through": "使得以功贖罪。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·凌統傳》"
+        },
+        {
+          "id": "ltong-jiangxia-wulin",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 45,
+          "from": "後權復征江夏，統為前鋒，",
+          "through": "有國士之風。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·凌統傳》"
+        },
+        {
+          "id": "ltong-xiaoyaojin-huquan",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 46,
+          "from": "又從破皖，拜盪寇中郎將，",
+          "through": "謂曰：「公績，亡者已矣，苟使卿在，何患無人？」",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·凌統傳》"
         }
       ],
       "exclusions": [
@@ -121622,7 +121649,9 @@
           "reason": "該段為陸機《辨亡論》上篇泛稱孫吳諸將之文，淩統僅在群將名單中被列名，無其個人事蹟與繫年，不作本人史實證據，排除。"
         }
       ],
-      "unresolved": []
+      "unresolved": [
+        "a04-055:46 吳書曰裴注段（統創甚、留舟易衣、卓氏良藥、拜偏將軍倍給本兵）尚未分層錄入，待下輪補錄；本輪僅錄正文至孫權「公績」語止。"
+      ]
     }
   ]
 }
