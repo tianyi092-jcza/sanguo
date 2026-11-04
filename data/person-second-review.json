@@ -118146,6 +118146,33 @@
           "from": "與琅邪諸葛瑾、彭城嚴畯俱游吳中，並著聲名，為當時英俊。",
           "through": "為當時英俊。",
           "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
+        },
+        {
+          "id": "sg-yanjun-zhouzhao-cirang",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 37,
+          "from": "而橫江旣亡，衞尉應其選，自以才非將帥，深辭固讓，終於不就。",
+          "through": "終於不就。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
+        },
+        {
+          "id": "sg-yanjun-mancai-pengcheng",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 7,
+          "from": "嚴畯字曼才，彭城人也。",
+          "through": "與諸葛瑾、步隲齊名友善。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "sg-yanjun-guci-lukou",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 7,
+          "from": "及橫江將軍魯肅卒，權以畯代肅，督兵萬人，鎮據陸口。",
+          "through": "至于流涕，",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
         }
       ],
       "exclusions": [],
