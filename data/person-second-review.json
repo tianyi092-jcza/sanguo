@@ -118362,6 +118362,33 @@
           "from": "其淵懿純德，則太子少傅山陰闞澤",
           "through": "學通行茂，作帝師儒。",
           "citation": "《三國志·吳書十二·虞翻傳》"
+        },
+        {
+          "id": "kze-sg-sundeng-memorial",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 4,
+          "from": "諸葛瑾、步隲、朱然、全琮、朱據、呂岱、吾粲、闞澤、嚴畯、張承、孫怡忠於為國，通達治體。",
+          "through": "可令陳上便宜，蠲除苛煩，愛養士馬，撫循百姓。",
+          "citation": "《三國志·吳書十四·孫登傳》"
+        },
+        {
+          "id": "kze-sg-sunhe-tutor",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 10,
+          "from": "年十四，為置宮衞，使中書令闞澤教以書藝。",
+          "through": "闞澤為太傅，薛綜為少傅，而蔡穎、張純、封俌、嚴維等皆從容侍從。",
+          "citation": "《三國志·吳書十四·孫和傳》"
+        },
+        {
+          "id": "kze-sg-zhaoda-study",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 16,
+          "from": "達寶惜其術，自闞澤、殷禮皆名儒善士，親屈節就學",
+          "through": "達祕而不告。",
+          "citation": "《三國志·吳書十八·趙達傳》"
         }
       ],
       "exclusions": [
