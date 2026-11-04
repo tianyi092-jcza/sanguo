@@ -118792,6 +118792,33 @@
           "from": "臣以十一日平旦部所領江夏太守行建威中郎將周瑜",
           "through": "等同時俱進。",
           "citation": "《三國志·吳書一·孫策傳》"
+        },
+        {
+          "id": "zyu-sunquan-fushi",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 2,
+          "from": "張昭、周瑜等謂權可與共成大業",
+          "through": "而周瑜、程普、呂範等為將率。",
+          "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "zyu-sunquan-chibi",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "惟瑜、肅執拒之議",
+          "through": "大破曹公軍。",
+          "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "zyu-sunyu-ma-bao",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 3,
+          "from": "十一年，與周瑜共討麻、保二屯，破之。",
+          "through": "十一年，與周瑜共討麻、保二屯，破之。",
+          "citation": "《三國志·吳書六·孫瑜傳》"
         }
       ],
       "exclusions": [],
