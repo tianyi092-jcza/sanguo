@@ -120565,6 +120565,33 @@
           "from": "諸山越不賔",
           "through": "山越懷附",
           "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰傳第十·黃蓋傳》"
+        },
+        {
+          "id": "hgai-wuling-pingman",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 8,
+          "from": "武陵蠻夷反亂",
+          "through": "郡境遂清",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰傳第十·黃蓋傳》"
+        },
+        {
+          "id": "hgai-chibi-liushi-wushu",
+          "work": "peizhu",
+          "source": "a04-055",
+          "paragraph": 8,
+          "from": "吳書曰：赤壁之役",
+          "through": "遂以得生",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰傳第十·黃蓋傳》裴注引《吳書》"
+        },
+        {
+          "id": "hgai-yiyang-bingzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 8,
+          "from": "後長沙益陽縣為山賊所攻",
+          "through": "病卒于官",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰傳第十·黃蓋傳》"
         }
       ],
       "exclusions": [
