@@ -123167,6 +123167,33 @@
           "from": "黃初中，與諸將並征吳，破呂範於洞浦，進封陽里亭侯，加建威將軍。",
           "through": "黃初中，與諸將並征吳，破呂範於洞浦，進封陽里亭侯，加建威將軍。",
           "citation": "《三國志·魏書十五·賈逵傳》"
+        },
+        {
+          "id": "lufan-zhangliao-po",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 7,
+          "from": "是歲，遼與諸將破權將呂範。",
+          "through": "是歲，遼與諸將破權將呂範。",
+          "citation": "《三國志·魏書十七·張遼傳》"
+        },
+        {
+          "id": "lufan-zangba-dongpu",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 12,
+          "from": "與曹休討吳賊，破呂範於洞浦，徵為執金吾，位特進。",
+          "through": "與曹休討吳賊，破呂範於洞浦，徵為執金吾，位特進。",
+          "citation": "《三國志·魏書十八·臧霸傳》"
+        },
+        {
+          "id": "lufan-wangling-guangling",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 2,
+          "from": "臨江，夜大風，吳將呂範等船漂至北岸。",
+          "through": "淩與諸將逆擊，捕斬首虜，獲舟船，有功，封宜城亭侯，加建武將軍，轉在青州。",
+          "citation": "《三國志·魏書二十八·王淩傳》"
         }
       ],
       "exclusions": [
