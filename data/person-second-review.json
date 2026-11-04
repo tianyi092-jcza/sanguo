@@ -122179,7 +122179,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "dfeng-sansizhu-niju",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 7,
+          "from": "冬十月丁未，遣孫憲及丁奉、施寬等以舟兵逆據於江都，",
+          "through": "逆據於江都，",
+          "citation": "《三國志·吳書三·三嗣主傳·孫亮傳》"
+        },
+        {
+          "id": "dfeng-sansizhu-jiewei",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 9,
+          "from": "秋七月，綝率衆救壽春，次于鑊里，",
+          "through": "與丁奉等將介士五萬解圍。",
+          "citation": "《三國志·吳書三·三嗣主傳·孫亮傳》"
+        },
+        {
+          "id": "dfeng-sansizhu-jiushu",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 20,
+          "from": "甲申，使大將軍丁奉督諸軍向魏壽春，",
+          "through": "向魏壽春，",
+          "citation": "《三國志·吳書三·三嗣主傳·孫休傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
