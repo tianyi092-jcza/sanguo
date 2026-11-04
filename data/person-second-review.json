@@ -122503,7 +122503,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zran-jiangji-shangliu",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 40,
+          "from": "濟表以為「深入虜地，與權精兵對，而朱然等在上流，乘休後，臣未見其利也。」",
+          "through": "臣未見其利也。",
+          "citation": "《三國志·魏書十四·蔣濟傳》"
+        },
+        {
+          "id": "zran-zhangji-fancheng",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 18,
+          "from": "正始二年，朱然圍樊城，城中守將乙脩等求救甚急。",
+          "through": "求救甚急。",
+          "citation": "《三國志·魏書十五·張既傳》裴注引《魏略》"
+        },
+        {
+          "id": "zran-cuillin-fancheng",
+          "work": "peizhu",
+          "source": "a04-023",
+          "paragraph": 11,
+          "from": "時吳使朱然、諸葛瑾攻圍樊城，",
+          "through": "攻圍樊城，",
+          "citation": "《三國志·魏書二十三·崔林傳》裴注引《魏略》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
