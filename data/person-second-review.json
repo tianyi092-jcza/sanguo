@@ -122773,6 +122773,33 @@
           "from": "有呂範、朱然以為爪牙，分任受職，乘閒伺隙，兵不妄動，故戰少敗而江南安。",
           "through": "有呂範、朱然以為爪牙，分任受職，乘閒伺隙，兵不妄動，故戰少敗而江南安。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-buzi-jingzhou-jiangquan",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 33,
+          "from": "隲於是條于時事業在荊州界者，諸葛瑾、陸遜、朱然、程普、潘濬、裴玄、夏侯承、衞旌、李肅",
+          "through": "隲於是條于時事業在荊州界者，諸葛瑾、陸遜、朱然、程普、潘濬、裴玄、夏侯承、衞旌、李肅",
+          "citation": "《三國志·吳書七·步隲傳》"
+        },
+        {
+          "id": "zran-lumeng-duanlu-qinhuo",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 37,
+          "from": "權使朱然、潘璋斷其徑路，即父子俱獲，荊州遂定。",
+          "through": "權使朱然、潘璋斷其徑路，即父子俱獲，荊州遂定。",
+          "citation": "《三國志·吳書九·呂蒙傳》"
+        },
+        {
+          "id": "zran-zhoutai-suobu-bufu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 20,
+          "from": "時朱然、徐盛等皆在所部，並不伏也",
+          "through": "時朱然、徐盛等皆在所部，並不伏也",
+          "citation": "《三國志·吳書十·周泰傳》"
         }
       ],
       "exclusions": [
