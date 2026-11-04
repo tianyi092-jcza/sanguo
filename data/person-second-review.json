@@ -118173,9 +118173,37 @@
           "from": "及橫江將軍魯肅卒，權以畯代肅，督兵萬人，鎮據陸口。",
           "through": "至于流涕，",
           "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "sg-yanjun-jian-chong",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 11,
+          "from": "嚴畯薦崇行足以厲俗，學足以為師。",
+          "through": "嚴畯薦崇行足以厲俗，學足以為師。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "sg-yanjun-lun-sufan",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 28,
+          "from": "時謂嚴畯曰：「孤昔歎魯子敬比鄧禹，呂子衡方吳漢，閒卿諸人未平此論，今定云何？」",
+          "through": "畯乃服。",
+          "citation": "《三國志·吳書十一·朱治朱然呂範朱桓傳第十一》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "sg-yanjun-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 6,
+          "term": "嚴畯",
+          "quote": "嚴畯傳",
+          "reason": "僅為本傳篇目題名，無史實內容，不錄為摘錄。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
