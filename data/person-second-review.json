@@ -118671,6 +118671,24 @@
           "from": "權嘉其功",
           "through": "遣尚書僕射薛綜勞軍。",
           "citation": "《三國志·卷六十四·吳書十九 諸葛滕二孫濮陽傳第十九（諸葛恪）》"
+        },
+        {
+          "id": "xzong-sgz-xzchuan-jianliaodong",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 19,
+          "from": "時公孫淵降而復叛",
+          "through": "綜上疏諫曰",
+          "citation": "《三國志·卷五十三·吳書八 張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "xzong-sgz-lukai-xiandi",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 31,
+          "from": "先帝外仗顧、陸、朱、張，內近胡綜、薛綜",
+          "through": "是不遵先帝八也。",
+          "citation": "《三國志·卷六十一·吳書十六 潘濬陸凱傳第十六（陸凱）》"
         }
       ],
       "exclusions": [],
