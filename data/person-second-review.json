@@ -120361,6 +120361,33 @@
           "from": "瑜與程普又進南郡",
           "through": "各隔大江",
           "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 周瑜傳》"
+        },
+        {
+          "id": "chpu-yu-bumu-jingfu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 8,
+          "from": "江表傳曰：普頗以年長數陵侮瑜",
+          "through": "不覺自醉",
+          "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 周瑜傳》"
+        },
+        {
+          "id": "chpu-ling-nanjun-taishou",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 21,
+          "from": "瑜士衆四千餘人",
+          "through": "令程普領南郡太守",
+          "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 周瑜傳》"
+        },
+        {
+          "id": "chpu-yiling-jiewei",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 29,
+          "from": "蒙謂瑜、普曰",
+          "through": "蒙保公績能十日守也",
+          "citation": "《三國志·卷五十四 ‧ 吳書九　周瑜魯肅呂蒙傳第九 呂蒙傳》"
         }
       ],
       "exclusions": [
