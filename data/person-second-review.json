@@ -122341,6 +122341,16 @@
           "from": "吳將丁奉入渦口，揚州刺史牽弘擊走之。",
           "through": "吳將丁奉入渦口，揚州刺史牽弘擊走之。",
           "citation": "《晉書·卷三·武帝紀》"
+        },
+        {
+          "id": "dfeng-jinshu-wuxingzhi-guyang",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 73,
+          "from": "吳孫皓寶鼎元年，野豕入右大司馬丁奉營，此豕禍也。",
+          "through": "皓追討穀陽事，殺其子溫，家屬皆遠徙，豕禍之應也。",
+          "citation": "《晉書·卷二十九·志第十九》",
+          "note": "五行志以野豕入營繫為豕禍之應；所錄為丁奉任右大司馬、攻穀陽無功、身後子溫被殺家屬遠徙諸事，末句龔遂引文不錄。"
         }
       ],
       "exclusions": [
@@ -122370,6 +122380,24 @@
           "term": "丁奉",
           "quote": "十一月，吳將丁奉等出芍陂，安東將軍汝陰王駿與義陽王望擊走之。",
           "reason": "四庫全書本同卷同條，與 sidneyluo 本 a05-003:5 已錄之芍陂條為同一史事之異本，不重錄。"
+        },
+        {
+          "id": "dfeng-excl-jinshu-ahcb-guokou",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 53,
+          "term": "丁奉",
+          "quote": "吳將丁奉入渦口，揚州刺史牽弘擊走之。",
+          "reason": "四庫全書本同卷同條，與 sidneyluo 本 a05-003:7 已錄之渦口條為同一史事之異本，不重錄。"
+        },
+        {
+          "id": "dfeng-excl-jinshu-ahcb-hefei",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 55,
+          "term": "丁奉",
+          "quote": "其寶鼎三年後，皓出東關，遣丁奉至合肥，建衡三年皓又大舉出華里，侵邊境之謂也。",
+          "reason": "與已錄 a04-048:28 三國志孫皓傳寶鼎三年「皓出東關，丁奉至合肥」為同一史事，五行志此段為占驗重述，不重錄。"
         }
       ],
       "unresolved": []
