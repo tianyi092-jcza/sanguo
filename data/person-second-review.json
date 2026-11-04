@@ -117835,6 +117835,36 @@
           "through": "進擊，敗瑾，斬霸，并首級千餘",
           "citation": "《晉書》卷一·宣帝紀",
           "note": "四庫本同條異文，與 sidneyluo 本宣帝紀江夏襄陽條（a05-001:7）同役互證，不另立新役；孫權圍江夏，遣瑾與張霸并攻襄陽，為司馬懿督軍所敗，張霸被斬。"
+        },
+        {
+          "id": "ci-sgz-zhugejin-taoguan-nanjun",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 24,
+          "from": "後從討關羽，封宣城侯",
+          "through": "住公安。",
+          "citation": "《三國志·吳書七 張顧諸葛步傳第七 諸葛瑾傳》",
+          "note": "從討關羽後封宣城侯，以綏南將軍代呂蒙領南郡太守，住公安，為瑾領南郡之始。"
+        },
+        {
+          "id": "ci-sgz-zhugejin-dajiangjun",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 27,
+          "from": "權稱尊號，拜大將軍、左都護",
+          "through": "領豫州牧。",
+          "citation": "《三國志·吳書七 張顧諸葛步傳第七 諸葛瑾傳》",
+          "note": "孫權稱尊號（黃龍元年，229）後，瑾拜大將軍、左都護，領豫州牧，為其生前最高官職。"
+        },
+        {
+          "id": "ci-sgz-zhugejin-yinmo",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 23,
+          "from": "權又怪校尉殷模，罪至不測。",
+          "through": "特為君赦之。",
+          "citation": "《三國志·吳書七 張顧諸葛步傳第七 諸葛瑾傳》",
+          "note": "校尉殷模獲罪至不測，羣下進言反觸權怒，惟瑾默然；瑾避席自陳同州傾覆、蒙生成之福而未能督厲之愧，權愴然特為瑾赦殷模，見瑾微見風彩、託事諫喻之風。"
         }
       ],
       "exclusions": [
