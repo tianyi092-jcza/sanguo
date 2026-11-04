@@ -122076,6 +122076,33 @@
           "from": "權使潘璋邀其徑路",
           "through": "傳言得羽。",
           "citation": "《三國志·吳書十八·吳範傳》"
+        },
+        {
+          "id": "pzhang-bio-qinyu-yiling",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 60,
+          "from": "權征關羽",
+          "through": "拜平北將軍、襄陽太守。",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳·潘璋傳》"
+        },
+        {
+          "id": "pzhang-bio-nanjun-faqiao",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 61,
+          "from": "魏將夏侯尚等圍南郡",
+          "through": "拜右將軍。",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳·潘璋傳》"
+        },
+        {
+          "id": "pzhang-bio-xingzi-jiahe-zu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 62,
+          "from": "璋為人麤猛",
+          "through": "復客五十家。",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳·潘璋傳》"
         }
       ],
       "exclusions": [
