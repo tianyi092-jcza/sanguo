@@ -118873,6 +118873,33 @@
           "from": "劉備與周瑜圍曹仁於江陵，別遣關羽絕北道。",
           "through": "通率衆擊之，下馬拔鹿角入圍，且戰且前，以迎仁軍，勇冠諸將。",
           "citation": "《三國志·魏書十八·李通傳》"
+        },
+        {
+          "id": "zyu-xianzhu-jie-meng",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "即遣諸葛亮隨肅詣孫權，結同盟誓。",
+          "through": "權遣周瑜、程普等水軍數萬與先主并力",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "zyu-zhuge-shuo-quan-pai-zhouyu",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 3,
+          "from": "權大恱，即遣周瑜、程普、魯肅等水軍三萬",
+          "through": "隨亮詣先主，并力拒曹公。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "zyu-pangtong-song-sang",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 3,
+          "from": "吳將周瑜助先主取荊州",
+          "through": "瑜卒，統送喪至吳",
+          "citation": "《三國志·蜀書七·龐統傳》"
         }
       ],
       "exclusions": [],
