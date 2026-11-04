@@ -118999,6 +118999,24 @@
           "from": "時周瑜受使至鄱陽，肅勸追召瑜還。",
           "through": "以肅為贊軍校尉，助畫方略。",
           "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "zyu-bingku-jian-su-dai",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 21,
+          "from": "周瑜病困，上疏曰",
+          "through": "瑜隕踣之日，所懷盡矣。",
+          "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "zyu-qu-shu-zibei",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 22,
+          "from": "周瑜、甘寧並勸權取蜀，權以咨備",
+          "through": "備當放髮歸於山林。",
+          "citation": "《三國志·吳書九·魯肅傳》"
         }
       ],
       "exclusions": [
@@ -119055,6 +119073,15 @@
           "term": "周瑜",
           "quote": "權然之，乃遣周瑜助備",
           "reason": "本段主述魯肅勸孫權拒曹；末句遣瑜助備出自魏書、九州春秋異說，且孫盛已駁其情節不實；赤壁任瑜事本傳已有正文記載，不另立摘錄。"
+        },
+        {
+          "id": "zyu-excl-007",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 23,
+          "term": "周瑜",
+          "quote": "周瑜之後，肅為之冠。",
+          "reason": "吳書評魯肅之語，僅以周瑜為標尺襯托魯肅，無周瑜本人新增史實，不另立摘錄。"
         }
       ],
       "unresolved": []
