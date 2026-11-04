@@ -122323,6 +122323,24 @@
           "from": "休密問張布，布與丁奉謀於會殺綝。",
           "through": "謀於會殺綝。",
           "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·孫綝傳》"
+        },
+        {
+          "id": "dfeng-jinshu-shaobei",
+          "work": "jinshu",
+          "source": "a05-003",
+          "paragraph": 5,
+          "from": "十一月，吳將丁奉等出芍陂，安東將軍汝陰王駿與義陽王望擊走之。",
+          "through": "十一月，吳將丁奉等出芍陂，安東將軍汝陰王駿與義陽王望擊走之。",
+          "citation": "《晉書·卷三·武帝紀》"
+        },
+        {
+          "id": "dfeng-jinshu-guokou",
+          "work": "jinshu",
+          "source": "a05-003",
+          "paragraph": 7,
+          "from": "吳將丁奉入渦口，揚州刺史牽弘擊走之。",
+          "through": "吳將丁奉入渦口，揚州刺史牽弘擊走之。",
+          "citation": "《晉書·卷三·武帝紀》"
         }
       ],
       "exclusions": [
@@ -122343,6 +122361,15 @@
           "term": "丁奉",
           "quote": "丁奉傳",
           "reason": "僅為《丁奉傳》篇目標題，無史事內容，不作摘錄；本傳正文自次段起錄。"
+        },
+        {
+          "id": "dfeng-excl-jinshu-ahcb-shaobei",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 41,
+          "term": "丁奉",
+          "quote": "十一月，吳將丁奉等出芍陂，安東將軍汝陰王駿與義陽王望擊走之。",
+          "reason": "四庫全書本同卷同條，與 sidneyluo 本 a05-003:5 已錄之芍陂條為同一史事之異本，不重錄。"
         }
       ],
       "unresolved": []
