@@ -120051,6 +120051,24 @@
           "from": "故呂蒙定荊州，",
           "through": "孫權賜錢一億。",
           "citation": "《晉書·卷二十六·食貨志》"
+        },
+        {
+          "id": "lmeng-zheng-huangzu-zhan-chenjiu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 28,
+          "from": "從征黃祖，祖令都督陳就逆以水軍出戰。",
+          "through": "以蒙為橫野中郎將，賜錢千萬。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-nanjun-yiling-chaidao",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 29,
+          "from": "是歲，又與周瑜、程普等西破曹公於烏林，圍曹仁於南郡。",
+          "through": "還，拜偏將軍，領尋陽令。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
         }
       ],
       "exclusions": [
@@ -120116,6 +120134,15 @@
           "term": "呂蒙",
           "quote": "此呂蒙所以克敵也",
           "reason": "鄧騫勸說語中以呂蒙克敵為喻，僅借舊事作比，無呂蒙具體史事，不另立摘錄。"
+        },
+        {
+          "id": "lmeng-excl-008",
+          "work": "jinshu",
+          "source": "a05-086-ahcb",
+          "paragraph": 41,
+          "term": "呂蒙",
+          "quote": "呂蒙之進，非舊勳也",
+          "reason": "張耽勸張重華語中以呂蒙進用為明王用才先例之喻，僅借舊事作比，無呂蒙具體史事，不另立摘錄。"
         }
       ],
       "unresolved": []
