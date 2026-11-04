@@ -118945,6 +118945,33 @@
           "from": "父異，洛陽令。",
           "through": "父異，洛陽令。",
           "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "zyu-chibi-yu-pu-bingli",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 5,
+          "from": "時劉備為曹公所破",
+          "through": "瑜等在南岸。",
+          "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "zyu-qu-shu-jianyi",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 8,
+          "from": "是時劉璋為益州牧",
+          "through": "北方可圖也。",
+          "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "zyu-baqiu-bingzu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 8,
+          "from": "瑜還江陵，為行裝，而道於巴丘病卒",
+          "through": "瑜還江陵，為行裝，而道於巴丘病卒",
+          "citation": "《三國志·吳書九·周瑜傳》"
         }
       ],
       "exclusions": [
