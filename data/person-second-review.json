@@ -117988,6 +117988,33 @@
           "from": "赤烏二年正月，地再震",
           "through": "壹後卒敗。",
           "citation": "《晉書》卷二十九·志第十九"
+        },
+        {
+          "id": "sg-buzhi-zishan",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 29,
+          "from": "步隲字子山",
+          "through": "臨淮淮陰人也。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
+        },
+        {
+          "id": "sg-buzhi-jiaozhou-215",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 31,
+          "from": "建安十五年，出領鄱陽太守",
+          "through": "由是加拜平戎將軍，封廣信侯。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
+        },
+        {
+          "id": "sg-buzhi-chengxiang-247",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 35,
+          "from": "赤烏九年，代陸遜為丞相",
+          "through": "而外內肅然。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
         }
       ],
       "exclusions": [],
