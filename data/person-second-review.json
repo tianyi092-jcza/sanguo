@@ -120686,6 +120686,15 @@
           "from": "臣以十一日平旦部所領",
           "through": "行先登校尉韓當、行武鋒校尉黃蓋等同時俱進",
           "citation": "裴注引《吳錄》"
+        },
+        {
+          "id": "hdang-juxian-lingzhang",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 4,
+          "from": "韓當",
+          "through": "劇縣令長",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [
@@ -120697,6 +120706,24 @@
           "term": "韓當",
           "quote": "是韓當兵，在此射鹿耳",
           "reason": "許貢客假稱韓當部兵以掩刺殺孫策之行，策識破其非韓當軍士；此段僅涉韓當部曲名義、無韓當本人事蹟，不作本人史實。"
+        },
+        {
+          "id": "hdang-excl-zong-jiangwei",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 25,
+          "term": "韓當",
+          "quote": "韓當子綜以其衆降魏",
+          "reason": "此段主角為韓當之子韓綜率衆降魏，非韓當本人事蹟；按父子嚴格分開原則，不可記為韓當降魏，排除。"
+        },
+        {
+          "id": "hdang-excl-bianwanglun",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "韓當",
+          "quote": "韓當、潘璋、黃蓋、蔣欽、周泰之屬宣其力",
+          "reason": "晉人陸機《辨亡論》後世追述，僅於吳將群像中列名，無韓當具體事實，不作本人史實。"
         }
       ],
       "unresolved": []
