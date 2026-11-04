@@ -118900,9 +118900,37 @@
           "from": "吳將周瑜助先主取荊州",
           "through": "瑜卒，統送喪至吳",
           "citation": "《三國志·蜀書七·龐統傳》"
+        },
+        {
+          "id": "zyu-pangtong-quan-zhiliu",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 4,
+          "from": "卿為周公瑾功曹",
+          "through": "殆不免周瑜之手！",
+          "citation": "《三國志·蜀書七·龐統傳》"
+        },
+        {
+          "id": "zyu-sunce-yi-tong-duanjin",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 8,
+          "from": "有周瑜者，與策同年",
+          "through": "勸策徙居舒，策從之。",
+          "citation": "《三國志·吳書一·孫策傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zyu-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "周瑜",
+          "quote": "而周瑜驅我偏師，黜之赤壁，喪旗亂轍，僅而獲免，收迹遠遁。",
+          "reason": "西晉陸機《辨亡論》附於三嗣主傳末的後世評價文字，僅重述周瑜赤壁破曹之事、無新增當時史實；赤壁本事已有孫權傳等條目，不另立摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
