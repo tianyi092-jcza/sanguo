@@ -121721,7 +121721,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xsheng-zhuizhan-yinlu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 20,
+          "from": "將軍全琮、徐盛追斬魏將尹盧，",
+          "through": "殺獲數百。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "xsheng-wuhu-shouqinli",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 16,
+          "from": "蕪湖令徐盛收欽屯吏，",
+          "through": "盛旣服德，論者美焉。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·蔣欽傳》"
+        },
+        {
+          "id": "xsheng-jiangbiao-jusheng",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 16,
+          "from": "江表傳曰：權謂欽曰",
+          "through": "權嘉之。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·蔣欽傳》裴注引《江表傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
