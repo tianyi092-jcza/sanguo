@@ -121335,7 +121335,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "gning-fan-liuzhang",
+          "work": "peizhu",
+          "source": "a04-031",
+          "paragraph": 3,
+          "from": "璋將沈彌、婁發、甘寧反，",
+          "through": "走入荊州。",
+          "citation": "裴注引《英雄記》"
+        },
+        {
+          "id": "gning-fazheng-houji",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 9,
+          "from": "加孫車騎遣弟及李異、",
+          "through": "甘寧等為其後繼。",
+          "citation": "《三國志·蜀書七·法正傳》"
+        },
+        {
+          "id": "gning-yiling-weikun",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "時甘寧在夷陵，",
+          "through": "軍以勝反。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
