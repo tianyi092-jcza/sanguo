@@ -120825,8 +120825,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "jqin-quantan-zhejie",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 30,
+          "from": "權常歎曰",
+          "through": "並作國士，不亦休乎！",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "jqin-youbing-xunjiang",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 36,
+          "from": "蔣欽將游兵萬人",
+          "through": "應敵所在",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "jqin-excl-bianwanglun",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "蔣欽",
+          "quote": "韓當、潘璋、黃蓋、蔣欽、周泰之屬宣其力",
+          "reason": "晉人陸機《辨亡論》後世追述，僅於吳將群像中列名，無蔣欽具體事實，不作本人史實。"
+        }
+      ],
       "unresolved": []
     }
   ]
