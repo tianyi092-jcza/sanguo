@@ -119534,6 +119534,15 @@
           "from": "後隨魯肅鎮益陽，拒關羽。",
           "through": "羽聞之，住不渡，而結柴營，今遂名此處為關羽瀨。",
           "citation": "《三國志·吳書十·甘寧傳》"
+        },
+        {
+          "id": "lsu-jiangbiao-bi-dengyu",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 28,
+          "from": "江表傳曰：初，權移都建業",
+          "through": "皆有旨趣，非孤私之也。」畯乃服。",
+          "citation": "《三國志·吳書十一·呂範傳》"
         }
       ],
       "exclusions": [
@@ -119545,6 +119554,24 @@
           "term": "魯肅",
           "quote": "魯肅傳",
           "reason": "僅為《魯肅傳》篇目標題，無史實敘述，不作摘錄。"
+        },
+        {
+          "id": "lsu-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 19,
+          "term": "魯肅",
+          "quote": "董率之才，魯肅不過",
+          "reason": "僅以魯肅為比才之準，謂陸禕董率之才不逾魯肅，無魯肅本人事蹟，不作摘錄。"
+        },
+        {
+          "id": "lsu-excl-003",
+          "work": "jinshu",
+          "source": "a05-126-ahcb",
+          "paragraph": 22,
+          "term": "魯子敬",
+          "quote": "卿魯子敬之儔",
+          "reason": "禿髮傉檀以魯肅為比，稱宗敞為魯子敬之儔，僅為後世比擬，無魯肅本人事蹟，不作摘錄。"
         }
       ],
       "unresolved": []
