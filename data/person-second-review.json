@@ -119682,7 +119682,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lmeng-xiduo-sanjun",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 15,
+          "from": "孫權以先主已得益州，使使報欲得荊州。",
+          "through": "乃遣呂蒙襲奪長沙、零陵、桂陽三郡。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "lmeng-baiyi-dujiang",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 5,
+          "from": "按呂蒙傳云",
+          "through": "作商賈服。",
+          "citation": "《三國志·蜀書六·關羽傳》"
+        },
+        {
+          "id": "lmeng-yanxi-nansanjun",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 13,
+          "from": "建安二十年，權遣呂蒙奄襲南三郡",
+          "through": "立脫身走，自歸先主。",
+          "citation": "《三國志·蜀書十·廖立傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
