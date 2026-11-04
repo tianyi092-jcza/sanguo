@@ -118242,13 +118242,13 @@
     {
       "id": "p0206",
       "name": "程秉",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "excerpts": [
         {
@@ -118268,6 +118268,24 @@
           "from": "病卒官。",
           "through": "凡三萬餘言。",
           "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "sg-chengbing-fushi-zhengchong",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 11,
+          "from": "秉為傅時，率更令河南徵崇亦篤學立行云。",
+          "through": "秉為傅時，率更令河南徵崇亦篤學立行云。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "sg-chengbing-ping-rulin",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 23,
+          "from": "嚴、程、闞生，一時儒林也。",
+          "through": "嚴、程、闞生，一時儒林也。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
         }
       ],
       "exclusions": [
@@ -118281,7 +118299,10 @@
           "reason": "僅為本傳篇目題名，無史實內容，不錄為摘錄。"
         }
       ],
-      "conclusions": [],
+      "conclusions": [
+        "向量候選枯竭與本傳補齊：本輪 retrieve 候選 3 段皆已覆蓋（本傳 9–11 段）；按本傳補齊逐段核對張嚴程闞薛傳（a04-053）共 24 段：程秉傳正文 10–11 段已覆蓋（含本輪補錄為傅時事與卷末評曰 23 段），篇題 9 段已排除；其餘未覆蓋段皆為張紘、嚴畯、闞澤、薛綜諸傳，確屬他人，不硬補；11 段吳錄注僅載徵崇生平、未涉程秉，不錄；累計摘錄 4 條、排除 1 條，收尾結案。",
+        "生平與事蹟：程秉字德樞，汝南南頓人；逮事鄭玄，後避亂交州，與劉熈考論大義，遂博通五經；士燮命為長史；孫權聞其名儒，以禮徵秉，拜太子太傅；黃武四年，權為太子登娉周瑜女，秉守太常迎妃於吳，進說太子登尊禮教於閨房；病卒於官，著周易摘、尚書駮、論語弼，凡三萬餘言；陳壽評曰嚴、程、闞生，一時儒林也。"
+      ],
       "unresolved": []
     }
   ]
