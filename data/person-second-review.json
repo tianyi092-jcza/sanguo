@@ -119507,6 +119507,33 @@
           "from": "魯肅卒，蒙西屯陸口",
           "through": "肅軍人馬萬餘盡以屬蒙。",
           "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-quan-lun-er-kuai",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 41,
+          "from": "公瑾昔要子敬來東，致達於孤",
+          "through": "勸孤急呼公瑾，付任以衆，逆而擊之，此二快也。",
+          "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-ping-duduan-qicai",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 42,
+          "from": "周瑜、魯肅建獨斷之明",
+          "through": "實奇才也。",
+          "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-yiyang-ganning-ju-yu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 36,
+          "from": "後隨魯肅鎮益陽，拒關羽。",
+          "through": "羽聞之，住不渡，而結柴營，今遂名此處為關羽瀨。",
+          "citation": "《三國志·吳書十·甘寧傳》"
         }
       ],
       "exclusions": [
