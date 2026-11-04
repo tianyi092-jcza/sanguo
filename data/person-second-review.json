@@ -123020,6 +123020,33 @@
           "from": "朱桓字休穆，吳郡吳人也。",
           "through": "稍遷裨將軍，封新城亭侯。",
           "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
+        },
+        {
+          "id": "zhuhuan-rxu-ju-ren",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 32,
+          "from": "桓分兵將赴羨溪",
+          "through": "權嘉桓功，封嘉興侯，遷奮武將軍，領彭城相。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
+        },
+        {
+          "id": "zhuhuan-shiting-xianji-weiyong",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 33,
+          "from": "桓進計曰",
+          "through": "權先與陸遜議，遜以為不可，故計不施行。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
+        },
+        {
+          "id": "zhuhuan-qianjiangjun-duanhou",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 34,
+          "from": "黃龍元年，拜桓前將軍，領青州牧，假節。",
+          "through": "其見憚如此。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
         }
       ],
       "exclusions": [
