@@ -118250,8 +118250,37 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "sg-chengbing-deshu-nandun",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 10,
+          "from": "程秉字德樞，汝南南頓人也。",
+          "through": "誠所賴於傅君也。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "sg-chengbing-bingzu-zhushu",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 11,
+          "from": "病卒官。",
+          "through": "凡三萬餘言。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "sg-chengbing-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 9,
+          "term": "程秉",
+          "quote": "程秉傳",
+          "reason": "僅為本傳篇目題名，無史實內容，不錄為摘錄。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
