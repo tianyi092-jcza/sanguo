@@ -117367,8 +117367,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "ci-sgz-guyong-chancellor-223",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 23,
+          "from": "六月，以太常顧雍為丞相",
+          "through": "六月，以太常顧雍為丞相",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "黃武四年（223）六月，丞相孫邵卒後，顧雍由太常升任丞相。"
+        },
+        {
+          "id": "ci-sgz-guyong-death-243",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 41,
+          "from": "冬十一月，丞相顧雍卒",
+          "through": "冬十一月，丞相顧雍卒",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "赤烏六年（243）冬十一月，丞相顧雍卒；翌年陸遜繼任丞相，可互證。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "guyong-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 3,
+          "term": "顧雍",
+          "quote": "乃用顧雍",
+          "reason": "本段主角為張昭，記孫權置丞相時眾議歸昭而權不用；顧雍僅結尾一語帶過，且任丞相事實已由吳主傳（a04-047:23）錄為摘錄，此處不重複錄入。"
+        }
+      ],
       "unresolved": []
     }
   ]
