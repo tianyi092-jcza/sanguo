@@ -121380,9 +121380,37 @@
           "from": "嘗以小故與甘寧忿爭，",
           "through": "誠不能隨俗屈曲矣。",
           "citation": "《三國志·吳書六·宗室傳·孫皎傳》"
+        },
+        {
+          "id": "gning-yiling-xianju",
+          "work": "peizhu",
+          "source": "a04-054",
+          "paragraph": 6,
+          "from": "瑜即遣甘寧前據夷陵。",
+          "through": "寧圍旣解，乃渡屯北岸，克期大戰。",
+          "citation": "裴注引《吳錄》"
+        },
+        {
+          "id": "gning-quan-qushu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 22,
+          "from": "周瑜、甘寧並勸權取蜀，",
+          "through": "權以咨備，",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·魯肅傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "gning-excl-bianwang",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "甘寧",
+          "quote": "甘寧、淩統、程普、賀齊、朱桓、朱然之徒奮其威",
+          "reason": "陸機《辨亡論》上篇列名孫權麾下諸將，僅泛稱甘寧等「奮其威」，無具體事蹟、繫年，屬後世評述修辭，不作本人史實證據，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
