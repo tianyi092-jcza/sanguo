@@ -122296,6 +122296,33 @@
           "from": "恪遣將軍留贊、呂據、唐咨、丁奉為前部。",
           "through": "振旅而歸。",
           "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·諸葛恪傳》"
+        },
+        {
+          "id": "dfeng-sunlin-shouchun",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 35,
+          "from": "綝於是大發卒出屯鑊里，復遣異率將軍丁奉、黎斐等五萬人攻魏，",
+          "through": "留輜重於都陸。",
+          "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·孫綝傳》"
+        },
+        {
+          "id": "dfeng-sunliang-shaxiong",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 36,
+          "from": "亮內嫌綝，乃推魯育見殺本末，責怒虎林督朱熊、熊弟外部督朱損不匡正孫峻，乃令丁奉殺熊於虎林，",
+          "through": "殺損於建業。",
+          "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·孫綝傳》"
+        },
+        {
+          "id": "dfeng-zhangbu-mousha",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 39,
+          "from": "休密問張布，布與丁奉謀於會殺綝。",
+          "through": "謀於會殺綝。",
+          "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·孫綝傳》"
         }
       ],
       "exclusions": [
