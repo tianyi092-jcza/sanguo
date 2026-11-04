@@ -119709,6 +119709,33 @@
           "from": "建安二十年，權遣呂蒙奄襲南三郡",
           "through": "立脫身走，自歸先主。",
           "citation": "《三國志·蜀書十·廖立傳》"
+        },
+        {
+          "id": "lmeng-banian-juxian-ling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 4,
+          "from": "八年，權西伐黃祖",
+          "through": "呂蒙等為劇縣令長。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "lmeng-shisan-po-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "十三年春，權復征黃祖",
+          "through": "遂屠其城。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "lmeng-shijiunian-de-sanjun",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 13,
+          "from": "蒙到，二郡皆服",
+          "through": "拒羽於益陽。",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [],
