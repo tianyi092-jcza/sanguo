@@ -121120,6 +121120,15 @@
           "from": "孫盛曰：昔三良從秦穆師以之不征；魏妾旣出，杜回以之僵仆。",
           "through": "世祚之促，不亦宜乎！",
           "citation": "《三國志·卷五十五·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳第十·陳武傳》"
+        },
+        {
+          "id": "cwu-bio-sons",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 49,
+          "from": "二子烈、封，年各數歲，權內養於宮，",
+          "through": "封復襲爵領兵。",
+          "citation": "《三國志·卷五十五·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳第十·陳武傳》"
         }
       ],
       "exclusions": [
@@ -121149,6 +121158,24 @@
           "term": "陳武",
           "quote": "陳武與表俱至偏將軍",
           "reason": "裴松之論傳例時僅以陳武與子表同至偏將軍說明不別載姓，本傳段24已載「累有功勞，進位偏將軍」，無新事跡，排除以免重複。"
+        },
+        {
+          "id": "cwu-excl-bianwanglun-liming",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "陳武",
+          "quote": "董襲、陳武殺身以衞主",
+          "reason": "陸機《辨亡論》後世論述，僅列名褒揚董襲、陳武殺身衞主，無具體事跡；本傳段24已載建安二十年從擊合肥奮命戰死，無新信息，排除。"
+        },
+        {
+          "id": "cwu-excl-bio-title-only",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 23,
+          "term": "陳武",
+          "quote": "陳武傳",
+          "reason": "僅本傳傳題三字，無事跡內容；正文見次段24，已錄為 cwu-bio-main，排除以免空條。"
         }
       ],
       "unresolved": []
