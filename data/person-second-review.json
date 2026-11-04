@@ -118308,15 +118308,18 @@
     {
       "id": "p0207",
       "name": "闞澤",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "向量候選枯竭與本傳補齊：本輪 retrieve 候選 0 段（此前候選皆已覆蓋）；按本傳補齊逐段核對張嚴程闞薛傳（a04-053）共 24 段：闞澤傳正文 13–14 段已覆蓋，篇題 12 段已排除，附載唐固 15 段主角為唐固已排除，卷末評曰 23 段本輪補錄；其餘未覆蓋段皆為張紘、嚴畯、程秉、薛綜諸傳，確屬他人，不硬補；累計摘錄 10 條、排除 3 條，收尾結案。",
+        "生平與事蹟：闞澤字德潤，會稽山陰人；家世農夫，好學，居貧傭書以供紙筆，追師論講、究覽羣籍、兼通歷數；察孝廉，除錢唐長，遷郴令；孫權為驃騎將軍辟補西曹掾，稱尊號後為尚書，嘉禾中為中書令、加侍中，赤烏五年拜太子太傅、領中書如故；斟酌諸家刊約禮文以授二宮，著乾象歷注以正時日；諫止呂壹焚裂之刑，主張官司科防宜依禮、律；預言曹丕不及十年而沒，文帝果七年崩；陳壽評曰嚴、程、闞生，一時儒林也。"
+      ],
       "excerpts": [
         {
           "id": "kze-sg-biography",
@@ -118398,6 +118401,15 @@
           "from": "吳中書令闞澤受劉洪乾象法於東萊徐岳",
           "through": "至吳亡。",
           "citation": "《晉書·卷十七 志第七 律曆中》"
+        },
+        {
+          "id": "kze-sg-ping-rulin",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 23,
+          "from": "嚴、程、闞生，一時儒林也。",
+          "through": "嚴、程、闞生，一時儒林也。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
         }
       ],
       "exclusions": [
@@ -118418,6 +118430,15 @@
           "term": "闞澤",
           "quote": "吳中書令闞澤受劉洪乾象法於東萊徐岳",
           "reason": "與 a05-017 第 25 段同文（跨版本鏡像），同一《晉書·卷十七 律曆志》段落已由 kze-jin-qianxiang-calendar 立證，不重複計入。"
+        },
+        {
+          "id": "kze-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 15,
+          "term": "闞澤",
+          "quote": "澤州里先輩丹楊唐固亦脩身積學",
+          "reason": "本段為闞澤傳附載的唐固事蹟，主角為丹楊唐固（澤之州里先輩），僅首句以「澤州里」點出與闞澤同鄉關係，並無闞澤本人事蹟，不計入闞澤摘錄，排除。"
         }
       ],
       "unresolved": []
