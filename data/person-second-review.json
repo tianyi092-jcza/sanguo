@@ -118756,15 +118756,19 @@
     {
       "id": "p0209",
       "name": "周瑜",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-054）周瑜段落 0–11 均已覆蓋（含篇題排除）：字公瑾、廬江舒人；推道南大宅與孫策結交；赴喪留吳共掌眾事；赤壁、南郡、益州議、上疏徙備、曲有誤周郎顧、兩男一女、兄子峻元功等皆已錄入。",
+        "向量候選已枯竭：全庫人名精確命中與本傳單字命中經 covered 去重、年號剛性剔除與鏡像去重後餘 0 段；未解決 0 條。本傳合卷內魯肅傳、呂蒙傳未覆蓋段落已逐段核對：僅 a04-054:17 含「子瑜」，然其指諸葛瑾（亮之兄），非周瑜，已以 exclusion 記明；其餘皆無周瑜內容。",
+        "本輪後共摘錄 39 條、排除 18 條；三國志、裴注、後漢書、華陽國志、晉書五項皆已核查，無新候選可錄。"
+      ],
       "excerpts": [
         {
           "id": "zyu-wanglang-jianghuai-zhijie",
@@ -119271,6 +119275,15 @@
           "term": "周瑜",
           "quote": "權命將周瑜逆擊之於烏林而破走也。",
           "reason": "《晉書》卷二十三《樂志》吳韋昭制十二曲名述功德受命之考述，改上之回為烏林僅以曲名由來交代周瑜烏林逆擊破走，烏林破曹本傳已有，無瑜本人新增史實。"
+        },
+        {
+          "id": "zyu-excl-018",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 17,
+          "term": "子瑜",
+          "quote": "肅謂亮曰「我子瑜友也」",
+          "reason": "《三國志·吳書九·魯肅傳》劉表死後肅迎備、與諸葛亮定交之語；此「子瑜」指諸葛瑾（亮之兄，字子瑜），非周瑜（字公瑾），確屬他人，排除。"
         }
       ],
       "unresolved": []
