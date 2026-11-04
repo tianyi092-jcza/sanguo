@@ -119736,6 +119736,33 @@
           "from": "蒙到，二郡皆服",
           "through": "拒羽於益陽。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "lmeng-xi-gongan-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 17,
+          "from": "閏月，權征羽，先遣呂蒙襲公安，獲將軍士仁。",
+          "through": "蒙據江陵，撫其老弱，釋于禁之囚。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "lmeng-zhaozi-cheng-ming",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 18,
+          "from": "拔呂蒙於行陣，是其明也；",
+          "through": "取荊州而兵不血刃，是其智也；",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "lmeng-jianyi-dadu",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 5,
+          "from": "後呂蒙當襲南郡",
+          "through": "命皎為後繼。",
+          "citation": "《三國志·吳書六·宗室傳·孫皎傳》"
         }
       ],
       "exclusions": [],
