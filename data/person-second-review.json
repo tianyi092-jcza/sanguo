@@ -119017,6 +119017,24 @@
           "from": "周瑜、甘寧並勸權取蜀，權以咨備",
           "through": "備當放髮歸於山林。",
           "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "zyu-nanjun-chai-dao-huoma",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 29,
+          "from": "瑜使甘寧前據夷陵",
+          "through": "獲馬三百匹，方船載還。",
+          "citation": "《三國志·吳書九·呂蒙傳》"
+        },
+        {
+          "id": "zyu-quan-lun-yu-dengyu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 41,
+          "from": "公瑾雄烈，膽略兼人，遂破孟德，開拓荊州",
+          "through": "常以比方鄧禹也。",
+          "citation": "《三國志·吳書九·呂蒙傳》"
         }
       ],
       "exclusions": [
@@ -119082,6 +119100,15 @@
           "term": "周瑜",
           "quote": "周瑜之後，肅為之冠。",
           "reason": "吳書評魯肅之語，僅以周瑜為標尺襯托魯肅，無周瑜本人新增史實，不另立摘錄。"
+        },
+        {
+          "id": "zyu-excl-008",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 30,
+          "term": "周瑜",
+          "quote": "魯肅代周瑜，當之陸口，過蒙屯下。",
+          "reason": "本段主述魯肅代瑜後與呂蒙論才、江表傳載孫權勸蒙向學，僅以代瑜交代魯肅任職背景，無周瑜本人新增史實，不另立摘錄。"
         }
       ],
       "unresolved": []
