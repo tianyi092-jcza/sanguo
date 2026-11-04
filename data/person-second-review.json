@@ -118536,6 +118536,33 @@
           "from": "薛綜曰：「樹翠羽為蓋",
           "through": "莖皆低曲。」",
           "citation": "《後漢書·志第二十九·輿服上》（注引薛綜《東京賦》注）"
+        },
+        {
+          "id": "xzong-hhs-yufu-genggen",
+          "work": "houhanshu",
+          "source": "a03-119",
+          "paragraph": 6,
+          "from": "薛綜曰：「戈，句孑戟。",
+          "through": "故稱木也。」",
+          "citation": "《後漢書·志第二十九·輿服上》（注引薛綜《東京賦》注）"
+        },
+        {
+          "id": "xzong-hhs-yufu-shuche",
+          "work": "houhanshu",
+          "source": "a03-119",
+          "paragraph": 16,
+          "from": "薛綜曰：「屬之言相連屬也",
+          "through": "為三行。」",
+          "citation": "《後漢書·志第二十九·輿服上》（注引薛綜《東京賦》注）"
+        },
+        {
+          "id": "xzong-hhs-yufu-taji",
+          "work": "houhanshu",
+          "source": "a03-119",
+          "paragraph": 17,
+          "from": "薛綜曰：「闟之言函也",
+          "through": "取四戟函車邊。」",
+          "citation": "《後漢書·志第二十九·輿服上》（注引薛綜《東京賦》注）"
         }
       ],
       "exclusions": [],
