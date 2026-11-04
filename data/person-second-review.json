@@ -118765,7 +118765,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zyu-wanglang-jianghuai-zhijie",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 17,
+          "from": "周公瑾，江淮之傑",
+          "through": "攘臂而為其將。",
+          "citation": "《三國志·魏書十三·王朗傳》"
+        },
+        {
+          "id": "zyu-xuhuang-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "from": "與曹仁擊周瑜於江陵",
+          "through": "江陵。",
+          "citation": "《三國志·魏書十七·徐晃傳》"
+        },
+        {
+          "id": "zyu-sunce-biao-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 12,
+          "from": "臣以十一日平旦部所領江夏太守行建威中郎將周瑜",
+          "through": "等同時俱進。",
+          "citation": "《三國志·吳書一·孫策傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
