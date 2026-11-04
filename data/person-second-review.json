@@ -121831,6 +121831,33 @@
           "term": "徐盛",
           "quote": "建武將軍徐盛",
           "reason": "此「徐盛」為前秦苻生朝的建武將軍，與孫吳徐盛同名異人，相隔百餘年，排除。"
+        },
+        {
+          "id": "xsheng-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 24,
+          "term": "盛",
+          "quote": "孫盛曰",
+          "reason": "此段為陳武傳，「盛」僅見於晉代史家孫盛之論曰（孫盛曰），與孫吳徐盛無關，排除。"
+        },
+        {
+          "id": "xsheng-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 35,
+          "term": "盛",
+          "quote": "欲以盛祖及蘇飛首",
+          "reason": "此段為甘寧傳，「盛」為動詞「裝盛」（以函盛黃祖及蘇飛之首），非人名，與徐盛無關，排除。"
+        },
+        {
+          "id": "xsheng-excl-005",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 49,
+          "term": "盛",
+          "quote": "孫盛曰",
+          "reason": "此段為凌統傳，「盛」僅見於晉代史家孫盛之論曰（孫盛曰），與徐盛無關，排除。"
         }
       ],
       "unresolved": []
