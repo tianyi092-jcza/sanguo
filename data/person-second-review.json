@@ -118442,6 +118442,22 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0208",
+      "name": "薛綜",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
