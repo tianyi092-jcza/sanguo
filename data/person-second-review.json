@@ -121398,6 +121398,33 @@
           "from": "周瑜、甘寧並勸權取蜀，",
           "through": "權以咨備，",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·魯肅傳》"
+        },
+        {
+          "id": "gning-yiling-qingjiu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 29,
+          "from": "瑜使甘寧前據夷陵，",
+          "through": "寧困急，使使請救。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "gning-wan-shengchengdu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 33,
+          "from": "蒙乃薦甘寧為升城督，",
+          "through": "食時破之。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "gning-meng-chenqing",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 39,
+          "from": "甘寧麤暴好殺，",
+          "through": "權遂厚寧，卒得其用。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
         }
       ],
       "exclusions": [
