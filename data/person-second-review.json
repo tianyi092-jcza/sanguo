@@ -123001,9 +123001,38 @@
           "from": "遜自為中部，令朱桓、全琮為左右翼，三道俱進，果衝休伏兵，因驅走之，追亡逐北，徑至夾石，斬獲萬餘，牛馬騾驢車乘萬兩，軍資器械略盡。",
           "through": "軍資器械略盡。",
           "citation": "《三國志·吳書十三·陸遜傳》裴注引《吳錄》"
+        },
+        {
+          "id": "zhuhuan-yi-shouchun",
+          "work": "peizhu",
+          "source": "a04-047",
+          "paragraph": 39,
+          "from": "陸遜、朱桓別征壽春，大駕入淮陽，歷青、徐。",
+          "through": "陸遜、朱桓別征壽春，大駕入淮陽，歷青、徐。",
+          "context": "權弗能用之。",
+          "citation": "《三國志·吳書二·吳主傳》裴注引《漢晉春秋》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhuhuan-excl-bianwanglun",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "朱桓",
+          "quote": "甘寧、淩統、程普、賀齊、朱桓、朱然之徒奮其威",
+          "reason": "陸機《辨亡論》後世論述泛列吳臣，僅名列朱桓於奮威之徒，無具體生平事實，不作史實摘錄。"
+        },
+        {
+          "id": "zhuhuan-excl-ziyi-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 30,
+          "term": "朱桓",
+          "quote": "朱桓傳子異附",
+          "reason": "僅為子朱異附傳的標題，非朱桓本人事實段落，不作摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
