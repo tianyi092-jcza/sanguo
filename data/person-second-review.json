@@ -121977,6 +121977,33 @@
           "from": "諸葛瑾、潘璋、楊粲救南郡，",
           "through": "朱桓以濡須督拒仁。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "pzhang-jiangling-shuicheng",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 24,
+          "from": "及春水生，潘璋等作水城於上流，",
+          "through": "真等退走。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳·諸葛瑾傳》裴注（吳錄）"
+        },
+        {
+          "id": "pzhang-baidi-jice",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 36,
+          "from": "蒙乃密陳計策曰：",
+          "through": "潘璋住白帝，",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "pzhang-lumeng-duanlu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 37,
+          "from": "權使朱然、潘璋斷其徑路，",
+          "through": "荊州遂定。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
         }
       ],
       "exclusions": [
