@@ -120778,6 +120778,33 @@
           "term": "當",
           "quote": "將吏以下，當並收治",
           "reason": "此段主角為韓當之子韓綜謀叛奔魏，單字「當」皆為一般用語，非人名韓當；且韓綜降魏一事已於他段排除在案，不作韓當本人史實。"
+        },
+        {
+          "id": "hdang-excl-zhoutai-dang",
+          "work": "peizhu",
+          "source": "a04-055",
+          "paragraph": 20,
+          "term": "當",
+          "quote": "孤當與卿同榮辱",
+          "reason": "此段主角為周泰（幼平），引文出自江表傳裴注；「當」為「應當」之一般用語，非人名韓當，不作韓當本人史實。"
+        },
+        {
+          "id": "hdang-excl-ganning-dang",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 40,
+          "term": "當",
+          "quote": "臨當與升堂",
+          "reason": "此段主角為甘寧與呂蒙之糾紛；「當」為「將要」之一般用語，非人名韓當，不作韓當本人史實。"
+        },
+        {
+          "id": "hdang-excl-lingtong-dang",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 44,
+          "term": "當",
+          "quote": "克日當攻",
+          "reason": "此段主角為凌統；「當」為表將然之一般用語，非人名韓當，不作韓當本人史實。"
         }
       ],
       "unresolved": []
