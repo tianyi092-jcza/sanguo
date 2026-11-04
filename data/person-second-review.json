@@ -118042,9 +118042,37 @@
           "from": "後中書呂壹典校文書，多所糾舉，隲上疏曰",
           "through": "然時采其言，多蒙濟賴。",
           "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
+        },
+        {
+          "id": "sg-buzhi-jiao-zhengqiang",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 30,
+          "from": "隲與旌求食其地，懼為所侵，乃共脩刺奉瓜，以獻征羌。",
+          "through": "當何所恥？",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
+        },
+        {
+          "id": "sg-buzhi-zu-248",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 36,
+          "from": "十一年卒，子恊嗣，統隲所領，加撫軍將軍。",
+          "through": "恊卒，子璣嗣侯。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳第七》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "buzhi-excl-chan-jiangjin",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 36,
+          "term": "闡",
+          "quote": "闡累世在西陵，卒被徵命，自以失職，又懼有讒禍，於是據城降晉。",
+          "reason": "闡為步騭之子（恊之弟），鳳皇元年據西陵降晉係其子輩後事，非步騭本人（赤烏十一年卒）史實，排除。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
