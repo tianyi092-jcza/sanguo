@@ -116937,6 +116937,26 @@
           "through": "少府孔融等皆與親善。",
           "citation": "《三國志·吳書八·張紘傳》",
           "note": "本條只錄正文建安四年奉章至許一段；本段後續吳書、江表傳裴注內容不在本條範圍。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-jianyi-du-moling",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 3,
+          "from": "紘建計宜出都秣陵",
+          "through": "權從之。",
+          "citation": "《三國志·吳書八·張紘傳》",
+          "note": "本條只錄正文建計句；江表傳裴注稱權善其議而未能從、後因劉備勸而都之，異說不在本條範圍。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-tongjun-canmou",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 5,
+          "from": "初，紘同郡秦松字文表",
+          "through": "參與謀謨。",
+          "citation": "《三國志·吳書八·張紘傳》",
+          "note": "本條只錄紘與秦松、陳端同見待於孫策一段；「各早卒」指秦松、陳端，不在錄句範圍。"
         }
       ],
       "exclusions": [
@@ -116948,6 +116968,15 @@
           "term": "張紘",
           "quote": "張紘傳",
           "reason": "僅為本傳篇題，無史實內容，不錄為史實。"
+        },
+        {
+          "id": "zhanghong-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 11,
+          "term": "張紘",
+          "quote": "十六年，權徙治秣陵。",
+          "reason": "本段僅記孫權徙治秣陵，未提及張紘；雖為紘建計之結果，但非張紘本人史實，不錄為其摘錄。"
         }
       ],
       "unresolved": []
