@@ -120298,6 +120298,33 @@
           "from": "程普請擊昭",
           "through": "乃舍之",
           "citation": "《三國志·吳書一·孫破虜討逆傳》"
+        },
+        {
+          "id": "chpu-huangzu-dangkou",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 12,
+          "from": "領零陵太守行蕩寇中郎將程普",
+          "through": "行奉業校尉孫權",
+          "citation": "《三國志·吳書一·孫破虜討逆傳》"
+        },
+        {
+          "id": "chpu-quan-jiangshuai",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 2,
+          "from": "而周瑜、程普",
+          "through": "呂範等為將率",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "chpu-tao-lean",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 4,
+          "from": "程普討樂安",
+          "through": "太史慈領海昏",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [],
