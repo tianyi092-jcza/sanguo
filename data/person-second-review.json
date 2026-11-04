@@ -118455,7 +118455,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xzong-hhs-dongjing-zhulong",
+          "work": "houhanshu",
+          "source": "a03-007",
+          "paragraph": 23,
+          "from": "薛綜注東京賦云",
+          "through": "芳林謂兩旁樹木蘭也。」",
+          "citation": "《後漢書·卷七·孝桓帝紀第七》（注引薛綜《東京賦》注）"
+        },
+        {
+          "id": "xzong-hhs-xijing-zhenzi",
+          "work": "houhanshu",
+          "source": "a03-010a-ahcb",
+          "paragraph": 46,
+          "from": "薛綜注西京賦云",
+          "through": "善童幼子也。」",
+          "citation": "《後漢書·卷十上·皇后紀第十上》（注引薛綜《西京賦》注）"
+        },
+        {
+          "id": "xzong-hhs-xijing-sali",
+          "work": "houhanshu",
+          "source": "a03-040",
+          "paragraph": 26,
+          "from": "薛綜注西京賦曰",
+          "through": "纚音山綺反。」",
+          "citation": "《後漢書·卷四十上·列傳第三十上》（注引薛綜《西京賦》注）"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
