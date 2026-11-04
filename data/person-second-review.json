@@ -119408,6 +119408,33 @@
           "from": "吳將魯肅遺先主書曰",
           "through": "始當展其驥足耳。",
           "citation": "《三國志·蜀書七·龐統法正傳》"
+        },
+        {
+          "id": "lsu-bianwang-fuxin",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "from": "周瑜、陸公、魯肅、呂蒙之疇入為腹心",
+          "through": "出作股肱；",
+          "citation": "《三國志·吳書三·三嗣主傳》"
+        },
+        {
+          "id": "lsu-zhangzhao-bolun",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 4,
+          "from": "然所以不相昭者",
+          "through": "蓋以昔駮周瑜、魯肅等議為非也。",
+          "citation": "《三國志·吳書七·張昭傳》"
+        },
+        {
+          "id": "lsu-yanjun-daisu",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 7,
+          "from": "及橫江將軍魯肅卒",
+          "through": "鎮據陸口。",
+          "citation": "《三國志·吳書八·嚴畯傳》"
         }
       ],
       "exclusions": [],
