@@ -119462,9 +119462,37 @@
           "from": "魯肅字子敬",
           "through": "甚得鄉邑歡心。",
           "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-paiyi-jucao",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 18,
+          "from": "會權得曹公欲東之問",
+          "through": "此天以卿賜我也。",
+          "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-yu-jian-daiyu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 21,
+          "from": "周瑜病困，上疏曰",
+          "through": "瑜隕踣之日，所懷盡矣。",
+          "citation": "《三國志·吳書九·魯肅傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "lsu-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 12,
+          "term": "魯肅",
+          "quote": "魯肅傳",
+          "reason": "僅為《魯肅傳》篇目標題，無史實敘述，不作摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
