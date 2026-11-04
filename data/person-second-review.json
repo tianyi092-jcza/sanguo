@@ -120843,6 +120843,15 @@
           "from": "蔣欽將游兵萬人",
           "through": "應敵所在",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "jqin-ben-zhuan",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 14,
+          "from": "蔣欽字公弈",
+          "through": "典領辭訟。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·蔣欽傳》"
         }
       ],
       "exclusions": [
@@ -120854,6 +120863,24 @@
           "term": "蔣欽",
           "quote": "韓當、潘璋、黃蓋、蔣欽、周泰之屬宣其力",
           "reason": "晉人陸機《辨亡論》後世追述，僅於吳將群像中列名，無蔣欽具體事實，不作本人史實。"
+        },
+        {
+          "id": "jqin-excl-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 13,
+          "term": "蔣欽",
+          "quote": "蔣欽傳",
+          "reason": "僅為本傳篇目標題，無具體事實，不作史實摘錄。"
+        },
+        {
+          "id": "jqin-excl-zhoutai",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 19,
+          "term": "蔣欽",
+          "quote": "與蔣欽隨孫策為左右",
+          "reason": "周泰傳開篇段落，主角為周泰，僅以蔣欽陪襯說明周泰隨孫策事，無蔣欽獨立事實，且隨策事本傳已載，不另作蔣欽史實。"
         }
       ],
       "unresolved": []
