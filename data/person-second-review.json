@@ -122004,6 +122004,15 @@
           "from": "權使朱然、潘璋斷其徑路，",
           "through": "荊州遂定。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "pzhang-suiquan-zhaomu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 58,
+          "from": "潘璋字文珪，東郡發干人也。",
+          "through": "遂以為將。",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳·潘璋傳》"
         }
       ],
       "exclusions": [
@@ -122015,6 +122024,24 @@
           "term": "潘璋",
           "quote": "韓當、潘璋、黃蓋、蔣欽、周泰之屬宣其力；",
           "reason": "此段為陸機《辨亡論》後世總述，僅將潘璋列名於孫權群將之中、無具體事蹟，不作史實摘錄。"
+        },
+        {
+          "id": "pzhang-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 57,
+          "term": "潘璋",
+          "quote": "潘璋傳",
+          "reason": "本段僅為本傳篇目，無史實內容，不作摘錄。"
+        },
+        {
+          "id": "pzhang-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 64,
+          "term": "潘璋",
+          "quote": "屬甘寧、陸遜、潘璋等。",
+          "reason": "此段為丁奉傳開篇，潘璋僅列名於丁奉早年所屬諸將之中、無其本人具體事蹟，不作史實摘錄。"
         }
       ],
       "unresolved": []
