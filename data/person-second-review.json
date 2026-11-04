@@ -118718,7 +118718,26 @@
           "citation": "《三國志·卷五十三·吳書八 張嚴程闞薛傳第八（薛綜）》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xzong-excl-zixu",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 21,
+          "term": "子珝",
+          "quote": "子珝，官及威南將軍，征交阯還，道病死。",
+          "reason": "薛綜之子薛珝事蹟，非薛綜本人；與父嚴格分開，排除。"
+        },
+        {
+          "id": "xzong-excl-ying",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 22,
+          "term": "瑩",
+          "quote": "是歲，何定建議鑿聖谿以通江淮，皓令瑩督萬人往，",
+          "reason": "薛綜之子薛瑩事蹟，非薛綜本人；與父嚴格分開，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
