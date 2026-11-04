@@ -117193,6 +117193,33 @@
           "term": "張紘",
           "quote": "九月丙午，葬孝順皇帝于憲陵",
           "reason": "後漢書本紀段，記順帝葬于憲陵事，全段未提張紘，亦無歸鄉省墓相關，事件信號誤配，排除。"
+        },
+        {
+          "id": "zhanghong-excl-027",
+          "work": "jinshu",
+          "source": "a05-103-ahcb",
+          "paragraph": 28,
+          "term": "張紘",
+          "quote": "曜至自河西，遣胡元增其父及妻墓高九十尺。",
+          "reason": "晉書段，記劉曜遣胡元增其父及妻墓高事，全段未提張紘，與張紘歸鄉省墓無關，事件信號誤配，排除。"
+        },
+        {
+          "id": "zhanghong-excl-028",
+          "work": "houhanshu",
+          "source": "a03-010a-ahcb",
+          "paragraph": 33,
+          "term": "張紘",
+          "quote": "帝以貴人酷歿，斂葬禮闕",
+          "reason": "後漢書段，記貴人改殯於承光宮、葬西陵事，全段未提張紘，與歸鄉省墓無關，事件信號誤配，排除。"
+        },
+        {
+          "id": "zhanghong-excl-029",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 131,
+          "term": "張紘",
+          "quote": "戊辰，秭歸山崩",
+          "reason": "後漢書本紀段，記秭歸山崩事，全段未提張紘，與歸鄉省墓無關，事件信號（歸字）誤配，排除。"
         }
       ],
       "unresolved": []
