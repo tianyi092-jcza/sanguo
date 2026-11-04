@@ -121080,6 +121080,50 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0217",
+      "name": "陳武",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [
+        {
+          "id": "cwu-excl-dachenwushi",
+          "work": "houhanshu",
+          "source": "a03-040",
+          "paragraph": 27,
+          "term": "陳武",
+          "quote": "大武謂大陳武事也",
+          "reason": "後漢書《東京賦》注文「大陳武事」指陳列武事、講武之義，「陳武」為動詞性詞組，非人名陳武；全段無吳將陳武本人事跡，排除。"
+        },
+        {
+          "id": "cwu-excl-chenfan-douwu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 1,
+          "term": "陳武",
+          "quote": "太祖上書陳武等正直而見陷害",
+          "reason": "此「陳武」為前文「竇武、太傅陳蕃」二人之合稱（陳蕃＋竇武），非吳將陳武；且繫年靈帝時，與吳陳武無關，排除。"
+        },
+        {
+          "id": "cwu-excl-peizhu-pianjiangjun",
+          "work": "peizhu",
+          "source": "a04-039",
+          "paragraph": 18,
+          "term": "陳武",
+          "quote": "陳武與表俱至偏將軍",
+          "reason": "裴松之論傳例時僅以陳武與子表同至偏將軍說明不別載姓，本傳段24已載「累有功勞，進位偏將軍」，無新事跡，排除以免重複。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
