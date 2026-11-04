@@ -120964,15 +120964,18 @@
     {
       "id": "p0216",
       "name": "周泰",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-055）周泰傳段 18–22 均已覆蓋（含篇題排除、子嗣附載排除）：字幼平、九江下蔡人；與蔣欽隨孫策為左右，策入會稽署別部司馬授兵，宣城救權身被十二創，策深德之補春穀長；從攻皖、討江夏、還過豫章補宜春長；從討黃祖、赤壁拒曹公、南郡攻曹仁、屯岑、濡須赴擊留督濡須拜平虜將軍、權示創授御蓋諸將乃伏；破關羽後拜漢中太守、奮威將軍、封陵陽侯、黃武中卒。他傳見吳主傳劇縣令長、守將白事，朱桓代為濡須督。",
+        "向量候選已枯竭：全庫人名精確命中經 covered 去重、年號剛性剔除與鏡像去重後餘 0 段；未解決 0 條。本傳合卷（a04-055）已逐段核對：全文名「周泰」僅見已覆蓋段 18、19、49，其餘未覆蓋段落無周泰本人內容；三國志、裴注、後漢書、華陽國志、晉書五項皆已核查，無新候選可錄。"
+      ],
       "excerpts": [
         {
           "id": "ztai-juxian-lingzhang",
@@ -121027,6 +121030,15 @@
           "from": "後代周泰為濡須督。",
           "through": "後代周泰為濡須督。",
           "citation": "《三國志·吳書十一·朱桓傳》"
+        },
+        {
+          "id": "ztai-hanzhong-fenwei-lingyang",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 21,
+          "from": "後權破關羽，欲進圖蜀，拜泰漢中太守、奮威將軍，封陵陽侯。",
+          "through": "黃武中卒。",
+          "citation": "《三國志·吳書十·周泰傳》"
         }
       ],
       "exclusions": [
@@ -121056,6 +121068,15 @@
           "term": "周泰",
           "quote": "泣周泰之夷",
           "reason": "孫盛論中僅以周泰之夷為例證孫權養士，係對本傳示創事的後世概括，無周泰新事跡；示創本事已錄本傳段20，不重複摘錄。"
+        },
+        {
+          "id": "ztai-excl-zishao-cheng",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 22,
+          "term": "邵",
+          "quote": "子邵以騎都尉領兵。",
+          "reason": "周泰子邵以騎都尉領兵、弟承領兵襲侯，係子嗣附載，非周泰本人事跡；按父子嚴格分開原則排除。"
         }
       ],
       "unresolved": []
