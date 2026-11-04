@@ -121712,15 +121712,19 @@
     {
       "id": "p0221",
       "name": "徐盛",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-055）徐盛傳段 51–56 均已覆蓋：字文嚮、琅邪莒人，遭亂客居吳以勇氣聞，孫權統事以為別部司馬授兵五百守柴桑拒黃祖；濡須禦曹、邢貞拜吳王時忿憤請并許洛吞巴蜀；遷建武將軍封都亭侯領廬江太守、洞口拒曹休；本輪補錄尾段 55–56：魏文帝大出有渡江之志，盛建計從建業築圍作薄落設假樓江中浮船，文帝到廣陵望圍愕然江水盛長引軍退，諸將乃伏；黃武中卒，子楷襲爵領兵。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重、年號剛性剔除與鏡像去重後餘 0 段；未解決 0 條。本傳段 51–56 全覆蓋，段 50 為徐盛傳篇題已排除；他傳提及前輪已處理，孫盛曰等同名泛稱已排除。",
+        "本輪後共摘錄 16 條、排除 5 條；三國志、裴注、後漢書、華陽國志、晉書五項皆已核查，無新候選可錄。"
+      ],
       "excerpts": [
         {
           "id": "xsheng-zhuizhan-yinlu",
@@ -121837,6 +121841,33 @@
           "paragraph": 53,
           "from": "及權為魏稱藩，魏使邢貞拜權為吳王。",
           "through": "非乆下人者也。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·徐盛傳》"
+        },
+        {
+          "id": "xsheng-jianye-zhuwei",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 55,
+          "from": "後魏文帝大出，有渡江之志，",
+          "through": "諸將乃伏。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·徐盛傳》"
+        },
+        {
+          "id": "xsheng-weishi-tan",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 55,
+          "from": "魏氏春秋云：文帝歎曰：",
+          "through": "無所用也。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·徐盛傳》裴注引《魏氏春秋》"
+        },
+        {
+          "id": "xsheng-huangwu-zu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 56,
+          "from": "黃武中卒。",
+          "through": "子楷，襲爵領兵。",
           "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·徐盛傳》"
         }
       ],
