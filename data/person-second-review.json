@@ -117961,7 +117961,35 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ci-jin-buzhi-zuzhong-234",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 44,
+          "from": "二年夏五月，吳將全琮寇芍陂",
+          "through": "諸葛瑾、步騭掠柤中",
+          "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "ci-jin-buzhi-zuzhong-234-sidneyluo",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 21,
+          "from": "二年夏五月，吳將全琮寇芍陂",
+          "through": "諸葛瑾、步騭掠柤中",
+          "citation": "《晉書》卷一·宣帝紀"
+        },
+        {
+          "id": "ci-jin-buzhi-luyi-239",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 141,
+          "from": "赤烏二年正月，地再震",
+          "through": "壹後卒敗。",
+          "citation": "《晉書》卷二十九·志第十九"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
