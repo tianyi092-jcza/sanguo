@@ -120271,7 +120271,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "chpu-chibi-bingli-xianzhu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "權遣周瑜、程普等水軍數萬",
+          "through": "與先主并力",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "chpu-chibi-sanwan-bingli",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 3,
+          "from": "權大恱，即遣周瑜、程普、魯肅等水軍三萬",
+          "through": "并力拒曹公",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "chpu-qingji-xuzhao",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "from": "程普請擊昭",
+          "through": "乃舍之",
+          "citation": "《三國志·吳書一·孫破虜討逆傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
