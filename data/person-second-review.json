@@ -119062,6 +119062,33 @@
           "from": "即遣周瑜程普水軍三萬助先主",
           "through": "拒曹公大破公軍扵赤壁",
           "citation": "《華陽國志》卷六·四部叢刊本"
+        },
+        {
+          "id": "zyu-jiangbiao-ju-zhi",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 3,
+          "from": "江表傳曰：曹公新破袁紹，兵威日盛，建安七年，下書責權質任子。",
+          "through": "遂不送質。",
+          "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "zyu-nanjun-jiu-ning-zhongshi",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 6,
+          "from": "瑜用呂蒙計，留凌統以守其後，身與蒙上救寧。",
+          "through": "仁由是遂退。",
+          "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "zyu-jun-yuangong-quan-nian",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 11,
+          "from": "瑜兄子峻，亦以瑜元功為偏將軍，領吏士千人。",
+          "through": "孤念公瑾，豈有已乎？」",
+          "citation": "《三國志·吳書九·周瑜傳》"
         }
       ],
       "exclusions": [
