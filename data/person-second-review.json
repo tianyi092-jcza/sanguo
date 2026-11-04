@@ -115996,9 +115996,39 @@
           "through": "帝以素書所著典論及詩賦餉孫權，又以紙寫一通與張昭。",
           "citation": "《三國志·魏書二·文帝紀》裴注",
           "note": "文帝紀裴注引胡沖吳歷：魏文帝以所著典論及詩賦餉孫權，又以紙寫一通與張昭。裴注所載，僅記張昭得書一事。"
+        },
+        {
+          "id": "ci-sgz-zhangzhao-jian-liang",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 3,
+          "from": "袁子曰：張子布薦亮於孫權，亮不肯留。",
+          "through": "袁子曰：張子布薦亮於孫權，亮不肯留。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》裴注",
+          "note": "裴注引袁子：張子布曾薦諸葛亮於孫權，亮不肯留。僅記薦舉一事，不涉張昭其他事蹟。"
+        },
+        {
+          "id": "ci-sgz-zhangzhao-zibu-suizi",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 20,
+          "from": "又欲遣張子布追輔護之。",
+          "through": "又欲遣張子布追輔護之。",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "孫權與浩周書中言：欲遣張子布追隨輔護入侍之子。文帝詔亦引此言，稱孫長緒、張子布二人皆權股肱心腹。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangzhao-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 3,
+          "term": "張昭",
+          "quote": "孰若安時處順，端拱吳、越，與張昭、張紘之儔同保元吉者哉？",
+          "reason": "裴注松之議論僅以張昭、張紘為安時處順之儔作比，無張昭具體言行事蹟，不錄為史實。"
+        }
+      ],
       "unresolved": []
     }
   ]
