@@ -121497,6 +121497,24 @@
           "from": "寧卒，權痛惜之。",
           "through": "子瓌，以罪徙會稽，無幾死。",
           "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·甘寧傳》"
+        },
+        {
+          "id": "gning-xiaoyaojin-215",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 39,
+          "from": "建安二十年，從攻合肥",
+          "through": "權尤嘉之。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·甘寧傳》"
+        },
+        {
+          "id": "gning-lingtong-feud-wushu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 39,
+          "from": "吳書曰：凌統怨寧殺其父操，",
+          "through": "遂徙屯於半州。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·甘寧傳》"
         }
       ],
       "exclusions": [
@@ -121517,6 +121535,15 @@
           "term": "甘寧",
           "quote": "甘寧傳",
           "reason": "該段僅為本傳篇名標題「甘寧傳」，無事蹟、繫年內容，不作本人史實證據，排除。"
+        },
+        {
+          "id": "gning-excl-dingfeng-055-64",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 64,
+          "term": "甘寧",
+          "quote": "屬甘寧、陸遜、潘璋等。",
+          "reason": "該段為丁奉傳開篇，主角是丁奉，甘寧僅在丁奉早年所屬將領名單中被順帶提及，無甘寧事蹟與繫年，不作本人史實證據，排除。"
         }
       ],
       "unresolved": []
