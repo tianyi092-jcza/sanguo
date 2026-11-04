@@ -119300,7 +119300,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lsu-sunquan-binke",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 2,
+          "from": "招延俊秀，聘求名士",
+          "through": "魯肅、諸葛瑾等始為賔客。",
+          "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "lsu-diaobiao-chuanzhi",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "魯肅乞奉命弔表二子",
+          "through": "肅與相見，因傳權旨，為陳成敗。",
+          "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "lsu-hanchang-taishou",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 10,
+          "from": "分長沙為漢昌郡",
+          "through": "以魯肅為太守，屯陸口。",
+          "citation": "《三國志·吳書二·孫權傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
