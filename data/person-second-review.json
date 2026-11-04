@@ -122494,15 +122494,18 @@
     {
       "id": "p0224",
       "name": "朱然",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-056）朱然傳段 9–17 均已覆蓋：朱治姊子、本姓施氏、十三歲乞為嗣；與權同學書、歷餘姚長山陰令；呂蒙薦代鎮江陵、江陵守城六月退魏軍；黃武六年石陽退師斷後拒敵掩護前船、黃龍元年拜車騎將軍右護軍領兖州牧後以兖州在蜀分解牧職；嘉禾三年與全琮為左右督、赤烏五年征柤中、品行形貌；子績附傳及治喪後乞復本姓權不許。段 8 為朱績附傳小標題已排除。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重、年號剛性剔除與鏡像去重後餘 0 段；未解決 0 條。排除 5 條：晉書四庫本異文 2 條（與 sidneyluo 本同段，底本以 sidneyluo 為準）、辨亡論列名、績附小標、周魴詐降書孤證。"
+      ],
       "excerpts": [
         {
           "id": "zran-jiangji-shangliu",
@@ -122890,6 +122893,24 @@
           "from": "初，然為治行喪竟，乞復本姓，權不許",
           "through": "初，然為治行喪竟，乞復本姓，權不許",
           "citation": "《三國志·吳書十一·朱然傳附朱績》"
+        },
+        {
+          "id": "zran-shiyang-duanhou",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 13,
+          "from": "六年，權自率衆攻石陽，及至旋師，潘璋斷後。夜出錯亂，敵追擊璋，璋不能禁。然即還住拒敵，使前船得引極遠，徐乃後發。",
+          "through": "六年，權自率衆攻石陽，及至旋師，潘璋斷後。夜出錯亂，敵追擊璋，璋不能禁。然即還住拒敵，使前船得引極遠，徐乃後發。",
+          "citation": "《三國志·吳書十一·朱然傳》"
+        },
+        {
+          "id": "zran-huanglong-cheqi",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 13,
+          "from": "黃龍元年，拜車騎將軍、右護軍，領兖州牧。頃之，以兖州在蜀分，解牧職。",
+          "through": "黃龍元年，拜車騎將軍、右護軍，領兖州牧。頃之，以兖州在蜀分，解牧職。",
+          "citation": "《三國志·吳書十一·朱然傳》"
         }
       ],
       "exclusions": [
