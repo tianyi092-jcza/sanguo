@@ -121932,7 +121932,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "pzhang-wushu-niduan-yulu",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 5,
+          "from": "孫權遣將潘璋逆斷羽走路，",
+          "through": "羽至即斬",
+          "citation": "《三國志·蜀書六·關張馬黃趙傳·關羽傳》裴注（臣松之桉《吳書》）"
+        },
+        {
+          "id": "pzhang-yiyang-juyu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 13,
+          "from": "與孫皎、潘璋并魯肅兵並進，",
+          "through": "拒羽於益陽。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "pzhang-zhangxiang-qinyu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 17,
+          "from": "權先使朱然、潘璋斷其徑路。",
+          "through": "遂定荊州。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
