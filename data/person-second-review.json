@@ -120668,8 +120668,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "hdang-zangba-chenlan",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 11,
+          "from": "張遼之討陳蘭，霸別遣至皖，討吳將韓當",
+          "through": "與戰破之，還屯舒",
+          "citation": "《三國志·魏書十八·臧霸傳》"
+        },
+        {
+          "id": "hdang-huangzu-xiandeng",
+          "work": "peizhu",
+          "source": "a04-046",
+          "paragraph": 12,
+          "from": "臣以十一日平旦部所領",
+          "through": "行先登校尉韓當、行武鋒校尉黃蓋等同時俱進",
+          "citation": "裴注引《吳錄》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "hdang-excl-xugongke",
+          "work": "peizhu",
+          "source": "a04-046",
+          "paragraph": 13,
+          "term": "韓當",
+          "quote": "是韓當兵，在此射鹿耳",
+          "reason": "許貢客假稱韓當部兵以掩刺殺孫策之行，策識破其非韓當軍士；此段僅涉韓當部曲名義、無韓當本人事蹟，不作本人史實。"
+        }
+      ],
       "unresolved": []
     }
   ]
