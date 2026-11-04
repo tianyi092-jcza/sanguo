@@ -116887,9 +116887,39 @@
           "through": "幸留神聽！",
           "citation": "《三國志·吳書一·孫破虜討逆傳》",
           "note": "裴注引吳錄：袁術僭號，孫策使張紘為書責而絕之，列九條不可；典略云此書為張昭之辭，裴松之斷必紘所作（以紘之文勝昭）；錄此以存作者歸屬異說與松之判斷。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-zhushu",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 4,
+          "from": "紘著詩賦銘誄十餘篇。",
+          "through": "紘著詩賦銘誄十餘篇。",
+          "citation": "《三國志·吳書八·張紘傳》",
+          "note": "本傳正文：張紘著詩賦銘誄十餘篇；同段後半為吳書、陳琳、孔融往來之裴注及子玄、孫尚事，不在本條範圍。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-ping",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 23,
+          "from": "評曰：張紘文理意正",
+          "through": "誠有以也。",
+          "citation": "《三國志·吳書八·張紘傳》",
+          "note": "陳壽評：張紘文理意正，為世令器，孫策待之亞於張昭；本段後半評嚴畯、程秉、闞澤、薛綜、薛瑩等人，不在本條範圍。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhanghong-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 0,
+          "term": "張紘",
+          "quote": "張紘傳",
+          "reason": "僅為本傳篇題，無史實內容，不錄為史實。"
+        }
+      ],
       "unresolved": []
     }
   ]
