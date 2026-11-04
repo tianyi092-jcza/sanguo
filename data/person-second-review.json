@@ -123011,6 +123011,15 @@
           "through": "陸遜、朱桓別征壽春，大駕入淮陽，歷青、徐。",
           "context": "權弗能用之。",
           "citation": "《三國志·吳書二·吳主傳》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "zhuhuan-yuyao-ping-shanzei",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 31,
+          "from": "朱桓字休穆，吳郡吳人也。",
+          "through": "稍遷裨將軍，封新城亭侯。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
         }
       ],
       "exclusions": [
@@ -123031,6 +123040,24 @@
           "term": "朱桓",
           "quote": "朱桓傳子異附",
           "reason": "僅為子朱異附傳的標題，非朱桓本人事實段落，不作摘錄。"
+        },
+        {
+          "id": "zhuhuan-excl-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 38,
+          "term": "朱桓",
+          "quote": "朱然、朱桓以勇烈著聞",
+          "reason": "陳壽評曰總評朱治、呂範、朱然、朱桓等諸將，僅以「勇烈著聞」概括朱桓，無具體生平事實，不作史實摘錄。"
+        },
+        {
+          "id": "zhuhuan-excl-zhoufang-zhajiang",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 34,
+          "term": "朱桓",
+          "quote": "全琮、朱桓趨合肥",
+          "reason": "周魴詐降書中為取信曹休而陳述的吳軍部署，屬詐降策略之辭，所述朱桓動向未必為實，不作朱桓史實摘錄。"
         }
       ],
       "unresolved": []
