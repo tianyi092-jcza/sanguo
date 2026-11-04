@@ -121084,15 +121084,19 @@
     {
       "id": "p0217",
       "name": "陳武",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-055）陳武傳段 23–24 均已覆蓋（含篇題排除）：字子烈、廬江松滋人；年十八於壽春脩謁孫策、從渡江征討有功拜別部司馬、策破劉勳料廬江精銳以武為督、權統事後轉督五校、仁厚好施鄉里遠方客多依託、尤為權所親愛、累有功勞進位偏將軍、建安二十年從擊合肥奮命戰死、權哀之自臨其葬；裴注江表傳愛妾殉葬復客二百家事與孫盛論權仗計任術世祚之促事已分層錄入。子烈、封事見本傳段 49 已錄入；合肥鬬死事見潘璋傳段 59 已錄入。",
+        "向量候選已枯竭：全庫人名精確命中經 covered 去重、年號剛性剔除與鏡像去重後餘 2 段（本傳單字「武」：a04-055 段 11 黃武年號、段 54 建武將軍號），本輪皆已排除；未解決 0 條。本傳合卷（a04-055）已逐段核對：全文名「陳武」僅見已覆蓋段 23、24、49、59，其餘未覆蓋段落無陳武本人內容；同名異人（晉書黎陽人陳武）、後漢書陳武合稱等皆已排除。",
+        "本輪後共摘錄 5 條、排除 9 條；三國志、裴注、後漢書、華陽國志、晉書五項皆已核查，無新候選可錄。"
+      ],
       "excerpts": [
         {
           "id": "cwu-bio-main",
@@ -121203,6 +121207,24 @@
           "term": "武",
           "quote": "徒以武功為官",
           "reason": "黃蓋傳教令中「武功」為一般用語，指武事功績，非人名；全段皆黃蓋守縣事跡，無吳將陳武本人，排除。"
+        },
+        {
+          "id": "cwu-excl-handang-huangwu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 11,
+          "term": "武",
+          "quote": "黃武二年，封石城侯",
+          "reason": "韓當傳段落，「黃武」為孫權年號，非人名；全段皆韓當事跡，無吳將陳武本人，排除。"
+        },
+        {
+          "id": "cwu-excl-xusheng-jianwu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 54,
+          "term": "武",
+          "quote": "後遷建武將軍，封都亭侯",
+          "reason": "徐盛傳段落，「建武」為將軍號，非人名；全段皆徐盛事跡，無吳將陳武本人，排除。"
         }
       ],
       "unresolved": []
