@@ -118191,6 +118191,33 @@
           "from": "時謂嚴畯曰：「孤昔歎魯子敬比鄧禹，呂子衡方吳漢，閒卿諸人未平此論，今定云何？」",
           "through": "畯乃服。",
           "citation": "《三國志·吳書十一·朱治朱然呂範朱桓傳第十一》"
+        },
+        {
+          "id": "sg-yanjun-deng-jian",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 4,
+          "from": "諸葛瑾、步隲、朱然、全琮、朱據、呂岱、吾粲、闞澤、嚴畯、張承、孫怡忠於為國，通達治體。",
+          "through": "可令陳上便宜，蠲除苛煩，愛養士馬，撫循百姓。",
+          "citation": "《三國志·吳書十四·吳主五子傳第十四》"
+        },
+        {
+          "id": "sg-yanjun-zhushu",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 8,
+          "from": "畯著孝經傳、潮水論，又與裴玄、張承論管仲、季路，皆傳於世。",
+          "through": "畯著孝經傳、潮水論，又與裴玄、張承論管仲、季路，皆傳於世。",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "sg-yanjun-ping-rulin",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 23,
+          "from": "嚴、程、闞生，一時儒林也。",
+          "through": "至畯辭榮濟舊，不亦長者乎！",
+          "citation": "《三國志·吳書八·張嚴程闞薛傳第八》"
         }
       ],
       "exclusions": [
