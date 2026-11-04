@@ -121232,15 +121232,19 @@
     {
       "id": "p0218",
       "name": "董襲",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-055）董襲傳段 27–32 均已覆蓋（含篇題排除）：段 28 董襲字元代、會稽餘姚人，伐黃祖於江夏；段 29 策薨後權年少初統事，太妃問江東可保，襲對以地勢山川之固、討逆恩德在民、討虜承基大小用命、張昭秉衆事襲等為爪牙、地利人和萬無所憂，衆皆壯其言；段 30 鄱陽賊彭虎等討平，遷偏將軍；段 31 建安十三年權討黃祖，斷紲之功；段 32 曹公出濡須，襲督五樓船住濡須口，夜暴風船傾覆，拒棄船而出，船敗死，權改服臨殯供給甚厚。吳主傳建安十三年復征黃祖事（a04-047 段 8）已錄入。",
+        "向量候選已枯竭：全庫人名精確命中經 covered 去重、年號剛性剔除與鏡像去重後，本輪餘 1 段（本傳單字「襲」：a04-055 段 32）已錄入，錄入後重檢餘 0 段；本傳補齊逐段核對發現同傳段 29（策薨後對太妃言）為檢索遺漏，一併錄入；未解決 0 條。本傳合卷（a04-055）內董襲傳段 27–32 已逐段核對全覆蓋；他傳提及已處理：a04-048 段 49 晉人陸機《辨亡論》列名褒揚已排除。",
+        "本輪後共摘錄 6 條、排除 2 條；三國志、裴注、後漢書、華陽國志、晉書五項皆已核查，無新候選可錄。"
+      ],
       "excerpts": [
         {
           "id": "dxi-zheng-huangzu-tu",
@@ -121276,6 +121280,24 @@
           "paragraph": 31,
           "from": "建安十三年，權討黃祖。",
           "through": "斷紲之功也。",
+          "citation": "《三國志·吳書十·董襲傳》"
+        },
+        {
+          "id": "dxi-cehong-yan-jiangdong",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 29,
+          "from": "策薨，權年少，初統事，",
+          "through": "衆皆壯其言。",
+          "citation": "《三國志·吳書十·董襲傳》"
+        },
+        {
+          "id": "dxi-ruxu-xunsi",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 32,
+          "from": "曹公出濡須，襲從權赴之，",
+          "through": "供給甚厚。",
           "citation": "《三國志·吳書十·董襲傳》"
         }
       ],
