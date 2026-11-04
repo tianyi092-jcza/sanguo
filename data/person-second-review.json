@@ -121241,8 +121241,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "dxi-zheng-huangzu-tu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "十三年春，權復征黃祖，",
+          "through": "遂屠其城。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "dxi-excl-bianwanglun",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "董襲",
+          "quote": "董襲、陳武殺身以衞主",
+          "reason": "晉人陸機《辨亡論》後世追述，僅於吳將群像中列名褒揚董襲、陳武殺身衞主，無董襲具體事跡，不作本人史實。"
+        },
+        {
+          "id": "dxi-excl-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 27,
+          "term": "董襲",
+          "quote": "董襲傳",
+          "reason": "僅為本傳篇題，無具體事跡，不作史實摘錄；正文見次段28。"
+        }
+      ],
       "unresolved": []
     }
   ]
