@@ -116907,6 +116907,36 @@
           "through": "誠有以也。",
           "citation": "《三國志·吳書八·張紘傳》",
           "note": "陳壽評：張紘文理意正，為世令器，孫策待之亞於張昭；本段後半評嚴畯、程秉、闞澤、薛綜、薛瑩等人，不在本條範圍。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-yufan-rongshu",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 4,
+          "from": "會稽東部都尉張紘又與融書曰",
+          "through": "不足以損。」",
+          "citation": "《三國志·吳書十二·虞翻傳》",
+          "note": "本條主角為虞翻；張紘以會稽東部都尉身分致書孔融，稱許虞翻「美寶為質，彫摩益光」。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-ce-shangbin",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 14,
+          "from": "孫策在吳，張昭、張紘、秦松為上賔",
+          "through": "須當用武治而平之，",
+          "citation": "《三國志·吳書十二·陸績傳》",
+          "note": "本條主角為陸績；此句僅見張紘為孫策上賔、與張昭、秦松共論平定之策，不宜擴解為張紘主導用武之議。"
+        },
+        {
+          "id": "ci-sgz-zhanghong-jianan-fengzhang",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 2,
+          "from": "建安四年，策遣紘奉章至許宮",
+          "through": "少府孔融等皆與親善。",
+          "citation": "《三國志·吳書八·張紘傳》",
+          "note": "本條只錄正文建安四年奉章至許一段；本段後續吳書、江表傳裴注內容不在本條範圍。"
         }
       ],
       "exclusions": [
