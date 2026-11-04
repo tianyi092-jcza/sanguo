@@ -120096,6 +120096,33 @@
           "from": "是時劉備令關羽鎮守，",
           "through": "以尋陽、陽新為蒙奉邑。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-chengbing-baiyi-nanjun",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 37,
+          "from": "後羽討樊，留兵將備公安、南郡。",
+          "through": "遂到南郡，士仁、麋芳皆降。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-ju-nanjun-fumin-maicheng",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 37,
+          "from": "蒙入據城，盡得羽及將士家屬，",
+          "through": "權使朱然、潘璋斷其徑路，即父子俱獲，荊州遂定。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-wushu-yufan-shuoshiren",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 37,
+          "from": "吳書曰：將軍士仁在公安拒守，",
+          "through": "南郡太守麋芳城守，蒙以仁示之，遂降。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
         }
       ],
       "exclusions": [
