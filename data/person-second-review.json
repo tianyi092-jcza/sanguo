@@ -117595,6 +117595,36 @@
           "through": "權遣陸遜、諸葛瑾等屯江夏、沔口",
           "citation": "《三國志·吳書二·吳主傳》",
           "note": "黃龍三年，孫權遣陸遜、諸葛瑾等屯江夏、沔口，配合對魏合肥方向的軍事部署。"
+        },
+        {
+          "id": "ci-sgz-zhugejin-quanze-238",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 36,
+          "from": "復有詔責數諸葛瑾、步隲、朱然、呂岱等曰",
+          "through": "盡言直諫，所望諸君",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "赤烏元年（238），孫權詔責諸葛瑾、步隲、朱然、呂岱等，謂其對時事不肯直陳、悉推他人，望其盡言直諫、拾遺補闕。"
+        },
+        {
+          "id": "ci-sgz-zhugejin-zuzhong-241",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 39,
+          "from": "大將軍諸葛瑾取柤中",
+          "through": "大將軍諸葛瑾取柤中",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "赤烏四年（241），朱然圍樊，大將軍諸葛瑾取柤中。"
+        },
+        {
+          "id": "ci-sgz-zhugejin-xuanyi-sunjiao",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 5,
+          "from": "今故煩諸葛子瑜重宣吾意",
+          "through": "今故煩諸葛子瑜重宣吾意",
+          "citation": "《三國志·吳書六 宗室傳第六 孫皎傳》",
+          "note": "孫權致書孫皎，言煩諸葛子瑜重宣吾意，見諸葛瑾受孫權信任、代為向孫皎傳達君意。"
         }
       ],
       "exclusions": [],
