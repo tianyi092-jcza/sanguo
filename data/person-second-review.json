@@ -119907,6 +119907,33 @@
           "from": "江表傳曰：權於公安大會，呂蒙以疾辭，",
           "through": "權聞之，益以悲感。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-pingyue-yongmou",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 42,
+          "from": "呂蒙勇而有謀斷，識軍計，譎郝普，禽關羽，最其妙者。",
+          "through": "豈徒武將而已乎！",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳》"
+        },
+        {
+          "id": "lmeng-handang-xi-nanjun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 11,
+          "from": "後以中郎將與周瑜等拒破曹公，又與呂蒙襲取南郡，遷偏將軍，領永昌太守。",
+          "through": "後以中郎將與周瑜等拒破曹公，又與呂蒙襲取南郡，遷偏將軍，領永昌太守。",
+          "citation": "《三國志·吳書十·韓當傳》"
+        },
+        {
+          "id": "lmeng-jiangqin-ruxu-jiedu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 16,
+          "from": "曹公出濡須，欽與呂蒙持諸軍節度。",
+          "through": "曹公出濡須，欽與呂蒙持諸軍節度。",
+          "citation": "《三國志·吳書十·蔣欽傳》"
         }
       ],
       "exclusions": [
