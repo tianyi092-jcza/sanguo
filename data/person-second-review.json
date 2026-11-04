@@ -118238,6 +118238,22 @@
         "勢力階段與辨人：始終事孫權一系：經張昭薦於權，歷騎都尉、從事中郎、衞尉、尚書令，代魯肅鎮陸口一事亦為權命而畯固辭，不得記為袁術、曹操勢力；與同卷張紘、程秉、闞澤、薛綜及諸葛瑾、步隲、魯肅、張昭嚴格分開，子凱、爽僅附載，不另立；僅為篇題、薦人或名單列舉出現的段已排除或僅記提及，不串人。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0206",
+      "name": "程秉",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
