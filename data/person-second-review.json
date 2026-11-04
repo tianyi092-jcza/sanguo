@@ -118344,9 +118344,37 @@
           "from": "西使張奉於權前列尚書闞澤姓名以嘲澤",
           "through": "澤不能荅。",
           "citation": "《三國志·吳書八·薛綜傳》"
+        },
+        {
+          "id": "kze-sg-dinggu",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 10,
+          "from": "固在襁褓中，闞澤見而異之",
+          "through": "此兒後必致公輔。",
+          "citation": "《三國志·吳書十二·虞翻傳》"
+        },
+        {
+          "id": "kze-sg-taizishaofu",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 11,
+          "from": "其淵懿純德，則太子少傅山陰闞澤",
+          "through": "學通行茂，作帝師儒。",
+          "citation": "《三國志·吳書十二·虞翻傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "kze-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 12,
+          "term": "闞澤",
+          "quote": "闞澤傳",
+          "reason": "僅為《三國志·吳書八》中的傳目標記「闞澤傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
