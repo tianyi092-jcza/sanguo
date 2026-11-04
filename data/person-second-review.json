@@ -120695,6 +120695,15 @@
           "from": "韓當",
           "through": "劇縣令長",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "hdang-chibi-jiugai",
+          "work": "peizhu",
+          "source": "a04-055",
+          "paragraph": 8,
+          "from": "蓋自彊以一聲呼韓當",
+          "through": "遂以得生",
+          "citation": "裴注引《吳書》"
         }
       ],
       "exclusions": [
@@ -120724,6 +120733,24 @@
           "term": "韓當",
           "quote": "韓當、潘璋、黃蓋、蔣欽、周泰之屬宣其力",
           "reason": "晉人陸機《辨亡論》後世追述，僅於吳將群像中列名，無韓當具體事實，不作本人史實。"
+        },
+        {
+          "id": "hdang-excl-qua-congqi",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 9,
+          "term": "韓當",
+          "quote": "策從騎十三，皆韓當、宋謙、黃蓋輩也",
+          "reason": "此段僅於孫策從騎十三人之群像中列韓當之名，未載韓當個人言行或功績，不作獨立史實摘錄。"
+        },
+        {
+          "id": "hdang-excl-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 10,
+          "term": "韓當",
+          "quote": "韓當傳",
+          "reason": "此段僅為本傳篇題，無任何史實內容，不作摘錄。"
         }
       ],
       "unresolved": []
