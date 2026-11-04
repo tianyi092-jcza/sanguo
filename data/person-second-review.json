@@ -119988,6 +119988,15 @@
           "from": "與呂蒙等西取三郡，反自益陽，從往合肥，為右部督。",
           "through": "與呂蒙等西取三郡，反自益陽，從往合肥，為右部督。",
           "citation": "《三國志·吳書十·凌統傳》"
+        },
+        {
+          "id": "lmeng-bingzhong-jian-zhuran",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 11,
+          "from": "虎威將軍呂蒙病篤，權問曰：「卿如不起，誰可代者？」蒙對曰：「朱然膽守有餘，愚以為可任。」",
+          "through": "蒙卒，權假然節，鎮江陵。",
+          "citation": "《三國志·吳書十一·朱然傳》"
         }
       ],
       "exclusions": [
@@ -120008,6 +120017,24 @@
           "term": "呂蒙",
           "quote": "呂蒙傳",
           "reason": "本傳篇首標題，僅標明傳主，無具體史事，不立摘錄。"
+        },
+        {
+          "id": "lmeng-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 49,
+          "term": "呂蒙",
+          "quote": "請呂蒙之命",
+          "reason": "孫盛論中僅以此語泛述孫權厚待呂蒙，無具體史事；段落主體為凌統二子襲爵，不另立摘錄。"
+        },
+        {
+          "id": "lmeng-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 16,
+          "term": "呂蒙",
+          "quote": "呂蒙、凌統最重",
+          "reason": "朱然傳末泛論孫權對患病創業功臣之厚待，僅以呂蒙與凌統並列為最重，無具體史事，不另立摘錄。"
         }
       ],
       "unresolved": []
