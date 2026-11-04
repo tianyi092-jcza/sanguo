@@ -122755,6 +122755,24 @@
           "from": "吳大將朱然圍樊城，質輕軍赴之。",
           "through": "吳大將朱然圍樊城，質輕軍赴之。",
           "citation": "《三國志·魏書二十七·胡質傳》"
+        },
+        {
+          "id": "zran-wangji-xiangyang",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 23,
+          "from": "朱然寇襄陽，皆無功而還。",
+          "through": "朱然寇襄陽，皆無功而還。",
+          "citation": "《三國志·魏書二十七·王基傳》"
+        },
+        {
+          "id": "zran-fuzi-zhaoya",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 50,
+          "from": "有呂範、朱然以為爪牙，分任受職，乘閒伺隙，兵不妄動，故戰少敗而江南安。",
+          "through": "有呂範、朱然以為爪牙，分任受職，乘閒伺隙，兵不妄動，故戰少敗而江南安。",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [
@@ -122775,6 +122793,15 @@
           "term": "朱然",
           "quote": "九月，吳將朱然圍江夏。",
           "reason": "與 sidneyluo 本 a05-013:50 同段《晉書·志第三》文本之四庫本異文，底本以 sidneyluo 為準，本輪已錄 a05-013:50，不重複錄入。"
+        },
+        {
+          "id": "zran-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "朱然",
+          "quote": "甘寧、淩統、程普、賀齊、朱桓、朱然之徒奮其威",
+          "reason": "陸機《辨亡論》後世文辭，僅將朱然列名於吳將群像之中、無具體事蹟，不作本人史實摘錄。"
         }
       ],
       "unresolved": []
