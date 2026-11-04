@@ -119381,6 +119381,33 @@
           "from": "權遣橫江將軍魯肅攻攸",
           "through": "碭得突走。",
           "citation": "《三國志·吳書十五·呂岱傳》"
+        },
+        {
+          "id": "lsu-jiangbiao-lianmeng",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 10,
+          "from": "江表傳曰：孫權遣魯肅弔劉表二子，并令與備相結。",
+          "through": "結同盟誓。",
+          "citation": "《三國志·蜀書二·先主傳》"
+        },
+        {
+          "id": "lsu-chibi-shuijun",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 3,
+          "from": "即遣周瑜、程普、魯肅等水軍三萬",
+          "through": "并力拒曹公。",
+          "citation": "《三國志·蜀書五·諸葛亮傳》"
+        },
+        {
+          "id": "lsu-jian-pangtong",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 4,
+          "from": "吳將魯肅遺先主書曰",
+          "through": "始當展其驥足耳。",
+          "citation": "《三國志·蜀書七·龐統法正傳》"
         }
       ],
       "exclusions": [],
