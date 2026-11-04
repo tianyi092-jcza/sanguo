@@ -118389,6 +118389,15 @@
           "from": "達寶惜其術，自闞澤、殷禮皆名儒善士，親屈節就學",
           "through": "達祕而不告。",
           "citation": "《三國志·吳書十八·趙達傳》"
+        },
+        {
+          "id": "kze-jin-qianxiang-calendar",
+          "work": "jinshu",
+          "source": "a05-017",
+          "paragraph": 25,
+          "from": "吳中書令闞澤受劉洪乾象法於東萊徐岳",
+          "through": "至吳亡。",
+          "citation": "《晉書·卷十七 志第七 律曆中》"
         }
       ],
       "exclusions": [
@@ -118400,6 +118409,15 @@
           "term": "闞澤",
           "quote": "闞澤傳",
           "reason": "僅為《三國志·吳書八》中的傳目標記「闞澤傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+        },
+        {
+          "id": "kze-excl-002",
+          "work": "jinshu",
+          "source": "a05-017-ahcb",
+          "paragraph": 13,
+          "term": "闞澤",
+          "quote": "吳中書令闞澤受劉洪乾象法於東萊徐岳",
+          "reason": "與 a05-017 第 25 段同文（跨版本鏡像），同一《晉書·卷十七 律曆志》段落已由 kze-jin-qianxiang-calendar 立證，不重複計入。"
         }
       ],
       "unresolved": []
