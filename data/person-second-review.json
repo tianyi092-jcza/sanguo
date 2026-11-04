@@ -119835,6 +119835,33 @@
           "from": "呂蒙字子明，汝南富陂人也。",
           "through": "策召見奇之，引置左右。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-lusu-wuce",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 30,
+          "from": "魯肅代周瑜，當之陸口，過蒙屯下。",
+          "through": "遂拜蒙母，結友而別。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-quanxue",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 30,
+          "from": "權謂蒙及蔣欽曰：「卿今並當塗掌事，宜學問以自開益。」",
+          "through": "蒙始就學，篤志不倦，其所覽見，舊儒不勝。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-shibie-sanri",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 30,
+          "from": "肅拊蒙背曰：「吾謂大弟但有武略耳，至於今者，學識英博，非復吳下阿蒙。」",
+          "through": "當有單複以鄉待之。」",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
         }
       ],
       "exclusions": [
