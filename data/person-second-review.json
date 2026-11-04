@@ -121018,6 +121018,15 @@
           "from": "從討黃祖有功。",
           "through": "其明日，遣使者授以御蓋。",
           "citation": "《三國志·吳書十·周泰傳》"
+        },
+        {
+          "id": "ztai-zhuhuan-dai-ruxudu",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 32,
+          "from": "後代周泰為濡須督。",
+          "through": "後代周泰為濡須督。",
+          "citation": "《三國志·吳書十一·朱桓傳》"
         }
       ],
       "exclusions": [
@@ -121029,6 +121038,24 @@
           "term": "周泰",
           "quote": "韓當、潘璋、黃蓋、蔣欽、周泰之屬宣其力",
           "reason": "晉人陸機《辨亡論》後世追述，僅於吳將群像中列名，無周泰具體事實，不作本人史實。"
+        },
+        {
+          "id": "ztai-excl-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 18,
+          "term": "周泰",
+          "quote": "周泰傳",
+          "reason": "僅為本傳篇題，無具體事跡，不作史實摘錄。"
+        },
+        {
+          "id": "ztai-excl-sunsheng-lun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 49,
+          "term": "周泰",
+          "quote": "泣周泰之夷",
+          "reason": "孫盛論中僅以周泰之夷為例證孫權養士，係對本傳示創事的後世概括，無周泰新事跡；示創本事已錄本傳段20，不重複摘錄。"
         }
       ],
       "unresolved": []
