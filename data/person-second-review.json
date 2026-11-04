@@ -120123,6 +120123,33 @@
           "from": "吳書曰：將軍士仁在公安拒守，",
           "through": "南郡太守麋芳城守，蒙以仁示之，遂降。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-hefei-hanwei-ruxu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 35,
+          "from": "師還，遂征合肥，旣徹兵，為張遼等所襲，蒙與淩統以死扞衞。",
+          "through": "拜蒙左護軍、虎威將軍。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-daisu-mice-quguan",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 36,
+          "from": "魯肅卒，蒙西屯陸口，肅軍人馬萬餘盡以屬蒙。",
+          "through": "權尤以此言為當。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-quanping-ziming",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 41,
+          "from": "又子明少時，孤謂不辭劇易，果敢有膽而已；",
+          "through": "圖取關羽，勝於子敬。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
         }
       ],
       "exclusions": [
