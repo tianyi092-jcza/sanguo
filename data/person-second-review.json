@@ -122170,15 +122170,19 @@
     {
       "id": "p0223",
       "name": "丁奉",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-055）丁奉傳段 64–69 均已覆蓋：字承淵、廬江安豐人，少以驍勇為小將、屬甘寧陸遜潘璋等、數隨征伐戰鬬常冠軍；東興之役獨主迎戰、雪中率麾下三千人由下道徑進據徐塘、大破魏前屯、遷滅寇將軍進封都鄉侯；文欽來降、以虎威將軍從孫峻至壽春迎之、高亭破敵追軍、進封安豐侯；太平二年諸葛誕據壽春來降、與黎斐解圍為先登屯黎漿、拜左將軍；孫休即位、與張布謀誅孫綝；孫休薨後與濮陽興共迎立孫皓、遷右大司馬左軍師；寶鼎三年與諸葛靚攻合肥、以書搆間晉將石苞致其徵還；建衡元年治徐塘攻晉穀陽無所獲、導軍被斬；三年卒、後以驕矜舊事徙家臨川；弟封官至後將軍、先奉死。段 63 為丁奉傳篇題已排除。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重、年號剛性剔除與鏡像去重後餘 0 段；未解決 0 條。本傳段 64–69 全覆蓋，段 63 為篇題已排除；他傳提及前輪已處理，蔣欽傳、徐盛傳「奉邑」單字誤命中等已排除。",
+        "本輪後共摘錄 23 條、排除 10 條；三國志、裴注、後漢書、華陽國志、晉書五項皆已核查，無新候選可錄。"
+      ],
       "excerpts": [
         {
           "id": "dfeng-sansizhu-niju",
