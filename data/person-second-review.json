@@ -122965,15 +122965,18 @@
     {
       "id": "p0225",
       "name": "朱桓",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-056）朱桓傳段 31–36 均已覆蓋：字休穆、吳郡吳人、餘姚長平山賊封新城亭侯；濡須拒曹仁封嘉興侯遷奮武將軍；石亭獻計斷夾石挂車未用；黃龍元年拜前將軍領青州牧假節、嘉禾六年斷後見憚；全琮爭執託狂、復遣中洲祖送、吳錄捋虎鬚；性護前輕財貴義彊識、年六十二赤烏元年卒家無餘財權賜鹽、子異嗣。段 30 為子異附傳標題已排除，段 37 為朱異附傳已排除，段 38 評曰總評已排除。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重、年號剛性剔除與鏡像去重後餘 0 段；未解決 0 條。本傳逐段核對補齊段 36（卒年家無餘財）與段 37 排除（朱異附傳）後，本傳全覆蓋。排除共 5 條：辨亡論列名、異附標題、評曰總評、周魴詐降書孤證、朱異附傳。"
+      ],
       "excerpts": [
         {
           "id": "zhuhuan-rxu-du-juren",
@@ -123074,6 +123077,15 @@
           "from": "吳錄曰：桓奉觴曰：「臣當遠去，願一捋陛下鬚，無所復恨。」",
           "through": "權大笑。",
           "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》裴注引《吳錄》"
+        },
+        {
+          "id": "zhuhuan-xingge-zunian-jiacai",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 36,
+          "from": "桓性護前，恥為人下",
+          "through": "子異嗣。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
         }
       ],
       "exclusions": [
@@ -123112,6 +123124,15 @@
           "term": "朱桓",
           "quote": "全琮、朱桓趨合肥",
           "reason": "周魴詐降書中為取信曹休而陳述的吳軍部署，屬詐降策略之辭，所述朱桓動向未必為實，不作朱桓史實摘錄。"
+        },
+        {
+          "id": "zhuhuan-excl-ziyi-fuzhuan",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 37,
+          "term": "朱桓",
+          "quote": "異字季文，以父任除郎",
+          "reason": "子朱異附傳全文記朱異生平（文士傳賦物、諸葛恪奪兵、孫綝枉害），非朱桓本人事實，不作摘錄。"
         }
       ],
       "unresolved": []
