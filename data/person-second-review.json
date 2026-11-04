@@ -123047,6 +123047,33 @@
           "from": "黃龍元年，拜桓前將軍，領青州牧，假節。",
           "through": "其見憚如此。",
           "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
+        },
+        {
+          "id": "zhuhuan-quancong-zhengzhi-shajun",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 35,
+          "from": "是時全琮為督，權又令偏將軍胡綜宣傳詔命，參與軍事。",
+          "through": "權惜其功能，故不罪。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
+        },
+        {
+          "id": "zhuhuan-fuqian-zhongzhou-zusong",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 35,
+          "from": "使子異攝領部曲，令醫視護，數月復遣還中洲。",
+          "through": "臣疾當自愈。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》"
+        },
+        {
+          "id": "zhuhuan-wulu-luexu",
+          "work": "peizhu",
+          "source": "a04-056",
+          "paragraph": 35,
+          "from": "吳錄曰：桓奉觴曰：「臣當遠去，願一捋陛下鬚，無所復恨。」",
+          "through": "權大笑。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱桓傳》裴注引《吳錄》"
         }
       ],
       "exclusions": [
