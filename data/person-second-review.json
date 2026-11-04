@@ -120042,6 +120042,15 @@
           "from": "權果遣將呂蒙西襲公安，拔之，",
           "through": "羽遂爲蒙所獲。",
           "citation": "《晉書·卷一·宣帝紀》"
+        },
+        {
+          "id": "lmeng-jinshu-dingjingzhou-shangqian",
+          "work": "jinshu",
+          "source": "a05-026-ahcb",
+          "paragraph": 20,
+          "from": "故呂蒙定荊州，",
+          "through": "孫權賜錢一億。",
+          "citation": "《晉書·卷二十六·食貨志》"
         }
       ],
       "exclusions": [
@@ -120089,6 +120098,24 @@
           "term": "呂蒙",
           "quote": "追思呂蒙、張溫",
           "reason": "朱據傳追思語，僅以呂蒙與張溫並列、謂朱據才兼文武可以繼之，無呂蒙具體史事，不另立摘錄。"
+        },
+        {
+          "id": "lmeng-excl-006",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 3,
+          "term": "呂蒙",
+          "quote": "權果遣將呂蒙西襲公安，拔之，羽遂為蒙所獲。",
+          "reason": "與已錄摘錄 lmeng-jinshu-xigongan（a05-001-ahcb:5）同為《晉書·卷一·宣帝紀》襲公安獲關羽一事的不同底本段落，事件已錄，不重複立摘錄。"
+        },
+        {
+          "id": "lmeng-excl-007",
+          "work": "jinshu",
+          "source": "a05-070-ahcb",
+          "paragraph": 14,
+          "term": "呂蒙",
+          "quote": "此呂蒙所以克敵也",
+          "reason": "鄧騫勸說語中以呂蒙克敵為喻，僅借舊事作比，無呂蒙具體史事，不另立摘錄。"
         }
       ],
       "unresolved": []
