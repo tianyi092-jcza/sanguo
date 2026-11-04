@@ -121093,7 +121093,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "cwu-bio-main",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 24,
+          "from": "陳武字子烈，廬江松滋人。",
+          "through": "權哀之，自臨其葬。",
+          "citation": "《三國志·卷五十五·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳第十·陳武傳》"
+        },
+        {
+          "id": "cwu-pei-jiangbiaozhuan-xunzang",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 24,
+          "from": "江表傳曰：權命以其愛妾殉葬，復客二百家。",
+          "through": "復客二百家。",
+          "citation": "《三國志·卷五十五·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳第十·陳武傳》"
+        },
+        {
+          "id": "cwu-pei-sunsheng-ping",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 24,
+          "from": "孫盛曰：昔三良從秦穆師以之不征；魏妾旣出，杜回以之僵仆。",
+          "through": "世祚之促，不亦宜乎！",
+          "citation": "《三國志·卷五十五·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳第十·陳武傳》"
+        }
+      ],
       "exclusions": [
         {
           "id": "cwu-excl-dachenwushi",
