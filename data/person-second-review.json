@@ -121129,6 +121129,15 @@
           "from": "二子烈、封，年各數歲，權內養於宮，",
           "through": "封復襲爵領兵。",
           "citation": "《三國志·卷五十五·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳第十·陳武傳》"
+        },
+        {
+          "id": "cwu-panzhang-hefei-death",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 59,
+          "from": "合肥之役，張遼奄至，諸將不備，陳武鬬死，",
+          "through": "宋謙、徐盛皆披走，",
+          "citation": "《三國志·卷五十五·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳第十·潘璋傳》"
         }
       ],
       "exclusions": [
@@ -121176,6 +121185,24 @@
           "term": "陳武",
           "quote": "陳武傳",
           "reason": "僅本傳傳題三字，無事跡內容；正文見次段24，已錄為 cwu-bio-main，排除以免空條。"
+        },
+        {
+          "id": "cwu-excl-jinshu-liyang-chenwu",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 10,
+          "term": "陳武",
+          "quote": "黎陽人陳武妻一產三男一女",
+          "reason": "晉書石勒載記所載黎陽人陳武，繫年後趙石勒時，與吳將陳武（建安二十年卒於合肥）相隔百餘年，純屬同名異人，排除。"
+        },
+        {
+          "id": "cwu-excl-huanggai-wugong",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 7,
+          "term": "武",
+          "quote": "徒以武功為官",
+          "reason": "黃蓋傳教令中「武功」為一般用語，指武事功績，非人名；全段皆黃蓋守縣事跡，無吳將陳武本人，排除。"
         }
       ],
       "unresolved": []
