@@ -122557,6 +122557,33 @@
           "from": "車騎將軍朱然圍樊，大將軍諸葛瑾取柤中。",
           "through": "取柤中。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-wuzhu-quanze",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 36,
+          "from": "禮還，復有詔責數諸葛瑾、步隲、朱然、呂岱等曰：「袁禮還，云與子瑜、子山、義封、定公相見，並以時事當有所先後，各自以不掌民事，不肯便有所陳，悉推之伯言、承明。",
+          "through": "悉推之伯言、承明。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-wuzhu-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 42,
+          "from": "是歲，步隲、朱然等各上疏云：「自蜀還者，咸言背盟與魏交通，多作舟舩，繕治城郭。又蔣琬守漢中，聞司馬懿南向，不出兵乘虛以掎角之，反委漢中，還近成都。事已彰灼，無所復疑，宜為之備。」",
+          "through": "宜為之備。」",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-wuzhu-zhuzhong-zuodasima",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 44,
+          "from": "九年春二月，車騎將軍朱然征魏柤中，斬獲千餘。",
+          "through": "車騎朱然為左大司馬，",
+          "citation": "《三國志·吳書二·吳主傳》"
         }
       ],
       "exclusions": [],
