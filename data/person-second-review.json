@@ -118317,7 +118317,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "kze-sg-biography",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 13,
+          "from": "闞澤字德潤",
+          "through": "領中書如故。",
+          "citation": "《三國志·吳書八·闞澤傳》"
+        },
+        {
+          "id": "kze-sg-learning",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 14,
+          "from": "澤以經傳文多，難得盡用",
+          "through": "其和而有正，皆此類也。",
+          "citation": "《三國志·吳書八·闞澤傳》"
+        },
+        {
+          "id": "kze-sg-zhangfeng",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 17,
+          "from": "西使張奉於權前列尚書闞澤姓名以嘲澤",
+          "through": "澤不能荅。",
+          "citation": "《三國志·吳書八·薛綜傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
