@@ -118482,6 +118482,33 @@
           "from": "薛綜注西京賦曰",
           "through": "纚音山綺反。」",
           "citation": "《後漢書·卷四十上·列傳第三十上》（注引薛綜《西京賦》注）"
+        },
+        {
+          "id": "xzong-hhs-xijing-pulao",
+          "work": "houhanshu",
+          "source": "a03-040b-ahcb",
+          "paragraph": 2,
+          "from": "薛綜注西京賦云",
+          "through": "鍾有篆刻之文，故曰華。」",
+          "citation": "《後漢書·卷四十下·列傳第三十下》（注引薛綜《西京賦》注）"
+        },
+        {
+          "id": "xzong-hhs-liyi-jiubin",
+          "work": "houhanshu",
+          "source": "a03-094",
+          "paragraph": 5,
+          "from": "薛綜曰",
+          "through": "凡九等。」",
+          "citation": "《後漢書·志第四·禮儀上》（注引薛綜說）"
+        },
+        {
+          "id": "xzong-hhs-liyi-diji",
+          "work": "houhanshu",
+          "source": "a03-094",
+          "paragraph": 9,
+          "from": "薛綜注二京賦曰",
+          "through": "田在國之辰地。」",
+          "citation": "《後漢書·志第四·禮儀上》（注引薛綜《二京賦》注）"
         }
       ],
       "exclusions": [],
