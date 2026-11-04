@@ -122584,6 +122584,33 @@
           "from": "九年春二月，車騎將軍朱然征魏柤中，斬獲千餘。",
           "through": "車騎朱然為左大司馬，",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-wuzhu-cheng-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 46,
+          "from": "十一年春正月，朱然城江陵。",
+          "through": "十一年春正月，朱然城江陵。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-wuzhu-zu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 47,
+          "from": "十二年春三月，左大司馬朱然卒。",
+          "through": "十二年春三月，左大司馬朱然卒。",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "zran-wulu-jiangling",
+          "work": "peizhu",
+          "source": "a04-052",
+          "paragraph": 24,
+          "from": "吳錄曰：曹真、夏侯尚等圍朱然於江陵，又分據中州，瑾以大兵為之救援。",
+          "through": "真等退走。",
+          "citation": "《三國志·吳書七·諸葛瑾傳》裴注引《吳錄》"
         }
       ],
       "exclusions": [],
