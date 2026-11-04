@@ -118846,6 +118846,33 @@
           "from": "瑜請得精兵三萬人，進住夏口，保為將軍破之。",
           "through": "瑜請得精兵三萬人，進住夏口，保為將軍破之。",
           "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "zyu-xiandiji-wulin-chibi",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 21,
+          "from": "曹操以舟師伐孫權，權將周瑜敗之於烏林、赤壁。",
+          "through": "曹操以舟師伐孫權，權將周瑜敗之於烏林、赤壁。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "zyu-caoren-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 19,
+          "from": "以仁行征南將軍，留屯江陵，拒吳將周瑜。",
+          "through": "以仁行征南將軍，留屯江陵，拒吳將周瑜。",
+          "citation": "《三國志·魏書九·曹仁傳》"
+        },
+        {
+          "id": "zyu-litong-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 9,
+          "from": "劉備與周瑜圍曹仁於江陵，別遣關羽絕北道。",
+          "through": "通率衆擊之，下馬拔鹿角入圍，且戰且前，以迎仁軍，勇冠諸將。",
+          "citation": "《三國志·魏書十八·李通傳》"
         }
       ],
       "exclusions": [],
