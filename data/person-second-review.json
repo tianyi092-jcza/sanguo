@@ -120433,6 +120433,24 @@
           "from": "吳書曰：普殺叛者數百人",
           "through": "百餘日卒",
           "citation": "《三國志·卷五十五 ‧ 吳書十　程普黃蓋韓當周泰傳第十 程普傳》"
+        },
+        {
+          "id": "chpu-quan-zhuifeng-zitinghou",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 4,
+          "from": "權稱尊號，追論普功",
+          "through": "封子咨為亭侯",
+          "citation": "《三國志·卷五十五 ‧ 吳書十　程普黃蓋韓當周泰傳第十 程普傳》"
+        },
+        {
+          "id": "chpu-fuquan-jiangxia-taishou",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 3,
+          "from": "策薨，與張昭等共輔孫權",
+          "through": "拜裨將軍，領江夏太守，治沙羨，食四縣",
+          "citation": "《三國志·卷五十五 ‧ 吳書十　程普黃蓋韓當周泰傳第十 程普傳》"
         }
       ],
       "exclusions": [
@@ -120462,11 +120480,18 @@
           "term": "程普",
           "quote": "後與周瑜、程普拒曹公於赤壁",
           "reason": "此段為同卷周泰傳，敘周泰事功，程普僅於赤壁一句中並列提及，無程普具體事實，不作本人史實。"
+        },
+        {
+          "id": "chpu-excl-chengpu-biaomu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 0,
+          "term": "程普",
+          "quote": "程普傳",
+          "reason": "僅為本傳篇目，無程普具體事實，不作本人史實。"
         }
       ],
-      "unresolved": [
-        "a04-055:4 末句「權稱尊號，追論普功，封子咨為亭侯」尚未錄入：本輪已錄同段正文與吳書注，追封句須另立一條正文條目，勿與裴注合併。"
-      ]
+      "unresolved": []
     }
   ]
 }
