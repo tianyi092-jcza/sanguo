@@ -123149,8 +123149,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "lufan-dongpu-cao-xiu",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 33,
+          "from": "帝征孫權，以休為征東大將軍，假黃鉞，督張遼等及諸州郡二十餘軍，擊權大將呂範等於洞浦，破之。",
+          "through": "帝征孫權，以休為征東大將軍，假黃鉞，督張遼等及諸州郡二十餘軍，擊權大將呂範等於洞浦，破之。",
+          "citation": "《三國志·魏書九·曹休傳》"
+        },
+        {
+          "id": "lufan-dongpu-jia-kui",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 30,
+          "from": "黃初中，與諸將並征吳，破呂範於洞浦，進封陽里亭侯，加建威將軍。",
+          "through": "黃初中，與諸將並征吳，破呂範於洞浦，進封陽里亭侯，加建威將軍。",
+          "citation": "《三國志·魏書十五·賈逵傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "lufan-excl-wendi-zhao",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 27,
+          "term": "呂範",
+          "quote": "今征東諸軍與權黨呂範等水戰，則斬首四萬，獲船萬艘。",
+          "reason": "魏文帝詔書自誇伐吳戰功之辭，斬首四萬、獲船萬艘顯為誇飾；呂範僅以「權黨」統稱出現，無具體事實，且同役已有曹休、賈逵他傳正文記載，不作呂範史實摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
