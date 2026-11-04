@@ -122728,6 +122728,33 @@
           "from": "習鑿齒漢晉春秋曰：是年，吳將朱然入柤中，斬獲數千；柤中民吏萬餘家渡沔。",
           "through": "習鑿齒漢晉春秋曰：是年，吳將朱然入柤中，斬獲數千；柤中民吏萬餘家渡沔。",
           "citation": "《三國志·魏書四·三少帝紀第四》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "zran-weizhen-jingcheng-hefei",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 27,
+          "from": "征南上：「朱然等軍已過荊城。」",
+          "through": "權果召然入居巢，進攻合肥。",
+          "citation": "《三國志·魏書二十二·衛臻傳》"
+        },
+        {
+          "id": "zran-xinpi-caozhen-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 5,
+          "from": "上軍大將軍曹真征朱然于江陵，毗行軍師。",
+          "through": "上軍大將軍曹真征朱然于江陵，毗行軍師。",
+          "citation": "《三國志·魏書二十五·辛毗傳》"
+        },
+        {
+          "id": "zran-huzhi-fancheng-yuan",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 9,
+          "from": "吳大將朱然圍樊城，質輕軍赴之。",
+          "through": "吳大將朱然圍樊城，質輕軍赴之。",
+          "citation": "《三國志·魏書二十七·胡質傳》"
         }
       ],
       "exclusions": [
