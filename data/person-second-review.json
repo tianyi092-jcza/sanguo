@@ -118107,6 +118107,22 @@
         "勢力階段與辨人：始終事孫權一系：自討虜將軍主記、交州宣撫、都督西陵、驃騎將軍至丞相，不得記為袁術、曹操勢力；與子恊、闡、璣及同卷張昭、顧雍、諸葛瑾嚴格分開；子闡鳳皇元年據西陵降晉係子輩後事已排除，不串人。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0205",
+      "name": "嚴畯",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
