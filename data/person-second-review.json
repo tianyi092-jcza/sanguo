@@ -121250,6 +121250,33 @@
           "from": "十三年春，權復征黃祖，",
           "through": "遂屠其城。",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "dxi-ce-ying-zhanluobo",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 28,
+          "from": "董襲字元代，會稽餘姚人，",
+          "through": "伐黃祖於江夏。",
+          "citation": "《三國志·吳書十·董襲傳》"
+        },
+        {
+          "id": "dxi-ping-penghu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 30,
+          "from": "鄱陽賊彭虎等衆數萬人，",
+          "through": "遷偏將軍。",
+          "citation": "《三國志·吳書十·董襲傳》"
+        },
+        {
+          "id": "dxi-duanxie-po-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 31,
+          "from": "建安十三年，權討黃祖。",
+          "through": "斷紲之功也。",
+          "citation": "《三國志·吳書十·董襲傳》"
         }
       ],
       "exclusions": [
