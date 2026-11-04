@@ -120547,6 +120547,24 @@
           "through": "可燒而走也",
           "context": "權遂遣瑜及程普等與備并力逆曹公，遇於赤壁。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳第九·周瑜傳》"
+        },
+        {
+          "id": "hgai-zigongfu-jiguan",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 6,
+          "from": "黃蓋字公覆",
+          "through": "零陵泉陵人也",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰傳第十·黃蓋傳》"
+        },
+        {
+          "id": "hgai-shicheng-zhixian",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 7,
+          "from": "諸山越不賔",
+          "through": "山越懷附",
+          "citation": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰傳第十·黃蓋傳》"
         }
       ],
       "exclusions": [
@@ -120567,6 +120585,15 @@
           "term": "黃蓋",
           "quote": "南海黃蓋為日南太守",
           "reason": "薛綜上疏列舉漢代交州長吏舊事，此南海黃蓋為日南太守，與吳將黃蓋（字公覆）同名異人，不作本人史實。"
+        },
+        {
+          "id": "hgai-excl-chuanti",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 5,
+          "term": "黃蓋",
+          "quote": "黃蓋傳",
+          "reason": "此段僅為《黃蓋傳》篇題，無史事內容，不作摘錄。"
         }
       ],
       "unresolved": []
