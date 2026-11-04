@@ -120015,6 +120015,33 @@
           "from": "呂蒙稱疾詣建業，遜往見之，謂曰：「關羽接境，如何遠下，後不當可憂也？」",
           "through": "權乃召遜，拜偏將軍右部督代蒙。",
           "citation": "《三國志·吳書十三·陸遜傳》"
+        },
+        {
+          "id": "lmeng-shiyi-shanji",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 3,
+          "from": "呂蒙圖襲關羽，權以問儀，儀善其計，勸權聽之。",
+          "through": "權令曰：「孤雖非趙簡子，卿安得不自屈為周舍邪？」",
+          "citation": "《三國志·吳書十七·是儀傳》"
+        },
+        {
+          "id": "lmeng-wufan-dezhi",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 4,
+          "from": "權與呂蒙謀襲關羽，議之近臣，多曰不可。權以問範，",
+          "through": "範曰：「得之。」",
+          "citation": "《三國志·吳書十八·吳範傳》"
+        },
+        {
+          "id": "lmeng-jinshu-xigongan",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 5,
+          "from": "權果遣將呂蒙西襲公安，拔之，",
+          "through": "羽遂爲蒙所獲。",
+          "citation": "《晉書·卷一·宣帝紀》"
         }
       ],
       "exclusions": [
