@@ -119808,6 +119808,33 @@
           "from": "後從討關羽，封宣城侯",
           "through": "以綏南將軍代呂蒙領南郡太守，住公安。",
           "citation": "《三國志·吳書七·諸葛瑾傳》"
+        },
+        {
+          "id": "lmeng-yiling-jiu-ning",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 6,
+          "from": "瑜用呂蒙計，留凌統以守其後",
+          "through": "身與蒙上救寧。寧圍旣解",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·周瑜傳》"
+        },
+        {
+          "id": "lmeng-lusu-qu-sanjun",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 22,
+          "from": "權遣呂蒙率衆進取。",
+          "through": "備聞，自還公安，遣羽爭三郡。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·魯肅傳》"
+        },
+        {
+          "id": "lmeng-shaonian-congjun",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 26,
+          "from": "呂蒙字子明，汝南富陂人也。",
+          "through": "策召見奇之，引置左右。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
         }
       ],
       "exclusions": [
