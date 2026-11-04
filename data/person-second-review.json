@@ -117535,7 +117535,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "ci-sgz-zhugejin-jiangling-222",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 47,
+          "from": "權將諸葛瑾與尚軍對江",
+          "through": "水陸並攻，破之",
+          "citation": "《三國志·魏書九 諸夏侯曹傳第九 夏侯尚傳》",
+          "note": "黃初三年（222）夏侯尚與曹真圍江陵，諸葛瑾為吳將與尚軍對江，渡入江中渚分水軍；尚夜潛渡水陸並攻，破瑾軍，後因大疫引還。"
+        },
+        {
+          "id": "ci-sgz-zhugejin-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 11,
+          "from": "時吳使朱然、諸葛瑾攻圍樊城",
+          "through": "時吳使朱然、諸葛瑾攻圍樊城",
+          "citation": "《三國志·魏書二十三 和常楊杜趙裴傳第二十三 沐並傳》",
+          "note": "吳使朱然、諸葛瑾攻圍樊城，遣船兵於峴山東斫材；此段主敘沐並之名播於異域，諸葛瑾僅為攻樊城主將見於此，錄其參戰事實。"
+        },
+        {
+          "id": "ci-sgz-zhugejin-guest-200",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 2,
+          "from": "魯肅、諸葛瑾等始為賔客",
+          "through": "魯肅、諸葛瑾等始為賔客",
+          "citation": "《三國志·吳書二·吳主傳》",
+          "note": "孫策薨後孫權初領事，招延俊秀，魯肅、諸葛瑾等始為賓客，為諸葛瑾仕吳之始。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
