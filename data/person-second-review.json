@@ -119327,6 +119327,33 @@
           "from": "分長沙為漢昌郡",
           "through": "以魯肅為太守，屯陸口。",
           "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "lsu-baqiu-yuguan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 13,
+          "from": "使魯肅以萬人屯巴丘",
+          "through": "以禦關羽",
+          "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "lsu-zhaozi-fanpin",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 18,
+          "from": "納魯肅於凡品",
+          "through": "是其聦也",
+          "citation": "《三國志·吳書二·孫權傳》"
+        },
+        {
+          "id": "lsu-jin-bingdai",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 22,
+          "from": "薦之於權",
+          "through": "後為權長史，轉中司馬。",
+          "citation": "《三國志·吳書七·諸葛瑾傳》"
         }
       ],
       "exclusions": [],
