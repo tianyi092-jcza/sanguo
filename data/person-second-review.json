@@ -122206,6 +122206,33 @@
           "from": "甲申，使大將軍丁奉督諸軍向魏壽春，",
           "through": "向魏壽春，",
           "citation": "《三國志·吳書三·三嗣主傳·孫休傳》"
+        },
+        {
+          "id": "dfeng-sansizhu-dasima",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 24,
+          "from": "元興元年八月，以上大將軍施績、大將軍丁奉為左右大司馬，",
+          "through": "為左右大司馬，",
+          "citation": "《三國志·吳書三·三嗣主傳·孫皓傳》"
+        },
+        {
+          "id": "dfeng-sansizhu-hefei",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 28,
+          "from": "秋九月，皓出東關，丁奉至合肥。",
+          "through": "丁奉至合肥。",
+          "citation": "《三國志·吳書三·三嗣主傳·孫皓傳》"
+        },
+        {
+          "id": "dfeng-sansizhu-zu",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 31,
+          "from": "以武昌督范慎為太尉。右大司馬丁奉、司空孟仁卒。",
+          "through": "右大司馬丁奉、司空孟仁卒。",
+          "citation": "《三國志·吳書三·三嗣主傳·孫皓傳》"
         }
       ],
       "exclusions": [],
