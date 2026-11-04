@@ -118819,6 +118819,33 @@
           "from": "十一年，與周瑜共討麻、保二屯，破之。",
           "through": "十一年，與周瑜共討麻、保二屯，破之。",
           "citation": "《三國志·吳書六·孫瑜傳》"
+        },
+        {
+          "id": "zyu-sunfu-baqiu-luling",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 9,
+          "from": "周瑜到巴丘，輔遂得進據廬陵。",
+          "through": "周瑜到巴丘，輔遂得進據廬陵。",
+          "citation": "《三國志·吳書六·孫賁傳》"
+        },
+        {
+          "id": "zyu-shece-nandazhai",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 2,
+          "from": "瑜推道南大宅以舍策，升堂拜母，有無通共。",
+          "through": "瑜推道南大宅以舍策，升堂拜母，有無通共。",
+          "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "zyu-qingbing-sanwan-xiakou",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 4,
+          "from": "瑜請得精兵三萬人，進住夏口，保為將軍破之。",
+          "through": "瑜請得精兵三萬人，進住夏口，保為將軍破之。",
+          "citation": "《三國志·吳書九·周瑜傳》"
         }
       ],
       "exclusions": [],
