@@ -122701,6 +122701,33 @@
           "from": "景初元年六月戊申，京都地震。",
           "through": "是秋，吳將朱然圍江夏，荊州刺史胡質擊退之。",
           "citation": "《晉書·卷二十九·志第十九》"
+        },
+        {
+          "id": "zran-mingdi-jingchu1-jiangxia",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 34,
+          "from": "孫權遣將朱然等二萬人圍江夏郡，荊州刺史胡質等擊之，然退走。",
+          "through": "孫權遣將朱然等二萬人圍江夏郡，荊州刺史胡質等擊之，然退走。",
+          "citation": "《三國志·魏書三·明帝紀第三》"
+        },
+        {
+          "id": "zran-shaodi-zhengshi2-fancheng",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 7,
+          "from": "夏五月，吳將朱然等圍襄陽之樊城，太傅司馬宣王率衆拒之。",
+          "through": "夏五月，吳將朱然等圍襄陽之樊城，太傅司馬宣王率衆拒之。",
+          "citation": "《三國志·魏書四·三少帝紀第四》"
+        },
+        {
+          "id": "zran-shaodi-zhuzhong-ru",
+          "work": "peizhu",
+          "source": "a04-004",
+          "paragraph": 13,
+          "from": "習鑿齒漢晉春秋曰：是年，吳將朱然入柤中，斬獲數千；柤中民吏萬餘家渡沔。",
+          "through": "習鑿齒漢晉春秋曰：是年，吳將朱然入柤中，斬獲數千；柤中民吏萬餘家渡沔。",
+          "citation": "《三國志·魏書四·三少帝紀第四》裴注引《漢晉春秋》"
         }
       ],
       "exclusions": [
