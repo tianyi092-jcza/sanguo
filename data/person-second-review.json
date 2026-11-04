@@ -121555,15 +121555,19 @@
     {
       "id": "p0220",
       "name": "淩統",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-055）凌統傳段 43–49 均已覆蓋：字公績、吳郡餘杭人；年十五左右多稱述、得以功贖罪；後從征江夏為前鋒；破皖拜盪寇中郎將、合肥護衛孫權；薦同郡盛暹、愛善不害；本輪補錄尾段 48–49：東占討山越、得精兵萬餘人、事畢病卒年四十九、權哀悼減膳、命張承作銘誄；二子烈、封幼年內養於宮、追錄統功封烈亭侯還其故兵、烈免後封襲爵領兵；孫盛曰養士一段與正文分層錄入。",
+        "向量候選已枯竭：本輪全庫人名精確命中經 covered 去重、年號剛性剔除與鏡像去重後餘 0 段；未解決 0 條。本傳段 43–49 全覆蓋，段 42 為凌統傳篇題；他傳提及前輪已處理，陸機《辨亡論》列名泛稱（a04-048 段 49）已排除。",
+        "本輪後共摘錄 14 條、排除 1 條；三國志、裴注、後漢書、華陽國志、晉書五項皆已核查，無新候選可錄。"
+      ],
       "excerpts": [
         {
           "id": "ltong-huangzu-tucheng",
@@ -121663,6 +121667,33 @@
           "from": "時有薦同郡盛暹於權者，",
           "through": "其愛善不害如此。",
           "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·凌統傳》"
+        },
+        {
+          "id": "ltong-dongzhan-bingzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 48,
+          "from": "統以山中人尚多壯悍，",
+          "through": "時年四十九。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·凌統傳》"
+        },
+        {
+          "id": "ltong-erzi-yangyu-fenghou",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 49,
+          "from": "二子烈、封，年各數歲，",
+          "through": "封復襲爵領兵。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·凌統傳》"
+        },
+        {
+          "id": "ltong-sunsheng-yangshi",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 49,
+          "from": "孫盛曰：觀孫權之養士也，",
+          "through": "如此之勤也。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·凌統傳》孫盛曰"
         }
       ],
       "exclusions": [
@@ -121676,9 +121707,7 @@
           "reason": "該段為陸機《辨亡論》上篇泛稱孫吳諸將之文，淩統僅在群將名單中被列名，無其個人事蹟與繫年，不作本人史實證據，排除。"
         }
       ],
-      "unresolved": [
-        "a04-055:48-49 淩統本傳尾段尚未補錄：48 東占討山越、病卒；49 二子烈封、孫權養育封侯，孫盛曰一段須與正文分層，勿合併。"
-      ]
+      "unresolved": []
     }
   ]
 }
