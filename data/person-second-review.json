@@ -119570,6 +119570,24 @@
           "from": "時周瑜受使至鄱陽，肅勸追召瑜還",
           "through": "權撫掌歡笑。",
           "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-jie-jingzhou-yu-bei",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 20,
+          "from": "後備詣京見權，求都督荊州",
+          "through": "惟肅勸權借之，共拒曹公。",
+          "citation": "《三國志·吳書九·魯肅傳》"
+        },
+        {
+          "id": "lsu-yiyang-dandao-yu",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 22,
+          "from": "肅住益陽，與羽相拒。肅邀羽相見",
+          "through": "羽無以荅。備遂割湘水為界，於是罷軍。",
+          "citation": "《三國志·吳書九·魯肅傳》"
         }
       ],
       "exclusions": [
@@ -119599,6 +119617,15 @@
           "term": "魯子敬",
           "quote": "卿魯子敬之儔",
           "reason": "禿髮傉檀以魯肅為比，稱宗敞為魯子敬之儔，僅為後世比擬，無魯肅本人事蹟，不作摘錄。"
+        },
+        {
+          "id": "lsu-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 29,
+          "term": "襲肅",
+          "quote": "益州將襲肅舉軍來附",
+          "reason": "此段為呂蒙傳敘事，襲肅為益州來附之將，其兵與蒙所稱之肅皆指襲肅，非魯肅；單字肅命中所致，不作摘錄。"
         }
       ],
       "unresolved": []
