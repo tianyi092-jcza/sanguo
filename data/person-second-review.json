@@ -120406,6 +120406,33 @@
           "from": "即遣周瑜程普水軍三萬助先主",
           "through": "大破公軍扵赤壁",
           "citation": "《華陽國志》卷六·四部叢刊本（孫權遣周瑜程普水軍助劉備破曹公於赤壁）"
+        },
+        {
+          "id": "chpu-congce-dujiang-huangzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 2,
+          "from": "堅薨，復隨孫策在淮南",
+          "through": "還鎮石城",
+          "citation": "《三國志·卷五十五 ‧ 吳書十　程普黃蓋韓當周泰傳第十 程普傳》"
+        },
+        {
+          "id": "chpu-chenggong-ling-jiangxia",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 4,
+          "from": "先出諸將，普最年長",
+          "through": "遷盪寇將軍，卒",
+          "citation": "《三國志·卷五十五 ‧ 吳書十　程普黃蓋韓當周泰傳第十 程普傳》"
+        },
+        {
+          "id": "chpu-wushu-touhuo-bingzu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 4,
+          "from": "吳書曰：普殺叛者數百人",
+          "through": "百餘日卒",
+          "citation": "《三國志·卷五十五 ‧ 吳書十　程普黃蓋韓當周泰傳第十 程普傳》"
         }
       ],
       "exclusions": [
@@ -120437,7 +120464,9 @@
           "reason": "此段為同卷周泰傳，敘周泰事功，程普僅於赤壁一句中並列提及，無程普具體事實，不作本人史實。"
         }
       ],
-      "unresolved": []
+      "unresolved": [
+        "a04-055:4 末句「權稱尊號，追論普功，封子咨為亭侯」尚未錄入：本輪已錄同段正文與吳書注，追封句須另立一條正文條目，勿與裴注合併。"
+      ]
     }
   ]
 }
