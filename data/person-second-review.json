@@ -120325,9 +120325,37 @@
           "from": "程普討樂安",
           "through": "太史慈領海昏",
           "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "chpu-chibi-zuoyoudu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 8,
+          "from": "瑜、普為左右督",
+          "through": "大破曹公軍",
+          "citation": "《三國志·吳書二·吳主傳》"
+        },
+        {
+          "id": "chpu-jiangling-bumu",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 5,
+          "from": "昔周瑜、程普為左右部督",
+          "through": "幾敗國事",
+          "citation": "《三國志·吳書六·宗室傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "chpu-excl-bianwanglun",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "程普",
+          "quote": "甘寧、淩統、程普、賀齊、朱桓、朱然之徒奮其威",
+          "reason": "晉人陸機《辨亡論》後世追述，僅於吳將群像中列名，無程普具體事實，不作本人史實。"
+        }
+      ],
       "unresolved": []
     }
   ]
