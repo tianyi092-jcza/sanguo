@@ -121582,6 +121582,33 @@
           "from": "留淩公績，",
           "through": "蒙保公績能十日守也。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "ltong-hefei-hanwei",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 35,
+          "from": "師還，遂征合肥，",
+          "through": "蒙與淩統以死扞衞。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "ltong-jian-liuzan",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 29,
+          "from": "淩統聞之，請與相見，",
+          "through": "遂被試用。",
+          "citation": "《三國志·吳書十九·諸葛滕二孫濮陽傳·孫峻傳》"
+        },
+        {
+          "id": "ltong-xiaoyaojin-sizhan",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 39,
+          "from": "建安二十年，從攻合肥，",
+          "through": "寧引弓射敵，與統等死戰。",
+          "citation": "《三國志·吳書十·程黃韓蔣周陳董甘凌徐潘丁傳·甘寧傳》"
         }
       ],
       "exclusions": [
