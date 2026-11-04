@@ -119435,6 +119435,33 @@
           "from": "及橫江將軍魯肅卒",
           "through": "鎮據陸口。",
           "citation": "《三國志·吳書八·嚴畯傳》"
+        },
+        {
+          "id": "lsu-dangyang-yubei",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 5,
+          "from": "時劉備為曹公所破，欲引南渡江，與魯肅遇於當陽",
+          "through": "遣諸葛亮詣權，",
+          "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "lsu-songbie-liubei",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 8,
+          "from": "劉備之自京還也",
+          "through": "大宴會敘別。",
+          "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "lsu-zijing-haoshi",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 13,
+          "from": "魯肅字子敬",
+          "through": "甚得鄉邑歡心。",
+          "citation": "《三國志·吳書九·魯肅傳》"
         }
       ],
       "exclusions": [],
