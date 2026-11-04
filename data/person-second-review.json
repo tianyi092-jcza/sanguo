@@ -120704,6 +120704,15 @@
           "from": "蓋自彊以一聲呼韓當",
           "through": "遂以得生",
           "citation": "裴注引《吳書》"
+        },
+        {
+          "id": "hdang-dongdu-zhuoxiang",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 11,
+          "from": "及孫策東渡，從討三郡",
+          "through": "徙威烈將軍，封都亭侯",
+          "citation": "《三國志·吳書十·程普黃蓋韓當傳第十 韓當傳》"
         }
       ],
       "exclusions": [
@@ -120751,6 +120760,24 @@
           "term": "韓當",
           "quote": "韓當傳",
           "reason": "此段僅為本傳篇題，無任何史實內容，不作摘錄。"
+        },
+        {
+          "id": "hdang-excl-yiling-liebiao",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 8,
+          "term": "韓當",
+          "quote": "督朱然、潘璋、宋謙、韓當、徐盛、鮮于丹、孫桓等五萬人拒之",
+          "reason": "此段中韓當僅出現一次，於陸遜所督五萬人將領名單中列名，全段無韓當個人言行或功績，不作獨立史實摘錄。"
+        },
+        {
+          "id": "hdang-excl-danzhi-zong",
+          "work": "peizhu",
+          "source": "a04-055",
+          "paragraph": 12,
+          "term": "當",
+          "quote": "將吏以下，當並收治",
+          "reason": "此段主角為韓當之子韓綜謀叛奔魏，單字「當」皆為一般用語，非人名韓當；且韓綜降魏一事已於他段排除在案，不作韓當本人史實。"
         }
       ],
       "unresolved": []
