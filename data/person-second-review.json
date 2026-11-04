@@ -119673,15 +119673,19 @@
     {
       "id": "p0211",
       "name": "呂蒙",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-054）呂蒙段落 25–40 均已覆蓋（含篇題排除、子霸襲爵排除）：代鄧當拜別部司馬、絳衣行縢、討丹楊拜平北都尉、不脩書傳口占牋疏、薦蔡遺、容忍甘寧等皆已錄入。",
+        "向量候選已枯竭：全庫人名精確命中經 covered 去重、年號剛性剔除與鏡像去重後餘 0 段；未解決 0 條。本傳合卷內周瑜傳、魯肅傳未覆蓋段落已逐段核對：僅「蒙衝鬬艦」與「蒙粉飾」單字泛用，無呂蒙本人內容；本傳尾段 a04-054:40 子霸襲爵已於本輪排除。",
+        "本輪後共摘錄 54 條、排除 9 條；三國志、裴注、後漢書、華陽國志、晉書五項皆已核查，無新候選可錄。"
+      ],
       "excerpts": [
         {
           "id": "lmeng-xiduo-sanjun",
@@ -120150,6 +120154,24 @@
           "from": "又子明少時，孤謂不辭劇易，果敢有膽而已；",
           "through": "圖取關羽，勝於子敬。",
           "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-dai-dang-biebu-sima",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 27,
+          "from": "數歲，鄧當死，張昭薦蒙代當，拜別部司馬。",
+          "through": "從討丹楊，所向有功，拜平北都尉，領廣德長。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
+        },
+        {
+          "id": "lmeng-jian-yi-rong-ning",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 39,
+          "from": "蒙少不脩書傳，每陳大事，常口占為牋疏。",
+          "through": "權遂厚寧，卒得其用。",
+          "citation": "《三國志·吳書九·周瑜魯肅呂蒙傳·呂蒙傳》"
         }
       ],
       "exclusions": [
@@ -120224,6 +120246,15 @@
           "term": "呂蒙",
           "quote": "呂蒙之進，非舊勳也",
           "reason": "張耽勸張重華語中以呂蒙進用為明王用才先例之喻，僅借舊事作比，無呂蒙具體史事，不另立摘錄。"
+        },
+        {
+          "id": "lmeng-excl-009",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 40,
+          "term": "蒙子霸",
+          "quote": "蒙子霸襲爵，與守冢三百家，復田五十頃。",
+          "reason": "蒙卒後其子霸襲爵、琮及睦相繼嗣侯，皆為子嗣承爵事，無呂蒙本人具體史事，不另立摘錄。"
         }
       ],
       "unresolved": []
