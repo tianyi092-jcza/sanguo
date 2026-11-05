@@ -131704,6 +131704,33 @@
           "term": "孫峻",
           "quote": "朝廷從之。",
           "reason": "晉書卷二十六僅「朝廷從之」一句；全段未提孫峻，僅因「專國政」事件關聯命中，排除。"
+        },
+        {
+          "id": "sunjun-excl-062",
+          "work": "houhanshu",
+          "source": "a03-079",
+          "paragraph": 15,
+          "term": "孫峻",
+          "quote": "楊政字子行，京兆人也。",
+          "reason": "後漢書楊政傳，全段講楊政受經授徒，未提孫峻，僅因「專國政」事件關聯命中，排除。"
+        },
+        {
+          "id": "sunjun-excl-063",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 28,
+          "term": "孫峻",
+          "quote": "高貴鄉公紀",
+          "reason": "三國志卷四僅「高貴鄉公紀」卷目小標，全段未提孫峻，僅因事件關聯命中，排除。"
+        },
+        {
+          "id": "sunjun-excl-064",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 61,
+          "term": "孫峻",
+          "quote": "魏氏王公，旣徒有國土之名",
+          "reason": "三國志卷二十評曰論魏氏王公禁防之弊，全段未提孫峻，僅因事件關聯命中，排除。"
         }
       ],
       "unresolved": [],
