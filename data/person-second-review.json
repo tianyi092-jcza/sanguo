@@ -126651,7 +126651,35 @@
       },
       "conclusions": [],
       "excerpts": [],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangwen-excl-001",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 17,
+          "term": "張溫",
+          "quote": "大司農張溫為司空",
+          "reason": "同名異人：此張溫為東漢末大臣，中平元年以大司農遷司空，非吳臣張溫（字惠恕，吳郡吳縣人，孫權朝臣）。"
+        },
+        {
+          "id": "zhangwen-excl-002",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 18,
+          "term": "張溫",
+          "quote": "以司空張溫為車騎將軍，討北宮伯玉",
+          "reason": "同名異人：此張溫為東漢末車騎將軍，中平二年討北宮伯玉、破之於美陽，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "id": "zhangwen-excl-003",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 19,
+          "term": "張溫",
+          "quote": "車騎將軍張溫為太尉",
+          "reason": "同名異人：此張溫為東漢末大臣，中平三年由車騎將軍遷太尉，非吳臣張溫（字惠恕）。"
+        }
+      ],
       "unresolved": []
     }
   ]
