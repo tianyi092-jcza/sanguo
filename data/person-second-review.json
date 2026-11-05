@@ -123719,6 +123719,24 @@
           "from": "文士傳曰：張惇子純與張儼及異俱童少，往見驃騎將軍朱據。",
           "through": "據大歡恱。",
           "citation": "《三國志·吳書十一·朱桓傳》"
+        },
+        {
+          "id": "zhuju-zifan-chushi",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 39,
+          "from": "朱據字子範，吳郡吳人也。",
+          "through": "豔不聽，卒敗。",
+          "citation": "《三國志·吳書十二·朱據傳》"
+        },
+        {
+          "id": "zhuju-zuojiangjun-yunyanghou",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 40,
+          "from": "黃龍元年，權遷都建業，徵據尚公主，拜左將軍，封雲陽侯。",
+          "through": "祿賜雖豐而常不足用。",
+          "citation": "《三國志·吳書十二·朱據傳》"
         }
       ],
       "exclusions": [
@@ -123739,6 +123757,15 @@
           "term": "朱據",
           "quote": "皆據二子熊、損所白",
           "reason": "孫休朱夫人傳主角為朱據女朱主，據僅以二子熊、損被全主推諉提及，熊、損被殺為其子事、非朱據本人事實，依父子分開原則不作摘錄。"
+        },
+        {
+          "id": "zhuju-excl-dengshu-juming",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 4,
+          "term": "朱據",
+          "quote": "諸葛瑾、步隲、朱然、全琮、朱據、呂岱、吾粲",
+          "reason": "孫登臨終上疏舉薦群臣，朱據僅列名於可令陳上便宜的名單中，無本人言行或事實，依僅帶及原則不作摘錄。"
         }
       ],
       "unresolved": []
