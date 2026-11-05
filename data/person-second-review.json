@@ -124098,6 +124098,24 @@
           "from": "嘉禾六年，魏廬江主簿呂習請大兵自迎，欲開門為應。",
           "through": "桓與衞將軍全琮俱以師迎。",
           "citation": "《三國志·吳書十一·朱桓傳》"
+        },
+        {
+          "id": "quancong-wei-du-zhuhuan-jiaoji",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 35,
+          "from": "是時全琮為督，權又令偏將軍胡綜宣傳詔命，參與軍事。",
+          "through": "桓愈恚恨，還乃使人呼綜。",
+          "citation": "《三國志·吳書十一·朱桓傳》"
+        },
+        {
+          "id": "quancong-zuoyi-shiting-zhanhu",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 13,
+          "from": "遜自為中部，令朱桓、全琮為左右翼，三道俱進，果衝休伏兵，因驅走之，",
+          "through": "追亡逐北，徑至夾石，斬獲萬餘，牛馬騾驢車乘萬兩，軍資器械略盡。",
+          "citation": "《三國志·吳書十三·陸遜傳》"
         }
       ],
       "exclusions": [
@@ -124109,6 +124127,15 @@
           "term": "全琮",
           "quote": "州民如陸遜、全琮及貴公子，皆脩敬虔肅，不敢輕脫。",
           "reason": "此段主述呂範好威儀、州民敬憚，全琮僅與陸遜等並列為敬憚者之一，非全琮本人事蹟，排除。"
+        },
+        {
+          "id": "quancong-excl-zhangwen-weibei",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 17,
+          "term": "全琮",
+          "quote": "大司農劉基曰：「可與全琮為輩。」",
+          "reason": "此段主述張溫受孫權賞識、劉基以全琮為輩比較張溫，全琮僅為比較參照，非全琮本人事蹟，排除。"
         }
       ],
       "unresolved": []
