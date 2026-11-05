@@ -126705,6 +126705,33 @@
           "term": "張溫",
           "quote": "司空張溫數以禮辟",
           "reason": "同名異人：此張溫為東漢末大臣，中平二年以車騎將軍征涼州邊章，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-007",
+          "work": "houhanshu",
+          "source": "a03-038",
+          "paragraph": 27,
+          "quote": "後尚書令張溫特表薦之",
+          "reason": "同名異人：此張溫為東漢末大臣，靈帝朝尚書令，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-008",
+          "work": "houhanshu",
+          "source": "a03-052",
+          "paragraph": 37,
+          "quote": "段熲、樊陵、張溫等雖有功勤名譽",
+          "reason": "同名異人：此張溫為東漢末大臣，靈帝時與段熲、樊陵並稱，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-009",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 34,
+          "quote": "二年九月，復代張溫為司空",
+          "reason": "同名異人：此張溫為東漢末大臣，熹平年間任司空，非吳臣張溫（字惠恕）。"
         }
       ],
       "unresolved": []
