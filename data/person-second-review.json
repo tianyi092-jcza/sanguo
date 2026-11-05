@@ -130950,6 +130950,36 @@
           "through": "以殺魯育等故也。",
           "citation": "《三國志·吳書十九 諸葛滕二孫濮陽傳第十九》",
           "note": "永安元年（258）孫休誅孫綝後，發孫峻棺、取其印綬、斲其木而埋之，以其殺魯育公主等之故。見孫峻死後追戮。"
+        },
+        {
+          "id": "sunjun-jin-wuxing-zhuanzheng",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 71,
+          "from": "是時孫峻專政",
+          "through": "陰勝陽之應乎！",
+          "citation": "《晉書·卷二十七·五行志上》",
+          "note": "五鳳元年（254）夏大水，時孫峻專政，以陰勝陽之應繫之。見孫峻專政之時論。"
+        },
+        {
+          "id": "sunjun-sgz-weiji-shouchun",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 32,
+          "from": "甲子，吳大將孫峻等衆號十萬至壽春",
+          "through": "獻捷于京都。",
+          "citation": "《三國志·魏書四 三少帝紀第四》",
+          "note": "正元二年（255）正月，吳大將孫峻等眾號十萬至壽春，諸葛誕拒擊破之，斬吳左將軍留贊。魏紀所載，與本傳襲壽春事互證，並補留贊戰死一節。"
+        },
+        {
+          "id": "sunjun-sgz-chentai-huaisi",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 15,
+          "from": "吳大將孫峻出淮、泗。",
+          "through": "峻退，軍還，轉為左僕射。",
+          "citation": "《三國志·魏書二十二 陳羣傳第二十二》",
+          "note": "正元二年（255）孫峻出淮、泗，魏以陳泰為鎮軍將軍、假節都督淮北諸軍事，峻退軍還。陳泰傳所載，與本傳襲壽春事互證。"
         }
       ],
       "exclusions": [],
