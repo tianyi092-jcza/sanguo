@@ -124331,6 +124331,53 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0230",
+      "name": "呂岱",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "lvdai-wuzhu-047-33",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 33,
+          "from": "四年夏，遣呂岱討桓等。",
+          "through": "四年夏，遣呂岱討桓等。",
+          "citation": "《三國志・吳書二・吳主傳》",
+          "note": "正文層級：嘉禾四年（235年）夏，孫權遣呂岱討桓等。吳主傳正文視角互見，為呂岱奉命討賊之本人軍事行動。"
+        },
+        {
+          "id": "lvdai-wuzhu-047-36",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 36,
+          "from": "夏，呂岱討廬陵賊，畢，還陸口。",
+          "through": "夏，呂岱討廬陵賊，畢，還陸口。",
+          "citation": "《三國志・吳書二・吳主傳》",
+          "note": "正文層級：赤烏元年（238年）夏，呂岱討廬陵賊，平定後還陸口。吳主傳正文視角互見，為呂岱平定廬陵賊之本人軍事行動。"
+        },
+        {
+          "id": "lvdai-wuzhu-047-37",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 37,
+          "from": "冬十月，將軍蔣祕南討夷賊。",
+          "through": "遣將軍呂岱、唐咨討之，歲餘皆破。",
+          "citation": "《三國志・吳書二・吳主傳》",
+          "note": "正文層級：赤烏二年（239年）冬，蔣祕所領都督廖式殺臨賀太守嚴綱等叛亂，孫權遣將軍呂岱、唐咨討之，歲餘皆破。吳主傳正文視角互見，為呂岱平定廖式之亂之本人軍事行動。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
