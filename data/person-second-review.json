@@ -124116,6 +124116,15 @@
           "from": "遜自為中部，令朱桓、全琮為左右翼，三道俱進，果衝休伏兵，因驅走之，",
           "through": "追亡逐北，徑至夾石，斬獲萬餘，牛馬騾驢車乘萬兩，軍資器械略盡。",
           "citation": "《三國志·吳書十三·陸遜傳》"
+        },
+        {
+          "id": "quancong-baoxun-ergong-zidi",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 24,
+          "from": "全琮報遜，遜以為子弟苟有才，不憂不用，不宜私出以要榮利；若其不佳，終為取禍。",
+          "through": "琮旣不納，更以致隙。",
+          "citation": "《三國志·吳書十三·陸遜傳》"
         }
       ],
       "exclusions": [
@@ -124136,6 +124145,24 @@
           "term": "全琮",
           "quote": "大司農劉基曰：「可與全琮為輩。」",
           "reason": "此段主述張溫受孫權賞識、劉基以全琮為輩比較張溫，全琮僅為比較參照，非全琮本人事蹟，排除。"
+        },
+        {
+          "id": "quancong-excl-sundeng-yinfan",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 1,
+          "term": "全琮",
+          "quote": "自衞將軍全琮等皆傾心敬待",
+          "reason": "此段主述孫登傳附載羊衜拒絕隱蕃，全琮僅於裴注引《吳書》中列名為傾心敬待隱蕃者之一，非全琮本人事蹟主述，排除。"
+        },
+        {
+          "id": "quancong-excl-sundeng-linzhong",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 4,
+          "term": "全琮",
+          "quote": "諸葛瑾、步隲、朱然、全琮、朱據、呂岱、吾粲、闞澤、嚴畯、張承、孫怡忠於為國，通達治體。",
+          "reason": "此段為孫登臨終上疏列舉可委任忠臣名單，全琮僅列名其一，非其本人事蹟，排除。"
         }
       ],
       "unresolved": []
