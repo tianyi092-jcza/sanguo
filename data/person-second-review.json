@@ -131070,9 +131070,39 @@
           "through": "別飲所齎酒。",
           "citation": "《三國志·吳書十九 諸葛滕二孫濮陽傳第十九》",
           "note": "孫峻於帷中伏兵，以病為辭誘恪入見，恪雖得張約、朱恩密書示警，仍為滕胤勸入，飲己所齎藥酒而不疑。見孫峻誅恪之佈置與恪入彀之經過；本段僅錄正文，吳歷、孫盛評等裴注另錄。"
+        },
+        {
+          "id": "sunjun-sgz-ji-nieyou",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 21,
+          "from": "恪誅後，孫峻忌友，",
+          "through": "友發病憂死。",
+          "citation": "《三國志·吳書十九 諸葛滕二孫濮陽傳第十九》",
+          "note": "孫峻誅諸葛恪後猜忌聶友，欲以鬱林太守外放之，聶友憂懼發病而死；見孫峻專權後猜忌舊臣。段落餘為聶友生平（吳錄），僅錄正文此句。"
+        },
+        {
+          "id": "sunjun-sgz-ping-zhugeke",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 47,
+          "from": "峻、綝凶豎盈溢，",
+          "through": "固無足論者。",
+          "citation": "《三國志·吳書十九 諸葛滕二孫濮陽傳第十九》",
+          "note": "陳壽評曰以孫峻、孫綝為「凶豎盈溢，固無足論者」，見史家對孫峻專權之評價；僅錄評語中涉孫峻一句。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "sunjun-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 26,
+          "term": "孫峻",
+          "quote": "孫峻傳",
+          "reason": "《三國志·吳書十九》第26段僅為孫峻本傳小傳標題，無正文內容，不作生平依據，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
