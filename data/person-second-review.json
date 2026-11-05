@@ -129116,6 +129116,26 @@
           "through": "權愛其才，弗之責也。",
           "citation": "《三國志·吳書十七 是儀胡綜傳第十七 胡綜傳》",
           "note": "胡綜性嗜酒，酒後歡呼極意，或推引杯觴、搏擊左右，孫權愛其才而不責。"
+        },
+        {
+          "id": "huzong-sgz-chuwu-zhongsi",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 26,
+          "from": "赤烏六年卒，子冲嗣。",
+          "through": "天紀中為中書令",
+          "citation": "《三國志·吳書十七 是儀胡綜傳第十七 胡綜傳》",
+          "note": "胡綜赤烏六年（243）卒，子胡冲嗣；冲平和有文幹，天紀中為中書令。（裴注引《吳錄》所載冲後仕晉事不錄）"
+        },
+        {
+          "id": "huzong-sgz-dayafu-quanwen",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 16,
+          "from": "乾坤肇立，三才是生。",
+          "through": "合契河洛，動與道俱，天贊人和，僉曰惟休。",
+          "citation": "《三國志·吳書十七 是儀胡綜傳第十七 胡綜傳》",
+          "note": "胡綜奉命所作〈黃龍大牙賦〉全文；黃武八年黃龍見夏口，孫權稱尊號，命綜作賦，見 a04-062:15。"
         }
       ],
       "exclusions": [
@@ -129127,6 +129147,15 @@
           "term": "胡綜傳",
           "quote": "胡綜傳",
           "reason": "僅為《胡綜傳》篇首標題，無史實內容可摘；本傳正文自次段（a04-062:14）起，已另錄為 excerpt。"
+        },
+        {
+          "id": "huzong-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 19,
+          "term": "吳質",
+          "quote": "臣質志薄，處時無方",
+          "reason": "此段為胡綜偽為吳質所作降文三條之其一，全篇皆吳質口吻陳述歸降之事，非胡綜本人史實；偽作一事已錄於 a04-062:18（huzong-sgz-shizhong-weiwen），本段不另摘。"
         }
       ],
       "unresolved": []
