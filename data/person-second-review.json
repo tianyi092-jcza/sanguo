@@ -124989,6 +124989,53 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0233",
+      "name": "陸遜",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "luxun-weishu-026-6",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 6,
+          "from": "明年，吴將陸遜向廬江，論者以為宜速赴之。",
+          "through": "賊聞大兵東下，即夜遁。",
+          "citation": "《三國志・魏書二十六・滿田牽郭傳》",
+          "note": "正文層級：他傳互證，吳將陸遜向廬江，滿寵整軍趨楊宜口，陸遜聞魏大兵東下即夜遁；此條僅錄陸遜進軍至夜遁一段，滿寵移城等後文與陸遜無關不錄。"
+        },
+        {
+          "id": "luxun-wuzhu-047-17",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 17,
+          "from": "陸遜別取宜都，獲秭歸、枝江、夷道，還屯夷陵，守峽口以備蜀。",
+          "through": "陸遜別取宜都，獲秭歸、枝江、夷道，還屯夷陵，守峽口以備蜀。",
+          "citation": "《三國志・吳書二・吳主傳》",
+          "note": "正文層級：建安二十四年襲取荊州時，陸遜別取宜都，獲秭歸、枝江、夷道，還屯夷陵，守峽口以備蜀。"
+        },
+        {
+          "id": "luxun-wuzhu-047-18",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 18,
+          "from": "權以陸遜為督，督朱然、潘璋等以拒之。",
+          "through": "權以陸遜為督，督朱然、潘璋等以拒之。",
+          "citation": "《三國志・吳書二・吳主傳》",
+          "note": "正文層級：劉備帥軍來伐至巫山、秭歸時，孫權以陸遜為督，督朱然、潘璋等拒之；此為夷陵之戰前陸遜受任為都督的他傳互證。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
