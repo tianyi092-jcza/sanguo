@@ -123782,6 +123782,24 @@
           "from": "吳孫權赤烏十二年四月，有兩烏銜鵲墮東館，權使領丞相朱據燎鵲以祭。",
           "through": "明年，太子和廢，魯王霸賜死，朱據左遷，陸議憂卒，是其應也。",
           "citation": "《晉書·卷二十八·五行志中》"
+        },
+        {
+          "id": "zhuju-wuxing-chiru",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 5,
+          "from": "其後，朱據、屈晃以迕意黜辱",
+          "through": "而太子終廢。",
+          "citation": "《晉書·卷二十九·五行志下》"
+        },
+        {
+          "id": "zhuju-dizhen-chu",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 143,
+          "from": "吳孫權赤烏十一年二月，江東地仍震。",
+          "through": "是時，權聽讒，尋黜朱據，廢太子。",
+          "citation": "《晉書·卷二十九·五行志下》"
         }
       ],
       "exclusions": [
@@ -123845,6 +123863,15 @@
           "term": "朱據",
           "quote": "朱據先帝舊臣，子男熊、損皆承父之基，以忠義自立",
           "reason": "孫綝致孫休書列數孫亮罪狀，朱據僅以先帝舊臣被提及，熊、損被殺為其子事；依父子分開原則，已有同類排除（a04-050:22），不作摘錄。"
+        },
+        {
+          "id": "zhuju-excl-lutong-juqiangtu",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 25,
+          "term": "據",
+          "quote": "以據疆土為彊富",
+          "reason": "陸統上疏通用語「據疆土」，「據」為據有之義、非人名朱據，屬本傳單字誤命中，不作摘錄。"
         }
       ],
       "unresolved": []
