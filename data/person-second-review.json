@@ -124859,6 +124859,53 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0232",
+      "name": "鍾離牧",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "zhonglimu-sansizhu-048-9",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 9,
+          "from": "鄱陽、新都民為亂，廷尉丁密、步兵校尉鄭胄、將軍鍾離牧率軍討之。",
+          "through": "鄱陽、新都民為亂，廷尉丁密、步兵校尉鄭胄、將軍鍾離牧率軍討之。",
+          "citation": "《三國志・吳書三・三嗣主傳》",
+          "note": "正文層級：會稽南部反、鄱陽與新都民亂時，將軍鍾離牧與廷尉丁密、步兵校尉鄭胄率軍討伐；此條僅錄鍾離牧討亂部分。"
+        },
+        {
+          "id": "zhonglimu-ben-060-44",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 44,
+          "from": "鍾離牧字子幹，會稽山陰人，漢魯相意七世孫也。",
+          "through": "鍾離牧字子幹，會稽山陰人，漢魯相意七世孫也。",
+          "citation": "《三國志・吳書十五・鍾離牧傳》",
+          "note": "正文層級：本傳開篇，字子幹、會稽山陰人、漢魯相鍾離意七世孫；此條僅錄正文開篇一句，後文會稽典錄等裴注部分另行分層處理。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhonglimu-excl-060-43",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 43,
+          "term": "鍾離牧",
+          "quote": "鍾離牧傳",
+          "reason": "本傳卷內篇題，僅為篇名、無史事內容，不作摘錄依據，排除。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
