@@ -127481,15 +127481,18 @@
     {
       "id": "p0241",
       "name": "潘濬",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-061）潘濬傳段 1–4、評曰段 49 均已覆蓋：濬字承明，武陵漢壽人也，弱冠從宋仲子受學；吳書曰濬為人聰察，對問有機理，山陽王粲見而貴異之；孫權殺關羽，并荊土，拜濬輔軍中郎將，授以兵，江表傳曰濬獨稱疾不見，權遣人以牀就家輿致之；與陸遜俱駐武昌，共掌留事，校事呂壹操弄威柄，濬求朝欲因會手刃殺壹，每進見必陳壹姦險；赤烏二年（239）卒，子翥嗣，女配建昌侯孫慮；吳書曰翥字文龍，拜騎都尉，後代領兵，早卒，翥弟祕權以姊陳氏女妻之，調湘鄉令；評曰：潘濬公清割斷，陸凱忠壯質直，皆節槩梗梗，有大丈夫格業。他傳互證：吳主傳 a04-047 段 29、32、37（討平武陵蠻、嘉禾二年事）、宗室傳 a04-051 段 10、顧雍傳 a04-052 段 13、34、陸遜傳 a04-058 段 21、呂岱傳 a04-060 段 26、a04-045 段 48，均已錄摘錄。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重、年號剛性剔除後餘 0 段；未解決 0 條。本傳逐段核對：潘濬本傳 a04-061 段 0–4（段 0 為篇目標題，已排除）、評曰段 49，均已覆蓋；段 4 襄陽記注記子潘祕仕宦，與濬本人無關，已排除。摘錄共 16 條、排除共 8 條。"
+      ],
       "excerpts": [
         {
           "id": "panjun-sgz-dengzhang-jingzhou-zhizhong",
@@ -127623,6 +127626,26 @@
           "through": "評曰：潘濬公清割斷，陸凱忠壯質直，皆節槩梗梗，有大丈夫格業。",
           "citation": "《三國志·吳書十六 潘濬陸凱傳第十六》",
           "note": "陳壽評曰；合評潘濬、陸凱，後句論陸胤不錄。"
+        },
+        {
+          "id": "panjun-sgz-ben-zhuan-zu-nian",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 4,
+          "from": "赤烏二年，濬卒，子翥嗣。",
+          "through": "濬女配建昌侯孫慮。",
+          "citation": "《三國志·吳書十六 潘濬陸凱傳第十六》",
+          "note": "赤烏二年（239）卒；子翥嗣；女配建昌侯孫慮。"
+        },
+        {
+          "id": "panjun-sgz-ben-zhuan-wushu-zi-si",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 4,
+          "from": "吳書曰：翥字文龍，拜騎都尉，後代領兵，早卒。",
+          "through": "翥弟祕，權以姊陳氏女妻之，調湘鄉令。",
+          "citation": "《三國志·吳書十六 潘濬陸凱傳第十六》",
+          "note": "裴注引《吳書》；子翥、子祕事。"
         }
       ],
       "exclusions": [
@@ -127688,6 +127711,15 @@
           "term": "潘濬",
           "quote": "潘濬傳",
           "reason": "僅為本傳篇首標題，無敘事內容，排除。"
+        },
+        {
+          "id": "panjun-excl-008",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 4,
+          "term": "潘濬",
+          "quote": "後祕為尚書僕射，代溫為公平，甚得州里之譽。",
+          "reason": "襄陽記注記子潘祕仕宦，與潘濬本人無關，排除。"
         }
       ],
       "unresolved": []
