@@ -124161,6 +124161,15 @@
           "from": "全琮有當世之才，貴重於時，然不檢姧子，獲譏毀名云。",
           "through": "全琮有當世之才，貴重於時，然不檢姧子，獲譏毀名云。",
           "citation": "《三國志·吳書十五·全琮傳》"
+        },
+        {
+          "id": "quancong-jinshu-xuandi-shaopi",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 21,
+          "from": "二年夏五月，吳將全琮寇芍陂，朱然、孫倫圍樊城，諸葛瑾、步騭掠柤中，帝請自討之。",
+          "through": "二年夏五月，吳將全琮寇芍陂，朱然、孫倫圍樊城，諸葛瑾、步騭掠柤中，帝請自討之。",
+          "citation": "《晉書·卷一·宣帝紀》"
         }
       ],
       "exclusions": [
@@ -124217,6 +124226,24 @@
           "term": "全琮",
           "quote": "全琮、朱桓趨合肥",
           "reason": "此段為周魴傳所載周魴詐降王凌之信，述東吳諸將北進部署，全琮僅列名其一，非其本人事蹟，排除。"
+        },
+        {
+          "id": "quancong-excl-jinshu-ahcb-mirror",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 44,
+          "term": "全琮",
+          "quote": "二年夏五月，吳將全琮寇芍陂",
+          "reason": "此段與 a05-001:21 為同一《晉書·宣帝紀》段落之四庫本重出，僅異體字與分段差異，已據 sidneyluo 底本另錄 excerpt，鏡像重複，排除。"
+        },
+        {
+          "id": "quancong-excl-jinshu-quancong-jifu",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 16,
+          "term": "全琮",
+          "quote": "神變應機，而全琮稽服",
+          "reason": "此詔追述諸葛誕之亂（257–258）前後事，全琮已於赤烏十二年（249）卒，不可能參與；所指當為全氏子弟降魏事，非本人事蹟，排除。"
         }
       ],
       "unresolved": []
