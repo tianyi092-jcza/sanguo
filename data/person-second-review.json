@@ -126641,15 +126641,18 @@
     {
       "id": "p0237",
       "name": "張溫",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-057）張溫傳段 17–21、42 均已覆蓋：溫字惠恕，吳郡吳人；拜議郎、選曹尚書，徙太子太傅，甚見信重；時年三十二，以輔義中郎將使蜀，權囑以通意，溫對以諸葛亮必無疑貳，至蜀拜章通好，蜀甚貴其才；還，使入豫章部伍出兵，事業未究；後權幽之有司，下令斥還本郡，駱統上疏論溫才即可惜、罪可恕；後六年，溫病卒，二弟祗、白亦有才名，與溫俱廢。評曰稱其才藻俊茂，而智防未備，用致艱患。他傳互證：遣使聘蜀，蜀主敬服其文辯；與暨豔奏孫邵事；與朱祺、殷禮友善，俱使蜀；自陸遜、張溫、駱統等皆拜唐固為師；為選部尚書時擢華融為太子庶子；言於權宜用儁德為中庶子。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重、年號剛性剔除後餘 0 段；未解決 0 條。本傳逐段核對：張溫本傳 a04-057 段 17–21、42 均已覆蓋；卷內他傳段 0–16、22–41 逐段核對，提及張溫者均已錄（段 15 提及溫弟張白、段 16 提及張溫傳、段 40 朱據傳追思張溫，皆已錄排除），餘段無張溫提及。摘錄共 16 條、排除共 33 條。"
+      ],
       "excerpts": [
         {
           "id": "zhangwen-hhs-envoy-shu",
@@ -126785,6 +126788,15 @@
           "from": "吳郡張溫來就象學，欲得所舍。",
           "through": "俄而溫為選部尚書，乃擢融為太子庶子，遂知名顯達。",
           "citation": "《三國志·吳書十九 諸葛滕二孫濮陽傳第十九》"
+        },
+        {
+          "id": "zhangwen-sgz-shu-mission",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 18,
+          "from": "時年三十二，以輔義中郎將使蜀。",
+          "through": "還，頃之，使入豫章部伍出兵，事業未究。",
+          "citation": "《三國志·吳書十二 虞翻陸績張溫傳第十二》"
         }
       ],
       "exclusions": [
