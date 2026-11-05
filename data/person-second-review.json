@@ -128777,8 +128777,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "shiyi-sgz-bio-ziyu",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 1,
+          "from": "是儀字子羽，北海營陵人也。",
+          "through": "乃遂改焉。",
+          "citation": "《三國志·吳書十七 是儀胡綜傳第十七 是儀傳》",
+          "note": "本傳開篇：是儀字子羽，北海營陵人，本姓氏，初為縣吏，後仕郡，郡相孔融嘲「氏」字「民」無上可改為「是」，乃遂改焉。段中徐眾評曰為裴注，另層，不併入本條。"
+        },
+        {
+          "id": "shiyi-sgz-bio-yiliuyao",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 1,
+          "from": "後依劉繇，避亂江東。",
+          "through": "繇軍敗，儀徙會稽。",
+          "citation": "《三國志·吳書十七 是儀胡綜傳第十七 是儀傳》",
+          "note": "後依劉繇避亂江東，劉繇軍敗後徙會稽。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "shiyi-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-035",
+          "paragraph": 14,
+          "term": "楊儀",
+          "quote": "楊儀等整軍而出",
+          "reason": "此「儀」為蜀漢楊儀（字威公），諸葛亮長史，非吳是儀；單字「儀」命中所致同名異人，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
