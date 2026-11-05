@@ -123755,6 +123755,24 @@
           "from": "於是驃騎將軍朱據、尚書僕射屈晃率諸將吏泥頭自縛，連日詣闕請和。",
           "through": "據、晃牽入殿，杖一百，",
           "citation": "《三國志·吳書十四·孫和傳》"
+        },
+        {
+          "id": "zhuju-yinfan-chengcai-wangzuo",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 23,
+          "from": "左將軍朱據、廷尉郝普稱蕃有王佐之才，",
+          "through": "後蕃謀叛，事覺伏誅，",
+          "citation": "《三國志·吳書十七·是儀胡綜傳》"
+        },
+        {
+          "id": "zhuju-yinfan-lianji-jinzhi",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 23,
+          "from": "吳歷曰：權問普：「卿前盛稱蕃，又為之怨望朝廷，使蕃反叛，皆卿之由。」普見責自殺。",
+          "through": "據禁止，歷時乃解。",
+          "citation": "《三國志·吳書十七·是儀胡綜傳》"
         }
       ],
       "exclusions": [
@@ -123793,6 +123811,15 @@
           "term": "朱據",
           "quote": "奏桉丞相顧雍、左將軍朱據等，皆見禁止",
           "reason": "潘濬傳中朱據僅列名於校事呂壹奏桉禁止的名單中，無本人言行或事實，依僅帶及原則不作摘錄。"
+        },
+        {
+          "id": "zhuju-excl-pingyue-zhengshang",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 42,
+          "term": "朱據",
+          "quote": "吾粲、朱據遭罹屯蹇，以正喪身，悲夫！",
+          "reason": "朱據本傳末段評曰：陳壽評吾粲、朱據「遭罹屯蹇，以正喪身」。屬本傳史臣評論部分，本傳全文另行展示，不重複錄入，排除以免正文／摘錄串層；其擁護二宮致賜死事已另有摘錄。"
         }
       ],
       "unresolved": []
