@@ -128058,6 +128058,33 @@
           "term": "陸凱",
           "quote": "孫綝傳",
           "reason": "此段僅為《孫綝傳》篇題，無陸凱相關內容，與陸凱無關，排除。"
+        },
+        {
+          "id": "lukai-excl-018",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 25,
+          "term": "陸凱",
+          "quote": "孫皓滕夫人傳",
+          "reason": "此段僅為《孫皓滕夫人傳》篇題，無陸凱相關內容，與陸凱無關，排除。"
+        },
+        {
+          "id": "lukai-excl-019",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 3,
+          "term": "陸凱",
+          "quote": "九月戊午，以魏司徒何曾爲丞相，鎮南將軍王沈爲御史大夫",
+          "reason": "此段敘泰始元年（265）九月朝廷任命事，段中未提陸凱，與陸凱無關，排除。"
+        },
+        {
+          "id": "lukai-excl-020",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 51,
+          "term": "陸凱",
+          "quote": "評曰：孫權屈身忍辱，任才尚計",
+          "reason": "此段為《吳書·吳主傳》評曰，論孫權一生及吳之覆亡，段中未提陸凱，與陸凱無關，排除。"
         }
       ],
       "unresolved": []
