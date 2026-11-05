@@ -126678,6 +126678,33 @@
           "term": "張溫",
           "quote": "車騎將軍張溫為太尉",
           "reason": "同名異人：此張溫為東漢末大臣，中平三年由車騎將軍遷太尉，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "id": "zhangwen-excl-004",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 20,
+          "term": "張溫",
+          "quote": "太尉張溫免",
+          "reason": "同名異人：此張溫為東漢末大臣，中平四年免太尉，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "id": "zhangwen-excl-005",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 4,
+          "term": "張溫",
+          "quote": "董卓殺衞尉張溫",
+          "reason": "同名異人：此張溫為東漢末大臣，初平二年為董卓所殺，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "id": "zhangwen-excl-006",
+          "work": "houhanshu",
+          "source": "a03-036",
+          "paragraph": 56,
+          "term": "張溫",
+          "quote": "司空張溫數以禮辟",
+          "reason": "同名異人：此張溫為東漢末大臣，中平二年以車騎將軍征涼州邊章，非吳臣張溫（字惠恕）。"
         }
       ],
       "unresolved": []
