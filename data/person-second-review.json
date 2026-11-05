@@ -129136,6 +129136,16 @@
           "through": "合契河洛，動與道俱，天贊人和，僉曰惟休。",
           "citation": "《三國志·吳書十七 是儀胡綜傳第十七 胡綜傳》",
           "note": "胡綜奉命所作〈黃龍大牙賦〉全文；黃武八年黃龍見夏口，孫權稱尊號，命綜作賦，見 a04-062:15。"
+        },
+        {
+          "id": "huzong-sgz-weiwen-liuxing",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 22,
+          "from": "此文旣流行，",
+          "through": "而質已入為侍中矣。",
+          "citation": "《三國志·吳書十七 是儀胡綜傳第十七 胡綜傳》",
+          "note": "胡綜偽為吳質所作降文三條既流行，吳質遂入吳為侍中；偽作一事見 a04-062:18。"
         }
       ],
       "exclusions": [
@@ -129156,6 +129166,24 @@
           "term": "吳質",
           "quote": "臣質志薄，處時無方",
           "reason": "此段為胡綜偽為吳質所作降文三條之其一，全篇皆吳質口吻陳述歸降之事，非胡綜本人史實；偽作一事已錄於 a04-062:18（huzong-sgz-shizhong-weiwen），本段不另摘。"
+        },
+        {
+          "id": "huzong-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 20,
+          "term": "吳質",
+          "quote": "昔伊尹去夏入商，陳平委楚歸漢",
+          "reason": "此段為胡綜偽為吳質所作降文三條之其二，全篇皆吳質口吻陳述歸降之事，非胡綜本人史實；偽作一事已錄於 a04-062:18（huzong-sgz-shizhong-weiwen），本段不另摘。"
+        },
+        {
+          "id": "huzong-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 21,
+          "term": "吳質",
+          "quote": "昔許子遠舍袁就曹",
+          "reason": "此段為胡綜偽為吳質所作降文三條之其三，全篇皆吳質口吻陳述歸降之事，非胡綜本人史實；偽作一事已錄於 a04-062:18（huzong-sgz-shizhong-weiwen），本段不另摘。"
         }
       ],
       "unresolved": []
