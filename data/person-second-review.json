@@ -130377,6 +130377,33 @@
           "term": "滕胤",
           "quote": "滕胤字承嗣，北海劇人也。",
           "reason": "同卷附傳《滕胤傳》首段，全段記滕胤家世、仕歷及吳書稱引，與諸葛恪無關，排除。"
+        },
+        {
+          "id": "zhugeke-excl-010",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 22,
+          "term": "滕胤",
+          "quote": "滕胤傳",
+          "reason": "僅為《三國志·吳書十九》中的附傳篇題「滕胤傳」，無任何史實內容，與諸葛恪無關，排除。"
+        },
+        {
+          "id": "zhugeke-excl-011",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 26,
+          "term": "孫峻",
+          "quote": "孫峻傳",
+          "reason": "僅為《三國志·吳書十九》中的附傳篇題「孫峻傳」，無任何史實內容，與諸葛恪無關，排除。"
+        },
+        {
+          "id": "zhugeke-excl-012",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 28,
+          "term": "孫峻",
+          "quote": "峻素無重名，驕矜險害，多所刑殺，百姓囂然。",
+          "reason": "全段記孫峻驕矜險害、姦亂宮人及吳侯英謀殺峻事泄，與諸葛恪無關，排除。"
         }
       ],
       "unresolved": []
