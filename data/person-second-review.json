@@ -127490,7 +127490,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "panjun-sgz-dengzhang-jingzhou-zhizhong",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 48,
+          "from": "潘濬字承明，武陵人也。先主入蜀，以為荊州治中，典留州事，亦與關羽不穆。孫權襲羽，遂入吳。普至廷尉，濬至太常，封侯。",
+          "through": "潘濬字承明，武陵人也。先主入蜀，以為荊州治中，典留州事，亦與關羽不穆。孫權襲羽，遂入吳。普至廷尉，濬至太常，封侯。",
+          "citation": "《三國志·蜀書十五 鄧張宗楊傳第十五》"
+        },
+        {
+          "id": "panjun-sgz-wuzhu-tao-wuling-man",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 29,
+          "from": "三年春二月，遣太常潘濬率衆五萬討武陵蠻夷。",
+          "through": "三年春二月，遣太常潘濬率衆五萬討武陵蠻夷。",
+          "citation": "《三國志·吳書二 吳主傳第二》"
+        },
+        {
+          "id": "panjun-sgz-wuzhu-ping-wuling-man",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 32,
+          "from": "冬十一月，太常潘濬平武陵蠻夷，事畢，還武昌。",
+          "through": "冬十一月，太常潘濬平武陵蠻夷，事畢，還武昌。",
+          "citation": "《三國志·吳書二 吳主傳第二》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
