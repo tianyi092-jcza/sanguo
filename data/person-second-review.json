@@ -127259,15 +127259,18 @@
     {
       "id": "p0239",
       "name": "陸瑁",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-057）陸瑁傳段 28、42 均已覆蓋：瑁字子璋，丞相陸遜弟也；少好學篤義，陳國陳融、陳留濮陽逸、沛郡蔣纂、廣陵袁迪等單貧有志者皆就瑁游處，瑁割少分甘，與同豐約；同郡徐原臨死託孤，瑁為起立墳墓、收導其子；從父陸績早亡，遺二男一女皆數歲，瑁迎攝養至長乃別；州郡辟舉，皆不就。段 28 中段袁迪孫曄作《獻帝春秋》云云為袁迪家世附述，非瑁事蹟，未錄。評曰稱其篤義規諫，君子有稱焉。他傳互證：嘉禾中與外甥顧承俱以禮徵。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重、年號剛性剔除後餘 0 段；未解決 0 條。本傳逐段核對：陸瑁本傳 a04-057 提及陸瑁者僅段 27（篇目標題，已排除）、28、42，均已覆蓋；他傳提及者僅顧承傳 a04-052 段 20（已錄摘錄）與濮陽興傳 a04-064 段 43（僅「逸事見陸瑁傳」參照，已排除）。摘錄共 4 條、排除共 2 條。"
+      ],
       "excerpts": [
         {
           "id": "lumao-sgz-gucheng-uncle",
