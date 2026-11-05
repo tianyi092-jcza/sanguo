@@ -123527,7 +123527,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhuzhi-wujun-taishou",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "from": "丹楊朱治為吳郡太守。",
+          "through": "丹楊朱治為吳郡太守。",
+          "citation": "《三國志·吳書一·孫策傳》"
+        },
+        {
+          "id": "zhuzhi-ju-sunyi-xiaolian",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 14,
+          "from": "太守朱治舉孝廉，司空辟。",
+          "through": "太守朱治舉孝廉，司空辟。",
+          "citation": "《三國志·吳書六·宗室傳·孫翊傳》"
+        },
+        {
+          "id": "zhuzhi-quan-ju-jiang",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 23,
+          "from": "吳郡太守朱治，權舉將也，權曾有以望之，而素加敬，難自詰讓，忿忿不解。",
+          "through": "吳郡太守朱治，權舉將也，權曾有以望之，而素加敬，難自詰讓，忿忿不解。",
+          "citation": "《三國志·吳書七·張顧諸葛步傳·諸葛瑾傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
