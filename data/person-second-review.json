@@ -123737,6 +123737,24 @@
           "from": "黃龍元年，權遷都建業，徵據尚公主，拜左將軍，封雲陽侯。",
           "through": "祿賜雖豐而常不足用。",
           "citation": "《三國志·吳書十二·朱據傳》"
+        },
+        {
+          "id": "zhuju-ergong-yonghu-cisi",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 41,
+          "from": "赤烏九年，遷驃騎將軍。",
+          "through": "因權寢疾，弘為昭書追賜死，時年五十七。",
+          "citation": "《三國志·吳書十二·朱據傳》"
+        },
+        {
+          "id": "zhuju-nitou-qinghe-shouzhang",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 12,
+          "from": "於是驃騎將軍朱據、尚書僕射屈晃率諸將吏泥頭自縛，連日詣闕請和。",
+          "through": "據、晃牽入殿，杖一百，",
+          "citation": "《三國志·吳書十四·孫和傳》"
         }
       ],
       "exclusions": [
@@ -123766,6 +123784,15 @@
           "term": "朱據",
           "quote": "諸葛瑾、步隲、朱然、全琮、朱據、呂岱、吾粲",
           "reason": "孫登臨終上疏舉薦群臣，朱據僅列名於可令陳上便宜的名單中，無本人言行或事實，依僅帶及原則不作摘錄。"
+        },
+        {
+          "id": "zhuju-excl-luyi-zouan-juming",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 3,
+          "term": "朱據",
+          "quote": "奏桉丞相顧雍、左將軍朱據等，皆見禁止",
+          "reason": "潘濬傳中朱據僅列名於校事呂壹奏桉禁止的名單中，無本人言行或事實，依僅帶及原則不作摘錄。"
         }
       ],
       "unresolved": []
