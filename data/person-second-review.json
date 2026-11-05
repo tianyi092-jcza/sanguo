@@ -123701,6 +123701,24 @@
           "from": "少曰魯育，字小虎，前配朱據，後配劉纂。",
           "through": "少曰魯育，字小虎，前配朱據，後配劉纂。",
           "citation": "《三國志·吳書五·步夫人傳》"
+        },
+        {
+          "id": "zhuju-gongchen-huofu",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 14,
+          "from": "權末年，嫡庶不分，悌數與驃騎將軍朱據共陳禍福，言辭切直，朝廷憚之。",
+          "through": "權末年，嫡庶不分，悌數與驃騎將軍朱據共陳禍福，言辭切直，朝廷憚之。",
+          "citation": "《三國志·吳書七·顧雍傳》"
+        },
+        {
+          "id": "zhuju-shicai-sanren",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 37,
+          "from": "文士傳曰：張惇子純與張儼及異俱童少，往見驃騎將軍朱據。",
+          "through": "據大歡恱。",
+          "citation": "《三國志·吳書十一·朱桓傳》"
         }
       ],
       "exclusions": [
@@ -123712,6 +123730,15 @@
           "term": "朱據",
           "quote": "初為驃騎將軍朱據軍吏",
           "reason": "僅於孫皓傳裴注引《吳錄》孟仁事中帶及為其舊主，非朱據本人事實，不作摘錄。"
+        },
+        {
+          "id": "zhuju-excl-xiongsun-zhusi",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 22,
+          "term": "朱據",
+          "quote": "皆據二子熊、損所白",
+          "reason": "孫休朱夫人傳主角為朱據女朱主，據僅以二子熊、損被全主推諉提及，熊、損被殺為其子事、非朱據本人事實，依父子分開原則不作摘錄。"
         }
       ],
       "unresolved": []
