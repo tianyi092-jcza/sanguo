@@ -123518,15 +123518,18 @@
     {
       "id": "p0227",
       "name": "朱治",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-056）朱治傳段 0–7 均已覆蓋：字君理、丹楊故鄣人，初為縣吏、察孝廉、州辟從事，隨孫堅征伐，中平五年拜司馬；堅薨扶翼策依袁術，知術政德不立勸策還平江東，太傅馬日磾辟治；舉權孝廉，策薨與張昭等共尊奉權，建安七年表九真太守行扶義將軍；權歷位上將及為吳王，親迎恩敬特隆；責孫翊峭急諭以道義，江表傳載治說孫賁；憂勤王事、性儉約，督軍御史典屬城文書。段 0 為朱治傳篇題已排除，段 7 為子才附傳已排除，段 38 評曰舊臣任用總評已錄。另他傳 4 段已錄：孫策授吳郡太守、舉孫翊孝廉、權所舉之將、駱統表載先見用於朱治。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重後餘 0 段；未解決 0 條。本傳逐段核對補齊段 7 排除（子才附傳）後，朱治傳段 0–7 全覆蓋。排除共 3 條：篇題 1 條、朱績傳 1 條、子才附傳 1 條。"
+      ],
       "excerpts": [
         {
           "id": "zhuzhi-wujun-taishou",
@@ -123655,6 +123658,15 @@
           "term": "治",
           "quote": "然為治行喪竟",
           "reason": "本段為朱績（施績）傳，主述績生平，僅此句提及朱然為治行喪，非朱治事實主體，不作朱治摘錄。"
+        },
+        {
+          "id": "zhuzhi-excl-zicai",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 7,
+          "term": "才",
+          "quote": "子才，素為校尉領兵，旣嗣父爵",
+          "reason": "本段為朱治子才附傳，主述朱才生平（嗣父爵、遷偏將軍、折節為恭、留意賓客等），僅「旣嗣父爵」提及繼承朱治之爵，非朱治事實主體，不作朱治摘錄。"
         }
       ],
       "unresolved": []
