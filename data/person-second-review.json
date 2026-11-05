@@ -124080,9 +124080,37 @@
           "from": "曹休、張遼、臧霸等來伐，範督徐盛、全琮、孫韶等，以舟師拒休等於洞口。",
           "through": "曹休、張遼、臧霸等來伐，範督徐盛、全琮、孫韶等，以舟師拒休等於洞口。",
           "citation": "《三國志·吳書十一·呂範傳》"
+        },
+        {
+          "id": "quancong-shiting-zuoyou-du",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 33,
+          "from": "時陸遜為元帥，全琮與桓為左右督，各督三萬人擊休。",
+          "through": "時陸遜為元帥，全琮與桓為左右督，各督三萬人擊休。",
+          "citation": "《三國志·吳書十一·朱桓傳》"
+        },
+        {
+          "id": "quancong-yu-zhuhuan-ying-luxi",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 34,
+          "from": "嘉禾六年，魏廬江主簿呂習請大兵自迎，欲開門為應。",
+          "through": "桓與衞將軍全琮俱以師迎。",
+          "citation": "《三國志·吳書十一·朱桓傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "quancong-excl-lufan-weiyi",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 26,
+          "term": "全琮",
+          "quote": "州民如陸遜、全琮及貴公子，皆脩敬虔肅，不敢輕脫。",
+          "reason": "此段主述呂範好威儀、州民敬憚，全琮僅與陸遜等並列為敬憚者之一，非全琮本人事蹟，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
