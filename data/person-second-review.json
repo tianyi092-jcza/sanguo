@@ -126758,6 +126758,24 @@
           "from": "後六年，溫病卒。二弟祗、白，亦有才名，與溫俱廢。",
           "through": "後六年，溫病卒。二弟祗、白，亦有才名，與溫俱廢。",
           "citation": "《三國志·吳書十二 虞翻陸績張溫傳第十二》"
+        },
+        {
+          "id": "zhangwen-sgz-ping",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 42,
+          "from": "張溫才藻俊茂，而智防未備，用致艱患。",
+          "through": "張溫才藻俊茂，而智防未備，用致艱患。",
+          "citation": "《三國志·吳書十二 虞翻陸績張溫傳第十二》"
+        },
+        {
+          "id": "zhangwen-sgz-advise-crownprince",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 1,
+          "from": "太傅張溫言於權曰：「夫中庶子官最親密，切問近對，宜用儁德。」",
+          "through": "太傅張溫言於權曰：「夫中庶子官最親密，切問近對，宜用儁德。」",
+          "citation": "《三國志·吳書十四 吳主五子傳第十四》"
         }
       ],
       "exclusions": [
@@ -127030,6 +127048,15 @@
           "paragraph": 16,
           "quote": "張溫傳",
           "reason": "卷內傳目標題行，無史實內容。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-031",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 40,
+          "quote": "追思呂蒙、張溫，以為據才兼文武，可以繼之",
+          "reason": "張溫僅為孫權追思之對象，段落主角為朱據，無張溫本人事跡。"
         }
       ],
       "unresolved": []
