@@ -127517,9 +127517,38 @@
           "from": "冬十一月，太常潘濬平武陵蠻夷，事畢，還武昌。",
           "through": "冬十一月，太常潘濬平武陵蠻夷，事畢，還武昌。",
           "citation": "《三國志·吳書二 吳主傳第二》"
+        },
+        {
+          "id": "panjun-sgz-wuzhu-qing-zhengzhou",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 37,
+          "from": "權大怒，召胄還，潘濬、陳表並為請，得釋。",
+          "through": "權大怒，召胄還，潘濬、陳表並為請，得釋。",
+          "citation": "《三國志·吳書二 吳主傳第二》",
+          "note": "裴注引《文士傳》；繫於嘉禾二年（233）春三月吳主傳條下。"
+        },
+        {
+          "id": "panjun-sgz-zongshi-quan-shuxie",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 10,
+          "from": "時太常潘濬掌荊州事，重安長陳留舒燮有罪下獄，濬嘗失燮，欲致之於法。",
+          "through": "濬意即解，燮用得濟。",
+          "citation": "《三國志·吳書六 宗室傳第六》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "panjun-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "潘濬",
+          "quote": "政事則顧雍、潘濬、呂範、呂岱以器任幹職",
+          "reason": "陸機《辨亡論》為晉人後世文論，僅列名褒揚與追述「識潘濬於係虜」，非當時史實敘事，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
