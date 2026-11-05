@@ -129664,6 +129664,16 @@
           "through": "恪懼而遁，欽逆擊，大破之，斬首萬餘級。",
           "citation": "《晉書·卷二 帝紀第二 文帝》",
           "note": "晉書文帝紀：嘉平五年夏五月，吳太傅諸葛恪圍新城、并兵合肥，魏以毌丘儉、文欽拒之；相持數月，恪攻城力屈、死傷太半，遁走被逆擊大破——恪北伐新城合肥敗退的晉書記載。"
+        },
+        {
+          "id": "zhugeke-jin-tianwen-taoke",
+          "work": "jinshu",
+          "source": "a05-013-ahcb",
+          "paragraph": 4,
+          "from": "四年十月、十一月，月再犯井鉞。是月，宣帝討諸葛恪，恪棄城走。",
+          "through": "四年十月、十一月，月再犯井鉞。是月，宣帝討諸葛恪，恪棄城走。",
+          "citation": "《晉書·卷十三 志第三 天文下》",
+          "note": "晉書天文志：正始四年（243）十月、十一月月犯井鉞，占下繫「是月，宣帝討諸葛恪，恪棄城走」——以占驗繫月之筆，佐證正始四年宣帝擊恪、恪棄城走（與宣帝紀 zhugeke-jin-xuandi-shu 同事，繫月在十月）。"
         }
       ],
       "exclusions": [
@@ -129675,6 +129685,24 @@
           "term": "諸葛恪",
           "quote": "四年秋九月，帝督諸軍擊諸葛恪，車駕送出津陽門。",
           "reason": "與已錄 excerpt zhugeke-jin-xuandi-shu（a05-001-ahcb:50）同文，sidneyluo 本與四庫本鏡像，不重錄。"
+        },
+        {
+          "id": "zhugeke-excl-002",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 3,
+          "term": "諸葛恪",
+          "quote": "五年夏五月，吳太傅諸葛恪圍新城，朝議慮其分兵以寇淮泗，欲戍諸水口。",
+          "reason": "與已錄 excerpt zhugeke-jin-wendi-xincheng（a05-002-ahcb:3）同文，sidneyluo 本與四庫本鏡像，不重錄。"
+        },
+        {
+          "id": "zhugeke-excl-003",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 14,
+          "term": "諸葛恪",
+          "quote": "是月，宣帝討諸葛恪，恪棄城走。",
+          "reason": "與已錄 excerpt zhugeke-jin-tianwen-taoke（a05-013-ahcb:4）同文，sidneyluo 本與四庫本鏡像，不重錄。"
         }
       ],
       "unresolved": []
