@@ -127112,8 +127112,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "luotong-sgz-tanggu-disciple",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 15,
+          "from": "權為吳王，拜固議郎，自陸遜、張溫、駱統等皆拜之。",
+          "through": "權為吳王，拜固議郎，自陸遜、張溫、駱統等皆拜之。",
+          "citation": "《三國志·吳書八 張嚴程闞薛傳第八 闞澤傳》"
+        },
+        {
+          "id": "luotong-sgz-xuling-suit",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 10,
+          "from": "陵卒，僮客土田或見侵奪，駱統為陵家訟之，求與丁覽、卜清等為比，權許焉。",
+          "through": "陵卒，僮客土田或見侵奪，駱統為陵家訟之，求與丁覽、卜清等為比，權許焉。",
+          "citation": "《三國志·吳書十二 虞陸張駱陸吾朱傳第十二 虞翻傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "term": "駱統",
+          "id": "luotong-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "quote": "駱統、劉基彊諫以補過",
+          "reason": "陸機《辨亡論》為晉人追述之文，僅以八字概稱駱統諫諍之風，無具體史事繫年可錄，不作本人史實摘錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
