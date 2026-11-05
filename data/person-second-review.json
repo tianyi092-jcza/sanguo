@@ -127736,7 +127736,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lukai-sgz-wuzhu-zhuya-danei",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 40,
+          "from": "秋七月，遣將軍聶友、校尉陸凱以兵三萬討珠崖、儋耳。",
+          "through": "秋七月，遣將軍聶友、校尉陸凱以兵三萬討珠崖、儋耳。",
+          "citation": "《三國志·吳書二 吳主傳第二》"
+        },
+        {
+          "id": "lukai-sgz-wuzhu-juxiling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 48,
+          "from": "十二月，魏大將軍王昶圍南郡，荊州刺史王基攻西陵，遣將軍戴烈、陸凱往拒之，皆引還。",
+          "through": "十二月，魏大將軍王昶圍南郡，荊州刺史王基攻西陵，遣將軍戴烈、陸凱往拒之，皆引還。",
+          "citation": "《三國志·吳書二 吳主傳第二》"
+        },
+        {
+          "id": "lukai-sgz-sansi-jianzu-fajin",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 26,
+          "from": "皓訪羣臣，鎮西大將軍陸凱曰：「夫兵不得已而用之耳，且三國鼎立已來，更相侵伐，無歲寧居。今彊敵新并巴蜀，有兼土之實，而遣使求親，欲息兵役，不可謂其求援於我。今敵形勢方彊，而欲徼幸求勝，未見其利也。」",
+          "through": "皓訪羣臣，鎮西大將軍陸凱曰：「夫兵不得已而用之耳，且三國鼎立已來，更相侵伐，無歲寧居。今彊敵新并巴蜀，有兼土之實，而遣使求親，欲息兵役，不可謂其求援於我。今敵形勢方彊，而欲徼幸求勝，未見其利也。」",
+          "citation": "《三國志·吳書三 三嗣主傳第三》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
