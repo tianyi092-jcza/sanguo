@@ -126695,6 +126695,33 @@
           "from": "張溫、曁豔奏其事",
           "through": "張溫、曁豔奏其事",
           "citation": "《三國志·吳書二 吳主傳第二》"
+        },
+        {
+          "id": "zhangwen-sgz-zhuqi-friend",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 4,
+          "from": "祺與張溫、顧譚友善",
+          "through": "祺與張溫、顧譚友善",
+          "citation": "《三國志·吳書五 妃嬪傳第五》"
+        },
+        {
+          "id": "zhangwen-sgz-yinli-shu-mission",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 16,
+          "from": "後與張溫俱使蜀",
+          "through": "後與張溫俱使蜀",
+          "citation": "《三國志·吳書七 張顧諸葛步傳第七》"
+        },
+        {
+          "id": "zhangwen-sgz-tanggu-disciple",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 15,
+          "from": "自陸遜、張溫、駱統等皆拜之",
+          "through": "自陸遜、張溫、駱統等皆拜之",
+          "citation": "《三國志·吳書八 張嚴程闞薛傳第八》"
         }
       ],
       "exclusions": [
