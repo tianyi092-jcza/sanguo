@@ -126668,6 +126668,15 @@
           "from": "吳遣使張溫來聘",
           "through": "溫大敬服",
           "citation": "《三國志·蜀書八 許麋孫簡伊秦傳第八 秦宓傳》"
+        },
+        {
+          "id": "zhangwen-sgz-envoy-shu-dengzhi",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 2,
+          "from": "遣張溫報聘於蜀",
+          "through": "遣張溫報聘於蜀",
+          "citation": "《三國志·蜀書十五 鄧張宗楊傳第十五 鄧芝傳》"
         }
       ],
       "exclusions": [
@@ -126895,6 +126904,24 @@
           "paragraph": 8,
           "quote": "參車騎將軍張溫軍事，西討韓遂",
           "reason": "同名異人：東漢末車騎將軍張溫，征討邊章、韓遂，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-026",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 3,
+          "quote": "中平三年，遣司空張溫行車騎將軍，西討章等",
+          "reason": "同名異人：東漢末車騎將軍張溫，中平三年西討邊章、韓遂，非吳臣張溫（字惠恕）。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-027",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 4,
+          "quote": "張公昔從吾言，朝廷今無此難也",
+          "reason": "同名異人：「張公」指東漢末車騎將軍張溫（孫堅追憶中平三年勸其斬董卓事），非吳臣張溫（字惠恕）。"
         }
       ],
       "unresolved": []
