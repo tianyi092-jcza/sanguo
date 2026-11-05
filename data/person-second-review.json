@@ -124152,6 +124152,15 @@
           "from": "是時中州士人避亂而南，依琮居者以百數，琮傾家給濟，與共有無，遂顯名遠近。",
           "through": "稍遷偏將軍。",
           "citation": "《三國志·吳書十五·全琮傳》"
+        },
+        {
+          "id": "quancong-pingyue-dangshi-zhicai",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 47,
+          "from": "全琮有當世之才，貴重於時，然不檢姧子，獲譏毀名云。",
+          "through": "全琮有當世之才，貴重於時，然不檢姧子，獲譏毀名云。",
+          "citation": "《三國志·吳書十五·全琮傳》"
         }
       ],
       "exclusions": [
@@ -124190,6 +124199,24 @@
           "term": "全琮",
           "quote": "諸葛瑾、步隲、朱然、全琮、朱據、呂岱、吾粲、闞澤、嚴畯、張承、孫怡忠於為國，通達治體。",
           "reason": "此段為孫登臨終上疏列舉可委任忠臣名單，全琮僅列名其一，非其本人事蹟，排除。"
+        },
+        {
+          "id": "quancong-excl-timu-quancongzhuan",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 12,
+          "term": "全琮",
+          "quote": "全琮傳",
+          "reason": "此段僅為《全琮傳》篇目題名，無事蹟內容，排除。"
+        },
+        {
+          "id": "quancong-excl-zhoufang-xin-liming",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 34,
+          "term": "全琮",
+          "quote": "全琮、朱桓趨合肥",
+          "reason": "此段為周魴傳所載周魴詐降王凌之信，述東吳諸將北進部署，全琮僅列名其一，非其本人事蹟，排除。"
         }
       ],
       "unresolved": []
