@@ -131187,6 +131187,33 @@
           "term": "孫峻",
           "quote": "諸葛瑾傳",
           "reason": "第21段僅為《諸葛瑾傳》卷首標題，無正文內容，排除。"
+        },
+        {
+          "id": "sunjun-excl-006",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 3,
+          "term": "孫峻",
+          "quote": "諸葛恪圍新城",
+          "reason": "第3段主述嘉平五年諸葛恪圍新城、司馬師拒敵事，全段未提孫峻，僅因誅恪事件關聯命中，排除。"
+        },
+        {
+          "id": "sunjun-excl-007",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 3,
+          "term": "孫峻",
+          "quote": "諸葛恪圍新城",
+          "reason": "第3段為 a05-002:3 之四庫全書本異文同段，主述諸葛恪圍新城事，全段未提孫峻，排除。"
+        },
+        {
+          "id": "sunjun-excl-008",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 6,
+          "term": "孫峻",
+          "quote": "丞相亮出屯漢中",
+          "reason": "第6段為建興五年後主詔，記諸葛亮出屯漢中事，全段未提孫峻，與孫峻無關，排除。"
         }
       ],
       "unresolved": [],
