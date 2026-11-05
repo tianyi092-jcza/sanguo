@@ -126677,6 +126677,24 @@
           "from": "遣張溫報聘於蜀",
           "through": "遣張溫報聘於蜀",
           "citation": "《三國志·蜀書十五 鄧張宗楊傳第十五 鄧芝傳》"
+        },
+        {
+          "id": "zhangwen-sgz-wuzhu-envoy-shu",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 22,
+          "from": "遣輔義中郎將張溫聘于蜀",
+          "through": "遣輔義中郎將張溫聘于蜀",
+          "citation": "《三國志·吳書二 吳主傳第二》"
+        },
+        {
+          "id": "zhangwen-sgz-impeach-sunshao",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 23,
+          "from": "張溫、曁豔奏其事",
+          "through": "張溫、曁豔奏其事",
+          "citation": "《三國志·吳書二 吳主傳第二》"
         }
       ],
       "exclusions": [
@@ -126922,6 +126940,15 @@
           "paragraph": 4,
           "quote": "張公昔從吾言，朝廷今無此難也",
           "reason": "同名異人：「張公」指東漢末車騎將軍張溫（孫堅追憶中平三年勸其斬董卓事），非吳臣張溫（字惠恕）。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-028",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "quote": "奇偉則虞翻、陸績、張溫、張惇以諷議舉正",
+          "reason": "後世修辭：陸機《辨亡論》追述之辭，非當時史實記載，不錄為史實。"
         }
       ],
       "unresolved": []
