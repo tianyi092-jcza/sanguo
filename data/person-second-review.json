@@ -127295,9 +127295,37 @@
           "from": "瑁割少分甘，與同豐約。",
           "through": "州郡辟舉，皆不就。",
           "citation": "《三國志·吳書十二 虞陸張駱陸吾朱傳第十二 陸瑁傳》"
+        },
+        {
+          "id": "lumao-sgz-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 42,
+          "from": "陸瑁篤義規諫，君子有稱焉。",
+          "through": "陸瑁篤義規諫，君子有稱焉。",
+          "citation": "《三國志·吳書十二 虞陸張駱陸吾朱傳第十二·評》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "lumao-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 27,
+          "term": "陸瑁",
+          "quote": "陸瑁傳",
+          "reason": "僅為本傳篇目標題，無實質敘事內容，排除。"
+        },
+        {
+          "id": "lumao-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 43,
+          "term": "陸瑁",
+          "quote": "逸事見陸瑁傳。",
+          "reason": "此段主述濮陽興及其父陸逸，提及陸瑁僅為「逸事見陸瑁傳」之參照，非陸瑁本人事蹟，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
