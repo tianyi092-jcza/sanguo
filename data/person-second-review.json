@@ -127894,6 +127894,33 @@
           "term": "陸凱",
           "quote": "左丞相陸凱以謇諤盡規",
           "reason": "陸機《辨亡論》為晉人後世文論，僅列名褒揚「左丞相陸凱以謇諤盡規」，非當時史實敘事，排除。"
+        },
+        {
+          "id": "lukai-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 5,
+          "term": "陸凱",
+          "quote": "陸凱傳",
+          "reason": "僅為本傳篇目題名，無史實敘事內容，排除。"
+        },
+        {
+          "id": "lukai-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 22,
+          "term": "陸凱",
+          "quote": "孫皓傳",
+          "reason": "僅為孫皓傳篇目題名，無史實敘事內容，且段中未提陸凱，排除。"
+        },
+        {
+          "id": "lukai-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 9,
+          "term": "陸凱",
+          "quote": "賀邵字興伯，會稽山陰人也。",
+          "reason": "賀邵上疏諫孫皓起首，段中未提陸凱，屬賀邵事蹟，非陸凱史實，排除。"
         }
       ],
       "unresolved": []
