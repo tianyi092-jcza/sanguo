@@ -127343,8 +127343,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "wucan-sgz-wuzhu-capture-lihuan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 34,
+          "from": "中郎將吾粲獲李桓，將軍唐咨獲羅厲等。",
+          "through": "中郎將吾粲獲李桓，將軍唐咨獲羅厲等。",
+          "citation": "《三國志·吳書二 吳主傳第二》"
+        },
+        {
+          "id": "wucan-sgz-buzhi-zhoushao-origin",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 37,
+          "from": "昔丁諝出於孤家，吾粲由於牧豎，豫章揚其善，以並陸、全之列，是以人無幽滯而風俗厚焉。",
+          "through": "昔丁諝出於孤家，吾粲由於牧豎，豫章揚其善，以並陸、全之列，是以人無幽滯而風俗厚焉。",
+          "citation": "《三國志·吳書七 張顧諸葛步傳第七 步隲傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "wucan-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 34,
+          "term": "吾粲",
+          "quote": "吾粲傳",
+          "reason": "僅為本傳篇目標題，無實質敘事內容，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
