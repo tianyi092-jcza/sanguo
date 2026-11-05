@@ -123674,15 +123674,18 @@
     {
       "id": "p0228",
       "name": "朱據",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本傳（a04-057）朱據傳段 38–41 均已覆蓋：字子範、吳郡吳人，有姿貌膂力、能論難，黃武初徵拜五官郎中、補侍御史，諫曁豔沙汰事；建義校尉領兵屯湖孰，黃龍元年權遷都建業、尚公主、拜左將軍、封雲陽侯，呂壹誣陷部曲事得昭雪；赤烏九年遷驃騎將軍，二宮搆爭擁護太子，遭孫弘偽詔賜死、時年五十七，子熊、損復領兵後被譖死、永安中追錄以熊子宣襲爵。段 38 篇題已排除，段 42 評曰總評句已排除。另他傳 6 段已錄：吳主傳領丞相燎鵲祭、孫魯育前配朱據、朱悌共陳禍福、文士傳張惇子純等往見、二宮泥頭自縛請和、隱蕃稱才與吳歷連坐禁止事；晉書五行志 3 段已錄：赤烏十二年燎鵲祭應驗左遷、赤烏十一年地震黜朱據廢太子、朱據屈晃迕意黜辱。",
+        "向量候選已枯竭：本輪 retrieve 經 covered 去重後餘 0 段；未解決 0 條。本傳逐段核對：朱據傳段 38–41 全覆蓋，無需補錄。摘錄共 13 條、排除共 8 條。"
+      ],
       "excerpts": [
         {
           "id": "zhuju-ling-chengxiang",
