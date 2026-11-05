@@ -124053,6 +124053,33 @@
           "from": "峻卒，全琮表峻子護為將。",
           "through": "峻卒，全琮表峻子護為將。",
           "citation": "《三國志·吳書九·周瑜傳》"
+        },
+        {
+          "id": "quancong-yu-lufan-dujiang-jushou",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 54,
+          "from": "曹休出洞口，盛與呂範、全琮渡江拒守。",
+          "through": "曹休出洞口，盛與呂範、全琮渡江拒守。",
+          "citation": "《三國志·吳書十·徐盛傳》"
+        },
+        {
+          "id": "quancong-zuoyou-du-xincheng",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 14,
+          "from": "嘉禾三年，權與蜀克期大舉，權自向新城，然與全琮各受斧鉞，為左右督。",
+          "through": "嘉禾三年，權與蜀克期大舉，權自向新城，然與全琮各受斧鉞，為左右督。",
+          "citation": "《三國志·吳書十一·朱然傳》"
+        },
+        {
+          "id": "quancong-zhoushi-ju-dongkou",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 25,
+          "from": "曹休、張遼、臧霸等來伐，範督徐盛、全琮、孫韶等，以舟師拒休等於洞口。",
+          "through": "曹休、張遼、臧霸等來伐，範督徐盛、全琮、孫韶等，以舟師拒休等於洞口。",
+          "citation": "《三國志·吳書十一·呂範傳》"
         }
       ],
       "exclusions": [],
