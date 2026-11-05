@@ -127268,7 +127268,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lumao-sgz-gucheng-uncle",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 20,
+          "from": "嘉禾中與舅陸瑁俱以禮徵。",
+          "through": "嘉禾中與舅陸瑁俱以禮徵。",
+          "citation": "《三國志·吳書七 張顧諸葛步傳第七 顧雍傳》"
+        },
+        {
+          "id": "lumao-sgz-bio-open",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 28,
+          "from": "陸瑁字子璋，丞相遜弟也。",
+          "through": "陳國陳融、陳留濮陽逸、沛郡蔣纂、廣陵袁迪等，皆單貧有志，就瑁游處，",
+          "citation": "《三國志·吳書十二 虞陸張駱陸吾朱傳第十二 陸瑁傳》"
+        },
+        {
+          "id": "lumao-sgz-bio-early-deeds",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 28,
+          "from": "瑁割少分甘，與同豐約。",
+          "through": "州郡辟舉，皆不就。",
+          "citation": "《三國志·吳書十二 虞陸張駱陸吾朱傳第十二 陸瑁傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
