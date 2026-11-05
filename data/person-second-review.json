@@ -129199,6 +129199,53 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0245",
+      "name": "吳範",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "wufan-sgz-bio-wenze",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 1,
+          "from": "吳範字文則，會稽上虞人也。",
+          "through": "遂以顯名。",
+          "citation": "《三國志·吳書十八 吳範劉惇趙達傳第十八 吳範傳》",
+          "note": "本傳開篇：吳範字文則，會稽上虞人，以治歷數、知風氣聞於郡中；舉有道，世亂不行；孫權起於東南，範委身服事，每有災祥輒推數言狀，其術多效，遂以顯名。"
+        },
+        {
+          "id": "wufan-sgz-taoqian-yangzhou",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 8,
+          "from": "謙重令楊州從事會稽吳範宣旨，",
+          "through": "然後乃起。",
+          "citation": "《三國志·魏書八 二公孫陶四張傳第八 陶謙傳》裴注引《吳書》",
+          "note": "陶謙傳裴注引《吳書》：陶謙初辟趙昱為別駕從事，昱辭疾遜遁，謙重令揚州從事會稽吳範宣旨，昱守意不移。見吳範早年曾任揚州從事，後乃入吳事孫權。"
+        },
+        {
+          "id": "wufan-sgz-yufan-taishiling",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 11,
+          "from": "其探極祕術，言合神明，則太史令上虞吳範。",
+          "through": "其探極祕術，言合神明，則太史令上虞吳範。",
+          "citation": "《三國志·吳書十二 虞陸張駱陸吾朱傳第十二 虞翻傳》裴注引《會稽典錄》",
+          "note": "虞翻傳裴注引《會稽典錄》（朱育對濮陽興論會稽人物）：吳範官至太史令，探極祕術、言合神明，與虞翻、駱統等並列為會稽近世之英。"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
