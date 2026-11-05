@@ -130546,7 +130546,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "tengyin-sgz-futaizi",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 2,
+          "from": "冬，權寢疾，徵大將軍諸葛恪為太子太傅，會稽太守滕胤為太常，並受詔輔太子。",
+          "through": "冬，權寢疾，徵大將軍諸葛恪為太子太傅，會稽太守滕胤為太常，並受詔輔太子。",
+          "citation": "《三國志·吳書三 三嗣主傳第三》",
+          "note": "太元元年（251）冬，孫權寢疾，徵會稽太守滕胤為太常，與太子太傅諸葛恪並受詔輔太子；明年四月權薨，太子即位。此為胤受顧命輔政之始。"
+        },
+        {
+          "id": "tengyin-sgz-taiping-yimie",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 7,
+          "from": "據、欽、咨等表薦衞將軍滕胤為丞相，綝不聽。",
+          "through": "胤兵敗夷滅。",
+          "citation": "《三國志·吳書三 三嗣主傳第三》",
+          "note": "太平元年（256）呂據等表薦衞將軍滕胤為丞相，孫綝不聽，改以胤為大司馬、代呂岱駐武昌；據引兵討綝，綝遣將軍劉丞督步騎攻胤，胤兵敗夷滅。胤卒於此年，與本傳卒年 256 相符。"
+        },
+        {
+          "id": "tengyin-sgz-nver-yuhai",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 4,
+          "from": "纂妻即滕胤女也，胤被誅，并遇害。",
+          "through": "纂妻即滕胤女也，胤被誅，并遇害。",
+          "citation": "《三國志·吳書五 妃嬪傳第五》",
+          "note": "妃嬪傳載：纂妻為滕胤之女，胤被誅（太平元年 256）後并遇害。見胤夷滅之連坐及於其女。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
