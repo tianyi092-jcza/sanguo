@@ -127921,6 +127921,33 @@
           "term": "陸凱",
           "quote": "賀邵字興伯，會稽山陰人也。",
           "reason": "賀邵上疏諫孫皓起首，段中未提陸凱，屬賀邵事蹟，非陸凱史實，排除。"
+        },
+        {
+          "id": "lukai-excl-005",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 30,
+          "term": "陸凱",
+          "quote": "寶鼎二年，皓更營新宮",
+          "reason": "韋覈（韋曜）上疏諫孫皓營新宮事，段中未提陸凱，屬韋曜事蹟，非陸凱史實，排除。"
+        },
+        {
+          "id": "lukai-excl-006",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 3,
+          "term": "陸凱",
+          "quote": "蕃沈醉頓伏，皓疑而不恱",
+          "reason": "王蕃於孫皓大會上被殺事，段中未提陸凱，屬王蕃事蹟，非陸凱史實，排除。"
+        },
+        {
+          "id": "lukai-excl-007",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 188,
+          "term": "陸凱",
+          "quote": "吳孫亮太平三年，自八月沈陰不雨",
+          "reason": "《晉書·五行志》記吳孫亮太平三年恒陰、孫綝廢亮，段中未提陸凱，與陸凱無關，排除。"
         }
       ],
       "unresolved": []
