@@ -131241,6 +131241,33 @@
           "term": "孫峻",
           "quote": "諸葛誕",
           "reason": "第13段僅為傳目「諸葛誕」二字，無正文內容，未提孫峻，與孫峻無關，排除。"
+        },
+        {
+          "id": "sunjun-excl-012",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 23,
+          "term": "孫峻",
+          "quote": "魏延",
+          "reason": "第23段為魏延傳，述魏延隨先主入蜀、鎮漢中、破郭淮等事，全段未提孫峻，與孫峻無關，排除。"
+        },
+        {
+          "id": "sunjun-excl-013",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 18,
+          "term": "孫峻",
+          "quote": "姜維",
+          "reason": "第18段為姜維傳，述姜維出駱谷、諸葛誕破敗後還成都事，全段未提孫峻，與孫峻無關，排除。"
+        },
+        {
+          "id": "sunjun-excl-014",
+          "work": "huayangguozhi",
+          "source": "a06-007",
+          "paragraph": 14,
+          "term": "孫峻",
+          "quote": "張嶷",
+          "reason": "第14段為華陽國志卷七，述張嶷、徤、魏景初元年、吳懿卒等事，全段未提孫峻，與孫峻無關，排除。"
         }
       ],
       "unresolved": [],
