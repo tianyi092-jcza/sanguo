@@ -128112,6 +128112,33 @@
           "term": "陸凱",
           "quote": "孫盛曰：夫古之立君",
           "reason": "孫盛曰論孫皓之罪與晉伐吳之義，段中未提陸凱，與陸凱無關，排除。"
+        },
+        {
+          "id": "lukai-excl-024",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 1,
+          "term": "陸凱",
+          "quote": "張皓字叔明",
+          "reason": "《後漢書·張皓傳》記東漢張皓事，段中未提陸凱，「皓」字誤觸，與陸凱無關，排除。"
+        },
+        {
+          "id": "lukai-excl-025",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 7,
+          "term": "陸凱",
+          "quote": "孫慮傳",
+          "reason": "僅為《三國志·吳書》孫慮傳卷首標題段，段中未提陸凱，與陸凱無關，排除。"
+        },
+        {
+          "id": "lukai-excl-026",
+          "work": "sanguozhi",
+          "source": "a04-039",
+          "paragraph": 17,
+          "term": "陸凱",
+          "quote": "陳祗代允為侍中，與黃皓互相表裏",
+          "reason": "記蜀漢黃皓預政、操弄威柄事，段中未提陸凱，「皓」字誤觸，與陸凱無關，排除。"
         }
       ],
       "unresolved": []
