@@ -125929,7 +125929,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lukang-shushu-011-2",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 2,
+          "from": "孫休怒，復遣陸抗等帥衆三萬人增憲之圍。",
+          "through": "抗等引退。",
+          "citation": "《三國志・蜀書十一・霍王向張楊費傳》",
+          "note": "正文層級：他傳互證，蜀亡之際吳遣陸抗等帥衆三萬人增圍永安，圍攻凡六月，晉遣荊州刺史胡烈救羅憲，抗等引退。"
+        },
+        {
+          "id": "lukang-wushu-048-32",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 32,
+          "from": "遣樂鄉都督陸抗圍取闡，闡衆悉降。",
+          "through": "闡及同計數十人皆夷三族。",
+          "citation": "《三國志・吳書三・吳主傳》",
+          "note": "正文層級：吳主傳載鳳皇元年（272）秋八月，步闡據西陵降晉，孫皓遣樂鄉都督陸抗圍取闡，闡衆悉降，同計數十人夷三族；西陵之戰陸抗事蹟。"
+        },
+        {
+          "id": "lukang-wushu-048-33",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 33,
+          "from": "二年春三月，以陸抗為大司馬。",
+          "through": "司徒丁固卒。",
+          "citation": "《三國志・吳書三・吳主傳》",
+          "note": "正文層級：吳主傳載鳳皇二年（273）春三月，陸抗拜大司馬。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
