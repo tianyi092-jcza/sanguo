@@ -123878,6 +123878,50 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0229",
+      "name": "全琮",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "quancong-kou-shaobei-jinji",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 7,
+          "from": "吳將全琮寇芍陂，朱然、孫倫五萬人圍樊城，諸葛瑾、步隲寇柤中；琮已破走而樊圍急。",
+          "through": "吳將全琮寇芍陂，朱然、孫倫五萬人圍樊城，諸葛瑾、步隲寇柤中；琮已破走而樊圍急。",
+          "citation": "《三國志·魏書四·三少帝紀》裴注引干寶《晉紀》"
+        },
+        {
+          "id": "quancong-shuai-zhong-kou-shaobei",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 32,
+          "from": "吳大將全琮帥數萬衆來侵寇，時州兵休使，在者無幾。禮躬勒衞兵禦之，戰於芍陂，自旦及暮，將士死傷過半。禮犯蹈白刃，馬被數創，手秉枹鼓，奮不顧身，賊衆乃退。",
+          "through": "吳大將全琮帥數萬衆來侵寇，時州兵休使，在者無幾。禮躬勒衞兵禦之，戰於芍陂，自旦及暮，將士死傷過半。禮犯蹈白刃，馬被數創，手秉枹鼓，奮不顧身，賊衆乃退。",
+          "citation": "《三國志·魏書二十四·孫禮傳》"
+        },
+        {
+          "id": "quancong-chu-lujiang-wugong",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 23,
+          "from": "其後全琮出廬江，朱然寇襄陽，皆無功而還。",
+          "through": "其後全琮出廬江，朱然寇襄陽，皆無功而還。",
+          "citation": "《三國志·魏書二十七·王基傳》"
+        }
+      ],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
