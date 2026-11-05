@@ -126722,6 +126722,15 @@
           "from": "自陸遜、張溫、駱統等皆拜之",
           "through": "自陸遜、張溫、駱統等皆拜之",
           "citation": "《三國志·吳書八 張嚴程闞薛傳第八》"
+        },
+        {
+          "id": "zhangwen-sgz-bio-intro",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 17,
+          "from": "張溫字惠恕，吳郡吳人也。",
+          "through": "拜議郎、選曹尚書，徙太子太傅，甚見信重。",
+          "citation": "《三國志·吳書十二 虞翻陸績張溫傳第十二》"
         }
       ],
       "exclusions": [
@@ -126976,6 +126985,24 @@
           "paragraph": 49,
           "quote": "奇偉則虞翻、陸績、張溫、張惇以諷議舉正",
           "reason": "後世修辭：陸機《辨亡論》追述之辭，非當時史實記載，不錄為史實。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-029",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 15,
+          "quote": "績於鬱林所生女，名曰鬱生，適張溫弟白。",
+          "reason": "所言為張溫之弟張白與陸績女鬱生婚事，張溫僅為辨識張白之語，非張溫本人事跡。"
+        },
+        {
+          "term": "張溫",
+          "id": "zhangwen-excl-030",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 16,
+          "quote": "張溫傳",
+          "reason": "卷內傳目標題行，無史實內容。"
         }
       ],
       "unresolved": []
