@@ -127574,6 +127574,25 @@
           "from": "潘濬卒，岱代濬領荊州文書，與陸遜並在武昌，故督蒲圻。",
           "through": "潘濬卒，岱代濬領荊州文書，與陸遜並在武昌，故督蒲圻。",
           "citation": "《三國志·吳書十五 賀全呂周鍾離傳第十五》"
+        },
+        {
+          "id": "panjun-sgz-ben-zhuan-zi-chengming",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 1,
+          "from": "潘濬字承明，武陵漢壽人也。弱冠從宋仲子受學。",
+          "through": "潘濬字承明，武陵漢壽人也。弱冠從宋仲子受學。",
+          "citation": "《三國志·吳書十六 潘濬陸凱傳第十六》"
+        },
+        {
+          "id": "panjun-sgz-ben-zhuan-wushu-yue",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 1,
+          "from": "吳書曰：濬為人聦察，對問有機理，山陽王粲見而貴異之。",
+          "through": "吳書曰：濬為人聦察，對問有機理，山陽王粲見而貴異之。",
+          "citation": "《三國志·吳書十六 潘濬陸凱傳第十六》",
+          "note": "裴注引《吳書》。"
         }
       ],
       "exclusions": [
@@ -127630,6 +127649,15 @@
           "term": "潘濬",
           "quote": "并使潘濬發夷民，人數甚多，",
           "reason": "周魴詐降書信轉述吳方部署，稱潘濬發夷民，屬傳聞且出於詐降之辭，未可證為潘濬實事；石陽之役亦無他證繫於潘濬，排除。"
+        },
+        {
+          "id": "panjun-excl-007",
+          "work": "sanguozhi",
+          "source": "a04-061",
+          "paragraph": 0,
+          "term": "潘濬",
+          "quote": "潘濬傳",
+          "reason": "僅為本傳篇首標題，無敘事內容，排除。"
         }
       ],
       "unresolved": []
