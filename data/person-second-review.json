@@ -134069,16 +134069,20 @@
     {
       "id": "p0252",
       "name": "孫桓",
-      "status": "pilot",
+      "status": "complete",
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "生平主線：孫桓字叔武，孫河之子，宗室；儀容端正，博學強記，能論議應對，孫權稱為宗室顏淵，擢武衞都尉。從討關羽於華容，誘其餘黨；年二十五拜安東中郎將，與陸遜共拒劉備於夷陵，斬上兜道截其徑要；以功拜建武將軍，封丹徒侯，下督牛渚，作橫江塢，會卒。",
+        "夷陵之戰他傳互證：陸遜傳黃武元年，孫權命陸遜為大都督，督朱然、潘璋、宋謙、韓當、徐盛、鮮于丹、孫桓等五萬人拒劉備；孫桓別討劉備前鋒於夷道，為備所圍，求救於陸遜，遜以安東得士衆心、城牢糧足未即救，待備奔潰後桓自解，桓乃服遜之調度。",
+        "排除 24 段：多為「孫」「夷」等詞語義誤配之後漢書、晉書、華陽國志段落及同名誤配段；向量候選已枯竭，本傳 a04-051 提及孫桓之段（22、23）已全覆蓋。後漢書、華陽國志、晉書均無孫桓本人相關摘錄。"
+      ],
       "excerpts": [
         {
           "id": "sunhuan-sgz-ben-zhuan-kaipian",
