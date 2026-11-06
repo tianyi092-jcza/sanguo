@@ -136438,6 +136438,22 @@
         "辨人：韋昭即韋曜，避諱改名，非二人；與同卷合傳人物（王蕃、樓玄、賀邵、華覈）及孫亮、孫休、孫皓、孫和嚴格區分；華覈連疏救曜，救者與被救者不得串人。",
         "生卒與勢力：生 204、卒 273（鳳凰二年，孫皓所殺）；終身事吳，歷孫亮、孫休、孫皓三朝，任太史令、中書郎、博士祭酒、中書僕射、侍中、左國史，未轉投他方。"
       ]
+    },
+    {
+      "id": "p0261",
+      "name": "華覈",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
