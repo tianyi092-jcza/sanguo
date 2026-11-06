@@ -136258,6 +136258,33 @@
           "term": "韋昭",
           "quote": "賀邵傳",
           "reason": "同卷賀邵小傳標題段，非韋曜本傳；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-075",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 10,
+          "term": "韋昭",
+          "quote": "古之聖王，所以潛處重闈之內而知萬里之情，",
+          "reason": "同卷賀邵傳，賀邵上疏諫孫皓（任賢之功）第一段；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-076",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 11,
+          "term": "韋昭",
+          "quote": "臣聞興國之君樂聞其過，荒亂之主樂聞其譽；",
+          "reason": "同卷賀邵傳，賀邵上疏諫孫皓（聞過則福、聞譽則禍）第二段；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-077",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 12,
+          "term": "韋昭",
+          "quote": "又何定本趨走小人，僕隷之下，身無錙銖之行，",
+          "reason": "同卷賀邵傳，賀邵上疏諫孫皓（斥何定佞媚擅權）第三段；段中無韋昭/韋曜/弘嗣。"
         }
       ],
       "unresolved": [],
