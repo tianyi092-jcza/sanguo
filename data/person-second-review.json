@@ -132128,6 +132128,16 @@
           "through": "武衞士施朔又告「綝欲反有徵」。",
           "citation": "裴注引《吳歷》",
           "note": "吳歷補載綝求中書兩郎典知荊州諸軍事、休一皆給與，及魏邈、施朔告綝欲反之徵。"
+        },
+        {
+          "id": "sunlin-sgz-sunlin-feiliang-lixiu-258",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 37,
+          "from": "典軍施正勸綝徵立琅邪王休，綝從之，遣宗正楷奉書於休曰：",
+          "through": "以帝為會稽王，遣楷奉迎。",
+          "citation": "《三國志·吳書十九 諸葛滕二孫濮陽傳第十九》",
+          "note": "永安元年（258）典軍施正勸綝徵立琅邪王孫休，綝從之，遣宗正楷奉書列亮之失，廢亮為會稽王、迎立孫休。"
         }
       ],
       "exclusions": [
@@ -132184,6 +132194,24 @@
           "term": "孫休",
           "quote": "孫休，位至青州刺史。",
           "reason": "僅言孫休官至青州刺史，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-007",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 16,
+          "term": "孫匡傳",
+          "quote": "孫匡傳",
+          "reason": "僅卷內小標題「孫匡傳」，無正文內容可摘。"
+        },
+        {
+          "id": "sunlin-excl-008",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 21,
+          "term": "孫休朱夫人傳",
+          "quote": "孫休朱夫人傳",
+          "reason": "僅卷內小標題「孫休朱夫人傳」，無正文內容可摘。"
         }
       ],
       "unresolved": [],
