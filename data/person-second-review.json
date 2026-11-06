@@ -132293,6 +132293,33 @@
           "term": "孫亮立太子",
           "quote": "赤烏十三年，和廢，權遂立亮為太子",
           "reason": "本段記赤烏十三年孫亮立為太子事，全段未提及孫綝，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-018",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 10,
+          "term": "孫休早年",
+          "quote": "休字叔嗣，弱冠與諸葛恪、顧譚等俱為太子登僚友",
+          "reason": "本段記孫休早年事，全段未提及孫綝，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-019",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 15,
+          "term": "孫霸傳",
+          "quote": "孫霸傳",
+          "reason": "本段僅為《孫霸傳》篇題，無正文內容，未提及孫綝，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-020",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 26,
+          "term": "孫峻傳",
+          "quote": "孫峻傳",
+          "reason": "本段僅為《孫峻傳》篇題，無正文內容，未提及孫綝，與孫綝無關。"
         }
       ],
       "unresolved": [],
