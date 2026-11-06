@@ -134353,6 +134353,22 @@
           "reason": "後漢書孝安帝紀（四庫全書本）：蜀郡夷寇蠶陵、殺縣令事，「夷」字觸發夷陵之戰事件候選；全文無孫桓其人其事，亦非夷陵之戰，排除。"
         }
       ]
+    },
+    {
+      "id": "p0253",
+      "name": "孫韶",
+      "status": "pilot",
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": []
     }
   ]
 }
