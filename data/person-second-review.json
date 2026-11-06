@@ -134167,6 +134167,33 @@
           "term": "夷陵",
           "quote": "孫權破劉備於夷陵",
           "reason": "文帝紀：夷陵之戰總述，記孫權破劉備，無孫桓其人其事，排除。"
+        },
+        {
+          "id": "sunhuan-excl-005",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 6,
+          "term": "夷陵",
+          "quote": "瑜即遣甘寧前據夷陵",
+          "reason": "周瑜傳：南郡之戰，記周瑜、甘寧、呂蒙事，全段主角非孫桓、無孫桓其人其事，排除。"
+        },
+        {
+          "id": "sunhuan-excl-006",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 60,
+          "term": "夷陵",
+          "quote": "劉備出夷陵，璋與陸遜并力拒之",
+          "reason": "潘璋傳：夷陵之戰記潘璋與陸遜拒劉備、斬馮習，全段主角為潘璋、無孫桓，排除。"
+        },
+        {
+          "id": "sunhuan-excl-007",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 12,
+          "term": "東夷傳",
+          "quote": "東夷傳",
+          "reason": "僅為卷首小標題，無史事內容，與孫桓無關，排除。"
         }
       ]
     }
