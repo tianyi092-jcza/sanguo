@@ -134079,7 +134079,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "sunhuan-sgz-ben-zhuan-kaipian",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 23,
+          "from": "孫桓字叔武，河之子也。",
+          "through": "孫桓字叔武，河之子也。",
+          "citation": "《三國志·吳書六 宗室傳第六》",
+          "note": "本傳開篇正文：孫桓字叔武，孫河之子。"
+        },
+        {
+          "id": "sunhuan-peizhu-wushu-sizi",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 23,
+          "from": "吳書曰：河有四子。",
+          "through": "擢為武衞都尉。",
+          "citation": "《三國志·吳書六 宗室傳第六》",
+          "note": "裴注引《吳書》：孫河四子，桓居其三；儀容端正，博學強記，權稱為宗室顏淵，擢武衞都尉。"
+        },
+        {
+          "id": "sunhuan-sgz-huarong-yiling-fenghou",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 23,
+          "from": "從討關羽於華容，誘羽餘黨，得五千人，牛馬器械甚衆。",
+          "through": "桓以功拜建武將軍，封丹徒侯，下督牛渚，作橫江塢，會卒。",
+          "citation": "《三國志·吳書六 宗室傳第六》",
+          "note": "本傳正文：從討關羽於華容，誘其餘黨；年二十五拜安東中郎將，與陸遜共拒劉備於夷陵，斬上兜道截其徑要；以功拜建武將軍，封丹徒侯，下督牛渚，作橫江塢，會卒。"
+        }
+      ],
       "exclusions": []
     }
   ]
