@@ -134140,6 +134140,33 @@
           "term": "孫桓傳",
           "quote": "孫桓傳",
           "reason": "本傳篇題，僅為傳目、無史實內容，排除。"
+        },
+        {
+          "id": "sunhuan-excl-002",
+          "work": "sanguozhi",
+          "source": "a05-015-ahcb",
+          "paragraph": 52,
+          "term": "夷陵",
+          "quote": "夷陵　夷道　佷山",
+          "reason": "晉書地理志地名表頭，僅列地名、無孫桓其人其事，排除。"
+        },
+        {
+          "id": "sunhuan-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 36,
+          "term": "夷陵",
+          "quote": "攻曹仁於南郡，未拔，寧建計先徑進取夷陵",
+          "reason": "甘寧傳：甘寧取守夷陵事，全段主角為甘寧、無孫桓，排除。"
+        },
+        {
+          "id": "sunhuan-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 22,
+          "term": "夷陵",
+          "quote": "孫權破劉備於夷陵",
+          "reason": "文帝紀：夷陵之戰總述，記孫權破劉備，無孫桓其人其事，排除。"
         }
       ]
     }
