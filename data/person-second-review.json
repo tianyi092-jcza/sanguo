@@ -133415,6 +133415,22 @@
           "reason": "晉書卷二武帝紀：遣使吳喻孫皓平蜀事、立晉世子，全段未提濮陽興；向量以「迎立孫皓」事件語義誤配，排除。"
         }
       ]
+    },
+    {
+      "id": "p0251",
+      "name": "孫翊",
+      "status": "pilot",
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": []
     }
   ]
 }
