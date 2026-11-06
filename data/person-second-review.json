@@ -134544,6 +134544,22 @@
           "reason": "僅為卷內小標題「孫皎傳」，無史實內容，排除。"
         }
       ]
+    },
+    {
+      "id": "p0255",
+      "name": "孫奐",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
