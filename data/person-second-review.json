@@ -135215,6 +135215,22 @@
         "辨人：與同卷合傳人物（王蕃、樓玄、韋曜、華覈）及賀齊（祖父）、賀景（父）、賀循（子）嚴格區分；賀劭即賀邵，邵劭通假。",
         "生卒與勢力：生年未詳；卒於孫皓朝，為孫皓所殺（《晉書·賀循傳》）；終身事吳，未轉投他方，孫休、孫皓兩朝皆居機要。"
       ]
+    },
+    {
+      "id": "p0260",
+      "name": "韋昭",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
