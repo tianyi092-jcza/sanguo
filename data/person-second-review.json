@@ -136231,6 +136231,33 @@
           "term": "韋昭",
           "quote": "樓玄傳",
           "reason": "同卷樓玄小傳標題段，非韋曜本傳；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-072",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 6,
+          "term": "韋昭",
+          "quote": "樓玄字承先，沛郡蘄人也。",
+          "reason": "同卷樓玄小傳正文，非韋曜本傳；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-073",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 7,
+          "term": "韋昭",
+          "quote": "東觀令華覈上疏曰",
+          "reason": "同卷華覈上疏及裴注論樓玄，非韋曜本傳；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-074",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 8,
+          "term": "韋昭",
+          "quote": "賀邵傳",
+          "reason": "同卷賀邵小傳標題段，非韋曜本傳；段中無韋昭/韋曜/弘嗣。"
         }
       ],
       "unresolved": [],
