@@ -131913,6 +131913,22 @@
         "生卒：生 219 年、卒太平元年（256 年），本傳與他傳互證；初依孫權末為侍中，權薨助諸葛恪誅孫弘，後與孫亮謀誅恪、專國政，誅滕胤、呂據，卒後孫綝代知朝政。",
         "他源：向量檢索於《後漢書》《華陽國志》無孫峻候選；《晉書》3 條已摘；本傳源文件 a04-064 共 48 段已全數核對，孫峻傳段 27–31 已摘，餘段分屬諸葛恪、滕胤、孫綝、濮陽興諸傳。"
       ]
+    },
+    {
+      "id": "p0249",
+      "name": "孫綝",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
