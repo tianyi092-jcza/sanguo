@@ -135490,9 +135490,38 @@
           "citation": "《三國志·吳書二十·韋曜華覈傳》",
           "note": "陳壽評韋曜篤學好古、博見羣籍、有記述之才。",
           "through": "韋曜篤學好古，博見羣籍，有記述之才。"
+        },
+        {
+          "id": "weizhao-jin-023-03",
+          "work": "jinshu",
+          "source": "a05-023-ahcb",
+          "paragraph": 3,
+          "from": "是時吳亦使韋昭制十二曲名，以述功德受命。",
+          "through": "是時吳亦使韋昭制十二曲名，以述功德受命。",
+          "citation": "《晉書·卷二十三·志第十三·樂志》",
+          "note": "晉書樂志載吳使韋昭制十二曲名，以述功德受命；與魏繆襲改曲述功德代漢並列。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "weizhao-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 16,
+          "term": "韋曜",
+          "quote": "韋曜傳",
+          "reason": "僅為韋曜傳卷內小傳標題，無正文內容可摘；本傳開篇已於 a04-065:17 錄為 excerpt。"
+        },
+        {
+          "id": "weizhao-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 22,
+          "term": "韋昭",
+          "quote": "孫皓傳",
+          "reason": "僅為孫皓傳卷內標題，段中無韋昭相關內容；向量候選係事件/時間加權誤觸。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
