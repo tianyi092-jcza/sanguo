@@ -132402,6 +132402,33 @@
           "term": "孫恩",
           "quote": "討孫恩，至冠軍將軍。",
           "reason": "本段述晉末孫恩事，孫恩為晉末起事者，與吳太平年間廢亮的孫綝非同一人、非同時代，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-029",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 22,
+          "term": "孫桓傳",
+          "quote": "孫桓傳",
+          "reason": "本段僅為《孫桓傳》篇題，無正文內容，未提及孫綝，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-030",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 32,
+          "term": "休",
+          "quote": "拜休中領軍",
+          "reason": "本段為《曹休傳》，「休」指魏將曹休，與吳孫綝無關；「立孫休」事件檢索誤報。"
+        },
+        {
+          "id": "sunlin-excl-031",
+          "work": "houhanshu",
+          "source": "a03-079b-ahcb",
+          "paragraph": 54,
+          "term": "何休",
+          "quote": "何休字邵公，任城樊人也。",
+          "reason": "本段為《後漢書·何休傳》開篇，「休」指東漢經學家何休，與吳孫綝無關；「立孫休」事件檢索誤報。"
         }
       ],
       "unresolved": [],
