@@ -134221,6 +134221,33 @@
           "term": "西陵",
           "quote": "吳西陵督步闡來降",
           "reason": "武帝紀：泰始年間步闡降晉、陸抗攻闡事，時在孫桓卒後，全段無孫桓，排除。"
+        },
+        {
+          "id": "sunhuan-excl-011",
+          "work": "sanguozhi",
+          "source": "a05-003-ahcb",
+          "paragraph": 176,
+          "term": "吳故將",
+          "quote": "吳故將莞恭、帛奉舉兵反",
+          "reason": "武帝紀：吳故將莞恭、帛奉舉兵反、攻害建鄴令、圍揚州事，全段無孫桓其人其事，排除。"
+        },
+        {
+          "id": "sunhuan-excl-012",
+          "work": "sanguozhi",
+          "source": "a05-121-ahcb",
+          "paragraph": 4,
+          "term": "李毅",
+          "quote": "南夷校尉李毅固守不降",
+          "reason": "李雄載記：南夷校尉李毅守建寧、為李雄所誘夷兵所破事，全段無孫桓其人其事，排除。"
+        },
+        {
+          "id": "sunhuan-excl-013",
+          "work": "sanguozhi",
+          "source": "a05-010-ahcb",
+          "paragraph": 63,
+          "term": "桓玄",
+          "quote": "桓玄將庾稚、何澹之戰于湓口",
+          "reason": "安帝紀：桓玄逼帝東下、劉道規等破桓玄將於湓口事，此「桓玄」非孫桓，全段無孫桓其人其事，排除。"
         }
       ]
     }
