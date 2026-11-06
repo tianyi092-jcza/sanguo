@@ -134818,6 +134818,22 @@
         "生卒：生年未詳；卒太平元年（256 年），欲廢孫綝、兵敗自殺，夷三族；孫休永安元年（258 年）下詔為呂據等改葬，罹恪等事見遠徙者一切召還。",
         "勢力繫年：終身事吳，未轉投他方；初以父任為郎，歷任皆吳官，太平元年之變亦為吳國內爭，與孫峻、孫綝兄弟之爭同繫吳廷。"
       ]
+    },
+    {
+      "id": "p0257",
+      "name": "王蕃",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
