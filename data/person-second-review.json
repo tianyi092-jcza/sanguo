@@ -134194,6 +134194,33 @@
           "term": "東夷傳",
           "quote": "東夷傳",
           "reason": "僅為卷首小標題，無史事內容，與孫桓無關，排除。"
+        },
+        {
+          "id": "sunhuan-excl-008",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 23,
+          "term": "夷陵",
+          "quote": "陸議大破先主軍於猇亭",
+          "reason": "先主傳：章武二年夷陵之戰敘事，主角為劉備、陸議，全段未提孫桓，排除。"
+        },
+        {
+          "id": "sunhuan-excl-009",
+          "work": "sanguozhi",
+          "source": "a05-034",
+          "paragraph": 41,
+          "term": "江陵",
+          "quote": "陳兵于江陵",
+          "reason": "杜預傳：太康元年杜預伐吳事，時在孫桓卒（222年）後近六十年，全段無孫桓其人其事，排除。"
+        },
+        {
+          "id": "sunhuan-excl-010",
+          "work": "sanguozhi",
+          "source": "a05-003-ahcb",
+          "paragraph": 77,
+          "term": "西陵",
+          "quote": "吳西陵督步闡來降",
+          "reason": "武帝紀：泰始年間步闡降晉、陸抗攻闡事，時在孫桓卒後，全段無孫桓，排除。"
         }
       ]
     }
