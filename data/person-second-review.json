@@ -134473,6 +134473,22 @@
           "reason": "僅為卷內小標題「孫韶傳」，無史實內容，排除。"
         }
       ]
+    },
+    {
+      "id": "p0254",
+      "name": "孫皎",
+      "status": "pilot",
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": []
     }
   ]
 }
