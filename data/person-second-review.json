@@ -132266,6 +132266,33 @@
           "term": "孫亮全夫人傳",
           "quote": "孫亮全夫人傳",
           "reason": "僅卷內小標題「孫亮全夫人傳」，無正文內容可摘；全夫人傳正文見第20段，已另錄 sunlin-sgz-feipin-quanfu-chuhouguan-258。"
+        },
+        {
+          "id": "sunlin-excl-015",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 4,
+          "term": "孫皎傳",
+          "quote": "孫皎傳",
+          "reason": "僅卷內小標題「孫皎傳」，無正文內容可摘。"
+        },
+        {
+          "id": "sunlin-excl-016",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 19,
+          "term": "孫奮傳",
+          "quote": "孫奮傳",
+          "reason": "僅卷內小標題「孫奮傳」，無正文內容可摘。"
+        },
+        {
+          "id": "sunlin-excl-017",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 1,
+          "term": "孫亮立太子",
+          "quote": "赤烏十三年，和廢，權遂立亮為太子",
+          "reason": "本段記赤烏十三年孫亮立為太子事，全段未提及孫綝，與孫綝無關。"
         }
       ],
       "unresolved": [],
