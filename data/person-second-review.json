@@ -131918,7 +131918,38 @@
       "id": "p0249",
       "name": "孫綝",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "sunlin-sgz-houzhu-feiliang-lixiu",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 37,
+          "from": "吳大將軍孫綝廢其主亮，立琅邪王休。",
+          "through": "吳大將軍孫綝廢其主亮，立琅邪王休。",
+          "citation": "《三國志·蜀書三 後主傳第三》",
+          "note": "景耀元年（258）蜀後主傳繫年：吳大將軍孫綝廢其主孫亮，立琅邪王孫休。此為孫綝廢亮立休之蜀方互證。"
+        },
+        {
+          "id": "sunlin-sgz-sanzhu-yingxiu",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 12,
+          "from": "孫亮廢，己未，孫綝使宗正孫楷與中書郎董朝迎休。",
+          "through": "孫亮廢，己未，孫綝使宗正孫楷與中書郎董朝迎休。",
+          "citation": "《三國志·吳書三 三嗣主傳第三》",
+          "note": "孫亮既廢，孫綝使宗正孫楷與中書郎董朝迎琅邪王休於會稽；後綝以兵千人迎休於半野，拜于道側。見廢亮立休由孫綝主導。"
+        },
+        {
+          "id": "sunlin-sgz-feipin-jiliang-feiliang",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 22,
+          "from": "亮殺熊、損。損妻是峻妹也，孫綝益忌亮，遂廢亮，立休。",
+          "through": "亮殺熊、損。損妻是峻妹也，孫綝益忌亮，遂廢亮，立休。",
+          "citation": "《三國志·吳書五 妃嬪傳第五》",
+          "note": "太平中孫亮殺全主之子熊、損，損妻為孫峻之妹，孫綝益忌亮，遂廢亮立休。見廢立之直接起因。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
