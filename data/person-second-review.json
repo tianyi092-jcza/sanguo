@@ -132510,6 +132510,33 @@
           "term": "政論",
           "quote": "名曰政論。",
           "reason": "東漢崔寔《政論》，「政論」為書名，與孫綝「專國政」無關。"
+        },
+        {
+          "id": "sunlin-excl-041",
+          "work": "jinshu",
+          "source": "a05-026-ahcb",
+          "paragraph": 11,
+          "term": "朝廷從之",
+          "quote": "朝廷從之。",
+          "reason": "晉書卷二十六食貨志段落，前後為平吳後王公京城田宅之議，與孫綝無關；「專國政」檢索誤報。"
+        },
+        {
+          "id": "sunlin-excl-042",
+          "work": "houhanshu",
+          "source": "a03-079",
+          "paragraph": 15,
+          "term": "楊政",
+          "quote": "楊政字子行，京兆人也。",
+          "reason": "後漢書楊政傳，「楊政」與孫綝無關；「政」字誤撞「專國政」檢索。"
+        },
+        {
+          "id": "sunlin-excl-043",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 28,
+          "term": "高貴鄉公紀",
+          "quote": "高貴鄉公紀",
+          "reason": "《三國志·魏書四》篇題，與孫綝無關。"
         }
       ],
       "unresolved": [],
