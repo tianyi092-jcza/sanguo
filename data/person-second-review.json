@@ -135520,6 +135520,33 @@
           "term": "韋昭",
           "quote": "孫皓傳",
           "reason": "僅為孫皓傳卷內標題，段中無韋昭相關內容；向量候選係事件/時間加權誤觸。"
+        },
+        {
+          "id": "weizhao-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 9,
+          "term": "韋昭",
+          "quote": "邵上疏諫曰",
+          "reason": "此段為同卷賀邵傳，言賀邵諫孫皓，段中無韋昭；向量候選係事件加權誤觸。"
+        },
+        {
+          "id": "weizhao-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 30,
+          "term": "韋昭",
+          "quote": "覈上疏諫曰",
+          "reason": "此段主角為同卷華覈（華覈字永先，見本卷第28段），言其諫孫皓營新宮，段中無韋昭；向量候選係事件加權誤觸。"
+        },
+        {
+          "id": "weizhao-excl-005",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 189,
+          "term": "韋昭",
+          "quote": "時陸凱等謀因其謁廟廢之。",
+          "reason": "此段載孫皓寶鼎元年陸凱等謀廢孫皓事，段中無韋昭；向量候選係事件加權誤觸。"
         }
       ],
       "unresolved": [],
