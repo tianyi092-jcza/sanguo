@@ -132320,6 +132320,33 @@
           "term": "孫峻傳",
           "quote": "孫峻傳",
           "reason": "本段僅為《孫峻傳》篇題，無正文內容，未提及孫綝，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-021",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 33,
+          "term": "休",
+          "quote": "以休為征東大將軍",
+          "reason": "本段為《曹休傳》，「休」指魏大司馬曹休（征孫權、石亭之戰），與吳孫綝無關；「立孫休」事件檢索誤報。"
+        },
+        {
+          "id": "sunlin-excl-022",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 2,
+          "term": "孫瑜傳",
+          "quote": "孫瑜傳",
+          "reason": "本段僅為《孫瑜傳》篇題，無正文內容，未提及孫綝，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-023",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 0,
+          "term": "孫堅傳",
+          "quote": "孫堅傳",
+          "reason": "本段僅為《孫堅傳》篇題，無正文內容，未提及孫綝，與孫綝無關。"
         }
       ],
       "unresolved": [],
