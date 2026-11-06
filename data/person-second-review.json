@@ -134065,6 +134065,22 @@
           "reason": "孫匡傳：記翊之弟孫匡及其後嗣泰、秀事；「翊弟也」僅明匡為翊之弟，全段未述孫翊其人其事，排除。"
         }
       ]
+    },
+    {
+      "id": "p0252",
+      "name": "孫桓",
+      "status": "pilot",
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": []
     }
   ]
 }
