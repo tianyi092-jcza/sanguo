@@ -132008,9 +132008,38 @@
           "through": "太平三年，孫綝盛兵圍宮，廢亮爲會稽王，故國志又書於吳也。",
           "citation": "《晉書·天文志》（異版文本）",
           "note": "天文志占驗附記層級：正元二年彗星見吳楚分條下，案占「吳有兵喪，除舊布新之象也」，應於「太平三年，孫綝盛兵圍宮，廢亮爲會稽王」；與本傳「遂圍宮」「廢亮」互證，廢亮後亮降封會稽王。此為占驗附記，非本傳敘事。"
+        },
+        {
+          "id": "sunlin-wuxing-ahcb-shizheng-256",
+          "work": "jinshu",
+          "source": "a05-027-ahcb",
+          "paragraph": 20,
+          "from": "是秋，孫綝始執政，矯以亮詔殺呂據、滕胤。",
+          "through": "明年，又輒殺朱異。",
+          "citation": "《晉書·五行志》（異版文本）",
+          "note": "五行志災異附記層級：太平元年建鄴火條下，記「是秋，孫綝始執政，矯以亮詔殺呂據、滕胤。明年，又輒殺朱異」；與本傳孫綝專政、殺呂據滕胤朱異互證。太平元年即 256 年。此為災異附記，非本傳敘事。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "sunlin-excl-001",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 18,
+          "term": "孫綝廢亮",
+          "quote": "其明年，諸葛誕反。又明年，孫綝廢亮。吳魏並有兵事也。",
+          "reason": "與已錄 sunlin-tianwen-ahcb-feiliang-258（a05-013-ahcb:9）為同一天文志占驗條之異版文本（sidneyluo 本與四庫全書本），「太白犯南斗……孫綝廢亮」全句相同，不重複錄入。"
+        },
+        {
+          "id": "sunlin-excl-002",
+          "work": "jinshu",
+          "source": "a05-013",
+          "paragraph": 53,
+          "term": "孫綝盛兵圍宮",
+          "quote": "太平三年，孫綝盛兵圍宮，廢亮為會稽王，故國志又書於吳也。",
+          "reason": "與已錄 sunlin-tianwen-ahcb-weigong-feiliang-258（a05-013-ahcb:43）為同一天文志占驗條之異版文本，句子全同（僅為／爲異體），不重複錄入。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
