@@ -136789,6 +136789,22 @@
         "辨人：與同卷合傳人物（王蕃、樓玄、賀邵、韋曜）及孫亮、孫休、孫皓嚴格區分；救曜者與被救者不得串人；《晉書》「劉曜」誤觸已排除。",
         "生卒與勢力：生年不詳（本傳未載），卒於天冊元年（275）免官後數歲；終身事吳，歷孫亮、孫休、孫皓三朝，任中書丞、右國史、東觀令，未轉投他方。"
       ]
+    },
+    {
+      "id": "p0262",
+      "name": "羊祜",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
