@@ -136204,6 +136204,33 @@
           "term": "韋昭",
           "quote": "王蕃傳",
           "reason": "同卷王蕃小傳標題段，非韋曜本傳；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-069",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 1,
+          "term": "韋昭",
+          "quote": "王蕃字永元，廬江人也。",
+          "reason": "同卷王蕃小傳，王蕃生平；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-070",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 4,
+          "term": "韋昭",
+          "quote": "丞相陸凱上疏曰：「常侍王蕃黃中通理，",
+          "reason": "陸凱為王蕃上疏，痛王蕃被殺；段中無韋昭/韋曜/弘嗣。"
+        },
+        {
+          "id": "weizhao-excl-071",
+          "work": "sanguozhi",
+          "source": "a04-065",
+          "paragraph": 5,
+          "term": "韋昭",
+          "quote": "樓玄傳",
+          "reason": "同卷樓玄小傳標題段，非韋曜本傳；段中無韋昭/韋曜/弘嗣。"
         }
       ],
       "unresolved": [],
