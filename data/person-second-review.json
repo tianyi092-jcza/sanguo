@@ -132239,6 +132239,33 @@
           "term": "曹休傳",
           "quote": "曹休傳",
           "reason": "僅卷內小標題「曹休傳」，無正文內容可摘。"
+        },
+        {
+          "id": "sunlin-excl-012",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 22,
+          "term": "孫皓傳",
+          "quote": "孫皓傳",
+          "reason": "僅卷內小標題「孫皓傳」，無正文內容可摘。"
+        },
+        {
+          "id": "sunlin-excl-013",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 12,
+          "term": "孫乾傳",
+          "quote": "孫乾傳",
+          "reason": "僅卷內小標題「孫乾傳」，無正文內容可摘。"
+        },
+        {
+          "id": "sunlin-excl-014",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 19,
+          "term": "孫亮全夫人傳",
+          "quote": "孫亮全夫人傳",
+          "reason": "僅卷內小標題「孫亮全夫人傳」，無正文內容可摘；全夫人傳正文見第20段，已另錄 sunlin-sgz-feipin-quanfu-chuhouguan-258。"
         }
       ],
       "unresolved": [],
