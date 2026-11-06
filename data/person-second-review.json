@@ -132429,6 +132429,33 @@
           "term": "何休",
           "quote": "何休字邵公，任城樊人也。",
           "reason": "本段為《後漢書·何休傳》開篇，「休」指東漢經學家何休，與吳孫綝無關；「立孫休」事件檢索誤報。"
+        },
+        {
+          "id": "sunlin-excl-032",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 7,
+          "term": "孫慮傳",
+          "quote": "孫慮傳",
+          "reason": "本段僅為《孫慮傳》篇題，無正文內容，未提及孫綝，與孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-033",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 28,
+          "term": "孫禮傳",
+          "quote": "孫禮傳",
+          "reason": "本段僅為《孫禮傳》篇題，孫禮為魏臣，與吳孫綝無關。"
+        },
+        {
+          "id": "sunlin-excl-034",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 7,
+          "term": "孫策傳",
+          "quote": "孫策傳",
+          "reason": "本段僅為《孫策傳》篇題，孫策為孫堅長子，與孫綝無關。"
         }
       ],
       "unresolved": [],
