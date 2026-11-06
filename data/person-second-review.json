@@ -132483,6 +132483,33 @@
           "term": "亮",
           "quote": "亮欲遁逃山海，自暨陽東出。",
           "reason": "本段「亮」指晉臣庾亮（《晉書·庾亮傳》），非吳主孫亮，與孫綝廢孫亮之事無關；「廢孫亮」事件檢索誤報。"
+        },
+        {
+          "id": "sunlin-excl-038",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 23,
+          "term": "孫和何姬傳",
+          "quote": "孫和何姬傳",
+          "reason": "僅卷內傳目標題，無正文內容，與孫綝無關；「廢孫亮」事件檢索誤報。"
+        },
+        {
+          "id": "sunlin-excl-039",
+          "work": "houhanshu",
+          "source": "a03-059",
+          "paragraph": 29,
+          "term": "政理",
+          "quote": "上下肅然，稱為政理。",
+          "reason": "東漢張衡傳，「政理」為一般用語，與孫綝「專國政」無關；時代亦不合（永和年間）。"
+        },
+        {
+          "id": "sunlin-excl-040",
+          "work": "houhanshu",
+          "source": "a03-052",
+          "paragraph": 27,
+          "term": "政論",
+          "quote": "名曰政論。",
+          "reason": "東漢崔寔《政論》，「政論」為書名，與孫綝「專國政」無關。"
         }
       ],
       "unresolved": [],
