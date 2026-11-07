@@ -143074,6 +143074,33 @@
           "term": "張衡",
           "quote": "張衡",
           "reason": "本段僅為《後漢書·張衡列傳》卷首題名，無正文內容，與盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-102-14",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 14,
+          "term": "黃巾賊",
+          "quote": "後四年，京都大發兵擊黃巾賊。",
+          "reason": "本段為天文志占驗，僅言彗星犯張主兵亂、後發兵擊黃巾賊，未提盧植，與盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-041-03",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 3,
+          "term": "王連傳",
+          "quote": "王連傳",
+          "reason": "本段僅為《三國志·王連傳》卷內小傳題名，無正文內容，與盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-053-00",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 0,
+          "term": "張紘傳",
+          "quote": "張紘傳",
+          "reason": "本段僅為《三國志·張紘傳》卷首題名，無正文內容，與盧植無涉，不作摘錄。"
         }
       ],
       "unresolved": [],
