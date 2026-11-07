@@ -142993,6 +142993,33 @@
           "term": "龐悳",
           "quote": "龐悳傳",
           "reason": "本段僅為《三國志·龐悳傳》篇目標題，無正文內容，與盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-017-15",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 15,
+          "term": "張郃",
+          "quote": "張郃傳",
+          "reason": "本段僅為《三國志·張郃傳》篇目標題，無正文內容，與盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-028-ahcb-174",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 174,
+          "term": "鄧喜",
+          "quote": "吳戍將鄧喜殺豬祠神，治畢懸之",
+          "reason": "本段記吳戍將鄧喜殺豬祠異事，與盧植、討張角無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-001-79",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 79,
+          "term": "祭遵",
+          "quote": "征虜將軍祭遵破蠻中，斬張滿。",
+          "reason": "本段為《後漢書·光武帝紀》記征虜將軍祭遵破蠻中斬張滿，與盧植無涉，不作摘錄。"
         }
       ],
       "unresolved": [],
