@@ -143591,7 +143591,38 @@
       "id": "p0267",
       "name": "朱儁",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhujun-hhs-008-14",
+          "work": "houhanshu",
+          "source": "a03-008",
+          "paragraph": 14,
+          "from": "交阯刺史朱儁討交阯、合浦烏滸蠻，破之。",
+          "through": "交阯刺史朱儁討交阯、合浦烏滸蠻，破之。",
+          "citation": "《後漢書·孝靈帝紀》",
+          "note": "正文層級：光和四年（181）夏四月，交阯刺史朱儁討交阯、合浦烏滸蠻，破之。朱儁事詳本傳《後漢書·朱儁傳》。"
+        },
+        {
+          "id": "zhujun-hhs-008-17",
+          "work": "houhanshu",
+          "source": "a03-008",
+          "paragraph": 17,
+          "from": "左中郎將皇甫嵩、右中郎將朱儁討潁川黃巾。",
+          "through": "皇甫嵩、朱儁復與波才等戰於長社，大破之。",
+          "citation": "《後漢書·孝靈帝紀》",
+          "note": "正文層級：中平元年（184）二月，朝廷以朱儁為右中郎將，與左中郎將皇甫嵩討潁川黃巾；朱儁初為黃巾波才所敗，五月復與嵩戰於長社，大破之。"
+        },
+        {
+          "id": "zhujun-hhs-009-6",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 6,
+          "from": "太僕朱儁為太尉，錄尚書事。",
+          "through": "太僕朱儁為太尉，錄尚書事。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "note": "正文層級：興平二年（195）六月，太僕朱儁為太尉，錄尚書事。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
