@@ -141652,6 +141652,33 @@
           "term": "皇甫嵩　朱儁",
           "quote": "皇甫嵩　朱儁",
           "reason": "本卷卷首標題，僅列傳篇名，無具體史實，不作摘錄。"
+        },
+        {
+          "id": "huangfusong-excl-006-38",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 38,
+          "term": "邵續",
+          "quote": "平北將軍、冀州刺史邵續擊之，續敗，沒於陣。",
+          "reason": "晉書卷六記石勒寇猒次、邵續戰沒事，全段無皇甫嵩其人其事，與嵩無關，不作摘錄。"
+        },
+        {
+          "id": "huangfusong-excl-044-18",
+          "work": "sanguozhi",
+          "source": "a04-044",
+          "paragraph": 18,
+          "term": "姜維",
+          "quote": "維欲乘虛向秦川，復率數萬人出駱谷，徑至沈嶺。",
+          "reason": "三國志卷四十四姜維傳記延熙二十年姜維出駱谷、司馬望鄧艾拒守事，全段無皇甫嵩，不作摘錄。"
+        },
+        {
+          "id": "huangfusong-excl-056-30",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 30,
+          "term": "劭",
+          "quote": "劭迎勞之，因譬令還軍。",
+          "reason": "後漢書卷五十六鄭太傳記鄭劭迎勞董卓、責其還軍事，段中「劭」為鄭劭，非皇甫嵩，全段無嵩事蹟，不作摘錄。"
         }
       ],
       "unresolved": [],
