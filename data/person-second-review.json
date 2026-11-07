@@ -142966,6 +142966,33 @@
           "term": "張旣",
           "quote": "張旣傳",
           "reason": "本段僅為《三國志·張旣傳》篇目標題，無正文內容，與盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-044-20",
+          "work": "houhanshu",
+          "source": "a03-044",
+          "paragraph": 20,
+          "term": "胡廣",
+          "quote": "胡廣字伯始",
+          "reason": "本段為《後漢書·胡廣傳》開篇，記胡廣家世，與盧植無涉；「廣」字誤觸「圍廣宗」事件檢索，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-045-07",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 7,
+          "term": "宗預",
+          "quote": "宗預傳",
+          "reason": "本段僅為《三國志·宗預傳》篇目標題，無正文內容，與盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-018-27",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 27,
+          "term": "龐悳",
+          "quote": "龐悳傳",
+          "reason": "本段僅為《三國志·龐悳傳》篇目標題，無正文內容，與盧植無涉，不作摘錄。"
         }
       ],
       "unresolved": [],
