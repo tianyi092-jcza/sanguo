@@ -142939,6 +142939,33 @@
           "term": "田疇",
           "quote": "田疇傳",
           "reason": "本段僅為《三國志·田疇傳》篇目標題，無正文內容，與盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-081-84",
+          "work": "houhanshu",
+          "source": "a03-081",
+          "paragraph": 84,
+          "term": "張角",
+          "quote": "會張角作亂，栩上便宜",
+          "reason": "本段為《後漢書·獨行列傳》向栩事：張角作亂時栩上便宜、反對興兵，未提盧植，與盧植討張角無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-023-ahcb-07",
+          "work": "jinshu",
+          "source": "a05-023-ahcb",
+          "paragraph": 7,
+          "term": "角",
+          "quote": "鼓角橫吹曲",
+          "reason": "本段為《晉書·樂志》鼓角橫吹曲，「角」為樂器名，與張角、黃巾及盧植無涉，不作摘錄。"
+        },
+        {
+          "id": "luzhi-excl-015-14",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 14,
+          "term": "張旣",
+          "quote": "張旣傳",
+          "reason": "本段僅為《三國志·張旣傳》篇目標題，無正文內容，與盧植無涉，不作摘錄。"
         }
       ],
       "unresolved": [],
