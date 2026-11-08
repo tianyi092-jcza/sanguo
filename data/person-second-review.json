@@ -149516,6 +149516,33 @@
           "term": "邊讓",
           "quote": "十篇品藻典雅中書監荀勗令張華",
           "reason": "華陽國志卷十一後賢志段落，記譙壽良集注事，全段無邊讓，僅「章華賦」事件向量相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-026",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 6,
+          "term": "邊讓",
+          "quote": "孫奐傳",
+          "reason": "三國志卷五十一孫奐傳卷首標題行，全段僅傳名三字，無邊讓、無章華賦內容，事件「章華賦」相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-027",
+          "work": "jinshu",
+          "source": "a05-031-ahcb",
+          "paragraph": 30,
+          "term": "邊讓",
+          "quote": "及帝女萬年公主薨，帝痛悼不已，詔芬爲誄，其文甚麗。",
+          "reason": "晉書卷三十一張芬傳段落，記張芬為萬年公主作誄、帝重其詞藻，全段無邊讓、無章華賦內容，僅詞藻賦頌主題向量相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-028",
+          "work": "jinshu",
+          "source": "a05-036",
+          "paragraph": 25,
+          "term": "邊讓",
+          "quote": "張華字茂先，范陽方城人也。",
+          "reason": "晉書卷三十六張華傳開篇，記張華家世少孤、博學辭藻，全段無邊讓、無章華賦內容，僅賦才主題向量相似誤命中，不錄為 excerpt。"
         }
       ],
       "unresolved": [],
