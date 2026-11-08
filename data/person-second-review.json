@@ -149987,6 +149987,33 @@
           "term": "尹默傳",
           "quote": "尹默傳",
           "reason": "三國志尹默傳篇首標題，無史實內容，全段無「蓋勳」，排除。"
+        },
+        {
+          "id": "gaixun-excl-028",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 119,
+          "term": "越騎校尉",
+          "quote": "改青巾左校尉爲越騎校尉",
+          "reason": "光武朝五校制度沿革段，全段無「蓋勳」，僅因勳曾任越騎校尉被事件加權命中，非本人史實，排除。"
+        },
+        {
+          "id": "gaixun-excl-029",
+          "work": "houhanshu",
+          "source": "a03-078",
+          "paragraph": 38,
+          "term": "滕延",
+          "quote": "濟北相滕延一切收捕，殺數十人",
+          "reason": "後漢書宦者列傳滕延與段珪、張讓事，全段無「蓋勳」，與討邊章無關，排除。"
+        },
+        {
+          "id": "gaixun-excl-030",
+          "work": "jinshu",
+          "source": "a05-024-ahcb",
+          "paragraph": 71,
+          "term": "越騎校尉",
+          "quote": "屯騎、步兵、越騎、長水、射聲等校尉，是爲五校",
+          "reason": "晉書職官志五校制度段，全段無「蓋勳」，僅因勳曾任越騎校尉被事件加權命中，非本人史實，排除。"
         }
       ],
       "unresolved": [],
