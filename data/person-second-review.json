@@ -149543,6 +149543,33 @@
           "term": "邊讓",
           "quote": "張華字茂先，范陽方城人也。",
           "reason": "晉書卷三十六張華傳開篇，記張華家世少孤、博學辭藻，全段無邊讓、無章華賦內容，僅賦才主題向量相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-029",
+          "work": "jinshu",
+          "source": "a05-086-ahcb",
+          "paragraph": 50,
+          "term": "邊讓",
+          "quote": "重華好與群小游戲，屢出錢帛以賜左右。",
+          "reason": "晉書卷八十六張重華傳，索振諫張重華論章奏停滯，全段無邊讓、無章華賦內容，「章奏」與「章華」字面相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-030",
+          "work": "sanguozhi",
+          "source": "a04-038",
+          "paragraph": 18,
+          "term": "邊讓",
+          "quote": "秦宓傳",
+          "reason": "三國志卷三十八秦宓傳卷首標題段，僅「秦宓傳」三字，無邊讓內容，向量誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-031",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 62,
+          "term": "邊讓",
+          "quote": "癸卯，大將車固讓相國、晉公、九錫之寵。",
+          "reason": "三國志卷四三少帝紀，司馬昭固讓相國、晉公、九錫之寵，「讓」為辭讓之義，非邊讓本人，不錄為 excerpt。"
         }
       ],
       "unresolved": [],
