@@ -152287,6 +152287,33 @@
           "term": "識荀彧於微時",
           "quote": "荀攸傳",
           "reason": "僅為《荀攸傳》卷首標題，未提及何顒，排除。"
+        },
+        {
+          "id": "heyong-excl-004",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 10,
+          "term": "黨錮",
+          "quote": "黨錮自從祖以下，皆得解釋。",
+          "reason": "本段論光和二年黨錮放寬，僅言「黨人錮及五族」，未提及何顒其人；向量以「黨錮」事件語義命中，實無其人內容，排除。"
+        },
+        {
+          "id": "heyong-excl-005",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 0,
+          "term": "識荀彧於微時",
+          "quote": "鄭太　孔融　荀彧",
+          "reason": "僅為《後漢書》卷七十卷首標題，未提及何顒，排除。"
+        },
+        {
+          "id": "heyong-excl-006",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 29,
+          "term": "識荀彧於微時",
+          "quote": "評曰：荀彧清秀通雅，有王佐之風",
+          "reason": "本段為陳壽評曰論荀彧（附裴松之注），未提及何顒；何顒識荀彧、稱「王佐才也」事見同卷第 2 段，已錄為 excerpt，排除。"
         }
       ],
       "unresolved": [],
