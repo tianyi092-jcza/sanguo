@@ -149852,6 +149852,33 @@
           "term": "散騎侍郎",
           "quote": "岱散騎侍郎。",
           "reason": "晉書他傳人物任職簡述，未提及蓋勳其人。"
+        },
+        {
+          "id": "gaixun-excl-013",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 93,
+          "term": "京兆郡",
+          "quote": "京兆郡漢置。統縣九，戶四萬。",
+          "reason": "晉書地理志京兆郡縣名錄，未提及蓋勳其人。"
+        },
+        {
+          "id": "gaixun-excl-014",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 44,
+          "term": "車騎將軍來歷",
+          "quote": "是歲，車騎將軍來歷罷。",
+          "reason": "後漢書安帝紀記事，未提及蓋勳其人。"
+        },
+        {
+          "id": "gaixun-excl-015",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 1,
+          "term": "董卓自為太尉",
+          "quote": "董卓自為太尉，加鈇鉞、虎賁。",
+          "reason": "後漢書獻帝紀中平六年記事，未提及蓋勳其人。"
         }
       ],
       "unresolved": [],
