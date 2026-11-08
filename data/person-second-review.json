@@ -149408,6 +149408,33 @@
           "term": "邊讓",
           "quote": "讓、忠等因進入省，遂共殺進",
           "reason": "此「讓」為宦官張讓（與趙忠並稱「讓、忠」），記何進被殺、劫質天子走河上事，非邊讓；單字「讓」誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-014",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 37,
+          "term": "邊讓",
+          "quote": "天紀元年夏，夏口督孫慎出江夏",
+          "reason": "三國志三嗣主傳段落，記天紀元年孫慎出江夏、張俶伏誅事，全段無邊讓，僅事件向量相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-015",
+          "work": "jinshu",
+          "source": "a05-004-ahcb",
+          "paragraph": 43,
+          "term": "邊讓",
+          "quote": "七年春正月癸丑，周處及齊萬年戰於六陌",
+          "reason": "晉書惠帝紀段落，記周處及齊萬年戰於六陌、王師敗績、處死之事，全段無邊讓，僅事件向量相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-016",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 79,
+          "term": "邊讓",
+          "quote": "皇女華，延熹元年封陽安長公主",
+          "reason": "後漢書皇后紀段落，記皇女華封陽安長公主、適伏完事，全段無邊讓，僅「章華賦」事件向量相似誤命中，不錄為 excerpt。"
         }
       ],
       "unresolved": [],
