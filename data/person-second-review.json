@@ -149354,6 +149354,33 @@
           "term": "邊讓",
           "quote": "七年春正月，行車騎將軍鄧鴻",
           "reason": "後漢書孝和帝紀段落，記鄧鴻、朱徽、杜崇下獄事，全段無邊讓，事件相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-008",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 30,
+          "term": "邊讓",
+          "quote": "四年夏四月，范文寇九德，多所殺害。",
+          "reason": "晉書段落，記范文寇九德事，全段無邊讓，僅向量事件相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-009",
+          "work": "houhanshu",
+          "source": "a03-106",
+          "paragraph": 87,
+          "term": "邊讓",
+          "quote": "章帝七八年閒，郡縣大螟傷稼",
+          "reason": "後漢書段落，記章帝七八年間郡縣大螟、宋梁二貴人事，全段無邊讓，僅向量事件相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-010",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 25,
+          "term": "邊讓",
+          "quote": "初，京兆人脂習元升，與融相善",
+          "reason": "後漢書孔融傳裴注段落，記脂習戒融、孔融被害、脂習撫尸事，全段無邊讓，僅向量事件相似誤命中，不錄為 excerpt。"
         }
       ],
       "unresolved": [],
