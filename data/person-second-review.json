@@ -152950,6 +152950,33 @@
           "term": "王匡",
           "quote": "生縛王匡、哀章，至，皆斬之",
           "reason": "王莽太師王匡，洛陽被拔後生縛斬之，非漢末兗州刺史王匡；同名異人，排除。"
+        },
+        {
+          "id": "wangkuang-excl-007",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 8,
+          "term": "王匡",
+          "quote": "後遂立王匡為比陽王",
+          "reason": "更始比陽王王匡，與張卬等同列封王，非漢末兗州刺史王匡；同名異人，排除。"
+        },
+        {
+          "id": "wangkuang-excl-008",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 9,
+          "term": "王匡",
+          "quote": "王匡、張卬橫暴三輔",
+          "reason": "更始朝王匡與張卬橫暴三輔，繫更始初年，非漢末兗州刺史王匡；同名異人，排除。"
+        },
+        {
+          "id": "wangkuang-excl-009",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 14,
+          "term": "王匡",
+          "quote": "時王匡、張卬守河東，為鄧禹所破",
+          "reason": "更始比陽王王匡守河東為鄧禹所破，繫更始末年，非漢末兗州刺史王匡；同名異人，排除。"
         }
       ],
       "unresolved": [],
