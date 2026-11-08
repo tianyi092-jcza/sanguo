@@ -152896,7 +152896,35 @@
           "note": "正文層：王匡起兵討董卓，遣諸生於屬縣微伺吏民罪負，考責錢穀贖罪，稽遲則夷滅宗族；常林叔父為諸生所白被收治，林說胡母彪，匡原林叔父。補王匡討董期間苛政與常林叔父事。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "wangkuang-excl-001",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 31,
+          "term": "王匡",
+          "quote": "前將軍鄧禹擊更始定國公王匡於安邑",
+          "reason": "更始政權定國公王匡，建武初鄧禹破之於安邑，東漢初人物，非漢末兗州刺史王匡；同名異人，排除。"
+        },
+        {
+          "id": "wangkuang-excl-002",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 114,
+          "term": "梁王匡",
+          "quote": "六月己未，梁王匡薨。",
+          "reason": "梁王劉匡薨，非漢末兗州刺史王匡；同名異人，排除。"
+        },
+        {
+          "id": "wangkuang-excl-003",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 2,
+          "term": "王匡",
+          "quote": "新市人王匡、王鳳為平理諍訟，遂推為渠帥",
+          "reason": "王莽末綠林軍渠帥新市人王匡，與王鳳同起，非漢末兗州刺史王匡；同名異人，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
