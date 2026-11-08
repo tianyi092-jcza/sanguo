@@ -149489,6 +149489,33 @@
           "term": "邊讓",
           "quote": "華覈傳",
           "reason": "三國志卷六十五吳書二十段落僅為「華覈傳」卷內小標題，無正文、無邊讓，僅「章華賦」事件向量相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-023",
+          "work": "jinshu",
+          "source": "a05-012-ahcb",
+          "paragraph": 152,
+          "term": "邊讓",
+          "quote": "景初元年十月丁未，月犯熒惑",
+          "reason": "晉書卷十二志段落，記景初占候與司徒韓暨薨，全段無邊讓，僅「初平四年為操所殺」事件向量相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-024",
+          "work": "sanguozhi",
+          "source": "a04-045",
+          "paragraph": 39,
+          "term": "邊讓",
+          "quote": "司農性才，敷述允章，藻麗辭理",
+          "reason": "三國志卷四十五蜀書贊秦子敕段落，全段無邊讓，僅「章華賦」事件向量相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-025",
+          "work": "huayang",
+          "source": "a06-011",
+          "paragraph": 17,
+          "term": "邊讓",
+          "quote": "十篇品藻典雅中書監荀勗令張華",
+          "reason": "華陽國志卷十一後賢志段落，記譙壽良集注事，全段無邊讓，僅「章華賦」事件向量相似誤命中，不錄為 excerpt。"
         }
       ],
       "unresolved": [],
