@@ -149879,6 +149879,33 @@
           "term": "董卓自為太尉",
           "quote": "董卓自為太尉，加鈇鉞、虎賁。",
           "reason": "後漢書獻帝紀中平六年記事，未提及蓋勳其人。"
+        },
+        {
+          "id": "gaixun-excl-016",
+          "work": "houhanshu",
+          "source": "a03-060b",
+          "paragraph": 27,
+          "term": "董卓謀之於邕",
+          "quote": "卓謀之於邕，邕曰：「太公輔周，受命翦商，故特爲其號。」",
+          "reason": "後漢書蔡邕傳董卓欲尊尚父事，未提及蓋勳其人。"
+        },
+        {
+          "id": "gaixun-excl-017",
+          "work": "jinshu",
+          "source": "a05-124",
+          "paragraph": 40,
+          "term": "越騎校尉慕輿良",
+          "quote": "越騎校尉慕輿良謀叛，雲誅之。",
+          "reason": "晉書卷一百二十四越騎校尉慕輿良謀叛事，未提及蓋勳其人。"
+        },
+        {
+          "id": "gaixun-excl-018",
+          "work": "houhanshu",
+          "source": "a03-062",
+          "paragraph": 15,
+          "term": "爽見董卓忍暴滋甚",
+          "quote": "爽見董卓忍暴滋甚，必危社稷，其所辟舉皆取才略之士，將共圖之。",
+          "reason": "後漢書荀爽傳謀誅董卓事，未提及蓋勳其人。"
         }
       ],
       "unresolved": [],
