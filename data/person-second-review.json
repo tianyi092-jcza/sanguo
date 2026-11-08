@@ -152803,7 +152803,7 @@
     {
       "id": "p0275",
       "name": "王匡",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "wangkuang-hhs-009-3",
@@ -153276,17 +153276,27 @@
           "term": "王匡",
           "quote": "董允傳",
           "reason": "該段僅為《董允傳》篇名標題，無正文內容，未提王匡；事件信號誤命中，排除。"
+        },
+        {
+          "id": "wangkuang-excl-041",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 1,
+          "term": "王匡",
+          "quote": "董卓字仲穎",
+          "reason": "該段為《後漢書》董卓傳開篇，述董卓家世出身與少時行事，全段未提王匡；「討董卓」事件信號誤命中，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [],
+      "completedAt": "2026-11-08T15:10:12.950Z"
     }
   ]
 }
