@@ -149300,6 +149300,33 @@
           "term": "邊讓",
           "quote": "張升　趙壹　劉梁　邊讓　酈炎　侯瑾　高彪　張超　禰衡",
           "reason": "卷八十下目錄列名，僅列本卷所載文苑諸人姓名，無邊讓生平內容，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-002",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 18,
+          "term": "邊讓",
+          "quote": "中常侍張讓等共殺進",
+          "reason": "段中「張讓」為中常侍張讓，與邊讓不同人；全段無邊讓，僅向量事件相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-003",
+          "work": "houhanshu",
+          "source": "a03-033",
+          "paragraph": 35,
+          "term": "邊讓",
+          "quote": "是時中常侍鄭衆、蔡倫等皆秉埶豫政",
+          "reason": "全段無邊讓，僅向量事件相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-004",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 55,
+          "term": "邊讓",
+          "quote": "丁巳，冀州刺史孫無終爲桓玄所害",
+          "reason": "晉安帝紀段落，全段無邊讓，僅向量事件相似誤命中，不錄為 excerpt。"
         }
       ],
       "unresolved": [],
