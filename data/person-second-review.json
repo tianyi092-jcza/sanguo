@@ -149381,6 +149381,33 @@
           "term": "邊讓",
           "quote": "初，京兆人脂習元升，與融相善",
           "reason": "後漢書孔融傳裴注段落，記脂習戒融、孔融被害、脂習撫尸事，全段無邊讓，僅向量事件相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-011",
+          "work": "houhanshu",
+          "source": "a03-104",
+          "paragraph": 25,
+          "term": "邊讓",
+          "quote": "獻帝初平元年八月，霸橋災",
+          "reason": "後漢書五行志段落，記霸橋災、董卓見殺事，全段無邊讓，僅「初平」「見殺」事件詞相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-012",
+          "work": "sanguozhi",
+          "source": "a04-029",
+          "paragraph": 29,
+          "term": "邊讓",
+          "quote": "建平又善相馬",
+          "reason": "三國志方技傳朱建平段落，記相馬、文帝殺馬事，全段無邊讓，僅事件相似誤命中，不錄為 excerpt。"
+        },
+        {
+          "id": "bianrang-excl-013",
+          "work": "houhanshu",
+          "source": "a03-078",
+          "paragraph": 71,
+          "term": "邊讓",
+          "quote": "讓、忠等因進入省，遂共殺進",
+          "reason": "此「讓」為宦官張讓（與趙忠並稱「讓、忠」），記何進被殺、劫質天子走河上事，非邊讓；單字「讓」誤命中，不錄為 excerpt。"
         }
       ],
       "unresolved": [],
