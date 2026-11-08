@@ -150338,6 +150338,33 @@
           "term": "京兆尹",
           "quote": "鮮卑寇遼東。",
           "reason": "後漢書孝靈帝紀僅記鮮卑寇遼東，全段無蓋勳其人，事件加權誤命中，排除。"
+        },
+        {
+          "id": "gaixun-excl-067",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 22,
+          "term": "京兆尹",
+          "quote": "滕胤傳",
+          "reason": "三國志吳書滕胤傳卷首標題段，全段僅「滕胤傳」三字，無蓋勳其人，事件加權誤命中，排除。"
+        },
+        {
+          "id": "gaixun-excl-068",
+          "work": "houhanshu",
+          "source": "a03-023",
+          "paragraph": 38,
+          "term": "討邊章",
+          "quote": "章字伯向。少好學，有文章",
+          "reason": "後漢書竇章傳（章字伯向）記竇章與馬融、崔瑗往來，全段無蓋勳其人，「邊章」事件加權誤命中，排除。"
+        },
+        {
+          "id": "gaixun-excl-069",
+          "work": "houhanshu",
+          "source": "a03-003",
+          "paragraph": 76,
+          "term": "討邊章",
+          "quote": "其改建初九年為元和元年。",
+          "reason": "後漢書章帝紀詔書，改建初九年為元和元年，全段無蓋勳其人，事件加權誤命中，排除。"
         }
       ],
       "unresolved": [],
