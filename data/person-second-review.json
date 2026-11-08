@@ -152260,7 +152260,35 @@
           "note": "三國志正文：何顒與鄭泰等謀刺董卓，事泄被執，憂懼自殺；與《後漢書·鄭泰傳》共謀殺卓被執互證，補自殺結局。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "heyong-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 0,
+          "term": "識荀彧於微時",
+          "quote": "荀彧傳",
+          "reason": "僅為《荀彧傳》卷首標題，未提及何顒；向量以「識荀彧於微時」事件語義命中，實無其人內容，排除。"
+        },
+        {
+          "id": "heyong-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 1,
+          "term": "識荀彧於微時",
+          "quote": "荀彧字文若，潁川潁陰人也。",
+          "reason": "本段為荀彧傳開篇敘荀淑家世，未提及何顒；何顒識荀彧、稱「王佐才也」事見同卷第 2 段，已錄為 excerpt，排除。"
+        },
+        {
+          "id": "heyong-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 13,
+          "term": "識荀彧於微時",
+          "quote": "荀攸傳",
+          "reason": "僅為《荀攸傳》卷首標題，未提及何顒，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
