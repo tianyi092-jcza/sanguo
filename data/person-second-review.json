@@ -149682,8 +149682,38 @@
       "id": "p0271",
       "name": "蓋勳",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "gaixun-hhs-058-22",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 22,
+          "from": "蓋勳字元固，敦煌廣至人也。",
+          "through": "終辭不受。",
+          "citation": "《後漢書·虞傅蓋臧列傳·蓋勳傳》",
+          "note": "本傳正文層：蓋勳字元固、敦煌廣至人，家世二千石；初舉孝廉為漢陽長史，諫涼州刺史梁鵠勿殺從事蘇正和，又為失期被徵的故武威太守黃儁言得免，辭謝黃金二十斤。段中「廣至，縣名」注、「紲，繫也」等訓詁注及「續漢書曰」「謝承書曰」引文為注文層。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "gaixun-excl-001",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 0,
+          "term": "蓋勳",
+          "quote": "虞詡　傅爕　蓋勳　臧洪",
+          "reason": "卷五十八目錄列名，僅列本卷所載虞傅蓋臧四人姓名，無蓋勳生平內容，不錄為 excerpt。"
+        },
+        {
+          "id": "gaixun-excl-002",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 45,
+          "term": "蓋勳",
+          "quote": "蓋勳抗董，終然允剛。",
+          "reason": "史臣贊語，僅以「抗董」「允剛」評價蓋勳，無新增生平事實；抗董事見本傳正文，不另錄為 excerpt。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
