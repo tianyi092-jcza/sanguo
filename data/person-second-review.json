@@ -156392,6 +156392,22 @@
         "皇甫酈勸李傕之辭以董卓覆亡為戒，並列董旻、董承、董璜為「鯁毒」（a04-006:11），僅提及姓名，無董旻本人具體事蹟。",
         "董旻無獨立本傳，確指本人的史料僅見於《董卓傳》正文上述兩段；其餘 41 條候選皆為「左將軍」等事件向量誤觸，已逐條排除。"
       ]
+    },
+    {
+      "id": "p0283",
+      "name": "段煨",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
