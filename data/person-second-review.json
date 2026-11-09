@@ -158002,7 +158002,7 @@
     {
       "id": "p0285",
       "name": "曹性",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "caoxing-sgz-007-08",
@@ -158384,17 +158384,30 @@
           "term": "鮑勛傳",
           "quote": "鮑勛傳",
           "reason": "僅為鮑勛分傳標題，全段無曹性其人亦無郝萌反史事；候選命中事件向量「郝萌反」實為語義誤配，排除。"
+        },
+        {
+          "id": "caoxing-excl-042",
+          "work": "houhanshu",
+          "source": "a03-012-ahcb",
+          "paragraph": 10,
+          "term": "龐萌反",
+          "quote": "龐萌社稷之臣",
+          "reason": "《後漢書》卷十二〈列傳第二〉（四庫全書本）述光武帝討龐萌事；此「萌」為龐萌，非建安元年反呂布之郝萌，全段無曹性其人亦無曹性史事；候選命中事件向量「郝萌反」實為「萌反」語義誤配，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "曹性，呂布騎將。建安元年（196）六月夜半，郝萌反呂布，將兵夜攻下邳府；萌將曹性反萌，與對戰，萌刺傷性，性斫萌一臂，高順斬萌首；布謂性曰「卿健兒也」，善養視之，創愈使安撫萌故營、領其眾（《三國志·呂布傳》裴注引《英雄記》，a04-007:8）。此為曹性唯一確指本人的史料；生卒年俱不詳。",
+        "曹性供稱郝萌受袁術之謀、陳宮同謀，布以宮為大將不問；又言萌常以此問，性言呂將軍大將有神、不可擊也（同上）。",
+        "曹性無獨立本傳，確指本人的史料僅見《三國志·呂布傳》裴注引《英雄記》上述一段；其餘 42 條候選皆為「郝萌反」「呂布騎將」等事件向量誤觸，已逐條排除；本傳《呂布傳》（a04-007）全文 27 段僅第 8 段提及曹性，已覆蓋。"
+      ]
     }
   ]
 }
