@@ -162683,7 +162683,7 @@
     {
       "id": "p0292",
       "name": "高幹",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "gaogan-hhs-009-19",
@@ -163746,13 +163746,20 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "高幹字元才，陳留圉縣人，袁紹外甥。初從袁紹，與荀諶同說韓馥讓冀州與紹（gaogan-hhs-074-09、gaogan-sgz-006-18）；袁紹既據冀州，以中子熙為幽州刺史、外甥高幹為并州刺史（gaogan-hhs-074-16、gaogan-sgz-006-20）。幹素貴有名，招致四方遊士，多歸之（gaogan-sgz-021-31、gaogan-hhs-049-28）；仲長統過幹，謂幹「君有雄志而無雄才，好士而不能擇人」，幹雅自多，不納其言（gaogan-hhs-049-28）。",
+        "袁紹死後，高幹附袁尚：建安七年（202）與郭援侵略河東，關右震動，為鍾繇帥馬騰等擊破（gaogan-sgz-010-8、gaogan-sgz-015-15）；太祖征袁尚之際，幹密遣兵謀襲鄴，為荀衍察覺盡誅之（gaogan-sgz-010-9）；河東衞固作亂，幹與張晟、張琰等並為寇，為鍾繇討破（gaogan-sgz-013-2）。",
+        "曹操拔鄴，幹以并州降，復以幹為刺史（gaogan-sgz-001-20、gaogan-sgz-006-25、gaogan-hhs-074b-10）。建安十年（205）幹復叛，執上黨太守，舉兵守壺口關（gaogan-sgz-006-26、gaogan-hhs-074b-14）；十一年舉并州反，勾結河東衞固、范先及張晟，為杜畿以計離間、與大兵合破之（gaogan-sgz-016-10、gaogan-sgz-024-14），此為其由降曹而復叛自立之轉折。",
+        "壺關之戰：太祖遣樂進、李典圍幹於壺關，樂進從北道入上黨、回出其後，連戰斬首，堅守未下，太祖自征乃拔（gaogan-sgz-017-10、gaogan-sgz-018-2）；河北既定，從圍壺關，曹仁諫太祖勿屠城，太祖從之，城降（gaogan-sgz-009-18）。幹反時張琰將舉兵響應，為賈逵修城拒之而敗（gaogan-sgz-015-28）；嚴幹建策捕幹，又追錄其前討郭援之功（gaogan-sgz-023-31）。",
+        "高幹敗亡於建安十一年（206）：幹留夏昭、鄧升守城，自詣匈奴單于求救不得，獨與數騎亡，欲南奔荊州，為上洛都尉捕斬（gaogan-sgz-006-26、gaogan-hhs-074b-14）；裴注引《典略》云上洛都尉王琰獲幹。《後漢書·孝獻帝紀》正文稱「三月，曹操破高幹於并州，獲之」，注引《典論》稱「上洛都尉王琰敗之，追斬其首」，正文「獲」與注文「斬」說法有異，存疑並記（gaogan-hhs-009-19）。幹卒年 206 與原庫互證。",
+        "高幹無獨立本傳，確指本人的史料見《三國志·武帝紀》《袁紹傳》及諸傳、《後漢書·孝獻帝紀》《袁紹傳》《仲長統傳》，共錄 excerpt 30 條（sanguozhi 22、houhanshu 8）、exclusion 84 條。向量候選已枯竭，unresolved 0 條；本傳《三國志·武帝紀》（a04-001，全 47 段）提及高幹的 2 段（20、30）與《袁紹傳》（a04-006，全 39 段）提及高幹的 4 段（18、20、25、26）皆已覆蓋；華陽國志、晉書均無確指高幹之記載。"
+      ]
     }
   ]
 }
