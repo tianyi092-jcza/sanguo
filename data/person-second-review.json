@@ -158408,6 +158408,22 @@
         "曹性供稱郝萌受袁術之謀、陳宮同謀，布以宮為大將不問；又言萌常以此問，性言呂將軍大將有神、不可擊也（同上）。",
         "曹性無獨立本傳，確指本人的史料僅見《三國志·呂布傳》裴注引《英雄記》上述一段；其餘 42 條候選皆為「郝萌反」「呂布騎將」等事件向量誤觸，已逐條排除；本傳《呂布傳》（a04-007）全文 27 段僅第 8 段提及曹性，已覆蓋。"
       ]
+    },
+    {
+      "id": "p0286",
+      "name": "宋憲",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
