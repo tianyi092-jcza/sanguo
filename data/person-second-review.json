@@ -162679,6 +162679,22 @@
         "袁紹死後，郭圖、辛評因此謂袁譚曰：「使先公出將軍為兄後者，皆是審配之所構也。」譚然之，遂引兵攻尚，戰於外門（xinping-hhs-074b-01）。",
         "辛評無獨立本傳，確指本人的史料見《三國志·袁紹傳》《荀彧傳》《郭嘉傳》及《後漢書·袁紹傳》，共錄 excerpt 6 條、exclusion 42 條。向量候選已枯竭，unresolved 0 條；《三國志·袁紹傳》（a04-006，全 39 段）提及辛評的 1 段（25）與《後漢書·袁紹傳》（a03-074，全 42 段）提及辛評的 2 段（40、41）皆已覆蓋；華陽國志、晉書均無確指辛評之記載。辛評生卒年與身後事未見於本次所錄確指史料，配置 year_range 為空，留待後考。"
       ]
+    },
+    {
+      "id": "p0292",
+      "name": "高幹",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
