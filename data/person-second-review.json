@@ -155985,7 +155985,7 @@
     {
       "id": "p0282",
       "name": "董旻",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "dongmin-sgz-006-6",
@@ -156368,17 +156368,30 @@
           "term": "左將軍",
           "quote": "五月，南匈奴左日逐王叛，使匈奴中郎將馬翼討破之。",
           "reason": "《後漢書·卷五·孝安帝紀第五》記南匈奴左日逐王叛事，「左」為左日逐王之左，非左將軍。段中無董旻，與董旻初平年間拜左將軍無關，僅「左將軍」事件向量匹配誤觸。"
+        },
+        {
+          "id": "dongmin-excl-041-a03-001b-p53",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 53,
+          "term": "左將軍",
+          "quote": "三月辛亥，初置青巾左校尉官。",
+          "reason": "《後漢書·卷一下·光武帝紀第一下》記初置青巾左校尉官事，「左」為青巾左校尉之左，非左將軍。段中無董旻，與董旻初平年間拜左將軍無關，僅「左將軍」事件向量匹配誤觸。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "董旻為董卓之弟，初平年間董卓遷都長安、為太師後，拜左將軍、封鄠侯，宗族內外並列朝廷（《三國志·魏書六·董卓傳》正文，a04-006:6）。此為董旻生平核心事實。",
+        "皇甫酈勸李傕之辭以董卓覆亡為戒，並列董旻、董承、董璜為「鯁毒」（a04-006:11），僅提及姓名，無董旻本人具體事蹟。",
+        "董旻無獨立本傳，確指本人的史料僅見於《董卓傳》正文上述兩段；其餘 41 條候選皆為「左將軍」等事件向量誤觸，已逐條排除。"
+      ]
     }
   ]
 }
