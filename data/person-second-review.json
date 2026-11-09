@@ -162186,6 +162186,22 @@
         "逢紀之死：袁尚少與袁譚兵而使逢紀隨之，譚求益兵，審配等議不與，譚怒殺紀。《三國志·袁紹傳》繫於建安七年（202），《後漢書·袁紹傳》四庫全書本繫於建安八年（203），兩書繫年相差一年，存疑待考（fengji-sgz-006-25、fengji-hhs-074b-0）。",
         "逢紀無獨立本傳，確指本人的史料見《三國志·袁紹傳》《荀彧傳》《郭嘉傳》及《後漢書·袁紹傳》《荀彧傳》，共錄 excerpt 10 條、exclusion 44 條。向量候選已枯竭（確含「逢紀」者皆已覆蓋），unresolved 0 條；《三國志·袁紹傳》（a04-006，全 39 段）提及逢紀的 4 段（18、20、23、25）與《後漢書·袁紹傳》（a03-074，全 42 段）提及逢紀的 5 段（9、25、39、40、41）皆已覆蓋；華陽國志、晉書均無確指逢紀之記載。"
       ]
+    },
+    {
+      "id": "p0291",
+      "name": "辛評",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
