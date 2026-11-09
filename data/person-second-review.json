@@ -157998,6 +157998,22 @@
         "郝萌反之餘波：布自萌反後更疏高順，以魏續有外內之親，悉奪順所將兵以與續；及當攻戰，故令順將續所領兵，順亦終無恨意（裴注引《英雄記》，a04-007:12）。",
         "郝萌無獨立本傳，確指本人的史料僅見《三國志·呂布傳》裴注引《英雄記》上述兩段；其餘 89 條候選皆為「高順破之」等事件向量誤觸，已逐條排除。"
       ]
+    },
+    {
+      "id": "p0285",
+      "name": "曹性",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
