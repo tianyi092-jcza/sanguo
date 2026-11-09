@@ -159188,6 +159188,22 @@
         "宋憲降曹一事，兩傳繫年一致（建安三年冬，下邳之圍），可定為建安三年（198）冬；其先後經歷（何時歸布、籍貫、官職）皆無載，不可推補。",
         "宋憲無獨立本傳，確指本人的史料僅見《三國志》上述兩段；其餘 82 條候選皆為「縛陳宮」「下邳將破」等事件向量誤觸，已逐條排除；本傳《呂布傳》（a04-007）全文 27 段僅第 12 段提及宋憲，已覆蓋；後漢書、華陽國志、晉書均無確指宋憲之記載。"
       ]
+    },
+    {
+      "id": "p0287",
+      "name": "魏續",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
