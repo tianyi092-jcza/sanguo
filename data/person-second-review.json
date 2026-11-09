@@ -157155,6 +157155,22 @@
         "晚年官職與卒年：朝廷徵段煨為大鴻臚，後為大鴻臚、光祿大夫，建安十四年（209）以壽終（《三國志·荀彧傳》裴注引《獻帝紀》，a04-010:24；《後漢書·董卓傳》a03-072:36 稱徵為大鴻臚後病卒，卒年未明載）。",
         "段煨無獨立本傳，確指本人的史料僅見於《後漢書·董卓傳》《孝獻帝紀》及《三國志》荀彧傳、鍾繇傳、晉書樂志等處（興平中董遇兄弟依將軍段煨，a04-013:30；李堅曾隨將軍段煨，a05-023-ahcb:5）；其餘 71 條候選皆為「屯華陰」等事件向量誤觸，已逐條排除。"
       ]
+    },
+    {
+      "id": "p0284",
+      "name": "郝萌",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
