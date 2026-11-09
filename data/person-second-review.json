@@ -160650,6 +160650,22 @@
         "侯成降曹一事，兩傳繫年一致（建安三年冬，下邳之圍），可定為建安三年（198）冬；其先後經歷（何時歸布、籍貫、官職）皆無載，不可推補。",
         "侯成無獨立本傳，確指本人的史料僅見《三國志·呂布傳》與《後漢書·呂布傳》上述兩段；其餘 39 條候選皆為「縛陳宮高順」「牧馬」事件向量誤觸，經逐段核對均無侯成、宋憲、魏續、陳宮、高順、下邳、呂布等相關人名地名，不可錄為 excerpt 或 exclusion；本傳《呂布傳》（a04-007）全文 27 段僅第 12 段提及侯成，已覆蓋；華陽國志、晉書均無確指侯成之記載。"
       ]
+    },
+    {
+      "id": "p0289",
+      "name": "郭圖",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
