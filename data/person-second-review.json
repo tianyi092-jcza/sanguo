@@ -158412,7 +158412,7 @@
     {
       "id": "p0286",
       "name": "宋憲",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "songxian-sgz-007-12",
@@ -159177,13 +159177,17 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "宋憲，呂布將。建安三年（198）冬，太祖圍下邳三月，布上下離心，其將侯成、宋憲、魏續縛陳宮、將其眾降（《三國志·呂布傳》正文，a04-007:12）。《三國志·武帝紀》（a04-001:12）互證此事，記「月餘，布將宋憲、魏續等執陳宮、舉城降」；兩傳所記同謀人數略異，武帝紀未提侯成。此為宋憲唯一確指本人的史料；生年不詳，降曹後事蹟不見載。",
+        "宋憲降曹一事，兩傳繫年一致（建安三年冬，下邳之圍），可定為建安三年（198）冬；其先後經歷（何時歸布、籍貫、官職）皆無載，不可推補。",
+        "宋憲無獨立本傳，確指本人的史料僅見《三國志》上述兩段；其餘 82 條候選皆為「縛陳宮」「下邳將破」等事件向量誤觸，已逐條排除；本傳《呂布傳》（a04-007）全文 27 段僅第 12 段提及宋憲，已覆蓋；後漢書、華陽國志、晉書均無確指宋憲之記載。"
+      ]
     }
   ]
 }
