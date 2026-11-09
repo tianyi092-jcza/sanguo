@@ -158413,8 +158413,39 @@
       "id": "p0286",
       "name": "宋憲",
       "status": "pilot",
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "songxian-sgz-007-12",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 12,
+          "from": "太祖塹圍之三月，",
+          "through": "將其衆降。",
+          "citation": "《三國志·呂布傳》",
+          "note": "《三國志·呂布傳》正文：建安三年（198）冬，太祖圍下邳三月，布上下離心，其將侯成、宋憲、魏續縛陳宮、將其眾降。此為宋憲確指本人的核心史料：呂布將，下邳將破時與侯成、魏續縛陳宮降曹；生年不詳，降後事蹟不見載。"
+        },
+        {
+          "id": "songxian-sgz-001-12",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 12,
+          "from": "月餘，布將宋憲、魏續等執陳宮，",
+          "through": "生禽布、宮，皆殺之。",
+          "citation": "《三國志·武帝紀》",
+          "note": "《三國志·武帝紀》：建安三年（198），太祖決泗、沂水灌下邳，月餘，布將宋憲、魏續等執陳宮、舉城降，生禽布、宮皆殺之。與《呂布傳》互證宋憲縛陳宮降曹之事；兩傳所記同謀人數略異，武帝紀未提侯成。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "songxian-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 0,
+          "term": "呂布將",
+          "quote": "呂布傳",
+          "reason": "僅卷首標題「呂布傳」三字，無宋憲其人亦無史事；候選命中事件向量「呂布將」，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
