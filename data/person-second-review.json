@@ -159225,7 +159225,35 @@
           "note": "裴注引《英雄記》層級（非陳壽正文）：魏續為呂布外內之親（姻親），布奪高順所將兵以與續；及當攻戰，故令順將續所領兵，順亦終無恨意。與正文互證魏續為呂布親信將領，官職、籍貫、生卒皆不載。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "weixu-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 0,
+          "term": "呂布將",
+          "quote": "呂布傳",
+          "reason": "僅卷首標題「呂布傳」三字，無魏續其人亦無史事；候選命中事件向量「呂布將」，排除。"
+        },
+        {
+          "id": "weixu-excl-002",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 36,
+          "term": "下邳將破",
+          "quote": "辛丑，下邳王成薨。",
+          "reason": "僅言下邳王劉成薨，無魏續其人亦無下邳破城之事；候選命中事件向量「下邳將破」，排除。"
+        },
+        {
+          "id": "weixu-excl-003",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 22,
+          "term": "舉城降曹",
+          "quote": "張燕旣為紹所敗，人衆稍散。曹操將定兾州，乃率衆詣鄴降，拜平北將軍，封安國亭侯。",
+          "reason": "張燕詣鄴降曹事，與魏續無關；候選命中事件向量「舉城降曹」，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
