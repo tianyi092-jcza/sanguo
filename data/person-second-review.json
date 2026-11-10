@@ -166129,6 +166129,33 @@
           "term": "張勳",
           "quote": "遂歸帝號於紹",
           "reason": "全段為袁術稱帝後困窮、歸帝號於袁紹事，未提及張勳，僅事件信號命中，排除。"
+        },
+        {
+          "id": "zhangxun-excl-a03-009-12",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 12,
+          "term": "張勳",
+          "quote": "夏六月，袁術死。",
+          "reason": "全段為建安四年袁紹攻公孫瓚、袁術死事，未提及張勳，僅「袁術部將」事件信號命中，排除。"
+        },
+        {
+          "id": "zhangxun-excl-a03-074-3",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 3,
+          "term": "張勳",
+          "quote": "中平五年，初置西園八校尉",
+          "reason": "全段為中平五年西園八校尉事，未提及張勳，僅「袁術部將」事件信號命中，排除。"
+        },
+        {
+          "id": "zhangxun-excl-a04-001-14",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "term": "張勳",
+          "quote": "會術病死。",
+          "reason": "全段為建安四年袁術自敗於陳、病死事，未提及張勳，僅「袁術部將」事件信號命中，排除。"
         }
       ],
       "unresolved": [],
