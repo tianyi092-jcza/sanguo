@@ -168125,7 +168125,38 @@
       "id": "p0305",
       "name": "嚴顏",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yanyan-sanguo-zhangfei-jiangzhou",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 9,
+          "from": "至江州，破璋將巴郡太守嚴顏，生獲顏。",
+          "through": "飛壯而釋之，引為賔客。",
+          "citation": "《三國志・蜀書六・關張馬黃趙傳・張飛傳》",
+          "note": "劉璋部將、巴郡太守嚴顏守江州，張飛破之生獲；顏以「我州但有斷頭將軍，無有降將軍」拒降，飛壯而釋之，引為賔客。同段裴注引華陽國志另立條目。"
+        },
+        {
+          "id": "yanyan-peizhu-huayang-fuhu",
+          "work": "peizhu",
+          "source": "a04-036",
+          "paragraph": 9,
+          "from": "華陽國志曰：初，先主入蜀，至巴郡，顏拊心歎曰：",
+          "through": "放虎自衞也！」",
+          "citation": "裴注引《華陽國志》",
+          "note": "裴注引華陽國志層級（非陳壽正文）：先主入蜀至巴郡，嚴顏拊心歎「獨坐窮山，放虎自衞」，言先主入蜀如放虎自衞。與正文江州被擒、張飛釋之分層記，不併入正文條目。"
+        },
+        {
+          "id": "yanyan-sanguo-zhangfei-pingyue",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 25,
+          "from": "評曰：關羽、張飛皆稱萬人之敵，為世虎臣。",
+          "through": "飛義釋嚴顏，並有國士之風。",
+          "citation": "《三國志・蜀書六・關張馬黃趙傳・張飛傳》",
+          "note": "陳壽評曰以「飛義釋嚴顏」與關羽報效曹公並稱國士之風，僅借事為比；評曰主體為關張二人論斷，不作嚴顏生平主值。"
+        }
+      ],
       "exclusions": [
         {
           "id": "yan-excl-001",
