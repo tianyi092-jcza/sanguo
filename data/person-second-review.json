@@ -169047,6 +169047,33 @@
           "term": "張任",
           "quote": "我今未死，汝猶不以我爲帝王",
           "reason": "此段記赫連勃勃殺隱士韋祖思事，全段未提及張任，與張任無關，係事件相似誤檢，排除。"
+        },
+        {
+          "id": "zhangren-excl-042",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 20,
+          "term": "張任",
+          "quote": "乃策馬赴紹軍而死",
+          "reason": "此段記關靖見公孫瓚敗、策馬赴袁紹軍而死事，全段未提及張任，與張任無關，係事件相似誤檢，排除。"
+        },
+        {
+          "id": "zhangren-excl-043",
+          "work": "houhanshu",
+          "source": "a03-017",
+          "paragraph": 36,
+          "term": "張任",
+          "quote": "蜀刺客詐為亡奴降，夜刺殺彭",
+          "reason": "此段記岑彭被蜀刺客刺殺事，全段未提及張任，與張任無關，係事件相似誤檢，排除。"
+        },
+        {
+          "id": "zhangren-excl-044",
+          "work": "jinshu",
+          "source": "a05-086-ahcb",
+          "paragraph": 42,
+          "term": "張任",
+          "quote": "矩終不背主偷生於世",
+          "reason": "此段記宋矩拒降麻秋、先殺妻子自刎而死事，全段未提及張任，與張任無關，係事件相似誤檢，排除。"
         }
       ],
       "unresolved": [],
