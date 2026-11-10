@@ -168033,7 +168033,7 @@
     {
       "id": "p0304",
       "name": "韓嵩",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "hansong-houhan-fengshi",
@@ -168094,18 +168094,32 @@
           "through": "朗少師事司馬德操，與徐元直、韓德高、龐士元皆親善。",
           "citation": "《三國志·蜀書十一 霍王向張楊費傳第十一 向朗傳》",
           "note": "襄陽記稱向朗少時師事司馬德操，與徐庶、韓德高、龐統皆親善；韓德高即韓嵩之字，後漢書劉表傳引先賢行狀曰「嵩字德高」。韓嵩與徐庶、龐統同為荊州名士。"
+        },
+        {
+          "id": "hansong-sanguo-liubiao-xianxian",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 37,
+          "from": "先賢行狀曰：嵩字德高，義陽人。",
+          "through": "荊州平，嵩疾病，就在所拜授大鴻臚印綬。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 劉表傳》",
+          "note": "裴注引先賢行狀：韓嵩字德高，義陽人。少好學，貧不改操；知世將亂，不應三公之命，與同好隱居酈西山中。黃巾起，避難南方，劉表逼以為別駕，轉從事中郎。劉表郊祀天地，嵩正諫不從，漸見違忤。奉使到許事見前注。荊州平，嵩疾病，就在所拜授大鴻臚印綬。"
         }
       ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "韓嵩，字德高，義陽人，荊州名士。少好學，貧不改操；知世將亂，不應三公之命，與同好隱居酈西山中。黃巾起，避難南方，劉表逼以為別駕，轉從事中郎；劉表郊祀天地，嵩正諫不從，漸見違忤（hansong-sanguo-liubiao-xianxian）。官渡相持時與別駕劉先勸劉表舉州附曹，表狐疑，遣嵩詣太祖以觀虛實；嵩至許拜侍中、零陵太守，還勸表遣子入質，表疑嵩反為太祖說而欲殺之，考殺隨行者知無他意乃止，後囚嵩（hansong-sanguo-liubiao-quanshuo；hansong-houhan-fengshi）。建安十三年劉表卒，嵩與蒯越、傅巽等勸劉琮歸降（hansong-houhan-quancong-jiang）；荊州平，嵩疾病，就在所拜授大鴻臚印綬（hansong-sanguo-liubiao-xianxian），曹操引用荊州名士韓嵩、鄧義等（hansong-sanguo-wudi-yinyong）。襄陽記稱向朗與徐元直、韓德高、龐士元皆親善，韓嵩與徐庶、龐統同為荊州名士（hansong-sanguo-xianglang-qinshan）。評曰以韓嵩、劉先說劉表為比，論進不顯陳事勢、兩端攜貳為謀不忠，僅借事為比（hansong-sanguo-liuermu-pingyue）。",
+        "韓嵩確指本人的史料共 7 條 excerpt（《三國志》5：武帝紀 1、劉表傳 2、劉二牧傳評曰 1、向朗傳 1；《後漢書》劉表傳 2），exclusion 0 條。向量候選 46 段已逐條核對，皆為「諫劉表附曹」「佐劉表定荊州」事件相似誤命中，無一段提及韓嵩或德高；unresolved 0 條；本傳補齊：其本傳所附《劉表傳》（a04-006）全 39 段中提及韓嵩/德高僅 2 段（34、37）均已覆蓋；《後漢書》劉表傳（a03-074b）提及韓嵩僅 2 段（21、24）均已覆蓋。",
+        "勢力：事劉表，為其別駕、從事中郎；建安年間勸表附曹、奉使入許，後為表所囚；劉表卒後勸劉琮歸降，荊州平後拜大鴻臚、出仕曹操。生卒年史料無確載，僅知建安十三年（208）荊州平時尚在。"
+      ]
     }
   ]
 }
