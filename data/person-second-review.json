@@ -168631,6 +168631,22 @@
         "裴注引《華陽國志》：先主入蜀至巴郡，顏拊心歎「獨坐窮山，放虎自衞」，言先主入蜀如放虎自衞；陳壽評曰稱「飛義釋嚴顏，並有國士之風」，僅借事為比（yanyan-peizhu-huayang-fuhu；yanyan-sanguo-zhangfei-pingyue）。",
         "嚴顏確指本人的史料共 3 條 excerpt（《三國志》張飛傳正文 2、裴注引華陽國志 1），exclusion 51 條。向量候選 2 段皆為「張飛釋之引為賓客」事件相似誤命中，全段無「嚴顏」二字；unresolved 0 條；本傳補齊：其所見《張飛傳》（a04-036）全 26 段中提及嚴顏僅 2 段（9、25）均已覆蓋。嚴顏無獨立本傳，字、生卒年、籍貫史料無確載。"
       ]
+    },
+    {
+      "id": "p0306",
+      "name": "張任",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
