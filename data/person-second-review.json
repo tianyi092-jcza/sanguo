@@ -170065,6 +170065,33 @@
           "term": "青州刺史",
           "quote": "石季龍攻陷青州，刺史曹嶷遇害",
           "reason": "此「青州刺史」指曹嶷，非田楷；段中無田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-010",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 23,
+          "term": "交州刺史",
+          "quote": "代步隲為交州刺史",
+          "reason": "此「交州刺史」指呂岱，非田楷；段中無田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-011",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 24,
+          "term": "瓚",
+          "quote": "膺子瓚，位至東平相。",
+          "reason": "此「瓚」為膺之子，非公孫瓚；段中無田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-012",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 1,
+          "term": "公孫瓚青州刺史",
+          "quote": "公孫瓚字伯珪，遼西令支人也。",
+          "reason": "述公孫瓚出身及早年仕履，未及青州刺史事，亦無田楷，排除。"
         }
       ],
       "unresolved": [],
