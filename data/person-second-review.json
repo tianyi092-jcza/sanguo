@@ -171895,6 +171895,33 @@
           "term": "高涼郡",
           "quote": "高涼郡吳置。統縣三，戶二千。",
           "reason": "《晉書·地理志》高涼郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-shaoling",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 67,
+          "term": "邵陵郡",
+          "quote": "邵陵郡吳置。統縣六，戶一萬二千。",
+          "reason": "《晉書·地理志》邵陵郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-wuchang",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 71,
+          "term": "武昌郡",
+          "quote": "武昌郡吳置。統縣七，戶一萬四千八百。",
+          "reason": "《晉書·地理志》武昌郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-shian",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 135,
+          "term": "始安郡",
+          "quote": "始安郡吳置。統縣七，戶六千。",
+          "reason": "《晉書·地理志》始安郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
