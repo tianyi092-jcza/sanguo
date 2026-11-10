@@ -166225,6 +166225,22 @@
         "張勳無獨立本傳，確指本人的史料僅見上述 6 條 excerpt（《三國志》4，含裴注引《江表傳》1；《後漢書·袁術傳》2），exclusion 18 條。向量候選已枯竭，unresolved 0 條；本傳補齊：《袁術傳》（a04-006）提及張勳僅 1 段（28）已覆蓋；《呂布傳》（a04-007）提及僅 1 段（11）已覆蓋；《孫策傳》（a04-046）提及 2 段（10、12）已覆蓋；《後漢書·袁術傳》（a03-075）提及 2 段（23、36）已覆蓋；其餘候選皆為同名誤擊或「袁術部將」事件信號誤命中，已逐條排除。須與廬江太守劉勳嚴格區分。",
         "勢力：終身為袁術部將；建安四年袁術死後率眾欲歸孫策，未及歸附即為劉勳所虜。生年不詳，卒年不詳。"
       ]
+    },
+    {
+      "id": "p0299",
+      "name": "閻象",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
