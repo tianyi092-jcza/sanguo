@@ -166722,7 +166722,7 @@
     {
       "id": "p0301",
       "name": "蒯良",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "kuailiang-pei-zhanlue-renyi-dui",
@@ -166999,13 +166999,17 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "蒯良，字子柔，南郡中廬人。劉表初為荊州刺史，單馬入宜城，延蒯良、蒯越、蔡瑁與謀；蒯良對曰「衆不附者，仁不足也，附而不治者，義不足也；苟仁義之道行，百姓歸之如水之趣下」，劉表稱「子柔之言，雍季之論也」（kuailiang-pei-zhanlue-renyi-dui）。此後事蹟史料無載，生卒年皆無考。",
+        "蒯良無獨立本傳，確指本人的史料僅見上述 1 條 excerpt（《三國志·劉表傳》裴注引司馬彪《戰略》），exclusion 26 條。向量候選已枯竭，unresolved 0 條；本傳補齊：其本傳所附《劉表傳》（a04-006）全 39 段中提及蒯良僅 1 段（32）已覆蓋；其餘候選皆為「劉表初入荊州之謀主」事件信號誤命中，已逐條排除；其弟蒯越（字異度）相關段落已嚴格分開。",
+        "勢力：事劉表，為其初入荊州之謀主；生年不詳，卒年不詳。"
+      ]
     }
   ]
 }
