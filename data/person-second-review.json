@@ -168126,7 +168126,35 @@
       "name": "嚴顏",
       "status": "pilot",
       "excerpts": [],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yan-excl-001",
+          "work": "houhanshu",
+          "source": "a03-043.json",
+          "paragraph": 35,
+          "term": "嚴顏",
+          "quote": "犯主嚴顏，譏刺貴臣",
+          "reason": "「犯主嚴顏」為犯顏直諫之義，「嚴顏」非人名；此段為後漢書臣僚上封事論忠臣犯顏，與巴郡太守嚴顏無關，排除。"
+        },
+        {
+          "id": "yan-excl-002",
+          "work": "houhanshu",
+          "source": "a03-078.json",
+          "paragraph": 11,
+          "term": "嚴顏",
+          "quote": "數犯嚴顏，匡弼得失",
+          "reason": "「數犯嚴顏」謂屢犯顏直諫、匡弼得失，「嚴顏」為一般用語而非人名；此段記倫（馬倫）事，與巴郡太守嚴顏無關，排除。"
+        },
+        {
+          "id": "yan-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-019.json",
+          "paragraph": 10,
+          "term": "嚴顏",
+          "quote": "帝猶嚴顏色，不與語",
+          "reason": "「帝猶嚴顏色」謂明帝面色嚴厲，「嚴顏」為容色之義而非人名；此段為魏略、魏氏春秋記曹植事，與巴郡太守嚴顏無關，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
