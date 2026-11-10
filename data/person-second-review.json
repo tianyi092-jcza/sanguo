@@ -171376,6 +171376,33 @@
           "term": "笮融",
           "quote": "其劉繇、笮融等故鄉部曲來降首者，一無所問",
           "reason": "《三國志·孫策傳》記孫策招降劉繇、笮融故鄉部曲事，僅提笮融其人，未提趙昱，亦未涉趙昱為笮融所殺事，排除。"
+        },
+        {
+          "id": "zhaoyu-jinshu-juan9-diaoyi-guangling",
+          "work": "jinshu",
+          "source": "a05-009-ahcb",
+          "paragraph": 29,
+          "term": "廣陵",
+          "quote": "吳國內史刁彝爲北中郎將、徐兗二州刺史，鎮廣陵",
+          "reason": "《晉書·卷九》記刁彝為北中郎將、徐兗二州刺史、鎮廣陵事，僅提廣陵地名，未提趙昱其人，與趙昱任廣陵太守無關，排除。"
+        },
+        {
+          "id": "zhaoyu-jinshu-guangling-junzhi-sidneyluo",
+          "work": "jinshu",
+          "source": "a05-015",
+          "paragraph": 15,
+          "term": "廣陵太守",
+          "quote": "廣陵郡漢置。統縣八，戶八千八百。",
+          "reason": "《晉書·地理志》僅述廣陵郡建置與戶數，未提趙昱其人，與趙昱任廣陵太守無關，排除。"
+        },
+        {
+          "id": "zhaoyu-houhanshu-juan6-zhangying",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 192,
+          "term": "廣陵",
+          "quote": "九月庚寅，廣陵盜賊張嬰等寇郡縣。",
+          "reason": "《後漢書·卷六》記廣陵盜賊張嬰寇郡縣事，僅提廣陵地名，未提趙昱其人，與趙昱任廣陵太守無關，排除。"
         }
       ],
       "coverage": {
