@@ -166470,7 +166470,7 @@
     {
       "id": "p0300",
       "name": "楊弘",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yanghong-sgz-046-12",
@@ -166707,13 +166707,17 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "楊弘，袁術長史。建安四年（199）袁術死後，長史楊弘與大將張勳等率其眾欲就孫策，途中為廬江太守劉勳邀擊，悉虜之，收其珍寶以歸（yanghong-sgz-046-12）。生卒年、籍貫、字皆無考，此後事蹟史料無載。",
+        "楊弘無獨立本傳，確指本人的史料僅見上述 1 條 excerpt（《三國志·孫策傳》1），exclusion 22 條。向量候選已枯竭，unresolved 0 條；本傳補齊：《孫策傳》（a04-046）提及楊弘僅 1 段（12）已覆蓋；其餘候選皆為「袁術長史」事件信號誤命中，已逐條排除；同名異人嘉平元年（249）王淩所遣將軍楊弘（yanghong-excl-a04-028-3）已排除。",
+        "勢力：終身事袁術，任長史；建安四年術死後欲歸孫策，途中為劉勳所虜。生年不詳，卒年不詳。"
+      ]
     }
   ]
 }
