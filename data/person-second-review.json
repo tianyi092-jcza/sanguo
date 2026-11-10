@@ -167552,6 +167552,22 @@
         "向量候選已枯竭，unresolved 0 條；本傳補齊：其本傳所附《劉表傳》（a04-006）全 39 段中提及蒯越者為 32、34、36、37 四段皆已覆蓋；第 25 段「蒯聵」為春秋衛人，與蒯越無關，已記 exclusion；其餘候選皆為「佐劉表定荊州」事件信號誤命中，已逐條排除；其兄蒯良（字子柔）相關段落已嚴格分開。",
         "勢力：初佐劉表定荊州，為其謀主；建安十三年說劉琮降曹，歸曹操。生年不詳，卒年不詳。"
       ]
+    },
+    {
+      "id": "p0303",
+      "name": "蔡瑁",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
