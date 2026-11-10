@@ -170146,6 +170146,33 @@
           "term": "公孫瓚",
           "quote": "自號「白馬義從」",
           "reason": "述公孫瓚白馬義從事，未提田楷，與田楷無關，排除。"
+        },
+        {
+          "id": "tiankai-excl-019",
+          "work": "houhanshu",
+          "source": "a03-112",
+          "paragraph": 15,
+          "term": "青州刺史部",
+          "quote": "右青州刺史部，郡、國六，縣六十五。",
+          "reason": "郡國志青州刺史部總述，未提田楷，與田楷無關，排除。"
+        },
+        {
+          "id": "tiankai-excl-020",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 5,
+          "term": "三州刺史",
+          "quote": "遂置三州刺史，圖滅袁氏",
+          "reason": "述公孫瓚置三州刺史、圖滅袁氏事，未提田楷，與田楷無關，排除。"
+        },
+        {
+          "id": "tiankai-excl-021",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 9,
+          "term": "公孫瓚",
+          "quote": "瓚還郡，舉孝廉，除遼東屬國長史。",
+          "reason": "述公孫瓚早年還郡、除遼東屬國長史事，未提田楷，與田楷無關，排除。"
         }
       ],
       "unresolved": [],
