@@ -170333,6 +170333,33 @@
           "term": "為劉繇所破",
           "quote": "劉繇傳",
           "reason": "卷首傳目，僅標題，無笮融其人，排除。"
+        },
+        {
+          "id": "zerong-excl-004",
+          "work": "jinshu",
+          "source": "a05-015",
+          "paragraph": 15,
+          "term": "督廣陵漕運",
+          "quote": "廣陵郡漢置。統縣八，戶八千八百。",
+          "reason": "《晉書·地理志》廣陵郡條，僅郡縣名錄，無笮融其人，排除。"
+        },
+        {
+          "id": "zerong-excl-005",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 24,
+          "term": "陶謙所寵信",
+          "quote": "陶謙字恭祖，丹陽人也。",
+          "reason": "《後漢書·陶謙傳》首段，僅敘陶謙出身早年，無笮融其人，排除。"
+        },
+        {
+          "id": "zerong-excl-006",
+          "work": "houhanshu",
+          "source": "a03-076",
+          "paragraph": 58,
+          "term": "為劉繇所破",
+          "quote": "袁術遣孫策攻破繇，因奔豫章，病卒。",
+          "reason": "《後漢書·劉繇傳》，敘劉繇敗於孫策、奔豫章病卒，全段無笮融其人，排除。"
         }
       ],
       "coverage": {
