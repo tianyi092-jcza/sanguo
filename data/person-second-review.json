@@ -167556,7 +167556,7 @@
     {
       "id": "p0303",
       "name": "蔡瑁",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "caimao-houhan-ruyicheng-mou",
@@ -168018,13 +168018,17 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "蔡瑁，字德珪，襄陽人，劉表妻弟。劉表初為荊州刺史，單馬入宜城，請南郡人蒯越、襄陽人蔡瑁與共謀畫（caimao-houhan-ruyicheng-mou），與《三國志·劉表傳》裴注引司馬彪《戰略》「延中廬人蒯良、蒯越、襄陽人蔡瑁與謀」互證（caimao-sanguo-zhanlue-mou）；為劉表初定荊州的謀臣之一。劉表及妻愛少子琮，欲以為後，蔡瑁與外甥張允為之支黨，長子琦被出為江夏太守，衆遂奉琮為嗣（caimao-sanguo-zhidang-chuqi）；《後漢書》劉表傳亦載「妻弟蔡瑁及外甥張允並得幸於表，又睦於琮」（caimao-houhan-dexing-yumu）。裴注引《世語》異說：劉備屯樊城，蒯越、蔡瑁欲因宴會取備，備覺而遁；同段孫盛駁曰「此不然之言」「皆世俗妄說，非事實也」，僅作異說存錄，不作正史實錄（caimao-sanguo-shiyu-yanhui）。",
+        "蔡瑁確指本人的史料共 5 條 excerpt（《三國志》劉表傳正文 1、裴注 2、《後漢書》劉表傳 2），exclusion 45 條。向量候選已枯竭，unresolved 0 條；本傳補齊：其本傳所附《劉表傳》（a04-006）全 39 段中提及蔡瑁僅 2 段（32、36）均已覆蓋；其餘候選皆為「佐劉表定荊州」「說劉琮降曹」事件相似誤命中，已逐條排除；同名劉瑁（劉璋之兄）、全琮等已嚴格分開。說劉琮降曹一事見於他傳諸段，皆未具名提及蔡瑁，依全字匹配原則以 exclusion 記，不錄為本人摘錄。",
+        "勢力：事劉表，為其妻弟、初定荊州之謀主；劉表卒後為劉琮支黨，建安十三年（208）說琮降曹，歸曹操。生年不詳；卒年史料無確載，僅知建安十三年說琮降時尚在。"
+      ]
     }
   ]
 }
