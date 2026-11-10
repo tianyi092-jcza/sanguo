@@ -169129,7 +169129,7 @@
     {
       "id": "p0307",
       "name": "鄭度",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "zhengdu-peizhu-huayang-shenfen",
@@ -169408,17 +169408,36 @@
           "term": "鄭度",
           "quote": "評曰：劉封處嫌疑之地，而思防不足以自衞",
           "reason": "此段為《三國志·卷四十　蜀書十》評曰，總評劉封、彭羕、廖立、李嚴、魏延、楊儀、劉琰，全段未提及鄭度，與鄭度無關，係事件相似誤檢，排除。"
+        },
+        {
+          "id": "zhengdu-excl-025",
+          "work": "jinshu",
+          "source": "a05-063-ahcb",
+          "paragraph": 24,
+          "term": "鄭度",
+          "quote": "劉琨承制，假浚河南尹",
+          "reason": "此段為《晉書·卷六十三》，記劉琨假祖逖河南尹、祖逖詣荀藩諮謀軍事等事，全段未提及鄭度，與鄭度無關，係事件相似誤檢，排除。"
+        },
+        {
+          "id": "zhengdu-excl-026",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 49,
+          "term": "鄭度",
+          "quote": "石季龍濟自長壽津，寇梁國，害內史荀闔",
+          "reason": "此段為《晉書·卷一百四　載記第四》石勒載記，記石季龍寇梁國、劉琨與段匹磾謀討石勒等事，全段未提及鄭度，與鄭度無關，係事件相似誤檢，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": {},
+      "reviewedOn": "2026-11-11"
     }
   ]
 }
