@@ -167014,7 +167014,7 @@
     {
       "id": "p0302",
       "name": "蒯越",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "kuaiyue-houhan-zongzei-ce",
@@ -167527,17 +167527,31 @@
           "quote": "權拜瑜偏將軍，領南郡太守",
           "reason": "《三國志·吳書九 周瑜魯肅呂蒙傳第九 周瑜傳》：段落述周瑜拜偏將軍領南郡太守、上疏論劉備事，全段未提及蒯越；「佐劉表定荊州」事件語義誤命中，排除。",
           "citation": "《三國志·吳書九 周瑜魯肅呂蒙傳第九 周瑜傳》"
+        },
+        {
+          "id": "kuaiyue-excl-a04-006-25",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 25,
+          "term": "蒯越",
+          "quote": "昔衞靈公廢蒯聵而立輙，蒯聵為不道",
+          "reason": "《三國志·魏書六 劉表傳》裴注引《漢晉春秋》載審配獻書於袁譚，引春秋衛靈公子蒯聵廢立事為例；「蒯聵」為春秋衛人，與蒯越同姓異人，段落述袁譚、袁尚爭嗣，與蒯越無關，排除。",
+          "citation": "《三國志·魏書六 董卓袁紹袁術劉表傳第六 劉表傳》"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "蒯越，字異度，南郡中廬人。劉表初為荊州刺史，單馬入宜城，蒯越與其兄蒯良、蔡瑁與謀，佐劉表定荊州（kuaiyue-sanguo-zongzei-ce）。建安十三年劉表卒、劉琮代立，蒯越與韓嵩、傅巽等說琮歸降曹操，琮舉州降（kuaiyue-sanguo-shuo-cong-jiangcao）；《後漢書·劉表傳》同載（kuaiyue-houhan-shuo-cong-jiang）。降後封列侯、拜光祿勳（kuaiyue-houhan-feng-hou-guanglu）。",
+        "向量候選已枯竭，unresolved 0 條；本傳補齊：其本傳所附《劉表傳》（a04-006）全 39 段中提及蒯越者為 32、34、36、37 四段皆已覆蓋；第 25 段「蒯聵」為春秋衛人，與蒯越無關，已記 exclusion；其餘候選皆為「佐劉表定荊州」事件信號誤命中，已逐條排除；其兄蒯良（字子柔）相關段落已嚴格分開。",
+        "勢力：初佐劉表定荊州，為其謀主；建安十三年說劉琮降曹，歸曹操。生年不詳，卒年不詳。"
+      ]
     }
   ]
 }
