@@ -170189,6 +170189,22 @@
         "勢力繫年：公孫瓚部將，瓚以其為青州刺史，據有齊地，與袁紹連戰二年；劉備曾在其麾下拒袁紹，後去楷歸陶謙；初平四年救陶謙抗曹。袁紹遣長子譚為青州，北排田楷，楷敗退還。",
         "生卒：卒建安四年（199 年）公孫瓚易京敗亡之際，與袁紹戰死，僅見《後漢書》；原庫「兵窮自刎」一說，本傳及已檢史料無對應段落，不予採信；生年未詳。"
       ]
+    },
+    {
+      "id": "p0311",
+      "name": "笮融",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
