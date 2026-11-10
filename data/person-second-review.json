@@ -167557,7 +167557,38 @@
       "id": "p0303",
       "name": "蔡瑁",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "caimao-houhan-ruyicheng-mou",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 18,
+          "from": "請南郡人蒯越、襄陽人蔡瑁與共謀畫。",
+          "through": "請南郡人蒯越、襄陽人蔡瑁與共謀畫。",
+          "citation": "《後漢書·卷七十四下 袁紹劉表列傳下 劉表傳》",
+          "note": "後漢書劉表傳：劉表單馬入宜城，請南郡人蒯越、襄陽人蔡瑁與共謀畫；蔡瑁為劉表初定荊州的謀臣之一。與《三國志》劉表傳裴注引《戰略》同事件互證（caimao-sanguo-zhanlue-mou）。"
+        },
+        {
+          "id": "caimao-sanguo-zhanlue-mou",
+          "work": "peizhu",
+          "source": "a04-006",
+          "paragraph": 32,
+          "from": "表初到，單馬入宜城，而延中廬人蒯良、蒯越、襄陽人蔡瑁與謀。",
+          "through": "表初到，單馬入宜城，而延中廬人蒯良、蒯越、襄陽人蔡瑁與謀。",
+          "citation": "《三國志·魏書六 董卓袁紹袁術劉表傳第六 劉表傳》裴注引司馬彪《戰略》",
+          "note": "裴注引《戰略》：劉表初為荊州，單馬入宜城，延蒯良、蒯越、蔡瑁與謀；蔡瑁襄陽人，與蒯氏兄弟同為劉表初至荊州的謀畫者。與《後漢書》劉表傳同事件互證（caimao-houhan-ruyicheng-mou）。"
+        },
+        {
+          "id": "caimao-sanguo-zhidang-chuqi",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 36,
+          "from": "初，表及妻愛少子琮，欲以為後，而蔡瑁、張允為之支黨，乃出長子琦為江夏太守，衆遂奉琮為嗣。",
+          "through": "初，表及妻愛少子琮，欲以為後，而蔡瑁、張允為之支黨，乃出長子琦為江夏太守，衆遂奉琮為嗣。",
+          "citation": "《三國志·魏書六 董卓袁紹袁術劉表傳第六 劉表傳》",
+          "note": "劉表及妻愛少子琮，欲以為後，蔡瑁與張允為之支黨，長子琦被出為江夏太守，衆遂奉琮為嗣。蔡瑁為劉琮嗣立的支黨。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
