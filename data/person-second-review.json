@@ -171430,6 +171430,33 @@
           "term": "為笮融所殺",
           "quote": "建安五年，曹公與袁紹相拒於官渡，策陰欲襲許，迎漢帝",
           "reason": "《三國志·孫破虜討逆傳》此段記建安五年孫策欲襲許、殺于吉、為許貢客所殺事，全段未提趙昱亦未提笮融，與趙昱為笮融所殺無關，排除。"
+        },
+        {
+          "id": "zhaoyu-jinshu-juan123-hegeng-dingling",
+          "work": "jinshu",
+          "source": "a05-123-ahcb",
+          "paragraph": 28,
+          "term": "廣陵太守",
+          "quote": "清河太守賀耕聚眾定陵以叛，南應翟遼，慕容農討斬之，毀定陵城。",
+          "reason": "《晉書》此段記清河太守賀耕聚眾定陵叛事，全段未提趙昱亦未提廣陵太守，與趙昱無關，排除。"
+        },
+        {
+          "id": "zhaoyu-jinshu-juan90-guang-zhongjiang",
+          "work": "jinshu",
+          "source": "a05-090-ahcb",
+          "paragraph": 30,
+          "term": "廣陵太守",
+          "quote": "廣字仲將。舉孝廉，除靈壽令，不之官。",
+          "reason": "《晉書》此段為某廣（字仲將）之行事，記其舉孝廉、為堂邑令等事，全段未提趙昱亦未提廣陵太守，與趙昱無關，排除。"
+        },
+        {
+          "id": "zhaoyu-houhanshu-juan44-huguang",
+          "work": "houhanshu",
+          "source": "a03-044",
+          "paragraph": 20,
+          "term": "廣陵太守",
+          "quote": "胡廣字伯始，南郡華容人也。",
+          "reason": "《後漢書》此段為胡廣（字伯始）傳首段，記其六世祖胡剛事，全段未提趙昱亦未提廣陵太守，與趙昱無關，排除。"
         }
       ],
       "coverage": {
