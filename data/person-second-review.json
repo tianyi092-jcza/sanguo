@@ -167618,6 +167618,33 @@
           "term": "劉琮請降",
           "quote": "子琮代立，遣使請降。",
           "reason": "本段記劉琮代立後遣使請降及劉備南走，通段未提及蔡瑁其名；候選由「說劉琮降曹」事件相似命中，實與蔡瑁本人無直接關聯，排除。"
+        },
+        {
+          "id": "caimao-excl-quancong-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 14,
+          "term": "全琮上疏",
+          "quote": "琮上疏陳羽可討之計，權時已與呂蒙陰議襲之，恐事泄，故寢琮表不荅。",
+          "reason": "本段之「琮」為吳將全琮（《三國志》卷六十全琮傳），記其上疏陳討關羽之計，與劉琮、蔡瑁皆無關；候選由「說劉琮降曹」事件名中「琮」字相似命中，實為同名異人，排除。"
+        },
+        {
+          "id": "caimao-excl-houhan-xiangyang-jiang",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 25,
+          "term": "琮舉州請降",
+          "quote": "及操軍到襄陽，琮舉州請降，劉備奔夏口。",
+          "reason": "本段記劉琮舉州請降及曹操封賞蒯越、劉先等人，通段未提及蔡瑁其名；雖蔡瑁曾勸劉琮降曹，但本段未載其人其事，依全字匹配原則排除（與 caimao-excl-xianzhu-12nian 同事件他段）。"
+        },
+        {
+          "id": "caimao-excl-panzhang-qinyu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 60,
+          "term": "潘璋禽關羽",
+          "quote": "權征關羽，璋與朱然斷羽走道，到臨沮，住夾石。",
+          "reason": "本段為潘璋傳，記潘璋、朱然斷關羽走道、馬忠禽羽，通段未提及蔡瑁其名；候選由「佐劉表定荊州」事件相似命中，實與蔡瑁本人無直接關聯，排除。"
         }
       ],
       "unresolved": [],
