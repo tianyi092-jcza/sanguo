@@ -166466,6 +166466,22 @@
         "閻象無獨立本傳，確指本人的史料僅見上述 2 條 excerpt（《三國志·袁術傳》1；《後漢書·袁術傳》1），exclusion 20 條。向量候選已枯竭，unresolved 0 條；本傳補齊：《袁術傳》（a04-006）提及閻象僅 1 段（30）已覆蓋；其餘候選皆為「袁術主簿」事件信號誤命中，已逐條排除。",
         "勢力：終身事袁術，任主簿；興平二年諫阻僭號後事蹟無載。生年不詳，卒年不詳。"
       ]
+    },
+    {
+      "id": "p0300",
+      "name": "楊弘",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
