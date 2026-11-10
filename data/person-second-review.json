@@ -171349,7 +171349,35 @@
           "note": "三國志正文層（張紘傳）：琅邪趙昱為廣陵太守時察舉張紘為孝廉；昱後為笮融所殺，紘甚傷憤而力不能討；昱門戶絕滅，紘在東部都尉任上遣主簿至琅邪設祭、求親戚為之後，臧宣以趙宗中五歲男奉昱祀，權聞而嘉之。證昱曾任廣陵太守並察舉張紘，及遇害後絕嗣、由張紘為之立後的情形。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhaoyu-jinshu-guangling-junzhi",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 25,
+          "term": "廣陵太守",
+          "quote": "廣陵郡漢置。統縣八，戶八千八百。",
+          "reason": "《晉書·地理志》僅述廣陵郡建置與戶數，未提趙昱其人，與趙昱任廣陵太守無關，排除。"
+        },
+        {
+          "id": "zhaoyu-houhanshu-guanglinghou-yuanshou",
+          "work": "houhanshu",
+          "source": "a03-042",
+          "paragraph": 65,
+          "term": "廣陵太守",
+          "quote": "十四年，封荊子元壽為廣陵侯，服王璽綬，食荊故國六縣",
+          "reason": "《後漢書》所記為廣陵侯劉荊之子元壽封侯事，東漢初年事，與三國時廣陵太守趙昱無關，排除。"
+        },
+        {
+          "id": "zhaoyu-sanguozhi-sunce-zerong-buqu",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "term": "笮融",
+          "quote": "其劉繇、笮融等故鄉部曲來降首者，一無所問",
+          "reason": "《三國志·孫策傳》記孫策招降劉繇、笮融故鄉部曲事，僅提笮融其人，未提趙昱，亦未涉趙昱為笮融所殺事，排除。"
+        }
+      ],
       "coverage": {
         "sanguozhi": "in-progress",
         "peizhu": "in-progress",
