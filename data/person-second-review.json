@@ -170306,7 +170306,35 @@
           "note": "三國志正文層（呂範傳）：孫策定秣陵、曲阿後收笮融、劉繇餘衆，呂範增兵二千；證融敗亡後其部衆歸孫策，與孫策傳 a04-046:11「劉繇、笮融等故鄉部曲來降」互證。段內「江表傳曰」句為裴注，不在引用範圍。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zerong-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 7,
+          "term": "陶謙所寵信",
+          "quote": "陶謙傳",
+          "reason": "卷首傳目，僅標題，無笮融其人，亦無陶謙寵信事，排除。"
+        },
+        {
+          "id": "zerong-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 17,
+          "term": "為劉繇所破",
+          "quote": "是歲，太祖自宛征呂布",
+          "reason": "述太祖征呂布、下邳灌城、生禽布事，段中無笮融，係向量誤擊，排除。"
+        },
+        {
+          "id": "zerong-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-049",
+          "paragraph": 0,
+          "term": "為劉繇所破",
+          "quote": "劉繇傳",
+          "reason": "卷首傳目，僅標題，無笮融其人，排除。"
+        }
+      ],
       "coverage": {
         "sanguozhi": "in-progress",
         "peizhu": "in-progress",
