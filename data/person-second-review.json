@@ -165634,7 +165634,35 @@
           "note": "裴注引《英雄記》層級（非陳壽正文）：建安元年（196）袁術遣將紀靈等步騎三萬攻劉備，備求救於呂布，呂布轅門射戟解之。本傳正文此段僅記「備東擊術，布襲取下邳」等事，不提紀靈，故紀靈事蹟在三國志繫於此裴注句；與《後漢書·呂布傳》正文互證（jiling-hhs-075-33a、jiling-hhs-075-33b）。按句子級裴注摘錄，只摘含「紀靈」全名之句。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "jiling-excl-a04-006-27",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 27,
+          "term": "紀靈",
+          "quote": "袁術傳",
+          "reason": "僅為《袁術傳》卷首標題，無正文內容；全卷檢索「紀靈」無命中，排除。"
+        },
+        {
+          "id": "jiling-excl-a04-006-28",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "term": "紀靈",
+          "quote": "以張勳、橋蕤等為大將軍。",
+          "reason": "袁術傳開篇述袁術生平與所用大將張勳、橋蕤，全段未提及紀靈；全卷檢索「紀靈」無命中，排除。"
+        },
+        {
+          "id": "jiling-excl-a03-075-18",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 18,
+          "term": "紀靈",
+          "quote": "袁術字公路，汝南汝陽人，司空逢之子也。",
+          "reason": "《後漢書·袁術傳》開篇述袁術家世出身，全段未提及紀靈；該卷「紀靈」僅見第 33 段（已錄 jiling-hhs-075-33a/b），排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
