@@ -163764,7 +163764,7 @@
     {
       "id": "p0293",
       "name": "顏良",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yanliang-hhs-074-34a",
@@ -164242,17 +164242,42 @@
           "quote": "遂殺王尋",
           "citation": "《後漢書·卷一上 光武帝紀第一上》",
           "reason": "《後漢書·卷一上 光武帝紀第一上》正文，更始二年昆陽之戰、光武破王尋王邑事，全段未提及顏良；「王尋」非顏良，候選係事件信號誤觸，排除。"
+        },
+        {
+          "id": "yanliang-excl-039",
+          "work": "sanguozhi",
+          "source": "a04-060",
+          "paragraph": 14,
+          "term": "顏良",
+          "quote": "琮上疏陳羽可討之計",
+          "citation": "《三國志·吳書十五 賀全呂周鍾離傳第十五 全琮傳》",
+          "reason": "《三國志·吳書十五 賀全呂周鍾離傳第十五 全琮傳》正文，建安二十四年（219）：全琮上疏陳關羽可討之計，孫權襲殺關羽後封全琮陽華亭侯事，全段未提及顏良；候選係事件信號「白馬之戰為關羽所斬」中「關羽」誤觸，排除。顏良死於建安五年（200）白馬之戰，與此無關。"
+        },
+        {
+          "id": "yanliang-excl-040",
+          "work": "houhanshu",
+          "source": "a03-065",
+          "paragraph": 49,
+          "term": "顏良",
+          "quote": "更封新豐縣侯，邑萬戶",
+          "citation": "《後漢書·卷六十五 列傳第五十五 段熲傳》",
+          "reason": "《後漢書·卷六十五 列傳第五十五 段熲傳》正文：敘段熲征邊功績、更封新豐縣侯事，全段未提及顏良；候選係事件信號誤觸，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "顏良，袁紹部將，勇冠三軍之名將。建安三年（198）孔融評袁紹陣容，稱顏良、文醜「勇冠三軍，統其兵」；荀彧則判「顏良、文醜，一夫之勇耳，可一戰而禽也」（yanliang-sgz-010-06、yanliang-hhs-070-36）；建安五年（200）袁紹攻許前，以顏良、文醜為將帥，簡精卒十萬、騎萬匹（yanliang-sgz-006-20、yanliang-hhs-074-25）。",
+        "白馬之戰：建安五年（200）二月，袁紹遣郭圖、淳于瓊、顏良攻劉延於白馬，紹自引兵至黎陽；夏四月曹操北救劉延，用荀攸計分紹兵勢、輕兵襲白馬，使張遼、關羽前登，擊破斬良，遂解白馬圍（yanliang-sgz-001-15、yanliang-sgz-006-22、yanliang-hhs-074-34a、yanliang-hhs-074-34b）。關羽望見良麾蓋，策馬刺良於萬衆之中，斬其首還（yanliang-sgz-036-02）。荀攸畫策斬良（yanliang-sgz-010-18）、徐晃從破顏良、拔白馬（yanliang-sgz-017-23）為側證；董昭傳佐證袁紹遣顏良攻東郡、良死後曹軍進圍鄴城之時序（yanliang-sgz-014-21）。",
+        "荀彧事後總述「顏良、文醜臨陣授首……皆如彧所策」（yanliang-sgz-010-07），此為事後概括之語；顏良實為同年白馬之戰為關羽所斬，詳見關羽傳摘錄（a04-036:2）。顏良生年不詳，卒建安五年（200），與原庫互證。",
+        "顏良無獨立本傳，確指本人的史料見《三國志·武帝紀》《袁紹傳》《荀彧荀攸賈詡傳》《程郭董劉蔣劉傳》《關羽傳》及《後漢書·袁紹傳》《荀彧傳》，共錄 excerpt 13 條（sanguozhi 9、houhanshu 4）、exclusion 40 條。向量候選已枯竭，unresolved 0 條；本傳附見《三國志·關羽傳》（a04-036，全 26 段）提及顏良的 1 段（2）已覆蓋；華陽國志（1 條）、晉書（10 條）候選皆已排除，均無確指顏良之 excerpt。"
+      ]
     }
   ]
 }
