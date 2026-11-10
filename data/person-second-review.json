@@ -168120,6 +168120,22 @@
         "韓嵩確指本人的史料共 7 條 excerpt（《三國志》5：武帝紀 1、劉表傳 2、劉二牧傳評曰 1、向朗傳 1；《後漢書》劉表傳 2），exclusion 0 條。向量候選 46 段已逐條核對，皆為「諫劉表附曹」「佐劉表定荊州」事件相似誤命中，無一段提及韓嵩或德高；unresolved 0 條；本傳補齊：其本傳所附《劉表傳》（a04-006）全 39 段中提及韓嵩/德高僅 2 段（34、37）均已覆蓋；《後漢書》劉表傳（a03-074b）提及韓嵩僅 2 段（21、24）均已覆蓋。",
         "勢力：事劉表，為其別駕、從事中郎；建安年間勸表附曹、奉使入許，後為表所囚；劉表卒後勸劉琮歸降，荊州平後拜大鴻臚、出仕曹操。生卒年史料無確載，僅知建安十三年（208）荊州平時尚在。"
       ]
+    },
+    {
+      "id": "p0305",
+      "name": "嚴顏",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
