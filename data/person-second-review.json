@@ -170119,6 +170119,33 @@
           "term": "青州",
           "quote": "據青州反，北平原太守辟閭渾討平之",
           "reason": "述西晉齊國內史蔣喆據青州反事，與田楷無關，排除。"
+        },
+        {
+          "id": "tiankai-excl-016",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 190,
+          "term": "青州",
+          "quote": "郗愔爲都督徐兗青幽四州諸軍事",
+          "reason": "述東晉郗愔都督徐兗青幽四州事，僅「青州」一詞與田楷青州刺史舊任字面相合，與田楷無關，排除。"
+        },
+        {
+          "id": "tiankai-excl-017",
+          "work": "jinshu",
+          "source": "a05-038-ahcb",
+          "paragraph": 6,
+          "term": "青州",
+          "quote": "并督青州諸軍事",
+          "reason": "述西晉琅邪王司馬伷平吳後并督青州事，僅「青州」一詞字面相合，與田楷無關，排除。"
+        },
+        {
+          "id": "tiankai-excl-018",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 11,
+          "term": "公孫瓚",
+          "quote": "自號「白馬義從」",
+          "reason": "述公孫瓚白馬義從事，未提田楷，與田楷無關，排除。"
         }
       ],
       "unresolved": [],
