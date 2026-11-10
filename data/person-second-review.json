@@ -168636,7 +168636,38 @@
       "id": "p0306",
       "name": "張任",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhangren-sanguo-xianzhu-fu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "璋遣劉璝、冷苞、張任、鄧賢等拒先主於涪，",
+          "through": "皆破敗，退保緜竹。",
+          "citation": "《三國志・蜀書二・先主傳》",
+          "note": "建安十八年（213）劉璋遣劉璝、冷苞、張任、鄧賢等拒先主於涪，皆破敗，退保緜竹。張任為璋將，初見於先主傳正文；其籍貫、志節見同段裴注引益部耆舊雜記，另立條目。"
+        },
+        {
+          "id": "zhangren-peizhu-yibu-chushen",
+          "work": "peizhu",
+          "source": "a04-032",
+          "paragraph": 13,
+          "from": "益部耆舊雜記曰：張任，蜀郡人，家世寒門。",
+          "through": "仕州為從事。",
+          "citation": "裴注引《益部耆舊雜記》",
+          "note": "裴注引益部耆舊雜記補張任出身：蜀郡人，家世寒門，少有膽勇，有志節，仕州為從事。與正文涪之戰分層記，不併入正文條目。"
+        },
+        {
+          "id": "zhangren-peizhu-yibu-luocheng",
+          "work": "peizhu",
+          "source": "a04-032",
+          "paragraph": 14,
+          "from": "益部耆舊雜記曰：劉璋遣張任與劉璝率精兵拒捍先主於涪，",
+          "through": "先主歎惜焉。",
+          "citation": "裴注引《益部耆舊雜記》",
+          "note": "建安十九年夏雒城破：劉璋遣張任與劉璝率精兵拒先主於涪，為先主所破，退與璋子循守雒城；任勒兵出於鴈橋，戰復敗被禽；先主聞其忠勇令軍降之，任厲聲曰「老臣終不復事二主矣」，乃殺之，先主歎惜焉。原庫記卒年 213，與建安十九年（214）繫年不合，待他傳互證。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
