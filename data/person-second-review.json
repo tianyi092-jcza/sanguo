@@ -164278,6 +164278,22 @@
         "荀彧事後總述「顏良、文醜臨陣授首……皆如彧所策」（yanliang-sgz-010-07），此為事後概括之語；顏良實為同年白馬之戰為關羽所斬，詳見關羽傳摘錄（a04-036:2）。顏良生年不詳，卒建安五年（200），與原庫互證。",
         "顏良無獨立本傳，確指本人的史料見《三國志·武帝紀》《袁紹傳》《荀彧荀攸賈詡傳》《程郭董劉蔣劉傳》《關羽傳》及《後漢書·袁紹傳》《荀彧傳》，共錄 excerpt 13 條（sanguozhi 9、houhanshu 4）、exclusion 40 條。向量候選已枯竭，unresolved 0 條；本傳附見《三國志·關羽傳》（a04-036，全 26 段）提及顏良的 1 段（2）已覆蓋；華陽國志（1 條）、晉書（10 條）候選皆已排除，均無確指顏良之 excerpt。"
       ]
+    },
+    {
+      "id": "p0294",
+      "name": "文醜",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
