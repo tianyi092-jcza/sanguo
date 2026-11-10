@@ -166048,7 +166048,35 @@
           "note": "《三國志·呂布傳》正文：建安三年（198）袁術怒呂布殺韓胤，與韓暹、楊奉連勢，遣大將張勳攻布；韓暹、楊奉倒戈合擊，勳軍大敗。與《後漢書·袁術傳》同事件異文互證。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "zhangxun-excl-a04-006-27",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 27,
+          "term": "張勳",
+          "quote": "袁術傳",
+          "reason": "僅為《袁術傳》卷首標題，無正文內容；全卷檢索「張勳」僅 28 段（已錄 excerpt zhangxun-sgz-006-28），排除。"
+        },
+        {
+          "id": "zhangxun-excl-a03-075-18",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 18,
+          "term": "張勳",
+          "quote": "袁術字公路，汝南汝陽人，司空逢之子也。",
+          "reason": "《後漢書·袁術傳》開篇述袁術家世出身，全段未提及張勳；全卷檢索「張勳」僅 23、36 段（已錄 excerpt），排除。"
+        },
+        {
+          "id": "zhangxun-excl-a03-075-0",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 0,
+          "term": "張勳",
+          "quote": "劉焉　袁術　呂布",
+          "reason": "僅為《後漢書·劉焉袁術呂布列傳》卷首合傳標題，無正文內容；全卷檢索「張勳」僅 23、36 段（已錄 excerpt），排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
