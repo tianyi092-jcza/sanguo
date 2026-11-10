@@ -168124,7 +168124,7 @@
     {
       "id": "p0305",
       "name": "嚴顏",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yanyan-sanguo-zhangfei-jiangzhou",
@@ -168598,17 +168598,39 @@
           "term": "嚴顏",
           "quote": "豁時譽雖不及沖，而甚有器度",
           "reason": "此段為《晉書》卷七十四桓豁傳，記桓豁固讓開府、梁州戍守事，全段無「嚴顏」二字，向量誤觸，排除。"
+        },
+        {
+          "id": "yan-excl-050",
+          "work": "jinshu",
+          "source": "a05-078-ahcb.json",
+          "paragraph": 38,
+          "term": "嚴顏",
+          "quote": "回性雅正，不憚強禦",
+          "reason": "此段為《晉書》卷七十八陶回傳，記陶回諫王導親忠貞、遠邪佞事，全段無「嚴顏」二字，向量誤觸，排除。"
+        },
+        {
+          "id": "yan-excl-051",
+          "work": "sanguozhi",
+          "source": "a04-041.json",
+          "paragraph": 9,
+          "term": "嚴顏",
+          "quote": "張裔字君嗣，蜀郡成都人也",
+          "reason": "此段為《三國志》卷四十一張裔傳，記張裔事劉璋、張飛入蜀破劉璋軍事，全段無「嚴顏」二字，向量誤觸，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "嚴顏，劉璋部將、巴郡太守，守江州。建安十九年先主入益州，張飛自荊州由墊江入，至江州破璋將嚴顏，生獲之；顏拒降曰「我州但有斷頭將軍，無有降將軍也」，飛壯而釋之，引為賔客（yanyan-sanguo-zhangfei-jiangzhou）。",
+        "裴注引《華陽國志》：先主入蜀至巴郡，顏拊心歎「獨坐窮山，放虎自衞」，言先主入蜀如放虎自衞；陳壽評曰稱「飛義釋嚴顏，並有國士之風」，僅借事為比（yanyan-peizhu-huayang-fuhu；yanyan-sanguo-zhangfei-pingyue）。",
+        "嚴顏確指本人的史料共 3 條 excerpt（《三國志》張飛傳正文 2、裴注引華陽國志 1），exclusion 51 條。向量候選 2 段皆為「張飛釋之引為賓客」事件相似誤命中，全段無「嚴顏」二字；unresolved 0 條；本傳補齊：其所見《張飛傳》（a04-036）全 26 段中提及嚴顏僅 2 段（9、25）均已覆蓋。嚴顏無獨立本傳，字、生卒年、籍貫史料無確載。"
+      ]
     }
   ]
 }
