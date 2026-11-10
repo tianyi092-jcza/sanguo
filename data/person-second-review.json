@@ -170038,6 +170038,33 @@
           "term": "公孫瓚青州刺史",
           "quote": "公孫瓚使豫守東州令",
           "reason": "此段述田豫（豫）受瓚命守東州令、拒王門事，田豫非田楷，段中無田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-007",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 5,
+          "term": "公孫瓚青州刺史",
+          "quote": "初，公孫瓚知術詐，固止虞遣兵",
+          "reason": "述公孫瓚與劉虞相爭、築京備虞，未及青州刺史事，亦無田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-008",
+          "work": "jinshu",
+          "source": "a05-035-ahcb",
+          "paragraph": 41,
+          "term": "瓚",
+          "quote": "瓚字國寶，中書郎",
+          "reason": "此「瓚」指晉王國寶（字國寶），非公孫瓚；段中無田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-009",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 80,
+          "term": "青州刺史",
+          "quote": "石季龍攻陷青州，刺史曹嶷遇害",
+          "reason": "此「青州刺史」指曹嶷，非田楷；段中無田楷，排除。"
         }
       ],
       "unresolved": [],
