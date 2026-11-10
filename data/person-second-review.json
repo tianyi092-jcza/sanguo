@@ -167010,6 +167010,22 @@
         "蒯良無獨立本傳，確指本人的史料僅見上述 1 條 excerpt（《三國志·劉表傳》裴注引司馬彪《戰略》），exclusion 26 條。向量候選已枯竭，unresolved 0 條；本傳補齊：其本傳所附《劉表傳》（a04-006）全 39 段中提及蒯良僅 1 段（32）已覆蓋；其餘候選皆為「劉表初入荊州之謀主」事件信號誤命中，已逐條排除；其弟蒯越（字異度）相關段落已嚴格分開。",
         "勢力：事劉表，為其初入荊州之謀主；生年不詳，卒年不詳。"
       ]
+    },
+    {
+      "id": "p0302",
+      "name": "蒯越",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
