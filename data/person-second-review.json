@@ -169532,6 +169532,33 @@
           "term": "閻圃",
           "quote": "張郃傳",
           "reason": "僅卷目傳名標題段，無閻圃相關內容，排除。"
+        },
+        {
+          "id": "yanpu-excl-004",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 4,
+          "term": "閻圃",
+          "quote": "沛人張魯，母有恣色，兼挾鬼道，往來焉家，遂任魯以為督義司馬，遂與別部司馬張脩將兵掩殺漢中太守蘇固，斷絕斜谷，殺使者。魯旣得漢中，遂復殺張脩而并其衆。",
+          "reason": "述張魯掩殺漢中太守蘇固、并張脩之衆事，全段未提閻圃，與其人無關，排除。"
+        },
+        {
+          "id": "yanpu-excl-005",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 0,
+          "term": "閻圃",
+          "quote": "張升　趙壹　劉梁　邊讓　酈炎　侯瑾　高彪　張超　禰衡",
+          "reason": "僅卷目人名標題段，無閻圃相關內容，排除。"
+        },
+        {
+          "id": "yanpu-excl-006",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 14,
+          "term": "閻圃",
+          "quote": "張旣傳",
+          "reason": "僅卷目傳名標題段，無閻圃相關內容，排除。"
         }
       ],
       "unresolved": [],
