@@ -165601,7 +165601,7 @@
     {
       "id": "p0297",
       "name": "紀靈",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "jiling-hhs-075-33a",
@@ -165958,17 +165958,29 @@
           "term": "紀靈",
           "quote": "西域諸國叛，攻都護任尚，遣副校尉梁慬救尚，慬音勤。擊破之。",
           "reason": "《後漢書·安帝紀》記西域諸國叛、梁慬救任尚事，全段未提及紀靈；與紀靈事蹟無關，排除。"
+        },
+        {
+          "id": "jiling-excl-a03-116-20",
+          "work": "houhanshu",
+          "source": "a03-116",
+          "paragraph": 20,
+          "term": "紀靈",
+          "quote": "中黃門宂從僕射一人，六百石。本注曰：宦者。主中黃門宂從。居則宿衞，直守門戶；出則騎從，夾乘輿車。",
+          "reason": "《後漢書·志第二十六·百官三》記中黃門宂從僕射職掌，全段未提及紀靈，與紀靈事蹟無關；因「轅門射戟」事件向量誤命中，排除。"
         }
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "紀靈，袁術部將。建安元年（196）轅門射戟：袁術遣將紀靈等步騎三萬攻劉備，備求救於呂布；布以術若破備則北連太山、己為術所圍，率步騎千餘赴救，屯沛城外設宴，令軍候植戟於營門、彎弓一發正中小戟支，靈等皆驚稱「將軍天威也」，明日復歡會然後各罷，紀靈罷兵（jiling-hhs-075-33a、jiling-hhs-075-33b）。《三國志·呂布傳》裴注引《英雄記》同載其事（jiling-pei-007-08），兩史互證。紀靈此後事蹟史料無載，卒年不詳。",
+        "紀靈無獨立本傳，確指本人的史料僅見《後漢書·呂布傳》正文與《三國志·呂布傳》裴注引《英雄記》所載轅門射戟一事，共錄 excerpt 3 條（houhanshu 2、peizhu 1）、exclusion 37 條。向量候選已枯竭，unresolved 0 條；本傳補齊：《呂布傳》（a04-007）提及紀靈的 1 段（8）已覆蓋；《袁術傳》（a04-006）全卷無「紀靈」字樣；其餘三國志、後漢書、華陽國志、晉書候選皆為「轅門射戟」「戟」「轅」「射」等字向量誤命中，已逐條排除，均無確指紀靈之 excerpt。"
+      ]
     }
   ]
 }
