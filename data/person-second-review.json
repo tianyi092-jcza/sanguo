@@ -170092,6 +170092,33 @@
           "term": "公孫瓚青州刺史",
           "quote": "公孫瓚字伯珪，遼西令支人也。",
           "reason": "述公孫瓚出身及早年仕履，未及青州刺史事，亦無田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-013",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 52,
+          "term": "青州",
+          "quote": "初，曹嶷據有青州，既叛劉聰，南稟王命",
+          "reason": "述曹嶷據青州、石勒授官事，後趙時期，與田楷及公孫瓚青州刺史事無關，排除。"
+        },
+        {
+          "id": "tiankai-excl-014",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 16,
+          "term": "公孫瓚",
+          "quote": "欲共報瓚",
+          "reason": "述劉虞從事鮮于輔等合兵攻瓚、興平二年破瓚於鮑丘事，未及田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-015",
+          "work": "jinshu",
+          "source": "a05-009-ahcb",
+          "paragraph": 163,
+          "term": "青州",
+          "quote": "據青州反，北平原太守辟閭渾討平之",
+          "reason": "述西晉齊國內史蔣喆據青州反事，與田楷無關，排除。"
         }
       ],
       "unresolved": [],
