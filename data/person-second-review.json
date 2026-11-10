@@ -169442,7 +169442,7 @@
     {
       "id": "p0308",
       "name": "閻圃",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "yanpu-houhanshu-jianchengwang",
@@ -169698,11 +169698,11 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": {}
     }
