@@ -169984,7 +169984,35 @@
           "note": "三國志正文層：趙雲本屬公孫瓚，瓚遣先主為田楷拒袁紹，雲遂隨從先主為主騎。證田楷受袁紹之攻、公孫瓚遣劉備助田楷拒紹，趙雲自此隨從劉備。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "tiankai-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 0,
+          "term": "公孫瓚青州刺史",
+          "quote": "公孫瓚傳",
+          "reason": "卷首傳目，僅標題，無田楷其人，亦無青州刺史事，排除。"
+        },
+        {
+          "id": "tiankai-excl-002",
+          "work": "houhanshu",
+          "source": "a03-079b-ahcb",
+          "paragraph": 19,
+          "term": "青州刺史",
+          "quote": "孫休，位至青州刺史。",
+          "reason": "此「青州刺史」指孫休，非田楷；段中無田楷，排除。"
+        },
+        {
+          "id": "tiankai-excl-003",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 8,
+          "term": "公孫瓚青州刺史",
+          "quote": "公孫瓚字伯珪，遼西令支人也。……觀者莫不歎息。旣行，於道得赦。",
+          "reason": "述公孫瓚早年家世仕履，未及青州刺史事，亦無田楷，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
