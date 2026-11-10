@@ -169901,7 +169901,7 @@
     {
       "id": "p0310",
       "name": "田楷",
-      "status": "pilot",
+      "status": "complete",
       "excerpts": [
         {
           "id": "tiankai-houhanshu-qingzhoucishi",
@@ -170177,13 +170177,18 @@
       ],
       "unresolved": [],
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": []
+      "conclusions": [
+        "本輪共覆核 29 段：錄正摘錄 8 條（《三國志》6、《後漢書》2），排除 21 條（向量誤擊為主，如青州刺史同名、同卷他傳段落），未解決 0 條。向量候選枯竭後按本傳補齊核對本傳 a04-008 全 28 段，提及田楷者僅 §4、§9，皆已錄入。",
+        "辨人：田楷即《後漢書》作「田揩」者，同人異字；與同卷公孫瓚、陶謙、劉備等嚴格區分。",
+        "勢力繫年：公孫瓚部將，瓚以其為青州刺史，據有齊地，與袁紹連戰二年；劉備曾在其麾下拒袁紹，後去楷歸陶謙；初平四年救陶謙抗曹。袁紹遣長子譚為青州，北排田楷，楷敗退還。",
+        "生卒：卒建安四年（199 年）公孫瓚易京敗亡之際，與袁紹戰死，僅見《後漢書》；原庫「兵窮自刎」一說，本傳及已檢史料無對應段落，不予採信；生年未詳。"
+      ]
     }
   ]
 }
