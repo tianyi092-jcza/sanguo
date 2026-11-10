@@ -169130,7 +169130,38 @@
       "id": "p0307",
       "name": "鄭度",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "zhengdu-peizhu-huayang-shenfen",
+          "work": "peizhu",
+          "source": "a04-037",
+          "paragraph": 9,
+          "from": "華陽國志曰：度，廣漢人，",
+          "through": "為州從事。",
+          "citation": "裴注引《華陽國志》",
+          "note": "裴注引《華陽國志》明鄭度身份：廣漢人，為州從事。與《華陽國志》卷十二稱其綿竹人可合（綿竹屬廣漢郡）。"
+        },
+        {
+          "id": "zhengdu-sanguo-fazheng-jianbi",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 9,
+          "from": "左將軍縣軍襲我，兵不滿萬，士衆未附，野穀是資，軍無輜重。",
+          "through": "則必禽耳。",
+          "citation": "《三國志·蜀書七·龐統法正傳第七·法正傳》",
+          "note": "建安十八年（213）劉備與劉璋決裂之際，鄭度勸璋堅壁清野：盡驅巴西、梓潼民內涪水以西，燒除倉廩野穀，高壘深溝靜待，料劉備縣軍無資不過百日必自走，走而擊之則必禽。法正傳正文層；句首裴注引華陽國志明其身份，另立條目。"
+        },
+        {
+          "id": "zhengdu-sanguo-fazheng-buyong",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 9,
+          "from": "先主聞而惡之，以問正",
+          "through": "不用其計。",
+          "citation": "《三國志·蜀書七·龐統法正傳第七·法正傳》",
+          "note": "先主聞鄭度之計而惡之，以問法正；正曰璋終不能用，無可憂也。璋果如正言，謂拒敵以安民、未聞動民以避敵，黜度不用其計。本傳正文層；同段法正致璋長牋言法正去就，與鄭度無關，不錄。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
