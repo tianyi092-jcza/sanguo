@@ -171746,6 +171746,22 @@
         "篩查：向量候選已枯竭；本傳所依《後漢書·陶謙傳》a03-073 言及昱者僅 3 段皆已摘錄；三國志、後漢書、晉書、華陽國志誤命中 41 段已排除，多為「為笮融所殺」事件信號誤報及無昱其人之段。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0313",
+      "name": "許貢",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
