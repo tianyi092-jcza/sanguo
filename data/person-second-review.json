@@ -169505,7 +169505,35 @@
           "note": "華陽國志層（漢中志）：建安二十年魏武西征，魯走巴中，圃說魯北降歸魏武，贊以大事宜附託，不然西結劉備以歸之；魯勃然曰「寧為曹公作奴，不為劉備上客」，遂委質魏武。與三國志正文 a04-008:26「依杜濩赴朴胡相拒，然後委質」同為一事，文字小異；又華陽國志稱拜魯鎮南將軍「封襄平侯」，三國志作「封閬中侯」，封邑名異文並存。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yanpu-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 24,
+          "term": "閻圃",
+          "quote": "張魯傳",
+          "reason": "僅卷目傳名標題段，無閻圃相關內容，排除。"
+        },
+        {
+          "id": "yanpu-excl-002",
+          "work": "houhanshu",
+          "source": "a03-059",
+          "paragraph": 0,
+          "term": "閻圃",
+          "quote": "張衡",
+          "reason": "僅卷目傳名標題段，無閻圃相關內容，排除。"
+        },
+        {
+          "id": "yanpu-excl-003",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 15,
+          "term": "閻圃",
+          "quote": "張郃傳",
+          "reason": "僅卷目傳名標題段，無閻圃相關內容，排除。"
+        }
+      ],
       "unresolved": [],
       "coverage": {
         "sanguozhi": "in-progress",
