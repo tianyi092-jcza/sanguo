@@ -171811,9 +171811,38 @@
           "through": "策臨江未濟，果為許貢客所殺。",
           "citation": "《三國志·魏書十四·程郭董劉蔣劉傳第十四·郭嘉傳》",
           "note": "三國志正文層（郭嘉傳）：郭嘉料孫策「必死於匹夫之手」，策臨江未濟，果為許貢客所殺。與孫策傳及後漢書孝獻帝紀互證，證許貢客刺殺孫策。同段臣松之案為裴注，不在引用範圍。"
+        },
+        {
+          "id": "xugong-sanguozhi-zhouyu",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 4,
+          "from": "軍敗，還鄉里，為許貢所害。",
+          "through": "軍敗，還鄉里，為許貢所害。",
+          "citation": "《三國志·吳書一·孫破虜討逆傳第一·孫堅傳》",
+          "note": "裴注層（會稽典錄曰）：周㬂字仁明，會稽太守周昕之弟；次兄九江太守昂為袁術所攻，㬂往助之，軍敗還鄉里，為許貢所害。證許貢在吳郡一帶殺周㬂。正文層為孫堅討董卓事，不在引用範圍。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "xugong-jinshu-shansong-wujun",
+          "work": "jinshu",
+          "source": "a05-083-ahcb",
+          "paragraph": 15,
+          "term": "吳郡太守",
+          "quote": "山松歷顯位，爲吳郡太守。孫恩作亂，山松守滬瀆，城陷被害。",
+          "reason": "《晉書》此段言山松歷吳郡太守、守滬瀆被害，未提許貢其人，與許貢任吳郡太守無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-wujun-junzhi",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 87,
+          "term": "吳郡",
+          "quote": "吳郡漢置。統縣十一，戶二萬五千。",
+          "reason": "《晉書·地理志》僅述吳郡建置與戶數，未提許貢其人，與許貢無關，排除。"
+        }
+      ],
       "coverage": {
         "sanguozhi": "in-progress",
         "peizhu": "in-progress",
