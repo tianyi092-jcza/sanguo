@@ -171841,6 +171841,33 @@
           "term": "吳郡",
           "quote": "吳郡漢置。統縣十一，戶二萬五千。",
           "reason": "《晉書·地理志》僅述吳郡建置與戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-sanguozhi-sunce-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 7,
+          "term": "孫策傳",
+          "quote": "孫策傳",
+          "reason": "此段僅為《三國志·吳書一》孫策傳卷首標題，無正文內容，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-houhanshu-wujun-wangheng",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 142,
+          "term": "吳郡太守",
+          "quote": "五月，吳郡丞羊珍反，攻郡府，太守王衡破斬之。",
+          "reason": "《後漢書》此段言吳郡丞羊珍反、太守王衡破斬之，太守為王衡而非許貢，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-wujun-wangxun",
+          "work": "jinshu",
+          "source": "a05-009-ahcb",
+          "paragraph": 156,
+          "term": "吳郡太守",
+          "quote": "九月丁未，以吳郡太守王珣爲尚書僕射。",
+          "reason": "《晉書》此段言吳郡太守王珣遷尚書僕射，未提許貢其人，與許貢任吳郡太守無關，排除。"
         }
       ],
       "coverage": {
