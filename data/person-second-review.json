@@ -171868,6 +171868,33 @@
           "term": "吳郡太守",
           "quote": "九月丁未，以吳郡太守王珣爲尚書僕射。",
           "reason": "《晉書》此段言吳郡太守王珣遷尚書僕射，未提許貢其人，與許貢任吳郡太守無關，排除。"
+        },
+        {
+          "id": "xugong-sanguozhi-xuzhao",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "term": "許昭",
+          "quote": "虎奔餘杭，投許昭於虜中。",
+          "reason": "此段言嚴白虎敗走投奔許昭；許昭為餘杭一帶人物，與吳郡太守許貢並非一人，全段未提許貢，排除。"
+        },
+        {
+          "id": "xugong-jinshu-luling",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 109,
+          "term": "廬陵郡",
+          "quote": "廬陵郡吳置。統縣十，戶一萬二千二百。",
+          "reason": "《晉書·地理志》廬陵郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-gaoliang",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 145,
+          "term": "高涼郡",
+          "quote": "高涼郡吳置。統縣三，戶二千。",
+          "reason": "《晉書·地理志》高涼郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
