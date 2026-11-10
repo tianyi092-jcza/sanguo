@@ -166261,6 +166261,36 @@
           "term": "閻象",
           "quote": "袁術傳",
           "reason": "僅為《袁術傳》卷首標題，無正文內容；全卷檢索「閻象」僅 30 段（已錄 excerpt yanxiang-sgz-006-30），排除。"
+        },
+        {
+          "id": "yanxiang-excl-a04-006-28",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "term": "閻象",
+          "quote": "袁術字公路，司空逢子",
+          "reason": "段中無「閻象」；為《袁術傳》開篇生平敘事（董卓廢帝、術奔南陽、與袁紹劉表結怨等），與閻象無關。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 袁術傳》"
+        },
+        {
+          "id": "yanxiang-excl-a03-075-00",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 0,
+          "term": "閻象",
+          "quote": "劉焉　袁術　呂布",
+          "reason": "僅為卷首標題，無正文內容；段中無「閻象」。",
+          "citation": "《後漢書·劉焉袁術呂布列傳第六十五》"
+        },
+        {
+          "id": "yanxiang-excl-a03-009-10",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 10,
+          "term": "閻象",
+          "quote": "二年春，袁術自稱天子。",
+          "reason": "《孝獻帝紀》編年：建安二年（197）袁術自稱天子等事，段中無「閻象」；閻象諫僭號事在興平二年（195），見已錄 excerpt yanxiang-hhs-075-21，此段與其無關。",
+          "citation": "《後漢書·孝獻帝紀第九》"
         }
       ],
       "unresolved": [],
