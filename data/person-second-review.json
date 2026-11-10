@@ -166718,6 +166718,22 @@
         "楊弘無獨立本傳，確指本人的史料僅見上述 1 條 excerpt（《三國志·孫策傳》1），exclusion 22 條。向量候選已枯竭，unresolved 0 條；本傳補齊：《孫策傳》（a04-046）提及楊弘僅 1 段（12）已覆蓋；其餘候選皆為「袁術長史」事件信號誤命中，已逐條排除；同名異人嘉平元年（249）王淩所遣將軍楊弘（yanghong-excl-a04-028-3）已排除。",
         "勢力：終身事袁術，任長史；建安四年術死後欲歸孫策，途中為劉勳所虜。生年不詳，卒年不詳。"
       ]
+    },
+    {
+      "id": "p0301",
+      "name": "蒯良",
+      "status": "pilot",
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": [],
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": []
     }
   ]
 }
