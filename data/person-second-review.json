@@ -169902,7 +169902,38 @@
       "id": "p0310",
       "name": "田楷",
       "status": "pilot",
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "tiankai-houhanshu-qingzhoucishi",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 14,
+          "from": "乘勝而南，攻下郡縣，遂至平原，乃遣其青州刺史田揩據有齊地。",
+          "through": "野無青草。",
+          "citation": "《後漢書·卷七十三·公孫瓚陶謙列傳第六十三·公孫瓚傳》",
+          "note": "後漢書正文層：界橋之戰後，公孫瓚遣其青州刺史田揩據有齊地；袁紹遣兵數萬與揩連戰二年，糧食並盡、士卒疲困。後漢書作「田揩」，即田楷。同段後文記紹遣子譚為青州刺史，揩與戰敗退還，與《三國志·袁紹傳》「北排田楷」互證。"
+        },
+        {
+          "id": "tiankai-houhanshu-zhansi",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 20,
+          "from": "田揩與袁紹戰死。",
+          "through": "田揩與袁紹戰死。",
+          "citation": "《後漢書·卷七十三·公孫瓚陶謙列傳第六十三·公孫瓚傳》",
+          "note": "後漢書正文層：建安四年（199）公孫瓚易京敗亡，田揩與袁紹戰死。原庫梗概稱其「兵窮自刎（一說戰死）」，兩說並存，待核對《三國志·公孫瓚傳》本傳段落後再定。"
+        },
+        {
+          "id": "tiankai-sanguozhi-tanpaikai",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 20,
+          "from": "譚始至青州，為都督，未為刺史，後太祖拜為刺史。",
+          "through": "是時百姓無主，欣戴之矣。",
+          "citation": "《三國志·魏書六·董二袁劉傳第六·袁紹傳》",
+          "note": "三國志正文層：袁紹出長子譚為青州，譚始至青州為都督，北排田楷、東攻孔融。與《後漢書·公孫瓚傳》「揩與戰，敗退還」互證，皆指譚取青州、田楷敗退事。"
+        }
+      ],
       "exclusions": [],
       "unresolved": [],
       "coverage": {
