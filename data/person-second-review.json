@@ -171922,6 +171922,33 @@
           "term": "始安郡",
           "quote": "始安郡吳置。統縣七，戶六千。",
           "reason": "《晉書·地理志》始安郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-wuping",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 122,
+          "term": "武平郡",
+          "quote": "武平郡吳置。統縣七，戶五千。",
+          "reason": "《晉書·地理志》武平郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-linchuan",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 105,
+          "term": "臨川郡",
+          "quote": "臨川郡吳置。統縣十，戶八千五百。",
+          "reason": "《晉書·地理志》臨川郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-dongyang",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 93,
+          "term": "東陽郡",
+          "quote": "東陽郡吳置。統縣九，戶一萬二千。",
+          "reason": "《晉書·地理志》東陽郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
