@@ -174156,6 +174156,33 @@
           "term": "蹋頓",
           "quote": "王連傳",
           "reason": "《三國志·蜀書十一·霍王向張楊費傳第十一》卷內標題段，僅「王連傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-liushao",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 24,
+          "term": "蹋頓",
+          "quote": "劉劭傳",
+          "reason": "《三國志·魏書二十一·王衛二劉傅傳第二十一》卷內標題段，僅「劉劭傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-yuanhong",
+          "work": "jinshu",
+          "source": "a05-076-ahcb",
+          "paragraph": 30,
+          "term": "蹋頓",
+          "quote": "袁宏爲文，以示彪之",
+          "reason": "《晉書·卷七十六·列傳第四十六》：桓溫求九錫、袁宏作九錫文一段，全段未提蹋頓其名；「袁宏」之袁字誤觸「袁尚依之」事件，排除。"
+        },
+        {
+          "id": "tadun-jinshu-yuanzhen",
+          "work": "jinshu",
+          "source": "a05-098-ahcb",
+          "paragraph": 47,
+          "term": "蹋頓",
+          "quote": "袁真病死，其將朱輔立其子瑾以嗣事",
+          "reason": "《晉書·卷九十八·列傳第六十八》：袁真病死、其子袁瑾嗣事一段，全段未提蹋頓其名；「袁真」「袁瑾」誤觸「袁尚依之」事件，排除。"
         }
       ],
       "conclusions": [],
