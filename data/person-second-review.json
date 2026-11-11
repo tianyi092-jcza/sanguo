@@ -175947,6 +175947,33 @@
           "term": "后归曹操",
           "quote": "秋七月，曹操破漢中，張魯降。",
           "reason": "此段為《後漢書·卷九·孝獻帝紀》建安二十年曹操破漢中、張魯降事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-jinshu-haosan-shangdang",
+          "work": "jinshu",
+          "source": "a05-097-ahcb",
+          "paragraph": 53,
+          "term": "中平年间内乱",
+          "quote": "惠帝元康中，匈奴郝散攻上黨，殺長吏，入守上郡。",
+          "reason": "此段為《晉書·卷九十七·列傳第六十七》惠帝元康中匈奴郝散攻上黨、入守上郡事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-tianwen-guohuang",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 16,
+          "term": "中平年间内乱",
+          "quote": "其後黃巾賊張角燒州郡，朝廷遣將討平，斬首十餘萬級。",
+          "reason": "此段為《後漢書·志第十二·天文下》國皇星占驗、黃巾至董卓之亂敘事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-zhujun-luoyang",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 26,
+          "term": "后归曹操",
+          "quote": "卓後入關，留儁守洛陽，而儁與山東諸將通謀為內應。",
+          "reason": "此段為《後漢書·卷七十一·列傳第六十一》朱儁與董卓相爭、守洛陽事，全段無于夫羅；向量事件信號誤命中，排除。"
         }
       ],
       "unresolved": []
