@@ -178526,6 +178526,33 @@
           "term": "張遼傳",
           "quote": "張遼傳",
           "reason": "《三國志》卷首傳名，僅標題，無正文內容，未提公孫康，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-xiandi-jiu-nian-poyuan-shang",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 17,
+          "term": "袁尚",
+          "quote": "曹操大破袁尚，平兾州，自領兾州牧。",
+          "reason": "《後漢書》孝獻帝紀，建安九年曹操大破袁尚、平冀州，未提公孫康；康斬送袁尚首在建安十二年，事件不同，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-wangxiu-yuantan-yuanshang-xiongdi",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 21,
+          "term": "袁尚",
+          "quote": "紹死，譚、尚有隙。尚攻譚，譚軍敗，脩率吏民往救譚。",
+          "reason": "《三國志》王脩傳，袁譚、袁尚兄弟相攻、王脩救譚、田疇哭袁譚首，未提公孫康及遼東斬送首事，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-kongrong-zhixi",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 25,
+          "term": "脂習",
+          "quote": "習往撫尸曰：「文舉舍我死，吾何用生為？」",
+          "reason": "《後漢書》孔融傳，脂習撫孔融屍事，與公孫康無關，排除。"
         }
       ],
       "unresolved": []
