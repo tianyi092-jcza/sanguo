@@ -172331,6 +172331,33 @@
           "term": "襲孫策",
           "quote": "孫慮傳",
           "reason": "《三國志·吳書十四·吳主五子傳第十四·孫慮傳》此段僅為傳名標題「孫慮傳」，未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-jinshu-xuandi-jiangxia",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 14,
+          "term": "襲孫策",
+          "quote": "及孫權圍江夏",
+          "reason": "《晉書·卷一·帝紀第一·宣帝紀》此段言孫權圍江夏、遣諸葛瑾等攻襄陽，帝督諸軍討權走之，未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-sunce-yanbaihu",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "term": "襲孫策",
+          "quote": "策時年少，雖有位號",
+          "reason": "《三國志·吳書一·孫破虜討逆傳·孫策傳》此段裴注（江表傳、吳錄）言策入曲阿勞賜將士、擊劉繇及嚴白虎等，未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-sunfu-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 11,
+          "term": "襲孫策",
+          "quote": "孫輔傳",
+          "reason": "《三國志·吳書六·宗室傳第六·孫輔傳》此段僅為傳名標題「孫輔傳」，未提祖郎其人，與祖郎無關，排除。"
         }
       ],
       "conclusions": [],
