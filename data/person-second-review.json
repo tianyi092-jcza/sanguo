@@ -172003,6 +172003,33 @@
           "term": "天門郡",
           "quote": "天門郡吳置。統縣五，戶三千一百。",
           "reason": "《晉書·地理志》天門郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-guilin",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 143,
+          "term": "桂林郡",
+          "quote": "桂林郡吳置。統縣八，戶二千。",
+          "reason": "《晉書·地理志》桂林郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-xinan",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 95,
+          "term": "新安郡",
+          "quote": "新安郡吳置。統縣六，戶五千。",
+          "reason": "《晉書·地理志》新安郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-shixing",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 137,
+          "term": "始興郡",
+          "quote": "始興郡吳置。統縣七，戶五千。",
+          "reason": "《晉書·地理志》始興郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
