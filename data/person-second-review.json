@@ -174021,6 +174021,33 @@
           "term": "蹋頓",
           "quote": "王淩",
           "reason": "《三國志·魏書二十八·王毋丘諸葛鄧鍾傳第二十八》卷內標題段，僅「王淩」二字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-yujin",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 11,
+          "term": "蹋頓",
+          "quote": "于禁傳",
+          "reason": "《三國志·魏書十七·張樂于張徐傳第十七》卷內標題段，僅「于禁傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-gutan",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 17,
+          "term": "蹋頓",
+          "quote": "顧譚傳",
+          "reason": "《三國志·吳書七·張顧諸葛步傳第七》卷內標題段，僅「顧譚傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-zhuju",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 38,
+          "term": "蹋頓",
+          "quote": "朱據傳",
+          "reason": "《三國志·吳書十二·虞陸張駱陸吾朱傳第十二》卷內標題段，僅「朱據傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
         }
       ],
       "conclusions": [],
