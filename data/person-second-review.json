@@ -178974,6 +178974,33 @@
           "term": "子壽",
           "quote": "子壽，官至東郡太守。",
           "reason": "《後漢書》卷七十九下儒林列傳所記「子壽，官至東郡太守」，未提公孫恭，與其生平無關，排除。"
+        },
+        {
+          "id": "gongsungong-excl-019",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 8,
+          "term": "孫賁傳",
+          "quote": "孫賁傳",
+          "reason": "《三國志》卷五十一篇目標題「孫賁傳」，僅為吳書孫賁傳之標題，未提及公孫恭，與其生平無關，排除。"
+        },
+        {
+          "id": "gongsungong-excl-020",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 5,
+          "term": "夏侯淵傳",
+          "quote": "夏侯淵傳",
+          "reason": "《三國志》卷九篇目標題「夏侯淵傳」，僅為夏侯淵傳之標題，未提及公孫恭，與其生平無關，排除。"
+        },
+        {
+          "id": "gongsungong-excl-021",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 0,
+          "term": "公孫瓚傳",
+          "quote": "公孫瓚傳",
+          "reason": "《三國志》卷八篇目標題「公孫瓚傳」，僅為公孫瓚傳之標題；公孫瓚為遼西人，與遼東公孫恭同姓不同人，未提及公孫恭，排除。"
         }
       ],
       "unresolved": []
