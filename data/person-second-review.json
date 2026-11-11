@@ -172111,6 +172111,33 @@
           "term": "孫權",
           "quote": "孫權字仲謀。兄策旣定諸郡，時權年十五，以為陽羨長。",
           "reason": "《三國志·吳書二·吳主傳》開篇，述孫權早年隨兄孫策起事江東，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-sanguozhi-sunce-yuanshu",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 9,
+          "term": "孫策",
+          "quote": "興平元年，從袁術。術甚奇之，以堅部曲還策。",
+          "reason": "《三國志·吳書一·孫破虜討逆傳第一·孫策傳》此段述孫策興平元年從袁術、丹楊募兵得數百人，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-wenyi-sunquan",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 35,
+          "term": "孫權",
+          "quote": "初，文懿聞魏師之出也，請救於孫權。",
+          "reason": "《晉書·卷一·帝紀第一·宣帝紀》此段言公孫淵請救於孫權，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-sanguozhi-sunce-zhuishi",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 14,
+          "term": "孫策",
+          "quote": "權稱尊號，追謚策曰長沙桓王，封子紹為吳侯，後改封上虞侯。",
+          "reason": "《三國志·吳書一·孫破虜討逆傳第一·孫策傳》此段述孫權稱尊號後追謚孫策、封其子孫紹，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
