@@ -171976,6 +171976,33 @@
           "term": "九德郡",
           "quote": "九德郡吳置，周時越常氏地。統縣八，無戶。",
           "reason": "《晉書·地理志》九德郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-yidu",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 51,
+          "term": "宜都郡",
+          "quote": "宜都郡吳置。統縣三，戶八千七百。",
+          "reason": "《晉書·地理志》宜都郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-wuxing",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 89,
+          "term": "吳興郡",
+          "quote": "吳興郡吳置。統縣十，戶二萬四千。",
+          "reason": "《晉書·地理志》吳興郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-tianmen",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 57,
+          "term": "天門郡",
+          "quote": "天門郡吳置。統縣五，戶三千一百。",
+          "reason": "《晉書·地理志》天門郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
