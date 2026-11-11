@@ -172704,7 +172704,35 @@
           "note": "正文：陳瑀自號吳郡太守，住海西，與彊族嚴白虎交通；策自將討虎，別遣呂範與徐逸攻瑀於海西。證嚴白虎為吳郡彊族，與陳瑀交通，孫策親征之。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "yanbaihu-sanguozhi-sunce-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 7,
+          "term": "孫策渡江破之",
+          "quote": "孫策傳",
+          "reason": "《三國志·吳書一·孫破虜討逆傳第一·孫策傳》此段僅為傳名標題「孫策傳」，未提嚴白虎其人，與嚴白虎無關，排除。"
+        },
+        {
+          "id": "yanbaihu-sanguozhi-chengpu-dujiang",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 2,
+          "term": "孫策渡江破之",
+          "quote": "策到橫江、當利，破張英、于麋等",
+          "reason": "《三國志·吳書十·程普黃蓋韓當蔣欽周泰陳武董襲甘寧凌統徐盛潘璋丁奉傳第十·程普傳》此段述程普隨孫策渡江、破張英于麋、進破烏程餘杭、討宣城涇諸賊事，未提嚴白虎其人，與嚴白虎無關，排除。"
+        },
+        {
+          "id": "yanbaihu-jinshu-wanghun-shitou",
+          "work": "jinshu",
+          "source": "a05-042",
+          "paragraph": 5,
+          "term": "孫策渡江破之",
+          "quote": "既而王濬破石頭，降孫皓，威名益振。",
+          "reason": "《晉書·卷四十二·王渾傳》此段言王濬破石頭、降孫皓、王渾濟江登建鄴宮事，繫年西晉太康元年（280），遠在嚴白虎活動（孫策時期）之後，未提嚴白虎其人，與嚴白虎無關，排除。"
+        }
+      ],
       "conclusions": [],
       "unresolved": []
     }
