@@ -173001,6 +173001,33 @@
           "term": "自稱白虎王",
           "quote": "自號「白馬義從」",
           "reason": "此段為《後漢書·卷七十三·列傳第六十三·公孫瓚傳》，言公孫瓚自號「白馬義從」，與「白虎」無涉，全段未提嚴白虎其人；「自稱白虎王」為向量事件誤命中（「白馬」誤配「白虎」），排除。"
+        },
+        {
+          "id": "yanbaihu-houhanshu-zan-huya",
+          "work": "houhanshu",
+          "source": "a03-018",
+          "paragraph": 45,
+          "term": "虎牙猛力",
+          "quote": "虎牙猛力，功立睢陽",
+          "reason": "此段為《後漢書·卷十八》贊文，「虎牙猛力」為勇猛之喻，全段未提嚴白虎其人；「虎」為一般用語誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-jinshu-longru-changsha",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 196,
+          "term": "自稱白虎王",
+          "quote": "龍乳於長沙人家，啖雞雛",
+          "reason": "此段為《晉書·卷二十九·五行志》，言孫皓天冊中龍乳異象，全段未提白虎，更無嚴白虎其人；向量事件誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-sanguozhi-xuchu-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 20,
+          "term": "走餘杭投許昭",
+          "quote": "許褚傳",
+          "reason": "此段僅為《三國志·魏書十八》許褚傳卷目標題，無正文內容，未提嚴白虎其人；向量事件誤命中，排除。"
         }
       ],
       "conclusions": [],
