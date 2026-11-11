@@ -172812,6 +172812,33 @@
           "term": "孫策渡江破之",
           "quote": "孫綝傳",
           "reason": "此段僅為《三國志·吳書十九·諸葛滕二孫濮陽傳第十九》卷內傳目「孫綝傳」，無正文內容，未提嚴白虎其人；排除。"
+        },
+        {
+          "id": "yanbaihu-sanguozhi-lufan-bensang",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 22,
+          "term": "策薨，奔喪于吳",
+          "quote": "策薨，奔喪于吳。後權復征江夏，範與張昭留守。",
+          "reason": "此段為《三國志·吳書十一·朱治朱然呂範朱桓傳第十一·呂範傳》言孫策薨後呂範奔喪、孫權征江夏事，未提嚴白虎其人；排除。"
+        },
+        {
+          "id": "yanbaihu-jinshu-xumai-yuhang",
+          "work": "jinshu",
+          "source": "a05-080-ahcb",
+          "paragraph": 26,
+          "term": "許邁",
+          "quote": "許邁字叔玄，一名映，丹楊句容人也。",
+          "reason": "此段為《晉書·卷八十·許邁傳》言許邁隱居餘杭懸霤山事，未提嚴白虎其人；排除。"
+        },
+        {
+          "id": "yanbaihu-sanguozhi-sunce-congyuanshu",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 9,
+          "term": "興平元年，從袁術",
+          "quote": "興平元年，從袁術。術甚奇之，以堅部曲還策。",
+          "reason": "此段為《三國志·吳書一·孫破虜討逆傳第一·孫策傳》言孫策初依袁術、丹楊募兵事，未提嚴白虎其人；排除。"
         }
       ],
       "conclusions": [],
