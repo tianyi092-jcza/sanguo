@@ -178607,6 +178607,33 @@
           "term": "袁瑰",
           "quote": "袁瑰字山甫，陳郡陽夏人，魏郎中令渙之曾孫也。",
           "reason": "《晉書》卷八十三袁瑰傳，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-huanghou-shaodi-shundi",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 6,
+          "term": "順帝",
+          "quote": "少帝立二百餘日而疾篤，顯兄弟及江京等皆在左右。",
+          "reason": "《後漢書》卷十下皇后紀，少帝薨、順帝立事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-xiandi-gongsunzan-jieqiao",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "term": "公孫瓉",
+          "quote": "袁紹及公孫瓉戰于界橋，今貝州宗城縣東有古界城，近枯漳水，則界橋在此也。",
+          "reason": "《後漢書》卷九孝獻帝紀，初平三年袁紹、公孫瓉界橋之戰事，公孫瓉與公孫康為同姓異人，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-anandi-liaoxi-xianbei",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 219,
+          "term": "遼西鮮卑",
+          "quote": "遼西鮮卑降。",
+          "reason": "《後漢書》卷五孝安帝紀，遼西鮮卑降事，未提公孫康，與公孫康無關，排除。"
         }
       ],
       "unresolved": []
