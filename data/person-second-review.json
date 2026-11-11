@@ -171949,6 +171949,33 @@
           "term": "東陽郡",
           "quote": "東陽郡吳置。統縣九，戶一萬二千。",
           "reason": "《晉書·地理志》東陽郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-linhai",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 97,
+          "term": "臨海郡",
+          "quote": "臨海郡吳置。統縣八，戶一萬八千。",
+          "reason": "《晉書·地理志》臨海郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-linhe",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 133,
+          "term": "臨賀郡",
+          "quote": "臨賀郡吳置。統縣六，戶二千五百。",
+          "reason": "《晉書·地理志》臨賀郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-jiude",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 126,
+          "term": "九德郡",
+          "quote": "九德郡吳置，周時越常氏地。統縣八，無戶。",
+          "reason": "《晉書·地理志》九德郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
