@@ -172758,6 +172758,33 @@
           "term": "孫策渡江",
           "quote": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
           "reason": "《三國志·魏書一·武帝紀第一》此段言初平四年太祖征陶謙、孫策受袁術使渡江事，未提嚴白虎其人；嚴白虎被孫策所破事見孫策本傳，排除。"
+        },
+        {
+          "id": "yanbaihu-sanguozhi-wendiji-yiling",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 22,
+          "term": "孫策渡江",
+          "quote": "孫權破劉備於夷陵。",
+          "reason": "《三國志·魏書二·文帝紀第二》此段言孫權破劉備於夷陵事，未提嚴白虎其人；嚴白虎被孫策所破事見孫策本傳，排除。"
+        },
+        {
+          "id": "yanbaihu-sanguozhi-yufan-shanyue",
+          "work": "sanguozhi",
+          "source": "a04-057",
+          "paragraph": 2,
+          "term": "孫策渡江",
+          "quote": "策討山越，斬其渠帥，悉令左右分行逐賊。",
+          "reason": "《三國志·吳書十二·虞翻陸績傳第十二·虞翻傳》此段言孫策討山越、黃祖、定豫章事，未提嚴白虎其人；嚴白虎被孫策所破事見孫策本傳，排除。"
+        },
+        {
+          "id": "yanbaihu-jinshu-xuandi-jiangxia",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 14,
+          "term": "孫策渡江",
+          "quote": "及孫權圍江夏，遣其將諸葛瑾、張霸并攻襄陽。",
+          "reason": "《晉書·卷一·帝紀第一·宣帝》此段言孫權圍江夏、諸葛瑾張霸攻襄陽事，未提嚴白虎其人；嚴白虎被孫策所破事見孫策本傳，排除。"
         }
       ],
       "conclusions": [],
