@@ -177226,6 +177226,36 @@
           "quote": "惟宗室列侯為王莽所廢",
           "citation": "《後漢書·卷一上 光武帝紀第一上》",
           "reason": "段落為光武詔復宗室列侯，未提成公英，僅因「列侯」一詞誤關聯，排除。"
+        },
+        {
+          "id": "chenggongying-excl-008",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 239,
+          "term": "成公英",
+          "quote": "叛羌詣左馮翊梁並降。",
+          "citation": "《後漢書·卷六 孝順孝沖孝質帝紀第六》",
+          "reason": "段落記叛羌詣左馮翊梁並降，未提成公英，僅因事件「遂死後率部降魏」誤關聯，排除。"
+        },
+        {
+          "id": "chenggongying-excl-009",
+          "work": "houhanshu",
+          "source": "a03-042",
+          "paragraph": 77,
+          "term": "成公英",
+          "quote": "永初元年，封壽弟八人為列侯。",
+          "citation": "《後漢書·卷四十二 列傳第三十二》",
+          "reason": "段落為宗室封列侯，未提成公英，僅因「封列侯」一詞誤關聯，排除。"
+        },
+        {
+          "id": "chenggongying-excl-010",
+          "work": "houhanshu",
+          "source": "a03-042",
+          "paragraph": 76,
+          "term": "成公英",
+          "quote": "建初七年，封宇弟十三人為列侯。",
+          "citation": "《後漢書·卷四十二 列傳第三十二》",
+          "reason": "段落為宗室封列侯，未提成公英，僅因「封列侯」一詞誤關聯，排除。"
         }
       ],
       "unresolved": []
