@@ -178242,7 +178242,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "gongsunkang-houhanshu-xiandi-sha-yuanshang-yuanxi",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 20,
+          "from": "十一月，遼東太守公孫康殺袁尚、袁熙。",
+          "through": "十一月，遼東太守公孫康殺袁尚、袁熙。",
+          "citation": "《後漢書》卷九·孝獻帝紀",
+          "note": "正文（孝獻帝紀）：建安十二年十一月，遼東太守公孫康殺袁尚、袁熙。與本傳「十二年斬袁尚、袁熙首送曹操」互證，為公孫康斬殺袁氏兄弟之紀年。"
+        },
+        {
+          "id": "gongsunkang-houhanshu-yuanshao-zhanshou-song",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 15,
+          "from": "十二年，曹操征遼西，擊烏桓。尚、熙與烏桓逆操軍，戰敗走，乃與親兵數千人奔公孫康於遼東。",
+          "through": "遂斬首送之。",
+          "citation": "《後漢書》卷七十四上·袁紹傳",
+          "note": "正文（袁紹傳）：建安十二年袁尚、袁熙敗走奔遼東公孫康，尚謀襲康據郡自廣；康心規取尚以為功，先置精勇於廄中，請尚、熙入，未及坐即叱伏兵禽之，斬首送之。此段詳載公孫康誘殺袁尚、袁熙並送首之經過。"
+        },
+        {
+          "id": "gongsunkang-houhanshu-wuhuan-bing-zhansong",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 13,
+          "from": "建安十二年，曹操自征烏桓，大破蹋頓於柳城，斬之，首虜二十餘萬人。",
+          "through": "袁尚與樓班、烏延等皆走遼東，遼東太守公孫康並斬送之。",
+          "citation": "《後漢書》卷九十·烏桓鮮卑列傳",
+          "note": "正文（烏桓鮮卑列傳）：建安十二年曹操自征烏桓，大破蹋頓於柳城，袁尚與樓班、烏延等皆走遼東，遼東太守公孫康並斬送之。與孝獻帝紀、袁紹傳互證公孫康斬袁尚事。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
