@@ -173724,6 +173724,33 @@
           "term": "蹋頓",
           "quote": "興遣姚紹與姚弼率禁衛諸軍鎮撫嶺北。",
           "reason": "姚興遣姚紹、姚弼鎮撫嶺北、收遼東侯彌姐亭地事，未提蹋頓其名；按全名匹配原則排除（向量因事件「柳城之戰為張遼陣斬」誤命中）。"
+        },
+        {
+          "id": "tadun-jinshu-murongchui-zhailiao",
+          "work": "jinshu",
+          "source": "a05-123-ahcb",
+          "paragraph": 26,
+          "term": "蹋頓",
+          "quote": "率諸將南攻翟遼，以楷爲前鋒都督。",
+          "reason": "《晉書·卷一百二十三·載記第二十三·慕容垂》慕容垂南攻翟遼事，此「遼」為翟遼，與烏丸單于蹋頓無關，全段未提蹋頓其名；向量因事件「柳城之戰為張遼陣斬」誤命中，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-wuhuan-yangjia-yanxi",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 11,
+          "term": "蹋頓",
+          "quote": "順帝陽嘉四年冬，烏桓寇雲中",
+          "reason": "《後漢書·卷九十·烏桓鮮卑列傳第八十》順帝陽嘉四年至桓帝延熹九年烏桓寇邊事，東漢順桓年間事，全段未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-dili-longxi",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 112,
+          "term": "蹋頓",
+          "quote": "隴西郡秦置。統縣四，戶四千。",
+          "reason": "《晉書·卷十四·地理志上》隴西郡地理條目，未提蹋頓其名；向量事件誤命中，排除。"
         }
       ],
       "conclusions": [],
