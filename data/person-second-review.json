@@ -174129,6 +174129,33 @@
           "term": "蹋頓",
           "quote": "趙達傳",
           "reason": "《三國志·吳書十八·吳範劉惇趙達傳第十八》卷內標題段，僅「趙達傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-xuezong",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 16,
+          "term": "蹋頓",
+          "quote": "薛綜傳",
+          "reason": "《三國志·吳書八·張嚴程闞薛傳第八》卷內標題段，僅「薛綜傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-gushao",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 15,
+          "term": "蹋頓",
+          "quote": "顧邵傳",
+          "reason": "《三國志·吳書七·張顧諸葛步傳第七》卷內標題段，僅「顧邵傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-wanglian",
+          "work": "sanguozhi",
+          "source": "a04-041",
+          "paragraph": 3,
+          "term": "蹋頓",
+          "quote": "王連傳",
+          "reason": "《三國志·蜀書十一·霍王向張楊費傳第十一》卷內標題段，僅「王連傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
         }
       ],
       "conclusions": [],
