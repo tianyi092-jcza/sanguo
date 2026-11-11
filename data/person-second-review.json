@@ -172030,6 +172030,33 @@
           "term": "始興郡",
           "quote": "始興郡吳置。統縣七，戶五千。",
           "reason": "《晉書·地理志》始興郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-huayang-lvkai",
+          "work": "huayang",
+          "source": "a06-004",
+          "paragraph": 30,
+          "term": "呂凱",
+          "quote": "守值諸郡叛亂功曹吕凱奉郡丞蜀郡王伉保境",
+          "reason": "《華陽國志》此段言呂凱守永昌、諸葛亮南征表其義事，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-shengyan",
+          "work": "jinshu",
+          "source": "a05-088-ahcb",
+          "paragraph": 9,
+          "term": "盛彥",
+          "quote": "彥仕吳，至中書侍郎。吳平，陸雲薦之於刺史周浚，本邑大中正劉頌又舉彥爲小中正。太康中卒。",
+          "reason": "《晉書·卷八十八·列傳第五十八》盛彥事，言其仕吳至中書侍郎、吳平後被薦為中正事，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-ancheng",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 73,
+          "term": "安成郡",
+          "quote": "安成郡吳置。統縣七，戶三千。",
+          "reason": "《晉書·地理志》安成郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
