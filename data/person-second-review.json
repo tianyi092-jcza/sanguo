@@ -176001,6 +176001,33 @@
           "term": "后归曹操",
           "quote": "遂與馬騰、韓遂及左中郎劉範、諫議大夫馬宇共攻李傕、郭汜，以報其仇。",
           "reason": "此段為《後漢書·卷五十六·列傳第四十六》馬騰、韓遂等共攻李傕、郭汜事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-sanguozhi-fazheng-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-037",
+          "paragraph": 12,
+          "term": "后归曹操",
+          "quote": "曹操一舉而降張魯，定漢中",
+          "reason": "此段為《三國志·卷三十七·蜀書七 龐統法正傳》法正說先主取漢中、定軍山破夏侯淵事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-tianwen-zhongping",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 19,
+          "term": "中平年间内乱",
+          "quote": "中平六年，大將軍何進謀盡誅中官",
+          "reason": "此段為《後漢書·志第十二·天文下》彗星、客星占驗及中平六年何進謀誅中官事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-xunyu-xuzhou",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 32,
+          "term": "后归曹操",
+          "quote": "二年，陶謙死，操欲遂取徐州",
+          "reason": "此段為《後漢書·卷七十·列傳第六十》荀彧諫曹操先定兖州、破呂布事，全段無于夫羅；向量事件信號誤命中，排除。"
         }
       ],
       "unresolved": []
