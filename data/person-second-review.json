@@ -173109,6 +173109,33 @@
           "term": "自稱白虎王",
           "quote": "騎白馬者為張白騎",
           "reason": "此段為《後漢書·卷七十一·皇甫嵩朱儁列傳》，列黃巾餘黨名號，「張白騎」為騎白馬者之號，非嚴白虎，全段未提嚴白虎其人；「自稱白虎王」為向量事件誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-houhanshu-huangjin-hecong",
+          "work": "houhanshu",
+          "source": "a03-058",
+          "paragraph": 38,
+          "term": "自稱白虎王",
+          "quote": "獨不念黃巾之合從邪？",
+          "reason": "此段為《後漢書·卷五十八》論黃巾合從、黑山事，全段未提「白虎」亦未提嚴白虎；「自稱白虎王」為向量事件誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-houhanshu-baihu-chuanshuo",
+          "work": "houhanshu",
+          "source": "a03-086",
+          "paragraph": 20,
+          "term": "自稱白虎王",
+          "quote": "秦昭襄王時有一白虎",
+          "reason": "此段為《後漢書·卷八十六·南蠻西南夷列傳》板楯蠻夷白虎傳說，秦昭襄王時事，與嚴白虎無關；「自稱白虎王」為向量事件誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-houhanshu-yewang-erlao",
+          "work": "houhanshu",
+          "source": "a03-083",
+          "paragraph": 3,
+          "term": "自稱白虎王",
+          "quote": "此中多虎",
+          "reason": "此段為《後漢書·卷八十三·逸民列傳》野王二老諫光武事，「多虎」指野虎，與嚴白虎無關；「自稱白虎王」為向量事件誤命中，排除。"
         }
       ],
       "conclusions": [],
