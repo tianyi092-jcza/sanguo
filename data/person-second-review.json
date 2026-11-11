@@ -178332,9 +178332,39 @@
           "through": "是後倭韓遂屬帶方。",
           "citation": "《三國志・魏書三十・烏丸鮮卑東夷傳・韓傳》",
           "note": "建安中康分屯有縣以南荒地為帶方郡，遣公孫模、張敞等收集遺民、興兵伐韓濊，舊民稍出，倭韓遂屬帶方。"
+        },
+        {
+          "id": "gongsunkang-sanguozhi-gongsundu-kang-wuzhang",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 14,
+          "from": "先時，屬國公孫昭守襄平令，召度子康為伍長。",
+          "through": "先時，屬國公孫昭守襄平令，召度子康為伍長。",
+          "citation": "《三國志・魏書八・二公孫陶四張傳・公孫度傳》",
+          "note": "本段主述公孫度，此句為康少時唯一提及：襄平令公孫昭召度子康為伍長。"
+        },
+        {
+          "id": "gongsunkang-sanguozhi-zhan-yuanshang-shou",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 16,
+          "from": "十二年，太祖征三郡烏丸，屠柳城。",
+          "through": "追贈康大司馬。",
+          "citation": "《三國志・魏書八・二公孫陶四張傳・公孫度傳》",
+          "note": "建安十二年袁尚等奔遼東，康斬送尚首，封襄平侯、拜左將軍；康死，眾立恭為遼東太守，文帝追贈康大司馬。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "gongsunkang-excl-jinshu-liaodong-daohuiwang",
+          "work": "jinshu",
+          "source": "a05-038-ahcb",
+          "paragraph": 50,
+          "term": "遼東",
+          "quote": "遼東悼惠王定國，年三歲薨。",
+          "reason": "本段言晉齊王攸子遼東悼惠王司馬定國，與遼東公孫康無關；僅地名「遼東」命中，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
