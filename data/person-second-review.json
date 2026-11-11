@@ -173778,6 +173778,33 @@
           "term": "蹋頓",
           "quote": "莒故莒子國。姑幕古薄姑氏國。",
           "reason": "《晉書·卷十五·地理志下》郡縣地理條目，未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-murongnong-lingzhi",
+          "work": "jinshu",
+          "source": "a05-123-ahcb",
+          "paragraph": 23,
+          "term": "蹋頓",
+          "quote": "慕容農攻克令支，斬徐巖兄弟。進伐高句驪，復遼東、玄菟二郡，還屯龍城。",
+          "reason": "《晉書·卷一百二十三·載記第二十三》慕容農事，未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-pangfen-yaoguang",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 232,
+          "term": "蹋頓",
+          "quote": "甲戌，遼東屬國都尉龐奮，承偽璽書殺玄菟太守姚光。",
+          "reason": "《後漢書·卷五·孝安帝紀第五》紀事，未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-duanliao-miyun",
+          "work": "jinshu",
+          "source": "a05-106-ahcb",
+          "paragraph": 31,
+          "term": "蹋頓",
+          "quote": "段遼於密雲山遣使詐降，季龍信之，使征東麻秋百里郊迎，敕秋曰：「受降如待敵，將軍慎之。」",
+          "reason": "《晉書·卷一百六·載記第六》石季龍事，未提蹋頓其名；向量事件誤命中，排除。"
         }
       ],
       "conclusions": [],
