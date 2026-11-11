@@ -173163,6 +173163,33 @@
           "term": "走餘杭投許昭",
           "quote": "討汲桑，破之",
           "reason": "《晉書·卷五十九·東海王越傳》此段言永嘉初東海王越自許昌率苟晞討汲桑事，繫年西晉永嘉年間，與建安初吳郡嚴白虎無關；事件「走餘杭投許昭」誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-jinshu-luguang-heilong",
+          "work": "jinshu",
+          "source": "a05-122-ahcb",
+          "paragraph": 5,
+          "term": "自稱白虎王",
+          "quote": "龍者神獸，人君利見之象",
+          "reason": "《晉書·卷一百二十二·載記第二十二》此段言後涼呂光見黑龍、杜進以人君之象進言事，與建安初吳郡嚴白虎無關；「自稱白虎王」事件語義相近致向量誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-houhanshu-junguo-shangjun",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 60,
+          "term": "自稱白虎王",
+          "quote": "膚施　白土　漆垣　奢延",
+          "reason": "《後漢書·志第二十三·郡國五》此段為上郡屬縣名錄，無人物事蹟，與嚴白虎無關；「白土」字面相近致向量誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-houhanshu-pengchong-yanwang",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 88,
+          "term": "自稱白虎王",
+          "quote": "寵自立為燕王",
+          "reason": "《後漢書·卷一上·光武帝紀第一上》此段言更始初年彭寵陷薊城自立為燕王事，繫年新莽末，與建安初吳郡嚴白虎無關；「自立為王」語義相近致向量誤命中，排除。"
         }
       ],
       "conclusions": [],
