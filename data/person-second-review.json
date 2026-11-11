@@ -173751,6 +173751,33 @@
           "term": "蹋頓",
           "quote": "隴西郡秦置。統縣四，戶四千。",
           "reason": "《晉書·卷十四·地理志上》隴西郡地理條目，未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-murongchui-gaogouli",
+          "work": "jinshu",
+          "source": "a05-123-ahcb",
+          "paragraph": 19,
+          "term": "蹋頓",
+          "quote": "高句驪寇遼東，垂平北慕容佐遣司馬郝景率眾救之，爲高句驪所敗，遼東、玄菟遂沒。",
+          "reason": "《晉書·卷一百二十三·載記第二十三》慕容垂事，未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-guchengzhuan-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 19,
+          "term": "蹋頓",
+          "quote": "顧承傳",
+          "reason": "《三國志·吳書七·張顧諸葛步傳第七》合傳小傳標題段，未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-dili-ju-xian",
+          "work": "jinshu",
+          "source": "a05-015-ahcb",
+          "paragraph": 8,
+          "term": "蹋頓",
+          "quote": "莒故莒子國。姑幕古薄姑氏國。",
+          "reason": "《晉書·卷十五·地理志下》郡縣地理條目，未提蹋頓其名；向量事件誤命中，排除。"
         }
       ],
       "conclusions": [],
