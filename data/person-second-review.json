@@ -177125,13 +177125,13 @@
     {
       "id": "p0322",
       "name": "成公英",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": [],
       "excerpts": [
@@ -178216,6 +178216,16 @@
           "quote": "冬，亮復出散關，圍陳倉，曹真拒之",
           "citation": "《三國志·蜀書五 諸葛亮傳第五》",
           "reason": "段落為諸葛亮圍陳倉、破王雙、議吳盟事，全段未提成公英，僅因向量事件「曉習兵事」誤關聯，排除。"
+        },
+        {
+          "work": "sanguozhi",
+          "term": "成公英",
+          "id": "chenggongying-excl-107",
+          "source": "a05-076-ahcb",
+          "paragraph": 49,
+          "quote": "蘇峻反，王師敗績，眾還吳，潛圖義舉",
+          "citation": "《晉書·卷七十六 列傳第四十六》",
+          "reason": "段落為顧眾於蘇峻之亂時在吳潛圖義舉、遣徐機告蔡謨事，全段未提成公英，僅因向量事件「曉習兵事」誤關聯，排除。"
         }
       ],
       "unresolved": []
