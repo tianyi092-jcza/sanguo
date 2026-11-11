@@ -174969,6 +174969,22 @@
         "篩查：本輪共覆核 77 段：錄正摘錄 14 條（皆《三國志》，含裴注引《漢晉春秋》異說 1、魏氏春秋異說 1），排除 63 條（《三國志》12、《後漢書》28、《晉書》20、《華陽國志》3，多為事件信號誤報，段內無軻比能其人），未解決 0 條。本輪重跑向量檢索候選為 0（年號剛性剔除 2 段），候選枯竭。本傳所依《三國志·烏丸鮮卑東夷傳》a04-030 全 59 段核對，言及比能者僅 §0、§6、§7、§8、§9、§10、§11，§10、§11 為本輪本傳補齊（§10 錄正、§11 排除），餘皆已摘錄或排除。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0318",
+      "name": "步度根",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [],
+      "exclusions": [],
+      "unresolved": []
     }
   ]
 }
