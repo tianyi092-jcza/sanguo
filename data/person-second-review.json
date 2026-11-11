@@ -172547,6 +172547,33 @@
           "term": "涇縣大帥",
           "quote": "詔征西將軍耿秉屯酒泉。",
           "reason": "《後漢書·卷三·肅宗孝章帝紀》此段記詔征西將軍耿秉屯酒泉、遣酒泉太守段彭救耿恭事，未提祖郎其人，亦無涇縣，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-junguo-jingshui",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 39,
+          "term": "涇縣大帥",
+          "quote": "涇水出縣西幵頭山，入渭。",
+          "reason": "《後漢書·志第二十三·郡國五》此段為郡國志地理，記臨涇、高平、朝那等地及涇水出處，未提祖郎其人，亦無涇縣大帥事，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-gengyan-qi",
+          "work": "houhanshu",
+          "source": "a03-019",
+          "paragraph": 12,
+          "term": "涇縣大帥",
+          "quote": "六年，西拒隗嚻，屯兵於漆。",
+          "reason": "《後漢書·卷十九·列傳第九·耿弇傳》此段記耿弇西拒隗嚻、屯兵於漆，從上隴事，未提祖郎其人，亦無涇縣，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-huangfusong-quyang",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 6,
+          "term": "涇縣大帥",
+          "quote": "嵩復與鉅鹿太守馮翊郭典攻角弟寶於下曲陽，又斬之。",
+          "reason": "《後漢書·卷七十一·列傳第六十一·皇甫嵩傳》此段記皇甫嵩攻張寶於下曲陽、築京觀事，未提祖郎其人，亦無涇縣，與祖郎無關，排除。"
         }
       ],
       "conclusions": [],
