@@ -178363,6 +178363,33 @@
           "term": "遼東",
           "quote": "遼東悼惠王定國，年三歲薨。",
           "reason": "本段言晉齊王攸子遼東悼惠王司馬定國，與遼東公孫康無關；僅地名「遼東」命中，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-liaodong-xianbei",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 82,
+          "term": "遼東",
+          "quote": "鮮卑寇遼東。",
+          "reason": "本段僅言鮮卑寇遼東，未提公孫康；僅地名「遼東」命中，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-liaodong-junguo",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 91,
+          "term": "遼東",
+          "quote": "高句驪，遼山，遼水出。",
+          "reason": "郡國志地理條目，言遼東屬縣沿革，未提公孫康；僅地名「遼東」命中，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-jinshu-liaodong-dilizhi",
+          "work": "jinshu",
+          "source": "a05-014",
+          "paragraph": 79,
+          "term": "遼東",
+          "quote": "遼東國秦立為郡。",
+          "reason": "晉書地理志遼東國條目，言郡縣沿革，未提公孫康；僅地名「遼東」命中，排除。"
         }
       ],
       "unresolved": []
