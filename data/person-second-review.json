@@ -173805,6 +173805,33 @@
           "term": "蹋頓",
           "quote": "段遼於密雲山遣使詐降，季龍信之，使征東麻秋百里郊迎，敕秋曰：「受降如待敵，將軍慎之。」",
           "reason": "《晉書·卷一百六·載記第六》石季龍事，未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-shile-hexian",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 57,
+          "term": "蹋頓",
+          "quote": "河西鮮卑日六延叛于勒，石季龍討之，敗延于朔方，斬首二萬級，俘三萬餘人，獲牛馬十餘萬。",
+          "reason": "《晉書·卷一百四·載記第四》石勒事，全段未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-zhangliao-hefei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 7,
+          "term": "蹋頓",
+          "quote": "孫權復叛，遣遼還屯合肥，進遼爵都鄉侯。",
+          "reason": "《三國志·魏書十七·張遼傳》張遼晚年合肥、江都事，全段未提蹋頓其名；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-wuhuan-yongchu",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 10,
+          "term": "蹋頓",
+          "quote": "及明、章、和三世，皆保塞無事。安帝永初三年夏，漁陽烏桓與右北平胡千餘寇代郡、上谷。",
+          "reason": "《後漢書·卷九十·烏桓鮮卑列傳第八十》安帝永初三年事，早於蹋頓時代，全段未提蹋頓其名；向量事件誤命中，排除。"
         }
       ],
       "conclusions": [],
