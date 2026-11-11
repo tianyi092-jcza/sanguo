@@ -178444,6 +178444,33 @@
           "term": "玄菟",
           "quote": "夏六月，高句驪與穢貊寇玄菟。",
           "reason": "《後漢書》孝安帝紀，高句驪與穢貊寇玄菟，僅地名命中，未提公孫康，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-gaogouli-bogu",
+          "work": "houhanshu",
+          "source": "a03-085",
+          "paragraph": 14,
+          "term": "伯固",
+          "quote": "遂成死，子伯固立。其後濊貊率服，東垂少事。順帝陽嘉元年，置玄菟郡屯田六部。質、桓之閒，復犯遼東西安平，殺帶方令，郡國志西安平、帶方，縣，並屬遼東郡。掠得樂浪太守妻子。建寧二年，玄菟太守耿臨討之，斬首數百級，伯固降服，乞屬玄菟云。",
+          "reason": "高句麗王伯固事，東漢順帝至桓帝間，未提公孫康，僅遼東地名命中，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-juligong-liaodong",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 20,
+          "term": "句麗王宮",
+          "quote": "至殤、安之間，句麗王宮數寇遼東，更屬玄菟。遼東太守蔡風、玄菟太守姚光以宮為二郡害，興師伐之。宮詐降請和，二郡不進。宮密遣軍攻玄菟，焚燒候城，入遼隧，殺吏民。後宮復犯遼東，蔡風輕將吏士追討之，軍敗沒。",
+          "reason": "東漢殤、安之際句麗王宮寇遼東事，未提公孫康，僅遼東地名命中，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-xianbei-jirong",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 169,
+          "term": "遼東太守",
+          "quote": "秋，鮮卑寇遼東，遼東太守祭肜大破之。",
+          "reason": "《後漢書》明帝紀，鮮卑寇遼東、太守祭肜破之，未提公孫康，排除。"
         }
       ],
       "unresolved": []
