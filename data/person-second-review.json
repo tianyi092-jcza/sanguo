@@ -172466,6 +172466,33 @@
           "term": "襲孫策",
           "quote": "石勒將石聰攻壽陽，不克，遂侵逡遒、阜陵",
           "reason": "《晉書·卷七·帝紀第七·成帝》此段言石勒遣石聰攻壽陽、蘇峻遣韓晃事，通段未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-mantianqianguo-tianyu",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 11,
+          "term": "襲孫策",
+          "quote": "鄢陵侯彰征代郡，以豫為相。",
+          "reason": "《三國志·魏書二十六·滿田牽郭傳》此段言田豫從曹彰征代郡事，「豫策」之「策」為謀策，非孫策；通段未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-mingdi-gongsunyuan",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 39,
+          "term": "襲孫策",
+          "quote": "丙寅，司馬宣王圍公孫淵於襄平，大破之，",
+          "reason": "《三國志·魏書三·明帝紀》此段言明帝景初二年司馬懿討公孫淵事，「卒皆如所策」之「策」為計策，非孫策；通段未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-xiaoandi-gengbao",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 290,
+          "term": "涇縣大帥",
+          "quote": "八月辛巳，大鴻臚耿寶為大將軍。",
+          "reason": "《後漢書·卷五·孝安帝紀》此段僅記永初元年八月耿寶拜大將軍一事，未提祖郎其人，亦無涇縣，與祖郎無關，排除。"
         }
       ],
       "conclusions": [],
