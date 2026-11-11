@@ -172520,6 +172520,33 @@
           "term": "涇縣大帥",
           "quote": "擊富平、獲索賊於平原",
           "reason": "《後漢書·卷一·光武帝紀第一》此段言建武初吳漢、耿弇擊富平、獲索賊於平原郡，未提祖郎其人，亦無涇縣；且光武初年早於祖郎活動之時，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-xiaoandi-jingzhou",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 95,
+          "term": "涇縣大帥",
+          "quote": "安定，郡，今涇州也。",
+          "reason": "《後漢書·卷五·孝安帝紀》此段僅記詔徙隴西、安定、北地、上郡諸郡縣事，「涇州」為安定郡注文之今地名，與涇縣大帥祖郎無關，亦未提祖郎其人，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-guangwudi-laixie",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 38,
+          "term": "涇縣大帥",
+          "quote": "中郎將來歙襲略陽",
+          "reason": "《後漢書·卷一下·光武帝紀第一下》此段記建武八年春正月來歙襲略陽、殺隗嚻守將而據其城，未提祖郎其人，亦無涇縣，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-zhangdi-gengbing",
+          "work": "houhanshu",
+          "source": "a03-003",
+          "paragraph": 5,
+          "term": "涇縣大帥",
+          "quote": "詔征西將軍耿秉屯酒泉。",
+          "reason": "《後漢書·卷三·肅宗孝章帝紀》此段記詔征西將軍耿秉屯酒泉、遣酒泉太守段彭救耿恭事，未提祖郎其人，亦無涇縣，與祖郎無關，排除。"
         }
       ],
       "conclusions": [],
