@@ -178362,6 +178362,16 @@
           "through": "太祖亦不問。",
           "citation": "《三國志・魏書十一・袁張涼國田王邴管傳・田疇傳》",
           "note": "裴注：遼東斬送袁尚首，田疇以嘗為尚所辟往弔祭，太祖亦不問；旁證康斬袁尚送首之事。"
+        },
+        {
+          "id": "gongsunkang-sanguozhi-gongsundu-kang-siwei-jianan-jiunian",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 15,
+          "from": "度死，子康嗣位，",
+          "through": "是歲建安九年也。",
+          "citation": "《三國志・魏書八・二公孫陶四張傳・公孫度傳》",
+          "note": "正文：度死，子康嗣位，封弟恭以永寧鄉侯，繫年建安九年；補康嗣位之年與封恭事。"
         }
       ],
       "exclusions": [
@@ -178688,6 +178698,24 @@
           "term": "崔琰",
           "quote": "大將軍袁紹聞而辟之",
           "reason": "《三國志》魏書十二·崔琰傳，言袁紹辟崔琰、琰諫掩骼埋胔及治兵黎陽事，全段未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-yuanshao-tan-shang",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 8,
+          "term": "袁尚",
+          "quote": "尚聞操度河，乃釋平原還鄴。",
+          "reason": "《後漢書》卷七十四下・列傳第六十四下袁紹傳，言曹操救袁譚、袁尚還鄴、呂曠高翔叛歸曹氏等事，全段未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-sima-zheng-yuan",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 18,
+          "term": "公孫淵",
+          "quote": "二年春，遣太尉司馬宣王征淵。",
+          "reason": "《三國志》魏書八・公孫度傳，言太尉司馬宣王征公孫淵、淵自立乞兵於吳、宣王破淵斬淵父子事，全段未提公孫康，與公孫康無關，排除。"
         }
       ],
       "unresolved": []
