@@ -178580,6 +178580,33 @@
           "term": "張邈",
           "quote": "初，邈至長安，盛稱東郡太守曹操忠誠於帝，操以此德於邈。",
           "reason": "《後漢書》卷四十二，張邈至長安稱曹操、容子熙立王事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-xiandi-caocao-xuzhou",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 11,
+          "term": "曹操",
+          "quote": "十二月癸酉，曹操擊呂布於徐州，斬之。",
+          "reason": "《後漢書》卷九孝獻帝紀，建安三年曹操擊呂布於徐州事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-lie38-caocao-chengxiang",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 46,
+          "term": "曹操",
+          "quote": "後拜太常，使持節拜曹操為丞相。",
+          "reason": "《後漢書》卷四十八，使持節拜曹操為丞相、操讓相於璆事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-jinshu-yuangui",
+          "work": "jinshu",
+          "source": "a05-083-ahcb",
+          "paragraph": 7,
+          "term": "袁瑰",
+          "quote": "袁瑰字山甫，陳郡陽夏人，魏郎中令渙之曾孫也。",
+          "reason": "《晉書》卷八十三袁瑰傳，未提公孫康，與公孫康無關，排除。"
         }
       ],
       "unresolved": []
