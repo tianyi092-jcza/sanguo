@@ -172084,6 +172084,33 @@
           "term": "高興郡",
           "quote": "高興郡吳置。統縣五，戶一千二百。",
           "reason": "《晉書·地理志》高興郡條，僅言郡置戶數，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-jinshu-xinchang",
+          "work": "jinshu",
+          "source": "a05-015",
+          "paragraph": 65,
+          "term": "新昌郡",
+          "quote": "新昌郡吳置。統縣六，戶三千。麋泠婦人徵側為主處，馬援平之。嘉寧　吳定　封山　臨西　西道",
+          "reason": "《晉書·地理志》新昌郡條，僅言郡置戶數與古事，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-sanguozhi-wangfuren-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 15,
+          "term": "吳主權王夫人傳",
+          "quote": "吳主權王夫人傳",
+          "reason": "僅為卷五十小傳標題，未提許貢其人，與許貢無關，排除。"
+        },
+        {
+          "id": "xugong-sanguozhi-sunquan-kaipian",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 0,
+          "term": "孫權",
+          "quote": "孫權字仲謀。兄策旣定諸郡，時權年十五，以為陽羨長。",
+          "reason": "《三國志·吳書二·吳主傳》開篇，述孫權早年隨兄孫策起事江東，未提許貢其人，與許貢無關，排除。"
         }
       ],
       "coverage": {
