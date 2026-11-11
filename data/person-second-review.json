@@ -173136,6 +173136,33 @@
           "term": "自稱白虎王",
           "quote": "此中多虎",
           "reason": "此段為《後漢書·卷八十三·逸民列傳》野王二老諫光武事，「多虎」指野虎，與嚴白虎無關；「自稱白虎王」為向量事件誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-sanguozhi-zhanghong-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-053",
+          "paragraph": 0,
+          "term": "走餘杭投許昭",
+          "quote": "張紘傳",
+          "reason": "《三國志·吳書七·張紘傳》此段僅為傳名標題「張紘傳」，未提嚴白虎其人，與嚴白虎無關；事件「走餘杭投許昭」誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-huayang-liangzhou-hu",
+          "work": "huayang",
+          "source": "a06-008",
+          "paragraph": 34,
+          "term": "自稱白虎王",
+          "quote": "虎亦求捄於茂",
+          "reason": "《華陽國志》卷八此段言梁州事，文中的「虎」與氐帥楊難敵結連攻漢中州城，時代在西晉末，與建安初活動於吳郡的嚴白虎無關；事件「自稱白虎王」誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-jinshu-donghaiwangyue-jisang",
+          "work": "jinshu",
+          "source": "a05-059-ahcb",
+          "paragraph": 81,
+          "term": "走餘杭投許昭",
+          "quote": "討汲桑，破之",
+          "reason": "《晉書·卷五十九·東海王越傳》此段言永嘉初東海王越自許昌率苟晞討汲桑事，繫年西晉永嘉年間，與建安初吳郡嚴白虎無關；事件「走餘杭投許昭」誤命中，排除。"
         }
       ],
       "conclusions": [],
