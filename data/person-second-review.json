@@ -172304,6 +172304,33 @@
           "term": "襲孫策",
           "quote": "孫皓傳",
           "reason": "《三國志·吳書三·三嗣主傳第三·孫皓傳》此段僅為傳名標題「孫皓傳」，未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-jingxian-chuwangying",
+          "work": "houhanshu",
+          "source": "a03-002",
+          "paragraph": 72,
+          "term": "涇縣",
+          "quote": "遷於涇縣",
+          "reason": "《後漢書·卷二·顯宗孝明帝紀第二》此段言楚王英謀反被廢、遷於涇縣，僅涉涇縣地名，未提祖郎其人；且明帝朝事早於祖郎活動之時，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-sunkuang-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 16,
+          "term": "襲孫策",
+          "quote": "孫匡傳",
+          "reason": "《三國志·吳書六·宗室傳第六·孫匡傳》此段僅為傳名標題「孫匡傳」，未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-sunlü-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-059",
+          "paragraph": 7,
+          "term": "襲孫策",
+          "quote": "孫慮傳",
+          "reason": "《三國志·吳書十四·吳主五子傳第十四·孫慮傳》此段僅為傳名標題「孫慮傳」，未提祖郎其人，與祖郎無關，排除。"
         }
       ],
       "conclusions": [],
