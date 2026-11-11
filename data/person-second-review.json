@@ -173616,6 +173616,33 @@
           "term": "段匹磾",
           "quote": "石季龍攻段匹磾于厭次",
           "reason": "《晉書·卷一百五·石勒載記下》石季龍攻段匹磾事（四世紀），與蹋頓無關；向量誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-zhangliao-title",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 0,
+          "term": "張遼傳",
+          "quote": "張遼傳",
+          "reason": "卷首標題段，僅卷名，無蹋頓相關內容；向量誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-muronghuang-liaoxi",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 118,
+          "term": "石季龍",
+          "quote": "二月，慕容皝及石季龍將石成戰于遼西，敗之",
+          "reason": "《晉書·卷七》慕容皝、石季龍遼西之戰（四世紀），與蹋頓無關；向量誤命中，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-wuhuan-koujun",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 67,
+          "term": "烏桓",
+          "quote": "六月，烏桓寇代郡、上谷、涿郡。",
+          "reason": "僅言烏桓寇三郡，未提蹋頓其名；按全名匹配原則不錄為本人史實，排除。"
         }
       ],
       "conclusions": [],
