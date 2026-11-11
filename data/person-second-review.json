@@ -178947,6 +178947,33 @@
           "term": "國淵傳",
           "quote": "國淵傳",
           "reason": "《三國志》卷十一本段僅為國淵傳篇目標題，無正文內容，未提公孫恭，排除。"
+        },
+        {
+          "id": "gongsungong-excl-016",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 39,
+          "term": "公孫淵",
+          "quote": "司馬宣王圍公孫淵於襄平，大破之，傳淵首于京都",
+          "reason": "《三國志》卷三明帝紀景初二年（238）所記司馬宣王平公孫淵，只述淵之敗亡，未提已被廢的公孫恭，排除。"
+        },
+        {
+          "id": "gongsungong-excl-017",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 17,
+          "term": "公孫淵",
+          "quote": "及公孫淵背盟，權欲往征",
+          "reason": "《三國志》卷五十八陸遜傳：遜上疏勸孫權勿遠征公孫淵，所言皆為淵背盟事，未提公孫恭，排除。"
+        },
+        {
+          "id": "gongsungong-excl-018",
+          "work": "houhanshu",
+          "source": "a03-079b-ahcb",
+          "paragraph": 12,
+          "term": "子壽",
+          "quote": "子壽，官至東郡太守。",
+          "reason": "《後漢書》卷七十九下儒林列傳所記「子壽，官至東郡太守」，未提公孫恭，與其生平無關，排除。"
         }
       ],
       "unresolved": []
