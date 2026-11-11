@@ -172166,6 +172166,22 @@
         "篩查：本輪共覆核 43 段：錄正摘錄 8 條（《三國志》6、《後漢書》2，含本輪補裴注江表傳 1 條），排除 35 條（《晉書》27、《三國志》6、《後漢書》1、《華陽國志》1，多為吳郡太守、吳郡地名誤命中），未解決 0 條。向量候選 19 段皆為「上表圖孫策」事件信號誤報，段內無許貢其人，未立排除；本傳《三國志·孫策傳》a04-046 全 16 段核對，言及許貢者僅 §4、§13，皆已摘錄。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0314",
+      "name": "祖郎",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
