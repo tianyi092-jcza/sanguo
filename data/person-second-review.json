@@ -178553,6 +178553,33 @@
           "term": "脂習",
           "quote": "習往撫尸曰：「文舉舍我死，吾何用生為？」",
           "reason": "《後漢書》孔融傳，脂習撫孔融屍事，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-kongrong-yuancao",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 12,
+          "term": "袁、曹",
+          "quote": "時袁、曹方盛，而融無所協附。",
+          "reason": "《後漢書》孔融傳，袁紹、曹操方盛、孔融無所協附事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-cuiyan-eryuan",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 3,
+          "term": "二袁兄弟",
+          "quote": "二袁兄弟親尋干戈，兾方蒸庶暴骨原野。",
+          "reason": "《三國志》崔琰傳，太祖破袁氏、辟崔琰為別駕事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-zhangmiao-rongzixi",
+          "work": "houhanshu",
+          "source": "a03-042",
+          "paragraph": 81,
+          "term": "張邈",
+          "quote": "初，邈至長安，盛稱東郡太守曹操忠誠於帝，操以此德於邈。",
+          "reason": "《後漢書》卷四十二，張邈至長安稱曹操、容子熙立王事，未提公孫康，與公孫康無關，排除。"
         }
       ],
       "unresolved": []
