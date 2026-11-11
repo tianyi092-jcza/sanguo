@@ -172439,6 +172439,33 @@
           "term": "襲孫策",
           "quote": "時吳將孫秀降，拜爲驃騎大將軍。",
           "reason": "《晉書·卷四十·賈充傳》此段言賈充遷司空、孫秀降事，通段未提祖郎其人，亦無襲孫策事，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-gongsunzan-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 0,
+          "term": "襲孫策",
+          "quote": "公孫瓚傳",
+          "reason": "《三國志·魏書八·二公孫陶四張傳第八·公孫瓚傳》此段僅為傳名標題，通段未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-jinshu-wuxingzhi-sunhao",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 189,
+          "term": "襲孫策",
+          "quote": "吳孫皓寶鼎元年十二月，太史奏久陰不雨，將有陰謀。",
+          "reason": "《晉書·卷二十九·志第十九》此段言孫皓寶鼎元年陸凱等謀廢孫皓事，通段未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-jinshu-chengdi-shile",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 12,
+          "term": "襲孫策",
+          "quote": "石勒將石聰攻壽陽，不克，遂侵逡遒、阜陵",
+          "reason": "《晉書·卷七·帝紀第七·成帝》此段言石勒遣石聰攻壽陽、蘇峻遣韓晃事，通段未提祖郎其人，與祖郎無關，排除。"
         }
       ],
       "conclusions": [],
