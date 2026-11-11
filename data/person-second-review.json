@@ -179321,13 +179321,13 @@
     {
       "id": "p0326",
       "name": "難升米",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": [],
       "excerpts": [
@@ -179764,6 +179764,24 @@
           "term": "魏拜率善中郎將",
           "quote": "表爲赤沙中郎將",
           "reason": "晉書劉聰事，河間王顒表爲赤沙中郎將，與倭使朝獻、難升米無關；段中無倭、無難升米，僅將軍職名向量相似而誤命中，排除。"
+        },
+        {
+          "id": "nanshengmi-excl-046",
+          "work": "jinshu",
+          "source": "a05-088-ahcb",
+          "paragraph": 11,
+          "term": "魏拜率善中郎將",
+          "quote": "累遷五官中郎將",
+          "reason": "晉書卷八十八人物仕歷（吳時拜仁義都尉、累遷五官中郎將，吳平後除高山令），與倭使朝獻、難升米無關；段中無倭、無難升米，僅將軍職名向量相似而誤命中，排除。"
+        },
+        {
+          "id": "nanshengmi-excl-047",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 35,
+          "term": "魏拜率善中郎將",
+          "quote": "拜蒙左護軍、虎威將軍",
+          "reason": "三國志呂蒙傳段落（呂蒙督濡須、拜左護軍虎威將軍），與倭使朝獻、難升米無關；段中無倭、無難升米，僅將軍職名向量相似而誤命中，排除。"
         }
       ],
       "unresolved": []
