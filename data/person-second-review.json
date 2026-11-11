@@ -176228,13 +176228,13 @@
     {
       "id": "p0321",
       "name": "楊千萬",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": [],
       "excerpts": [
@@ -177108,6 +177108,16 @@
           "quote": "州人迎先主先主未許廣陵太守下邳陳登進曰今",
           "citation": "《華陽國志·卷六》",
           "reason": "段為劉備領徐州牧、建安元年事，全段未提楊千萬；向量事件「建安十九年奔馬超」誤關聯，排除。"
+        },
+        {
+          "id": "yangqianwan-excl-085",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 9,
+          "term": "楊千萬",
+          "quote": "建安元年春正月癸酉，郊祀上帝於安邑，大赦天下，改元建安。",
+          "citation": "《後漢書·卷九·獻帝紀第九》",
+          "reason": "段落為建安元年（196）獻帝還洛、遷都許事，全段未提楊千萬，年代、人事均與楊千萬無關，純屬向量事件「建安十九年奔馬超」誤關聯，排除。"
         }
       ],
       "unresolved": []
