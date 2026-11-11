@@ -178741,13 +178741,13 @@
     {
       "id": "p0324",
       "name": "公孫恭",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": [],
       "excerpts": [
@@ -178810,6 +178810,26 @@
           "through": "遼東太守公孫淵奪叔父位，擅自立，遣使表狀。",
           "citation": "《三國志・魏書十四・程郭董劉蔣劉傳第十四・劉曄傳》",
           "note": "劉曄傳正文：淵奪叔父位自立；叔父即公孫恭，與明帝紀太和二年（228）淵奪位及公孫度傳裴注引《魏略》互證。劉曄建言因其新立、先其不意以兵臨之，後淵竟反。"
+        },
+        {
+          "id": "gongsungong-sanguozhi-gongsundu-bing-ruo-yuan-duo-wei",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 17,
+          "from": "初，恭病陰消為閹人，劣弱不能治國。",
+          "through": "太和二年，淵脅奪恭位。明帝即拜淵揚烈將軍、遼東太守。",
+          "citation": "《三國志・魏書八・二公孫陶四張傳第八・公孫度傳》",
+          "note": "正文（公孫度傳）：恭病陰消為閹人，劣弱不能治國；太和二年（228）淵脅奪恭位，明帝即拜淵揚烈將軍、遼東太守。與明帝紀太和二年「遼東太守公孫恭兄子淵劫奪恭位，遂以淵領遼東太守」互證。"
+        },
+        {
+          "id": "gongsungong-sanguozhi-gongsundu-kang-feng-di-gong-yongning",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 15,
+          "from": "度死，子康嗣位，以永寧鄉侯封弟恭。",
+          "through": "是歲建安九年也。",
+          "citation": "《三國志・魏書八・二公孫陶四張傳第八・公孫度傳》",
+          "note": "正文（公孫度傳）：公孫度死，子康嗣位，以永寧鄉侯封弟恭；是歲建安九年（204）。此為恭初封永寧鄉侯，與後衆立恭為遼東太守相銜接。"
         }
       ],
       "exclusions": [
