@@ -176028,6 +176028,33 @@
           "term": "后归曹操",
           "quote": "二年，陶謙死，操欲遂取徐州",
           "reason": "此段為《後漢書·卷七十·列傳第六十》荀彧諫曹操先定兖州、破呂布事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-wuxing-xingping",
+          "work": "houhanshu",
+          "source": "a03-105",
+          "paragraph": 66,
+          "term": "中平年间内乱",
+          "quote": "獻帝興平元年夏，大蝗。是時天下大亂。",
+          "reason": "此段為《後漢書·志第十五·五行三》記獻帝興平元年大蝗、天下大亂，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-yuanshao-ye",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 11,
+          "term": "后归曹操",
+          "quote": "曹操之圍鄴也，譚復背之",
+          "reason": "此段為《後漢書·卷七十四下·列傳第六十四下》記曹操圍鄴、袁譚袁尚相攻事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-taoqian-xuzhou",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 27,
+          "term": "后归曹操",
+          "quote": "興平元年，曹操復擊謙",
+          "reason": "此段為《後漢書·卷七十三·列傳第六十三》記曹操再擊陶謙、張邈迎呂布據兖州事，全段無于夫羅；向量事件信號誤命中，排除。"
         }
       ],
       "unresolved": []
