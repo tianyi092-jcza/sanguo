@@ -178661,6 +178661,33 @@
           "term": "袁術自淮南",
           "quote": "袁術自淮南欲經徐州北就袁紹",
           "reason": "《華陽國志》卷六劉先主志，言袁術、董承衣帶詔與先主事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-yuanshao-chunyujiong",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 36,
+          "term": "淳于瓊",
+          "quote": "紹遣淳于瓊等將兵萬餘人北迎粮運",
+          "reason": "《後漢書》卷七十四上·袁紹傳，言官渡相持、許攸奔曹、曹操夜襲烏巢破淳于瓊事，全段未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-yuantan-wangxiu",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 2,
+          "term": "王脩",
+          "quote": "別駕王脩率吏人自青州往救譚",
+          "reason": "《後漢書》卷七十四下·袁譚傳，言袁譚、袁尚兄弟相爭、譚遣辛毗詣曹操請救事，全段未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-cuiyan-yuanshao",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 2,
+          "term": "崔琰",
+          "quote": "大將軍袁紹聞而辟之",
+          "reason": "《三國志》魏書十二·崔琰傳，言袁紹辟崔琰、琰諫掩骼埋胔及治兵黎陽事，全段未提公孫康，與公孫康無關，排除。"
         }
       ],
       "unresolved": []
