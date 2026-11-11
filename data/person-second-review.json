@@ -178499,6 +178499,33 @@
           "term": "遼東屬國",
           "quote": "遼東屬國故邯鄉，西部都尉，安帝時以為屬國都尉，別領六城。",
           "reason": "《後漢書》郡國志，遼東屬國沿革，安帝時事，未提公孫康，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-gaotanglong-liaodongbuchao",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 31,
+          "term": "遼東",
+          "quote": "而遼東不朝。",
+          "reason": "《三國志》高堂隆上疏諫明帝，言遼東不朝，繫年青龍年間、當公孫淵據遼東時，未提公孫康，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-yuanshao-xishang-ben-liaoxiwuhuan",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 13,
+          "term": "遼西烏桓",
+          "quote": "熙、尚爲其將焦觸、張南所攻，奔遼西烏桓。",
+          "reason": "《後漢書》袁紹傳下，袁熙、袁尚奔遼西烏桓、焦觸事，未提公孫康及遼東斬首事，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-zhangliao-zhuanming",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 0,
+          "term": "張遼傳",
+          "quote": "張遼傳",
+          "reason": "《三國志》卷首傳名，僅標題，無正文內容，未提公孫康，排除。"
         }
       ],
       "unresolved": []
