@@ -176055,6 +176055,33 @@
           "term": "后归曹操",
           "quote": "興平元年，曹操復擊謙",
           "reason": "此段為《後漢書·卷七十三·列傳第六十三》記曹操再擊陶謙、張邈迎呂布據兖州事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-huayang-houzhu",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 32,
+          "term": "后归曹操",
+          "quote": "劉氏凡得蜀五十年正稱尊",
+          "reason": "《華陽國志》卷七第32段，記後主降魏封侯、鄧艾姜維成都事，全段無于夫羅；事件信號「后归曹操」向量誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-sanguozhi-zhutai",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 21,
+          "term": "后归曹操",
+          "quote": "後權破關羽，欲進圖蜀，拜泰漢中太守",
+          "reason": "《三國志》卷五十五·吳書十朱桓傳（子泰附傳）第21段，記朱泰拜漢中太守、封陵陽侯、黃武中卒事，全段無于夫羅；事件信號「后归曹操」向量誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-sanguozhi-gongsundu",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 15,
+          "term": "中平年间内乱",
+          "quote": "初平元年，度知中國擾攘",
+          "reason": "《三國志》卷八·魏書八公孫度傳第15段，記初平元年公孫度據遼東自立、郊祀稱王事，全段無于夫羅；事件信號「中平年间内乱」向量誤命中，排除。"
         }
       ],
       "unresolved": []
