@@ -173372,6 +173372,22 @@
         "篩查：本輪共覆核 79 段：錄正摘錄 6 條（《三國志》6，含裴注引《江表傳》3、《吳錄》1），排除 73 條（《晉書》34、《三國志》26、《後漢書》12、《華陽國志》1，多為「走餘杭投許昭」事件信號誤報，段內無嚴白虎其人），未解決 0 條。本輪向量候選僅 1 段（《三國志·丁奉傳》傳名標題），已排除；重跑檢索候選為 0，候選枯竭。本傳所依《三國志·孫策傳》a04-046 全 16 段核對，言及嚴白虎者僅 §11、§12、§13，皆已摘錄；§3 之「嚴」為「整嚴」一詞，與嚴白虎無關。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0316",
+      "name": "蹋頓",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
