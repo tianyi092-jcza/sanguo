@@ -173190,6 +173190,33 @@
           "term": "自稱白虎王",
           "quote": "寵自立為燕王",
           "reason": "《後漢書·卷一上·光武帝紀第一上》此段言更始初年彭寵陷薊城自立為燕王事，繫年新莽末，與建安初吳郡嚴白虎無關；「自立為王」語義相近致向量誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-houhanshu-xuman-fangshu",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 8,
+          "term": "走餘杭投許昭",
+          "quote": "許曼者，汝南平輿人也。祖父峻，字季山，善卜占之術，多有顯驗",
+          "reason": "《後漢書·卷八十二下·方術列傳第七十二下》此段言方士許曼家世，段中既無嚴白虎亦未言投許昭事，與嚴白虎走餘杭投許昭無關；因語義相近致向量誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-jinshu-luli-shuoda",
+          "work": "jinshu",
+          "source": "a05-017-ahcb",
+          "paragraph": 152,
+          "term": "走餘杭投許昭",
+          "quote": "朔大餘，五十四。",
+          "reason": "《晉書·卷十七·志第七》此段為曆數文字，與嚴白虎無關；向量誤命中，排除。"
+        },
+        {
+          "id": "yanbaihu-sanguozhi-zhangxiu-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 22,
+          "term": "走餘杭投許昭",
+          "quote": "張繡傳",
+          "reason": "《三國志·魏書八·二公孫陶四張傳第八》此段僅為張繡傳篇首標題，無正文內容，與嚴白虎無關；向量誤命中，排除。"
         }
       ],
       "conclusions": [],
