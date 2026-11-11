@@ -173562,6 +173562,33 @@
           "term": "遼西",
           "quote": "敗季龍將石成等于遼西",
           "reason": "《晉書·卷一百九·載記第九·慕容皝》此段為慕容評敗後趙石成事，遼西僅為地名，全段未及三國烏丸單于蹋頓；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-chengdi-liaoxi",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 105,
+          "term": "遼西",
+          "quote": "擊段遼于遼西",
+          "reason": "《晉書·卷八·帝紀第八·成皇帝》咸康四年（338）石季龍擊段遼事，遼西僅為地名，全段未及三國烏丸單于蹋頓；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-wuhuan-yuzhiju",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 19,
+          "term": "烏桓大人",
+          "quote": "烏桓大人於秩居等與連休有宿怨",
+          "reason": "《後漢書·卷九十·烏桓鮮卑列傳第八十》元初二年至六年（115–119）鮮卑寇邊、烏桓大人於秩居助郡兵破連休事，東漢初年事，全段未及建安末烏丸單于蹋頓；向量事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-title-wuhuan",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 0,
+          "term": "烏桓",
+          "quote": "烏桓　鮮卑",
+          "reason": "《後漢書·卷九十·烏桓鮮卑列傳第八十》卷首標題，僅「烏桓 鮮卑」四字，無正文內容，未及蹋頓其人；向量誤命中，排除。"
         }
       ],
       "conclusions": [],
