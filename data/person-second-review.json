@@ -172412,6 +172412,33 @@
           "term": "襲孫策",
           "quote": "策好馳騁游獵，翻諫曰",
           "reason": "《三國志·吳書十二·虞翻陸績張溫駱統吾粲朱據傳第十二·虞翻傳》此段言虞翻諫孫策、孫策討山越黃祖、取豫章事，通段未提祖郎其人，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-sunyu-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 2,
+          "term": "襲孫策",
+          "quote": "孫瑜傳",
+          "reason": "《三國志·吳書六·宗室傳第六·孫瑜傳》此段僅為傳名標題「孫瑜傳」，未提祖郎其人，亦無襲孫策事，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-sanguozhi-duxi-zhuan",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 19,
+          "term": "襲孫策",
+          "quote": "襲嘗獨見，至于夜半。",
+          "reason": "《三國志·魏書二十三·和洽常林楊俊杜襲趙儼裴潛傳第二十三·杜襲傳》此段言杜襲隨太祖、留督漢中事，通段未提祖郎其人，亦無襲孫策事；「襲」為杜襲之名，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-jinshu-jiachong-zhuan",
+          "work": "jinshu",
+          "source": "a05-040",
+          "paragraph": 11,
+          "term": "襲孫策",
+          "quote": "時吳將孫秀降，拜爲驃騎大將軍。",
+          "reason": "《晉書·卷四十·賈充傳》此段言賈充遷司空、孫秀降事，通段未提祖郎其人，亦無襲孫策事，與祖郎無關，排除。"
         }
       ],
       "conclusions": [],
