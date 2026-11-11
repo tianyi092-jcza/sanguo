@@ -173384,7 +173384,38 @@
         "huayang": "in-progress",
         "jinshu": "in-progress"
       },
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "tadun-houhanshu-xiandi-liucheng",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 20,
+          "from": "十二年秋八月，曹操大破烏桓於柳城，斬其蹋頓。",
+          "through": "十二年秋八月，曹操大破烏桓於柳城，斬其蹋頓。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》",
+          "note": "正文：建安十二年（207）秋八月，曹操大破烏桓於柳城，斬蹋頓，繫年與蹋頓卒年（207）相合。段中「蹋頓，匈奴王號」為注文，釋「蹋頓」為匈奴王號，非正文。"
+        },
+        {
+          "id": "tadun-houhanshu-wuhuan-ben",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 13,
+          "from": "獻帝初平中，丘力居死，子樓班年少，從子蹋頓有武略，",
+          "through": "其餘衆萬餘落，悉徙居中國云。",
+          "citation": "《後漢書·卷九十·烏桓鮮卑列傳第八十》",
+          "note": "正文（烏桓傳）：蹋頓為丘力居從子，初平中代立，總攝三郡，眾皆從其號令；建安初遣使與袁紹和親，助擊公孫瓚，紹矯制賜單于印綬；後袁尚敗奔蹋頓，欲憑其兵力復圖中國；建安十二年曹操自征烏桓，大破蹋頓於柳城，斬之，首虜二十餘萬人，餘眾萬餘落悉徙居中國。段中「蹋音大蠟反」為音注。此為蹋頓生平主線之本傳段落。"
+        },
+        {
+          "id": "tadun-houhanshu-wuhuan-lun",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 35,
+          "from": "蹋頓凶桀，公據遼西之土。",
+          "through": "蹋頓凶桀，公據遼西之土。",
+          "citation": "《後漢書·卷九十·烏桓鮮卑列傳第八十》",
+          "note": "論曰：史臣以蹋頓與檀石槐並稱靈獻之閒二虜迭盛，謂蹋頓「凶桀，公據遼西之土」，陵跨中國、結患生人。史論評價，非事蹟正文。"
+        }
+      ],
       "exclusions": [],
       "conclusions": [],
       "unresolved": []
