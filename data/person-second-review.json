@@ -178352,6 +178352,16 @@
           "through": "追贈康大司馬。",
           "citation": "《三國志・魏書八・二公孫陶四張傳・公孫度傳》",
           "note": "建安十二年袁尚等奔遼東，康斬送尚首，封襄平侯、拜左將軍；康死，眾立恭為遼東太守，文帝追贈康大司馬。"
+        },
+        {
+          "id": "gongsunkang-sanguozhi-tianchou-zhu-zhansong-yuanshang-shou",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "遼東斬送袁尚首，令「三軍敢有哭之者斬」。",
+          "through": "太祖亦不問。",
+          "citation": "《三國志・魏書十一・袁張涼國田王邴管傳・田疇傳》",
+          "note": "裴注：遼東斬送袁尚首，田疇以嘗為尚所辟往弔祭，太祖亦不問；旁證康斬袁尚送首之事。"
         }
       ],
       "exclusions": [
@@ -178471,6 +178481,24 @@
           "term": "遼東太守",
           "quote": "秋，鮮卑寇遼東，遼東太守祭肜大破之。",
           "reason": "《後漢書》明帝紀，鮮卑寇遼東、太守祭肜破之，未提公孫康，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-hedi-liaodongxi-duwei",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 181,
+          "term": "遼東西部都尉",
+          "quote": "十二月，復置遼東西部都尉官。",
+          "reason": "《後漢書》和帝紀，復置遼東西部都尉，安帝時以為屬國都尉，未提公孫康，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-junguo-liaodongshuguo",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 94,
+          "term": "遼東屬國",
+          "quote": "遼東屬國故邯鄉，西部都尉，安帝時以為屬國都尉，別領六城。",
+          "reason": "《後漢書》郡國志，遼東屬國沿革，安帝時事，未提公孫康，排除。"
         }
       ],
       "unresolved": []
