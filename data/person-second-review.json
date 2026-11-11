@@ -174075,6 +174075,33 @@
           "term": "蹋頓",
           "quote": "楊儀傳",
           "reason": "《三國志·蜀書十·劉彭廖李劉魏楊傳第十》卷內標題段，僅「楊儀傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-yuanzhenzi-wuguan",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 200,
+          "term": "蹋頓",
+          "quote": "袁真子雙之、愛之害梁國內史朱憲",
+          "reason": "《晉書·卷八·帝紀第八》此段僅記袁真子雙之、愛之害梁國內史朱憲、汝南內史朱斌，全段未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-title-liuyan",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 0,
+          "term": "蹋頓",
+          "quote": "劉焉　袁術　呂布",
+          "reason": "《後漢書·卷七十五·列傳第六十五》卷首標題段，僅列劉焉、袁術、呂布三傳主名，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-yangjun",
+          "work": "sanguozhi",
+          "source": "a04-023",
+          "paragraph": 12,
+          "term": "蹋頓",
+          "quote": "楊俊傳",
+          "reason": "《三國志·魏書二十三·和常楊杜趙裴傳第二十三》卷內標題段，僅「楊俊傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
         }
       ],
       "conclusions": [],
