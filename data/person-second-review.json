@@ -179330,7 +179330,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "nanshengmi-sg-envoy",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 48,
+          "from": "景初二年六月，倭女王遣大夫難升米等詣郡",
+          "through": "太守劉夏遣吏將送詣京都。",
+          "citation": "《三國志・魏書三十・烏丸鮮卑東夷傳》"
+        },
+        {
+          "id": "nanshengmi-sg-appointed",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 48,
+          "from": "今以難升米為率善中郎將",
+          "through": "引見勞賜遣還。",
+          "citation": "《三國志・魏書三十・烏丸鮮卑東夷傳》"
+        },
+        {
+          "id": "nanshengmi-sg-yellow-banner",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 49,
+          "from": "其六年，詔賜倭難升米黃幢",
+          "through": "付郡假授。",
+          "citation": "《三國志・魏書三十・烏丸鮮卑東夷傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
