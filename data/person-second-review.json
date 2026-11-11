@@ -173589,6 +173589,33 @@
           "term": "烏桓",
           "quote": "烏桓　鮮卑",
           "reason": "《後漢書·卷九十·烏桓鮮卑列傳第八十》卷首標題，僅「烏桓 鮮卑」四字，無正文內容，未及蹋頓其人；向量誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-duanliao-jilong",
+          "work": "jinshu",
+          "source": "a05-106-ahcb",
+          "paragraph": 25,
+          "term": "段遼",
+          "quote": "季龍將伐遼西鮮卑段遼",
+          "reason": "《晉書·卷一百六·石季龍載記上》石季龍伐段遼事（四世紀），與建安十二年柳城之戰陣亡的蹋頓無關；向量誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-liucheng-duanlan",
+          "work": "jinshu",
+          "source": "a05-109-ahcb",
+          "paragraph": 34,
+          "term": "柳城",
+          "quote": "柳城之敗，段蘭欲乘勝深入",
+          "reason": "《晉書·卷一百九·慕容皝載記》段蘭柳城之敗（四世紀段部內事），非建安十二年蹋頓柳城之戰；同名地異事，向量誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-duanpidi-jilong",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 11,
+          "term": "段匹磾",
+          "quote": "石季龍攻段匹磾于厭次",
+          "reason": "《晉書·卷一百五·石勒載記下》石季龍攻段匹磾事（四世紀），與蹋頓無關；向量誤命中，排除。"
         }
       ],
       "conclusions": [],
