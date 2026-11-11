@@ -173535,6 +173535,33 @@
           "term": "蹋頓城",
           "quote": "戍蹋頓城",
           "reason": "《晉書·卷一百六·載記第六·石季龍》此段「戍蹋頓城」之蹋頓城為後趙時地名，與三國烏丸單于蹋頓其人無關；向量單字誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-dunqiu-diming",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 1,
+          "term": "頓丘",
+          "quote": "遷頓丘令",
+          "reason": "《三國志·魏書一·武帝紀》此段「遷頓丘令」之頓丘為東郡頓丘縣地名，與烏丸單于蹋頓其人無關；向量單字「頓」誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-liucheng-diming",
+          "work": "jinshu",
+          "source": "a05-109-ahcb",
+          "paragraph": 7,
+          "term": "柳城",
+          "quote": "師次柳城",
+          "reason": "《晉書·卷一百九·載記第九·慕容皝》此段為慕容皝擊段遼、宇文歸事，柳城僅為遼西地名，未及三國烏丸單于蹋頓；向量以事件名「柳城之戰」誤命中，排除。"
+        },
+        {
+          "id": "tadun-jinshu-liaoxi-diming",
+          "work": "jinshu",
+          "source": "a05-109-ahcb",
+          "paragraph": 13,
+          "term": "遼西",
+          "quote": "敗季龍將石成等于遼西",
+          "reason": "《晉書·卷一百九·載記第九·慕容皝》此段為慕容評敗後趙石成事，遼西僅為地名，全段未及三國烏丸單于蹋頓；向量事件誤命中，排除。"
         }
       ],
       "conclusions": [],
