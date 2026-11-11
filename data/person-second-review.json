@@ -172493,6 +172493,33 @@
           "term": "涇縣大帥",
           "quote": "八月辛巳，大鴻臚耿寶為大將軍。",
           "reason": "《後漢書·卷五·孝安帝紀》此段僅記永初元年八月耿寶拜大將軍一事，未提祖郎其人，亦無涇縣，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-weixiao-gongsunshu-jingyang",
+          "work": "houhanshu",
+          "source": "a03-013",
+          "paragraph": 13,
+          "term": "涇縣大帥",
+          "quote": "破之，又追敗之於烏氏、涇陽間。",
+          "reason": "《後漢書·卷十三·隗囂公孫述列傳第三》此段言建武二年隗囂遣楊廣迎擊赤眉、追敗於烏氏、涇陽間；「涇陽」為安定郡涇陽縣，非丹陽涇縣，與涇縣大帥祖郎無關，且建武二年早於祖郎活動之時，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-xiaohedi-douxian",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 16,
+          "term": "涇縣大帥",
+          "quote": "九月庚申，以車騎將軍竇憲為大將軍，以中郎將劉尚為車騎將軍。",
+          "reason": "《後漢書·卷四·孝和帝紀第四》此段僅記永元元年九月竇憲拜大將軍一事，未提祖郎其人，亦無涇縣，與祖郎無關，排除。"
+        },
+        {
+          "id": "zulang-houhanshu-guangwudi-pingyuan",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 125,
+          "term": "涇縣大帥",
+          "quote": "擊富平、獲索賊於平原",
+          "reason": "《後漢書·卷一·光武帝紀第一》此段言建武初吳漢、耿弇擊富平、獲索賊於平原郡，未提祖郎其人，亦無涇縣；且光武初年早於祖郎活動之時，與祖郎無關，排除。"
         }
       ],
       "conclusions": [],
