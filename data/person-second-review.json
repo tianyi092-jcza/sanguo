@@ -178233,13 +178233,13 @@
     {
       "id": "p0323",
       "name": "公孫康",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": [],
       "excerpts": [
@@ -178716,6 +178716,24 @@
           "term": "公孫淵",
           "quote": "二年春，遣太尉司馬宣王征淵。",
           "reason": "《三國志》魏書八・公孫度傳，言太尉司馬宣王征公孫淵、淵自立乞兵於吳、宣王破淵斬淵父子事，全段未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-gongsun-yuan-guaiyi",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 19,
+          "term": "公孫淵",
+          "quote": "初，淵家數有怪，犬冠幘絳衣上屋，炊有小兒蒸死甑中。",
+          "reason": "《三國志》魏書八・公孫度傳，言淵家怪異、淵兄晃在洛自表欲討淵事，全段未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-ping-yuan",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 27,
+          "term": "公孫淵",
+          "quote": "淵仍業以載凶，祇足覆其族也。",
+          "reason": "《三國志》魏書八・二公孫陶四張傳評曰，論公孫度殘暴、公孫淵仍業載凶事，全段未提公孫康，與公孫康無關，排除。"
         }
       ],
       "unresolved": []
