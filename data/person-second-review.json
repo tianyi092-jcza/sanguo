@@ -173670,6 +173670,33 @@
           "term": "烏桓",
           "quote": "於是始復置校尉於上谷寗城",
           "reason": "述東漢初烏桓內附、班彪請復置烏桓校尉，繫年遠早於蹋頓時代，未提蹋頓其名；按全名匹配原則排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-wu-hefei-zhangliao",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 59,
+          "term": "張遼",
+          "quote": "合肥之役，張遼奄至",
+          "reason": "合肥之役張遼事，與柳城之戰、蹋頓無關，未提蹋頓其名；向量候選因「張遼」誤觸。"
+        },
+        {
+          "id": "tadun-sanguozhi-zhangliao-kaipian",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 1,
+          "term": "張遼",
+          "quote": "張遼字文遠",
+          "reason": "張遼本傳開篇生平（丁原、何進、董卓、呂布），未提蹋頓其名；向量候選因張遼誤觸。"
+        },
+        {
+          "id": "tadun-sanguozhi-wuhuan-gouli",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 20,
+          "term": "句麗王宮",
+          "quote": "句麗王宮數寇遼東",
+          "reason": "句麗王宮寇遼東、蔡風姚光討伐事，繫殤、安之間，遠早於蹋頓時代，未提蹋頓其名；按全名匹配原則排除。"
         }
       ],
       "conclusions": [],
