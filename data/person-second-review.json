@@ -178634,6 +178634,33 @@
           "term": "遼西鮮卑",
           "quote": "遼西鮮卑降。",
           "reason": "《後漢書》卷五孝安帝紀，遼西鮮卑降事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-shaodiji-gaoguixiang",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 27,
+          "term": "高貴鄉公髦",
+          "quote": "高貴鄉公髦有大成之量",
+          "reason": "《三國志》卷四魏書三少帝紀，言高貴鄉公髦嗣明帝事，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-hexie",
+          "work": "houhanshu",
+          "source": "a03-047",
+          "paragraph": 39,
+          "term": "何熙",
+          "quote": "何熙字孟孫，陳國人。",
+          "reason": "《後漢書》卷四十七列傳第三十七何熙傳，言何熙生平，未提公孫康，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-huayangguozhi-liuxianzhu-yuanshu",
+          "work": "huayangguozhi",
+          "source": "a06-006",
+          "paragraph": 5,
+          "term": "袁術自淮南",
+          "quote": "袁術自淮南欲經徐州北就袁紹",
+          "reason": "《華陽國志》卷六劉先主志，言袁術、董承衣帶詔與先主事，未提公孫康，與公孫康無關，排除。"
         }
       ],
       "unresolved": []
