@@ -174102,6 +174102,33 @@
           "term": "蹋頓",
           "quote": "楊俊傳",
           "reason": "《三國志·魏書二十三·和常楊杜趙裴傳第二十三》卷內標題段，僅「楊俊傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-yuanshao",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 14,
+          "term": "蹋頓",
+          "quote": "袁紹傳",
+          "reason": "《三國志·魏書六·董二袁劉傳第六》卷內標題段，僅「袁紹傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-litong",
+          "work": "sanguozhi",
+          "source": "a04-018",
+          "paragraph": 5,
+          "term": "蹋頓",
+          "quote": "李通傳",
+          "reason": "《三國志·魏書十八·二李臧文呂許典二龐閻傳第十八》卷內標題段，僅「李通傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-zhaoda",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 14,
+          "term": "蹋頓",
+          "quote": "趙達傳",
+          "reason": "《三國志·吳書十八·吳範劉惇趙達傳第十八》卷內標題段，僅「趙達傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
         }
       ],
       "conclusions": [],
