@@ -178750,7 +178750,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "gongsungong-sanguozhi-wendi-jia-cheqi-jiangjun",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 17,
+          "from": "三月，加遼東太守公孫恭為車騎將軍。",
+          "through": "三月，加遼東太守公孫恭為車騎將軍。",
+          "citation": "《三國志・魏書二・文帝紀》",
+          "note": "正文（文帝紀）：黃初二年（221）三月，加遼東太守公孫恭為車騎將軍。同段後文「丁卯，夫人甄氏卒」繫年為黃初二年。"
+        },
+        {
+          "id": "gongsungong-sanguozhi-mingdi-yuan-jieduo-gongwei",
+          "work": "sanguozhi",
+          "source": "a04-003",
+          "paragraph": 5,
+          "from": "遼東太守公孫恭兄子淵劫奪恭位，遂以淵領遼東太守。",
+          "through": "遼東太守公孫恭兄子淵劫奪恭位，遂以淵領遼東太守。",
+          "citation": "《三國志・魏書三・明帝紀》",
+          "note": "正文（明帝紀）：太和二年（228），遼東太守公孫恭兄子公孫淵劫奪恭位，魏遂以淵領遼東太守。與本傳「被其侄公孫淵脅奪位」互證。"
+        },
+        {
+          "id": "gongsungong-sanguozhi-guanning-fuzi-feidi-lishu",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 30,
+          "from": "是時康又已死，嫡子不立而立弟恭，恭懦弱，而康孽子淵有儁才。",
+          "through": "其後淵果襲奪恭位，叛國家而南連吳，僭號稱王，明帝使相國宣文侯征滅之。",
+          "citation": "《三國志・魏書十一・管寧胡昭傳・管寧傳》裴注引《傅子》",
+          "note": "裴注引《傅子》層級（非陳壽正文）：公孫康已死，嫡子不立而立其弟恭，恭懦弱而康孽子淵有儁才；管寧言「廢嫡立庶，下有異心，亂之所由起也」；其後淵果襲奪恭位，叛魏南連吳、僭號稱王，明帝使司馬懿征滅之。與明帝紀太和二年淵奪位互證。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
