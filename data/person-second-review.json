@@ -178390,6 +178390,33 @@
           "term": "遼東",
           "quote": "遼東國秦立為郡。",
           "reason": "晉書地理志遼東國條目，言郡縣沿革，未提公孫康；僅地名「遼東」命中，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-jinshu-ahcb-liaodong-dilizhi",
+          "work": "jinshu",
+          "source": "a05-014-ahcb",
+          "paragraph": 120,
+          "term": "遼東",
+          "quote": "遼東國秦立爲郡。",
+          "reason": "晉書地理志遼東國條目（四庫本），言郡縣沿革，未提公孫康；僅地名「遼東」命中，排除。與 a05-014:79 同段異本。"
+        },
+        {
+          "id": "gongsunkang-excl-sanguozhi-gaogouli-bogu",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 21,
+          "term": "公孫度",
+          "quote": "公孫度之雄海東也，伯固遣大加優居、主簿然人等助度擊富山賊，破之。",
+          "reason": "三國志東夷傳記高句麗王伯固事，僅及公孫度，未提公孫康；父子須分開，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-junguo-youzhou",
+          "work": "houhanshu",
+          "source": "a03-113",
+          "paragraph": 3,
+          "term": "遼東",
+          "quote": "遼東　玄菟　樂浪",
+          "reason": "後漢書郡國志幽州郡目，僅郡名「遼東」命中，未提公孫康，排除。"
         }
       ],
       "unresolved": []
