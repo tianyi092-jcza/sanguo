@@ -173643,6 +173643,33 @@
           "term": "烏桓",
           "quote": "六月，烏桓寇代郡、上谷、涿郡。",
           "reason": "僅言烏桓寇三郡，未提蹋頓其名；按全名匹配原則不錄為本人史實，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-huandi-sannv",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 82,
+          "term": "蹋頓",
+          "quote": "桓帝三女。",
+          "reason": "段落僅言桓帝三女，未提蹋頓其名，亦未言烏桓事，與本人無關；向量誤命中，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-huwuhuan-xiaowei",
+          "work": "houhanshu",
+          "source": "a03-118",
+          "paragraph": 12,
+          "term": "烏桓",
+          "quote": "護烏桓校尉一人，比二千石。本注曰：主烏桓胡。",
+          "reason": "僅述護烏桓校尉職官制度，未提蹋頓其名；按全名匹配原則不錄為本人史實，排除。"
+        },
+        {
+          "id": "tadun-houhanshu-wuhuan-neifu",
+          "work": "houhanshu",
+          "source": "a03-090",
+          "paragraph": 9,
+          "term": "烏桓",
+          "quote": "於是始復置校尉於上谷寗城",
+          "reason": "述東漢初烏桓內附、班彪請復置烏桓校尉，繫年遠早於蹋頓時代，未提蹋頓其名；按全名匹配原則排除。"
         }
       ],
       "conclusions": [],
