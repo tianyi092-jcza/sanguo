@@ -173697,6 +173697,33 @@
           "term": "句麗王宮",
           "quote": "句麗王宮數寇遼東",
           "reason": "句麗王宮寇遼東、蔡風姚光討伐事，繫殤、安之間，遠早於蹋頓時代，未提蹋頓其名；按全名匹配原則排除。"
+        },
+        {
+          "id": "tadun-houhanshu-junguo-dongpingling",
+          "work": "houhanshu",
+          "source": "a03-112",
+          "paragraph": 4,
+          "term": "蹋頓",
+          "quote": "東平陵，有鐵。有譚城。",
+          "reason": "後漢書郡國志濟南郡地理條目，全段只列縣邑沿革，未提蹋頓其名；按全名匹配原則排除（向量因事件「總攝三郡烏桓」誤命中）。"
+        },
+        {
+          "id": "tadun-jinshu-duanliao-biaoqi",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 54,
+          "term": "蹋頓",
+          "quote": "二月己丑，以幽州刺史、大單于段遼爲驃騎將軍。",
+          "reason": "段遼拜驃騎將軍事，未提蹋頓其名；按全名匹配原則排除（向量因事件「柳城之戰為張遼陣斬」誤命中）。"
+        },
+        {
+          "id": "tadun-jinshu-yaoshao-lingbei",
+          "work": "jinshu",
+          "source": "a05-118-ahcb",
+          "paragraph": 31,
+          "term": "蹋頓",
+          "quote": "興遣姚紹與姚弼率禁衛諸軍鎮撫嶺北。",
+          "reason": "姚興遣姚紹、姚弼鎮撫嶺北、收遼東侯彌姐亭地事，未提蹋頓其名；按全名匹配原則排除（向量因事件「柳城之戰為張遼陣斬」誤命中）。"
         }
       ],
       "conclusions": [],
