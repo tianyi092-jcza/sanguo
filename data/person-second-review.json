@@ -174048,6 +174048,33 @@
           "term": "蹋頓",
           "quote": "朱據傳",
           "reason": "《三國志·吳書十二·虞陸張駱陸吾朱傳第十二》卷內標題段，僅「朱據傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-huayang-yidaizhao-wuguan",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 5,
+          "term": "蹋頓",
+          "quote": "先主遂殺徐州剌史車胄以叛",
+          "reason": "《華陽國志》卷六第5段全文記董承衣帶詔、劉備殺車胄叛曹事，未提蹋頓其名，亦無袁尚、袁熙依附事；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-liuyong",
+          "work": "sanguozhi",
+          "source": "a04-034",
+          "paragraph": 8,
+          "term": "蹋頓",
+          "quote": "劉永傳",
+          "reason": "《三國志·蜀書四·二主妃子傳第四》卷內標題段，僅「劉永傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
+        },
+        {
+          "id": "tadun-sanguozhi-title-yangyi",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 26,
+          "term": "蹋頓",
+          "quote": "楊儀傳",
+          "reason": "《三國志·蜀書十·劉彭廖李劉魏楊傳第十》卷內標題段，僅「楊儀傳」三字，未提蹋頓其名；向量「袁尚依之」事件誤命中，排除。"
         }
       ],
       "conclusions": [],
