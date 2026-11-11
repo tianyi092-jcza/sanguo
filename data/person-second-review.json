@@ -176082,6 +176082,33 @@
           "term": "中平年间内乱",
           "quote": "初平元年，度知中國擾攘",
           "reason": "《三國志》卷八·魏書八公孫度傳第15段，記初平元年公孫度據遼東自立、郊祀稱王事，全段無于夫羅；事件信號「中平年间内乱」向量誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-wuxing-yuntai",
+          "work": "houhanshu",
+          "source": "a03-104",
+          "paragraph": 24,
+          "term": "中平年间内乱",
+          "quote": "中平二年二月己酉，南宮雲臺災。",
+          "reason": "此段為《後漢書·志第十四·五行二》記中平二年南宮雲臺災及黃巾之亂背景，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-guotai",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 56,
+          "term": "中平年间内乱",
+          "quote": "中平元年，黨事解，乃還鄉里。",
+          "reason": "此段為《後漢書·卷六十七·黨錮列傳第五十七》郭泰傳，記黨事解後還鄉里、獻帝初傾產濟邑里事，全段無于夫羅；向量事件信號誤命中，排除。"
+        },
+        {
+          "id": "yufuluo-excl-houhanshu-tianwen-kexing",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 17,
+          "term": "中平年间内乱",
+          "quote": "中平二年十月癸亥，客星出南門中",
+          "reason": "此段為《後漢書·志第十二·天文下》記中平二年客星占「為兵」及中平六年袁紹誅滅中官事，全段無于夫羅；向量事件信號誤命中，排除。"
         }
       ],
       "unresolved": []
