@@ -179001,6 +179001,33 @@
           "term": "公孫瓚傳",
           "quote": "公孫瓚傳",
           "reason": "《三國志》卷八篇目標題「公孫瓚傳」，僅為公孫瓚傳之標題；公孫瓚為遼西人，與遼東公孫恭同姓不同人，未提及公孫恭，排除。"
+        },
+        {
+          "id": "gongsungong-excl-022",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 0,
+          "term": "張遼傳",
+          "quote": "張遼傳",
+          "reason": "《三國志》卷十七篇首標題「張遼傳」，僅為張遼傳之標題，未提及公孫恭，排除。"
+        },
+        {
+          "id": "gongsungong-excl-023",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 13,
+          "term": "公孫度傳",
+          "quote": "公孫度傳",
+          "reason": "《三國志》卷八篇中標題「公孫度傳」，僅為公孫度傳之標題，未提及公孫恭，排除。"
+        },
+        {
+          "id": "gongsungong-excl-024",
+          "work": "houhanshu",
+          "source": "a03-114",
+          "paragraph": 16,
+          "term": "度遼將軍",
+          "quote": "明帝初置度遼將軍，以衞南單于衆新降有二心者，後數有不安，遂為常守。",
+          "reason": "《後漢書・百官志》論度遼將軍設置沿革，全段未提及公孫恭，排除。"
         }
       ],
       "unresolved": []
