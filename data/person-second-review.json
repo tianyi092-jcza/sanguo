@@ -178417,6 +178417,33 @@
           "term": "遼東",
           "quote": "遼東　玄菟　樂浪",
           "reason": "後漢書郡國志幽州郡目，僅郡名「遼東」命中，未提公孫康，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-dushang-liaodong",
+          "work": "houhanshu",
+          "source": "a03-038",
+          "paragraph": 24,
+          "term": "遼東太守",
+          "quote": "尚後為遼東太守，數月，鮮卑率兵攻尚，與戰，破之，戎狄憚畏。年五十，延熹九年，卒於官。",
+          "reason": "此「尚」為度尚（《後漢書》卷三十八度尚傳），延熹九年卒於官的遼東太守，與公孫康無關，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-jinshu-ahcb-liaodongwang-rui",
+          "work": "jinshu",
+          "source": "a05-003-ahcb",
+          "paragraph": 182,
+          "term": "遼東王",
+          "quote": "徙遼東王蕤爲東萊王。",
+          "reason": "《晉書》武帝紀，遼東王蕤徙封東萊王，未提公孫康，排除。"
+        },
+        {
+          "id": "gongsunkang-excl-houhanshu-gaogouli-xuantu",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 189,
+          "term": "玄菟",
+          "quote": "夏六月，高句驪與穢貊寇玄菟。",
+          "reason": "《後漢書》孝安帝紀，高句驪與穢貊寇玄菟，僅地名命中，未提公孫康，排除。"
         }
       ],
       "unresolved": []
