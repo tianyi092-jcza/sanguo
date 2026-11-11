@@ -174194,6 +174194,22 @@
         "篩查：本輪共覆核 87 段：錄正摘錄 14 條（《三國志》11，含裴注引先賢行狀 1；《後漢書》3），排除 73 條（《三國志》31、《晉書》24、《後漢書》17、《華陽國志》1，多為「袁尚依之」事件信號誤報，段內無蹋頓其人），未解決 0 條。本輪重跑向量檢索候選為 0（年號剛性剔除 1 段），候選枯竭。本傳所依《三國志·烏丸傳》a04-030 全 59 段核對，言及蹋頓者僅 §0、§3、§4，皆已摘錄；武帝紀 a04-001 言及者 §21、§22，張遼傳 a04-017 §3、徐晃傳 §23，皆已摘錄。"
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0317",
+      "name": "軻比能",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "excerpts": [],
+      "exclusions": [],
+      "conclusions": [],
+      "unresolved": []
     }
   ]
 }
