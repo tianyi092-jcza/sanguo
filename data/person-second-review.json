@@ -186959,6 +186959,33 @@
           "from": "奉由是失望，與韓暹等到定陵鈔暴。",
           "through": "奉由是失望，與韓暹等到定陵鈔暴。",
           "citation": "《三國志·魏書十四·董昭傳》"
+        },
+        {
+          "id": "hanxian-sgz-xianzhu-kouxu",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 3,
+          "from": "楊奉、韓暹寇徐、揚閒，先主邀擊，盡斬之。",
+          "through": "楊奉、韓暹寇徐、揚閒，先主邀擊，盡斬之。",
+          "citation": "《三國志·卷三十二·蜀書二 先主傳第二》"
+        },
+        {
+          "id": "hanxian-sgz-dongzhuo-weibeisha",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "暹、奉不能奉王法，各出奔，寇徐、揚閒，為劉備所殺。",
+          "through": "暹、奉不能奉王法，各出奔，寇徐、揚閒，為劉備所殺。",
+          "citation": "《三國志·魏書六·董卓傳》"
+        },
+        {
+          "id": "hanxian-sgz-dongzhuo-zhangxuan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "暹失奉勢，孤，時欲走還并州，為杼秋屯帥張宣所邀殺。",
+          "through": "暹失奉勢，孤，時欲走還并州，為杼秋屯帥張宣所邀殺。",
+          "citation": "《三國志·魏書六·董卓傳》裴注引《英雄記》"
         }
       ],
       "exclusions": [
