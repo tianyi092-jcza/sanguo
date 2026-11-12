@@ -184324,6 +184324,36 @@
           "from": "建安元年，驃騎將軍張濟自關中走南陽，因攻穰城，中飛矢而死。",
           "through": "建安元年，驃騎將軍張濟自關中走南陽，因攻穰城，中飛矢而死。",
           "citation": "《後漢書·劉表傳》"
+        },
+        {
+          "id": "zhangji-sgz-dongzhuo-xiaowei",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 8,
+          "from": "分遣校尉李傕、郭汜、張濟略陳留、潁川諸縣。",
+          "through": "分遣校尉李傕、郭汜、張濟略陳留、潁川諸縣。",
+          "context": "初，卓女壻中郎將牛輔典兵別屯陝，",
+          "citation": "《三國志·魏書六·董卓傳》"
+        },
+        {
+          "id": "zhangji-sgz-dongzhuo-hejie",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "張濟自陝和解之，天子乃得出，至新豐、霸陵間。",
+          "through": "張濟自陝和解之，天子乃得出，至新豐、霸陵間。",
+          "context": "傕衆叛，稍衰弱。",
+          "citation": "《三國志·魏書六·董卓傳》"
+        },
+        {
+          "id": "zhangji-sgz-liubiao-death",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 33,
+          "from": "張濟引兵入荊州界，攻穰城，為流矢所中死。",
+          "through": "張濟引兵入荊州界，攻穰城，為流矢所中死。",
+          "context": "天子都許，表雖遣使貢獻，然北與袁紹相結。",
+          "citation": "《三國志·魏書六·劉表傳》"
         }
       ],
       "exclusions": [
