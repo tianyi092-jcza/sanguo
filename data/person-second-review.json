@@ -186806,7 +186806,62 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "hanxian-hhs-xiandi-yingfeng",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "楊奉、董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑，率師奉迎，與李傕等戰，破之。",
+          "through": "楊奉、董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑，率師奉迎，與李傕等戰，破之。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "hanxian-hhs-xunyu-fugong",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 33,
+          "from": "韓暹、楊奉負功恣睢",
+          "through": "韓暹、楊奉負功恣睢",
+          "citation": "《後漢書·卷七十·鄭孔荀列傳第六十 荀彧傳》"
+        },
+        {
+          "id": "hanxian-hhs-dongzhuo-zhaobo",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "承、奉乃譎傕等與連和，而密遣閒使至河東，招故白波帥李樂、韓暹、胡才及南匈奴右賢王去卑，並率其衆數千騎來，與承、奉共擊傕等，大破之，斬首數千級，乘輿乃得進。",
+          "through": "承、奉乃譎傕等與連和，而密遣閒使至河東，招故白波帥李樂、韓暹、胡才及南匈奴右賢王去卑，並率其衆數千騎來，與承、奉共擊傕等，大破之，斬首數千級，乘輿乃得進。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "hanxian-hhs-dongzhuo-si",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 32,
+          "from": "奉、暹奔袁術，遂縱暴楊、徐閒。明年，左將軍劉備誘奉斬之。暹懼，走還并州，道為人所殺。",
+          "through": "奉、暹奔袁術，遂縱暴楊、徐閒。明年，左將軍劉備誘奉斬之。暹懼，走還并州，道為人所殺。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "hanxian-hhs-nanxiongnu-shiwei",
+          "work": "houhanshu",
+          "source": "a03-089",
+          "paragraph": 66,
+          "from": "建安元年，獻帝自長安東歸，右賢王去卑與白波賊帥韓暹等侍衞天子，拒擊李傕、郭汜。及車駕還洛陽，又徙遷許，然後歸國。",
+          "through": "建安元年，獻帝自長安東歸，右賢王去卑與白波賊帥韓暹等侍衞天子，拒擊李傕、郭汜。及車駕還洛陽，又徙遷許，然後歸國。",
+          "citation": "《後漢書·卷八十九·南匈奴列傳第七十九》"
+        },
+        {
+          "id": "hanxian-sgz-wudiji-huanluoyang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "秋七月，楊奉、韓暹以天子還洛陽",
+          "through": "秋七月，楊奉、韓暹以天子還洛陽",
+          "citation": "《三國志·魏書一·武帝紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
