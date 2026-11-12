@@ -183251,6 +183251,33 @@
           "term": "斂成",
           "quote": "穆欲送殺之，成怒，奔赫連勃勃",
           "reason": "晉書姚興載記：斂成奔赫連勃勃事，未及郭汜；「送殺」誤觸。"
+        },
+        {
+          "id": "guosi-excl-040",
+          "work": "jinshu",
+          "source": "a05-112-ahcb",
+          "paragraph": 23,
+          "term": "長安",
+          "quote": "或稱賊至，宮門晝閉",
+          "reason": "晉書苻生載記：長安大風、苻生殺強平事，未及郭汜；「長安」地名誤觸。"
+        },
+        {
+          "id": "guosi-excl-041",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 16,
+          "term": "建寧元年",
+          "quote": "靈帝建寧元年夏，霖雨六十餘日",
+          "reason": "後漢書五行志：建寧元年霖雨、竇武謀變被誅事，未及郭汜；「建寧」年號與建安二年郭汜被伍習所殺誤觸。"
+        },
+        {
+          "id": "guosi-excl-042",
+          "work": "jinshu",
+          "source": "a05-004-ahcb",
+          "paragraph": 111,
+          "term": "長安",
+          "quote": "帝在長安",
+          "reason": "晉書惠帝紀：二年春正月帝在長安事，未及郭汜；「長安」地名誤觸。"
         }
       ],
       "unresolved": [
