@@ -181412,6 +181412,33 @@
           "from": "與卓故部曲樊稠、李蒙、王方等合圍長安城。",
           "through": "誅殺卓者，尸王允於市。",
           "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "liju-sgz-sanfu-jielue",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 10,
+          "from": "侍中馬宇與諫議大夫种邵、左中郎將劉範等謀，欲使騰襲長安，己為內應，以誅傕等。",
+          "through": "時三輔民尚數十萬戶，傕等放兵劫略，攻剽城邑，人民饑困，二年間相啖食略盡。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "liju-sgz-xiandi-note",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 10,
+          "from": "獻帝紀曰：是時新遷都，宮人多亡衣服，帝欲發御府繒以與之，李傕弗欲，曰：「宮中有衣，胡為復作邪？」",
+          "through": "賈詡曰「此上意，不可拒」，傕不從之。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "liju-sgz-kill-fanchou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 11,
+          "from": "諸將爭權，遂殺稠，并其衆。",
+          "through": "諸將爭權，遂殺稠，并其衆。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
         }
       ],
       "exclusions": [
