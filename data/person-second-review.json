@@ -186099,6 +186099,33 @@
           "from": "為郡吏，從車騎將軍楊奉討賊有功，拜騎都尉。",
           "through": "晃說奉令歸太祖；奉欲從之，後悔。",
           "citation": "《三國志·魏書十七 張樂于張徐傳第十七 徐晃傳》"
+        },
+        {
+          "id": "yangfeng-sg-xianzhu-peizhu-kouxuyang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 3,
+          "from": "楊奉、韓暹寇徐、揚閒，先主邀擊，盡斬之。",
+          "through": "楊奉、韓暹寇徐、揚閒，先主邀擊，盡斬之。",
+          "citation": "《三國志·卷三十二·蜀書二 先主傳第二》"
+        },
+        {
+          "id": "yangfeng-hhs-xiandi-cheqijiangjun",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 9,
+          "from": "癸卯，安國將軍張楊為大司馬，韓暹為將軍，楊奉為車騎將軍。",
+          "through": "癸卯，安國將軍張楊為大司馬，韓暹為將軍，楊奉為車騎將軍。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "yangfeng-hhs-dongzhuo-xingyijiangjun",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 29,
+          "from": "遷郭汜車騎將軍，楊定後將軍，楊奉興義將軍。",
+          "through": "遷郭汜車騎將軍，楊定後將軍，楊奉興義將軍。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二》"
         }
       ],
       "exclusions": [],
