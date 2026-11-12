@@ -186997,6 +186997,33 @@
           "term": "韓暹、楊奉專用威命",
           "quote": "韓暹、楊奉專用威命，君則致討，克黜其難，遂遷許都，造我京畿，設官兆祀，不失舊物，天地鬼神於是獲乂，此又君之功也。",
           "reason": "此段為鍾繇上表頌曹操功績之辭，僅以一語帶過韓暹、楊奉，非韓暹本人事實記載；表文頌辭不作本人史實。"
+        },
+        {
+          "id": "hanxian-sgz-zhouyu-biaoquan",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 9,
+          "term": "劉備表權行車騎將軍",
+          "quote": "劉備表權行車騎將軍，領徐州牧。",
+          "reason": "段內無韓暹，係建安十四年周瑜守江陵事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-xiayuan-zhansi",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 12,
+          "term": "淵遂戰死",
+          "quote": "淵分所將兵半助郃，為備所襲，淵遂戰死。",
+          "reason": "此為夏侯淵建安二十四年陽平關戰死，韓暹卒於建安元年／二年，二人無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-zhouyu-yiling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 19,
+          "term": "劉備奔走，僅以身免",
+          "quote": "劉備奔走，僅以身免。",
+          "reason": "段內無韓暹，係黃武元年夷陵事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
         }
       ],
       "unresolved": []
