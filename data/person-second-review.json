@@ -185955,15 +185955,21 @@
     {
       "id": "p0337",
       "name": "楊奉",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 23 條、排除 67 條；向量候選已枯竭，本傳《三國志·董卓傳》（a04-006）及《後漢書·獻帝紀》（a03-009）、《三國志·先主傳》（a04-032）言楊奉段落已全覆蓋，無遺漏。",
+        "生平主線：河東白波帥，興平元年與董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑奉迎獻帝，與李傕、郭汜戰而破之，護駕東歸；東歸途中拜興義將軍，後遷車騎將軍；曾與李傕軍吏宋果謀殺李傕，事泄叛傕。",
+        "建安元年天子東歸洛陽後，奉與韓暹失眾，東降袁術；建安二年與袁術將紀靈等戰於下邳，後與韓暹寇徐、揚間，建安三年為劉備誘殺。",
+        "辨人：與李傕、郭汜、韓暹、董承等同卷人物嚴格區分；「奉」單字命中均核實確指本人，奉獻、還宮等誤匹配均已排除。",
+        "楊奉無三國志本傳，事見《三國志·董卓傳》正文及裴注引《英雄記》、後漢書獻帝紀、董卓傳；生年未見明載，卒於建安三年（198）。"
+      ],
       "excerpts": [
         {
           "id": "yangfeng-hhs-xiandi-xingyijiangjun",
@@ -186766,6 +186772,24 @@
           "term": "護駕東歸",
           "quote": "二十年秋，振旅還京師，軍吏經瘴疫死者十四五。",
           "reason": "本段為後漢書馬援傳記建武二十年援振旅還京師事，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-hhs-guangwu-fuyu-fengxian",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 196,
+          "term": "護駕東歸",
+          "quote": "夫餘王遣使奉獻。夫餘國在海東，去玄菟千里餘。",
+          "reason": "本段為後漢書光武帝紀記夫餘王遣使奉獻事，「奉」為奉獻之義，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-gucheng-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-052",
+          "paragraph": 19,
+          "term": "護駕東歸",
+          "quote": "顧承傳",
+          "reason": "本段僅為三國志卷五十二顧承傳傳目標題，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
         }
       ],
       "unresolved": []
