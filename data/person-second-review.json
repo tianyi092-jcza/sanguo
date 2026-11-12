@@ -182844,6 +182844,33 @@
           "term": "郭汜",
           "quote": "李傕、郭汜入長安，欲連表為援，乃以表為鎮南將軍、荊州牧，封成武侯，假節。",
           "reason": "段落主述劉表治荊州；郭汜僅與李傕並提為授表鎮南將軍、荊州牧背景，未述其本人新事實；入長安之事已錄於 guosi-hhs-revolt。"
+        },
+        {
+          "id": "guosi-excl-012",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 18,
+          "term": "郭汜",
+          "quote": "昭為太祖作書與長安諸將李傕、郭汜等，各隨輕重致殷勤。",
+          "reason": "段落主述董昭說張楊通太祖上事；郭汜僅為太祖致書的長安諸將之一，未述其本人新事實。"
+        },
+        {
+          "id": "guosi-excl-013",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 22,
+          "term": "郭汜",
+          "quote": "李傕、郭汜之亂長安也，晃說奉，令與天子還洛陽，奉從其計。",
+          "reason": "段落主述徐晃說楊奉護天子還洛陽；郭汜僅與李傕並提為長安之亂背景，未述其本人新事實；長安之亂已錄於 guosi-hhs-revolt。"
+        },
+        {
+          "id": "guosi-excl-014",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 1,
+          "term": "郭汜",
+          "quote": "卓將李傕、郭汜等為卓報仇，入長安，殺允，盡害其家。",
+          "reason": "段落主述王淩踰城脫身亡命歸鄉；入長安殺王允之事已錄於 guosi-hhs-kill-wangyun。"
         }
       ],
       "unresolved": []
