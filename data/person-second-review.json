@@ -181291,6 +181291,24 @@
           "from": "卓部曲將李傕、郭汜等先將兵在關東，因不自安，遂合謀為亂，攻圍長安。",
           "through": "卓部曲將李傕、郭汜等先將兵在關東，因不自安，遂合謀為亂，攻圍長安。",
           "citation": "《後漢書·列傳第五十六》"
+        },
+        {
+          "id": "liju-hhs-henan-zhujun",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 26,
+          "from": "董卓聞之，使其將李傕、郭汜等數萬人屯河南拒儁。",
+          "through": "儁逆擊，為傕、汜所破。",
+          "citation": "《後漢書·列傳第六十一》"
+        },
+        {
+          "id": "liju-hhs-summon-zhujun",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 27,
+          "from": "會李傕用太尉周忠、尚書賈詡策，徵儁入朝。",
+          "through": "會李傕用太尉周忠、尚書賈詡策，徵儁入朝。",
+          "citation": "《後漢書·列傳第六十一》"
         }
       ],
       "exclusions": [
@@ -181347,6 +181365,15 @@
           "term": "李傕",
           "quote": "及卓將李傕、郭汜攻破長安，遂收琬下獄死",
           "reason": "段落主角為黃琬；「李傕、郭汜攻破長安」已有《後漢書·孝獻帝紀》摘錄（liju-hhs-revolt），本段無李傕本人新事實，排除。"
+        },
+        {
+          "id": "liju-excl-007",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 28,
+          "term": "李傕",
+          "quote": "會李傕殺樊稠，而郭汜又自疑，與傕相攻，長安中亂",
+          "reason": "段落主角為朱儁；「李傕殺樊稠、與郭汜相攻」已有《後漢書·孝獻帝紀》摘錄（liju-hhs-kill-fanchou），本段無李傕本人新事實，排除。"
         }
       ],
       "unresolved": []
