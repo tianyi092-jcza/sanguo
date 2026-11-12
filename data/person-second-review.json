@@ -186155,6 +186155,26 @@
           "through": "奉、暹失衆，東降袁術。",
           "context": "太祖曰：「善。」即遣使詣奉。徙大駕至許。",
           "citation": "《三國志·魏書十四·董昭傳》"
+        },
+        {
+          "id": "yangfeng-sgz-liguosi-wei-liubei-sha",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "暹、奉不能奉王法，各出奔，寇徐、揚閒，為劉備所殺。",
+          "through": "暹、奉不能奉王法，各出奔，寇徐、揚閒，為劉備所殺。",
+          "context": "太祖乃迎天子都許。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 李傕郭汜傳》"
+        },
+        {
+          "id": "yangfeng-sgz-liguosi-yingxiongji-beiyou-feng",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "英雄記曰：備誘奉與相見，因於坐上執之。",
+          "through": "英雄記曰：備誘奉與相見，因於坐上執之。",
+          "context": "暹、奉不能奉王法，各出奔，寇徐、揚閒，為劉備所殺。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 李傕郭汜傳》"
         }
       ],
       "exclusions": [
@@ -186211,6 +186231,24 @@
           "term": "劉備殺徐州刺史車胄",
           "quote": "五年，左將軍劉備殺徐州刺史車胄，據沛以背曹操。",
           "reason": "為劉備所殺者為徐州刺史車胄，非楊奉；同類事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-dongzhao-chechou",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 21,
+          "term": "劉備殺徐州刺史車胄",
+          "quote": "備到下邳，殺徐州刺史車胄，反。",
+          "reason": "為劉備所殺者為徐州刺史車胄，非楊奉；本段未提及楊奉。"
+        },
+        {
+          "id": "yangfeng-sgz-yuanshu-jiujiang-lingzhou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "term": "袁術奔九江領揚州",
+          "quote": "術以餘衆奔九江，殺楊州刺史陳溫，領其州。",
+          "reason": "本段為袁術本傳敘袁術奔九江、領揚州之事，全段未提及楊奉；楊奉東降袁術不在此段。"
         }
       ],
       "unresolved": []
