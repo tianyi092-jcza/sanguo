@@ -186145,6 +186145,16 @@
           "through": "暹、奉大喜，遂共擊勳等於下邳，大破之，生禽橋蕤，餘衆潰走，其所殺傷、墯水死者殆盡。",
           "context": "袁術怒布殺韓胤，遣其大將張勳、橋蕤等與韓暹、楊奉連埶，步騎數萬，七道攻布。",
           "citation": "《後漢書·卷七十五·袁術列傳第六十五》"
+        },
+        {
+          "id": "yangfeng-sgz-dongzhao-shiwang-dongjiangyuanshu",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 20,
+          "from": "奉由是失望，與韓暹等到定陵鈔暴。",
+          "through": "奉、暹失衆，東降袁術。",
+          "context": "太祖曰：「善。」即遣使詣奉。徙大駕至許。",
+          "citation": "《三國志·魏書十四·董昭傳》"
         }
       ],
       "exclusions": [
@@ -186156,6 +186166,24 @@
           "term": "韓暹、楊奉專用威命",
           "quote": "韓暹、楊奉專用威命，君則致討，克黜其難，遂遷許都，造我京畿，設官兆祀，不失舊物，天地鬼神於是獲乂，此又君之功也。",
           "reason": "此段為鍾繇上表頌曹操功績之辭，僅以一語帶過韓暹、楊奉，非楊奉本人事實記載；表文頌辭不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-yuanshu-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 27,
+          "term": "袁術傳",
+          "quote": "袁術傳",
+          "reason": "此段僅為《袁術傳》篇目標題，無正文內容，未提及楊奉；檢索誤命中，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-hhs-xiandi-fenggong",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 10,
+          "term": "孫策遣使奉貢",
+          "quote": "孫策遣使奉貢。",
+          "reason": "此句「奉貢」之「奉」為動詞「進獻」之意，指孫策遣使向朝廷進貢，與楊奉其人無關；單字誤命中，不作本人史實。"
         }
       ],
       "unresolved": []
