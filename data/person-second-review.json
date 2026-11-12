@@ -184973,7 +184973,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "limeng-hhs-liang",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 14,
+          "from": "卓先遣將徐榮、李蒙四出虜掠。",
+          "through": "卓先遣將徐榮、李蒙四出虜掠。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "limeng-sgz-hewei",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 9,
+          "from": "與卓故部曲樊稠、李蒙、王方等合圍長安城。",
+          "through": "與卓故部曲樊稠、李蒙、王方等合圍長安城。",
+          "citation": "《三國志·魏書六·董卓傳》"
+        },
+        {
+          "id": "limeng-hhs-yuanhong-killed",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 22,
+          "from": "袁宏紀曰：「蒙後為傕所殺。」",
+          "through": "袁宏紀曰：「蒙後為傕所殺。」",
+          "citation": "《後漢書·董卓傳》注引《袁宏紀》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
