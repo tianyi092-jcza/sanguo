@@ -186941,9 +186941,37 @@
           "from": "暹、奉大喜，遂共擊勳等於下邳，大破之，生禽橋蕤，餘衆潰走，其所殺傷、墯水死者殆盡。",
           "through": "暹、奉大喜，遂共擊勳等於下邳，大破之，生禽橋蕤，餘衆潰走，其所殺傷、墯水死者殆盡。",
           "citation": "《後漢書·卷七十五·劉焉袁術呂布列傳第六十五 呂布傳》"
+        },
+        {
+          "id": "hanxian-sgz-lvbu-lianshi",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 11,
+          "from": "術怒，與韓暹、楊奉等連勢，遣大將張勳攻布。",
+          "through": "術怒，與韓暹、楊奉等連勢，遣大將張勳攻布。",
+          "citation": "《三國志·魏書七·呂布傳》"
+        },
+        {
+          "id": "hanxian-sgz-dongzhao-dingling",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 20,
+          "from": "奉由是失望，與韓暹等到定陵鈔暴。",
+          "through": "奉由是失望，與韓暹等到定陵鈔暴。",
+          "citation": "《三國志·魏書十四·董昭傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "hanxian-sgz-wudi-biao-xushi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 30,
+          "term": "韓暹、楊奉專用威命",
+          "quote": "韓暹、楊奉專用威命，君則致討，克黜其難，遂遷許都，造我京畿，設官兆祀，不失舊物，天地鬼神於是獲乂，此又君之功也。",
+          "reason": "此段為鍾繇上表頌曹操功績之辭，僅以一語帶過韓暹、楊奉，非韓暹本人事實記載；表文頌辭不作本人史實。"
+        }
+      ],
       "unresolved": []
     }
   ]
