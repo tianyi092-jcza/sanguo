@@ -180230,13 +180230,13 @@
     {
       "id": "p0328",
       "name": "臺與",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
       "conclusions": [],
       "excerpts": [
@@ -180619,6 +180619,15 @@
           "term": "壹與",
           "quote": "再遷，復拜司隷校尉",
           "reason": "本段述李膺誅張讓之弟張朔事，全段無壹與／臺與，與本人無關，排除。向量命中「事件:壹與遣使送張政還並獻貢」為誤擊。"
+        },
+        {
+          "id": "taiyu-excl-041",
+          "work": "houhanshu",
+          "source": "a03-019",
+          "paragraph": 26,
+          "term": "壹與",
+          "quote": "詔秉與固合兵萬四千騎，復出白山擊車師",
+          "reason": "本段述永平十七年耿秉、耿固出白山擊車師事，全段無壹與／臺與，與本人無關，排除。向量命中「事件:壹與遣使送張政還並獻貢」為誤擊。"
         }
       ],
       "unresolved": []
