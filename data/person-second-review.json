@@ -181759,6 +181759,33 @@
           "term": "李傕",
           "quote": "三年，使謁者僕射裴茂詔關中諸將段煨等討李傕，夷三族。",
           "reason": "段煨討李傕、夷三族已由《後漢書·孝獻帝紀》摘錄（liju-hhs-duanwei-kill，a03-009:11）；本句為董卓傳同年事之重述，無新事實，排除。"
+        },
+        {
+          "id": "liju-excl-027",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 25,
+          "term": "李傕",
+          "quote": "時董卓雖誅，而李傕、郭汜作亂關中。",
+          "reason": "李傕、郭汜作亂關中已由《後漢書·孝獻帝紀》摘錄（liju-hhs-revolt，a03-009:5）；本段主旨為陶謙遣使閒行奉貢西京，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-028",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 26,
+          "term": "李傕",
+          "quote": "初三輔遭李傕亂，百姓流移依謙者皆殲。",
+          "reason": "三輔遭李傕亂已由《後漢書·孝獻帝紀》摘錄（liju-hhs-revolt，a03-009:5；liju-hhs-wuxing-caoyang，a03-103:37）；本段主旨為曹操屠徐州五縣、依陶謙之流民皆殲，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-029",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 15,
+          "term": "李傕",
+          "quote": "其冬，車駕為李傕等所追於曹陽，",
+          "reason": "李傕追帝於曹陽已由《後漢書·孝獻帝紀》摘錄（liju-hhs-pursue-caoyang，a03-010b-full:42）；本段主旨為沮授勸袁紹迎天子、郭圖反對之議，無李傕新事實，排除。"
         }
       ],
       "unresolved": []
