@@ -186249,6 +186249,33 @@
           "term": "袁術奔九江領揚州",
           "quote": "術以餘衆奔九江，殺楊州刺史陳溫，領其州。",
           "reason": "本段為袁術本傳敘袁術奔九江、領揚州之事，全段未提及楊奉；楊奉東降袁術不在此段。"
+        },
+        {
+          "id": "yangfeng-hyjgz-liubei-yidaizhao",
+          "work": "huayangguozhi",
+          "source": "a06-006",
+          "paragraph": 5,
+          "term": "袁術北就袁紹、董承衣帶詔",
+          "quote": "袁術自淮南欲經徐州北就袁紹",
+          "reason": "本段為華陽國志敘袁術欲北就袁紹、董承衣帶詔與劉備叛曹之事，全段未提及楊奉；「依袁術」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-yuanshu-biaoti",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 0,
+          "term": "劉焉 袁術 呂布",
+          "quote": "劉焉　袁術　呂布",
+          "reason": "本段僅為卷內合傳人名標題，無正文敘事，全段未提及楊奉。"
+        },
+        {
+          "id": "yangfeng-sgz-xiayuan-yangping",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 12,
+          "term": "夏侯淵戰死陽平關",
+          "quote": "淵遂戰死。謚曰愍侯。",
+          "reason": "本段為夏侯淵傳敘劉備軍陽平關、夏侯淵戰死之事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
         }
       ],
       "unresolved": []
