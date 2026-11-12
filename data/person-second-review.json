@@ -185964,7 +185964,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yangfeng-hhs-xiandi-xingyijiangjun",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "郭汜自為車騎將軍，楊定為後將軍，楊奉為興義將軍，董承為安集將軍，並侍送乘輿。",
+          "through": "郭汜自為車騎將軍，楊定為後將軍，楊奉為興義將軍，董承為安集將軍，並侍送乘輿。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "yangfeng-hhs-xiandi-yingfeng",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "楊奉、董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑，率師奉迎，與李傕等戰，破之。",
+          "through": "楊奉、董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑，率師奉迎，與李傕等戰，破之。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "yangfeng-hhs-dongzhuo-jiujue",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 27,
+          "from": "傕將楊奉本白波賊帥，乃將兵救傕，於是汜衆乃退。",
+          "through": "傕將楊奉本白波賊帥，乃將兵救傕，於是汜衆乃退。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
