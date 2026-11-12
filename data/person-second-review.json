@@ -184239,6 +184239,51 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0334",
+      "name": "張濟",
+      "status": "pilot",
+      "coverage": {
+        "sanguozhi": "in-progress",
+        "peizhu": "in-progress",
+        "houhanshu": "in-progress",
+        "huayang": "in-progress",
+        "jinshu": "in-progress"
+      },
+      "conclusions": [],
+      "excerpts": [
+        {
+          "id": "zhangji-hhs-revolt",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "from": "董卓部曲將李傕、郭汜、樊稠、張濟等反，攻京師。",
+          "through": "董卓部曲將李傕、郭汜、樊稠、張濟等反，攻京師。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "zhangji-hhs-zhendong",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 5,
+          "from": "九月，李傕自為車騎將軍，郭汜後將軍，樊稠右將軍，張濟鎮東將軍。",
+          "through": "濟出屯弘農。",
+          "citation": "《後漢書·孝獻帝紀》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhangji-excl-001",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 17,
+          "term": "司空張濟罷",
+          "quote": "司空張濟罷，大司農張溫為司空。",
+          "reason": "中平元年（184）任司空之張濟，與董卓部將張濟同名異人；本傳張濟為武威人，初見史料為初平三年（192）隨李傕等攻長安，此段繫年早八年且為朝官任免，未涉本人，排除。"
+        }
+      ],
+      "unresolved": []
     }
   ]
 }
