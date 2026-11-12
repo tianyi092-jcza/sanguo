@@ -181327,6 +181327,34 @@
           "from": "傕等葬董卓於郿，并收董氏所焚尸之灰，合斂一棺而葬之。",
           "through": "傕等葬董卓於郿，并收董氏所焚尸之灰，合斂一棺而葬之。",
           "citation": "《後漢書·董卓列傳》"
+        },
+        {
+          "id": "liju-hhs-allow-east-return",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 29,
+          "from": "帝亦思舊京，因遣使敦請傕求東歸，十反乃許。",
+          "through": "帝亦思舊京，因遣使敦請傕求東歸，十反乃許。",
+          "citation": "《後漢書·董卓列傳》"
+        },
+        {
+          "id": "liju-hhs-regret-east-pursuit",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "李傕、郭汜旣悔令天子東，乃來救段煨，因欲劫帝而西，楊定為汜所遮，亡奔荊州。",
+          "through": "李傕、郭汜旣悔令天子東，乃來救段煨，因欲劫帝而西，楊定為汜所遮，亡奔荊州。",
+          "citation": "《後漢書·董卓列傳》"
+        },
+        {
+          "id": "liju-hhs-appoint-liubiao",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 19,
+          "from": "傕以表爲鎮南將軍、荊州牧，封成武侯，假節，以爲己援。",
+          "through": "傕以表爲鎮南將軍、荊州牧，封成武侯，假節，以爲己援。",
+          "context": "及李傕等入長安，冬，表遣使奉貢。",
+          "citation": "《後漢書·袁紹劉表列傳》"
         }
       ],
       "exclusions": [
