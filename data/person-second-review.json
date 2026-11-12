@@ -181567,6 +181567,33 @@
           "term": "李傕",
           "quote": "郭汜、李傕之屬，殘害又甚",
           "reason": "本段為《郡國志》序論歷代戶口損耗之長文，李傕僅在論及興平、建安之際海內凶荒時被提及一句，無具體事實，排除。"
+        },
+        {
+          "id": "liju-excl-015",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "term": "李傕",
+          "quote": "李傕入長安，欲結術為援，以術為左將軍，封陽翟侯，假節",
+          "reason": "與已錄 liju-hhs-appoint-yuanshu（a03-075:20，後漢書）為同一事實：李傕入長安後以袁術為左將軍、封陽翟侯、假節以結為外援。本段餘為袁術傳主線及馬日磾被奪節事，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-016",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 33,
+          "term": "李傕",
+          "quote": "李傕、郭汜入長安，欲連表為援，乃以表為鎮南將軍、荊州牧，封成武侯，假節",
+          "reason": "與已錄 liju-hhs-appoint-liubiao（a03-074b-ahcb:19，後漢書）為同一事實：李傕、郭汜以劉表為鎮南將軍、荊州牧，封成武侯，假節以連為外援。本段餘為劉表傳主線，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-017",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 3,
+          "term": "李傕",
+          "quote": "由是李傕等遂相結還攻長安城",
+          "reason": "李傕相關內容與已錄 liju-sgz-wei-changan（a04-006:9）及 liju-hhs-wangyun-disband（a03-066:30）為同一事實：李傕等相結還攻、圍長安。本段主體為呂布與郭汜單挑及呂布敗走武關，無李傕新事實，排除。"
         }
       ],
       "unresolved": []
