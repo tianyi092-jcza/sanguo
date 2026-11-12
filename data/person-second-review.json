@@ -183988,6 +183988,33 @@
           "term": "傕乃收允及翼、宏",
           "quote": "傕乃收允及翼、宏，并殺之。",
           "reason": "本段述王允、宋翼、王宏被李傕收殺，未提及樊稠，無新事實，排除。"
+        },
+        {
+          "id": "fanchou-excl-010",
+          "work": "huayangguozhi",
+          "source": "a06-010",
+          "paragraph": 15,
+          "term": "車騎将軍李傕與董承張",
+          "quote": "車騎将軍李傕與董承張",
+          "reason": "本段述溫以書切責李傕、遷都許事，僅提李傕，未提及樊稠，無新事實，排除。"
+        },
+        {
+          "id": "fanchou-excl-011",
+          "work": "jinshu",
+          "source": "a05-114-ahcb",
+          "paragraph": 38,
+          "term": "慕容沖入據長安",
+          "quote": "慕容沖入據長安，縱兵大掠，死者不可勝計。",
+          "reason": "本段述慕容沖入據長安、大掠事（前秦末），與樊稠無關，排除。"
+        },
+        {
+          "id": "fanchou-excl-012",
+          "work": "jinshu",
+          "source": "a05-117-ahcb",
+          "paragraph": 54,
+          "term": "尚既至長安",
+          "quote": "尚既至長安，坐匿呂氏宮人，擅殺逃人薄禾等，禁止南臺。",
+          "reason": "本段述尚至長安坐罪事，未提及樊稠，無新事實，排除。"
         }
       ],
       "unresolved": []
