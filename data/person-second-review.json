@@ -187051,6 +187051,33 @@
           "term": "劉備殺徐州刺史車胄",
           "quote": "五年，左將軍劉備殺徐州刺史車胄，據沛以背曹操。",
           "reason": "段內無韓暹，係建安五年袁紹傳事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-xianzhu-zhangren",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "term": "劉備殺張任",
+          "quote": "先主聞任之忠勇，令軍降之，任厲聲曰：「老臣終不復事二主矣。」乃殺之。",
+          "reason": "段內無韓暹，係建安十九年劉備入蜀、殺張任事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-guanyu-congxian",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 3,
+          "term": "關羽從先主就劉表",
+          "quote": "從先主就劉表。表卒，曹公定荊州，先主自樊將南渡江，別遣羽乘船數百艘會江陵。",
+          "reason": "段內無韓暹，係建安十三年關羽從劉備事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-xianzhu-shixi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 0,
+          "term": "先主世系",
+          "quote": "先主姓劉，諱備，字玄德，涿郡涿縣人，漢景帝子中山靖王勝之後也。",
+          "reason": "段內無韓暹，係先主世系開篇，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
         }
       ],
       "unresolved": []
