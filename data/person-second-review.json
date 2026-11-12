@@ -186465,6 +186465,33 @@
           "term": "為劉備所殺",
           "quote": "是時劉備令關羽鎮守，專有荊土，權命蒙西取長沙、零、桂三郡。",
           "reason": "本段為呂蒙傳取長沙、零陵、桂陽三郡事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-js-huanwen-chengdu",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 21,
+          "term": "為劉備所殺",
+          "quote": "三年春三月乙卯，桓溫攻成都，克之。",
+          "reason": "本段為晉書穆帝紀桓溫攻成都、李勢降事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-guangwu-jiangzhou",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 87,
+          "term": "為劉備所殺",
+          "quote": "秋七月，威虜將軍馮駿拔江州，獲田戎。",
+          "reason": "本段為後漢書光武帝紀吳漢、臧宮破公孫述將事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-yuanshu-jieyin",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 34,
+          "term": "依袁術",
+          "quote": "術遣韓胤以僭號事告布，因求迎婦，布遣女隨之。",
+          "reason": "本段為後漢書袁術傳袁術遣韓胤與呂布結姻、陳珪說布絕婚事，全段未提及楊奉；「依袁術」事件誤匹配。"
         }
       ],
       "unresolved": []
