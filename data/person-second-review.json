@@ -182680,6 +182680,24 @@
           "from": "輔分遣其校尉李傕、郭汜、張濟將步騎數萬，",
           "through": "因掠陳留、潁川諸縣，殺略男女，所過無復遺類。",
           "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "guosi-hhs-kill-wangyun",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 22,
+          "from": "遂圍門樓，共表請司徒王允出，問「太師何罪」？允窮蹙乃下，後數日見殺。",
+          "through": "傕等葬董卓於郿，并收董氏所焚尸之灰，合斂一棺而葬之。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "guosi-hhs-kaifu",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 25,
+          "from": "猶加稠及郭汜開府，與三公合為六府，皆參選舉。",
+          "through": "猶加稠及郭汜開府，與三公合為六府，皆參選舉。",
+          "citation": "《後漢書·董卓傳》"
         }
       ],
       "exclusions": [
@@ -182736,6 +182754,15 @@
           "term": "郭汜",
           "quote": "國家旣遭董卓，重以李傕、郭汜之禍，幼主劫執，忠良殘敝",
           "reason": "段落主角為朱儁；所述為陶謙推儁討傕汜及儁辭謙議就徵之事，郭汜僅為背景提及，未述其本人新事實；作亂之事已錄於 guosi-hhs-revolt，排除。"
+        },
+        {
+          "id": "guosi-excl-007",
+          "work": "houhanshu",
+          "source": "a03-089",
+          "paragraph": 66,
+          "term": "郭汜",
+          "quote": "右賢王去卑與白波賊帥韓暹等侍衞天子，拒擊李傕、郭汜",
+          "reason": "段落主角為單于呼厨泉；所述為建安元年獻帝東歸、去卑等侍衞天子拒擊傕汜之事，郭汜僅為背景提及，未述其本人新事實；追敗乘輿之事已錄於 guosi-hhs-pursue-caoyang，排除。"
         }
       ],
       "unresolved": []
