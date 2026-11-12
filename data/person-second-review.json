@@ -181309,6 +181309,24 @@
           "from": "會李傕用太尉周忠、尚書賈詡策，徵儁入朝。",
           "through": "會李傕用太尉周忠、尚書賈詡策，徵儁入朝。",
           "citation": "《後漢書·列傳第六十一》"
+        },
+        {
+          "id": "liju-hhs-sunjian-peace",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 15,
+          "from": "卓遣將李傕詣堅求和，堅拒絕不受，進軍大谷，距洛九十里。",
+          "through": "卓遣將李傕詣堅求和，堅拒絕不受，進軍大谷，距洛九十里。",
+          "citation": "《後漢書·董卓列傳》"
+        },
+        {
+          "id": "liju-hhs-bury-dongzhuo",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 22,
+          "from": "傕等葬董卓於郿，并收董氏所焚尸之灰，合斂一棺而葬之。",
+          "through": "傕等葬董卓於郿，并收董氏所焚尸之灰，合斂一棺而葬之。",
+          "citation": "《後漢書·董卓列傳》"
         }
       ],
       "exclusions": [
@@ -181374,6 +181392,15 @@
           "term": "李傕",
           "quote": "會李傕殺樊稠，而郭汜又自疑，與傕相攻，長安中亂",
           "reason": "段落主角為朱儁；「李傕殺樊稠、與郭汜相攻」已有《後漢書·孝獻帝紀》摘錄（liju-hhs-kill-fanchou），本段無李傕本人新事實，排除。"
+        },
+        {
+          "id": "liju-excl-008",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 21,
+          "term": "李傕",
+          "quote": "輔分遣其校尉李傕、郭汜、張濟將步騎數萬，",
+          "reason": "「擊破河南尹朱儁於中牟」一事已有《後漢書·朱儁傳》摘錄（liju-hhs-henan-zhujun，a03-071:26）；掠陳留、潁川句主語為三將之軍、未確指李傕本人，且李傕分句被注文隔斷、無法整句摘錄，排除。"
         }
       ],
       "unresolved": []
