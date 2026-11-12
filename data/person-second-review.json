@@ -181264,9 +181264,37 @@
           "from": "謙子旭，官至太僕，從獻帝西入關，與司徒王允同謀共誅董卓。",
           "through": "旭與允俱遇害。",
           "citation": "《後漢書·列傳第十五》"
+        },
+        {
+          "id": "liju-hhs-yangqi-defect",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 14,
+          "from": "及李傕脅帝歸其營，竒與黃門侍郎鍾繇誘傕部曲將宋曅、楊昂令反傕，傕由此孤弱，帝乃得東。",
+          "through": "及李傕脅帝歸其營，竒與黃門侍郎鍾繇誘傕部曲將宋曅、楊昂令反傕，傕由此孤弱，帝乃得東。",
+          "citation": "《後漢書·列傳第四十四》"
+        },
+        {
+          "id": "liju-hhs-yangqi-weizhi-note",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 14,
+          "from": "魏志曰，繇為黃門侍郎，傕脅天子，繇與尚書郎韓斌同策謀。天子得出長安，繇有力焉。",
+          "through": "魏志曰，繇為黃門侍郎，傕脅天子，繇與尚書郎韓斌同策謀。天子得出長安，繇有力焉。",
+          "citation": "《後漢書·列傳第四十四》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "liju-excl-001",
+          "work": "houhanshu",
+          "source": "a03-027",
+          "paragraph": 47,
+          "term": "李傕",
+          "quote": "李傕殺司徒王允，復代允為司徒",
+          "reason": "段落主角為趙謙；「李傕殺司徒王允」一句所述王允遇害一事已由《後漢書·孝獻帝紀》摘錄（liju-hhs-kill-wangyun），本段無李傕新事實，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
