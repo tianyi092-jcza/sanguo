@@ -186603,6 +186603,34 @@
           "term": "護駕東歸",
           "quote": "庚寅，車駕還宮。",
           "reason": "本段為後漢書光武帝紀記車駕還宮，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-hhs-guangwu-renyin-huangong",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 165,
+          "term": "護駕東歸",
+          "quote": "壬寅，車駕還宮。",
+          "reason": "本段為後漢書光武帝紀記車駕還宮，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-duji-title",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 8,
+          "term": "護駕東歸",
+          "quote": "杜畿傳",
+          "reason": "本段僅為三國志卷十六杜畿傳篇題，全段未提及楊奉；「護駕東歸」事件誤匹配。",
+          "citation": "《三國志·魏書十六·任蘇杜鄭倉傳第十六》"
+        },
+        {
+          "id": "yangfeng-js-xuandi-liushou",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 12,
+          "term": "護駕東歸",
+          "quote": "六年，天子復大興舟師征吳，復命帝居守，內鎮百姓，外供軍資。",
+          "reason": "本段為晉書宣帝紀記司馬懿留守許昌供軍資事，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
         }
       ],
       "unresolved": []
