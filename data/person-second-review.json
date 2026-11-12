@@ -185991,6 +185991,33 @@
           "from": "傕將楊奉本白波賊帥，乃將兵救傕，於是汜衆乃退。",
           "through": "傕將楊奉本白波賊帥，乃將兵救傕，於是汜衆乃退。",
           "citation": "《後漢書·卷七十二·董卓列傳第六十二》"
+        },
+        {
+          "id": "yangfeng-hhs-xunyu-fugong",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 33,
+          "from": "衆多以山東未定，韓暹、楊奉負功恣睢",
+          "through": "衆多以山東未定，韓暹、楊奉負功恣睢",
+          "citation": "《後漢書·卷七十·鄭孔荀列傳第六十》"
+        },
+        {
+          "id": "yangfeng-hhs-dongzhuo-hongnong",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "而張濟與楊奉、董承不相平，乃反合傕、汜，共追乘輿，大戰於弘農東澗。",
+          "through": "而張濟與楊奉、董承不相平，乃反合傕、汜，共追乘輿，大戰於弘農東澗。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二》"
+        },
+        {
+          "id": "yangfeng-hhs-dongzhuo-beizhan",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 32,
+          "from": "奉、暹奔袁術，遂縱暴楊、徐閒。明年，左將軍劉備誘奉斬之。",
+          "through": "奉、暹奔袁術，遂縱暴楊、徐閒。明年，左將軍劉備誘奉斬之。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二》"
         }
       ],
       "exclusions": [],
