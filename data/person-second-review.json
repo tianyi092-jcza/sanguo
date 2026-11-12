@@ -183907,7 +183907,35 @@
           "citation": "《三國志·董卓傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "fanchou-excl-001",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 37,
+          "term": "李傕、郭汜鬬長安中",
+          "quote": "至二年春，李傕、郭汜鬬長安中",
+          "reason": "段落述興平二年李傕、郭汜相攻及天子東還，未提樊稠；樊稠已於同年二月被李傕所殺（見 a03-009:8 摘錄），排除。"
+        },
+        {
+          "id": "fanchou-excl-002",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 28,
+          "term": "李傕、郭汜之亂",
+          "quote": "李傕、郭汜之亂，長安城潰",
+          "reason": "段落主角為種拂；僅以「李傕、郭汜之亂」為背景，未述樊稠本人新事實，排除。"
+        },
+        {
+          "id": "fanchou-excl-003",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 36,
+          "term": "李傕等攻破長安城",
+          "quote": "李傕等攻破長安城，害允等",
+          "reason": "僅稱「李傕等」未具名樊稠；攻破長安事已見 a03-009:5 摘錄，無新事實，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
