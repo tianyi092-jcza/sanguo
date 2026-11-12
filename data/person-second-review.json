@@ -186860,6 +186860,33 @@
           "from": "秋七月，楊奉、韓暹以天子還洛陽",
           "through": "秋七月，楊奉、韓暹以天子還洛陽",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "hanxian-sgz-dongzhuo-zhengdong",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "以暹為征東、才為征西、樂征北將軍，並與奉、承持政。",
+          "through": "以暹為征東、才為征西、樂征北將軍，並與奉、承持政。",
+          "citation": "《三國志·魏書六·董卓傳》"
+        },
+        {
+          "id": "hanxian-sgz-lvbu-goubu",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 9,
+          "from": "并詔書購捕公孫瓚、袁術、韓暹、楊奉等。",
+          "through": "并詔書購捕公孫瓚、袁術、韓暹、楊奉等。",
+          "citation": "《三國志·魏書七·呂布傳》裴注引《英雄記》"
+        },
+        {
+          "id": "hanxian-sgz-zhangyang-huanjiu",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "建安元年，楊奉、董承、韓暹挾天子還舊京，糧乏。",
+          "through": "建安元年，楊奉、董承、韓暹挾天子還舊京，糧乏。",
+          "citation": "《三國志·魏書八·張楊傳》"
         }
       ],
       "exclusions": [],
