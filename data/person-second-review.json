@@ -186045,6 +186045,33 @@
           "from": "傕將楊奉與傕軍吏宋果等謀殺傕，事泄，遂將兵叛傕。",
           "through": "傕將楊奉與傕軍吏宋果等謀殺傕，事泄，遂將兵叛傕。",
           "citation": "《三國志·魏書六 董二袁劉傳第六 李傕郭汜傳》"
+        },
+        {
+          "id": "yangfeng-sg-lubu-zhaoshu-goubu",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 9,
+          "from": "太祖又手書厚加慰勞布，說起迎天子，當平定天下意，并詔書購捕公孫瓚、袁術、韓暹、楊奉等。",
+          "through": "太祖又手書厚加慰勞布，說起迎天子，當平定天下意，并詔書購捕公孫瓚、袁術、韓暹、楊奉等。",
+          "citation": "《三國志·魏書七 呂布臧洪傳第七 呂布傳》"
+        },
+        {
+          "id": "yangfeng-sg-lubu-lian-shu-fan-bu",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 11,
+          "from": "術怒，與韓暹、楊奉等連勢，遣大將張勳攻布。",
+          "through": "於是暹、奉從之，勳大破敗。",
+          "citation": "《三國志·魏書七 呂布臧洪傳第七 呂布傳》"
+        },
+        {
+          "id": "yangfeng-sg-zhangyang-xie-tianzi-huan-luoyang",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "建安元年，楊奉、董承、韓暹挾天子還舊京，糧乏。",
+          "through": "楊以糧迎道路，遂至洛陽。",
+          "citation": "《三國志·魏書八 二公孫陶四張傳第八 張楊傳》"
         }
       ],
       "exclusions": [],
