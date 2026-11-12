@@ -186739,6 +186739,33 @@
           "term": "護駕東歸",
           "quote": "孫輔傳",
           "reason": "此段僅為〈孫輔傳〉篇目標題，無正文內容，未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-zhangzhao-cehong",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 29,
+          "term": "護駕東歸",
+          "quote": "策薨，權年少，初統事",
+          "reason": "本段記孫策薨後孫權初統事、張昭秉眾事，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-sunli-title",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 28,
+          "term": "護駕東歸",
+          "quote": "孫禮傳",
+          "reason": "此段僅為〈孫禮傳〉篇目標題，無正文內容，未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-hhs-mayuan-huanjing",
+          "work": "houhanshu",
+          "source": "a03-024",
+          "paragraph": 18,
+          "term": "護駕東歸",
+          "quote": "二十年秋，振旅還京師，軍吏經瘴疫死者十四五。",
+          "reason": "本段為後漢書馬援傳記建武二十年援振旅還京師事，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
         }
       ],
       "unresolved": []
