@@ -183851,6 +183851,33 @@
           "from": "稠為右將軍、萬年侯。",
           "through": "稠為右將軍、萬年侯。",
           "citation": "《三國志·董卓傳》"
+        },
+        {
+          "id": "fanchou-sgz-jiuzhou-killed",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 11,
+          "from": "九州春秋曰：馬騰、韓遂之敗，樊稠追至陳倉。",
+          "through": "因請稠會議，便於坐殺稠。",
+          "citation": "《三國志·董卓傳》裴注引《九州春秋》"
+        },
+        {
+          "id": "fanchou-sgz-jiaxu-hejie",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 24,
+          "from": "獻帝紀曰：郭汜、樊稠與傕互相違戾，欲鬬者數矣。詡輒以道理責之，頗受詡言。",
+          "through": "獻帝紀曰：郭汜、樊稠與傕互相違戾，欲鬬者數矣。詡輒以道理責之，頗受詡言。",
+          "citation": "《三國志·賈詡傳》裴注引《獻帝紀》"
+        },
+        {
+          "id": "fanchou-hhs-killed-xingping2",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "二月乙亥，李傕殺樊稠而與郭汜相攻。",
+          "through": "二月乙亥，李傕殺樊稠而與郭汜相攻。",
+          "citation": "《後漢書·孝獻帝紀》"
         }
       ],
       "exclusions": [],
