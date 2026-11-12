@@ -181732,6 +181732,33 @@
           "term": "李傕",
           "quote": "留者後多為董卓將李傕所殺略焉。",
           "reason": "略陳留、潁川諸縣一事已由《三國志·董卓傳》摘錄（liju-sgz-xiaowei-luexian）；本句僅為荀彧避亂背景中同一劫掠之側寫，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-024",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 14,
+          "term": "李傕",
+          "quote": "尋李傕作亂，嵩亦病卒",
+          "reason": "李傕作亂已由多條摘錄（liju-hhs-revolt 等）；本句僅為皇甫嵩卒時背景，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-025",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 27,
+          "term": "李傕",
+          "quote": "明年春，傕因會刺殺樊稠於坐",
+          "reason": "刺殺樊稠、傕汜相攻已錄 liju-hhs-kill-fanchou；劫天子幸傕營、焚燒宮殿已錄 liju-hhs-wuxing-caoyang；餘為獻帝紀、袁宏紀注文細節及郭汜、楊彪等事，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-026",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 33,
+          "term": "李傕",
+          "quote": "三年，使謁者僕射裴茂詔關中諸將段煨等討李傕，夷三族。",
+          "reason": "段煨討李傕、夷三族已由《後漢書·孝獻帝紀》摘錄（liju-hhs-duanwei-kill，a03-009:11）；本句為董卓傳同年事之重述，無新事實，排除。"
         }
       ],
       "unresolved": []
