@@ -180945,8 +180945,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "zhangni-sg-033-1",
+          "work": "sanguozhi",
+          "source": "a04-033",
+          "paragraph": 19,
+          "from": "三年春，使越嶲太守張嶷平定越嶲郡。",
+          "through": "三年春，使越嶲太守張嶷平定越嶲郡。",
+          "citation": "《三國志·蜀書三·後主傳》"
+        },
+        {
+          "id": "zhangni-sg-043-1",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 13,
+          "from": "軍還，督將軍張嶷等討汶山郡叛羌。",
+          "through": "軍還，督將軍張嶷等討汶山郡叛羌。",
+          "citation": "《三國志·蜀書十三·黃李呂馬王張傳·馬忠傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhangni-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-043",
+          "paragraph": 21,
+          "term": "張嶷",
+          "quote": "張嶷傳",
+          "reason": "此段僅為《三國志·蜀書十三》張嶷傳的小標題，無正文內容，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
