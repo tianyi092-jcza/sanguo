@@ -186712,6 +186712,33 @@
           "term": "護駕東歸",
           "quote": "鮮卑寇遼東。",
           "reason": "本段僅記鮮卑寇遼東，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-guanning-title",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 27,
+          "term": "護駕東歸",
+          "quote": "管寧傳",
+          "reason": "此段僅為〈管寧傳〉篇目標題，無正文內容，未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-js-xuandi-nanxun",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 6,
+          "term": "護駕東歸",
+          "quote": "五年，天子南巡，觀兵吳疆。",
+          "reason": "本段記魏明帝太和五年南巡觀兵吳疆，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-sunfu-title",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 11,
+          "term": "護駕東歸",
+          "quote": "孫輔傳",
+          "reason": "此段僅為〈孫輔傳〉篇目標題，無正文內容，未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
         }
       ],
       "unresolved": []
