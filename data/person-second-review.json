@@ -181237,6 +181237,33 @@
           "from": "五月壬午，李傕自為大司馬。",
           "through": "五月壬午，李傕自為大司馬。",
           "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "liju-hhs-capture-tangji",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 36,
+          "from": "及李傕破長安，遣兵鈔關東，略得姬。",
+          "through": "傕因欲妻之，固不聽，而終不自名。",
+          "citation": "《後漢書·皇后紀下》"
+        },
+        {
+          "id": "liju-hhs-pursue-caoyang",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 42,
+          "from": "帝尋而東歸，李傕、郭汜等追敗乘輿於曹陽，",
+          "through": "帝乃潛夜度河走，",
+          "citation": "《後漢書·皇后紀下》"
+        },
+        {
+          "id": "liju-hhs-kill-liuxu",
+          "work": "houhanshu",
+          "source": "a03-025",
+          "paragraph": 29,
+          "from": "謙子旭，官至太僕，從獻帝西入關，與司徒王允同謀共誅董卓。",
+          "through": "旭與允俱遇害。",
+          "citation": "《後漢書·列傳第十五》"
         }
       ],
       "exclusions": [],
