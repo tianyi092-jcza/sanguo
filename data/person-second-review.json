@@ -182806,6 +182806,24 @@
           "from": "興平元年，馮翊降羌反，寇諸縣，郭汜、樊稠擊破之，斬首數千級。",
           "through": "興平元年，馮翊降羌反，寇諸縣，郭汜、樊稠擊破之，斬首數千級。",
           "citation": "《後漢書·西羌傳》"
+        },
+        {
+          "id": "guosi-sgz-wudi-kill-wangyun",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "from": "夏四月，司徒王允與呂布共殺卓。",
+          "through": "傕等擅朝政。",
+          "citation": "《三國志·魏書一 武帝紀第一》"
+        },
+        {
+          "id": "guosi-sgz-xie-tianzi-huanmei",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "郭汜復欲脅天子還都郿。",
+          "through": "汜走南山，奉及將軍董承以天子還洛陽。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
         }
       ],
       "exclusions": [
@@ -182979,6 +182997,15 @@
           "term": "郭汜",
           "quote": "是時李傕、郭汜專政。",
           "reason": "段落主述初平四年正月日食占驗；郭汜僅「是時李傕、郭汜專政」背景提及，無本人新事實；傕汜專政已錄於他條。"
+        },
+        {
+          "id": "guosi-excl-019",
+          "work": "houhanshu",
+          "source": "a03-109",
+          "paragraph": 1,
+          "term": "郭汜",
+          "quote": "郭汜、李傕之屬，殘害又甚",
+          "reason": "段落主述郡國志戶口損耗總述（永壽至景元民戶消長）；郭汜僅「郭汜、李傕之屬，殘害又甚」背景提及，無本人新事實；傕汜專政已錄於他條。"
         }
       ],
       "unresolved": [
