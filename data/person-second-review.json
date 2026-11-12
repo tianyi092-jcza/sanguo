@@ -183278,6 +183278,33 @@
           "term": "長安",
           "quote": "帝在長安",
           "reason": "晉書惠帝紀：二年春正月帝在長安事，未及郭汜；「長安」地名誤觸。"
+        },
+        {
+          "id": "guosi-excl-043",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 61,
+          "term": "長安",
+          "quote": "修理長安高廟",
+          "reason": "後漢書光武帝紀：修理長安高廟事，未及郭汜；「長安」地名誤觸。"
+        },
+        {
+          "id": "guosi-excl-044",
+          "work": "jinshu",
+          "source": "a05-130-ahcb",
+          "paragraph": 19,
+          "term": "長安",
+          "quote": "群臣勸都長安",
+          "reason": "晉書赫連勃勃載記：群臣勸都長安、勃勃慮北京不守未從事，未及郭汜；「長安」地名誤觸。"
+        },
+        {
+          "id": "guosi-excl-045",
+          "work": "jinshu",
+          "source": "a05-057-ahcb",
+          "paragraph": 37,
+          "term": "陶璜之死",
+          "quote": "初，陶璜之死也",
+          "reason": "晉書陶璜傳：陶璜死後九真戍兵作亂、陶彥討平事，未及郭汜；死亡事件語義誤觸。"
         }
       ],
       "unresolved": [
