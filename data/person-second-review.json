@@ -183878,6 +183878,33 @@
           "from": "二月乙亥，李傕殺樊稠而與郭汜相攻。",
           "through": "二月乙亥，李傕殺樊稠而與郭汜相攻。",
           "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "fanchou-hhs-dongzhuo-killed-detail",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 27,
+          "from": "獻帝紀曰：「傕見稠果勇而得衆心，疾害之，醉酒，潛使外生騎都尉胡封於坐中拉殺稠。」",
+          "through": "獻帝紀曰：「傕見稠果勇而得衆心，疾害之，醉酒，潛使外生騎都尉胡封於坐中拉殺稠。」",
+          "citation": "《後漢書·董卓傳》注引《獻帝紀》"
+        },
+        {
+          "id": "fanchou-hhs-xiqiang-fengyi",
+          "work": "houhanshu",
+          "source": "a03-087",
+          "paragraph": 45,
+          "from": "興平元年，馮翊降羌反，寇諸縣，郭汜、樊稠擊破之，斬首數千級。",
+          "through": "興平元年，馮翊降羌反，寇諸縣，郭汜、樊稠擊破之，斬首數千級。",
+          "citation": "《後漢書·西羌傳》"
+        },
+        {
+          "id": "fanchou-sgz-jiteng-huaili",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 10,
+          "from": "稠擊騰，騰敗走，還涼州；又攻槐里，宇等皆死。",
+          "through": "稠擊騰，騰敗走，還涼州；又攻槐里，宇等皆死。",
+          "citation": "《三國志·董卓傳》"
         }
       ],
       "exclusions": [],
