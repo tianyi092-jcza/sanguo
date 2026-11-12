@@ -186184,6 +186184,33 @@
           "term": "孫策遣使奉貢",
           "quote": "孫策遣使奉貢。",
           "reason": "此句「奉貢」之「奉」為動詞「進獻」之意，指孫策遣使向朝廷進貢，與楊奉其人無關；單字誤命中，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-xianzhu-caiyang",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 7,
+          "term": "蔡楊",
+          "quote": "曹公遣蔡楊擊之，為先主所殺。",
+          "reason": "蔡楊為曹公部將，與楊奉非同一人；「為先主所殺」者為蔡楊，非楊奉。楊奉之死已另錄（a03-072:32「明年，左將軍劉備誘奉斬之」）。"
+        },
+        {
+          "id": "yangfeng-sgz-wuzhu-jianan14",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 9,
+          "term": "劉備表權行車騎將軍",
+          "quote": "劉備表權行車騎將軍，領徐州牧。備領荊州牧，屯公安。",
+          "reason": "本段為建安十四年周瑜守江陵、劉備表孫權事，全段無楊奉亦無殺楊奉之事；「為劉備所殺」為事件誤匹配。楊奉死於建安二年劉備討袁術，已另錄。"
+        },
+        {
+          "id": "yangfeng-hhs-yuanshao-chechou",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 26,
+          "term": "劉備殺徐州刺史車胄",
+          "quote": "五年，左將軍劉備殺徐州刺史車胄，據沛以背曹操。",
+          "reason": "為劉備所殺者為徐州刺史車胄，非楊奉；同類事件誤匹配。"
         }
       ],
       "unresolved": []
