@@ -186018,6 +186018,33 @@
           "from": "奉、暹奔袁術，遂縱暴楊、徐閒。明年，左將軍劉備誘奉斬之。",
           "through": "奉、暹奔袁術，遂縱暴楊、徐閒。明年，左將軍劉備誘奉斬之。",
           "citation": "《後漢書·卷七十二·董卓列傳第六十二》"
+        },
+        {
+          "id": "yangfeng-sg-wudi-nanben-yuanshu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 10,
+          "from": "天子之東也，奉自梁欲要之，不及。冬十月，公征奉，奉南奔袁術，遂攻其梁屯，拔之。",
+          "through": "天子之東也，奉自梁欲要之，不及。冬十月，公征奉，奉南奔袁術，遂攻其梁屯，拔之。",
+          "citation": "《三國志·魏書一 武帝紀第一》"
+        },
+        {
+          "id": "yangfeng-sg-liguosi-baiboshuai",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 11,
+          "from": "楊奉，白波帥耳，猶知將軍所為非是，將軍雖拜寵之，猶不肯盡力也。",
+          "through": "楊奉，白波帥耳，猶知將軍所為非是，將軍雖拜寵之，猶不肯盡力也。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 李傕郭汜傳》"
+        },
+        {
+          "id": "yangfeng-sg-liguosi-panjue",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "傕將楊奉與傕軍吏宋果等謀殺傕，事泄，遂將兵叛傕。",
+          "through": "傕將楊奉與傕軍吏宋果等謀殺傕，事泄，遂將兵叛傕。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 李傕郭汜傳》"
         }
       ],
       "exclusions": [],
