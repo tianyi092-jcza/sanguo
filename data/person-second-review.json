@@ -181466,6 +181466,33 @@
           "from": "昭為太祖作書與長安諸將李傕、郭汜等，各隨輕重致殷勤。",
           "through": "昭為太祖作書與長安諸將李傕、郭汜等，各隨輕重致殷勤。",
           "citation": "《三國志·魏書十四 程昱郭嘉董昭劉曄蔣濟傳第十四 董昭傳》"
+        },
+        {
+          "id": "liju-jinshu-changan-famine",
+          "work": "jinshu",
+          "source": "a05-026-ahcb",
+          "paragraph": 2,
+          "from": "及卓誅死，李傕、郭汜自相攻伐，於長安城中以爲戰地。是時穀一斛五十萬，豆麥二十萬，人相食啖，白骨盈積，殘骸餘肉，臭穢道路。",
+          "through": "及卓誅死，李傕、郭汜自相攻伐，於長安城中以爲戰地。是時穀一斛五十萬，豆麥二十萬，人相食啖，白骨盈積，殘骸餘肉，臭穢道路。",
+          "citation": "《晉書·志第十六·食貨》"
+        },
+        {
+          "id": "liju-hhs-duanwei-kill",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 11,
+          "from": "三年夏四月，遣謁者裴茂率中郎將段煨討李傕，夷三族。",
+          "through": "三年夏四月，遣謁者裴茂率中郎將段煨討李傕，夷三族。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "liju-hhs-duanwei-head-note",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 11,
+          "from": "獻帝起居注曰「傳傕首到許，有詔高懸之」也。",
+          "through": "獻帝起居注曰「傳傕首到許，有詔高懸之」也。",
+          "citation": "《後漢書·孝獻帝紀》"
         }
       ],
       "exclusions": [
