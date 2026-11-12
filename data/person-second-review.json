@@ -186887,6 +186887,33 @@
           "from": "建安元年，楊奉、董承、韓暹挾天子還舊京，糧乏。",
           "through": "建安元年，楊奉、董承、韓暹挾天子還舊京，糧乏。",
           "citation": "《三國志·魏書八·張楊傳》"
+        },
+        {
+          "id": "hanxian-sgz-xunyu-fengying",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 4,
+          "from": "太祖議奉迎都許，或以山東未平，韓暹、楊奉新將天子到洛陽，北連張楊，未可卒制。",
+          "through": "太祖議奉迎都許，或以山東未平，韓暹、楊奉新將天子到洛陽，北連張楊，未可卒制。",
+          "citation": "《三國志·魏書十·荀彧傳》"
+        },
+        {
+          "id": "hanxian-sgz-dongzhao-weili",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 19,
+          "from": "會天子還洛陽，韓暹、楊奉、董承及楊各違戾不和。",
+          "through": "會天子還洛陽，韓暹、楊奉、董承及楊各違戾不和。",
+          "citation": "《三國志·魏書十四·董昭傳》"
+        },
+        {
+          "id": "hanxian-sgz-xuhuang-zhengdou",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 22,
+          "from": "及到洛陽，韓暹、董承日爭鬬，晃說奉令歸太祖；奉欲從之，後悔。",
+          "through": "及到洛陽，韓暹、董承日爭鬬，晃說奉令歸太祖；奉欲從之，後悔。",
+          "citation": "《三國志·魏書十七·徐晃傳》"
         }
       ],
       "exclusions": [],
