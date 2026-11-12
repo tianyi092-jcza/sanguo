@@ -183761,15 +183761,20 @@
     {
       "id": "p0333",
       "name": "樊稠",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 16 條、排除 35 條；向量候選已枯竭，本傳《三國志·董卓傳》（a04-006）言樊稠段落已全覆蓋，無遺漏。",
+        "生平主線：董卓部曲將，隨李傕等攻破長安；拜右將軍、萬年侯，與李傕、郭汜、張濟共秉朝政；長平觀敗韓遂、馬騰，攻槐里、破馮翊降羌；興平二年二月為李傕所殺（胡封拉殺），以其果勇得眾心而見疾。",
+        "辨人：與李傕、郭汜、張濟等同傳人物嚴格區分；單字「稠」命中均核實確指本人。",
+        "樊稠無三國志本傳，附於董卓傳；史料以《後漢書·董卓傳》與《三國志·董卓傳》裴注為主；生年未見明載，卒於興平二年（195）。"
+      ],
       "excerpts": [
         {
           "id": "fanchou-hhs-revolt",
