@@ -185392,15 +185392,20 @@
     {
       "id": "p0336",
       "name": "楊定",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 5 條、排除 55 條；向量候選已枯竭，本傳《後漢書·董卓傳》（a03-072）言楊定段落已全覆蓋，無遺漏。",
+        "生平主線：董卓舊部曲將，官安西將軍；董卓死後懼李傕加害，與郭汜合謀迎天子幸其營；獻帝東歸時拜後將軍，侍送乘輿；與段煨有隙，誣其欲反，攻其營十餘日不下；後為郭汜所遮，亡奔荊州。",
+        "辨人：與郭汜、段煨、張濟等同卷人物嚴格區分；「楊定」全字命中僅五處，皆已錄為正摘錄；其餘同名或單字命中均已核實排除。",
+        "楊定無三國志本傳，事見《後漢書·董卓傳》《獻帝紀》及《三國志·董卓傳》裴注引《獻帝起居注》；生卒年未見明載，亡奔荊州後下落不見史載。"
+      ],
       "excerpts": [
         {
           "id": "yangding-hhs-flee-jingzhou",
