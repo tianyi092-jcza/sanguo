@@ -184204,6 +184204,33 @@
           "term": "慕容沖入長安",
           "quote": "六月，宏來降，慕容沖入長安。",
           "reason": "本段述慕容沖入長安事，未提及樊稠，排除。"
+        },
+        {
+          "id": "fanchou-excl-033",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 112,
+          "term": "長安城中戶不盈百",
+          "quote": "長安城中戶不盈百，牆宇穨毀，蒿棘成林。",
+          "reason": "本段述永嘉之亂後長安殘破事，未提及樊稠，排除。"
+        },
+        {
+          "id": "fanchou-excl-034",
+          "work": "houhanshu",
+          "source": "a03-016",
+          "paragraph": 7,
+          "term": "赤眉新拔長安",
+          "quote": "赤眉新拔長安，財富充實，鋒銳未可當也。",
+          "reason": "本段述鄧禹議攻長安、赤眉新拔長安事，未提及樊稠，排除。"
+        },
+        {
+          "id": "fanchou-excl-035",
+          "work": "jinshu",
+          "source": "a05-118-ahcb",
+          "paragraph": 9,
+          "term": "姚沖欲回師襲長安",
+          "quote": "沖次于嶺北，欲回師襲長安，伯支不從，乃止，懼其謀泄，遂鴆殺伯支。",
+          "reason": "本段述姚沖討勃勃、欲襲長安事，未提及樊稠，排除。"
         }
       ],
       "unresolved": []
