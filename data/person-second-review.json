@@ -184383,6 +184383,24 @@
           "from": "張濟自關中走南陽。",
           "through": "濟死，從子繡領其衆。",
           "citation": "《三國志·武帝紀》"
+        },
+        {
+          "id": "zhangji-sgz-dongzhuo-guoduo-mou",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 11,
+          "from": "張濟與郭多、楊定有謀，又為冠帶所附。",
+          "through": "張濟與郭多、楊定有謀，又為冠帶所附。",
+          "citation": "《三國志·董卓傳》"
+        },
+        {
+          "id": "zhangji-sgz-jiaxu-xigong-changan",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 24,
+          "from": "校尉李傕、郭汜、張濟等欲解散，間行歸鄉里。",
+          "through": "傕乃西攻長安。",
+          "citation": "《三國志·賈詡傳》"
         }
       ],
       "exclusions": [
@@ -184421,6 +184439,15 @@
           "term": "司空張濟承望內官",
           "quote": "時太尉許戫、司空張濟承望內官，受取貨賂，",
           "reason": "光和五年（182）任司空之張濟，與 a03-008-full:12 所排同名司空（字元江、細陽人）為同一人；與董卓部將張濟同名異人，排除。"
+        },
+        {
+          "id": "zhangji-excl-005",
+          "work": "jinshu",
+          "source": "a05-122-ahcb",
+          "paragraph": 9,
+          "term": "魏安人焦松、齊肅、張濟等起兵",
+          "quote": "是月，魏安人焦松、齊肅、張濟等起兵數千，迎大豫於揟次，陷昌松郡。",
+          "reason": "苻堅之敗（淝水之戰後，約 385）時魏安起兵迎張大豫之張濟，與董卓部將張濟（卒建安元年 196）相隔近二百年，同名異人，排除。"
         }
       ],
       "unresolved": []
