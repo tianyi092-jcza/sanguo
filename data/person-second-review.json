@@ -186330,6 +186330,33 @@
           "term": "從先主就劉表",
           "quote": "從先主就劉表。表卒，曹公定荊州，先主自樊將南渡江，別遣羽乘船數百艘會江陵。",
           "reason": "本段為關羽傳從先主就劉表、長阪事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-xianzhu-jiashi",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 0,
+          "term": "先主姓劉",
+          "quote": "先主姓劉，諱備，字玄德，涿郡涿縣人，漢景帝子中山靖王勝之後也。",
+          "reason": "本段為先主傳開篇敘劉備家世出身，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-liubiao-benjingzhou",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 22,
+          "term": "劉備自袁紹奔荊州",
+          "quote": "六年，劉備自袁紹奔荊州，表厚相待結而不能用也。",
+          "reason": "本段為劉表傳建安六年劉備奔荊州、十三年表卒事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-xianzhu-huangjin",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 2,
+          "term": "靈帝末，黃巾起",
+          "quote": "靈帝末，黃巾起，州郡各舉義兵，先主率其屬從校尉鄒靖討黃巾賊有功，除安喜尉。",
+          "reason": "本段為先主傳靈帝末黃巾起、劉備除安喜尉事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
         }
       ],
       "unresolved": []
