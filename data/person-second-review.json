@@ -186685,6 +186685,33 @@
           "term": "護駕東歸",
           "quote": "庚午，車駕還宮。",
           "reason": "本段僅記獻帝還宮日期，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-sgz-luxun-yidao-sunhuan",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 9,
+          "term": "護駕東歸",
+          "quote": "孫桓別討備前鋒於夷道，為備所圍",
+          "reason": "本段記夷陵之戰孫桓於夷道被圍、陸遜未救之事，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-js-yufu-sinan-che",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 15,
+          "term": "護駕東歸",
+          "quote": "司南車，一名指南車",
+          "reason": "本段為晉書輿服志記司南車形制，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
+        },
+        {
+          "id": "yangfeng-hhs-xianbei-liaodong",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 82,
+          "term": "護駕東歸",
+          "quote": "鮮卑寇遼東。",
+          "reason": "本段僅記鮮卑寇遼東，全段未提及楊奉；「護駕東歸」事件誤匹配，不作本人史實。"
         }
       ],
       "unresolved": []
