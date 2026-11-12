@@ -183934,6 +183934,33 @@
           "term": "李傕等攻破長安城",
           "quote": "李傕等攻破長安城，害允等",
           "reason": "僅稱「李傕等」未具名樊稠；攻破長安事已見 a03-009:5 摘錄，無新事實，排除。"
+        },
+        {
+          "id": "fanchou-excl-004",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 31,
+          "term": "馬騰、韓遂及左中郎劉範、諫議大夫馬宇共攻李傕、郭汜",
+          "quote": "與汜戰於長平觀下",
+          "reason": "僅稱「李傕、郭汜」未具名樊稠；長平觀之戰已見 fanchou-hhs-changping 摘錄，無新事實，排除。"
+        },
+        {
+          "id": "fanchou-excl-005",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 3,
+          "term": "李傕等遂相結還攻長安城",
+          "quote": "由是李傕等遂相結還攻長安城。",
+          "reason": "僅稱「李傕等」未具名樊稠；攻破長安事已見 a03-009:5 摘錄，無新事實，排除。"
+        },
+        {
+          "id": "fanchou-excl-006",
+          "work": "houhanshu",
+          "source": "a03-025",
+          "paragraph": 29,
+          "term": "及李傕入長安",
+          "quote": "及李傕入長安。旭與允俱遇害。",
+          "reason": "僅稱「李傕」未具名樊稠；李傕入長安事已見 a03-009:5 摘錄，無新事實，排除。"
         }
       ],
       "unresolved": []
