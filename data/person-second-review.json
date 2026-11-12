@@ -182743,6 +182743,15 @@
           "from": "傕、汜等以為「關東欲自立天子，今曹操雖有使命，非其至實」，議留太祖使，拒絕其意。",
           "through": "傕、汜等用繇言，厚加荅報，由是太祖使命遂得通。",
           "citation": "《三國志·魏書十三 鍾繇華歆王朗傳第十三 鍾繇傳》"
+        },
+        {
+          "id": "guosi-hhs-cheqi-jiangjun",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "郭汜自為車騎將軍，楊定為後將軍，楊奉為興義將軍，董承為安集將軍，並侍送乘輿。",
+          "through": "楊定、楊奉與郭汜戰，破之。",
+          "citation": "《後漢書·孝獻帝紀》"
         }
       ],
       "exclusions": [
@@ -182871,6 +182880,24 @@
           "term": "郭汜",
           "quote": "卓將李傕、郭汜等為卓報仇，入長安，殺允，盡害其家。",
           "reason": "段落主述王淩踰城脫身亡命歸鄉；入長安殺王允之事已錄於 guosi-hhs-kill-wangyun。"
+        },
+        {
+          "id": "guosi-excl-015",
+          "work": "jinshu",
+          "source": "a05-026-ahcb",
+          "paragraph": 2,
+          "term": "郭汜",
+          "quote": "及卓誅死，李傕、郭汜自相攻伐，於長安城中以爲戰地。",
+          "reason": "段落主述董卓亂後至建安元年的食貨與長安空虛；郭汜僅背景提及，相攻事實已錄於 guosi-hhs-vs-lijue，曹陽追敗已錄於 guosi-hhs-pursue-caoyang，無本人新事實。"
+        },
+        {
+          "id": "guosi-excl-016",
+          "work": "houhanshu",
+          "source": "a03-027",
+          "paragraph": 49,
+          "term": "郭汜",
+          "quote": "時李傕與郭汜相攻，傕遂虜掠禁省，劫帝幸北塢，外內隔絕。",
+          "reason": "段落主述趙溫勸李傕與郭汜和解；郭汜僅首句背景提及，相攻事實已錄於 guosi-hhs-vs-lijue，無本人新事實。"
         }
       ],
       "unresolved": []
