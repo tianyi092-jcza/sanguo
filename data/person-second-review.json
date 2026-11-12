@@ -186914,6 +186914,33 @@
           "from": "及到洛陽，韓暹、董承日爭鬬，晃說奉令歸太祖；奉欲從之，後悔。",
           "through": "及到洛陽，韓暹、董承日爭鬬，晃說奉令歸太祖；奉欲從之，後悔。",
           "citation": "《三國志·魏書十七·徐晃傳》"
+        },
+        {
+          "id": "hanxian-hhs-xiandi-jiangjun",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 9,
+          "from": "癸卯，安國將軍張楊為大司馬，韓暹為將軍，楊奉為車騎將軍。",
+          "through": "癸卯，安國將軍張楊為大司馬，韓暹為將軍，楊奉為車騎將軍。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "hanxian-hhs-dongzhuo-dajiangjun",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 31,
+          "from": "乃以張楊為大司馬，楊奉為車騎將軍，韓暹為大將軍，領司隷校尉，皆假節鉞。",
+          "through": "乃以張楊為大司馬，楊奉為車騎將軍，韓暹為大將軍，領司隷校尉，皆假節鉞。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "hanxian-hhs-lvbu-xiapi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 36,
+          "from": "暹、奉大喜，遂共擊勳等於下邳，大破之，生禽橋蕤，餘衆潰走，其所殺傷、墯水死者殆盡。",
+          "through": "暹、奉大喜，遂共擊勳等於下邳，大破之，生禽橋蕤，餘衆潰走，其所殺傷、墯水死者殆盡。",
+          "citation": "《後漢書·卷七十五·劉焉袁術呂布列傳第六十五 呂布傳》"
         }
       ],
       "exclusions": [],
