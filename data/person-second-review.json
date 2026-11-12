@@ -186492,6 +186492,33 @@
           "term": "依袁術",
           "quote": "術遣韓胤以僭號事告布，因求迎婦，布遣女隨之。",
           "reason": "本段為後漢書袁術傳袁術遣韓胤與呂布結姻、陳珪說布絕婚事，全段未提及楊奉；「依袁術」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-yuanshu-jiangting-si",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 25,
+          "term": "依袁術",
+          "quote": "術因欲北至青州從袁譚，曹操使劉備徼之，不得過，復走還壽春。",
+          "reason": "本段為後漢書袁術傳袁術北投袁譚不成、還壽春病死事，全段未提及楊奉；「依袁術」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-hekui-yuanshu-luan",
+          "work": "sanguozhi",
+          "source": "a04-012",
+          "paragraph": 18,
+          "term": "依袁術",
+          "quote": "時有傳袁術軍亂者，太祖問夔曰；「君以為信不？」",
+          "reason": "本段為三國志魏書十二何夔事，論袁術軍亂，全段未提及楊奉；「依袁術」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-yuanshu-nanyang-chen",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 21,
+          "term": "依袁術",
+          "quote": "初，術在南陽，戶口尚數十百萬，而不修法度，以鈔掠為資，奢恣無猒，百姓患之。",
+          "reason": "本段為後漢書袁術傳袁術在南陽奢恣、謀僭逆事，全段未提及楊奉；「依袁術」事件誤匹配。"
         }
       ],
       "unresolved": []
