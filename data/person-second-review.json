@@ -182752,6 +182752,24 @@
           "from": "郭汜自為車騎將軍，楊定為後將軍，楊奉為興義將軍，董承為安集將軍，並侍送乘輿。",
           "through": "楊定、楊奉與郭汜戰，破之。",
           "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "guosi-hhs-vs-zhujun",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 26,
+          "from": "董卓聞之，使其將李傕、郭汜等數萬人屯河南拒儁。",
+          "through": "儁逆擊，為傕、汜所破。",
+          "citation": "《後漢書·朱儁傳》"
+        },
+        {
+          "id": "guosi-hhs-huangfuli-he",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 28,
+          "from": "詔遣謁者僕射皇甫酈和傕、汜。",
+          "through": "酈先譬汜，汜即從命。",
+          "citation": "《後漢書·董卓傳》"
         }
       ],
       "exclusions": [
@@ -182898,9 +182916,20 @@
           "term": "郭汜",
           "quote": "時李傕與郭汜相攻，傕遂虜掠禁省，劫帝幸北塢，外內隔絕。",
           "reason": "段落主述趙溫勸李傕與郭汜和解；郭汜僅首句背景提及，相攻事實已錄於 guosi-hhs-vs-lijue，無本人新事實。"
+        },
+        {
+          "id": "guosi-excl-017",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 31,
+          "term": "郭汜",
+          "quote": "郭汜、李傕以我二人在外，故未危王公。今日就徵，明日俱族。",
+          "reason": "段落主述王宏、宋翼就徵與王允見殺；郭汜僅王宏使者言中背景提及，無本人新事實；王允見殺已錄於 guosi-hhs-kill-wangyun。"
         }
       ],
-      "unresolved": []
+      "unresolved": [
+        "後漢書董卓傳 a03-072:28「汜一名多」：郭汜別名郭多，李傕斥其「郭多，盜馬虜耳」；本段已因皇甫酈和解摘錄而覆蓋，別名事實待他源互證後補記。"
+      ]
     }
   ]
 }
