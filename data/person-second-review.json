@@ -182763,6 +182763,33 @@
           "term": "郭汜",
           "quote": "右賢王去卑與白波賊帥韓暹等侍衞天子，拒擊李傕、郭汜",
           "reason": "段落主角為單于呼厨泉；所述為建安元年獻帝東歸、去卑等侍衞天子拒擊傕汜之事，郭汜僅為背景提及，未述其本人新事實；追敗乘輿之事已錄於 guosi-hhs-pursue-caoyang，排除。"
+        },
+        {
+          "id": "guosi-excl-008",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 16,
+          "term": "郭汜",
+          "quote": "卓部曲將郭汜、李傕旋兵攻長安，公卿百官吏民戰死者且萬人。",
+          "reason": "段落主述國皇星之占與天下之亂自內發；郭汜旋兵攻長安之事已錄於 guosi-hhs-revolt（攻京師），此處僅為占驗敘事重述，未述其本人新事實。"
+        },
+        {
+          "id": "guosi-excl-009",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 37,
+          "term": "郭汜",
+          "quote": "至二年春，李傕、郭汜鬬長安中，傕迫劫天子，移置傕塢",
+          "reason": "段落主述長安市門自壞之占；李傕、郭汜鬬長安中已錄於 guosi-hhs-vs-lijue，追敗乘輿於曹陽已錄於 guosi-hhs-pursue-caoyang，此處僅為占驗敘事重述，未述其本人新事實。"
+        },
+        {
+          "id": "guosi-excl-010",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 58,
+          "term": "郭汜",
+          "quote": "是時李傕、郭汜專權縱肆。",
+          "reason": "段落主述長安旱災；郭汜僅與李傕並提為專權縱肆背景，未述其本人新事實；開府參選舉之事已錄於 guosi-hhs-kaifu。"
         }
       ],
       "unresolved": []
