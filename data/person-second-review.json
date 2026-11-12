@@ -183824,6 +183824,33 @@
           "from": "未發，會李傕殺樊稠，而郭汜又自疑，與傕相攻，長安中亂，故儁止不出，留拜大司農。",
           "through": "未發，會李傕殺樊稠，而郭汜又自疑，與傕相攻，長安中亂，故儁止不出，留拜大司農。",
           "citation": "《後漢書·朱儁傳》"
+        },
+        {
+          "id": "fanchou-hhs-dongzhuo-siege",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 22,
+          "from": "傕隨道收兵，比至長安，已十餘萬，與卓故部曲樊稠、李蒙等合，袁宏紀曰：「蒙後為傕所殺。」圍長安。",
+          "through": "傕隨道收兵，比至長安，已十餘萬，與卓故部曲樊稠、李蒙等合，袁宏紀曰：「蒙後為傕所殺。」圍長安。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "fanchou-hhs-dongzhuo-huaili",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 25,
+          "from": "傕令樊稠及兄子利數萬人攻圍槐里，夜梯城，城陷，斬稟梟首。",
+          "through": "傕令樊稠及兄子利數萬人攻圍槐里，夜梯城，城陷，斬稟梟首。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "fanchou-sgz-youjiangjun",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 9,
+          "from": "稠為右將軍、萬年侯。",
+          "through": "稠為右將軍、萬年侯。",
+          "citation": "《三國志·董卓傳》"
         }
       ],
       "exclusions": [],
