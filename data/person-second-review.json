@@ -186411,6 +186411,33 @@
           "term": "為劉備所殺",
           "quote": "劉備天下知名，曹操所憚，今在境界，此彊對也。",
           "reason": "本段為陸遜傳破劉備事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-wufan-yizhou",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 3,
+          "term": "為劉備所殺",
+          "quote": "範又白言：「歲在甲午，劉備當得益州。」",
+          "reason": "本段為吳範傳吳範預言劉備得益州事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-js-huanxuan-fengqian",
+          "work": "jinshu",
+          "source": "a05-099-ahcb",
+          "paragraph": 30,
+          "term": "為劉備所殺",
+          "quote": "遷曰：「欲殺天子之賊耳。」遂斬之，時年三十六。",
+          "reason": "本段為桓玄傳桓玄被馮遷所殺事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-yuanshu-guihao",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 24,
+          "term": "依袁術",
+          "quote": "四年夏，乃燒宮室，奔其部曲陳簡、雷薄於灊山。",
+          "reason": "本段為袁術傳袁術困窮歸帝號於袁紹事，全段未提及楊奉；「依袁術」事件誤匹配。"
         }
       ],
       "unresolved": []
