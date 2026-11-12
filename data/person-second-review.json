@@ -183224,6 +183224,33 @@
           "term": "鄧奉",
           "quote": "大破鄧奉於小長安，斬之",
           "reason": "後漢書光武帝紀：光武征鄧奉於小長安事，未及郭汜；「小長安」地名誤觸。"
+        },
+        {
+          "id": "guosi-excl-037",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 20,
+          "term": "屠各",
+          "quote": "續為屠各所殺",
+          "reason": "後漢書公孫瓚傳：公孫續為屠各所殺事，未及郭汜；「所殺」誤觸。"
+        },
+        {
+          "id": "guosi-excl-038",
+          "work": "jinshu",
+          "source": "a05-116-ahcb",
+          "paragraph": 20,
+          "term": "慕容沖",
+          "quote": "沖入長安",
+          "reason": "晉書姚萇載記：慕容沖入長安、苻堅走五將山事，未及郭汜；「長安」地名誤觸。"
+        },
+        {
+          "id": "guosi-excl-039",
+          "work": "jinshu",
+          "source": "a05-118-ahcb",
+          "paragraph": 30,
+          "term": "斂成",
+          "quote": "穆欲送殺之，成怒，奔赫連勃勃",
+          "reason": "晉書姚興載記：斂成奔赫連勃勃事，未及郭汜；「送殺」誤觸。"
         }
       ],
       "unresolved": [
