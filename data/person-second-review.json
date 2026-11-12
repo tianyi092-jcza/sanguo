@@ -186276,6 +186276,33 @@
           "term": "夏侯淵戰死陽平關",
           "quote": "淵遂戰死。謚曰愍侯。",
           "reason": "本段為夏侯淵傳敘劉備軍陽平關、夏侯淵戰死之事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-wuzhu-yiling",
+          "work": "sanguozhi",
+          "source": "a04-047",
+          "paragraph": 19,
+          "term": "劉備奔走",
+          "quote": "劉備奔走，僅以身免。",
+          "reason": "本段為吳主傳夷陵之戰敘事，言劉備敗走，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-xiandi-liubei-yizhou",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 27,
+          "term": "劉備破劉璋",
+          "quote": "劉備破劉璋，據益州。",
+          "reason": "本段為孝獻帝紀建安十九年事，言劉備據益州，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-yuanshu-jishi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 18,
+          "term": "袁術字公路",
+          "quote": "袁術字公路，汝南汝陽人，司空逢之子也。",
+          "reason": "本段為袁術傳開篇敘袁術家世出身，全段未提及楊奉；「依袁術」事件誤匹配。"
         }
       ],
       "unresolved": []
