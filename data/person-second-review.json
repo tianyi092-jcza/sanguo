@@ -182653,9 +182653,37 @@
           "from": "三月，韓遂、馬騰與郭汜、樊稠戰於長平觀，遂、騰敗績，左中郎將劉範、前益州刺史种劭戰歿。",
           "through": "三月，韓遂、馬騰與郭汜、樊稠戰於長平觀，遂、騰敗績，左中郎將劉範、前益州刺史种劭戰歿。",
           "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "guosi-hhs-pursue-caoyang",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 42,
+          "from": "帝尋而東歸，李傕、郭汜等追敗乘輿於曹陽，",
+          "through": "帝乃潛夜度河走，",
+          "citation": "《後漢書·皇后紀下》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "guosi-excl-001",
+          "work": "houhanshu",
+          "source": "a03-054",
+          "paragraph": 36,
+          "term": "郭汜",
+          "quote": "及李傕、郭汜之亂，彪盡節衞主",
+          "reason": "段落主角為楊彪；僅以「李傕、郭汜之亂」為背景，未述郭汜本人新事實，排除。"
+        },
+        {
+          "id": "guosi-excl-002",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 28,
+          "term": "郭汜",
+          "quote": "李傕、郭汜之亂，長安城潰",
+          "reason": "段落主角為種拂；僅以「李傕、郭汜之亂」為背景，未述郭汜本人新事實，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
