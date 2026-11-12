@@ -181174,15 +181174,15 @@
     {
       "id": "p0331",
       "name": "李傕",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": {},
       "excerpts": [
         {
           "id": "liju-hhs-revolt",
@@ -181563,6 +181563,16 @@
           "through": "傕、汜悔遣天子，復相與和，追及天子於弘農之曹陽。奉急招河東故白波帥韓暹、胡才、李樂等合，與傕、汜大戰。奉兵敗，傕等縱兵殺公卿百官，略宮人入弘農。",
           "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》",
           "note": "裴注引《獻帝起居注》：傕汜悔遣天子，追及曹陽大戰，奉兵敗，傕等縱兵殺公卿百官、略宮人入弘農；為傕劫遷天子、殺掠公卿之直接記載。"
+        },
+        {
+          "id": "liju-sgz-dongzhuo-zhusi",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "建安二年，遣謁者僕射裴茂率關西諸將誅傕，夷三族。",
+          "through": "建安二年，遣謁者僕射裴茂率關西諸將誅傕，夷三族。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》",
+          "note": "建安二年裴茂率關西諸將誅傕、夷三族，為傕身死族誅之直接記載；裴注引《典略》：傕頭至，有詔高縣。按：本文繫建安二年，與《後漢書·孝獻帝紀》建安三年夏四月裴茂討李傕之載相牴（liju-hhs-duanwei-kill），繫年從後漢書，存此為異說。"
         }
       ],
       "exclusions": [
