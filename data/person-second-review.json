@@ -181439,6 +181439,24 @@
           "from": "諸將爭權，遂殺稠，并其衆。",
           "through": "諸將爭權，遂殺稠，并其衆。",
           "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "liju-sgz-jiaxu-qianghu",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 24,
+          "from": "獻帝紀曰：傕時召羌、胡數千人，先以御物繒綵與之，又許以宮人婦女，欲令攻郭汜。",
+          "through": "傕由此衰弱。",
+          "citation": "《三國志·魏書十 荀彧荀攸賈詡傳第十 賈詡傳》"
+        },
+        {
+          "id": "liju-sgz-zhongyao-shizhe",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 1,
+          "from": "傕、汜等以為「關東欲自立天子，今曹操雖有使命，非其至實」，議留太祖使，拒絕其意。",
+          "through": "由是太祖使命遂得通。",
+          "citation": "《三國志·魏書十三 鍾繇華歆王朗傳第十三 鍾繇傳》"
         }
       ],
       "exclusions": [
@@ -181594,6 +181612,15 @@
           "term": "李傕",
           "quote": "由是李傕等遂相結還攻長安城",
           "reason": "李傕相關內容與已錄 liju-sgz-wei-changan（a04-006:9）及 liju-hhs-wangyun-disband（a03-066:30）為同一事實：李傕等相結還攻、圍長安。本段主體為呂布與郭汜單挑及呂布敗走武關，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-018",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 23,
+          "term": "李傕",
+          "quote": "濟與李傕等擊呂布，為卓報仇。",
+          "reason": "李傕相關內容與已錄 liju-sgz-wei-changan（a04-006:9 合圍長安城）及 liju-hhs-wangyun-disband（a03-066:30 攻圍長安）為同一事實：李傕等還攻長安、擊呂布為董卓報仇。本段主體為張繡隨張濟遷官事跡，無李傕新事實，排除。"
         }
       ],
       "unresolved": []
