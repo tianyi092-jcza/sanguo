@@ -181210,6 +181210,33 @@
           "from": "九月，李傕自為車騎將軍，郭汜後將軍，樊稠右將軍，張濟鎮東將軍。",
           "through": "九月，李傕自為車騎將軍，郭汜後將軍，樊稠右將軍，張濟鎮東將軍。",
           "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "liju-hhs-zhuanluan-note",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 7,
+          "from": "袁宏紀曰：「是時馬騰以李傕等專亂，以益州刺史劉焉宗室大臣，遣使招引共誅傕。焉遣子範將兵就騰。",
+          "through": "故涼州刺史种劭，太常拂之子也。拂為傕所害，劭欲報仇，遂為此戰。」",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "liju-hhs-kill-fanchou",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "二月乙亥，李傕殺樊稠而與郭汜相攻。",
+          "through": "三月丙寅，李傕脅帝幸其營，焚宮室。",
+          "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "liju-hhs-grand-marshal",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "五月壬午，李傕自為大司馬。",
+          "through": "五月壬午，李傕自為大司馬。",
+          "citation": "《後漢書·孝獻帝紀》"
         }
       ],
       "exclusions": [],
