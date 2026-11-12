@@ -186303,6 +186303,33 @@
           "term": "袁術字公路",
           "quote": "袁術字公路，汝南汝陽人，司空逢之子也。",
           "reason": "本段為袁術傳開篇敘袁術家世出身，全段未提及楊奉；「依袁術」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-jiangqin-shuijun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 17,
+          "term": "欽督水軍",
+          "quote": "權討關羽，欽督水軍入沔，還，道病卒。",
+          "reason": "本段為蔣欽傳末段（欽督水軍入沔、子壹封宣城侯），全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-xianzhu-zhangren",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 14,
+          "term": "禽任",
+          "quote": "禽任。先主聞任之忠勇，令軍降之，任厲聲曰：「老臣終不復事二主矣。」乃殺之。",
+          "reason": "本段為先主傳取益州、張任被殺事，全段未提及楊奉；「為劉備所殺」事件誤匹配（張任非楊奉）。"
+        },
+        {
+          "id": "yangfeng-sgz-guanyu-jiubiao",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 3,
+          "term": "從先主就劉表",
+          "quote": "從先主就劉表。表卒，曹公定荊州，先主自樊將南渡江，別遣羽乘船數百艘會江陵。",
+          "reason": "本段為關羽傳從先主就劉表、長阪事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
         }
       ],
       "unresolved": []
