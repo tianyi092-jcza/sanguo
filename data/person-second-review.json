@@ -186384,6 +186384,33 @@
           "term": "劉備表琦爲荊州刺史",
           "quote": "操後敗於赤壁，赤壁，山名也，在今鄂州蒲圻縣。劉備表琦爲荊州刺史。明年卒。",
           "reason": "本段為劉表傳劉琦事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-guojia-sunce",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 11,
+          "term": "為劉備所殺",
+          "quote": "策臨江未濟，果為許貢客所殺。",
+          "reason": "本段為郭嘉傳論孫策之死與征劉備事，全段未提及楊奉；「為劉備所殺」事件誤匹配（此處被殺者為孫策，兇手為許貢客）。"
+        },
+        {
+          "id": "yangfeng-sgz-lusu-liubei",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 17,
+          "term": "為劉備所殺",
+          "quote": "劉備天下梟雄，與操有隙，寄寓於表",
+          "reason": "本段為魯肅傳說劉備事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-luxun-pobei",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 10,
+          "term": "為劉備所殺",
+          "quote": "劉備天下知名，曹操所憚，今在境界，此彊對也。",
+          "reason": "本段為陸遜傳破劉備事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
         }
       ],
       "unresolved": []
