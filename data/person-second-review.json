@@ -182662,6 +182662,24 @@
           "from": "帝尋而東歸，李傕、郭汜等追敗乘輿於曹陽，",
           "through": "帝乃潛夜度河走，",
           "citation": "《後漢書·皇后紀下》"
+        },
+        {
+          "id": "guosi-hhs-vs-lijue",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 28,
+          "from": "會李傕殺樊稠，而郭汜又自疑，與傕相攻，長安中亂，",
+          "through": "汜不肯，遂留質儁等。",
+          "citation": "《後漢書·朱儁傳》"
+        },
+        {
+          "id": "guosi-hhs-niufu-zhongmou",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 21,
+          "from": "輔分遣其校尉李傕、郭汜、張濟將步騎數萬，",
+          "through": "因掠陳留、潁川諸縣，殺略男女，所過無復遺類。",
+          "citation": "《後漢書·董卓傳》"
         }
       ],
       "exclusions": [
@@ -182709,6 +182727,15 @@
           "term": "郭汜",
           "quote": "卓部曲將李傕、郭汜等先將兵在關東，因不自安，遂合謀為亂，攻圍長安",
           "reason": "段落主角為王允；李傕、郭汜合謀攻長安之事已錄於 guosi-hhs-revolt（獻帝紀 a03-009:5），本段僅補王允罷涼州軍之議與訛言背景，未述郭汜本人新事實，排除。"
+        },
+        {
+          "id": "guosi-excl-006",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 27,
+          "term": "郭汜",
+          "quote": "國家旣遭董卓，重以李傕、郭汜之禍，幼主劫執，忠良殘敝",
+          "reason": "段落主角為朱儁；所述為陶謙推儁討傕汜及儁辭謙議就徵之事，郭汜僅為背景提及，未述其本人新事實；作亂之事已錄於 guosi-hhs-revolt，排除。"
         }
       ],
       "unresolved": []
