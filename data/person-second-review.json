@@ -181513,6 +181513,16 @@
           "through": "吳書曰，忠字嘉謀，與朱儁共敗李傕於曹陽也。",
           "citation": "《後漢書·楊彪傳》",
           "note": "吳書注載：楊忠（字嘉謀）與朱儁共敗李傕於曹陽；曹陽追敗已錄（liju-hhs-pursue-caoyang），此條補敗方為朱儁、楊忠。"
+        },
+        {
+          "id": "liju-hhs-dispatch-mari",
+          "work": "houhanshu",
+          "source": "a03-064",
+          "paragraph": 35,
+          "from": "及李傕專政，使太傅馬日磾撫慰天下，以歧為副。",
+          "through": "及李傕專政，使太傅馬日磾撫慰天下，以歧為副。",
+          "citation": "《後漢書·趙岐傳》",
+          "note": "李傕專政後遣太傅馬日磾撫慰天下，以趙岐為副；段落主角為趙岐，此句補李傕專政期間遣使事。"
         }
       ],
       "exclusions": [
@@ -181704,6 +181714,24 @@
           "term": "李傕",
           "quote": "因李傕之亂，湮沒多不存。",
           "reason": "僅以「李傕之亂」指代時局、說明蔡邕著述散佚，無李傕本人行事新事實，排除。"
+        },
+        {
+          "id": "liju-excl-022",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 31,
+          "term": "李傕",
+          "quote": "傕乃收允及翼、宏，并殺之。",
+          "reason": "王允遇害一事已由《後漢書·孝獻帝紀》摘錄（liju-hhs-kill-wangyun）；先徵宋翼、王宏為同一事件之佈置，本段無李傕本人新事實，排除。"
+        },
+        {
+          "id": "liju-excl-023",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 29,
+          "term": "李傕",
+          "quote": "留者後多為董卓將李傕所殺略焉。",
+          "reason": "略陳留、潁川諸縣一事已由《三國志·董卓傳》摘錄（liju-sgz-xiaowei-luexian）；本句僅為荀彧避亂背景中同一劫掠之側寫，無李傕新事實，排除。"
         }
       ],
       "unresolved": []
