@@ -182682,6 +182682,33 @@
           "term": "郭汜",
           "quote": "李傕、郭汜之亂，長安城潰",
           "reason": "段落主角為種拂；僅以「李傕、郭汜之亂」為背景，未述郭汜本人新事實，排除。"
+        },
+        {
+          "id": "guosi-excl-003",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 31,
+          "term": "郭汜",
+          "quote": "與汜戰於長平觀下",
+          "reason": "段落主角為種劭；長平觀之戰及種劭戰歿已錄於 guosi-hhs-changping（獻帝紀 a03-009:7），未述郭汜本人新事實，排除。"
+        },
+        {
+          "id": "guosi-excl-004",
+          "work": "houhanshu",
+          "source": "a03-061",
+          "paragraph": 39,
+          "term": "郭汜",
+          "quote": "及卓將李傕、郭汜攻破長安",
+          "reason": "段落主角為黃琬；僅以「李傕、郭汜攻破長安」一句為背景，攻京師之事已錄於 guosi-hhs-revolt，未述郭汜本人新事實，排除。"
+        },
+        {
+          "id": "guosi-excl-005",
+          "work": "houhanshu",
+          "source": "a03-066",
+          "paragraph": 30,
+          "term": "郭汜",
+          "quote": "卓部曲將李傕、郭汜等先將兵在關東，因不自安，遂合謀為亂，攻圍長安",
+          "reason": "段落主角為王允；李傕、郭汜合謀攻長安之事已錄於 guosi-hhs-revolt（獻帝紀 a03-009:5），本段僅補王允罷涼州軍之議與訛言背景，未述郭汜本人新事實，排除。"
         }
       ],
       "unresolved": []
