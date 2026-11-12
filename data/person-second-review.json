@@ -186546,6 +186546,36 @@
           "term": "依袁術",
           "quote": "袁術奢淫放肆，榮不終己，自取之也。",
           "reason": "本段為三國志卷六卷末評曰論董卓、袁術、袁紹、劉表，全段未提及楊奉；「依袁術」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhj-xiandi-yuanshu-si",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 12,
+          "term": "依袁術",
+          "quote": "夏六月，袁術死。",
+          "reason": "本段為後漢書孝獻帝紀建安四年事，僅記袁術死，全段未提及楊奉；「依袁術」事件誤匹配。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "yangfeng-sgz-yuanhuan-title",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 0,
+          "term": "依袁術",
+          "quote": "袁渙傳",
+          "reason": "本段僅為三國志卷十一袁渙傳篇題，全段未提及楊奉；「依袁術」事件誤匹配。",
+          "citation": "《三國志·魏書十一·袁張涼國田王邴管傳第十一》"
+        },
+        {
+          "id": "yangfeng-hhj-kongrong-maridi",
+          "work": "houhanshu",
+          "source": "a03-070",
+          "paragraph": 15,
+          "term": "依袁術",
+          "quote": "術輕侮之，遂奪取其節，求去又不聽，因欲逼為軍帥。",
+          "reason": "本段記太傅馬日磾奉使山東為袁術奪節、逼為軍帥事，全段未提及楊奉；「依袁術」事件誤匹配。",
+          "citation": "《後漢書·卷七十·鄭孔荀列傳第六十》"
         }
       ],
       "unresolved": []
