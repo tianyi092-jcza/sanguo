@@ -181786,6 +181786,33 @@
           "term": "李傕",
           "quote": "其冬，車駕為李傕等所追於曹陽，",
           "reason": "李傕追帝於曹陽已由《後漢書·孝獻帝紀》摘錄（liju-hhs-pursue-caoyang，a03-010b-full:42）；本段主旨為沮授勸袁紹迎天子、郭圖反對之議，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-030",
+          "work": "houhanshu",
+          "source": "a03-108",
+          "paragraph": 62,
+          "term": "李傕",
+          "quote": "是時李傕、郭汜專政。",
+          "reason": "李傕專政已由《後漢書·趙岐傳》摘錄（liju-hhs-dispatch-mari，a03-064:35）；本段為五行志日食條下的背景一句，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-031",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "term": "李傕",
+          "quote": "卓將李傕、郭汜等殺允攻布，布敗，東出武關。傕等擅朝政。",
+          "reason": "李傕殺王允已由《後漢書·孝獻帝紀》摘錄（liju-hhs-kill-wangyun，a03-009:5）；本段為武帝紀同事件重述，擅朝政亦已多處錄，無新事實，排除。"
+        },
+        {
+          "id": "liju-excl-032",
+          "work": "sanguozhi",
+          "source": "a04-010",
+          "paragraph": 2,
+          "term": "李傕",
+          "quote": "卓遣李傕等出關東，所過虜略，至潁川、陳留而還。",
+          "reason": "李傕等略陳留、潁川已由《三國志》摘錄（liju-sgz-xiaowei-luexian，a04-006:8）；本段為荀彧傳同事件重述，無新事實，排除。"
         }
       ],
       "unresolved": []
