@@ -181457,6 +181457,15 @@
           "from": "傕、汜等以為「關東欲自立天子，今曹操雖有使命，非其至實」，議留太祖使，拒絕其意。",
           "through": "由是太祖使命遂得通。",
           "citation": "《三國志·魏書十三 鍾繇華歆王朗傳第十三 鍾繇傳》"
+        },
+        {
+          "id": "liju-sgz-dongzhao-shuxin",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 18,
+          "from": "昭為太祖作書與長安諸將李傕、郭汜等，各隨輕重致殷勤。",
+          "through": "昭為太祖作書與長安諸將李傕、郭汜等，各隨輕重致殷勤。",
+          "citation": "《三國志·魏書十四 程昱郭嘉董昭劉曄蔣濟傳第十四 董昭傳》"
         }
       ],
       "exclusions": [
@@ -181621,6 +181630,24 @@
           "term": "李傕",
           "quote": "濟與李傕等擊呂布，為卓報仇。",
           "reason": "李傕相關內容與已錄 liju-sgz-wei-changan（a04-006:9 合圍長安城）及 liju-hhs-wangyun-disband（a03-066:30 攻圍長安）為同一事實：李傕等還攻長安、擊呂布為董卓報仇。本段主體為張繡隨張濟遷官事跡，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-019",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 22,
+          "term": "李傕",
+          "quote": "李傕、郭汜之亂長安也，晃說奉，令與天子還洛陽，奉從其計。",
+          "reason": "李傕、郭汜之亂長安已錄（liju-sgz-wei-changan，a04-006:9 合圍長安城；liju-hhs-wangyun-disband，a03-066:30 攻圍長安）。本段主體為徐晃勸楊奉護天子還洛陽，無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-020",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 1,
+          "term": "李傕",
+          "quote": "卓將李傕、郭汜等為卓報仇，入長安，殺允，盡害其家。",
+          "reason": "李傕等還攻長安、為董卓報仇殺王允已錄（liju-sgz-wei-changan，a04-006:9 合圍長安城；liju-hhs-wangyun-disband，a03-066:30 攻圍長安）。本段主體為王凌家世（王允之侄），無李傕新事實，排除。"
         }
       ],
       "unresolved": []
