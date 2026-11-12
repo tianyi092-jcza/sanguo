@@ -181493,6 +181493,26 @@
           "from": "獻帝起居注曰「傳傕首到許，有詔高懸之」也。",
           "through": "獻帝起居注曰「傳傕首到許，有詔高懸之」也。",
           "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "liju-hhs-beiwu",
+          "work": "houhanshu",
+          "source": "a03-027",
+          "paragraph": 49,
+          "from": "時李傕與郭汜相攻，傕遂虜掠禁省，劫帝幸北塢，外內隔絕。",
+          "through": "傕素疑溫不與己同，乃內溫於塢中，又欲移乘輿於黃白城。",
+          "citation": "《後漢書·趙典傳（附趙溫）》",
+          "note": "同段續記：趙溫以書勸傕與郭汜和解，傕大怒欲殺溫，從弟李應（溫故掾）諫數日乃免。"
+        },
+        {
+          "id": "liju-hhs-caoyang-zhujun",
+          "work": "houhanshu",
+          "source": "a03-045",
+          "paragraph": 49,
+          "from": "吳書曰，忠字嘉謀，與朱儁共敗李傕於曹陽也。",
+          "through": "吳書曰，忠字嘉謀，與朱儁共敗李傕於曹陽也。",
+          "citation": "《後漢書·楊彪傳》",
+          "note": "吳書注載：楊忠（字嘉謀）與朱儁共敗李傕於曹陽；曹陽追敗已錄（liju-hhs-pursue-caoyang），此條補敗方為朱儁、楊忠。"
         }
       ],
       "exclusions": [
@@ -181675,6 +181695,15 @@
           "term": "李傕",
           "quote": "卓將李傕、郭汜等為卓報仇，入長安，殺允，盡害其家。",
           "reason": "李傕等還攻長安、為董卓報仇殺王允已錄（liju-sgz-wei-changan，a04-006:9 合圍長安城；liju-hhs-wangyun-disband，a03-066:30 攻圍長安）。本段主體為王凌家世（王允之侄），無李傕新事實，排除。"
+        },
+        {
+          "id": "liju-excl-021",
+          "work": "houhanshu",
+          "source": "a03-060b-ahcb",
+          "paragraph": 31,
+          "term": "李傕",
+          "quote": "因李傕之亂，湮沒多不存。",
+          "reason": "僅以「李傕之亂」指代時局、說明蔡邕著述散佚，無李傕本人行事新事實，排除。"
         }
       ],
       "unresolved": []
