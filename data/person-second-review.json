@@ -183143,6 +183143,33 @@
           "term": "長安",
           "quote": "慕容沖入據長安",
           "reason": "晉書卷一百十四苻堅載記下：慕容沖入據長安事，未及郭汜；郭汜攻破長安另見董卓傳等摘錄。"
+        },
+        {
+          "id": "guosi-excl-028",
+          "work": "jinshu",
+          "source": "a05-117-ahcb",
+          "paragraph": 54,
+          "term": "長安",
+          "quote": "尚既至長安",
+          "reason": "晉書卷一百十七姚興載記上：尚至長安、坐匿呂氏宮人等事，未及郭汜；郭汜攻破長安另見董卓傳等摘錄。"
+        },
+        {
+          "id": "guosi-excl-029",
+          "work": "houhanshu",
+          "source": "a03-011",
+          "paragraph": 28,
+          "term": "長安",
+          "quote": "入長安城，更始來降",
+          "reason": "後漢書卷十一劉玄傳：光武攻入長安、更始來降事，東漢初事，未及東漢末郭汜。"
+        },
+        {
+          "id": "guosi-excl-030",
+          "work": "jinshu",
+          "source": "a05-116-ahcb",
+          "paragraph": 19,
+          "term": "長安",
+          "quote": "萇聞慕容沖攻長安",
+          "reason": "晉書卷一百十六姚萇載記：姚萇議進趨長安事，未及郭汜；郭汜攻破長安另見董卓傳等摘錄。"
         }
       ],
       "unresolved": [
