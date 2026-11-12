@@ -186438,6 +186438,33 @@
           "term": "依袁術",
           "quote": "四年夏，乃燒宮室，奔其部曲陳簡、雷薄於灊山。",
           "reason": "本段為袁術傳袁術困窮歸帝號於袁紹事，全段未提及楊奉；「依袁術」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-wendi-yiling-bei",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 22,
+          "term": "為劉備所殺",
+          "quote": "閏月，孫權破劉備於夷陵。",
+          "reason": "本段為文帝紀夷陵之戰事，言孫權破劉備，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-hhs-cenpeng-cike",
+          "work": "houhanshu",
+          "source": "a03-017",
+          "paragraph": 36,
+          "term": "為劉備所殺",
+          "quote": "彭所營地名彭亡，聞而惡之，欲徙，會日暮，蜀刺客詐為亡奴降，夜刺殺彭。",
+          "reason": "本段為岑彭為蜀刺客所殺事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
+        },
+        {
+          "id": "yangfeng-sgz-lumeng-sanjun",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 34,
+          "term": "為劉備所殺",
+          "quote": "是時劉備令關羽鎮守，專有荊土，權命蒙西取長沙、零、桂三郡。",
+          "reason": "本段為呂蒙傳取長沙、零陵、桂陽三郡事，全段未提及楊奉；「為劉備所殺」事件誤匹配。"
         }
       ],
       "unresolved": []
