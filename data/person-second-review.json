@@ -182833,6 +182833,33 @@
           "from": "艾曰：「堅雖時見計，故自不如李傕、郭汜。聞在美陽亭北，將千騎步與虜合，殆死，亡失印綬，此不為能也。」",
           "through": "艾曰：「堅雖時見計，故自不如李傕、郭汜。聞在美陽亭北，將千騎步與虜合，殆死，亡失印綬，此不為能也。」",
           "citation": "《三國志·吳書一 孫破虜討逆傳第一 孫堅傳》"
+        },
+        {
+          "id": "guosi-sgz-ru-changan-zhu-yun",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 9,
+          "from": "傕、汜入長安城，屯南宮掖門",
+          "through": "傕誅允及妻子宗族十餘人。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "guosi-sgz-bai-hou-shanzheng",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 9,
+          "from": "傕為車騎將軍、池陽侯，領司隷校尉、假節。",
+          "through": "傕、汜、稠擅朝政。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "guosi-sgz-sanfu-jielue",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 10,
+          "from": "時三輔民尚數十萬戶，傕等放兵劫略，攻剽城邑，人民饑困，二年間相啖食略盡。",
+          "through": "時三輔民尚數十萬戶，傕等放兵劫略，攻剽城邑，人民饑困，二年間相啖食略盡。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
         }
       ],
       "exclusions": [
