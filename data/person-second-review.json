@@ -184270,6 +184270,33 @@
           "from": "九月，李傕自為車騎將軍，郭汜後將軍，樊稠右將軍，張濟鎮東將軍。",
           "through": "濟出屯弘農。",
           "citation": "《後漢書·孝獻帝紀》"
+        },
+        {
+          "id": "zhangji-hhs-dongzhuo-zhongmou",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 21,
+          "from": "輔分遣其校尉李傕、郭汜、張濟將步騎數萬，",
+          "through": "擊破河南尹朱儁於中牟。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "zhangji-hhs-dongzhuo-zhendong",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 23,
+          "from": "汜後將軍，稠右將軍，張濟為鎮東將軍，並封列侯。",
+          "through": "濟出屯弘農。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "zhangji-hhs-dongzhuo-hejie",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 29,
+          "from": "張濟自陝來和解二人，仍欲遷帝權幸弘農。",
+          "through": "以張濟為驃騎將軍，復還屯陝。",
+          "citation": "《後漢書·董卓傳》"
         }
       ],
       "exclusions": [
