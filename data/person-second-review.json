@@ -181458,6 +181458,33 @@
           "term": "李傕",
           "quote": "允旣不赦涼州人，由是卓將李傕等遂相結，還攻長安。",
           "reason": "「李傕等還攻長安」一事已有《後漢書·孝獻帝紀》摘錄（liju-hhs-revolt，a03-009:5）與《後漢書·王允傳》摘錄（liju-hhs-wangyun-disband，a03-066:30）；本段主語為呂布，李傕僅在起句一提，餘皆布奔走南陽、河內之事，排除。"
+        },
+        {
+          "id": "liju-excl-010",
+          "work": "houhanshu",
+          "source": "a03-089",
+          "paragraph": 66,
+          "term": "李傕",
+          "quote": "建安元年，獻帝自長安東歸，右賢王去卑與白波賊帥韓暹等侍衞天子，拒擊李傕、郭汜。",
+          "reason": "去卑等侍衞天子拒擊李傕、郭汜一事，已有《後漢書·獻帝紀》摘錄（liju-hhs-pursue-caoyang，a03-010b-full:42）與《後漢書·董卓傳》摘錄（liju-hhs-allow-east-return，a03-072:29；liju-hhs-regret-east-pursuit，a03-072:30）；本段主語為單于呼厨泉與去卑歸國之事，李傕僅在護駕拒擊一句中一提，排除。"
+        },
+        {
+          "id": "liju-excl-011",
+          "work": "houhanshu",
+          "source": "a03-102",
+          "paragraph": 16,
+          "term": "李傕",
+          "quote": "及司徒王允與將軍呂布誅卓，卓部曲將郭汜、李傕旋兵攻長安，公卿百官吏民戰死者且萬人。",
+          "reason": "攻破長安已有《後漢書·孝獻帝紀》摘錄（liju-hhs-revolt，a03-009:5）與《後漢書·王允傳》摘錄（liju-hhs-wangyun-disband，a03-066:30）；本段主為國皇星占驗敘事，李傕僅在「郭汜、李傕旋兵攻長安」一句中一提，排除。"
+        },
+        {
+          "id": "liju-excl-012",
+          "work": "houhanshu",
+          "source": "a03-103",
+          "paragraph": 36,
+          "term": "李傕",
+          "quote": "袁山松書曰：「李傕等攻破長安城，害允等。」",
+          "reason": "攻破長安、害王允已有《後漢書·孝獻帝紀》摘錄（liju-hhs-revolt、liju-hhs-kill-wangyun，a03-009:5）；本段主為長安宣平城門屋壞之異，李傕僅引袁山松書一句，排除。"
         }
       ],
       "unresolved": []
