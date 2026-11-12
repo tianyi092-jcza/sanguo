@@ -187024,6 +187024,33 @@
           "term": "劉備奔走，僅以身免",
           "quote": "劉備奔走，僅以身免。",
           "reason": "段內無韓暹，係黃武元年夷陵事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-xiandi-liubei-yizhou",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 27,
+          "term": "劉備破劉璋，據益州",
+          "quote": "劉備破劉璋，據益州。",
+          "reason": "段內無韓暹，係建安十九年事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-jiangqin-shuijun",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 17,
+          "term": "欽督水軍入沔",
+          "quote": "權討關羽，欽督水軍入沔，還，道病卒。",
+          "reason": "段內無韓暹，係蔣欽隨孫權討關羽事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-yuanshao-chezhou",
+          "work": "houhanshu",
+          "source": "a03-074",
+          "paragraph": 26,
+          "term": "劉備殺徐州刺史車胄",
+          "quote": "五年，左將軍劉備殺徐州刺史車胄，據沛以背曹操。",
+          "reason": "段內無韓暹，係建安五年袁紹傳事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
         }
       ],
       "unresolved": []
