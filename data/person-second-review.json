@@ -188325,6 +188325,33 @@
           "term": "樂立",
           "quote": "樂立屯許昌",
           "reason": "記石季龍故將樂立屯許昌來降事，主角為樂立，非李樂；同姓誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-013",
+          "work": "jinshu",
+          "source": "a05-007-ahcb",
+          "paragraph": 155,
+          "term": "征西將軍",
+          "quote": "進安西將軍庾翼爲征西將軍",
+          "reason": "記庾翼進征西將軍、桓宣卒事，主角為庾翼、桓宣，非李樂；官職誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-014",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 166,
+          "term": "河東",
+          "quote": "徙其吏人置河東",
+          "reason": "記省五原郡、徙其吏人置河東事，無李樂其人；『留河東病死』事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-015",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 17,
+          "term": "征北大將軍",
+          "quote": "以兗州刺史褚裒爲征北大將軍",
+          "reason": "記褚裒拜征北大將軍事，主角為褚裒，非李樂；官職誤命中，排除。"
         }
       ],
       "unresolved": []
