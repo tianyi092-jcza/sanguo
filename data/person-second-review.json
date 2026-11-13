@@ -191177,7 +191177,35 @@
           "note": "袁術復使孫賁、吳景共擊樊能、張英，未能拔；及孫策東渡助賁、景破英、能等，樊能敗。"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "fanneng-excl-wangjun-hengjiang",
+          "work": "jinshu",
+          "source": "a05-061-ahcb",
+          "paragraph": 1,
+          "term": "橫江",
+          "quote": "進軍屯于橫江。",
+          "reason": "王濬傳記晉太康元年（280）伐吳、進軍屯于橫江，與樊能興平二年（195）屯橫江拒孫策時代、人物皆不同；僅地名相同，排除。"
+        },
+        {
+          "id": "fanneng-excl-chengpu-hengjiang",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 2,
+          "term": "橫江",
+          "quote": "策到橫江、當利，破張英、于麋等，",
+          "reason": "程普傳此段記孫策到橫江破張英、于麋，段中未提樊能姓名；雖屬同役，按全字匹配原則不錄為樊能事蹟，排除。"
+        },
+        {
+          "id": "fanneng-excl-shichen-hengjiang",
+          "work": "jinshu",
+          "source": "a05-042",
+          "paragraph": 44,
+          "term": "橫江",
+          "quote": "渾既獻捷橫江，濬亦克清建鄴。",
+          "reason": "史臣曰論晉太康元年（280）王渾、王濬伐吳，獻捷橫江、克清建鄴，與樊能無關；僅地名相同，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
