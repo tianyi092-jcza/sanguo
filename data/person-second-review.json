@@ -191204,6 +191204,33 @@
           "term": "橫江",
           "quote": "渾既獻捷橫江，濬亦克清建鄴。",
           "reason": "史臣曰論晉太康元年（280）王渾、王濬伐吳，獻捷橫江、克清建鄴，與樊能無關；僅地名相同，排除。"
+        },
+        {
+          "id": "fanneng-excl-suncezhuan-heading",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 7,
+          "term": "孫策傳",
+          "quote": "孫策傳",
+          "reason": "僅為《三國志》卷四十六孫策傳卷內小傳標題，無正文內容，未提樊能；排除。"
+        },
+        {
+          "id": "fanneng-excl-sunquan-chutong",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 29,
+          "term": "江東",
+          "quote": "江東地勢有山川之固，而討逆明府恩德在民。",
+          "reason": "孫權初統事時論江東形勢、張昭秉衆事，未提樊能；與樊能無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-yiling",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 22,
+          "term": "夷陵",
+          "quote": "閏月，孫權破劉備於夷陵。",
+          "reason": "黃初三年（222）孫權破劉備於夷陵，樊能事在興平二年（195）橫江之後已無蹤，與樊能無關；排除。"
         }
       ],
       "unresolved": []
