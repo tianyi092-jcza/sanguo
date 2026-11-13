@@ -190524,6 +190524,33 @@
           "term": "曺公入徙天子都許",
           "quote": "尋曺公入徙天子都許政出諸侯禮待温居\n公位十五年建安十三年薨",
           "reason": "《華陽國志·卷十 先賢志》載趙溫切責李傕，曹公迎帝都許後禮待溫居公位十五年、建安十三年薨；此溫為司徒趙溫，非劉勳，候選僅因曹操事件誤配，排除。"
+        },
+        {
+          "id": "liuxun-excl-xiandi-cao-pi",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 33,
+          "term": "魏王曹操薨",
+          "quote": "二十五年春正月庚子，魏王曹操薨。",
+          "reason": "《後漢書·卷九 孝獻帝紀第九》載建安二十五年魏王曹操薨、曹丕稱天子、獻帝遜位；段中無劉勳，候選「歸曹操」為事件誤配，排除。"
+        },
+        {
+          "id": "liuxun-excl-yuan-tan-bei-cao",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 11,
+          "term": "曹操之圍鄴也",
+          "quote": "曹操之圍鄴也，譚復背之",
+          "reason": "《後漢書·袁紹傳》載曹操圍鄴後袁譚背之、攻袁尚於中山事；段中無劉勳，候選「歸曹操」為事件誤配，排除。"
+        },
+        {
+          "id": "liuxun-excl-caozhen-title",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 35,
+          "term": "曹真傳",
+          "quote": "曹真傳",
+          "reason": "《三國志·魏書九 諸夏侯曹傳第九》曹真傳標題段，無正文內容、無劉勳，候選誤配，排除。"
         }
       ],
       "unresolved": [
