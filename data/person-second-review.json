@@ -187949,6 +187949,33 @@
           "term": "護駕東歸",
           "quote": "管寧傳",
           "reason": "此段為《三國志·管寧傳》卷首標題，未言胡才護駕東歸，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03049-26",
+          "work": "houhanshu",
+          "source": "a03-049",
+          "paragraph": 26,
+          "term": "為怨家所害",
+          "quote": "才必有過於衆",
+          "reason": "此段為《後漢書·仲長統傳》昌言論赦之文，「才必有過於衆」之「才」為泛稱才智，非胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a05001-6",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 6,
+          "term": "護駕東歸",
+          "quote": "五年，天子南巡，觀兵吳疆。",
+          "reason": "此段為《晉書·武帝紀》泰始五年天子南巡記，未言胡才護駕東歸，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03082bahcb-23",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 23,
+          "term": "為怨家所害",
+          "quote": "令人追殺佗，不及",
+          "reason": "此段為《後漢書·華佗傳》治病記，「令人追殺佗」之佗為華佗，與胡才無關，排除。"
         }
       ],
       "unresolved": []
