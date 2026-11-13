@@ -187679,6 +187679,33 @@
           "term": "征西將軍",
           "quote": "官至永安都督、征西將軍",
           "reason": "此段為《三國志·蜀書十五 鄧張宗楊傳第十五》評語，言陳到官至征西將軍，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a04058-32",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 32,
+          "term": "拜大司馬",
+          "quote": "就拜大司馬、荊州牧",
+          "reason": "此段為陸抗上疏，言其拜大司馬、荊州牧，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a06007-24",
+          "work": "huayangguozhi",
+          "source": "a06-007",
+          "paragraph": 24,
+          "term": "鎮西大將軍胡濟",
+          "quote": "鎮西大將軍胡濟失期不至",
+          "reason": "此段言蜀漢鎮西大將軍胡濟失期致敗，胡濟非胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a05010ahcb-158",
+          "work": "jinshu",
+          "source": "a05-010-ahcb",
+          "paragraph": 158,
+          "term": "鎮西將軍",
+          "quote": "以涼公士業為鎮西將軍，封酒泉公",
+          "reason": "此段言涼公士業拜鎮西將軍，與胡才無關，排除。"
         }
       ],
       "unresolved": []
