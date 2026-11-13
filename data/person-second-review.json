@@ -187132,6 +187132,33 @@
           "term": "策臨江未濟，果為許貢客所殺",
           "quote": "策臨江未濟，果為許貢客所殺。",
           "reason": "段內無韓暹，係郭嘉料孫策事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-lusu-liubiao",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 17,
+          "term": "劉表死",
+          "quote": "劉表死。",
+          "reason": "段內無韓暹，係建安十三年魯肅聯劉備事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-luxun-pobei",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 10,
+          "term": "及至破備，計多出遜",
+          "quote": "及至破備，計多出遜，諸將乃服。",
+          "reason": "段內無韓暹，係章武元年陸遜破劉備事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-fanshu-liubei-yizhou",
+          "work": "sanguozhi",
+          "source": "a04-063",
+          "paragraph": 3,
+          "term": "劉備當得益州",
+          "quote": "歲在甲午，劉備當得益州。",
+          "reason": "段內無韓暹，係劉備得益州占驗事，與韓暹無關；向量事件誤關聯。"
         }
       ],
       "unresolved": []
