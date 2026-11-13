@@ -188816,15 +188816,21 @@
     {
       "id": "p0341",
       "name": "韓玄",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 3 條、排除 29 條；向量候選已枯竭，本傳所涉《三國志·先主傳》（a04-032）、《三國志·黃忠傳》（a04-036）及《華陽國志·劉先主志》（a06-006）言韓玄段落已全覆蓋，無遺漏。",
+        "生平主線：長沙太守；建安十四年（209）劉備南征四郡，韓玄與金旋、趙範、劉度皆降。",
+        "黃忠舊屬：黃忠先統屬長沙太守韓玄，劉備南定諸郡後黃忠委質，隨從入蜀。",
+        "辨人：與金旋、趙範、劉度、黃忠等同卷人物嚴格區分；「玄」單字命中均核實確指本人。",
+        "韓玄無三國志本傳，事見《三國志·先主傳》、《三國志·黃忠傳》及《華陽國志》；生卒年未見明載。"
+      ],
       "excerpts": [
         {
           "id": "hanxuan-sgz-xianzhu-nanzheng",
@@ -189098,6 +189104,24 @@
           "term": "石勒僭位寇襄陽",
           "quote": "石勒僭即皇帝位，使其將郭敬寇襄陽",
           "reason": "段述石勒僭位、郭敬寇襄陽事，韓玄未出現；向量事件誤觸，排除。"
+        },
+        {
+          "id": "hanxuan-excl-028",
+          "work": "houhanshu",
+          "source": "a03-106",
+          "paragraph": 2,
+          "term": "建武二十二年地震武谿蠻反",
+          "quote": "世祖建武二十二年九月，郡國四十二地震",
+          "reason": "段述東漢建武二十二年（46）郡國地震、武谿蠻反事，與建安十四年（209）劉備南征四郡、韓玄降事無關；韓玄未出現，向量事件誤觸，排除。"
+        },
+        {
+          "id": "hanxuan-excl-029",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 19,
+          "term": "苟晞王讚謀叛勒",
+          "quote": "苟晞、王讚謀叛勒，勒害之",
+          "reason": "段述苟晞、王讚謀叛石勒事，韓玄未出現；向量事件誤觸，排除。"
         }
       ],
       "unresolved": []
