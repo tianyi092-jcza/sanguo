@@ -189129,15 +189129,21 @@
     {
       "id": "p0342",
       "name": "金旋",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 3 條、排除 29 條；向量候選已枯竭，本傳所涉《三國志·先主傳》（a04-032）及《華陽國志·劉先主志》（a06-006）言金旋段落已全覆蓋，無遺漏。",
+        "生平主線：金旋字元機，京兆人，歷位黃門郎、漢陽太守，徵拜議郎，遷中郎將，領武陵太守；建安十四年（209）劉備南征四郡，金旋與韓玄、趙範、劉度皆降。",
+        "裴注「為備所攻劫死」與正文「皆降」出入，備考；金旋卒於劉備南征四郡之際。",
+        "辨人：與韓玄、趙範、劉度等同卷人物嚴格區分；向量事件命中均核實非金旋其人。",
+        "金旋無三國志本傳，事見《三國志·先主傳》、裴注引《三輔決錄注》及《華陽國志》；生年未見明載。"
+      ],
       "excerpts": [
         {
           "id": "jinxuan-sgz-xianzhu-nanzheng",
@@ -189412,6 +189418,24 @@
           "term": "南征四郡降劉備",
           "quote": "秋八月，石勒僭即皇帝位，使其將郭敬寇襄陽。",
           "reason": "段述石勒僭位、郭敬寇襄陽事，未提金旋及南征四郡降事；向量事件誤觸，排除。"
+        },
+        {
+          "id": "jinxuan-excl-028",
+          "work": "houhanshu",
+          "source": "a03-106",
+          "paragraph": 2,
+          "term": "南征四郡降劉備",
+          "quote": "世祖建武二十二年九月，郡國四十二地震，南陽尤甚",
+          "reason": "段述建武二十二年地震、武谿蠻夷反、劉尚為夷所沒事，未提金旋及南征四郡降事；向量事件誤觸，排除。"
+        },
+        {
+          "id": "jinxuan-excl-029",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 19,
+          "term": "南征四郡降劉備",
+          "quote": "苟晞、王讚謀叛勒，勒害之",
+          "reason": "段述苟晞、王讚謀叛石勒被殺、左伏肅攻掠豫州事，未提金旋及南征四郡降事；向量事件誤觸，排除。"
         }
       ],
       "unresolved": []
