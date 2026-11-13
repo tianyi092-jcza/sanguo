@@ -188161,7 +188161,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "lile-hhs-xiandi-fengying",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 8,
+          "from": "楊奉、董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑，率師奉迎，與李傕等戰，破之。",
+          "through": "楊奉、董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑，率師奉迎，與李傕等戰，破之。",
+          "citation": "《後漢書·卷九·孝獻帝紀第九》"
+        },
+        {
+          "id": "lile-hhs-dongzhuo-zhaobo",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "承、奉乃譎傕等與連和，而密遣閒使至河東，招故白波帥李樂、韓暹、胡才及南匈奴右賢王去卑，並率其衆數千騎來，與承、奉共擊傕等，大破之，斬首數千級，乘輿乃得進。",
+          "through": "承、奉乃譎傕等與連和，而密遣閒使至河東，招故白波帥李樂、韓暹、胡才及南匈奴右賢王去卑，並率其衆數千騎來，與承、奉共擊傕等，大破之，斬首數千級，乘輿乃得進。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "lile-hhs-dongzhuo-bingsi",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 32,
+          "from": "胡才、李樂留河東，才為怨家所害，樂自病死。",
+          "through": "胡才、李樂留河東，才為怨家所害，樂自病死。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
