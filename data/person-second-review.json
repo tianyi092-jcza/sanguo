@@ -188757,6 +188757,33 @@
           "term": "護駕東歸",
           "quote": "孫輔傳",
           "reason": "僅為〈孫輔傳〉卷首標題段，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-061",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 29,
+          "term": "護駕東歸",
+          "quote": "策薨，權年少，初統事，太妃憂之。",
+          "reason": "記孫策薨後孫權初統江東事，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-062",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 28,
+          "term": "護駕東歸",
+          "quote": "孫禮傳",
+          "reason": "僅為〈孫禮傳〉卷首標題段，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-063",
+          "work": "houhanshu",
+          "source": "a03-024",
+          "paragraph": 18,
+          "term": "護駕東歸",
+          "quote": "二十年秋，振旅還京師，軍吏經瘴疫死者十四五。",
+          "reason": "記馬援征交趾班師還京事，無李樂其人；「護駕東歸」事件誤命中，排除。"
         }
       ],
       "unresolved": []
