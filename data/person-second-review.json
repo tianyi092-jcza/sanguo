@@ -190779,15 +190779,20 @@
     {
       "id": "p0346",
       "name": "橋蕤",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 8 條、排除 24 條；向量候選已枯竭，本傳所涉《三國志·魏書一 武帝紀》（a04-001）言橋蕤段落已全覆蓋，無遺漏；《華陽國志》全卷無「橋蕤」。",
+        "生平主線：橋蕤為袁術部將；袁術敗於封丘、南向壽春、退保陰陵後，以張勳、橋蕤等為大將軍；建安二年（197）袁術侵陳，術走度淮，留橋蕤等於蘄陽拒操，太祖東征，擊破蕤等，皆斬之；樂進、于禁傳稱從圍橋蕤於苦，地名一作苦、一作蘄陽。",
+        "辨人：與同名異人及同役人物（張勳、李豐、梁綱、樂就、韓暹、楊奉）分開；向量事件「蕲阳之战」誤配候選（後漢書光武事、晉書石季龍事等）均核實排除。",
+        "橋蕤無三國志本傳，事見《三國志·魏書一 武帝紀》、袁術傳及諸將傳與《後漢書·袁術傳》；生年未見明載，卒建安二年（197）蘄陽之役；《後漢書·袁術傳》另載下邳之役生禽橋蕤，與蘄陽斬蕤並存，宜對讀。"
+      ],
       "excerpts": [
         {
           "id": "qiaorui-hhs-yuanshu-qiyang",
