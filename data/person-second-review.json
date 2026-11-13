@@ -187105,6 +187105,33 @@
           "term": "潘璋擒關羽",
           "quote": "權征關羽，璋與朱然斷羽走道，到臨沮，住夾石。",
           "reason": "段內無韓暹，係潘璋擒關羽事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-zengsun-shang",
+          "work": "houhanshu",
+          "source": "a03-031-ahcb",
+          "paragraph": 35,
+          "term": "曾孫商，益州牧劉焉以爲蜀郡太守",
+          "quote": "曾孫商，益州牧劉焉以爲蜀郡太守，有治聲。",
+          "reason": "段內無韓暹，係後漢書他傳卒年與子孫事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-liuqi-jingzhou",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 26,
+          "term": "劉備表琦爲荊州刺史",
+          "quote": "劉備表琦爲荊州刺史。明年卒。",
+          "reason": "段內無韓暹，係建安十四年劉琦事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-guojia-sunce",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 11,
+          "term": "策臨江未濟，果為許貢客所殺",
+          "quote": "策臨江未濟，果為許貢客所殺。",
+          "reason": "段內無韓暹，係郭嘉料孫策事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
         }
       ],
       "unresolved": []
