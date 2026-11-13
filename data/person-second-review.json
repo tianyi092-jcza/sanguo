@@ -187787,6 +187787,33 @@
           "term": "車駕還宮",
           "quote": "庚寅，車駕還宮。",
           "reason": "此段僅記庚寅日車駕還宮，未言胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03078-73",
+          "work": "houhanshu",
+          "source": "a03-078",
+          "paragraph": 73,
+          "term": "為怨家所害",
+          "quote": "凶家害國，夫豈異歸！",
+          "reason": "此段為宦者列傳贊曰，論宦官作威作福「凶家害國」，未言胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03001bahcb-165",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 165,
+          "term": "車駕還宮",
+          "quote": "壬寅，車駕還宮。",
+          "reason": "此段僅記壬寅日車駕還宮，未言胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a04016-8",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 8,
+          "term": "杜畿傳",
+          "quote": "杜畿傳",
+          "reason": "此段僅為杜畿傳的傳首標題，無正文內容，未言胡才，與胡才無關，排除。"
         }
       ],
       "unresolved": []
