@@ -192113,15 +192113,20 @@
     {
       "id": "p0350",
       "name": "王服",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 4 條、排除 47 條；向量候選已枯竭，本傳所涉《三國志·魏書一 武帝紀》（a04-001）全卷 47 段無「王服」「王子服」，無遺漏。",
+        "生平主線：王服（王子服）為建安五年（200）衣帶詔事件參與者；獻帝密詔董承誅曹操，董承與偏將軍王服、種輯、吳碩結謀，事泄皆為操所誅；《後漢書·孝獻帝紀》載五年春正月，曹操殺董承等，夷三族。",
+        "辨人：王服即王子服，官偏將軍；種輯官職記載有異，《孝獻帝紀》作越騎校尉，《董卓列傳》作長水校尉，吳碩於《三國志·先主傳》裴注作將軍吳子蘭；與同謀董承、種輯、吳碩分開；向量誤配候選（後漢書五行志、晉書諸紀等）均核實排除。",
+        "王服無三國志本傳，事僅見《後漢書·孝獻帝紀》《董卓列傳》《三國志·先主傳》裴注、《華陽國志·劉先主志》；生年未見明載，卒建安五年（200）。"
+      ],
       "excerpts": [
         {
           "id": "wangfu-hhs-xianji-mizhao",
