@@ -193179,6 +193179,33 @@
           "term": "袁紹",
           "quote": "紹遣淳于瓊等將兵萬餘人北迎粮運。",
           "reason": "此段為《後漢書·卷七十四 袁紹傳》官渡事，言紹遣淳于瓊迎糧、許攸奔操、襲烏巢；未提趙岐，與持節調解無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs48-yingshao-junmou",
+          "work": "houhanshu",
+          "source": "a03-048",
+          "paragraph": 32,
+          "term": "應劭",
+          "quote": "二年，詔拜劭為袁紹軍謀校尉。",
+          "reason": "此段屬《後漢書·卷四十八 應劭傳》，言劭拜袁紹軍謀校尉、綴集漢官禮儀故事；未提趙岐，與持節調解無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-sgz06-tianfeng-chenlin",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 21,
+          "term": "袁紹",
+          "quote": "田豐說紹襲太祖後，紹辭以子疾，不許",
+          "reason": "此段為《三國志·卷六 袁紹傳》建安五年事，田豐諫襲操後、陳琳檄文；未提趙岐，與持節調解無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs80b-zhongchangtong-poqun",
+          "work": "houhanshu",
+          "source": "a03-080b",
+          "paragraph": 17,
+          "term": "仲長統",
+          "quote": "常疾世多利交，以邪曲相黨，乃著破羣論。",
+          "reason": "此段屬《後漢書·卷八十下 仲長統傳》，言統著破羣論；未提趙岐，趙岐所撰為《孟子章句》，與此無關，不錄。"
         }
       ],
       "unresolved": []
