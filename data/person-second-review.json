@@ -190659,6 +190659,33 @@
           "term": "鄢陵侯彰征代郡",
           "quote": "鄢陵侯彰征代郡，以豫為相。",
           "reason": "《三國志·魏書二十六 任城陳蕭王傳第二十六 曹彰傳》載曹彰征代郡、國淵結圜陣破胡事；段中無劉勳，候選「孫策襲破皖城」為事件誤配，排除。"
+        },
+        {
+          "id": "liuxun-excl-jinshu-jiachong-pingwu",
+          "work": "jinshu",
+          "source": "a05-040",
+          "paragraph": 15,
+          "term": "孫策襲破皖城",
+          "quote": "吳平，軍罷。",
+          "reason": "《晉書·賈充傳》載賈充諫阻平吳、吳平後論功行賞事；段中無劉勳，候選「孫策襲破皖城」為事件誤配，排除。"
+        },
+        {
+          "id": "liuxun-excl-sunlin-title",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 32,
+          "term": "孫策襲破皖城",
+          "quote": "孫綝傳",
+          "reason": "段僅為卷內小傳標題「孫綝傳」，無正文、無劉勳，候選「孫策襲破皖城」為事件誤配，排除。"
+        },
+        {
+          "id": "liuxun-excl-sunce-pingjiangdong",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "term": "孫策襲破皖城",
+          "quote": "策自領會稽太守，復以吳景為丹楊太守",
+          "reason": "《三國志·吳書一 孫破虜討逆傳第一 孫策傳》載孫策平江東、領會稽太守事；段中言劉繇、嚴白虎等，非廬江劉勳，候選「孫策襲破皖城」為事件誤配，排除。"
         }
       ],
       "unresolved": []
