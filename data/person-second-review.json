@@ -187294,6 +187294,33 @@
           "term": "轉北而東，復馬行六十餘日至安息",
           "quote": "轉北而東，復馬行六十餘日至安息。",
           "reason": "段內無韓暹，係西域安息地理敘述，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-dulin-wangfu",
+          "work": "houhanshu",
+          "source": "a03-027",
+          "paragraph": 27,
+          "term": "後皇太子彊求乞自退，封東海王，故重選官屬，以林為王傅。",
+          "quote": "後皇太子彊求乞自退，封東海王，故重選官屬，以林為王傅。",
+          "reason": "段內無韓暹，係東漢初杜林為東海王傅事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-fanpang-nangui",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 46,
+          "term": "滂後事釋，南歸。始發京師，汝南、南陽士大夫迎之者數千兩。",
+          "quote": "滂後事釋，南歸。始發京師，汝南、南陽士大夫迎之者數千兩。",
+          "reason": "段內無韓暹，係范滂黨錮釋放後南歸事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-js-wanghun-shouyang",
+          "work": "jinshu",
+          "source": "a05-042",
+          "paragraph": 6,
+          "term": "轉征東大將軍，復鎮壽陽。",
+          "quote": "轉征東大將軍，復鎮壽陽。",
+          "reason": "段內無韓暹，係晉王渾鎮壽陽、安撫吳人事，與韓暹無關；向量事件誤關聯。"
         }
       ],
       "unresolved": []
