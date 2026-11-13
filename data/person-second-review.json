@@ -193476,6 +193476,33 @@
           "term": "建安六年病卒",
           "quote": "四年，代牟融爲太尉。六年，薨，年七十餘。",
           "reason": "此段為鮑昱建初四年代牟融為太尉、建初六年薨、年七十餘事，與趙岐建安六年病卒（年九十餘）無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-js08-fujian",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 91,
+          "term": "苻健死",
+          "quote": "六月，苻健死，其子生嗣僞位。",
+          "reason": "此段為苻健（前秦主）死、其子苻生嗣位事，與趙岐建安六年病卒無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs05-zhaowanghong",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 169,
+          "term": "趙王宏薨",
+          "quote": "九月辛巳，趙王宏薨。",
+          "reason": "此段為趙王劉宏薨事，「趙王」為劉宏封號，與趙岐無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-js121-lishou",
+          "work": "jinshu",
+          "source": "a05-121-ahcb",
+          "paragraph": 30,
+          "term": "李壽死",
+          "quote": "壽疾篤，常見李期、蔡興爲祟。八年，壽死，時年四十四，在位五年。僞諡昭文帝，廟曰中宗，墓曰安昌陵。",
+          "reason": "此段為成漢李壽死事，與趙岐無關，不錄。"
         }
       ],
       "unresolved": []
