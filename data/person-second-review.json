@@ -187186,6 +187186,33 @@
           "term": "孫權破劉備於夷陵",
           "quote": "閏月，孫權破劉備於夷陵。",
           "reason": "段內無韓暹，係黃初二年夷陵事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-peng-cike",
+          "work": "houhanshu",
+          "source": "a03-017",
+          "paragraph": 36,
+          "term": "蜀刺客詐為亡奴降，夜刺殺彭",
+          "quote": "蜀刺客詐為亡奴降，夜刺殺彭。",
+          "reason": "段內無韓暹，係「彭」為蜀刺客刺殺事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-lumeng-jingzhou",
+          "work": "sanguozhi",
+          "source": "a04-054",
+          "paragraph": 34,
+          "term": "權命蒙西取長沙、零、桂三郡",
+          "quote": "權命蒙西取長沙、零、桂三郡。",
+          "reason": "段內無韓暹，係建安二十年呂蒙取荊州三郡事，韓暹已卒於建安初年，與其無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-js-huanwen-chengdu",
+          "work": "jinshu",
+          "source": "a05-008-ahcb",
+          "paragraph": 21,
+          "term": "桓溫攻成都",
+          "quote": "三年春三月乙卯，桓溫攻成都，克之。",
+          "reason": "段內無韓暹，係永和三年桓溫平蜀事，晚韓暹約一百五十年，與其無關；向量事件誤關聯。"
         }
       ],
       "unresolved": []
