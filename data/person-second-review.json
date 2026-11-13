@@ -193650,7 +193650,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "fuwan-hhs-xiandi-fenghou",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 9,
+          "from": "封衞將軍董承為輔國將軍伏完等十三人為列侯",
+          "through": "封衞將軍董承為輔國將軍伏完等十三人為列侯",
+          "citation": "《後漢書·孝獻帝紀第九》",
+          "note": "建安元年（196）獻帝至洛陽，董承拜輔國將軍，伏完等十三人封列侯。句中「輔國將軍」係董承之官，不可誤作伏完此時之官。"
+        },
+        {
+          "id": "fuwan-hhs-huanghou-anyang",
+          "work": "houhanshu",
+          "source": "a03-010b-full",
+          "paragraph": 79,
+          "from": "皇女華，延熹元年封陽安長公主，適不其侯輔國將軍伏完。完，伏湛五世孫。",
+          "through": "皇女華，延熹元年封陽安長公主，適不其侯輔國將軍伏完。完，伏湛五世孫。",
+          "citation": "《後漢書·皇后紀第十下》",
+          "note": "皇后紀下明伏完身份：陽安長公主（皇女華，延熹元年封）之夫，不其侯、輔國將軍，伏湛五世孫；此為其本傳性質的核心記載。"
+        },
+        {
+          "id": "fuwan-hhs-dongzhuo-donggui",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "楊彪、董承及后父執金吾伏完等數十人。",
+          "through": "楊彪、董承及后父執金吾伏完等數十人。",
+          "citation": "《後漢書·董卓傳第六十二》",
+          "note": "興平二年獻帝東歸、濟河至大陽，伏完時為執金吾，以后父隨駕同濟。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
