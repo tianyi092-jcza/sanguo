@@ -188730,6 +188730,33 @@
           "term": "護駕東歸",
           "quote": "鮮卑寇遼東。",
           "reason": "僅記鮮卑寇遼東，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-058",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 27,
+          "term": "護駕東歸",
+          "quote": "管寧傳",
+          "reason": "僅為〈管寧傳〉卷首標題段，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-059",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 6,
+          "term": "護駕東歸",
+          "quote": "五年，天子南巡，觀兵吳疆。",
+          "reason": "僅記建安五年天子南巡、宣帝留鎮許昌事，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-060",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 11,
+          "term": "護駕東歸",
+          "quote": "孫輔傳",
+          "reason": "僅為〈孫輔傳〉卷首標題段，無李樂其人；「護駕東歸」事件誤命中，排除。"
         }
       ],
       "unresolved": []
