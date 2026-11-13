@@ -187841,6 +187841,33 @@
           "term": "安息",
           "quote": "轉北而東，復馬行六十餘日至安息。",
           "reason": "此段為《後漢書·西域傳》，言安息、條支地理，未言胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03027-27",
+          "work": "houhanshu",
+          "source": "a03-027",
+          "paragraph": 27,
+          "term": "從駕南巡",
+          "quote": "從駕南巡狩。",
+          "reason": "此段言東海王傅王林從駕南巡狩，未言胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03067-46",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 46,
+          "term": "南歸",
+          "quote": "滂後事釋，南歸。",
+          "reason": "此段言范滂免罪南歸，未言胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03049-23",
+          "work": "houhanshu",
+          "source": "a03-049",
+          "paragraph": 23,
+          "term": "盜賊",
+          "quote": "然則盜賊何從而銷，太平何由而作乎？",
+          "reason": "此段言吏治訟獄、盜賊之弊，未言胡才，與胡才無關，排除。"
         }
       ],
       "unresolved": []
