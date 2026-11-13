@@ -188084,6 +188084,33 @@
           "term": "為怨家所害",
           "quote": "獸殺七百餘人",
           "reason": "此段記苻生時猛獸害人，與胡才為怨家所殺無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03067-39",
+          "work": "houhanshu",
+          "source": "a03-067",
+          "paragraph": 39,
+          "term": "為怨家所害",
+          "quote": "孽自己作，空汙良善",
+          "reason": "此段記夏馥黨錮亡命、隱匿林慮山事，與胡才為怨家所殺無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03033-37",
+          "work": "houhanshu",
+          "source": "a03-033",
+          "paragraph": 37,
+          "term": "為怨家所害",
+          "quote": "鄭、竇怨偶，代相為仇",
+          "reason": "此為贊語，論朱儁、鄭玄、竇武等人，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a03001bahcb-24",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 24,
+          "term": "為怨家所害",
+          "quote": "諸厚葬者皆被發掘",
+          "reason": "此段為光武帝禁厚葬之詔，與胡才無關，排除。"
         }
       ],
       "unresolved": []
