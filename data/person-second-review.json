@@ -189138,8 +189138,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "jinxuan-sgz-xianzhu-nanzheng",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "先主表琦為荊州刺史，又南征四郡。武陵太守金旋、長沙太守韓玄、桂陽太守趙範、零陵太守劉度皆降。",
+          "through": "先主表琦為荊州刺史，又南征四郡。武陵太守金旋、長沙太守韓玄、桂陽太守趙範、零陵太守劉度皆降。",
+          "citation": "《三國志·蜀書二 先主傳第二 先主傳》"
+        },
+        {
+          "id": "jinxuan-huayang-nanzheng",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 11,
+          "from": "先主南\n平四郡武陵太守金旋長沙太守韓玄桂陽太守趙\n範零陵太守劉度皆降",
+          "through": "先主南\n平四郡武陵太守金旋長沙太守韓玄桂陽太守趙\n範零陵太守劉度皆降",
+          "citation": "《華陽國志》卷六·四部叢刊本",
+          "note": "華陽國志四部叢刊本無標點，照錄原字；與《三國志·先主傳》互證劉備南征四郡、金旋等皆降。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "jinxuan-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 1,
+          "term": "周旋",
+          "quote": "販馬周旋於涿郡",
+          "reason": "段中「旋」為「周旋」之一般用語，述中山大商張世平、蘇雙販馬往來涿郡，與武陵太守金旋無關；向量本傳單字誤觸，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
