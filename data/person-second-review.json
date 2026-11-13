@@ -187515,9 +187515,37 @@
           "from": "以暹為征東、才為征西、樂征北將軍，並與奉、承持政。",
           "through": "以暹為征東、才為征西、樂征北將軍，並與奉、承持政。",
           "citation": "《三國志·魏書六·董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "hucai-sgz-dongzhuo-liuhedong",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 13,
+          "from": "才、樂留河東，才為怨家所殺，樂病死。",
+          "through": "才、樂留河東，才為怨家所殺，樂病死。",
+          "citation": "《三國志·魏書六·董二袁劉傳第六 董卓傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "hucai-excl-a04006-28",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 28,
+          "term": "才",
+          "quote": "少傳融業，以才學進。",
+          "reason": "此段為袁術傳；「才」為馬日磾「以才學進」之單字誤命中，非胡才，排除。"
+        },
+        {
+          "id": "hucai-excl-a04006-36",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 36,
+          "term": "才",
+          "quote": "魏諷以才智聞",
+          "reason": "此段為劉表傳；「才」為魏諷「以才智聞」之單字誤命中，非胡才，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
