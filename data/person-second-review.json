@@ -193422,6 +193422,33 @@
           "term": "建安六年病卒",
           "quote": "六年春正月，帝臨朝，以褚裒喪故，懸而不樂。",
           "reason": "此段為《晉書·卷八 帝紀第八》穆帝升平六年褚裒喪事，未提趙岐，與趙岐建安六年病卒無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-sgz62-shiyi-zu",
+          "work": "sanguozhi",
+          "source": "a04-062",
+          "paragraph": 12,
+          "term": "建安六年病卒",
+          "quote": "及寢疾，遺令素棺，斂以時服，務從省約，年八十一卒。",
+          "reason": "此段為《三國志·吳書十七 是儀胡綜傳第十七》是儀卒事，未提趙岐，與趙岐建安六年病卒無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs01b-linhuaiheng",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 133,
+          "term": "建安六年病卒",
+          "quote": "六月癸巳，臨淮公衡薨。",
+          "reason": "此段為《後漢書·卷一下 光武帝紀第一下》臨淮公衡薨事，未提趙岐，與趙岐建安六年病卒無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-js51-huangfumi",
+          "work": "jinshu",
+          "source": "a05-051-ahcb",
+          "paragraph": 10,
+          "term": "建安六年病卒",
+          "quote": "而竟不仕。太康三年卒，時年六十八。子童靈、方回等遵其遺命。",
+          "reason": "此段為《晉書·卷五十一 列傳第二十一》皇甫謐太康三年卒事，未提趙岐，與趙岐建安六年病卒無關，不錄。"
         }
       ],
       "unresolved": []
