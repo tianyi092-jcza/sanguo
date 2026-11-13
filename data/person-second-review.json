@@ -187078,6 +187078,33 @@
           "term": "先主世系",
           "quote": "先主姓劉，諱備，字玄德，涿郡涿縣人，漢景帝子中山靖王勝之後也。",
           "reason": "段內無韓暹，係先主世系開篇，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-liubiao-liubei-jingzhou",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 22,
+          "term": "劉備奔荊州，劉表卒",
+          "quote": "六年，劉備自袁紹奔荊州，表厚相待結而不能用也。",
+          "reason": "段內無韓暹，係後漢書劉表傳事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-xianzhu-zaonian",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 2,
+          "term": "先主早年",
+          "quote": "靈帝末，黃巾起，州郡各舉義兵，先主率其屬從校尉鄒靖討黃巾賊有功，除安喜尉。",
+          "reason": "段內無韓暹，係先主早年事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-panzhang-qinyu",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 60,
+          "term": "潘璋擒關羽",
+          "quote": "權征關羽，璋與朱然斷羽走道，到臨沮，住夾石。",
+          "reason": "段內無韓暹，係潘璋擒關羽事，與韓暹無關；向量以「為劉備所殺」事件誤關聯。"
         }
       ],
       "unresolved": []
