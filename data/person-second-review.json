@@ -191405,15 +191405,20 @@
     {
       "id": "p0348",
       "name": "于糜",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 6 條、排除 23 條；向量候選已枯竭，本傳所涉《三國志·吳書一 孫破虜討逆傳第一 孫策傳》（a04-046）言于糜段落已全覆蓋，無遺漏。",
+        "生平主線：于糜為劉繇部將；興平二年（195）劉繇遣樊能、于糜屯橫江津，張英屯當利口，以拒袁術；袁術使孫賁、吳景連年攻之未能拔；及孫策東渡助賁、景，破英、糜等；裴注引《江表傳》：樊能、于糜復合衆襲奪牛渚屯，策還攻破之，獲男女萬餘人；此後史無載。",
+        "辨人：與同役人物樊能、張英、孫賁、吳景分開；「于麋」為同人異寫；向量事件「屯橫江拒孫策」誤配候選（晉書何循論江東防盜、後漢書袁術傳孫堅殺張咨等）均核實排除。",
+        "于糜無三國志本傳，事見《三國志·吳書一 孫策傳》、吳景傳、徐夫人傳、程普傳、呂範傳；生卒年未見明載，興平二年（195）橫江之後即無蹤。"
+      ],
       "excerpts": [
         {
           "id": "yumi-sgz-sunce-tunhengjiang",
