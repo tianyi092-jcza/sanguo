@@ -189044,6 +189044,33 @@
           "term": "石瞻攻陷晉兗州",
           "quote": "石瞻攻陷晉兗州刺史檀斌于鄒山，斌死之",
           "reason": "段述石勒諸將攻陷鄒山、并州叛降事，韓玄未出現；向量事件誤觸，排除。"
+        },
+        {
+          "id": "hanxuan-excl-022",
+          "work": "jinshu",
+          "source": "a05-005-ahcb",
+          "paragraph": 97,
+          "term": "石勒陷廩丘",
+          "quote": "石勒陷廩丘，北中郎將劉演出奔",
+          "reason": "段述劉曜寇上郡、石勒陷廩丘事，韓玄未出現；向量事件誤觸，排除。"
+        },
+        {
+          "id": "hanxuan-excl-023",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 22,
+          "term": "季龍討曹嶷",
+          "quote": "又遣季龍統中外步騎四萬討曹嶷",
+          "reason": "段述石勒遣季龍討曹嶷、廣固降事，韓玄未出現；向量事件誤觸，排除。"
+        },
+        {
+          "id": "hanxuan-excl-024",
+          "work": "sanguo",
+          "source": "a04-027",
+          "paragraph": 9,
+          "term": "朱然圍樊城",
+          "quote": "吳大將朱然圍樊城，質輕軍赴之",
+          "reason": "段述胡質赴援樊城事，韓玄未出現；向量事件誤觸，排除。"
         }
       ],
       "unresolved": []
