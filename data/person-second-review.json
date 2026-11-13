@@ -194109,7 +194109,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "xurong-sgz-gongsundu-jian",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 14,
+          "from": "同郡徐榮為董卓中郎將，薦度為遼東太守。",
+          "through": "同郡徐榮為董卓中郎將，薦度為遼東太守。",
+          "citation": "《三國志·魏書八 公孫瓚陶謙張楊傳第八 公孫度傳》",
+          "note": "徐榮與公孫度同郡，時為董卓中郎將，薦度為遼東太守。此段亦證徐榮為遼東/玄菟人，與其籍貫相合。"
+        },
+        {
+          "id": "xurong-hhs-dongzhuo-liang",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 14,
+          "from": "卓先遣將徐榮、李蒙四出虜掠。榮遇堅於梁，故城在今汝州梁縣西南。與戰，破堅，生禽潁川太守李旻，亨之。",
+          "through": "卓先遣將徐榮、李蒙四出虜掠。榮遇堅於梁，故城在今汝州梁縣西南。與戰，破堅，生禽潁川太守李旻，亨之。",
+          "citation": "《後漢書·董卓列傳第六十二》",
+          "note": "董卓遣徐榮、李蒙四出虜掠；徐榮於梁遇孫堅，與戰破之，生禽潁川太守李旻而亨殺之。"
+        },
+        {
+          "id": "xurong-hhs-dongzhuo-xinfeng",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 22,
+          "from": "榮戰死，軫以衆降。",
+          "through": "榮戰死，軫以衆降。",
+          "citation": "《後漢書·董卓列傳第六十二》",
+          "note": "王允遣卓故將胡軫、徐榮擊李傕等於新豐，徐榮戰死，胡軫以眾降。此為徐榮卒於新豐之關鍵記載，與其卒年192相合。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
