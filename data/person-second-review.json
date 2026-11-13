@@ -193287,6 +193287,33 @@
           "term": "楊序",
           "quote": "楊序字仲桓統仲子也道業",
           "reason": "此段屬《華陽國志·卷十 先賢志》，論王祐、楊序等蜀中先賢；其中「家法章句」指他人的章句之學，未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs34-liangshu-mengshiyi",
+          "work": "houhanshu",
+          "source": "a03-034",
+          "paragraph": 18,
+          "term": "孟氏易",
+          "quote": "竦字叔敬，少習孟氏易，孟喜字長卿",
+          "reason": "此段屬《後漢書·卷三十四》，論梁竦少習孟氏易、作悼騷賦；「孟氏易」指孟喜之易學，與趙岐撰《孟子章句》無關，未提趙岐，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs56-wanggong-bingzu",
+          "work": "houhanshu",
+          "source": "a03-056",
+          "paragraph": 12,
+          "term": "王龔",
+          "quote": "龔在位五年，以老病乞骸骨，卒於家",
+          "reason": "此段屬《後漢書·卷五十六》，論太尉王龔在位五年、老病乞骸骨卒於家；王龔卒於永和年間，非建安六年，與趙岐建安六年病卒無關，未提趙岐，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-js94-dongjing-sunchu",
+          "work": "jinshu",
+          "source": "a05-094-ahcb",
+          "paragraph": 5,
+          "term": "董京",
+          "quote": "孫楚時爲著作郎，數就社中與語，遂載與俱歸，京不肯坐",
+          "reason": "此段屬《晉書·卷九十四》，論隱士董京與孫楚往還、京答詩；未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
         }
       ],
       "unresolved": []
