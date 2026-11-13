@@ -187976,6 +187976,33 @@
           "term": "為怨家所害",
           "quote": "令人追殺佗，不及",
           "reason": "此段為《後漢書·華佗傳》治病記，「令人追殺佗」之佗為華佗，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a04051-11",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 11,
+          "term": "護駕東歸",
+          "quote": "孫輔傳",
+          "reason": "此段僅為〈孫輔傳〉篇題，無胡才相關內容，排除。"
+        },
+        {
+          "id": "hucai-excl-a04055-29",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 29,
+          "term": "護駕東歸",
+          "quote": "江東地勢有山川之固",
+          "reason": "此段為孫權初統事、太妃問張昭及襲江東可保事，未言胡才護駕東歸，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a05029ahcb-119",
+          "work": "jinshu",
+          "source": "a05-029-ahcb",
+          "paragraph": 119,
+          "term": "為怨家所害",
+          "quote": "怨讟動於人，則有非言之物而言",
+          "reason": "此段為《晉書·五行志》太康九年牛頭語占辭，未言胡才為怨家所害，與胡才無關，排除。"
         }
       ],
       "unresolved": []
