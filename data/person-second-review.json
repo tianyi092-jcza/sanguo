@@ -192695,6 +192695,36 @@
           "through": "語議之間，有所不及耳。",
           "citation": "《三國志·吳書十二 虞陸張駱陸吾朱傳第十二 虞翻傳》",
           "note": "孫策自述昔再至壽春見馬日磾、與中州士大夫會；此為江表傳所載孫策語，佐證日磾在壽春與孫策、江東士人往來。"
+        },
+        {
+          "id": "maridi-hhs-lingji-taiwei",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 21,
+          "from": "秋七月，射聲校尉馬日磾為太尉。",
+          "through": "秋七月，射聲校尉馬日磾為太尉。",
+          "citation": "《後漢書·孝靈帝紀》",
+          "note": "中平五年（188）七月，射聲校尉馬日磾拜太尉；此為日磾首次登台輔。"
+        },
+        {
+          "id": "maridi-hhs-lingji-mian",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 22,
+          "from": "太尉馬日磾免，",
+          "through": "幽州牧劉虞為太尉。",
+          "citation": "《後漢書·孝靈帝紀》",
+          "note": "中平六年（189）四月，太尉馬日磾免，幽州牧劉虞代為太尉；任太尉不足一年。"
+        },
+        {
+          "id": "maridi-hhs-xianji-taiwei",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 4,
+          "from": "太尉趙謙罷，太常馬日磾為太尉。",
+          "through": "太尉趙謙罷，太常馬日磾為太尉。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "note": "初平二年（193）七月，太常馬日磾再拜太尉；此前歷位九卿，見三輔決錄所載「歷位九卿、遂登台輔」。"
         }
       ],
       "exclusions": [],
