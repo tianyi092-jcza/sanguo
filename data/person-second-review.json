@@ -188152,15 +188152,22 @@
     {
       "id": "p0340",
       "name": "李樂",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 6 條、排除 65 條；向量候選已枯竭，本傳所涉《三國志·董卓傳》（a04-006）及《後漢書·獻帝紀》（a03-009）、《後漢書·董卓傳》（a03-072）言李樂段落已全覆蓋，無遺漏。",
+        "生平主線：河東白波帥；興平二年（195）楊奉、董承引白波帥胡才、李樂、韓暹及匈奴左賢王去卑奉迎獻帝，與李傕、郭汜戰而破之，護駕東歸；天子還洛陽後，與楊奉、董承持政，拜征北將軍。",
+        "拜官：《三國志·董卓傳》稱以暹為征東、才為征西、樂征北將軍；《後漢書·董卓傳》同段僅載拜胡才征東將軍，未見李樂拜官之文。",
+        "死因：天子還洛陽後，才、樂留河東，才為怨家所害，樂自病死；卒年未見明載，事在建安元年之後。",
+        "辨人：與韓暹、胡才、楊奉、董承等同卷人物嚴格區分；「樂」單字命中均核實確指本人。",
+        "李樂無三國志本傳，事見《三國志·董卓傳》正文及《後漢書·獻帝紀》、《後漢書·董卓傳》；生年未見明載。"
+      ],
       "excerpts": [
         {
           "id": "lile-hhs-xiandi-fengying",
