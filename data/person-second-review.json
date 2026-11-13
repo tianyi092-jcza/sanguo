@@ -192122,8 +192122,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "wangfu-hhs-xianji-mizhao",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 13,
+          "from": "五年春正月，車騎將軍董承、偏將軍王服、越騎校尉种輯受密詔誅曹操，事洩。",
+          "through": "壬午，曹操殺董承等，夷三族。",
+          "citation": "《後漢書·孝獻帝紀》",
+          "note": "建安五年（200）正月，獻帝密詔董承、王服、種輯誅曹操，事洩，曹操殺董承等、夷三族。此為王服本事之核心記載，明確其官職偏將軍及被誅之年；與《後漢書·董卓列傳》互證。"
+        },
+        {
+          "id": "wangfu-hhs-dongzhuo-mizhao",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 35,
+          "from": "帝忌操專偪，乃密詔董承，使結天下義士共誅之。",
+          "through": "事泄，承、服、輯、碩皆為操所誅。",
+          "citation": "《後漢書·董卓列傳》",
+          "note": "建安五年（200）獻帝密詔董承誅曹操；董承更與偏將軍王服、長水校尉種輯、議郎吳碩結謀，事泄皆為操所誅。此為王服本事之核心記載，明確其官職偏將軍；與《後漢書·孝獻帝紀》互證。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "wangfu-excl-001",
+          "work": "houhanshu",
+          "source": "a03-010a-ahcb",
+          "paragraph": 47,
+          "term": "王服",
+          "quote": "王服衮冕而入，立於阼",
+          "reason": "《後漢書·皇后紀上》記明帝永平七年（64）馬皇后謁宗廟事；「王服衮冕」之「王」為天子、「服」為服衮冕之動詞，並非人名王服，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
