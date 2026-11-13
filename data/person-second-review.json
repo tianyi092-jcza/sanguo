@@ -188487,6 +188487,33 @@
           "term": "留河東病死",
           "quote": "東沃沮傳",
           "reason": "僅為《東沃沮傳》小標題，無李樂其人；「留河東病死」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-031",
+          "work": "houhanshu",
+          "source": "a03-074b-ahcb",
+          "paragraph": 15,
+          "term": "留河東病死",
+          "quote": "奔公孫康於遼東",
+          "reason": "記袁尚、袁熙奔遼東為公孫康所斬事，無李樂其人；「留河東病死」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-032",
+          "work": "jinshu",
+          "source": "a05-040",
+          "paragraph": 50,
+          "term": "留河東病死",
+          "quote": "難發之夕，東宮召濟",
+          "reason": "記濟入東宮事，無李樂其人；「留河東病死」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-033",
+          "work": "jinshu",
+          "source": "a05-048-ahcb",
+          "paragraph": 17,
+          "term": "留河東病死",
+          "quote": "長子亨爲遼西太守",
+          "reason": "記亨為遼西太守、依苟晞被害事，無李樂其人；「留河東病死」事件誤命中，排除。"
         }
       ],
       "unresolved": []
