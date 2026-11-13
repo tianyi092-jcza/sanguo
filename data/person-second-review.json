@@ -192867,8 +192867,39 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "zhaoqi-hhs-bangu-mengzi",
+          "work": "houhanshu",
+          "source": "a03-040",
+          "paragraph": 7,
+          "from": "見趙岐孟子注。",
+          "through": "見趙岐孟子注。",
+          "citation": "《後漢書·班固傳》",
+          "note": "班固傳序論「楚之檮杌，晉之乘，魯之春秋，其事一也」引趙岐孟子注為據，見其孟子章句在漢末已為史家所取資。"
+        },
+        {
+          "id": "zhaoqi-hhs-bangu-fanshi",
+          "work": "houhanshu",
+          "source": "a03-040b-ahcb",
+          "paragraph": 2,
+          "from": "趙岐注曰：「范，法也，爲法度之御，應禮之射，終日不得一。詭遇，非禮射也，則能獲十。」",
+          "through": "趙岐注曰：「范，法也，爲法度之御，應禮之射，終日不得一。詭遇，非禮射也，則能獲十。」",
+          "citation": "《後漢書·班固傳》",
+          "note": "班固東都賦注引趙岐注孟子「范氏」之說釋「轡不詭遇」，見其孟子章句流傳與後世注家引用。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhaoqi-excl-zhengxuan",
+          "work": "houhanshu",
+          "source": "a03-035",
+          "paragraph": 22,
+          "term": "趙岐",
+          "quote": "及黨事起，乃與同郡孫嵩等四十餘人俱被禁錮，嵩字賔石，見趙岐傳。",
+          "reason": "鄭玄傳中「見趙岐傳」僅為孫嵩事的互見提示，所敘為鄭玄、孫嵩被禁錮之事，非趙岐本人史實，不另錄。"
+        }
+      ],
       "unresolved": []
     }
   ]
