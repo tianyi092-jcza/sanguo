@@ -187240,6 +187240,33 @@
           "term": "乃乘追鋒車東渡河",
           "quote": "景初初，童謠曰：「阿公阿公駕馬車，不意阿公東渡河，阿公來還當柰何！」",
           "reason": "段內無韓暹，係景初年間司馬懿東渡河事，晚韓暹約四十年，與其無關；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-js-yuwenlan-jiang",
+          "work": "jinshu",
+          "source": "a05-106-ahcb",
+          "paragraph": 55,
+          "term": "鎮北宇文歸執送段遼之子蘭降于季龍",
+          "quote": "鎮北宇文歸執送段遼之子蘭降于季龍，獻駿馬萬匹。",
+          "reason": "段內無韓暹，係後趙石季龍時事，晚韓暹約一百五十年，與其無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-gengyin-huangong",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 68,
+          "term": "庚寅，車駕還宮",
+          "quote": "庚寅，車駕還宮。",
+          "reason": "段內無韓暹，係建武十年光武帝紀事，早韓暹約一百六十年，與其無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-renyin-huangong",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 165,
+          "term": "壬寅，車駕還宮",
+          "quote": "壬寅，車駕還宮。",
+          "reason": "段內無韓暹，係建武二十年光武帝紀事，早韓暹約一百五十年，與其無關；向量事件誤關聯。"
         }
       ],
       "unresolved": []
