@@ -187159,6 +187159,33 @@
           "term": "劉備當得益州",
           "quote": "歲在甲午，劉備當得益州。",
           "reason": "段內無韓暹，係劉備得益州占驗事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-dongzhao-chezhou",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 21,
+          "term": "備到下邳，殺徐州刺史車胄，反",
+          "quote": "備到下邳，殺徐州刺史車胄，反。",
+          "reason": "段內無韓暹，係建安五年劉備殺車胄事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-js-huanxuan-zhan",
+          "work": "jinshu",
+          "source": "a05-099-ahcb",
+          "paragraph": 30,
+          "term": "遂斬之，時年三十六",
+          "quote": "遂斬之，時年三十六。",
+          "reason": "段內無韓暹，係晉末桓玄被殺事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-wendi-yiling",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 22,
+          "term": "孫權破劉備於夷陵",
+          "quote": "閏月，孫權破劉備於夷陵。",
+          "reason": "段內無韓暹，係黃初二年夷陵事，與韓暹無關；向量事件誤關聯。"
         }
       ],
       "unresolved": []
