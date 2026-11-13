@@ -191366,6 +191366,33 @@
           "term": "沈充",
           "quote": "沈充自吳率眾萬餘人至，與含等合。",
           "reason": "東晉沈充附王含、蘇峻之亂事，未提樊能，與樊能屯橫江拒策無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-lixiang-ningzhou",
+          "work": "jinshu",
+          "source": "a05-006-ahcb",
+          "paragraph": 77,
+          "term": "李驤",
+          "quote": "李驤等寇寧州，刺史王遜遣將姚岳距戰于堂狼，大破之。",
+          "reason": "晉書帝紀記李驤寇寧州、王遜遣姚岳拒戰事，未提樊能，與樊能屯橫江拒策無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-sunjian-zhangzi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 19,
+          "term": "孫堅",
+          "quote": "會長沙太守孫堅殺南陽太守張咨",
+          "reason": "後漢書袁術傳記孫堅殺張咨、袁術奔南陽事，未提樊能，與樊能屯橫江拒策無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-xun-jiangfang",
+          "work": "jinshu",
+          "source": "a05-068-ahcb",
+          "paragraph": 35,
+          "term": "循",
+          "quote": "帝思所以防之，以問於循。",
+          "reason": "晉書記帝問循江防、沿江置亭候事，未提樊能，與樊能屯橫江拒策無關，排除。"
         }
       ],
       "unresolved": []
