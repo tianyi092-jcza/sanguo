@@ -193449,6 +193449,33 @@
           "term": "建安六年病卒",
           "quote": "而竟不仕。太康三年卒，時年六十八。子童靈、方回等遵其遺命。",
           "reason": "此段為《晉書·卷五十一 列傳第二十一》皇甫謐太康三年卒事，未提趙岐，與趙岐建安六年病卒無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs06-hejianwang",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 61,
+          "term": "建安六年病卒",
+          "quote": "六年春二月庚午，河閒王開薨。",
+          "reason": "此段為《後漢書·卷六 孝順孝沖孝質帝紀》永和六年河閒王開薨事，未提趙岐，與趙岐建安六年病卒無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs04-fulingwang",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 18,
+          "term": "建安六年病卒",
+          "quote": "庚子，阜陵王延薨。",
+          "reason": "此段為《後漢書·卷四 孝和孝殤帝紀》阜陵王延薨事，未提趙岐，與趙岐建安六年病卒無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs29-baoyu",
+          "work": "houhanshu",
+          "source": "a03-029-ahcb",
+          "paragraph": 22,
+          "term": "建安六年病卒",
+          "quote": "四年，代牟融爲太尉。六年，薨，年七十餘。",
+          "reason": "此段為鮑昱建初四年代牟融為太尉、建初六年薨、年七十餘事，與趙岐建安六年病卒（年九十餘）無關，不錄。"
         }
       ],
       "unresolved": []
