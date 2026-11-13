@@ -191258,6 +191258,33 @@
           "term": "武昌",
           "quote": "王濬之克武昌也，",
           "reason": "晉太康元年（280）王濬克武昌、賈充表請召軍，屬平吳事，與樊能（興平二年橫江）時代、人物皆不同；排除。"
+        },
+        {
+          "id": "fanneng-excl-duyu-moling",
+          "work": "jinshu",
+          "source": "a05-034",
+          "paragraph": 42,
+          "term": "秣陵",
+          "quote": "遂指授群帥，徑造秣陵。",
+          "reason": "晉太康元年（280）杜預指授群帥、王濬等徑造秣陵平吳事，與樊能（興平二年橫江拒孫策）時代、人物皆不同；段中未提樊能，排除。"
+        },
+        {
+          "id": "fanneng-excl-wangjun-zhengwu",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 58,
+          "term": "王濬",
+          "quote": "及征吳，江西眾軍無過者，而王濬先定秣陵。",
+          "reason": "晉武帝時王濬征吳、孫皓天紀事，與樊能（興平二年橫江）時代、人物皆不同；段中未提樊能，排除。"
+        },
+        {
+          "id": "fanneng-excl-mayuan",
+          "work": "houhanshu",
+          "source": "a03-024",
+          "paragraph": 30,
+          "term": "馬援",
+          "quote": "竊見故伏波將軍新息侯馬援，",
+          "reason": "東漢建武年間馬援西征隗囂事，與樊能（興平二年橫江）時代、人物皆不同；段中未提樊能，排除。"
         }
       ],
       "unresolved": []
