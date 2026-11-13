@@ -191231,6 +191231,33 @@
           "term": "夷陵",
           "quote": "閏月，孫權破劉備於夷陵。",
           "reason": "黃初三年（222）孫權破劉備於夷陵，樊能事在興平二年（195）橫江之後已無蹤，與樊能無關；排除。"
+        },
+        {
+          "id": "fanneng-excl-zhuran-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 12,
+          "term": "江陵",
+          "quote": "魏遣曹真、夏侯尚、張郃等攻江陵，魏文帝自住宛，為其勢援，連屯圍城。",
+          "reason": "黃武元年（222）朱然守江陵、魏軍圍城六月，樊能事在興平二年（195）橫江之後已無蹤，與樊能無關；排除。"
+        },
+        {
+          "id": "fanneng-excl-wudiji-dujiang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 7,
+          "term": "渡江",
+          "quote": "是歲，孫策受袁術使渡江，數年閒遂有江東。",
+          "reason": "此段記興平元年（194）孫策受袁術使渡江，未提樊能姓名；按全字匹配原則不錄為樊能事蹟，排除。"
+        },
+        {
+          "id": "fanneng-excl-jiachong-wuchang",
+          "work": "jinshu",
+          "source": "a05-040",
+          "paragraph": 15,
+          "term": "武昌",
+          "quote": "王濬之克武昌也，",
+          "reason": "晉太康元年（280）王濬克武昌、賈充表請召軍，屬平吳事，與樊能（興平二年橫江）時代、人物皆不同；排除。"
         }
       ],
       "unresolved": []
