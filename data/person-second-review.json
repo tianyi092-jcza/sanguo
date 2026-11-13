@@ -188217,7 +188217,35 @@
           "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "lile-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 1,
+          "term": "樂",
+          "quote": "殺耕牛與相宴樂。",
+          "reason": "段中「樂」皆為動詞／一般用語（宴樂、樂為國家奮一旦之命），記董卓事，非白波李樂；單字誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-002",
+          "work": "houhanshu",
+          "source": "a03-005",
+          "paragraph": 25,
+          "term": "河東",
+          "quote": "丁巳，河東地陷。",
+          "reason": "僅記河東地陷，無人名，與李樂無關；地名誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-003",
+          "work": "houhanshu",
+          "source": "a03-106",
+          "paragraph": 67,
+          "term": "河東",
+          "quote": "永壽三年七月，河東地裂，時梁皇后兄兾秉政，桓帝欲自由，內患之。",
+          "reason": "永壽三年（157）河東地裂，僅地名，無李樂其人，且繫年早於李樂活動年代；排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
