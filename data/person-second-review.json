@@ -191746,8 +191746,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "zhongji-hhs-dongzhuo-mizhao",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 35,
+          "from": "帝忌操專偪，乃密詔董承，使結天下義士共誅之。",
+          "through": "事泄，承、服、輯、碩皆為操所誅。",
+          "citation": "《後漢書·董卓列傳》",
+          "note": "建安五年（200）獻帝密詔董承誅曹操；董承更與偏將軍王服、長水校尉種輯、議郎吳碩結謀，事泄皆為操所誅。此為種輯本事之核心記載，明確其官職長水校尉及被誅之年。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhongji-excl-001",
+          "work": "houhanshu",
+          "source": "a03-071",
+          "paragraph": 12,
+          "term": "密詔",
+          "quote": "詔使以兵委嵩，卓不從。",
+          "reason": "《後漢書·皇甫嵩朱儁列傳》記初平元年董卓徵皇甫嵩事；段中無種輯其人，亦非建安五年衣帶詔謀誅曹操事，排除。"
+        },
+        {
+          "id": "zhongji-excl-002",
+          "work": "houhanshu",
+          "source": "a03-009",
+          "paragraph": 11,
+          "term": "密詔",
+          "quote": "有詔高懸之",
+          "reason": "《後漢書·孝獻帝紀》記建安三年裴茂討李傕、曹操擊呂布事；段中無種輯其人，亦非衣帶詔事，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
