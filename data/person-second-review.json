@@ -188622,6 +188622,33 @@
           "term": "護駕東歸",
           "quote": "壬寅，車駕還宮。",
           "reason": "僅記車駕還宮，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-046",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 8,
+          "term": "護駕東歸",
+          "quote": "杜畿傳",
+          "reason": "僅為杜畿傳卷首傳名，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-047",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 12,
+          "term": "護駕東歸",
+          "quote": "六年，天子復大興舟師征吳，復命帝居守，內鎮百姓，外供軍資。",
+          "reason": "記晉宣帝居守許昌、總東西事，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-048",
+          "work": "houhanshu",
+          "source": "a03-006-ahcb",
+          "paragraph": 61,
+          "term": "留河東病死",
+          "quote": "六年春二月庚午，河閒王開薨。",
+          "reason": "僅記河閒王開薨，無李樂其人；「留河東病死」事件誤命中，排除。"
         }
       ],
       "unresolved": []
