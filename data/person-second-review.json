@@ -189763,7 +189763,28 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "liudu-sgz-xianzhu-nanzheng",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "先主表琦為荊州刺史，又南征四郡。武陵太守金旋、長沙太守韓玄、桂陽太守趙範、零陵太守劉度皆降。",
+          "through": "先主表琦為荊州刺史，又南征四郡。武陵太守金旋、長沙太守韓玄、桂陽太守趙範、零陵太守劉度皆降。",
+          "citation": "《三國志·蜀書二 先主傳第二 先主傳》",
+          "note": "零陵太守劉度於建安十四年（209）劉備南征四郡時降。"
+        },
+        {
+          "id": "liudu-hygz-xianzhu-nanzheng",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 11,
+          "from": "先主南",
+          "through": "零陵太守劉度皆降",
+          "citation": "《華陽國志》卷六·四部叢刊本",
+          "note": "《華陽國志》對同一南征四郡皆降的平行記載，與《先主傳》互證。"
+        }
+      ],
       "exclusions": [
         {
           "id": "liudu-excl-001",
@@ -189791,6 +189812,15 @@
           "term": "劉度",
           "quote": "荊州刺史劉度、謁者馬睦、南郡太守李肅皆奔走。",
           "reason": "段述延熹三年荊州刺史劉度遇武陵蠻寇江陵而奔走，與建安十四年零陵太守劉度同名異人；向量人名命中誤觸，排除。"
+        },
+        {
+          "id": "liudu-excl-004",
+          "work": "houhanshu",
+          "source": "a03-001",
+          "paragraph": 113,
+          "term": "劉度",
+          "quote": "太中大夫徐惲擅殺臨淮太守劉度，惲坐誅。",
+          "reason": "段出《後漢書·光武帝紀》，臨淮太守劉度為建武年間人，與建安十四年（209）零陵太守劉度相去一百六十餘年，同名異人；向量人名命中誤觸，排除。"
         }
       ],
       "unresolved": []
