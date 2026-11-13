@@ -191339,6 +191339,33 @@
           "term": "劉繇",
           "quote": "劉繇棄軍遁逃，諸郡守皆捐城郭奔走。",
           "reason": "孫策平定江東、劉繇遁逃及嚴白虎等事，未提樊能、橫江，與樊能屯橫江拒策無直接關聯，排除。"
+        },
+        {
+          "id": "fanneng-excl-sunhuan-yidao",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 9,
+          "term": "孫桓",
+          "quote": "初，孫桓別討備前鋒於夷道，為備所圍，求救於遜。",
+          "reason": "夷陵之戰孫桓被圍、陸遜不救事，未提樊能、橫江，與樊能屯橫江拒策無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-huanhuo-shu",
+          "work": "jinshu",
+          "source": "a05-074-ahcb",
+          "paragraph": 8,
+          "term": "桓豁",
+          "quote": "苻堅寇蜀，豁遣江夏相竺瑤距之。",
+          "reason": "東晉桓豁拒苻堅寇蜀、涼州邊事，未提樊能，與樊能屯橫江拒策無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-shenchong-suijun",
+          "work": "jinshu",
+          "source": "a05-098-ahcb",
+          "paragraph": 23,
+          "term": "沈充",
+          "quote": "沈充自吳率眾萬餘人至，與含等合。",
+          "reason": "東晉沈充附王含、蘇峻之亂事，未提樊能，與樊能屯橫江拒策無關，排除。"
         }
       ],
       "unresolved": []
