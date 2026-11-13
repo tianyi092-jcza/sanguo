@@ -194479,15 +194479,19 @@
     {
       "id": "p0355",
       "name": "馮習",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 7 條、排除 20 條；向量候選已枯竭（重跑得 0 段）、unresolved 0。馮習無獨立本傳，事蹟散見《三國志·先主傳》《潘璋傳》《陸遜傳》及楊戲《季漢輔臣贊》；三國志全文提及「馮習」者僅先主傳、潘璋傳、陸遜傳 4 段，均已摘錄，輔臣贊以字「休元」稱之，亦已摘錄。後漢書、晉書全文無「馮習」「馮休元」字樣，候選皆為「章武二年從征吳，猇亭戰死」事件信號誤命中；華陽國志僅劉先主志兩段提及，均已摘錄。",
+        "生平主線：馮習，字休元，南郡人，隨先主入蜀；先主東征吳，習為領軍統諸軍，陸遜傳作大督。章武元年（221）秋七月，習與吳班自巫攻破李異等，軍次秭歸；章武二年（222）夏六月猇亭大敗，馮習、張南皆沒。先主傳、潘璋傳、陸遜傳、季漢輔臣贊、華陽國志五處互證。",
+        "卒年：章武二年（222），猇亭之役戰死；生年不詳，僅知隨先主入蜀前已在荊州活動，不能倒推生年。裴注層面：先主傳 a04-032:22 段內含裴注句，已隨該段摘錄；全庫檢索無其他裴注段提及馮習。"
+      ],
       "excerpts": [
         {
           "id": "fengxi-sgz-yangxi-zan",
