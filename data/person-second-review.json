@@ -191312,6 +191312,33 @@
           "term": "虞翻",
           "quote": "策好馳騁游獵，翻諫曰：",
           "reason": "虞翻諫孫策游獵、討山越事，未提樊能、橫江，與樊能屯橫江拒策無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-zhugedan-zhuyi",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 18,
+          "term": "諸葛誕",
+          "quote": "吳將朱異再以大衆來迎誕等",
+          "reason": "諸葛誕壽春之亂、孫綝殺朱異事，未提樊能，與樊能屯橫江拒孫策無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-huanqian-jiangling",
+          "work": "jinshu",
+          "source": "a05-118-ahcb",
+          "paragraph": 14,
+          "term": "桓謙",
+          "quote": "遣其荊州刺史桓謙、梁州刺史譙道福率眾二萬東寇江陵。",
+          "reason": "譙縱遣桓謙寇江陵、劉道規枝江之戰，東晉末事，未提樊能，與樊能屯橫江拒策無關，排除。"
+        },
+        {
+          "id": "fanneng-excl-liuyao-duntiao",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 11,
+          "term": "劉繇",
+          "quote": "劉繇棄軍遁逃，諸郡守皆捐城郭奔走。",
+          "reason": "孫策平定江東、劉繇遁逃及嚴白虎等事，未提樊能、橫江，與樊能屯橫江拒策無直接關聯，排除。"
         }
       ],
       "unresolved": []
