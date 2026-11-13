@@ -189754,15 +189754,20 @@
     {
       "id": "p0344",
       "name": "劉度",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 2 條、排除 33 條；向量候選已枯竭，本傳所涉《三國志·先主傳》（a04-032）言劉度段落已全覆蓋，無遺漏。",
+        "生平主線：劉度為零陵太守；建安十四年（209）劉備南征四郡，劉度與金旋、韓玄、趙範皆降。",
+        "辨人：與金旋、韓玄、趙範等同卷人物及武威將軍劉尚等同名異人嚴格區分；向量事件命中均核實非劉度其人。",
+        "劉度無三國志本傳，事見《三國志·先主傳》；生卒年未見明載。"
+      ],
       "excerpts": [
         {
           "id": "liudu-sgz-xianzhu-nanzheng",
@@ -190064,6 +190069,24 @@
           "term": "劉度",
           "quote": "秋八月，石勒僭即皇帝位，使其將郭敬寇襄陽。南中郎將周撫退歸武昌，中州流人悉降于勒。郭敬遂寇襄陽，屯于樊城。",
           "reason": "段為晉書卷七：石勒僭位、郭敬寇襄陽事，全段未提劉度；系「南征四郡降劉備」事件向量誤觸，排除。"
+        },
+        {
+          "id": "liudu-excl-032",
+          "work": "houhanshu",
+          "source": "a03-106",
+          "paragraph": 2,
+          "term": "劉度",
+          "quote": "世祖建武二十二年九月，郡國四十二地震，南陽尤甚，地裂壓殺人。其後武谿蠻夷反，為寇害，至南郡，發荊州諸郡兵，遣武威將軍劉尚擊之，為夷所圍，復發兵赴之，尚遂為所沒。",
+          "reason": "段為建武二十二年地震、武谿蠻夷反事，所提為武威將軍劉尚而非零陵太守劉度，全段未提劉度；系「南征四郡降劉備」事件向量誤觸，排除。"
+        },
+        {
+          "id": "liudu-excl-033",
+          "work": "jinshu",
+          "source": "a05-104-ahcb",
+          "paragraph": 19,
+          "term": "劉度",
+          "quote": "苟晞、王讚謀叛勒，勒害之。以將軍左伏肅爲前鋒都尉，攻掠豫州諸郡，臨江而還，屯于葛陂，降諸夷楚，署將軍二千石以下，稅其義穀，以供軍士。",
+          "reason": "段為晉書卷一百四：苟晞、王讚謀叛石勒事，全段未提劉度；系「南征四郡降劉備」事件向量誤觸，排除。"
         }
       ],
       "unresolved": []
