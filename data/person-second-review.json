@@ -188595,6 +188595,33 @@
           "term": "留河東病死",
           "quote": "尚後爲遼東太守，數月，鮮卑率兵攻尚，與戰，破之，戎狄憚畏。",
           "reason": "記遼東太守尚卒於官事，無李樂其人；「留河東病死」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-043",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 149,
+          "term": "留河東病死",
+          "quote": "十四年春二月乙卯，東海王政薨。",
+          "reason": "記東海王政薨事，無李樂其人；「留河東病死」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-044",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 68,
+          "term": "護駕東歸",
+          "quote": "庚寅，車駕還宮。",
+          "reason": "僅記車駕還宮，無李樂其人；「護駕東歸」事件誤命中，排除。"
+        },
+        {
+          "id": "lile-excl-045",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 165,
+          "term": "護駕東歸",
+          "quote": "壬寅，車駕還宮。",
+          "reason": "僅記車駕還宮，無李樂其人；「護駕東歸」事件誤命中，排除。"
         }
       ],
       "unresolved": []
