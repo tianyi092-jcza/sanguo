@@ -190103,7 +190103,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "liuxun-hhs-yuanshu-yiqi",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 25,
+          "from": "妻子依故吏廬江太守劉勳。",
+          "through": "妻子依故吏廬江太守劉勳。",
+          "citation": "《後漢書·袁術傳》",
+          "note": "袁術死後，其妻子依故吏廬江太守劉勳。同段魏志曰引文載：勳字子台，琅邪人，與太祖有舊，為孫策破後自歸太祖、封列侯，後以驕慢犯法、誹謗免官。"
+        },
+        {
+          "id": "liuxun-hhs-huatuo-nv",
+          "work": "houhanshu",
+          "source": "a03-082b-ahcb",
+          "paragraph": 21,
+          "from": "琅邪劉勳爲河內太守，有女年幾二十，左腳膝裏上有瘡，癢而不痛。",
+          "through": "琅邪劉勳爲河內太守，有女年幾二十，左腳膝裏上有瘡，癢而不痛。",
+          "citation": "《後漢書·方術列傳·華佗傳》",
+          "note": "佗別傳載劉勳為河內太守時，其女左腳膝裏有瘡七八年不愈，華佗以犬腹取蛇治之，七日愈。"
+        },
+        {
+          "id": "liuxun-sgz-wudi-jiang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 14,
+          "from": "廬江太守劉勳率衆降，封為列侯。",
+          "through": "廬江太守劉勳率衆降，封為列侯。",
+          "citation": "《三國志·魏書一 武帝紀第一》",
+          "note": "建安四年（199）劉勳率眾降曹操，封列侯；與孫策破皖城後自歸太祖事相合。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
