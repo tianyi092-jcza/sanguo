@@ -193260,6 +193260,33 @@
           "term": "張天錫",
           "quote": "天錫數宴園池，政事頗廢。",
           "reason": "此段屬《晉書·卷八十六 張軌傳》張天錫事，索商上疏極諫、天錫答言；未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-js38-zan-xuanwusun",
+          "work": "jinshu",
+          "source": "a05-038-ahcb",
+          "paragraph": 56,
+          "term": "文宣孫子",
+          "quote": "贊曰：文宣孫子，或賢或鄙。",
+          "reason": "此段屬《晉書·卷三十八 宣五王傳》卷末贊語，論司馬懿諸子孫；未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-js49-zan-laozhuang",
+          "work": "jinshu",
+          "source": "a05-049-ahcb",
+          "paragraph": 80,
+          "term": "老篇",
+          "quote": "贊曰：老篇爰植，孔教提衡。",
+          "reason": "此段屬《晉書·卷四十九 阮籍嵇康傳》卷末贊語，論阮籍、嵇康老莊之學；未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hygz10-yangxu",
+          "work": "huayang",
+          "source": "a06-010",
+          "paragraph": 32,
+          "term": "楊序",
+          "quote": "楊序字仲桓統仲子也道業",
+          "reason": "此段屬《華陽國志·卷十 先賢志》，論王祐、楊序等蜀中先賢；其中「家法章句」指他人的章句之學，未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
         }
       ],
       "unresolved": []
