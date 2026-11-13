@@ -187461,7 +187461,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "hucai-hhs-dongzhuo-zhaobo",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "承、奉乃譎傕等與連和，而密遣閒使至河東，招故白波帥李樂、韓暹、胡才及南匈奴右賢王去卑，並率其衆數千騎來，與承、奉共擊傕等，大破之，斬首數千級，乘輿乃得進。",
+          "through": "承、奉乃譎傕等與連和，而密遣閒使至河東，招故白波帥李樂、韓暹、胡才及南匈奴右賢王去卑，並率其衆數千騎來，與承、奉共擊傕等，大破之，斬首數千級，乘輿乃得進。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "hucai-hhs-dongzhuo-houju",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "董承、李樂擁衞左右，胡才、楊奉、韓暹、去卑為後距。",
+          "through": "董承、李樂擁衞左右，胡才、楊奉、韓暹、去卑為後距。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "hucai-hhs-dongzhuo-zhengdong",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 30,
+          "from": "拜胡才征東將軍，張楊為安國將軍，皆假節、開府。",
+          "through": "拜胡才征東將軍，張楊為安國將軍，皆假節、開府。",
+          "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
