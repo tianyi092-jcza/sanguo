@@ -188188,6 +188188,33 @@
           "from": "胡才、李樂留河東，才為怨家所害，樂自病死。",
           "through": "胡才、李樂留河東，才為怨家所害，樂自病死。",
           "citation": "《後漢書·卷七十二·董卓列傳第六十二 董卓傳》"
+        },
+        {
+          "id": "lile-sgz-dongzhuo-zhaobo",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "奉急招河東故白波帥韓暹、胡才、李樂等合，與傕、汜大戰。",
+          "through": "奉急招河東故白波帥韓暹、胡才、李樂等合，與傕、汜大戰。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "lile-sgz-dongzhuo-juchuan",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "及當北渡，使李樂具船。",
+          "through": "及當北渡，使李樂具船。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
+        },
+        {
+          "id": "lile-sgz-dongzhuo-zhengbei",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 12,
+          "from": "以暹為征東、才為征西、樂征北將軍，並與奉、承持政。",
+          "through": "以暹為征東、才為征西、樂征北將軍，並與奉、承持政。",
+          "citation": "《三國志·魏書六 董二袁劉傳第六 董卓傳》"
         }
       ],
       "exclusions": [],
