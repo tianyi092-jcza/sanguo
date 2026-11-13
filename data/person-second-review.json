@@ -193233,6 +193233,33 @@
           "term": "孟子章句",
           "quote": "僕文不能盡言，言不能盡意，何文藻之有揚乎！",
           "reason": "此段屬《三國志·卷三十八 秦宓傳》，宓論君子文德、引孔子三朝等；未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-hhs30b-langyi-shangshu",
+          "work": "houhanshu",
+          "source": "a03-030b-ahcb",
+          "paragraph": 9,
+          "term": "郎顗上書",
+          "quote": "臣聞明王聖主好聞其過，忠臣孝子言無隱情。",
+          "reason": "此段屬《後漢書·卷三十下 郎顗襄楷列傳》郎顗上書言事；未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-sgz25-gaotanglong-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 40,
+          "term": "高堂隆上疏",
+          "quote": "曾子有疾，孟敬子問之。曾子曰：「鳥之將死，其鳴也哀；人之將死，其言也善。」",
+          "reason": "此段屬《三國志·卷二十五 高堂隆傳》，隆疾篤口占上疏、引曾子將死之言；未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
+        },
+        {
+          "id": "zhaoqi-excl-js86-zhangtianxi-yan",
+          "work": "jinshu",
+          "source": "a05-086-ahcb",
+          "paragraph": 65,
+          "term": "張天錫",
+          "quote": "天錫數宴園池，政事頗廢。",
+          "reason": "此段屬《晉書·卷八十六 張軌傳》張天錫事，索商上疏極諫、天錫答言；未提趙岐，與趙岐撰《孟子章句》無關，不錄。"
         }
       ],
       "unresolved": []
