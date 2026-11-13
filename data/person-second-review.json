@@ -187267,6 +187267,33 @@
           "term": "壬寅，車駕還宮",
           "quote": "壬寅，車駕還宮。",
           "reason": "段內無韓暹，係建武二十年光武帝紀事，早韓暹約一百五十年，與其無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-duji-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 8,
+          "term": "杜畿傳",
+          "quote": "杜畿傳",
+          "reason": "段內無韓暹，僅為杜畿傳篇首標題；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-js-xuandi-zhengwu",
+          "work": "jinshu",
+          "source": "a05-001-ahcb",
+          "paragraph": 12,
+          "term": "六年，天子復大興舟師征吳",
+          "quote": "六年，天子復大興舟師征吳，復命帝居守，內鎮百姓，外供軍資。",
+          "reason": "段內無韓暹，係天子征吳、命帝留鎮許昌事，與韓暹護駕東歸無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-xiyu-anxi",
+          "work": "houhanshu",
+          "source": "a03-088",
+          "paragraph": 19,
+          "term": "轉北而東，復馬行六十餘日至安息",
+          "quote": "轉北而東，復馬行六十餘日至安息。",
+          "reason": "段內無韓暹，係西域安息地理敘述，與韓暹無關；向量事件誤關聯。"
         }
       ],
       "unresolved": []
