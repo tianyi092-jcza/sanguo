@@ -187321,6 +187321,33 @@
           "term": "轉征東大將軍，復鎮壽陽。",
           "quote": "轉征東大將軍，復鎮壽陽。",
           "reason": "段內無韓暹，係晉王渾鎮壽陽、安撫吳人事，與韓暹無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-wuhuan-dongyi-biaoti",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 12,
+          "term": "東夷傳",
+          "quote": "東夷傳",
+          "reason": "段內無韓暹，僅為《烏丸鮮卑東夷傳》篇首標題；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-guangwudi-huangong",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 73,
+          "term": "車駕還宮",
+          "quote": "庚午，車駕還宮。",
+          "reason": "段內無韓暹，係建武年間光武帝還宮事，早韓暹約一百六十年，與韓暹無關；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-luxun-sunhuan-yidao",
+          "work": "sanguozhi",
+          "source": "a04-058",
+          "paragraph": 9,
+          "term": "孫桓別討備前鋒於夷道，為備所圍",
+          "quote": "初，孫桓別討備前鋒於夷道，為備所圍，求救於遜。",
+          "reason": "段內無韓暹，係黃武元年陸遜破劉備、孫桓被圍於夷道事，與韓暹無關；向量事件「護駕東歸」誤關聯。"
         }
       ],
       "unresolved": []
