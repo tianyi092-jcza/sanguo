@@ -191414,7 +191414,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "yumi-sgz-sunce-tunhengjiang",
+          "work": "sanguozhi",
+          "source": "a04-046",
+          "paragraph": 10,
+          "from": "繇遣樊能、于麋屯橫江津，張英屯當利口，以距術。",
+          "through": "繇遣樊能、于麋屯橫江津，張英屯當利口，以距術。",
+          "citation": "《三國志·吳書一 孫破虜討逆傳第一 孫策傳》",
+          "note": "劉繇為揚州刺史治曲阿，遣樊能、于麋屯橫江津、張英屯當利口以距袁術；于糜為劉繇部將，此其見載之始，時在孫策渡江之前。"
+        },
+        {
+          "id": "yumi-peizhu-jiangbiao-niuzhu",
+          "work": "peizhu",
+          "source": "a04-046",
+          "paragraph": 10,
+          "from": "而樊能、于麋等復合衆襲奪牛渚屯。",
+          "through": "策聞之，還攻破能等，獲男女萬餘人。",
+          "citation": "《三國志·吳書一 孫破虜討逆傳第一 孫策傳》裴注引《江表傳》",
+          "note": "裴注引《江表傳》：孫策渡江攻薛禮，樊能、于麋復合衆襲奪牛渚屯，策聞之還攻破之，獲男女萬餘人；與正文屯橫江分層並存。"
+        },
+        {
+          "id": "yumi-sgz-wujing-hengjiang",
+          "work": "sanguozhi",
+          "source": "a04-050",
+          "paragraph": 2,
+          "from": "術以為督軍中郎將，與孫賁共討樊能、于麋於橫江，又擊笮融、薛禮於秣陵。",
+          "through": "術以為督軍中郎將，與孫賁共討樊能、于麋於橫江，又擊笮融、薛禮於秣陵。",
+          "citation": "《三國志·吳書五 妃嬪傳第五 吳景傳》",
+          "note": "袁術以吳景為督軍中郎將，與孫賁共討樊能、于麋於橫江；與孫策傳「遣樊能、于麋屯橫江津」相合，于糜為劉繇部將。"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
