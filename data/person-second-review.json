@@ -188057,6 +188057,33 @@
           "term": "護駕東歸",
           "quote": "顧承傳",
           "reason": "此段僅為《三國志·吳書·顧陸朱張傳》卷首標題「顧承傳」，無正文內容，與胡才護駕東歸無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a05089ahcb-60",
+          "work": "jinshu",
+          "source": "a05-089-ahcb",
+          "paragraph": 60,
+          "term": "為怨家所害",
+          "quote": "玄遂害之",
+          "reason": "此段記桓玄殺殷仲堪家吏企生，與胡才為怨家所殺無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a04029-12",
+          "work": "sanguozhi",
+          "source": "a04-029",
+          "paragraph": 12,
+          "term": "為怨家所害",
+          "quote": "令人追捉殺佗",
+          "reason": "此段記郡守追殺華佗，與胡才為怨家所殺無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a05112ahcb-25",
+          "work": "jinshu",
+          "source": "a05-112-ahcb",
+          "paragraph": 25,
+          "term": "為怨家所害",
+          "quote": "獸殺七百餘人",
+          "reason": "此段記苻生時猛獸害人，與胡才為怨家所殺無關，排除。"
         }
       ],
       "unresolved": []
