@@ -189452,8 +189452,38 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "zhaofan-sgz-xianzhu-nanzheng",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 11,
+          "from": "先主表琦為荊州刺史，又南征四郡。武陵太守金旋、長沙太守韓玄、桂陽太守趙範、零陵太守劉度皆降。",
+          "through": "先主表琦為荊州刺史，又南征四郡。武陵太守金旋、長沙太守韓玄、桂陽太守趙範、零陵太守劉度皆降。",
+          "citation": "《三國志·蜀書二 先主傳第二 先主傳》"
+        },
+        {
+          "id": "zhaofan-sgz-zhaoyun-guifan",
+          "work": "sanguozhi",
+          "source": "a04-036",
+          "paragraph": 21,
+          "from": "從平江南，以為偏將軍，領桂陽太守，代趙範。",
+          "through": "範果逃走，雲無纖介。",
+          "citation": "《三國志·蜀書六 關張馬黃趙傳第六 趙雲傳》",
+          "note": "趙雲代趙範領桂陽太守；範欲以寡嫂樊氏配雲，雲以「範迫降耳，心未可測」固辭；範果逃走。與《先主傳》南征四郡皆降互證：先降後叛。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "zhaofan-excl-001",
+          "work": "jinshu",
+          "source": "a05-105-ahcb",
+          "paragraph": 39,
+          "term": "南征四郡",
+          "quote": "龍驤將軍王國叛，以南郡降于勒。晉彭城內史劉續復據蘭陵、石城，石瞻攻陷之。",
+          "reason": "段中無趙範其人，述東晉初王國降石勒、劉續據蘭陵、石瞻攻陷等事，與建安十四年劉備南征四郡無關；向量事件誤觸，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
