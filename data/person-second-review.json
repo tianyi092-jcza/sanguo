@@ -187213,6 +187213,33 @@
           "term": "桓溫攻成都",
           "quote": "三年春三月乙卯，桓溫攻成都，克之。",
           "reason": "段內無韓暹，係永和三年桓溫平蜀事，晚韓暹約一百五十年，與其無關；向量事件誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-fengjun-jiangzhou",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 87,
+          "term": "馮駿拔江州",
+          "quote": "秋七月，威虜將軍馮駿拔江州，獲田戎。",
+          "reason": "段內無韓暹，係光武建武年間事，早韓暹約一百七十年，與其無關；向量事件「為劉備所殺」誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-xianzhu-qingzhou",
+          "work": "sanguozhi",
+          "source": "a04-032",
+          "paragraph": 7,
+          "term": "先主走青州",
+          "quote": "先主走青州。青州刺史袁譚，先主故茂才也，將步騎迎先主。",
+          "reason": "段內無韓暹，係建安五年劉備投袁紹、官渡前後事，韓暹已卒於建安二年（197），與其無關；向量事件「為劉備所殺」誤關聯。"
+        },
+        {
+          "id": "hanxian-js-xuandi-dongduhe",
+          "work": "jinshu",
+          "source": "a05-028-ahcb",
+          "paragraph": 52,
+          "term": "乃乘追鋒車東渡河",
+          "quote": "景初初，童謠曰：「阿公阿公駕馬車，不意阿公東渡河，阿公來還當柰何！」",
+          "reason": "段內無韓暹，係景初年間司馬懿東渡河事，晚韓暹約四十年，與其無關；向量事件「護駕東歸」誤關聯。"
         }
       ],
       "unresolved": []
