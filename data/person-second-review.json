@@ -187348,6 +187348,33 @@
           "term": "孫桓別討備前鋒於夷道，為備所圍",
           "quote": "初，孫桓別討備前鋒於夷道，為備所圍，求救於遜。",
           "reason": "段內無韓暹，係黃武元年陸遜破劉備、孫桓被圍於夷道事，與韓暹無關；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-js-yufu-sinan-che",
+          "work": "jinshu",
+          "source": "a05-025-ahcb",
+          "paragraph": 15,
+          "term": "司南車，一名指南車",
+          "quote": "司南車，一名指南車，駕四馬，其下制如樓，三級，四角金龍銜羽葆，刻木爲仙人。衣羽衣，立車上，車雖回運而手常南指。大駕出行，爲先啟之乘。",
+          "reason": "段內無韓暹，係晉書輿服志述司南車制度，與韓暹無關；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-hhs-shundi-xianbei-liaodong",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 82,
+          "term": "鮮卑寇遼東",
+          "quote": "鮮卑寇遼東。",
+          "reason": "段內無韓暹，係後漢書孝順帝紀記鮮卑寇遼東事，與韓暹無關；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-guanning-title",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 27,
+          "term": "管寧傳",
+          "quote": "管寧傳",
+          "reason": "段內無韓暹，係三國志卷十一管寧傳篇首標題，與韓暹無關；向量事件「護駕東歸」誤關聯。"
         }
       ],
       "unresolved": []
