@@ -187868,6 +187868,33 @@
           "term": "盜賊",
           "quote": "然則盜賊何從而銷，太平何由而作乎？",
           "reason": "此段言吏治訟獄、盜賊之弊，未言胡才，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a05042-6",
+          "work": "jinshu",
+          "source": "a05-042",
+          "paragraph": 6,
+          "term": "護駕東歸",
+          "quote": "時吳人新附，頗懷畏懼。",
+          "reason": "此段為《晉書·王渾傳》，言王渾鎮壽陽、撫循江東新附之士，未言胡才護駕東歸，與胡才無關，排除。"
+        },
+        {
+          "id": "hucai-excl-a04030-12",
+          "work": "sanguozhi",
+          "source": "a04-030",
+          "paragraph": 12,
+          "term": "護駕東歸",
+          "quote": "東夷傳",
+          "reason": "此段僅為卷首「東夷傳」篇名，無正文內容，未言胡才，排除。"
+        },
+        {
+          "id": "hucai-excl-a03001bahcb-73",
+          "work": "houhanshu",
+          "source": "a03-001b-ahcb",
+          "paragraph": 73,
+          "term": "護駕東歸",
+          "quote": "庚午，車駕還宮。",
+          "reason": "此段僅記庚午車駕還宮，未言胡才護駕東歸，與胡才無關，排除。"
         }
       ],
       "unresolved": []
