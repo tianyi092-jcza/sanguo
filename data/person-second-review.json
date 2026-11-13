@@ -187375,6 +187375,33 @@
           "term": "管寧傳",
           "quote": "管寧傳",
           "reason": "段內無韓暹，係三國志卷十一管寧傳篇首標題，與韓暹無關；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-js-xuandi-zhenxuchang",
+          "work": "jinshu",
+          "source": "a05-001",
+          "paragraph": 6,
+          "term": "天子南巡，觀兵吳疆",
+          "quote": "五年，天子南巡，觀兵吳疆。帝留鎮許昌，改封向鄉侯，轉撫軍、假節，領兵五千，加給事中、錄尚書事。",
+          "reason": "段內無韓暹，係晉書卷一宣帝紀記司馬懿留鎮許昌事，與韓暹無關；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-sunfu-title",
+          "work": "sanguozhi",
+          "source": "a04-051",
+          "paragraph": 11,
+          "term": "孫輔傳",
+          "quote": "孫輔傳",
+          "reason": "段內無韓暹，係三國志卷五十一孫輔傳篇首標題，與韓暹無關；向量事件「護駕東歸」誤關聯。"
+        },
+        {
+          "id": "hanxian-sgz-sunquan-chutong",
+          "work": "sanguozhi",
+          "source": "a04-055",
+          "paragraph": 29,
+          "term": "策薨，權年少，初統事",
+          "quote": "策薨，權年少，初統事，太妃憂之，引見張昭及襲等，問江東可保安不。",
+          "reason": "段內無韓暹，係孫策薨後孫權初統江東事，與韓暹無關；向量事件「護駕東歸」誤關聯。"
         }
       ],
       "unresolved": []
