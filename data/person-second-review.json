@@ -190094,15 +190094,20 @@
     {
       "id": "p0345",
       "name": "劉勳",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 23 條、排除 48 條；向量候選已枯竭，本傳所涉《三國志·吳書一 孫策傳》（a04-046）言劉勳段落已全覆蓋，無遺漏。",
+        "生平主線：劉勳字子台，琅邪人；中平末為沛國建平長，與曹操有舊；後為袁術故吏、廬江太守；建安四年（199）孫策襲破皖城、尋陽破勳，勳自歸曹操，封列侯；歸曹後歷河內太守、征虜將軍、平虜將軍，封華鄉侯；建安十年（205）後與曹丕論劍，建安十三年（208）在鄴與曹洪同列，建安十八年（213）以平虜將軍列名勸進九錫；後以驕慢犯法、誹謗免官，終以不軌伏法被誅。",
+        "辨人：與虎牙劉勳（早死於袁紹之手）等同名異人嚴格區分；與孫策、孫權、周瑜、程普、韓當、陳武、董襲等同役人物及袁術、陸康分開；向量事件「孫策襲破皖城」誤配候選均核實排除。",
+        "劉勳無三國志本傳，事見《三國志·吳書一 孫策傳》及諸將傳、魏書諸傳與《後漢書》；生卒年未見明載，建安十八年（213）仍在世。"
+      ],
       "excerpts": [
         {
           "id": "liuxun-hhs-yuanshu-yiqi",
