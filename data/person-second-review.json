@@ -199935,6 +199935,33 @@
           "from": "甘露四年薨，謚曰穆侯。子渾嗣，咸熈中為越騎校尉。",
           "through": "甘露四年薨，謚曰穆侯。子渾嗣，咸熈中為越騎校尉。",
           "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-ziming-xiongzi",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 13,
+          "from": "其為兄子及子作名字，皆依謙實，以見其意，故兄子默字處靜，沈字處道，其子渾字玄冲，深字道冲。",
+          "through": "其為兄子及子作名字，皆依謙實，以見其意，故兄子默字處靜，沈字處道，其子渾字玄冲，深字道冲。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-yingxuan-xinye",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 17,
+          "from": "太尉司馬宣王以昶應選。",
+          "through": "乃表徙治新野，習水軍於二州，廣農墾殖，倉糓盈積。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-jianping-zhilue",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 18,
+          "from": "嘉平初，太傅司馬宣王旣誅曹爽，乃奏愽問大臣得失。昶陳治略五事：",
+          "through": "詔書襃讚。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
         }
       ],
       "exclusions": [
