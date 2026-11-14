@@ -199962,6 +199962,33 @@
           "from": "嘉平初，太傅司馬宣王旣誅曹爽，乃奏愽問大臣得失。昶陳治略五事：",
           "through": "詔書襃讚。",
           "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-jiezi-baoshen",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 14,
+          "from": "夫人為子之道，莫大於寶身全行，以顯父母。",
+          "through": "故知足之足常足矣。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-jiezi-huibang",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 15,
+          "from": "人或毀己，當退而求之於身。",
+          "through": "可不慎與！",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-jiezi-shanlin",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 16,
+          "from": "若夫山林之士，夷、叔之倫，甘長飢於首陽，安赴火於緜山，雖可以激貪勵俗，然聖人不可為，吾亦不願也。",
+          "through": "吾敬之重之，願兒子師之。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
         }
       ],
       "exclusions": [
