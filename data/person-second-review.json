@@ -196847,7 +196847,26 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "caogun-sg-bio-fenghou",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 14,
+          "from": "中山恭王衮，建安二十一年封平鄉侯。",
+          "through": "六年，改封中山。",
+          "citation": "《三國志·魏書二十 武文世王公傳第二十 中山恭王衮傳》原文"
+        },
+        {
+          "id": "caogun-sg-bio-fanjin",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 15,
+          "from": "初，衮來朝，犯京都禁。",
+          "through": "并前三千四百戶。",
+          "citation": "《三國志·魏書二十 武文世王公傳第二十 中山恭王衮傳》原文"
+        }
+      ],
       "exclusions": [
         {
           "id": "caogun-excl-001-a04-064-p42",
