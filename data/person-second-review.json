@@ -199890,9 +199890,37 @@
           "from": "轉驃騎將軍王昶從事中郎。",
           "through": "轉驃騎將軍王昶從事中郎。",
           "citation": "《晉書·卷四十三 列傳第十三 山濤傳》"
+        },
+        {
+          "id": "wangchang-jinshu-ruanji-xiangjian",
+          "work": "jinshu",
+          "source": "a05-049-ahcb",
+          "paragraph": 1,
+          "from": "兗州刺史王昶請與相見，終日不開一言，自以不能測。",
+          "through": "兗州刺史王昶請與相見，終日不開一言，自以不能測。",
+          "citation": "《晉書·卷四十九 列傳第十九 阮籍傳》"
+        },
+        {
+          "id": "wangchang-jinshu-yuanhai-diaofu",
+          "work": "jinshu",
+          "source": "a05-101-ahcb",
+          "paragraph": 5,
+          "from": "時司空太原王昶等聞而嘉之，並遣弔賻。",
+          "through": "時司空太原王昶等聞而嘉之，並遣弔賻。",
+          "citation": "《晉書·卷一百一 載記第一 劉元海傳》"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "wangchang-excl-bio-title",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 11,
+          "term": "王昶",
+          "quote": "王昶傳",
+          "reason": "段落僅為《王昶傳》篇首標題，無正文內容，無可摘錄史實，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
