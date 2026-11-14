@@ -199845,6 +199845,24 @@
           "from": "十二月，魏大將軍王昶圍南郡，荊州刺史王基攻西陵，遣將軍戴烈、陸凱往拒之，皆引還。",
           "through": "十二月，魏大將軍王昶圍南郡，荊州刺史王基攻西陵，遣將軍戴烈、陸凱往拒之，皆引還。",
           "citation": "《三國志·吳書二 吳主傳第二 孫權傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-wu-dongxing",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 3,
+          "from": "十二月朔丙申，大風雷電，魏使將軍諸葛誕、胡遵等步騎七萬圍東興，將軍王昶攻南郡，毌丘儉向武昌。",
+          "through": "十二月朔丙申，大風雷電，魏使將軍諸葛誕、胡遵等步騎七萬圍東興，將軍王昶攻南郡，毌丘儉向武昌。",
+          "citation": "《三國志·吳書三 三嗣主傳第三 孫亮傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-wu-tui",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 4,
+          "from": "庚午，王昶等皆退。",
+          "through": "庚午，王昶等皆退。",
+          "citation": "《三國志·吳書三 三嗣主傳第三 孫亮傳》"
         }
       ],
       "exclusions": [],
