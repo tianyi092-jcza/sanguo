@@ -199692,6 +199692,33 @@
           "from": "四月甲申，以征南將軍王昶為征南大將軍。",
           "through": "四月甲申，以征南將軍王昶為征南大將軍。",
           "citation": "《三國志·魏書四 三少帝紀第四》"
+        },
+        {
+          "id": "wangchang-sanguozhi-zhengwu-252",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 21,
+          "from": "冬十一月，詔征南大將軍王昶、征東將軍胡遵、鎮南將軍毌丘儉等征吳。",
+          "through": "冬十一月，詔征南大將軍王昶、征東將軍胡遵、鎮南將軍毌丘儉等征吳。",
+          "citation": "《三國志·魏書四 三少帝紀第四》"
+        },
+        {
+          "id": "wangchang-sanguozhi-biaoqijiangjun-255",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 32,
+          "from": "甲戌，以征南大將軍王昶為驃騎將軍。",
+          "through": "甲戌，以征南大將軍王昶為驃騎將軍。",
+          "citation": "《三國志·魏書四 三少帝紀第四》"
+        },
+        {
+          "id": "wangchang-sanguozhi-sikong-258",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 55,
+          "from": "秋八月甲戌，以驃騎將軍王昶為司空。",
+          "through": "秋八月甲戌，以驃騎將軍王昶為司空。",
+          "citation": "《三國志·魏書四 三少帝紀第四》"
         }
       ],
       "exclusions": [],
