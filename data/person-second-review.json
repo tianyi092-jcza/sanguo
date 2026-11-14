@@ -199427,6 +199427,24 @@
           "from": "王基即遣信都令遷掘其室中，入地八尺，果得二棺，一棺中有矛，一棺中有角弓及箭，箭乆遠，木皆消爛，但有鐵及角完耳。",
           "through": "及徙骸骨，去城一十里埋之，無復疾病。",
           "citation": "《三國志·魏書二十九 方技傳第二十九 管輅傳》"
+        },
+        {
+          "id": "wangji-sanguozhi-zhugedan-sangwangji",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 21,
+          "from": "而未及安坐，喪王基之功",
+          "through": "喪王基，語在基傳。",
+          "citation": "《三國志·魏書二十八 王毌丘諸葛鄧鍾傳第二十八 諸葛誕傳》"
+        },
+        {
+          "id": "wangji-sanguozhi-sunlin-shouchun",
+          "work": "sanguozhi",
+          "source": "a04-064",
+          "paragraph": 35,
+          "from": "魏大將軍諸葛誕舉壽春叛，保城請降。",
+          "through": "魏鎮南將軍王基圍誕，欽等突圍入城。",
+          "citation": "《三國志·吳書十九 諸葛滕二孫濮陽傳第十九 孫綝傳》"
         }
       ],
       "exclusions": [
@@ -199456,6 +199474,15 @@
           "term": "王基",
           "quote": "立十年薨，子哀王基嗣。",
           "reason": "段中「王基」為北海王劉睦之子、哀王劉基嗣位，東漢宗室，與三國魏將王基（190–261，字伯輿）同名異人；排除。"
+        },
+        {
+          "id": "wangji-excl-004",
+          "work": "sanguozhi",
+          "source": "a04-048",
+          "paragraph": 49,
+          "term": "王基",
+          "quote": "吳桓王基之以武",
+          "reason": "「王基」二字分屬「吳桓王」與「基之以武」，基為動詞「奠基」；此句指孫策奠基江東，與魏將王基（190–261，字伯輿）無關；排除。"
         }
       ],
       "unresolved": []
