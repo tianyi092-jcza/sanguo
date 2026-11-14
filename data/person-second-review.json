@@ -198906,7 +198906,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "liufang-pei-hanjin-yanwang",
+          "work": "peizhu",
+          "source": "a04-003",
+          "paragraph": 40,
+          "from": "中書監劉放、令孫資久專權寵，為朗等素所不善，懼有後害，陰圖間之，而宇常在帝側，故未得有言。",
+          "through": "於是宇、肈、獻、朗相與泣而歸第。",
+          "citation": "《三國志·魏書三 明帝紀第三》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "liufang-pei-weilue-zhaosima",
+          "work": "peizhu",
+          "source": "a04-003",
+          "paragraph": 42,
+          "from": "魏略曰：帝旣從劉放計，召司馬宣王，自力為詔，旣封，顧呼宮中常所給使者曰：「辟邪來！汝持我此詔授太尉也。」",
+          "through": "辟邪馳去。",
+          "citation": "《三國志·魏書三 明帝紀第三》裴注引《魏略》"
+        },
+        {
+          "id": "liufang-sg-zhengshi-guanglu",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 4,
+          "from": "正始元年春二月乙丑，加侍中中書監劉放、侍中中書令孫資為左右光祿大夫。",
+          "through": "正始元年春二月乙丑，加侍中中書監劉放、侍中中書令孫資為左右光祿大夫。",
+          "citation": "《三國志·魏書四 三少帝紀第四》原文"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
