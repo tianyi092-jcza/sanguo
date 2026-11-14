@@ -198439,6 +198439,24 @@
           "from": "沛穆王林傳",
           "through": "沛穆王林傳",
           "citation": "《三國志·魏書二十 武文世王公傳第二十》原文"
+        },
+        {
+          "id": "caolin-sg-bio",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 12,
+          "from": "沛穆王林，建安十六年封饒陽侯。",
+          "through": "林薨，子緯嗣。",
+          "citation": "《三國志·魏書二十 武文世王公傳第二十》原文"
+        },
+        {
+          "id": "caolin-pei-jishipu",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 12,
+          "from": "案嵇氏譜：嵇康妻，林子之女也。",
+          "through": "案嵇氏譜：嵇康妻，林子之女也。",
+          "citation": "《三國志·魏書二十 武文世王公傳第二十》原文"
         }
       ],
       "exclusions": [
@@ -198594,6 +198612,15 @@
           "term": "封沛王",
           "quote": "王廙字世將，丞相導從弟，而元帝姨弟也。",
           "reason": "《晉書》卷七十六（四庫本）第7段為東晉王廙本傳開篇，與三國沛王曹林無關；「封沛王」事件向量誤命中，排除。"
+        },
+        {
+          "id": "caolin-excl-018-a03-006-p207",
+          "work": "houhanshu",
+          "source": "a03-006",
+          "paragraph": 207,
+          "term": "封沛王",
+          "quote": "三月庚子，沛王廣薨。",
+          "reason": "《後漢書》卷六第207段「沛王廣」為東漢建康元年沛王薨逝，與三國曹林（沛王）同號異人，排除。"
         }
       ],
       "unresolved": []
