@@ -200056,6 +200056,33 @@
           "from": "及曁年過八十，起家就列；柔保官二十年，元老終位：比之徐邈、常林，於茲為疚矣。",
           "through": "及曁年過八十，起家就列；柔保官二十年，元老終位：比之徐邈、常林，於茲為疚矣。",
           "citation": "《三國志·魏書二十四 韓崔高孫王傳第二十四》"
+        },
+        {
+          "id": "xumiao-sanguozhi-zaoqi-zhongshengren",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 1,
+          "from": "徐邈字景山，燕國薊人也。",
+          "through": "後領隴西太守，轉為南安。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七》"
+        },
+        {
+          "id": "xumiao-sanguozhi-wendi-mingbuxuli",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 1,
+          "from": "文帝踐阼，歷譙相，平陽、安平太守，潁川典農中郎將，所在著稱，賜爵關內侯。",
+          "through": "遷撫軍大將軍軍師。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七》"
+        },
+        {
+          "id": "xumiao-sanguozhi-jiaoping-shi",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 10,
+          "from": "性沈實內察，不以其節檢物，所在見思。",
+          "through": "子威嗣。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七》"
         }
       ],
       "exclusions": [
