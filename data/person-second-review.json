@@ -197823,8 +197823,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "caoyu-sg-bio-title",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 9,
+          "from": "燕王宇傳",
+          "through": "燕王宇傳",
+          "citation": "《三國志·魏書二十 武文世王公傳第二十》原文"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "caoyu-excl-001-a05-068-ahcb-p8",
+          "work": "jinshu",
+          "source": "a05-068-ahcb",
+          "paragraph": 8,
+          "term": "入晉封公",
+          "quote": "由是贈榮侍中、驃騎將軍、開府儀同三司，諡曰元。及帝爲晉王，追封爲公，開國，食邑。",
+          "reason": "《晉書》卷六十八第8段為顧榮傳，言顧榮死後贈官、追封為公事；「榮」指顧榮（字彥先），與曹宇入晉封燕公事無關，全段未提「曹宇」；候選命中僅因「追封為公」事件向量相似，排除。"
+        },
+        {
+          "id": "caoyu-excl-002-a05-002-ahcb-p32",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 32,
+          "term": "入晉封公",
+          "quote": "封帝爲晉公，加九錫，進位相國",
+          "reason": "《晉書》卷二（武帝紀）第32段言咸熙二年天子封司馬昭為晉公事，「帝」指司馬昭，與曹宇入晉封燕公事無關，全段未提「曹宇」；候選命中僅因「封晉公」事件向量相似，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
