@@ -200020,8 +200020,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "xumiao-sanguozhi-sikong-248",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 16,
+          "from": "四月，以司空高柔為司徒；光祿大夫徐邈為司空，固辭不受。",
+          "through": "四月，以司空高柔為司徒；光祿大夫徐邈為司空，固辭不受。",
+          "citation": "《三國志·魏書四 三少帝紀第四》"
+        },
+        {
+          "id": "xumiao-peizhu-sunzi-baoming",
+          "work": "peizhu",
+          "source": "a04-014",
+          "paragraph": 47,
+          "from": "如征東將軍滿寵、涼州刺史徐邈，並有譖毀之者，資皆盛陳其素行，使卒無纖介。",
+          "through": "寵、邈得保其功名者，資之力也。",
+          "citation": "《三國志·魏書十四 程郭董劉蔣劉傳第十四 劉放孫資傳》裴注引《孫資別傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "xumiao-excl-liaodong-tongming",
+          "work": "peizhu",
+          "source": "a04-008",
+          "paragraph": 15,
+          "term": "徐邈",
+          "quote": "州里徐邈責之曰：「不孝莫大於無後，何可終身不娶乎！」",
+          "reason": "此徐邈為遼東襄平李敏之州里人（晉陽秋所載李敏子追父事），與本傳燕國薊人、歷涼州刺史之徐邈（字景山）非同一人，屬同名異人，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
