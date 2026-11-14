@@ -198430,8 +198430,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "caolin-sg-bio-title",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 11,
+          "from": "沛穆王林傳",
+          "through": "沛穆王林傳",
+          "citation": "《三國志·魏書二十 武文世王公傳第二十》原文"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "caolin-excl-001-a04-040-p0",
+          "work": "sanguozhi",
+          "source": "a04-040",
+          "paragraph": 0,
+          "term": "封沛王",
+          "quote": "劉封傳",
+          "reason": "《三國志》卷四十·劉封傳第0段為傳題，劉封為劉備養子，與曹林無關；「封沛王」事件向量誤命中，排除。"
+        },
+        {
+          "id": "caolin-excl-002-a03-004-p86",
+          "work": "houhanshu",
+          "source": "a03-004",
+          "paragraph": 86,
+          "term": "沛王",
+          "quote": "六月丙寅，沛王定薨。",
+          "reason": "《後漢書》卷四第86段「沛王定」為東漢沛王劉定薨逝，與三國曹林（沛王）同號異人，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
