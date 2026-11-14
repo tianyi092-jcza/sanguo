@@ -199908,6 +199908,33 @@
           "from": "時司空太原王昶等聞而嘉之，並遣弔賻。",
           "through": "時司空太原王昶等聞而嘉之，並遣弔賻。",
           "citation": "《晉書·卷一百一 載記第一 劉元海傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-ernian-fawu",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 19,
+          "from": "二年，昶奏：「孫權流放良臣，適庶分爭，可乘釁而制吳、蜀；白帝、夷陵之間，黔、巫、秭歸、房陵皆在江北，民夷與新城郡接，可襲取也。」",
+          "through": "於是遷昶征南大將軍、儀同三司，進封京陵侯。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-jianqin-zhuge-sikong",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 19,
+          "from": "毌丘儉、文欽作亂，引兵拒儉、欽有功，封二子亭侯、關內侯，進位驃騎將軍。",
+          "through": "增邑千戶，并前四千七百戶，遷司空，持節、都督如故。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-ganlu-hong",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 19,
+          "from": "甘露四年薨，謚曰穆侯。子渾嗣，咸熈中為越騎校尉。",
+          "through": "甘露四年薨，謚曰穆侯。子渾嗣，咸熈中為越騎校尉。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
         }
       ],
       "exclusions": [
