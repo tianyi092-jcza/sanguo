@@ -199719,6 +199719,33 @@
           "from": "秋八月甲戌，以驃騎將軍王昶為司空。",
           "through": "秋八月甲戌，以驃騎將軍王昶為司空。",
           "citation": "《三國志·魏書四 三少帝紀第四》"
+        },
+        {
+          "id": "wangchang-sanguozhi-sikong-259",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 57,
+          "from": "夏六月，司空王昶薨。",
+          "through": "夏六月，司空王昶薨。",
+          "citation": "《三國志·魏書四 三少帝紀第四》"
+        },
+        {
+          "id": "wangchang-sanguozhi-jiajie-guoji",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 14,
+          "from": "弈字伯益，見王昶家誡。",
+          "through": "弈字伯益，見王昶家誡。",
+          "citation": "《三國志·魏書十四 程郭董劉蔣劉傳第十四 郭嘉傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-ruanji-yanzhou",
+          "work": "sanguozhi",
+          "source": "a04-021",
+          "paragraph": 12,
+          "from": "兖州刺史王昶請與相見，終日不得與言，昶歎賞之，自以不能測也。",
+          "through": "兖州刺史王昶請與相見，終日不得與言，昶歎賞之，自以不能測也。",
+          "citation": "《三國志·魏書二十一 王衛二劉傅傳第二十一 阮籍傳》"
         }
       ],
       "exclusions": [],
