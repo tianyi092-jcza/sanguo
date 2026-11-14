@@ -199463,6 +199463,24 @@
           "from": "袤舉高陽許允、扶風魯芝、東萊王基，朗皆命之，後咸至大位，有重名。",
           "through": "袤舉高陽許允、扶風魯芝、東萊王基，朗皆命之，後咸至大位，有重名。",
           "citation": "《晉書·卷四十四 列傳第十四 鄭袤傳》"
+        },
+        {
+          "id": "wangji-jinshu-wendi-jinju-nandun",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 13,
+          "from": "帝遣荊州刺史王基進據南頓以逼儉。",
+          "through": "帝遣荊州刺史王基進據南頓以逼儉。",
+          "citation": "《晉書·卷二 本紀第二 文帝紀》"
+        },
+        {
+          "id": "wangji-jinshu-wendi-qinggong-shouchun",
+          "work": "jinshu",
+          "source": "a05-002-ahcb",
+          "paragraph": 28,
+          "from": "石苞、王基並請攻之，帝曰：「誕之逆謀，非一朝一夕也，聚糧完守，外結吳人，自謂足據淮南。",
+          "through": "石苞、王基並請攻之，帝曰：「誕之逆謀，非一朝一夕也，聚糧完守，外結吳人，自謂足據淮南。",
+          "citation": "《晉書·卷二 本紀第二 文帝紀》"
         }
       ],
       "exclusions": [
@@ -199510,6 +199528,15 @@
           "term": "王基",
           "quote": "必克成王基",
           "reason": "「王基」為「王者之基業」一般用語，此句言孫權必成王業、應運東南，非指魏將王基（190–261，字伯輿）；排除。"
+        },
+        {
+          "id": "wangji-excl-006",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 20,
+          "term": "王基",
+          "quote": "王基傳",
+          "reason": "本傳篇首標題，僅「王基傳」三字，無實質敘事；本傳開篇已錄於 a04-027:21，餘篇亦已錄；排除。"
         }
       ],
       "unresolved": []
