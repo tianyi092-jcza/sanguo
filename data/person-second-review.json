@@ -199665,7 +199665,35 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
+      "excerpts": [
+        {
+          "id": "wangchang-peizhu-jiajie-weifeng",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 39,
+          "from": "王昶家誡曰「濟陰魏諷」",
+          "through": "而此云沛人，未詳。",
+          "citation": "裴松之按語引《王昶家誡》"
+        },
+        {
+          "id": "wangchang-sanguozhi-dujiang-250",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 19,
+          "from": "乙未，征南將軍王昶渡江，掩攻吳，破之。",
+          "through": "乙未，征南將軍王昶渡江，掩攻吳，破之。",
+          "citation": "《三國志·魏書四 三少帝紀第四》"
+        },
+        {
+          "id": "wangchang-sanguozhi-zhengnandajiangjun-251",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 20,
+          "from": "四月甲申，以征南將軍王昶為征南大將軍。",
+          "through": "四月甲申，以征南將軍王昶為征南大將軍。",
+          "citation": "《三國志·魏書四 三少帝紀第四》"
+        }
+      ],
       "exclusions": [],
       "unresolved": []
     }
