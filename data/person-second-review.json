@@ -199265,8 +199265,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "wangji-sanguozhi-jingzhou-gongwu",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 20,
+          "from": "三年春正月，荊州刺史王基、新城太守州泰攻吳，破之，降者數千口。",
+          "through": "三年春正月，荊州刺史王基、新城太守州泰攻吳，破之，降者數千口。",
+          "citation": "《三國志·魏書四 三少帝紀第四》"
+        },
+        {
+          "id": "wangji-sanguozhi-wangxiu-zhiren",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 22,
+          "from": "初，脩識高柔於弱冠，異王基於幼童，終皆遠至，世稱其知人。",
+          "through": "初，脩識高柔於弱冠，異王基於幼童，終皆遠至，世稱其知人。",
+          "citation": "《三國志·魏書十一 袁張涼國田王邴管傳第十一 王修傳》"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "wangji-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-002",
+          "paragraph": 15,
+          "term": "王基",
+          "quote": "昔漢祖以秦中為國本，光武恃河內為王基，今朕復於此登壇受禪，天以此郡翼成大魏。",
+          "reason": "段中「王基」為「王業之基」之略語，指光武帝恃河內為王業根基，為一般用語，非指王基本人；黃初二年文帝詔語，非王基事蹟；排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
