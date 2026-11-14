@@ -199800,6 +199800,33 @@
           "from": "少與同郡王淩俱知名。",
           "through": "青龍中奏之。",
           "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-wangji-suizhengwu",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 24,
+          "from": "其年為尚書，出為荊州刺史，加揚烈將軍，隨征南王昶擊吳。",
+          "through": "其年為尚書，出為荊州刺史，加揚烈將軍，隨征南王昶擊吳。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王基傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-pingyue-kaiji",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 31,
+          "from": "評曰：徐邈清尚弘通，胡質素業貞粹，王昶開濟識度，王基學行堅白，皆掌統方任，垂稱著績。",
+          "through": "評曰：徐邈清尚弘通，胡質素業貞粹，王昶開濟識度，王基學行堅白，皆掌統方任，垂稱著績。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七》"
+        },
+        {
+          "id": "wangchang-peizhu-shiyu-wenshu-sikong",
+          "work": "peizhu",
+          "source": "a04-028",
+          "paragraph": 17,
+          "from": "誕曰：「我作公當在王文舒後，今便為司空！不遣使者，健步齎書，使以兵付樂綝，此必綝所為。」",
+          "through": "誕曰：「我作公當在王文舒後，今便為司空！不遣使者，健步齎書，使以兵付樂綝，此必綝所為。」",
+          "citation": "《三國志·魏書二十八 王毌丘諸葛鄧鍾傳第二十八 諸葛誕傳》裴注引《世語》"
         }
       ],
       "exclusions": [],
