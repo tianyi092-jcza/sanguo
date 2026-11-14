@@ -199117,6 +199117,33 @@
           "from": "冬十月，以特進孫資為驃騎將軍。",
           "through": "冬十月，以特進孫資為驃騎將軍。",
           "citation": "《三國志·魏書四 三少帝紀第四》原文"
+        },
+        {
+          "id": "sunzi-sg-jiaping3-zhong",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 20,
+          "from": "庚子，驃騎將軍孫資薨。",
+          "through": "庚子，驃騎將軍孫資薨。",
+          "citation": "《三國志·魏書四 三少帝紀第四》原文"
+        },
+        {
+          "id": "sunzi-sg-zhengshi1-zhao-taifu",
+          "work": "sanguozhi",
+          "source": "a04-009",
+          "paragraph": 40,
+          "from": "於是帝使中書監劉放令孫資為詔曰",
+          "through": "其以太尉為太傅。",
+          "citation": "《三國志·魏書九 諸夏侯曹傳第九 曹爽傳》原文"
+        },
+        {
+          "id": "sunzi-sg-jianan21-mishulang",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 46,
+          "from": "魏國旣建，與太原孫資俱為祕書郎。",
+          "through": "魏國旣建，與太原孫資俱為祕書郎。",
+          "citation": "《三國志·魏書十四 程郭董劉蔣劉傳第十四 劉放傳》原文"
         }
       ],
       "exclusions": [],
