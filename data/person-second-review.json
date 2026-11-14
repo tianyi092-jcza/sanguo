@@ -199198,6 +199198,33 @@
           "from": "文帝黃初初改爲中書，置監、令，以祕書左丞劉放爲中書監，右丞孫資爲中書令；監、令蓋自此始也。",
           "through": "文帝黃初初改爲中書，置監、令，以祕書左丞劉放爲中書監，右丞孫資爲中書令；監、令蓋自此始也。",
           "citation": "《晉書·卷二十四·志第十四 職官志》"
+        },
+        {
+          "id": "sunzi-sg-jingchu-tuogu",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 48,
+          "from": "其年，帝寢疾，欲以燕王宇為大將軍，及領軍將軍夏侯獻、武衞將軍曹爽、屯騎校尉曹肇、驍騎將軍秦朗共輔政。",
+          "through": "遂免宇、獻、肇、朗官。",
+          "citation": "《三國志·魏書十四 程郭董劉蔣劉傳第十四 劉放傳》原文"
+        },
+        {
+          "id": "sunzi-sg-peizhu-tuogu-ping",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 48,
+          "from": "臣松之以為孫、劉于時號為專任，制斷機密，政事無不綜。",
+          "through": "然恐負國之玷，終莫能磨也。",
+          "citation": "《三國志·魏書十四 程郭董劉蔣劉傳第十四 劉放傳》（裴松之按）"
+        },
+        {
+          "id": "sunzi-sg-pingyue-fangzi",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 49,
+          "from": "放才計優資，而自脩不如也。",
+          "through": "不專導諛言云。",
+          "citation": "《三國志·魏書十四 程郭董劉蔣劉傳第十四 劉放傳》原文"
         }
       ],
       "exclusions": [
