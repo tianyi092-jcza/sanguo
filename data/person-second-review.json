@@ -199337,6 +199337,33 @@
           "from": "王基、州泰、鄧艾、石苞典州郡，",
           "through": "王基、州泰、鄧艾、石苞典州郡，",
           "citation": "《晉書·卷二 帝紀第二 文帝紀》"
+        },
+        {
+          "id": "wangji-jinshu-wendi-nandun",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 5,
+          "from": "帝遣荊州刺史王基進據南頓以逼儉。",
+          "through": "帝遣荊州刺史王基進據南頓以逼儉。",
+          "citation": "《晉書·卷二 帝紀第二 文帝紀》"
+        },
+        {
+          "id": "wangji-jinshu-wendi-qinggong",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 9,
+          "from": "石苞、王基並請攻之，",
+          "through": "石苞、王基並請攻之，",
+          "citation": "《晉書·卷二 帝紀第二 文帝紀》"
+        },
+        {
+          "id": "wangji-jinshu-wendi-zhenxinye",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 11,
+          "from": "王基鎮新野，州泰鎮襄陽。",
+          "through": "王基鎮新野，州泰鎮襄陽。",
+          "citation": "《晉書·卷二 帝紀第二 文帝紀》"
         }
       ],
       "exclusions": [
