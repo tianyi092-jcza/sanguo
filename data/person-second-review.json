@@ -199090,6 +199090,33 @@
           "from": "正始元年春二月乙丑，加侍中中書監劉放、侍中中書令孫資為左右光祿大夫。",
           "through": "正始元年春二月乙丑，加侍中中書監劉放、侍中中書令孫資為左右光祿大夫。",
           "citation": "《三國志·魏書四 三少帝紀第四》原文"
+        },
+        {
+          "id": "sunzi-sg-zhengshi6-weijiangjun",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 11,
+          "from": "癸巳，以左光祿大夫劉放為驃騎將軍，右光祿大夫孫資為衞將軍。",
+          "through": "癸巳，以左光祿大夫劉放為驃騎將軍，右光祿大夫孫資為衞將軍。",
+          "citation": "《三國志·魏書四 三少帝紀第四》原文"
+        },
+        {
+          "id": "sunzi-sg-zhengshi9-xunwei",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 16,
+          "from": "九年春二月，衞將軍中書令孫資，癸巳，驃騎將軍中書監劉放，三月甲午，司徒衞臻，各遜位，以侯就第，位特進。",
+          "through": "九年春二月，衞將軍中書令孫資，癸巳，驃騎將軍中書監劉放，三月甲午，司徒衞臻，各遜位，以侯就第，位特進。",
+          "citation": "《三國志·魏書四 三少帝紀第四》原文"
+        },
+        {
+          "id": "sunzi-sg-jiaping2-biaoqijiangjun",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 19,
+          "from": "冬十月，以特進孫資為驃騎將軍。",
+          "through": "冬十月，以特進孫資為驃騎將軍。",
+          "citation": "《三國志·魏書四 三少帝紀第四》原文"
         }
       ],
       "exclusions": [],
