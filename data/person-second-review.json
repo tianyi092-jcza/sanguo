@@ -198668,8 +198668,37 @@
         "jinshu": "in-progress"
       },
       "conclusions": [],
-      "excerpts": [],
-      "exclusions": [],
+      "excerpts": [
+        {
+          "id": "caojun-sg-bio-title",
+          "work": "sanguozhi",
+          "source": "a04-020",
+          "paragraph": 18,
+          "from": "陳留恭王峻傳",
+          "through": "陳留恭王峻傳",
+          "citation": "《三國志·魏書二十 武文世王公傳第二十》原文"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "caojun-excl-001-a04-004-p65",
+          "work": "sanguozhi",
+          "source": "a04-004",
+          "paragraph": 65,
+          "term": "陳留王",
+          "quote": "陳留王",
+          "reason": "《三國志》卷四·三少帝紀第65段為「陳留王」小標，下段明言「陳留王諱奐，字景明，武帝孫，燕王宇子也」，指魏元帝曹奐，與陳留恭王曹峻同號異人，排除。"
+        },
+        {
+          "id": "caojun-excl-002-a03-077-p31",
+          "work": "houhanshu",
+          "source": "a03-077",
+          "paragraph": 31,
+          "term": "曹子安",
+          "quote": "此曹子安得容乎",
+          "reason": "《後漢書》卷七十七·陽球傳第31段「曹子安」見於陽球收捕王甫、曹節事，指當時中常侍曹節一黨，光和二年事，遠早於曹峻（曹操子，建安二十一年始封侯）出生，與三國陳留王曹峻無關，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
