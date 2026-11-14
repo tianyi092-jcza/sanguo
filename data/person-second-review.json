@@ -199309,7 +199309,7 @@
           "paragraph": 29,
           "from": "景元二年，襄陽太守表吳賊鄧由等欲來歸化，基被詔，當因此震蕩江表。基疑其詐，馳驛陳狀。",
           "through": "且曰：「嘉平以來，累有內難，當今之務，在於鎮安社稷，綏寧百姓，未宜動衆以求外利。」",
-          "citation": "《三國志·魏書二十七 王毌丘諸葛鄧鍾傳第二十七 王基傳》"
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王基傳》"
         },
         {
           "id": "wangji-sanguozhi-zhugedan-shouchun",
@@ -199373,6 +199373,33 @@
           "from": "其門人山陽郗慮至御史大夫，東萊王基、清河崔琰著名於世。",
           "through": "基字伯輿，魏鎮南將軍安樂鄉侯。",
           "citation": "《後漢書》卷三十五·鄭玄傳"
+        },
+        {
+          "id": "wangji-sanguozhi-ben-zhuan-zaonian",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 21,
+          "from": "王基字伯輿，東萊曲城人也。",
+          "through": "大將軍司馬宣王辟基，未至，擢為中書侍郎。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王基傳》"
+        },
+        {
+          "id": "wangji-sanguozhi-ben-zhuan-shishi",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 30,
+          "from": "是歲基薨，追贈司空，謚曰景侯。",
+          "through": "其以奴婢二人賜其家。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王基傳》"
+        },
+        {
+          "id": "wangji-sanguozhi-weiqiu-jianjun-nandun",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 10,
+          "from": "大將軍屯汝陽，使監軍王基督前鋒諸軍據南頓以待之。",
+          "through": "大將軍屯汝陽，使監軍王基督前鋒諸軍據南頓以待之。",
+          "citation": "《三國志·魏書二十八 王毌丘諸葛鄧鍾傳第二十八 毌丘儉傳》"
         }
       ],
       "exclusions": [
