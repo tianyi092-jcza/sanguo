@@ -199746,6 +199746,33 @@
           "from": "兖州刺史王昶請與相見，終日不得與言，昶歎賞之，自以不能測也。",
           "through": "兖州刺史王昶請與相見，終日不得與言，昶歎賞之，自以不能測也。",
           "citation": "《三國志·魏書二十一 王衛二劉傅傳第二十一 阮籍傳》"
+        },
+        {
+          "id": "wangchang-peizhu-biaoqing-zhengwu-252",
+          "work": "peizhu",
+          "source": "a04-021",
+          "paragraph": 36,
+          "from": "征南大將軍王昶、征東將軍胡遵、鎮南將軍毌丘儉等表請征吳。",
+          "through": "征南大將軍王昶、征東將軍胡遵、鎮南將軍毌丘儉等表請征吳。",
+          "citation": "《三國志·魏書二十一 王衛二劉傅傳第二十一 傅嘏傳》裴注引司馬彪《戰略》"
+        },
+        {
+          "id": "wangchang-sanguozhi-luyu-tuiju-256",
+          "work": "sanguozhi",
+          "source": "a04-022",
+          "paragraph": 35,
+          "from": "遷為司空，固推驃騎將軍王昶、光祿大夫王觀、司隷校尉王祥。",
+          "through": "遷為司空，固推驃騎將軍王昶、光祿大夫王觀、司隷校尉王祥。",
+          "citation": "《三國志·魏書二十二 桓二陳徐衛盧傳第二十二 盧毓傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-dushu-jianchai",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 4,
+          "from": "魏名臣奏載黃門侍郎杜恕表，稱：「韓觀、王昶，信有兼才，高官重任，不但三州。」",
+          "through": "魏名臣奏載黃門侍郎杜恕表，稱：「韓觀、王昶，信有兼才，高官重任，不但三州。」",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 徐邈傳》"
         }
       ],
       "exclusions": [],
