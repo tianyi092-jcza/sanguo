@@ -199863,6 +199863,33 @@
           "from": "庚午，王昶等皆退。",
           "through": "庚午，王昶等皆退。",
           "citation": "《三國志·吳書三 三嗣主傳第三 孫亮傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-wu-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 17,
+          "from": "明年，魏征南將軍王昶率衆攻江陵城，不克而退。",
+          "through": "明年，魏征南將軍王昶率衆攻江陵城，不克而退。",
+          "citation": "《三國志·吳書十一 朱治朱然呂範朱桓傳第十一 朱然傳》"
+        },
+        {
+          "id": "wangchang-jinshu-dudusifang-252",
+          "work": "jinshu",
+          "source": "a05-002",
+          "paragraph": 2,
+          "from": "諸葛誕、毌丘儉、王昶、陳泰、胡遵都督四方",
+          "through": "諸葛誕、毌丘儉、王昶、陳泰、胡遵都督四方",
+          "citation": "《晉書·卷二 ‧ 帝紀第二 文帝紀》"
+        },
+        {
+          "id": "wangchang-jinshu-biaoqi-congshi",
+          "work": "jinshu",
+          "source": "a05-043-ahcb",
+          "paragraph": 2,
+          "from": "轉驃騎將軍王昶從事中郎。",
+          "through": "轉驃騎將軍王昶從事中郎。",
+          "citation": "《晉書·卷四十三 列傳第十三 山濤傳》"
         }
       ],
       "exclusions": [],
