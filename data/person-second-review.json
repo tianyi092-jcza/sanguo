@@ -199445,6 +199445,24 @@
           "from": "魏大將軍諸葛誕舉壽春叛，保城請降。",
           "through": "魏鎮南將軍王基圍誕，欽等突圍入城。",
           "citation": "《三國志·吳書十九 諸葛滕二孫濮陽傳第十九 孫綝傳》"
+        },
+        {
+          "id": "wangji-jinshu-shibao-daiyangzhou",
+          "work": "jinshu",
+          "source": "a05-033-ahcb",
+          "paragraph": 46,
+          "from": "頃之，代王基都督揚州諸軍事。",
+          "through": "頃之，代王基都督揚州諸軍事。",
+          "citation": "《晉書·卷三十三 列傳第三 石苞傳》"
+        },
+        {
+          "id": "wangji-jinshu-zhengmao-ju",
+          "work": "jinshu",
+          "source": "a05-044-ahcb",
+          "paragraph": 1,
+          "from": "袤舉高陽許允、扶風魯芝、東萊王基，朗皆命之，後咸至大位，有重名。",
+          "through": "袤舉高陽許允、扶風魯芝、東萊王基，朗皆命之，後咸至大位，有重名。",
+          "citation": "《晉書·卷四十四 列傳第十四 鄭袤傳》"
         }
       ],
       "exclusions": [
@@ -199483,6 +199501,15 @@
           "term": "王基",
           "quote": "吳桓王基之以武",
           "reason": "「王基」二字分屬「吳桓王」與「基之以武」，基為動詞「奠基」；此句指孫策奠基江東，與魏將王基（190–261，字伯輿）無關；排除。"
+        },
+        {
+          "id": "wangji-excl-005",
+          "work": "sanguozhi",
+          "source": "a04-056",
+          "paragraph": 5,
+          "term": "王基",
+          "quote": "必克成王基",
+          "reason": "「王基」為「王者之基業」一般用語，此句言孫權必成王業、應運東南，非指魏將王基（190–261，字伯輿）；排除。"
         }
       ],
       "unresolved": []
