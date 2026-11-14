@@ -199773,6 +199773,33 @@
           "from": "魏名臣奏載黃門侍郎杜恕表，稱：「韓觀、王昶，信有兼才，高官重任，不但三州。」",
           "through": "魏名臣奏載黃門侍郎杜恕表，稱：「韓觀、王昶，信有兼才，高官重任，不但三州。」",
           "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 徐邈傳》"
+        },
+        {
+          "id": "wangchang-sanguozhi-zishu-jiguan",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 12,
+          "from": "王昶字文舒，太原晉陽人也。",
+          "through": "王昶字文舒，太原晉陽人也。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
+        },
+        {
+          "id": "wangchang-peizhu-wangshipu-bofu",
+          "work": "peizhu",
+          "source": "a04-027",
+          "paragraph": 12,
+          "from": "案王氏譜：昶伯父柔，字叔優；父澤，字季道。",
+          "through": "叔優至北中郎將，季道代郡太守。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》裴注引王氏譜、郭林宗傳"
+        },
+        {
+          "id": "wangchang-sanguozhi-chushi-zhilun",
+          "work": "sanguozhi",
+          "source": "a04-027",
+          "paragraph": 12,
+          "from": "少與同郡王淩俱知名。",
+          "through": "青龍中奏之。",
+          "citation": "《三國志·魏書二十七 徐胡二王傳第二十七 王昶傳》"
         }
       ],
       "exclusions": [],
