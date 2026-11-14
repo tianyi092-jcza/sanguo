@@ -198978,9 +198978,37 @@
           "from": "劉放文翰，孫資勤慎，並管喉舌，權聞當時，雅亮非體，是故譏諛之聲，每過其實矣。",
           "through": "劉放文翰，孫資勤慎，並管喉舌，權聞當時，雅亮非體，是故譏諛之聲，每過其實矣。",
           "citation": "《三國志·魏書十四 程郭董劉蔣劉傳第十四》原文"
+        },
+        {
+          "id": "liufang-sg-xinpi-yongshi",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 6,
+          "from": "時中書監劉放、令孫資見信於主，制斷時政，大臣莫不交好，而毗不與往來。",
+          "through": "遂不用。",
+          "citation": "《三國志·魏書二十五 辛毗楊阜高堂隆傳第二十五 辛毗傳》原文"
         }
       ],
-      "exclusions": [],
+      "exclusions": [
+        {
+          "id": "liufang-excl-001",
+          "work": "sanguozhi",
+          "source": "a04-014",
+          "paragraph": 44,
+          "term": "劉放",
+          "quote": "劉放傳",
+          "reason": "僅為《劉放傳》篇名標題，無史實內容，排除。"
+        },
+        {
+          "id": "liufang-excl-002",
+          "work": "sanguozhi",
+          "source": "a04-028",
+          "paragraph": 14,
+          "term": "劉放",
+          "quote": "中書監劉放子熈",
+          "reason": "此段為諸葛誕傳，提及「中書監劉放子熈」僅以劉放指稱其子劉熙列名三豫，內容實為劉熙與諸葛誕等人事，非劉放本人事迹，排除。"
+        }
+      ],
       "unresolved": []
     }
   ]
