@@ -194751,15 +194751,19 @@
     {
       "id": "p0356",
       "name": "張南",
-      "status": "pilot",
+      "status": "complete",
       "coverage": {
-        "sanguozhi": "in-progress",
-        "peizhu": "in-progress",
-        "houhanshu": "in-progress",
-        "huayang": "in-progress",
-        "jinshu": "in-progress"
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
       },
-      "conclusions": [],
+      "conclusions": [
+        "本輪共錄正摘錄 3 條、排除 6 條；向量候選已枯竭（重跑得 21 段，皆無「張南」字樣，皆為「章武二年從征吳，猇亭戰死」事件信號誤命中）、unresolved 0。張南無獨立本傳，事蹟僅見《三國志·先主傳》《陸遜傳》及《華陽國志·劉先主志》；本傳補齊核對陸遜傳全文 35 段，提及「張南」者僅第 8 段，已摘錄。後漢書、晉書無確指本人的「張南」記載。",
+        "生平主線：張南，蜀漢將軍；章武二年（222）先主東征吳，南為前部，屬大督馮習麾下；夏六月猇亭大敗，馮習、張南皆沒。先主傳、陸遜傳、華陽國志三處互證。",
+        "同名異人與誤命中：袁熙部將張南（建安十年，205，與焦觸同叛袁熙、袁尚）見武帝紀、袁紹傳、後漢書袁紹傳，已排除；後漢書班超傳「雄張南道」為「雄張」與「南道」連讀，非人名；晉書天文志「張南十四星」為星官名，非人名。生年不詳，卒年章武二年（222），猇亭之役戰死。"
+      ],
       "excerpts": [
         {
           "id": "zhangnan-sgz-luxun-qianbu",
