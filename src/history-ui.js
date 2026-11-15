@@ -232,12 +232,13 @@ function tongjianSectionHTML(p){
 }
 // 裴注摘录（work==='peizhu'）整块可见渲染：层块法后裴注是整段史料，须全文呈现，
 // 不再用悬停标签（旧法下读者看不见正文，且 D1 行无 paragraph 时挂载必失败）。
-function peiCardsHTML(groups){
-  return groups.map(g=>{
+function peiCardsHTML(groups,p){
+  return groups.map((g,gi)=>{
+    const quoteId=`source-quote-${p.id}-peizhu-${gi}`;
     const src0=g.items[0]?.source||'';
     const m=src0.match(/^(a0[345])-(\d+[a-z]*)/);
     const srcLink=m?` <a href="http://www.sidneyluo.net/a/${m[1]}/${m[2]}.html" target="_blank" rel="noopener noreferrer" style="font-size:11px;color:#999">原文</a>`:'';
-    return `<article class="source-excerpt pei-excerpt"><div class="source-citation">${esc(g.citation)}${srcLink}</div>${g.items.map(pei=>`<div class="pei-block"><span class="pei-block-label">裴注</span><blockquote>${esc(pei.quote)}</blockquote></div>`).join('')}</article>`;
+    return `<article class="source-excerpt pei-excerpt"><div class="source-citation">${esc(g.citation)}${srcLink}</div>${g.items.map((pei,ii)=>`<div class="pei-block"><span class="pei-block-label">裴注</span><blockquote${ii?'':` id="${quoteId}"`}>${esc(pei.quote)}</blockquote></div>`).join('')}<button type="button" class="source-expand" aria-expanded="false" aria-controls="${quoteId}">展開全文</button></article>`;
   }).join('');
 }
 // 新三段式：一三國志（含裴注）/二晉書/三資治通鑑
@@ -258,7 +259,7 @@ function newExcerptsHTML(excerpts,p){
     html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`;
     html+=excerptCardsHTML(taGroups,p,'sanguozhi',null);
   }
-  if(peis.length)html+=peiCardsHTML(citationGroups(peis));
+  if(peis.length)html+=peiCardsHTML(citationGroups(peis),p);
   html+=`</section>`;
   // 晉書改与通鉴同模式：语料管线按卷懒加载（见 loadJinshu），不再渲染 D1 零散条目
   html+=`<section class="source-work"><h4>二 · 晉書</h4>${jinshuSectionHTML(p)}</section>`;
