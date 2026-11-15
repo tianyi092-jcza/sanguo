@@ -230,26 +230,39 @@ function tongjianSectionHTML(p){
   if(vols&&vols.length)return `<div data-tj-person="${p.id}"><span class="empty">通鑑摘錄載入中…</span></div>`;
   return '<span class="empty">未收錄與本人相關的通鑑記載。</span>';
 }
+// 裴注摘录（work==='peizhu'）整块可见渲染：层块法后裴注是整段史料，须全文呈现，
+// 不再用悬停标签（旧法下读者看不见正文，且 D1 行无 paragraph 时挂载必失败）。
+function peiCardsHTML(groups){
+  return groups.map(g=>{
+    const src0=g.items[0]?.source||'';
+    const m=src0.match(/^(a0[345])-(\d+[a-z]*)/);
+    const srcLink=m?` <a href="http://www.sidneyluo.net/a/${m[1]}/${m[2]}.html" target="_blank" rel="noopener noreferrer" style="font-size:11px;color:#999">原文</a>`:'';
+    return `<article class="source-excerpt pei-excerpt"><div class="source-citation">${esc(g.citation)}${srcLink}</div>${g.items.map(pei=>`<div class="pei-block"><span class="pei-block-label">裴注</span><blockquote>${esc(pei.quote)}</blockquote></div>`).join('')}</article>`;
+  }).join('');
+}
 // 新三段式：一三國志（含裴注）/二晉書/三資治通鑑
 function newExcerptsHTML(excerpts,p){
   const mains=excerpts.filter(x=>x.work!=='peizhu');
-  let otherMains, attached, orphans;
-  // 本传去重已在 loadExcerpts 按 bio_name 完成，此处不再过滤
-  otherMains=mains;
-  ({attached,orphans}=attachPeiNotes(otherMains,excerpts.filter(x=>x.work==='peizhu')));
+  const peis=excerpts.filter(x=>x.work==='peizhu').slice().sort((a,b)=>{
+    const sa=String(a.source||''),sb=String(b.source||'');
+    if(sa!==sb)return sa<sb?-1:1;
+    const pa=a.paragraph??-1,pb=b.paragraph??-1;
+    if(pa!==pb)return pa-pb;
+    return String(a.id||'')<String(b.id||'')?-1:1;
+  });
   let html=`<section class="source-work"><h4>一 · 三國志（含裴注）</h4>`;
   // 本传全文：从 sidneyluo 按需加载
   html+=`<div data-sl-bio="${p.id}"><span class="empty">本傳全文載入中…</span></div>`;
-  const taGroups=citationGroups(otherMains.filter(m=>m.work==='sanguozhi'));
+  const taGroups=citationGroups(mains.filter(m=>m.work==='sanguozhi'));
   if(taGroups.length){
     html+=`<div class="src" style="margin:14px 0 4px">以下為本傳以外諸傳記所載：</div>`;
-    html+=excerptCardsHTML(taGroups,p,'sanguozhi',attached);
+    html+=excerptCardsHTML(taGroups,p,'sanguozhi',null);
   }
+  if(peis.length)html+=peiCardsHTML(citationGroups(peis));
   html+=`</section>`;
   // 晉書改与通鉴同模式：语料管线按卷懒加载（见 loadJinshu），不再渲染 D1 零散条目
   html+=`<section class="source-work"><h4>二 · 晉書</h4>${jinshuSectionHTML(p)}</section>`;
   html+=`<section class="source-work"><h4>三 · 資治通鑑</h4>${tongjianSectionHTML(p)}</section>`;
-  if(orphans.length)html+=`<section class="source-work"><h4>附 · 裴注</h4><article class="source-excerpt"><div class="source-citation">所注正文未收錄</div>${peiNotesHTML(orphans)}</article></section>`;
   return html;
 }
 function personSourceExcerptsHTML(h,p){
