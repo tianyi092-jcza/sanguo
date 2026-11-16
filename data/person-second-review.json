@@ -1569,7 +1569,7 @@
           "source": "a04-001",
           "paragraph": 4,
           "from": "二月，卓聞兵起",
-          "through": "得夜遁去。",
+          "through": "亦引兵還。",
           "citation": "《三國志·魏書一·武帝紀》"
         },
         {
@@ -1798,8 +1798,8 @@
           "work": "sanguozhi",
           "source": "a04-001",
           "paragraph": 7,
-          "context": "四年春，軍鄄城。荊州牧劉表斷術糧道",
-          "from": "術使將劉詳屯匡亭。",
+          "context": "",
+          "from": "四年春，軍鄄城。",
           "through": "走九江。",
           "citation": "《三國志·魏書一·武帝紀》"
         },
@@ -1808,8 +1808,8 @@
           "work": "sanguozhi",
           "source": "a04-001",
           "paragraph": 7,
-          "context": "夏，太祖還軍定陶。",
-          "from": "下邳闕宣聚衆數千人，自稱天子；",
+          "context": "",
+          "from": "夏，太祖還軍定陶。",
           "through": "略任城。",
           "citation": "《三國志·魏書一·武帝紀》"
         },
@@ -1920,7 +1920,7 @@
           "source": "a04-001",
           "paragraph": 6,
           "context": "三年",
-          "from": "受降卒三十餘萬，",
+          "from": "追黃巾至濟北。",
           "through": "號為青州兵。",
           "citation": "《三國志·魏書一·武帝紀》"
         },
@@ -1930,9 +1930,49 @@
           "source": "a04-001",
           "paragraph": 6,
           "context": "三年",
-          "from": "太祖曰：「孫臏救趙而攻魏，",
+          "from": "魏書曰：諸將皆以為當還自救。",
           "through": "虜不能拔武陽必矣。」",
           "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "cao-sg-dunqiu-yudu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "context": "",
+          "from": "三年春，太祖軍頓丘，",
+          "through": "皆大破之。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-pei-weishu-yufuluo",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 6,
+          "context": "三年",
+          "from": "魏書曰：於夫羅者，南單于子也。",
+          "through": "抄略諸郡為寇。",
+          "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "cao-pei-weishu-shouzhang-battle",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 6,
+          "context": "三年",
+          "from": "魏書曰：太祖將步騎千餘人，",
+          "through": "祭而哭焉。",
+          "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "cao-sg-yuanshu-allies-defeat",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 6,
+          "context": "三年",
+          "from": "袁術與紹有隙，",
+          "through": "皆破之。",
+          "citation": "《三國志·魏書一·武帝紀》"
         },
         {
           "id": "cao-sg-weizhong-pardon",
@@ -1970,7 +2010,7 @@
           "source": "a04-001",
           "paragraph": 5,
           "context": "二年春",
-          "from": "袁紹脅韓馥",
+          "from": "秋七月，袁紹脅韓馥，",
           "through": "取兾州。",
           "citation": "《三國志·魏書一·武帝紀》"
         },
@@ -14012,6 +14052,15 @@
           "term": "袁遺",
           "quote": "英雄記曰：紹後用遺為揚州刺史，為袁術所敗。太祖稱「長大而能勤學者，惟吾與袁伯業耳。」語在文帝典論。",
           "reason": "英雄記袁遺塊（附文帝典論太祖稱語）：主體為袁遺其人（紹後用遺為揚州刺史、為袁術所敗），太祖稱「長大而能勤學者，惟吾與袁伯業耳」一語已含於正文摘錄 cao-sg-chuping-uprising 之 span 內，不另立裴注條；同段張超薦遺附語（遺字伯業、紹從兄、為長安令）亦主體袁遺，同此處置。"
+        },
+        {
+          "id": "cao-excl-378",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 6,
+          "term": "陳宮",
+          "quote": "世語曰：岱旣死，陳宮謂太祖曰：「州今無主，而王命斷絕，宮請說州中，明府尋往牧之，資之以收天下，此霸王之業也。」宮說別駕、治中曰：「今天下分裂而州無主；曹東郡，命世之才也，若迎以牧州，必寧生民。」鮑信等亦謂之然。信乃與州吏萬潛等至東郡迎太祖領兖州牧。",
+          "reason": "世語曰岱旣死塊：主體為陳宮說迎太祖領兖州牧，迎立事與曹操相關；其文已含於正文摘錄 cao-sg-yanzhou-mu 之 span 內，不另立裴注條。"
         }
       ],
       "unresolvedNote": "【2026-10-07增補】《三國志》卷六原文版第37段剩餘三段已定位：蒯越建安十九年卒、臨終與太祖書託以門戶及太祖報書（cao-sg-liubiao-kuaiyue-letter-214；正文層級附傳書信，僅作交叉證據）；裴注引《零陵先賢傳》劉先奉章詣許見太祖問答（cao-sg-liuxian-qa-lingling）；裴注引《先賢傳》周不疑事及摯虞《文章志》年十七著文論四首（cao-sg-zhoubuyi-killed；太祖遣刺客殺之）。三者皆不改動《三國志》主值。同段其餘文字（魏武故事令、職官列舉、世語表冢事）已定位或無曹操字面新命中，無剩餘待判。\n【2026-10-08增補】二十四史原文版《後漢書》三段已複核定位：卷五十七第25段陳耽與議郎曹操上言（cao-hhs-chendan-memorial-plain；與 a03-057-ahcb 第24段同段互證，光和五年事，他傳正文關於曹操早年任議郎的交叉證據）；卷六十二第19段荀悅初辟鎮東將軍曹操府（cao-hhs-xunyue-appointed-plain；與 a03-062-ahcb 第19段同段互證，辟掾交叉證據）；卷五十九第21段兩處「魏武」已裁定排除（cao-excl-106-plain；與 a03-059-ahcb 第20段同段互證，李賢注引《左傳》「魏武子」為春秋晉國魏犨之誤切假陽性）。三者均不改動《三國志》主值。",
