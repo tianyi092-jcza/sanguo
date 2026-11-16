@@ -3951,15 +3951,6 @@
           "citation": "《三國志·魏書一·武帝紀》"
         },
         {
-          "id": "cao-pei-weishu-bingshu",
-          "work": "peizhu",
-          "source": "a04-001",
-          "paragraph": 41,
-          "from": "自作兵書十萬餘言，諸將征伐，皆以新書從事。",
-          "through": "自作兵書十萬餘言，諸將征伐，皆以新書從事。",
-          "citation": "裴注引《魏書》"
-        },
-        {
           "id": "cao-sg-pingyue",
           "work": "sanguozhi",
           "source": "a04-001",
@@ -4904,9 +4895,9 @@
           "work": "peizhu",
           "source": "a04-001",
           "paragraph": 41,
-          "from": "雅性節儉，不好華麗",
+          "from": "常以送終之制",
           "through": "四篋而已。",
-          "citation": "裴注引《魏書》（魏書曰載太祖雅性節儉、預自制終亡衣服四篋；屬人物品格與送終之制追述，不與正文繫年合併）"
+          "citation": "裴注引《魏書》（魏書曰載太祖以送終之制襲稱之數繁而無益、預自制終亡衣服四篋而已；屬人物送終之制追述，不與正文繫年合併）"
         },
         {
           "id": "cao-pei-weishu-military-command-207",
@@ -4922,7 +4913,7 @@
           "work": "peizhu",
           "source": "a04-001",
           "paragraph": 41,
-          "from": "御軍三十餘年",
+          "from": "是以刱造大業，文武並施，御軍三十餘年",
           "through": "皆成樂章。",
           "citation": "裴注引《魏書》（魏書曰載太祖御軍三十餘年手不釋書、晝夜講武思經、登高必賦造詩成樂章；屬他書總評層級，不與正文繫年合併）"
         },
@@ -4932,8 +4923,8 @@
           "source": "a04-001",
           "paragraph": 41,
           "from": "及造作宮室",
-          "through": "分豪不與，",
-          "citation": "裴注引《魏書》（魏書曰載太祖造作宮室繕治器械皆盡其意、勳勞宜賞不吝千金、無功望施分毫不與；屬他書總評層級，不與正文繫年合併）"
+          "through": "四方獻御，與羣下共之。",
+          "citation": "裴注引《魏書》（魏書曰載太祖造作宮室繕治器械皆盡其意、雅性節儉後宮衣不錦繡、勳勞宜賞不吝千金、無功望施分毫不與、四方獻御與羣下共之；屬他書總評層級，不與正文繫年合併）"
         },
         {
           "id": "cao-hhs-yuanshu-heji-192",
@@ -11901,6 +11892,33 @@
           "through": "衆有五千人。",
           "citation": "裴注引《世語》",
           "note": "注文層《世語》整塊：陳留孝廉衞茲以家財資太祖，使起兵，衆有五千人。層塊法回補：此塊主體為衞茲資太祖起兵，按層塊法整塊補錄。"
+        },
+        {
+          "id": "cao-sg-final-edict-220",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 40,
+          "from": "遺令曰：「天下尚未安定",
+          "through": "葬高陵。",
+          "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "cao-pei-weishu-archery-207",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 41,
+          "from": "才力絕人，手射飛鳥",
+          "through": "獲六十三頭。",
+          "citation": "裴注引《魏書》（魏書曰載太祖才力絕人、手射飛鳥躬禽猛獸、南皮一日射雉獲六十三頭；屬他書總評層級，不與正文繫年合併）"
+        },
+        {
+          "id": "cao-pei-bowuzhi-music-occult",
+          "work": "peizhu",
+          "source": "a04-001",
+          "paragraph": 43,
+          "from": "桓譚、蔡邕善音樂",
+          "through": "亦得少多飲鴆酒。",
+          "citation": "裴注引張華《博物志》"
         }
       ],
       "conclusions": {
