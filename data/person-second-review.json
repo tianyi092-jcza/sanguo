@@ -6341,16 +6341,6 @@
           "note": "原文版正文層級：官渡之敗後審配二子為曹操所禽，袁紹疑配而逢紀解之，遂不廢配；官渡戰後處置之他傳交叉證據，不改動《三國志》主值。"
         },
         {
-          "id": "cao-hhs-yuanshao-yanzhou-table-192-plain",
-          "work": "houhanshu",
-          "source": "a03-074",
-          "paragraph": 21,
-          "from": "臣時輒承制，竊比竇融",
-          "through": "以議郎曹操權領兖州牧。",
-          "citation": "《後漢書·卷七十四上·袁紹傳》",
-          "note": "原文版正文收錄袁紹奏表自述：黃巾擾青兖後「以議郎曹操權領兖州牧」，為初平三年袁紹表請曹操領兖州牧之列傳交叉證據；表文層次，不改動《三國志》主值。"
-        },
-        {
           "id": "cao-hhs-yuanshao-general-concession-196-plain",
           "work": "houhanshu",
           "source": "a03-074",
@@ -7012,7 +7002,7 @@
           "work": "houhanshu",
           "source": "a03-074",
           "paragraph": 21,
-          "from": "以議郎曹操權領兖州牧",
+          "from": "臣時輒承制，竊比竇融",
           "through": "以梁統為武威太守。",
           "context": "臣時輒承制，竊比竇融",
           "citation": "《後漢書·卷七十四上·袁紹傳》",
