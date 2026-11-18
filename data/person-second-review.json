@@ -40766,6 +40766,24 @@
           "citation": "《三國志·卷九 ‧ 魏書九　諸夏侯曹傳第九 曹仁傳》"
         },
         {
+          "id": "cr-pei-weishu-nianling",
+          "work": "peizhu",
+          "source": "a04-009",
+          "paragraph": 22,
+          "from": "魏書曰：仁時年五十六。",
+          "through": "魏書曰：仁時年五十六。",
+          "citation": "裴注引《魏書》"
+        },
+        {
+          "id": "cr-pei-fuzi-yonglie",
+          "work": "peizhu",
+          "source": "a04-009",
+          "paragraph": 22,
+          "from": "傅子曰：曹大司馬之勇，賁、育弗加也。",
+          "through": "又分封泰弟楷、範，皆為列侯，而牛金官至後將軍。",
+          "citation": "裴注引《傅子》"
+        },
+        {
           "id": "cr-sg-crz-guandu",
           "work": "sanguozhi",
           "source": "a04-009",
