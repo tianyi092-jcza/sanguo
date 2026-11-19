@@ -57651,6 +57651,15 @@
           "through": "十二月，自安定還，留夏侯淵屯長安。",
           "citation": "《三國志·魏書一·武帝紀》",
           "note": "十六年十二月，公自安定還，留夏侯淵屯長安。層塊法回補新立（魏略注塊後正文恢復句）。"
+        },
+        {
+          "id": "xiahouyuan-sg-songjian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "from": "初，隴西宋建自稱河首平漢王，聚衆枹罕，改元，置百官，三十餘年。",
+          "through": "冬十月，屠枹罕，斬建，涼州平。",
+          "citation": "《三國志·魏書一·武帝紀》"
         }
       ],
       "exclusions": [
@@ -57914,6 +57923,501 @@
           "term": "夏侯淵",
           "quote": "冬十月，公征孫權。",
           "reason": "冬十月公征孫權事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-shemiao-napin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 33,
+          "term": "夏侯淵",
+          "quote": "秋七月，始建魏社稷宗廟。天子娉公三女為貴人，少者待年於國。",
+          "reason": "秋七月始建魏社稷宗廟、天子娉公三女為貴人事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-napin-qiju",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 33,
+          "term": "夏侯淵",
+          "quote": "獻帝起居注曰：使使持節行太常大司農安陽亭侯王邑，齎璧、帛、玄纁、絹五萬匹之鄴納娉，介者五人，皆以議郎行大夫事，副介一人。",
+          "reason": "獻帝起居注：王邑齎璧帛玄纁絹五萬匹之鄴納娉事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-jinhu-fenjun",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 33,
+          "term": "夏侯淵",
+          "quote": "九月，作金虎臺，鑿渠引漳水入白溝以通河。冬十月，分魏郡為東西部，置都尉。十一月，初置尚書、侍中、六卿。",
+          "reason": "九月作金虎臺鑿渠引漳水入白溝、冬十月分魏郡為東西部置都尉、十一月初置尚書侍中六卿事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-shangshu-renming",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 33,
+          "term": "夏侯淵",
+          "quote": "魏氏春秋曰：以荀攸為尚書令，涼茂為僕射，毛玠、崔琰、常林、徐奕、何夔為尚書，王粲、杜襲、衞覬、和洽為侍中。",
+          "reason": "魏氏春秋注：荀攸為尚書令、涼茂為僕射、毛玠等為尚書、王粲等為侍中事，夏侯淵未出場，不錄；其後馬超在漢陽、使夏侯淵討之見摘錄（xiahouyuan-sg-diwang）。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-gengji-tian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "十九年春正月，始耕籍田。",
+          "reason": "十九年春正月始耕籍田事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-zhaoqu-taochao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "南安趙衢、漢陽尹奉等討超，梟其妻子，超奔漢中。",
+          "reason": "南安趙衢、漢陽尹奉等討超、梟其妻子、超奔漢中事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-shengjun",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "省安東、永陽郡。",
+          "reason": "省安東、永陽郡事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-jiewuqiu-xing",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "安定太守毌丘興將之官，公戒之曰：「羌，胡欲與中國通，自當遣人來，慎勿遣人徃。善人難得，必將教羌、胡妄有所請求，因欲以自利；不從便為失異俗意，從之則無益事。」興至，遣校尉范陵至羌中，陵果教羌，使自請為屬國都尉。公曰：「吾預知當爾，非聖也，但更事多耳。」",
+          "reason": "安定太守毌丘興將之官、公戒之勿遣人徃羌中、范陵教羌自請為屬國都尉、公曰吾預知當爾事；皆曹操與毌丘興、羌人事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-ying-guiren-qiju",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "獻帝起居注曰：使行太常事大司農安陽亭侯王邑與宗正劉艾，皆持節，介者五人，齎束帛駟馬，及給事黃門侍郎、掖庭丞、中常侍二人，迎二貴人于魏公國。二月癸亥，又於魏公宗廟授二貴人印綬。甲子，詣魏公宮延秋門，迎貴人升車。魏遣郎中令、少府、博士、御府乘黃廄令、丞相掾屬侍送貴人。癸酉，二貴人至洧倉中，遣侍中丹將宂從虎賁前後駱驛往迎之。乙亥，二貴人入宮，御史大夫、中二千石將大夫、議郎會殿中，魏國二卿及侍中、中郎二人，與漢公卿並升殿宴。",
+          "reason": "獻帝起居注：王邑、劉艾迎二貴人于魏公國、宗廟授印綬、升車入宮會殿中宴事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-san-yue-shouxi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "三月，天子使魏公位在諸侯王上，改授金璽，赤紱、遠遊冠。",
+          "reason": "三月天子使魏公位在諸侯王上、改授金璽赤紱遠遊冠事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-shouxi-qiju",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "獻帝起居注曰：使左中郎將楊宣、亭侯裴茂持節、印授之。",
+          "reason": "獻帝起居注：楊宣、裴茂持節印授金璽事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-zhengsunquan-19",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "秋七月，公征孫權。",
+          "reason": "秋七月公征孫權事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-fugan-jian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "九州春秋曰：參軍傅幹諫曰：「治天下之大具有二，文與武也；用武則先威，用文則先德，威德足以相濟，而後王道備矣。往者天下大亂，上下失序，明公用武攘之，十平其九。今未承王命者，吳與蜀也，吳有長江之險，蜀有崇山之阻，難以威服，易以德懷。愚以為可且按甲寢兵，息軍養士，分土定封，論功行賞，若此則內外之心固，有功者勸，而天下知制矣。然後漸興學校，以導其善性而長其義節。公神武震於四海，若修文以濟之，則普天之下，無思不服矣。今舉十萬之衆，頓之長江之濵，若賊負固深藏，則士馬不能逞其能，奇變無所用其權，則大威有屈而敵心未能服矣。唯明公思虞舜舞干戚之義，全威養德，以道制勝。」公不從，軍遂無功。幹字彥材，北地人，終於丞相倉曹屬。有子曰玄。",
+          "reason": "九州春秋注：參軍傅幹諫按甲寢兵修文濟武、公不從軍遂無功、幹字彥材終於丞相倉曹屬事；皆傅幹諫事，夏侯淵未出場，不錄；其後隴西宋建、遣夏侯淵討之見摘錄（xiahouyuan-sg-songjian）。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-hefei-huan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "公自合肥還。",
+          "reason": "公自合肥還事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-fushi-fei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "十一月，漢皇后伏氏坐昔與父故屯騎校尉完書，云帝以董承被誅怨恨公，辭甚醜惡，發聞，后廢黜死，兄弟皆伏法。",
+          "reason": "十一月漢皇后伏氏坐與父完書怨恨公、后廢黜死兄弟皆伏法事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-fushi-caoman",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "曹瞞傳曰：公遣華歆勒兵入宮收后，后閉戶匿壁中。歆壞戶發壁，牽后出。帝時與御史大夫郗慮坐，后被髮徒跣過，執帝手曰：「不能復相活邪？」帝曰：「我亦不自知命在何時也。」帝謂慮曰：「郗公，天下寧有是乎！」遂將后殺之，完及宗族死者數百人。",
+          "reason": "曹瞞傳注：華歆勒兵入宮收后、后被髮徒跣執帝手、帝曰我亦不自知命在何時、遂將后殺之完及宗族死者數百人事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-mengjin-maotou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "十二月，公至孟津。天子命公置旄頭，宮殿設鍾虡。",
+          "reason": "十二月公至孟津、天子命公置旄頭宮殿設鍾虡事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-yiwei-ling",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 34,
+          "term": "夏侯淵",
+          "quote": "乙未，令曰：「夫有行之士未必能進取，進取之士未必能有行也。陳平豈篤行，蘇秦豈守信邪？而陳平定漢業，蘇秦濟弱燕。由此言之，士有偏短，庸可廢乎！有司明思此義，則士無遺滯，官無廢業矣。」又曰：「夫刑，百姓之命也，而軍中典獄者或非其人，而任以三軍死生之事，吾甚懼之。其選明達法理者，使持典刑。」於是置理曹掾屬。",
+          "reason": "乙未令：有行之士未必能進取、刑百姓之命選明達法理者使持典刑、於是置理曹掾屬事；皆曹操令事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-li-zhongnü",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "二十年春正月，天子立公中女為皇后。",
+          "reason": "二十年春正月天子立公中女為皇后事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-xinxing-jun",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "省雲中、定襄、五原、朔方郡，郡置一縣領其民，合以為新興郡。",
+          "reason": "省雲中定襄五原朔方郡、合以為新興郡事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-zheng-zhanglu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "三月，公西征張魯，至陳倉，將自武都入氐；氐人塞道，先遣張郃、朱靈等攻破之。",
+          "reason": "三月公西征張魯至陳倉、氐人塞道、先遣張郃朱靈等攻破之事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-chu-sanguan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "夏四月，公自陳倉以出散關，至河池。",
+          "reason": "夏四月公自陳倉出散關至河池事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-doumao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "氐王竇茂衆萬餘人，恃險不服，五月，公攻屠之。",
+          "reason": "氐王竇茂衆萬餘人恃險不服、五月公攻屠之事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-hansui-shou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "西平、金城諸將麴演、蔣石等共斬送韓遂首。",
+          "reason": "西平金城諸將麴演蔣石等共斬送韓遂首事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-hansui-dianlue",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "典略曰：遂字文約，始與同郡邊章俱著名西州。章為督軍從事。遂奉計詣京師，何進宿聞其名，特與相見，遂說進使誅諸閹人，進不從，乃求歸。會涼州宋揚、北宮玉等反，舉章、遂為主，章尋病卒，遂為揚等所劫，不得已，遂阻兵為亂，積三十二年，至是乃死，年七十餘矣。",
+          "reason": "典略注：韓遂字文約與邊章俱著名西州、說何進誅諸閹人、為揚等所劫阻兵為亂積三十二年至是乃死事；皆韓遂生平，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-bianzhang-ming",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "劉艾靈帝紀曰：章，一名元。",
+          "reason": "劉艾靈帝紀注：邊章一名元事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-yangping-zhanglu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "秋七月，公至陽平。張魯使弟衞與將楊昂等據陽平關，橫山築城十餘里，攻之不能拔，乃引軍還。賊見大軍退，其守備解散。公乃密遣解𢢼、高祚等乘險夜襲，大破之，斬其將楊任，進攻衞，衞等夜遁，魯潰奔巴中。公軍入南鄭，盡得魯府庫珍寶。",
+          "reason": "秋七月公至陽平、張魯使弟衞與楊昂等據陽平關橫山築城、攻之不能拔引軍還、密遣解𢢼高祚乘險夜襲大破斬楊任、魯潰奔巴中、公軍入南鄭盡得魯府庫珍寶事；皆陽平關張魯事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-wudu-shanxing",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "魏書曰：軍自武都山行千里，升降險阻，軍人勞苦；公於是大饗，莫不忘其勞。巴、漢皆降。復漢寧郡為漢中；分漢中之安陽、西城為西城郡，置太守；分錫、上庸郡，置都尉。",
+          "reason": "魏書注：軍自武都山行千里升降險阻、公大饗莫不忘其勞、巴漢皆降、復漢寧郡為漢中、分漢中安陽西城為西城郡置太守、分錫上庸郡置都尉事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-hefei-bayi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "八月，孫權圍合肥，張遼、李典擊破之。九月，巴七姓夷王朴胡、賨邑侯杜濩舉巴夷、賨民來附，",
+          "reason": "八月孫權圍合肥張遼李典擊破之、九月巴七姓夷王朴胡賨邑侯杜濩舉巴夷賨民來附事，夏侯淵未出場，不錄；句末「來附，」止於逗號，底本孫盛注插入所致。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-sunsheng-yinzhu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "孫盛曰：朴音浮。濩音戶。",
+          "reason": "孫盛注：朴音浮、濩音戶，音注無事實內容，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-fenbajun-chengzhi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "於是分巴郡，以胡為巴東太守，濩為巴西太守，皆封列侯。天子命公承制封拜諸侯守相。",
+          "reason": "於是分巴郡以胡為巴東太守濩為巴西太守皆封列侯、天子命公承制封拜諸侯守相事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-chengzhi-zhao",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "孔衍漢魏春秋曰：天子以公典任于外，臨事之賞，或宜速疾，乃命公得承制封拜諸侯守相，詔曰：「夫軍之大事，在茲賞罰，勸善懲惡，宜不旋時，故司馬法曰『賞不逾日』者，欲民速覩為善之利也。昔在中興，鄧禹入關，承制拜軍祭酒李文為河東太守，來歙又承制拜高峻為通路將軍，察其本傳，皆非先請，明臨事刻印也，斯則世祖神明，權達損益，蓋所用速示威懷而著鴻勳也。其春秋之義，大夫出疆，有專命之事，苟所以利社稷安國家而已。況君秉任二伯，師尹九有，實征夷夏，軍行蕃甸之外，失得在於斯須之間，停賞俟詔以滯世務，固非朕之所圖也。自今已後，臨事所甄，當加寵號者，其便刻印章假授，咸使忠義得相獎勵，勿有疑焉。」",
+          "reason": "孔衍漢魏春秋注：天子以公典任于外命公得承制封拜諸侯守相、詔曰軍之大事在茲賞罰勸善懲惡宜不旋時、臨事所甄當加寵號者便刻印章假授事；皆承制封拜詔事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-minghao-hou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "冬十月，始置名號侯至五大夫，與舊列侯、關內侯凡六等，以賞軍功。",
+          "reason": "冬十月始置名號侯至五大夫、與舊列侯關內侯凡六等以賞軍功事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-minghao-weishu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "魏書曰：置名號侯爵十八級，關中侯爵十七級，皆金印紫綬；又置關內外侯十六級，銅印龜紐墨綬；五大夫十五級，銅印環紐，亦墨綬，皆不食租，與舊列侯關內侯凡六等。",
+          "reason": "魏書注：置名號侯爵十八級、關中侯爵十七級皆金印紫綬、關內外侯十六級銅印龜紐墨綬、五大夫十五級銅印環紐亦墨綬皆不食租、與舊列侯關內侯凡六等事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-songzhi-xufeng",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "臣松之以為今之虛封蓋自此始。",
+          "reason": "臣松之以為今之虛封蓋自此始，松之案語無夏侯淵事蹟，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-lu-jiang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "十一月，魯自巴中將其餘衆降。封魯及五子皆為列侯。",
+          "reason": "十一月魯自巴中將其餘衆降、封魯及五子皆為列侯事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-liubei-yizhou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "劉備襲劉璋，取益州，遂據巴中；遣張郃擊之。",
+          "reason": "劉備襲劉璋取益州遂據巴中、遣張郃擊之事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-wangcan-shi",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 35,
+          "term": "夏侯淵",
+          "quote": "是行也，侍中王粲作五言詩以美其事，曰：「從軍有苦樂，但問所從誰。所從神且武，安得乆勞師？相公征關右，赫怒振天威，一舉滅獯虜，再舉服羌夷，西牧邊地賊，忽若俯拾遺。陳賞越山嶽，酒肉踰川坻，軍中多饒飫，人馬皆溢肥，徒行兼乘還，空出有餘資。拓土三千里，往反速如飛，歌舞入鄴城，所願獲無違。」",
+          "reason": "是行也侍中王粲作五言詩以美其事，王粲從軍詩述公征關右事，無夏侯淵事蹟，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-ren-tu-wan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "二十四年春正月，仁屠宛，斬音。",
+          "reason": "二十四年春正月曹仁屠宛斬侯音事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-houyin-caoman",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "曹瞞傳曰：是時南陽間苦繇役，音於是執太守東里襃，與吏民共反，與關羽連和。南陽功曹宗子卿往說音曰：「足下順民心，舉大事，遠近莫不望風；然執郡將，逆而無益，何不遣之。吾與子共戮力，比曹公軍來，關羽兵亦至矣。」音從之，即釋遣太守。子卿因夜踰城亡出，遂與太守收餘民圍音，會曹仁軍至，共滅之。",
+          "reason": "曹瞞傳注：南陽間苦繇役、侯音執太守東里襃與吏民共反與關羽連和、宗子卿說音釋遣太守、夜踰城亡出收餘民圍音、會曹仁軍至共滅之事；皆侯音反事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-xiegu-hanzhong",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "三月，王自長安出斜谷，軍遮要以臨漢中，遂至陽平。備因險拒守。",
+          "reason": "三月王自長安出斜谷軍遮要以臨漢中遂至陽平、備因險拒守事，夏侯淵未出場，不錄；其前夏侯淵與劉備戰於陽平、為備所殺見摘錄（xiahouyuan-sg-zhanyangping）。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-jilei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "九州春秋曰：時王欲還，出令曰「雞肋」，官屬不知所謂。主簿楊脩便自嚴裝，人驚問脩：「何以知之？」脩曰：「夫雞肋，棄之如可惜，食之無所得，以比漢中，知王欲還也。」",
+          "reason": "九州春秋注：王欲還出令曰雞肋、楊脩自嚴裝曰夫雞肋棄之如可惜食之無所得以比漢中知王欲還事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-huan-changan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "夏五月，引軍還長安。",
+          "reason": "夏五月引軍還長安事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-bian-hou",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "秋七月，以夫人卞氏為王后。",
+          "reason": "秋七月以夫人卞氏為王后事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-yujin-zhuguan",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "遣于禁助曹仁擊關羽。",
+          "reason": "遣于禁助曹仁擊關羽事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-hanshui-yujin",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "八月，漢水溢，灌禁軍，軍沒，羽獲禁，遂圍仁。使徐晃救之。",
+          "reason": "八月漢水溢灌禁軍軍沒、羽獲禁遂圍仁、使徐晃救之事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-zhongyou-mian",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "九月，相國鍾繇坐西曹掾魏諷反免。",
+          "reason": "九月相國鍾繇坐西曹掾魏諷反免事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-weifeng-shiyu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "世語曰：諷字子京，沛人，有惑衆才，傾動鄴都，鍾繇由是辟焉。大軍未反，諷潛結徒黨，又與長樂衞尉陳禕謀襲鄴。未及期，禕懼，告之太子，誅諷，坐死者數十人。王昶家誡曰「濟陰魏諷」，而此云沛人，未詳。",
+          "reason": "世語注：魏諷字子京沛人有惑衆才傾動鄴都、諷潛結徒黨與陳禕謀襲鄴、禕懼告之太子誅諷坐死者數十人、王昶家誡曰濟陰魏諷而此云沛人未詳事；皆魏諷反事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-huan-luoyang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "冬十月，軍還洛陽。",
+          "reason": "冬十月軍還洛陽事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-xiu-beibuwei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "曹瞞傳曰：王更脩治北部尉廨，令過於舊。",
+          "reason": "曹瞞傳注：王更脩治北部尉廨令過於舊事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-sunquan-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "孫權遣使上書，以討關羽自效。王自洛陽南征羽，未至，晃攻羽，破之，羽走，仁圍解。王軍摩陂。",
+          "reason": "孫權遣使上書以討關羽自效、王自洛陽南征羽未至晃攻羽破之羽走仁圍解、王軍摩陂事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-sunquan-chenchen",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "魏略曰：孫權上書稱臣，稱說天命。王以權書示外曰：「是兒欲踞吾著爐火上邪！」侍中陳羣、尚書桓階奏曰：「漢自安帝已來，政去公室，國統數絕，至於今者，唯有名號，尺土一民，皆非漢有，期運乆已盡，歷數乆已終，非適今日也。是以桓、靈之閒，諸明圖緯者，皆言『漢行氣盡，黃家當興』。殿下應期，十分天下而有其九，以服事漢，羣生注望，遐邇怨歎，是故孫權在遠稱臣，此天人之應，異氣齊聲。臣愚以為虞、夏不以謙辭，殷、周不吝誅放，畏天知命，無所與讓也。」",
+          "reason": "魏略注：孫權上書稱臣稱說天命、王以權書示外曰是兒欲踞吾著爐火上邪、陳羣桓階奏漢行氣盡黃家當興殿下應期十分天下而有其九畏天知命無所與讓事；皆孫權稱臣、群臣勸進事，夏侯淵未出場，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-xiaodun-quanwang",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "魏氏春秋曰：夏侯惇謂王曰：「天下咸知漢祚已盡，異代方起。自古已來，能除民害為百姓所歸者，即民主也。今殿下即戎三十餘年，功德著於黎庶，為天下所依歸，應天順民，復何疑哉！」王曰：「『施於有政，是亦為政』。若天命在吾，吾為周文王矣。」",
+          "reason": "魏氏春秋注：夏侯惇謂王天下咸知漢祚已盡異代方起、應天順民復何疑、王曰若天命在吾吾為周文王事；所記「夏侯惇」為族兄惇非本人，無夏侯淵事蹟，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-huanjie-quanwei",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "曹瞞傳及世語並云桓階勸王正位，夏侯惇以為宜先滅蜀，蜀亡則吳服，二方旣定，然後遵舜、禹之軌，王從之。及至王薨，惇追恨前言，發病卒。",
+          "reason": "曹瞞傳及世語並云桓階勸王正位、夏侯惇以為宜先滅蜀蜀亡則吳服二方旣定然後遵舜禹之軌王從之、及至王薨惇追恨前言發病卒事；所記「夏侯惇」為族兄惇非本人，無夏侯淵事蹟，不錄。"
+        },
+        {
+          "id": "xiahouyuan-excl-wudi-sunsheng-pingdun",
+          "work": "sanguozhi",
+          "source": "a04-001",
+          "paragraph": 39,
+          "term": "夏侯淵",
+          "quote": "孫盛評曰：夏侯惇恥為漢官，求受魏印，桓階方惇，有義直之節；考其傳記，世語為妄矣。",
+          "reason": "孫盛評：夏侯惇恥為漢官求受魏印、桓階方惇有義直之節、考其傳記世語為妄事；所評為夏侯惇非本人，無夏侯淵事蹟，不錄。"
         }
       ],
       "unresolved": [],
