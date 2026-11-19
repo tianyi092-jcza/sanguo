@@ -45584,7 +45584,7 @@
           "work": "huayang",
           "source": "a06-007",
           "paragraph": 17,
-          "from": "閏月魏大將軍曹爽征西將軍夏侯玄征蜀",
+          "from": "七\n年閏月魏大將軍曹爽征西將軍夏侯玄征蜀",
           "through": "羽檄交馳嚴鼓將發",
           "citation": "《華陽國志·劉後主志》",
           "note": "華陽國志劉後主志：延熙七年（魏正始五年，244）閏月，魏大將軍曹爽與征西將軍夏侯玄征蜀，王平、護軍劉敏拒興勢圍，大司馬蔣琬病中假大將軍費禕節率軍自成都赴漢中。即興勢之役的蜀方獨立記載（同事件他傳摘錄見 cs-houzhu-xingshi 等）。"
@@ -47836,6 +47836,123 @@
           "term": "曹爽",
           "quote": "芝坐爽下獄，當死，而口不訟直，志不苟免。宣帝嘉之，赦而不誅。俄而起爲使持節、領護匈奴中郎將、振威將軍、并州刺史。以綏緝有方，遷大鴻臚。",
           "reason": "記魯芝爽誅後事（坐爽下獄當死、宣帝嘉而赦之、起為使持節領護匈奴中郎將振威將軍并州刺史、以綏緝有方遷大鴻臚），主角為魯芝後續仕歷，與曹爽本人史事無關，僅「坐爽下獄」附帶提及。"
+        },
+        {
+          "id": "cs-hy-wuqi-jiangwei-a06-007-p17",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 17,
+          "term": "曹爽",
+          "quote": "呉期二三連不克果輒與費禕馬忠議以爲凉州胡\n塞之要宐以姜維爲凉州剌史銜持河右今涪水陸\n四通惟急是赴東北之便應之不艱",
+          "reason": "記吳期二三連不克、費禕馬忠議以姜維為涼州刺史、涪水陸四通事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-wan-huanfu-a06-007-p17",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 17,
+          "term": "曹爽",
+          "quote": "冬十月琬還\n鎮涪以王平爲鎮北大將軍督漢中事姜維鎮西大\n將軍凉州剌史",
+          "reason": "記冬十月蔣琬還鎮涪、以王平為鎮北大將軍督漢中事、姜維鎮西大將軍涼州刺史事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-shiyiyue-dazhe-a06-007-p17",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 17,
+          "term": "曹爽",
+          "quote": "十有一月大赦遷尚書令費褘大\n將軍録尚書事就遷江州都督鄧芝車騎將軍",
+          "reason": "記十有一月大赦、遷尚書令費禕大將軍錄尚書事、就遷江州都督鄧芝車騎將軍事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-laimin-weiqi-a06-007-p17",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 17,
+          "term": "曹爽",
+          "quote": "光禄大夫義陽來敏求共圍\n棊禕留意博奕色守自若敏曰聊試君耳君信可人",
+          "reason": "記光祿大夫來敏求與費禕共圍棊、禕留意博奕、敏曰聊試君耳事，主角為來敏（事見來敏摘錄 lm-hyj-feiyi-weiqi），無曹爽；句之收束在下段 a06-007:18。"
+        },
+        {
+          "id": "cs-hy-xiahuba-laijiang-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "右將軍夏侯覇來\n降&KR1697;子也拜車騎將軍",
+          "reason": "記右將軍夏侯霸來降、拜車騎將軍事。霸聞爽誅自疑亡入蜀，主角為夏侯霸（事見曹爽摘錄 cs-sgz-xiahouyuan-zhuan-xiahhouba，a04-009:14）；本句曹爽之誅部分已立摘 cs-hy-jiping-zhushuang。"
+        },
+        {
+          "id": "cs-hy-siyue-dazhe-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "四月大赦",
+          "reason": "記四月大赦事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-jiangwei-yongzhou-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "秋衛將軍維\n出雍州不克將軍勾安李韶降魏",
+          "reason": "記秋衛將軍姜維出雍州不克、將軍勾安李韶降魏事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-jiangwei-xiping-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "十三年衛將軍\n維復出西平不克而還",
+          "reason": "記十三年衛將軍姜維復出西平不克而還事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-sunquan-beng-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "十五年呉主孫權薨子亮\n立來告赴之如古義也",
+          "reason": "記十五年吳主孫權薨、子亮立、來告赴之如古義事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-licong-xihe-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "立子琮爲西河王",
+          "reason": "記立子琮為西河王事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-feiyi-kaifu-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "命大\n將禕開府",
+          "reason": "記命大將費禕開府事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-lvpi-chenzhi-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "尚書令吕乂卒以侍中陳祗守尚書令\n加鎮軍將軍",
+          "reason": "記尚書令呂乂卒、以侍中陳祗守尚書令、加鎮軍將軍事，無曹爽。"
+        },
+        {
+          "id": "cs-hy-feiyi-beisha-a06-007-p22",
+          "work": "huayang",
+          "source": "a06-007",
+          "paragraph": 22,
+          "term": "曹爽",
+          "quote": "十六年春正月朔魏降人郭脩因賀\n㑹手刃殺大將軍費禕扵壽謚曰敬侯禕當國名畧\n與蔣琬比而任業相繼雖典于外慶賞刑威咸咨於\n已承諸葛之成䂓因循不革故能和壹自禕殁後閹\n宦并權衛將軍維自負才兼文武加練西方風俗謂",
+          "reason": "記十六年春正月朔魏降人郭脩因賀會手刃殺大將軍費禕、諡曰敬侯、禕當國名略與蔣琬比、承諸葛之成規、禕殁後閹宦並權、衛將軍維自負才兼文武加練西方風俗事，無曹爽；句之收束在下段 a06-007:23。"
         }
       ],
       "unresolved": [],
