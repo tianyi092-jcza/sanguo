@@ -65987,7 +65987,7 @@
           "source": "a04-013",
           "paragraph": 10,
           "term": "荀彧",
-          "quote": "代荀彧為尚書令",
+          "quote": "歆至，拜議郎，參司空軍事，入為尚書，轉侍中，代荀彧為尚書令。太祖征孫權，表歆為軍師。魏國旣建，為御史大夫。文帝即王位，拜相國，封安樂鄉侯。及踐阼，改為司徒。",
           "reason": "華歆傳敘華歆拜官升遷，僅以「代荀彧為尚書令」一語帶及荀彧舊職，無荀彧本人言行事蹟，不作史實摘錄，排除。"
         },
         {
@@ -67101,6 +67101,186 @@
           "paragraph": 15,
           "quote": "棄官歸，復辟公府，舉高第，遷任城相，不行。攸以蜀漢險固，人民殷盛，乃求為蜀郡太守，道絕不得至，駐荊州。",
           "reason": "本傳正文續段：攸棄官歸，復辟公府，舉高第，遷任城相不行；以蜀漢險固、人民殷盛求為蜀郡太守，道絕不得至，駐荊州。主體為荀攸，荀彧未出現，排除。層塊法回補。"
+        },
+        {
+          "id": "xunyu-excl-135",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "遼東斬送袁尚首",
+          "through": "太祖亦不問。",
+          "reason": "正文敘田疇往弔祭袁尚首、太祖不問，田疇事蹟，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-136",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "臣松之以為田疇不應袁紹父子之命",
+          "through": "於是乃復以前爵封疇。",
+          "reason": "松之案語論田疇弔祭之非，兼敘田疇受封經過，田疇事蹟，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-137",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "先賢行狀載太祖令曰",
+          "through": "尚書令荀彧、司隷校尉鍾繇亦以為可聽。",
+          "reason": "先賢行狀載太祖令褒田疇辭賞及博議經過，全段敘田疇；荀彧僅以「尚書令荀彧亦以為可聽」一語帶及同意世子議，其本意見已見魏書載荀彧議摘錄，不另立。"
+        },
+        {
+          "id": "xunyu-excl-138",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "魏書載世子議曰",
+          "through": "免官加刑，於法為重。」",
+          "reason": "魏書載世子議論田疇辭賞，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-139",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "魏略載教曰",
+          "through": "外議欲為復使令司隷決之。」",
+          "reason": "魏略載教論田疇清高守志，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-140",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "鍾繇以為",
+          "through": "宜如世子議。」",
+          "reason": "鍾繇議論田疇辭賞，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-141",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 18,
+          "from": "臣松之案呂氏春秋",
+          "through": "賜疇從孫續爵關內侯，以奉其嗣。",
+          "reason": "松之案語辨鍾繇所引呂氏春秋，兼敘田疇卒後事，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-142",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 25,
+          "from": "後得歸，太祖辟為司空掾",
+          "through": "太祖乃止，徙署丞相徵事。",
+          "reason": "正文敘邴原辭合葬、徙署丞相徵事，邴原事蹟，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-143",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 25,
+          "from": "獻帝起居注曰",
+          "through": "太祖征吳，原從行，卒。",
+          "reason": "獻帝起居注敘邴原與王烈俱補徵事、代涼茂、從征吳卒，邴原事蹟，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-144",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 25,
+          "from": "原別傳曰：原十一而喪父",
+          "through": "軍中士大夫詣原者數百人。",
+          "reason": "原別傳敘邴原生平、求學、遼東事及太祖迎原經過，全段敘邴原；荀彧薦原對話已另立摘錄，其餘邴原事蹟不錄。"
+        },
+        {
+          "id": "xunyu-excl-145",
+          "work": "sanguozhi",
+          "source": "a04-011",
+          "paragraph": 25,
+          "from": "太祖曰：「固孤之宿心也。」",
+          "through": "太子亦不復難之。",
+          "reason": "原別傳續敘邴原見敬益重、太子問藥丸事，邴原事蹟，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-146",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 1,
+          "from": "鍾繇字元常",
+          "through": "頴川長社人也。",
+          "reason": "正文開篇記鍾繇字、郡望，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-147",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 1,
+          "from": "先賢行狀曰：鍾皓字季明",
+          "through": "太祖領兖州牧，始遣使上書。",
+          "reason": "先賢行狀敘鍾皓家世及鍾繇早年任官，全段敘鍾氏父子；荀彧僅以「主簿荀彧」列名於舉吏名單，無言行事蹟。"
+        },
+        {
+          "id": "xunyu-excl-148",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 1,
+          "from": "世語曰：太祖遣使從事王必致命天子",
+          "through": "由是太祖使命遂得通。",
+          "reason": "世語敘鍾繇說傕、汜通太祖使命，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-149",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 1,
+          "from": "後傕脅天子",
+          "through": "并錄前功封東武亭侯。",
+          "reason": "世語續敘鍾繇策謀出長安、拜官封侯，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-150",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 10,
+          "from": "魏書曰：文帝受禪，歆登壇相儀",
+          "through": "帝歎息，",
+          "reason": "魏書及華嶠譜叙敘華歆相儀受禪、徙司徒事，華歆事蹟，與荀彧無關；末句「帝歎息，」止於逗號，句之收束不在本段（孫盛曰注塊插入句中）。"
+        },
+        {
+          "id": "xunyu-excl-151",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 10,
+          "from": "孫盛曰：盛聞慶賞威刑",
+          "through": "可謂匹夫之仁，蹈道則未也。",
+          "reason": "孫盛曰論華歆受賜之非，華歆事蹟，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-152",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 10,
+          "from": "魏書曰：歆性周密",
+          "through": "可謂通而不泰，清而不介者矣。」",
+          "reason": "魏書及華嶠譜叙敘華歆周密淡財、陳羣歎譽，華歆事蹟，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-153",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 10,
+          "from": "傅子曰：敢問今之君子",
+          "through": "特賜御衣，及為其妻子男女皆作衣服。",
+          "reason": "傅子問答論華太尉積德居順、下詔賜衣，華歆事蹟，與荀彧無關。"
+        },
+        {
+          "id": "xunyu-excl-154",
+          "work": "sanguozhi",
+          "source": "a04-013",
+          "paragraph": 10,
+          "from": "魏書曰：又賜奴婢五十人",
+          "through": "又賜奴婢五十人。",
+          "reason": "魏書敘華歆受賜奴婢，華歆事蹟，與荀彧無關。"
         }
       ],
       "unresolved": []
