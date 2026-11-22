@@ -32022,9 +32022,9 @@
           "work": "sanguozhi",
           "source": "a04-017",
           "paragraph": 16,
-          "from": "郃說紹曰：「曹公兵精，往必破瓊等",
+          "from": "紹遣將淳于瓊等督運屯烏巢，太祖自將急擊之。",
           "through": "郃懼，乃歸太祖。",
-          "citation": "《三國志·魏書十七·張樂于張徐傳》"
+          "citation": "《三國志·魏書十七·張郃傳》"
         },
         {
           "id": "zhanghe-hanzhong-tuidu",
@@ -32463,6 +32463,60 @@
           "from": "後與臧霸等攻梅成，張遼、張郃等討陳蘭。",
           "through": "遼遂斬蘭、成。",
           "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "zhanghe-bio-yuanshao-guandu",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 16,
+          "from": "張郃字儁乂，河閒鄚人也。",
+          "through": "太祖與袁紹相拒於官渡，",
+          "citation": "《三國志·魏書十七·張郃傳》"
+        },
+        {
+          "id": "zhanghe-pei-hanjinchunqiu-guandu",
+          "work": "peizhu",
+          "source": "a04-017",
+          "paragraph": 16,
+          "from": "漢晉春秋曰：郃說紹曰：「公雖連勝，然勿與曹公戰也，密遣輕騎鈔絕其南，則兵自敗矣。」",
+          "through": "紹不從之。",
+          "citation": "《三國志·魏書十七·張郃傳》裴注引《漢晉春秋》"
+        },
+        {
+          "id": "zhanghe-pei-songzhi-guandu",
+          "work": "peizhu",
+          "source": "a04-017",
+          "paragraph": 16,
+          "from": "臣松之案武紀及袁紹傳並云袁紹使張郃、高覽攻太祖營，郃等聞淳于瓊破，遂來降，紹衆於是大潰。",
+          "through": "至如此傳，為紹軍先潰，懼郭圖之譖，然後歸太祖，為參錯不同矣。",
+          "citation": "《三國志·魏書十七·張郃傳》裴注臣松之案"
+        },
+        {
+          "id": "zhanghe-pei-weilue-hanzhong",
+          "work": "peizhu",
+          "source": "a04-017",
+          "paragraph": 17,
+          "from": "魏略曰：淵雖為都督，劉備憚郃而易淵。",
+          "through": "太祖乃引出漢中諸軍，郃還屯陳倉。",
+          "citation": "《三國志·魏書十七·張郃傳》裴注引《魏略》"
+        },
+        {
+          "id": "zhanghe-pei-weilue-death",
+          "work": "peizhu",
+          "source": "a04-017",
+          "paragraph": 20,
+          "from": "魏略曰：亮軍退，司馬宣王使郃追之，郃曰：「軍法，圍城必開出路，歸軍勿追。」",
+          "through": "蜀軍乘高布伏，弓弩亂發，矢中郃髀。",
+          "citation": "《三國志·魏書十七·張郃傳》裴注引《魏略》"
+        },
+        {
+          "id": "zhanghe-bio-posthumous",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 20,
+          "from": "謚曰壯侯。",
+          "through": "賜小子爵關內侯。",
+          "citation": "《三國志·魏書十七·張郃傳》"
         }
       ],
       "exclusions": [
