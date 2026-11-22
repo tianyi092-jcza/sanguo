@@ -99221,8 +99221,8 @@
           "work": "sanguozhi",
           "source": "a04-017",
           "paragraph": 22,
-          "from": "晃說奉，令與天子還洛陽，奉從其計",
-          "through": "封晃都亭侯",
+          "from": "李傕、郭汜之亂長安也，晃說奉，令與天子還洛陽，奉從其計。",
+          "through": "天子渡河至安邑，封晃都亭侯。",
           "citation": "《三國志·魏書十七·徐晃傳》"
         },
         {
@@ -99266,8 +99266,8 @@
           "work": "sanguozhi",
           "source": "a04-017",
           "paragraph": 23,
-          "from": "使晃以步騎四千人渡津。作塹柵未成",
-          "through": "太祖軍得渡。",
+          "from": "太祖至潼關，恐不得渡，召問晃。",
+          "through": "作塹柵未成，賊梁興夜將步騎五千餘人攻晃，晃擊走之，太祖軍得渡。",
           "citation": "《三國志·魏書十七·徐晃傳》"
         },
         {
@@ -99293,8 +99293,8 @@
           "work": "sanguozhi",
           "source": "a04-017",
           "paragraph": 24,
-          "from": "備遣陳式等十餘營絕馬鳴閣道，晃別征破之",
-          "through": "賊自投山谷，多死者。",
+          "from": "太祖還鄴，留晃與夏侯淵拒劉備於陽平。",
+          "through": "太祖遂自至陽平，引出漢中諸軍。",
           "citation": "《三國志·魏書十七·徐晃傳》"
         },
         {
@@ -99341,6 +99341,106 @@
           "from": "使徐晃救之。",
           "through": "使徐晃救之。",
           "citation": "《三國志·魏書一·武帝紀》"
+        },
+        {
+          "id": "xuhuang-sg-xuhuang-zi-gongming",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 22,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "徐晃字公明，河東楊人也。",
+          "through": "為郡吏，從車騎將軍楊奉討賊有功，拜騎都尉。"
+        },
+        {
+          "id": "xuhuang-sg-xuhuang-join-taizu",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 22,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "及到洛陽，韓暹、董承日爭鬬，晃說奉令歸太祖；奉欲從之，後悔。",
+          "through": "太祖討奉於梁，晃遂歸太祖。"
+        },
+        {
+          "id": "xuhuang-sg-juan-yanliang",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "太祖授晃兵，使擊卷、卷音墟權反。",
+          "through": "從破劉備，又從破顏良，拔白馬，進至延津，破文醜，拜偏將軍。"
+        },
+        {
+          "id": "xuhuang-sg-zhubi-gushi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "與曹洪擊彊賊祝臂，破之，又與史渙擊袁紹運車於故市，功最多，封都亭侯。",
+          "through": "與曹洪擊彊賊祝臂，破之，又與史渙擊袁紹運車於故市，功最多，封都亭侯。"
+        },
+        {
+          "id": "xuhuang-sg-maocheng-jiangling",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "別討毛城，設伏兵掩擊，破三屯。",
+          "through": "又與滿寵討關羽於漢津，與曹仁擊周瑜於江陵。"
+        },
+        {
+          "id": "xuhuang-sg-taiyuan-fenyin",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "十五年，討太原反者，圍大陵，拔之，斬賊帥商曜。",
+          "through": "韓遂、馬超等反關右，遣晃屯汾陰以撫河東，賜牛酒，令上先人墓。"
+        },
+        {
+          "id": "xuhuang-sg-yumi-liangxing",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "遂破超等，使晃與夏侯淵平隃麋、汧諸氐，與太祖會安定。",
+          "through": "太祖還鄴，使晃與夏侯淵平鄜、夏陽餘賊，斬梁興，降三千餘戶。"
+        },
+        {
+          "id": "xuhuang-sg-zhanglu-chenfu",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 23,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "從征張魯。",
+          "through": "擊賊陳福等三十餘屯，皆破之。"
+        },
+        {
+          "id": "xuhuang-sg-fancheng-approach",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 24,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "復遣晃助曹仁討關羽，屯宛。",
+          "through": "賊圍頭有屯，又別屯四冢。"
+        },
+        {
+          "id": "xuhuang-sg-fancheng-commendation",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 24,
+          "term": "徐晃",
+          "citation": "《三國志·魏書十七·徐晃傳》",
+          "from": "太祖令曰：「賊圍塹鹿角十重，將軍致戰全勝，遂陷賊圍，多斬首虜。吾用兵三十餘年，及所聞古之善用兵者，未有長驅徑入敵圍者也。且樊、襄陽之在圍，過於莒、即墨，將軍之功，踰孫武、穰苴。」",
+          "through": "太祖歎曰：「徐將軍可謂有周亞夫之風矣。」"
         }
       ],
       "exclusions": [
