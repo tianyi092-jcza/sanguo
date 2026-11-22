@@ -95615,10 +95615,9 @@
           "work": "sanguozhi",
           "source": "a04-017",
           "paragraph": 12,
-          "context": "從至宛，降張繡。繡復叛，太祖與戰不利，軍敗，還舞陰。",
-          "from": "是時軍亂，各間行求太祖，禁獨勒所將數百人，且戰且引，雖有死傷不相離。",
+          "from": "繡復叛，太祖與戰不利，軍敗，還舞陰。",
           "through": "於是錄禁前後功，封益壽亭侯。",
-          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　于禁傳》"
+          "citation": "《三國志·魏書十七·于禁傳》"
         },
         {
           "id": "yujin-sg-xuhuang-fancheng-yujinmo",
@@ -95820,8 +95819,8 @@
           "source": "a04-017",
           "paragraph": 13,
           "from": "昌豨復叛，遣禁征之",
-          "through": "隕涕而斬之。",
-          "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　于禁傳》"
+          "through": "益重禁。",
+          "citation": "《三國志·魏書十七·于禁傳》"
         },
         {
           "id": "yujin-sg-yujin-fancheng-jiang",
@@ -95831,6 +95830,78 @@
           "from": "建安二十四年，太祖在長安，使曹仁討關羽於樊，又遣禁助仁",
           "through": "禁遂降，惟龐悳不屈節而死。",
           "citation": "《三國志·卷十七 ‧ 魏書十七　張樂于張徐傳第十七　于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-wenze-guangwei",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "from": "于禁字文則，泰山鉅平人也。",
+          "through": "太祖召見與語，拜軍司馬，使將兵詣徐州，攻廣威，拔之，拜陷陣都尉。",
+          "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-puyang-banliang",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "from": "從討呂布於濮陽，別破布二營於城南，又別將破高雅於須昌。",
+          "through": "從征黃巾劉辟、黃邵等，屯版梁，邵等夜襲太祖營，禁帥麾下擊破之，斬辟、邵等，盡降其衆。",
+          "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-pinglu-zhangxiu",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "from": "遷平虜校尉。",
+          "through": "從至宛，降張繡。",
+          "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-rang-xiapi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 12,
+          "from": "復從攻張繡於穰，禽呂布於下邳，別與史渙、曹仁攻眭固於射犬，破斬之。",
+          "through": "復從攻張繡於穰，禽呂布於下邳，別與史渙、曹仁攻眭固於射犬，破斬之。",
+          "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-guandu-tushan",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "from": "遷裨將軍，後從還官渡。",
+          "through": "兾州平。",
+          "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-songzhi-changxi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 13,
+          "from": "臣松之以為圍而後降，法雖不赦；囚而送之，未為違命。",
+          "through": "遷左將軍，假節鉞，分邑五百戶，封一子列侯。",
+          "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-wendi-yinjian",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 14,
+          "from": "太祖聞之，哀歎者乆之，曰：「吾知禁三十年，何意臨危處難，反不如龐悳邪！」",
+          "through": "帝慰喻以荀林父、孟明視故事，",
+          "citation": "《三國志·魏書十七·于禁傳》"
+        },
+        {
+          "id": "yujin-sg-yujin-weishu-zhi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 14,
+          "from": "魏書載制曰：「昔荀林父敗績於邲，孟明喪師於殽，秦、晉不替，使復其位。其後晉獲狄土，秦霸西戎，區區小國，猶尚若斯，而況萬乘乎？樊城之敗，水災暴至，非戰之咎，其復禁等官。」",
+          "through": "謚禁曰厲侯。",
+          "citation": "《三國志·魏書十七·于禁傳》"
         }
       ],
       "exclusions": [
