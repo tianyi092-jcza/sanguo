@@ -99140,9 +99140,9 @@
           "work": "huayang",
           "source": "a06-006",
           "paragraph": 19,
-          "from": "徐晃救樊",
+          "from": "羽久不拔城魏右將\n軍徐晃救樊",
           "through": "羽退還",
-          "citation": "《華陽國志·卷六》"
+          "citation": "《華陽國志·劉先主志》"
         },
         {
           "id": "xuhuang-pei-weishu-recruit",
@@ -99276,8 +99276,8 @@
           "source": "a06-002",
           "paragraph": 16,
           "from": "魏將夏侯淵張郃徐晃征伐常由此郡",
-          "through": "魏將夏侯淵張郃徐晃征伐常由此郡而蜀丞相",
-          "citation": "《華陽國志·卷二》"
+          "through": "遂荒無晉民",
+          "citation": "《華陽國志·漢中志》"
         },
         {
           "id": "xuhuang-sg-pingyue",
@@ -99497,8 +99497,9 @@
           "source": "a05-105-ahcb",
           "paragraph": 61,
           "term": "樊城",
-          "quote": "桓宣承其虛攻樊城",
-          "reason": "向量候選以「樊城之戰」事件／樊城地名信號命中，實為晉南中郎將桓宣乘郭敬南掠之虛攻樊城事，時代遠在徐晃卒後，段中未提徐晃，與徐晃建安二十四年樊城解圍並非同一事，排除。"
+          "quote": "郭敬南掠江西，晉南中郎將桓宣承其虛攻樊城，取城中之眾而去。敬旋師救樊，追戰于涅水。敬前軍大敗，宣亦死傷太半，盡取所掠而止。宣遂南取襄陽，留軍戍之。",
+          "reason": "整段記後趙郭敬南掠江西，晉南中郎將桓宣乘其虛攻樊城、取城中之眾而去，敬旋師救樊、追戰于涅水，敬前軍大敗、宣亦死傷太半，宣遂南取襄陽、留軍戍之；桓宣攻樊城、取襄陽事，時代遠在徐晃卒後，段中未提徐晃，與徐晃建安二十四年樊城解圍並非同一事，整段排除。",
+          "citation": "《晉書·石勒載記下》"
         },
         {
           "id": "xuhuang-excl-shuzhi-hanzhong",
@@ -99570,8 +99571,9 @@
           "source": "a05-105-ahcb",
           "paragraph": 51,
           "term": "樊城",
-          "quote": "勒驛敕敬退屯樊城",
-          "reason": "向量候選以「樊城之戰」事件／樊城地名信號命中，實為後趙石勒驛敕郭敬退屯樊城、詐退嚇走周撫而入襄陽事，時代遠在徐晃卒後，段中未提徐晃，與徐晃建安二十四年樊城解圍並非同一事，排除。"
+          "quote": "勒荊州監軍郭敬、南蠻校尉董幼寇襄陽。勒驛敕敬退屯樊城，戒之使偃藏旗幟，寂若無人，彼若使人觀察，則告之曰：「自愛堅守，後七八日大騎將至，相策不復得走矣。」敬使人浴馬于津，周而復始，晝夜不絕。偵諜還告南中郎將周撫，撫以爲勒軍大至，懼而奔武昌。敬入襄陽，軍無私掠，百姓安之。晉平北將軍魏該弟遐等率該部眾自石城降于敬。敬毀襄陽，遷其百姓于沔北，城樊城以戍之。",
+          "reason": "整段記後趙石勒荊州監軍郭敬、南蠻校尉董幼寇襄陽，勒驛敕敬退屯樊城、偃藏旗幟，詐稱大騎將至，偵諜還告南中郎將周撫、撫懼而奔武昌，敬入襄陽、軍無私掠，毀襄陽、遷其百姓于沔北、城樊城以戍之；郭敬屯樊城、入襄陽事，時代遠在徐晃卒後，段中未提徐晃，與徐晃建安二十四年樊城解圍並非同一事，整段排除。",
+          "citation": "《晉書·石勒載記下》"
         },
         {
           "id": "xuhuang-excl-sg-fancheng-zhuran",
@@ -100867,6 +100869,159 @@
           "reason": "段末陸遜致關羽書後半及正文：操猾虜潛增衆、遜具啟形狀、權潛軍克公安南郡、遜領宜都封華亭事，未提徐晃，排除。",
           "work": "sanguozhi",
           "citation": "《三國志·吳書十三·陸遜傳》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-qiang",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "逺至酒泉敦煌其攻戰壘戍處所亦多",
+          "reason": "層塊法核銷：上段續句之尾，記羗人遠徙酒泉、敦煌，攻戰壘戍處所亦多，與徐晃無涉，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-leitong",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "建安二十\n四年先主遣將軍雷同吴蘭平之為魏將曺洪所破\n殺",
+          "reason": "層塊法核銷：記建安二十四年先主遣將軍雷同、吳蘭平武都，曹洪破殺之，與徐晃無涉，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-yangfu",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "魏益州刺史天水楊阜治此郡阜以濱蜀境移\n其氐傁於汧雍及天水略陽",
+          "reason": "層塊法核銷：記魏益州刺史楊阜治武都郡，以濱蜀境移其氐傁於汧、雍及天水、略陽，與徐晃無涉，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-chenjie",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "建興七年丞相諸葛\n亮遣護軍陳戒伐之遂平武都隂平二郡還屬益州\n",
+          "reason": "層塊法核銷：記建興七年丞相諸葛亮遣護軍陳戒伐武都、陰平，遂平二郡、還屬益州，與徐晃無涉，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-yangpu",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "其氐\n傁楊濮屬魏魏遙置其郡屬蜀",
+          "reason": "層塊法核銷：記氐傁楊濮屬魏，魏遙置其郡屬蜀；徐晃事見同句前半，已摘 xuhuang-huayang-wudu-route，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-shuping",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "蜀平屬雍州",
+          "reason": "層塊法核銷：「蜀平屬雍州」一句，記蜀平後武都屬雍州，與徐晃無涉，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-taikang",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "太\n康六年還梁州",
+          "reason": "層塊法核銷：「太康六年還梁州」一句，記太康六年武都還屬梁州，與徐晃無涉，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-qiwannian",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "八年氐傁齊萬年反郡罹其冦晉\n民流徙入蜀及梁州",
+          "reason": "層塊法核銷：記太康八年氐傁齊萬年反，郡罹其寇，晉民流徙入蜀及梁州，與徐晃無涉，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-wudu-yangmaosou",
+          "work": "huayang",
+          "source": "a06-002",
+          "paragraph": 16,
+          "quote": "永嘉初天水氐傁楊茂搜率種\n人為冦保據其郡貢獻長安愍帝以胡冦方盛欲懐",
+          "reason": "層塊法核銷：記永嘉初天水氐傁楊茂搜率種人作寇，保據其郡，貢獻長安，愍帝以胡寇方盛欲懷來戎翟，句收束在下段（a06-002:17「來戎翟拜驃騎將軍」），與徐晃無涉，排除。",
+          "citation": "《華陽國志·漢中志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-guanyu-scrape",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "quote": "天隂疼痛醫言矢鋒有毒須破臂刮毒患乃可除羽\n即伸臂使治時適㑹客臂血流離盈扵盤噐而羽引\n酒割灸言笑自若",
+          "reason": "層塊法核銷：上段續句（a06-006:18「羽臂嘗中毒矢」之續），記羽臂逢陰疼痛，醫言矢鋒有毒、須破臂刮毒，羽伸臂使治、引酒割灸、言笑自若；關羽刮骨療毒事，與徐晃無涉，排除。",
+          "citation": "《華陽國志·劉先主志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-yujin-fancheng",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "quote": "魏王遣左將軍于禁督七軍三\n萬人救樊漢水㬥長皆爲羽所獲又殺魏將龎德威\n震華夏",
+          "reason": "層塊法核銷：記魏王遣左將軍于禁督七軍三萬人救樊，漢水暴長，羽盡獲七軍，又殺魏將龐德、威震華夏；于禁救樊事，與徐晃無涉，排除。",
+          "citation": "《華陽國志·劉先主志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-yitu-xudu",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "quote": "魏王議徙許都以避其銳",
+          "reason": "層塊法核銷：記魏王議徙許都以避關羽之銳；曹操議徙許都事，與徐晃無涉，排除。",
+          "citation": "《華陽國志·劉先主志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-sunquan-jiangling",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "quote": "而孫權襲江陵將\n軍傅士仁南郡太守糜芳降呉",
+          "reason": "層塊法核銷：記孫權襲江陵，將軍傅士仁、南郡太守糜芳降吳；孫權襲江陵事，與徐晃無涉，排除。",
+          "citation": "《華陽國志·劉先主志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-guanyu-death",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "quote": "遂爲孫權所殺呉盡取荆州",
+          "reason": "層塊法核銷：記關羽遂死於孫權之手，吳盡取荊州；關羽死事，徐晃救樊事見同段前句，已摘 xuhuang-huayang-fancheng，排除。",
+          "citation": "《華陽國志·劉先主志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-liuzhang-yizhou",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "quote": "以\n劉璋為益州牧住秭歸",
+          "reason": "層塊法核銷：記劉璋任益州牧、住秭歸；劉璋事，與徐晃無涉，排除。",
+          "citation": "《華陽國志·劉先主志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-fazheng-liuba",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "quote": "是歲尚書令法正卒諡曰\n翼侯以尚書劉巴為尚書令",
+          "reason": "層塊法核銷：記是歲尚書令法正卒、諡曰翼侯，尚書劉巴繼任尚書令；法正、劉巴人事，與徐晃無涉，排除。",
+          "citation": "《華陽國志·劉先主志》"
+        },
+        {
+          "id": "xuhuang-excl-huayang-weimingwang-beng",
+          "work": "huayang",
+          "source": "a06-006",
+          "paragraph": 19,
+          "quote": "二十五年春正月魏\n武王薨嗣王丕即位改元延康蜀傳聞漢帝見害先\n主乃發䘮制服追諡曰孝愍皇帝所在竝言衆瑞故",
+          "reason": "層塊法核銷：記二十五年春正月魏武王薨、嗣王丕即位、改元延康，蜀傳聞漢帝見害、先主乃發喪制服、追諡曰孝愍皇帝，所在並言眾瑞；魏武王薨、嗣王即位事，句收束在下段（a06-006:20），與徐晃無涉，排除。",
+          "citation": "《華陽國志·劉先主志》"
         }
       ],
       "unresolved": [],
