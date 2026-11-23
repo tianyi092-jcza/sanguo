@@ -107445,6 +107445,51 @@
           "from": "維出隴西與魏將郭淮夏侯霸",
           "through": "戰剋之",
           "citation": "《華陽國志》卷七·劉後主志"
+        },
+        {
+          "id": "gh-bio-zhengshi-wu-fashu",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 32,
+          "from": "五年，夏侯玄伐蜀，淮督諸軍為前鋒。",
+          "through": "還假淮節。",
+          "citation": "《三國志·魏書二十六·郭淮傳》原文"
+        },
+        {
+          "id": "gh-bio-jiunian-pingqiang",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 32,
+          "from": "九年，遮塞等屯河關、白土故城，據河拒軍。",
+          "through": "進封都鄉侯。",
+          "citation": "《三國志·魏書二十六·郭淮傳》原文"
+        },
+        {
+          "id": "gh-pei-shiyu-huaiqi",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 33,
+          "from": "世語曰：淮妻，王淩之妹。",
+          "through": "書至，宣王亦宥之。",
+          "citation": "《三國志·魏書二十六·郭淮傳》裴注引《世語》"
+        },
+        {
+          "id": "gh-bio-zhengyuan-hong",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 33,
+          "from": "正元二年薨，追贈大將軍，謚曰貞侯。",
+          "through": "咸熈中，開建五等，以淮著勳前朝，改封汾陽子。",
+          "citation": "《三國志·魏書二十六·郭淮傳》原文"
+        },
+        {
+          "id": "gh-pei-jinzhugongzan-peidi",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 33,
+          "from": "晉諸公贊曰：淮弟配，字仲南，有重名，位至城陽太守。",
+          "through": "山濤啟事稱弈高簡有雅量，歷位雍州刺史、尚書。",
+          "citation": "《三國志·魏書二十六·郭淮傳》裴注引《晉諸公贊》"
         }
       ],
       "exclusions": [
@@ -107474,8 +107519,10 @@
           "source": "a04-026",
           "paragraph": 6,
           "term": "淮",
-          "quote": "必以淮北為守",
-          "reason": "此段為滿寵合肥移城之議，「淮北」指淮水以北之地，非指郭淮其人；段中亦無郭淮史實，係本傳卷內單字「淮」誤觸，排除。"
+          "reason": "此段皆滿寵合肥移城之議與戰事，「淮北」指淮水以北之地，非指郭淮其人；段中亦無郭淮史實，係本傳卷內單字「淮」誤觸，整段排除。",
+          "from": "明年，吴將陸遜向廬江，論者以為宜速赴之。",
+          "through": "詔羙之，因以所獲盡為將士賞。",
+          "citation": "《三國志·魏書二十六·滿寵傳》原文"
         },
         {
           "id": "gh-excl-004",
@@ -107734,6 +107781,28 @@
           "through": "遂以襲為留府長史，駐關中。",
           "citation": "《三國志·魏書二十三·杜襲傳》原文",
           "reason": "正文敘太祖東還選留府長史，以杜襲駐關中；與郭淮無關。"
+        },
+        {
+          "id": "gh-excl-028",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 34,
+          "term": "郭淮",
+          "from": "評曰：滿寵立志剛毅，勇而有謀。",
+          "through": "牽招秉義壯烈，威績顯著。",
+          "citation": "《三國志·魏書二十六 評曰》",
+          "reason": "卷末評曰前三句，評滿寵、田豫、牽招，與郭淮無關，排除。"
+        },
+        {
+          "id": "gh-excl-029",
+          "work": "sanguozhi",
+          "source": "a04-026",
+          "paragraph": 34,
+          "term": "郭淮",
+          "from": "而豫位止小州，招終於郡守，未盡其用也。",
+          "through": "而豫位止小州，招終於郡守，未盡其用也。",
+          "citation": "《三國志·魏書二十六 評曰》",
+          "reason": "卷末評曰末句，評田豫位止小州、牽招終於郡守，與郭淮無關，排除。"
         }
       ],
       "unresolved": [],
