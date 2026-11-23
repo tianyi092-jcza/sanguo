@@ -110129,6 +110129,69 @@
           "from": "魏書曰：是日，景王承皇太后令，詔公卿中朝大臣會議，羣臣失色。",
           "through": "使者持節送衞，營齊王宮於河內重門，制度皆如藩國之禮。",
           "citation": "《三國志·魏書四·三少帝紀》"
+        },
+        {
+          "id": "gaorou-chenliu-zuxian",
+          "work": "peizhu",
+          "source": "a04-024",
+          "paragraph": 13,
+          "from": "陳留耆舊傳曰：靖高祖父固，不仕王莽世，為淮陽太守所害，以烈節垂名。",
+          "through": "弘生靖。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-liuxiang-bizhangmiao",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 13,
+          "from": "柔留鄉里，謂邑中曰：「今者英雄並起，陳留四戰之地也。",
+          "through": "柔從兄幹，袁紹甥也，",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-xiecheng-gan",
+          "work": "peizhu",
+          "source": "a04-024",
+          "paragraph": 13,
+          "from": "謝承後漢書曰：幹字元才。",
+          "through": "未知何者為誤。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-hebei-yingsang",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 13,
+          "from": "在河北呼柔，柔舉宗從之。",
+          "through": "會靖卒於西州，時道路艱澁，兵寇縱橫，而柔冒艱險詣蜀迎喪，辛苦荼毒，無所不嘗，三年乃還。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-gaogan-cangcao",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 14,
+          "from": "高幹旣降，頃之以并州叛。",
+          "through": "柔自歸太祖，太祖欲因事誅之，以為刺姧令史；處法允當，獄無留滯，辟為丞相倉曹屬。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-weishichunqiu-yefu",
+          "work": "peizhu",
+          "source": "a04-024",
+          "paragraph": 14,
+          "from": "魏氏春秋曰：柔旣處法平允，又夙夜匪懈，至擁膝抱文書而寢。",
+          "through": "自是辟焉。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
+        },
+        {
+          "id": "gaorou-jian-zhanglu",
+          "work": "sanguozhi",
+          "source": "a04-024",
+          "paragraph": 14,
+          "from": "太祖欲遣鍾繇等討張魯，柔諫，以為今猥遣大兵，西有韓遂、馬超，謂為己舉，將相扇動作逆，宜先招集三輔，三輔苟平，漢中可傳檄而定也。",
+          "through": "繇入關，遂、超等果反。",
+          "citation": "《三國志·魏書二十四·高柔傳》"
         }
       ],
       "exclusions": [
