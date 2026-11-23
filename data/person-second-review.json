@@ -109451,7 +109451,7 @@
           "paragraph": 13,
           "from": "隴右平定，太祖封討超之功，侯者十一人，賜阜爵關內侯。",
           "through": "必不墜於地矣。」",
-          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
+          "citation": "《三國志·魏書二十五·楊阜傳》"
         },
         {
           "id": "yangfu-sgz-pingyue-gangliang",
@@ -109505,7 +109505,7 @@
           "paragraph": 12,
           "from": "約誓旣明，十七年九月，與叙起兵於鹵城。",
           "through": "阜與超戰，身被五創，宗族昆弟死者七人。超遂南奔張魯。",
-          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
+          "citation": "《三國志·魏書二十五·楊阜傳》"
         },
         {
           "id": "yangfu-sgz-wudu-zecao-hong",
@@ -109514,7 +109514,7 @@
           "paragraph": 14,
           "from": "太祖征漢中，以阜為益州刺史。",
           "through": "洪立罷女樂，請阜還坐，肅然憚焉。",
-          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
+          "citation": "《三國志·魏書二十五·楊阜傳》"
         },
         {
           "id": "yangfu-sgz-jian-gongshi-shangshu",
@@ -109559,7 +109559,7 @@
           "paragraph": 15,
           "from": "及劉備取漢中以逼下辯，太祖以武都孤遠，欲移之，恐吏民戀土。",
           "through": "在郡十餘年，徵拜城門校尉。",
-          "citation": "《三國志·卷二十五 ‧ 魏書二十五　辛毗楊阜高堂隆傳第二十五 楊阜傳》"
+          "citation": "《三國志·魏書二十五·楊阜傳》"
         },
         {
           "id": "yangfu-sgz-mingdi-wenfafu",
@@ -109641,6 +109641,33 @@
           "from": "楊阜字義山，天水兾人也。",
           "through": "楊阜字義山，天水兾人也。",
           "citation": "《三國志·魏書二十五·楊阜傳》"
+        },
+        {
+          "id": "yangfu-sgz-shuoxu-jiemou",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 12,
+          "from": "阜內有報超之志，而未得其便。",
+          "through": "并結安定梁寬、南安趙衢、龐恭等。",
+          "citation": "《三國志·魏書二十五·楊阜傳》"
+        },
+        {
+          "id": "yangfu-sgz-liezhuan-jiangxumu",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 13,
+          "from": "皇甫謐列女傳曰：姜叙母者，天水姜伯弈之母也。",
+          "through": "阜等以狀聞，太祖甚嘉之，手令襃揚，語如本傳。",
+          "citation": "《三國志·魏書二十五·楊阜傳》"
+        },
+        {
+          "id": "yangfu-pei-songzhi-zhaoangqi",
+          "work": "peizhu",
+          "source": "a04-025",
+          "paragraph": 13,
+          "from": "臣松之案：謐稱阜為叙姑子，而本傳云叙為阜外兄，與今名內外為不同。",
+          "through": "凡自兾城之難，至于祁山，昂出九奇，異輒參焉。",
+          "citation": "《三國志·魏書二十五·楊阜傳》裴注引皇甫謐列女傳"
         }
       ],
       "exclusions": [
