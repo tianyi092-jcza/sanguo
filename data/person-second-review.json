@@ -108801,6 +108801,24 @@
           "from": "尚攻之急，譚遣辛毗詣太祖請救。",
           "through": "太祖乃還救譚，十月至黎陽。",
           "citation": "《三國志·魏書六·袁紹傳》裴注引《英雄記》"
+        },
+        {
+          "id": "xinpi-pei-yingxiongji-guotu-shuo-tan",
+          "work": "peizhu",
+          "source": "a04-025",
+          "paragraph": 1,
+          "from": "英雄記曰：譚、尚戰於外門，譚軍敗奔北。",
+          "through": "譚遂遣毗詣太祖。",
+          "citation": "《三國志·魏書二十五·辛毗傳》裴注引《英雄記》"
+        },
+        {
+          "id": "xinpi-sgz-pi-dui-taizu",
+          "work": "sanguozhi",
+          "source": "a04-025",
+          "paragraph": 1,
+          "from": "太祖將征荊州，次于西平。",
+          "through": "明年攻鄴，克之，表毗為議郎。",
+          "citation": "《三國志·魏書二十五·辛毗傳》"
         }
       ],
       "exclusions": [
@@ -108835,7 +108853,10 @@
           "paragraph": 0,
           "term": "辛毗",
           "quote": "辛毗傳",
-          "reason": "本段僅為《三國志·魏書二十五·辛毗傳》篇題，無史事內容，排除。"
+          "reason": "本段僅係《三國志·魏書二十五·辛毗傳》篇題，無史事內容，排除。",
+          "from": "辛毗傳",
+          "through": "辛毗傳",
+          "citation": "《三國志·魏書二十五·辛毗傳》"
         },
         {
           "id": "xinpi-excl-004",
