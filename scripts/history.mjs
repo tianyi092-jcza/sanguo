@@ -33,6 +33,7 @@ export function makeHistory(original){
   const data=JSON.parse(traditional(JSON.stringify(original)));
   data.per=data.per.filter(p=>p.n!=='貂蟬');
   data.per.push({n:'司馬炎',z:'安世',b:236,d:290,f:'其他',p:'河內溫縣',s:'《晉書·卷三·武帝紀》',g:'',e:'',m:'',c:'',v:''});
+  data.per.push({n:'丁原',z:'建陽',b:null,d:189,f:'其他',p:'',s:'《三國志·魏書七·呂布傳》裴注引《英雄記》',g:'',e:'',m:'',c:'',v:''});
   const table=new Map(curation.people.map(x=>[normalize(x.name),x]));
   function getProof(source,query){
     const d=docMap[source];if(!d)return null;

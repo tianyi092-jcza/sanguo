@@ -726,7 +726,7 @@
       "name": "壺壽"
     }
   ],
-  "reviewedCount": 181,
+  "reviewedCount": 182,
   "remainingUnreviewedCount": 0,
   "portraitEligibilityReviewComplete": true,
   "entries": [
@@ -2800,6 +2800,17 @@
       "decision": "eligible",
       "portraitStatus": "generated",
       "batch": "portrait-batch-45"
+    },
+    {
+      "id": "p0472",
+      "name": "丁原",
+      "gender": "male",
+      "role": "漢并州刺史、執金吾；何進謀誅宦官所召外兵之一，中平六年為董卓誘呂布所殺",
+      "source": "a04-007",
+      "reviewNote": "a04-007（《呂布傳》裴注引《英雄記》）：「原字建陽。本出自寒家，為人麤略，有武勇，善騎射。」丁原原不在人物列表（原始名單遺漏），2026-11-26 經用戶指示補入為 p0472。eligible，武將（并州刺史、執金吾），戴頭盔、穿盔甲。五官無載，採普通比例藝術示意，未套用他人特徵。",
+      "decision": "eligible",
+      "portraitStatus": "generated",
+      "batch": "portrait-batch-46"
     }
   ]
 }

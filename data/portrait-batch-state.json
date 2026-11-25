@@ -1,19 +1,19 @@
 {
-  "batch": "portrait-batch-45",
+  "batch": "portrait-batch-46",
   "deploymentMethod": "Cloudflare Workers Builds from main",
-  "generatedCount": 474,
+  "generatedCount": 475,
   "ids": [
-    "p0470"
+    "p0472"
   ],
   "lastVerifiedWorkerVersion": "49a2f915-e169-47b7-a8da-a64bf59d2650",
   "localAndPublicBytesEqual": true,
   "localAutomationStatus": "PAUSED",
   "localBrowserVerified": true,
   "localChecksPassed": true,
-  "note": "portrait-batch-45：壺壽(p0470)適用性複核通過（a04-006：長安所署兾州牧，與于毒同軍被袁紹斬於朝歌鹿場山蒼巖谷，原文已抽查核驗）；武將（軍政長官、戰死），戴頭盔、穿盔甲；五官無載，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送；173人名單全部完成（181人，含已做8人）。",
+  "note": "portrait-batch-46：丁原(p0472)為人物列表補入之新人物（原名單遺漏，底本材料散見呂布、董卓、張楊、張遼諸傳及《後漢書》）；適用性複核通過（a04-007 裴注引《英雄記》：字建陽，寒家出身，麤略有武勇、善騎射，歷武猛都尉、并州刺史、執金吾，中平六年為董卓誘呂布所殺，原文已抽查核驗）；武將，戴頭盔、穿盔甲；五官無載，採普通比例藝術示意，未套用他人特徵；120×120頭像本地導入完成未推送。",
   "pending": 0,
   "portraitEligibilityReviewComplete": true,
-  "previousCompletedEntriesUnchanged": 473,
+  "previousCompletedEntriesUnchanged": 474,
   "publicVerified": false,
   "publicVerifiedAt": "2026-10-06T07:05:34.662Z",
   "repository": "tianyi092-jcza/sanguo",

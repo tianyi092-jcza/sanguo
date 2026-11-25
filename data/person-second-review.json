@@ -124748,8 +124748,8 @@
           "work": "jinshu",
           "source": "a05-001",
           "paragraph": 32,
-          "from": "魏武察帝有雄豪志，聞有狼顧相，欲驗之。",
-          "through": "太子素與帝善，每相全佑，故免。",
+          "from": "帝內忌而外寬，猜忌多權變。魏武察帝有雄豪志，聞有狼顧相，欲驗之。",
+          "through": "既而竟遷魏鼎云。",
           "citation": "《晉書》卷一·宣帝紀",
           "note": "宣帝紀載曹操察司馬懿有雄豪志、狼顧相，又夢三馬同食一槽而惡之，謂太子丕曰司馬懿非人臣、必預汝家事；賴太子與懿素善相全佑得免。為魏武對懿猜忌的早期記載。"
         },
@@ -273946,6 +273946,372 @@
         }
       ],
       "unresolved": []
+    },
+    {
+      "id": "p0472",
+      "name": "丁原",
+      "status": "complete",
+      "reviewedOn": "2026-11-26",
+      "coverage": {
+        "sanguozhi": "checked",
+        "peizhu": "checked",
+        "houhanshu": "checked",
+        "huayang": "checked",
+        "jinshu": "checked"
+      },
+      "excerpts": [
+        {
+          "id": "dingyuan-hhs-lingdiji-sha",
+          "work": "houhanshu",
+          "source": "a03-008",
+          "paragraph": 24,
+          "from": "并州牧董卓殺執金吾丁原。",
+          "through": "并州牧董卓殺執金吾丁原。",
+          "citation": "《後漢書·孝靈帝紀》"
+        },
+        {
+          "id": "dingyuan-hhs-hejin-mengjin",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 24,
+          "from": "使武猛都尉丁原燒孟津，武猛謂",
+          "through": "。火照城中，皆以誅宦官為言。",
+          "citation": "《後漢書·何進傳》"
+        },
+        {
+          "id": "dingyuan-hhs-dongzhuo-sha",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 7,
+          "from": "卓又使呂布殺執金吾丁原而并其",
+          "through": "追寇虜輒在前。」卓兵士大盛。",
+          "citation": "《後漢書·董卓傳》"
+        },
+        {
+          "id": "dingyuan-hhs-gongsunzan-zuiyi",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "至令丁原焚燒孟津，續漢書曰：",
+          "through": "。」董卓造為亂始。紹罪一也。",
+          "citation": "《後漢書·公孫瓚傳》"
+        },
+        {
+          "id": "dingyuan-hhs-lvbu-sha",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 27,
+          "from": "刺史丁原為騎都尉，原屯河內，",
+          "through": "進敗，董卓誘布殺原而并其兵。",
+          "citation": "《後漢書·呂布傳》"
+        },
+        {
+          "id": "dingyuan-sg-dongzhuo-sha",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 2,
+          "from": "卓又使呂布殺執金吾丁原，并其",
+          "through": "，并其衆，故京都兵權唯在卓。",
+          "citation": "《三國志·魏書六·董卓傳》"
+        },
+        {
+          "id": "dingyuan-sg-lvbu-qiduwei",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 1,
+          "from": "刺史丁原為騎都尉，屯河內，以",
+          "through": "親待。靈帝崩，原將兵詣洛陽。",
+          "citation": "《三國志·魏書七·呂布傳》"
+        },
+        {
+          "id": "dingyuan-sg-lvbu-yingxiongji",
+          "work": "peizhu",
+          "source": "a04-007",
+          "paragraph": 1,
+          "from": "英雄記曰：原字建陽。本出自寒",
+          "through": "騎都尉，甚愛信之，誓為父子。",
+          "citation": "《三國志·魏書七·呂布傳》裴注引《英雄記》"
+        },
+        {
+          "id": "dingyuan-sg-gongsunzan-dianlue",
+          "work": "peizhu",
+          "source": "a04-008",
+          "paragraph": 4,
+          "from": "至令丁原焚燒孟津，招來董卓，",
+          "through": "來董卓，造為亂根，紹罪一也。",
+          "citation": "《三國志·魏書八·公孫瓚傳》裴注引《典略》"
+        },
+        {
+          "id": "dingyuan-sg-zhangyang-jiasima",
+          "work": "peizhu",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "并州刺史丁原遣楊將兵詣碩，為",
+          "through": "丁原遣楊將兵詣碩，為假司馬。",
+          "citation": "《三國志·魏書八·張楊傳》裴注引《靈帝紀》"
+        },
+        {
+          "id": "dingyuan-sg-zhangliao-congshi",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 1,
+          "from": "漢末，并州刺史丁原以遼武力過",
+          "through": "人，召為從事，使將兵詣京都。",
+          "citation": "《三國志·魏書十七·張遼傳》"
+        }
+      ],
+      "conclusions": [
+        "覆核處置共 16 段（摘錄 11 條、排除 27 條、未解決 0 條）；丁原無本傳，材料散見《三國志》呂布、董卓、公孫瓚、張楊、張遼諸傳及裴注、《後漢書》孝靈帝紀與何進、董卓、公孫瓚、呂布諸傳；全庫字面掃描「丁原」命中僅此 16 段（晉書、華陽國志無命中）；四庫本（ahcb）五段與全文版一段為重出，以鏡像排除核銷，不重複錄入。本條目為 2026-11-26 補入人物列表時一併建成。",
+        "辨人：丁原字建陽，寒家出身；與 a03-008 同段並見之司徒丁宮為二人，嚴格分開；諸傳單稱「原」者（「欲殺原，并其兵衆」「誘布殺原」），在呂布、董卓傳語境中皆指丁原。",
+        "生平繫年：初為南縣吏，受使不辭難、有警急追寇虜輒在其前，裁知書、少有吏用；歷任武猛都尉、并州刺史、執金吾（《呂布傳》又載刺史為騎都尉、屯河內）；中平六年（189）與何進謀誅諸黃門，受何進之令燒孟津、放兵河內以怖動太后；何進敗後，董卓誘呂布斬原、并其衆，丁原卒於是年。",
+        "勢力繫年：并州兵主，何進謀誅宦官所召外兵之一；呂布（主簿）、張遼（從事）、張楊（假司馬）皆出其麾下；原死、并州兵盡歸董卓，京都兵權唯在卓。"
+      ],
+      "unresolved": [],
+      "exclusions": [
+        {
+          "id": "dingyuan-excl-001",
+          "work": "houhanshu",
+          "source": "a03-008",
+          "paragraph": 24,
+          "from": "後將軍袁隗為太傅，與大將軍何",
+          "through": "宮。大赦天下，改光喜為昭寧。",
+          "reason": "中平六年五月至八月紀事：袁隗為太傅、蹇碩董重下獄死、孝仁皇后崩、葬孝靈帝、何進為張讓等所殺、袁紹誅閹人、帝還宮改元，及續漢志、獻帝春秋注塊；同段「司徒丁宮罷」為丁宮、非丁原；無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-002",
+          "work": "houhanshu",
+          "source": "a03-008",
+          "paragraph": 24,
+          "from": "司空劉弘免，董卓自為司空。",
+          "through": "司空劉弘免，董卓自為司空。",
+          "reason": "董卓自為司空，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-003",
+          "work": "houhanshu",
+          "source": "a03-008-ahcb",
+          "paragraph": 24,
+          "from": "後將軍袁隗爲太傅，與大將軍何",
+          "through": "。司空劉弘免，董卓自爲司空。",
+          "reason": "四庫本（ahcb）重出段，與 a03-008:24 歸一同文；丁原句已於原文版摘錄（dingyuan-hhs-lingdiji-sha），整段鏡像排除，不重複錄入。"
+        },
+        {
+          "id": "dingyuan-excl-004",
+          "work": "houhanshu",
+          "source": "a03-008-full",
+          "paragraph": 24,
+          "from": "後將軍袁隗為太傅，與大將軍何",
+          "through": "。司空劉弘免，董卓自為司空。",
+          "reason": "全文版重出段，與 a03-008:24 逐字同文；丁原句已於原文版摘錄（dingyuan-hhs-lingdiji-sha），整段鏡像排除，不重複錄入。"
+        },
+        {
+          "id": "dingyuan-excl-005",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 24,
+          "from": "紹等又為畫策，多召四方猛將及",
+          "through": "弩，并召東郡太守橋瑁屯城皐，",
+          "reason": "袁紹等畫策召四方猛將脅太后、陳琳入諫（含易屯卦、梅福上書注）、何進不聽及召董卓、王匡、橋瑁事，未及丁原。"
+        },
+        {
+          "id": "dingyuan-excl-006",
+          "work": "houhanshu",
+          "source": "a03-069",
+          "paragraph": 24,
+          "from": "太后猶不從。",
+          "through": "太后猶不從。",
+          "reason": "太后猶不從誅宦官，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-007",
+          "work": "houhanshu",
+          "source": "a03-069-ahcb",
+          "paragraph": 23,
+          "from": "紹等又爲畫策，多召四方猛將及",
+          "through": "皆以誅宦官爲言。太后猶不從。",
+          "reason": "四庫本（ahcb）重出段，與 a03-069:24 歸一同文；丁原燒孟津事已於原文版摘錄（dingyuan-hhs-hejin-mengjin），整段鏡像排除，不重複錄入。"
+        },
+        {
+          "id": "dingyuan-excl-008",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 7,
+          "from": "初，卓之入也，步騎不過三千，",
+          "through": "進及弟苗先所領部曲皆歸於卓，",
+          "reason": "董卓兵少、夜潛出軍詐作西兵復至，及何進何苗部曲歸卓，未及殺丁原句；無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-009",
+          "work": "houhanshu",
+          "source": "a03-072",
+          "paragraph": 7,
+          "from": "乃諷朝廷策免司空劉弘而自代之",
+          "through": "焉。」遷於永安宮，遂以弒崩。",
+          "reason": "董卓策免劉弘自代、集議廢立、弒永樂太后事，及魏志、漢官儀、前書、左傳諸注，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-010",
+          "work": "houhanshu",
+          "source": "a03-072-ahcb",
+          "paragraph": 6,
+          "from": "初，卓之入也，步騎不過三千，",
+          "through": "焉。」遷於永安宮，遂以弒崩。",
+          "reason": "四庫本（ahcb）重出段，與 a03-072:7 歸一同文；殺丁原及英雄記注已於原文版摘錄（dingyuan-hhs-dongzhuo-sha），整段鏡像排除，不重複錄入。"
+        },
+        {
+          "id": "dingyuan-excl-011",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "瓚旣諫劉虞遣兵就袁術，而懼術",
+          "through": "為邪媚，招來不軌，疑誤社稷，",
+          "reason": "公孫瓚諫劉虞遣兵、從弟越隨孫堅戰死、屯槃河上疏起首至罪一前段（袁紹為司隷時專為邪媚），及爾雅、何進注，未及丁原句。"
+        },
+        {
+          "id": "dingyuan-excl-012",
+          "work": "houhanshu",
+          "source": "a03-073",
+          "paragraph": 13,
+          "from": "卓旣無禮，帝主見質。紹不能開",
+          "through": "攻紹，於是兾州諸城悉畔從瓚。",
+          "reason": "上疏罪二至罪十（袁紹棄帝逃亡、太傅一門同斃、逼韓馥、矯刻印璽、候視星妖、枉害劉勳高焉姚貢、母婢微賤、斷孫堅糧）、結語齊桓晉文之盟及舉兵攻紹、兾州諸城畔從瓚正文，皆袁紹他罪與公孫瓚事，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-013",
+          "work": "houhanshu",
+          "source": "a03-073-ahcb",
+          "paragraph": 12,
+          "from": "瓚旣諫劉虞遣兵就袁術，而懼術",
+          "through": "攻紹，於是兾州諸城悉畔從瓚。",
+          "reason": "四庫本（ahcb）重出段，與 a03-073:13 歸一同文；罪一丁原句及續漢書注已於原文版摘錄（dingyuan-hhs-gongsunzan-zuiyi），整段鏡像排除，不重複錄入。"
+        },
+        {
+          "id": "dingyuan-excl-014",
+          "work": "houhanshu",
+          "source": "a03-075",
+          "paragraph": 27,
+          "from": "呂布字奉先，五原九原人也。以",
+          "through": "九原人也。以弓馬驍武給并州。",
+          "reason": "呂布籍貫出身、以弓馬驍武給并州，未及丁原。"
+        },
+        {
+          "id": "dingyuan-excl-015",
+          "work": "houhanshu",
+          "source": "a03-075-ahcb",
+          "paragraph": 26,
+          "from": "呂布字奉先，五原九原人也。以",
+          "through": "進敗，董卓誘布殺原而并其兵。",
+          "reason": "四庫本（ahcb）重出段，與 a03-075:27 歸一同文；丁原事已於原文版摘錄（dingyuan-hhs-lvbu-sha），整段鏡像排除，不重複錄入。"
+        },
+        {
+          "id": "dingyuan-excl-016",
+          "work": "sanguozhi",
+          "source": "a04-006",
+          "paragraph": 2,
+          "from": "靈帝崩，少帝即位。大將軍何進",
+          "through": "。進、苗部曲無所屬，皆詣卓。",
+          "reason": "何進袁紹謀誅閹官、召董卓脅太后正文，及續漢書（何進家世）、典略（卓表）、張璠漢紀、獻帝春秋、典略、獻帝紀、英雄記（閔貢扶帝、崔烈、何苗之死）諸注塊，皆董卓入京迎帝前後事，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-017",
+          "work": "peizhu",
+          "source": "a04-006",
+          "paragraph": 2,
+          "from": "九州春秋曰：卓初入洛陽，步騎",
+          "through": "」。人不覺，謂卓兵不可勝數。",
+          "reason": "九州春秋注：董卓初入洛陽兵少，夜遣兵出四城門詐作西兵復入，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-018",
+          "work": "sanguozhi",
+          "source": "a04-007",
+          "paragraph": 1,
+          "from": "呂布字奉先，五原郡九原人也。",
+          "through": "原郡九原人也。以驍武給并州。",
+          "reason": "呂布籍貫出身、以驍武給并州，未及丁原。"
+        },
+        {
+          "id": "dingyuan-excl-019",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 4,
+          "from": "是時，術遣孫堅屯陽城拒卓，紹",
+          "through": "、徐黃巾，兵益盛；進軍界橋。",
+          "reason": "袁術遣孫堅拒卓、周昂奪陽城、公孫越戰死、公孫範以勃海兵助瓚破黃巾、進軍界橋正文，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-020",
+          "work": "peizhu",
+          "source": "a04-008",
+          "paragraph": 4,
+          "from": "典略載瓚表紹罪狀曰：「臣聞皇",
+          "through": "輔政，紹專為邪媚，不能舉直，",
+          "reason": "典略載公孫瓚表紹罪狀起首至罪一丁原句前（袁紹為司隷校尉時專為邪媚、不能舉直），未及丁原。"
+        },
+        {
+          "id": "dingyuan-excl-021",
+          "work": "peizhu",
+          "source": "a04-008",
+          "paragraph": 4,
+          "from": "卓既入雒而主見質，紹不能權譎",
+          "through": "之効，攻戰形狀，前後續上。」",
+          "reason": "表紹罪狀罪二至罪十及結語（袁紹棄帝逃亡、太傅門戶同斃、逼韓馥、矯刻印璽、候視星日、枉害劉勳高焉姚貢、母婢微賤、斷孫堅糧），皆袁紹他罪，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-022",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 4,
+          "from": "遂舉兵與紹對戰，紹不勝。以嚴",
+          "through": "築小城，與虞相近，稍相恨望。",
+          "reason": "公孫瓚舉兵攻袁紹、廣川之戰、還薊築小城與劉虞相恨望正文，無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-023",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "張楊字稚叔，雲中人也。以武勇",
+          "through": "太祖及袁紹等皆為校尉，屬之。",
+          "reason": "張楊出身、以武勇給并州為武猛從事，及靈帝置西園校尉正文，未及丁原遣楊事。"
+        },
+        {
+          "id": "dingyuan-excl-024",
+          "work": "peizhu",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "靈帝紀曰：以虎賁中郎將袁紹為",
+          "through": "尉，夏牟、淳于瓊為左右校尉。",
+          "reason": "靈帝紀注所列西園諸校尉名單（袁紹、鮑鴻、曹操、趙融、馮芳、夏牟、淳于瓊），無丁原。"
+        },
+        {
+          "id": "dingyuan-excl-025",
+          "work": "sanguozhi",
+          "source": "a04-008",
+          "paragraph": 12,
+          "from": "靈帝崩，碩為何進所殺。楊復為",
+          "through": "宜急移去。」固不從，遂戰死。",
+          "reason": "靈帝崩後張楊募兵上黨、依袁紹於夫羅、迎天子、遙救呂布及楊醜眭固之死正文，及英雄記（楊性仁和）、典略（眭固字白兎）注塊，皆張楊個人經歷，丁原已死、無涉。"
+        },
+        {
+          "id": "dingyuan-excl-026",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 1,
+          "from": "張遼字文遠，鴈門馬邑人也。本",
+          "through": "之後，以避怨變姓。少為郡吏。",
+          "reason": "張遼家世（聶壹之後、避怨變姓）及少為郡吏，未及丁原。"
+        },
+        {
+          "id": "dingyuan-excl-027",
+          "work": "sanguozhi",
+          "source": "a04-017",
+          "paragraph": 1,
+          "from": "何進遣詣河北募兵，得千餘人。",
+          "through": "奔徐州，領魯相，時年二十八。",
+          "reason": "張遼歸何進募兵、後屬董卓呂布、東奔徐州領魯相事，丁原已死、無涉。"
+        }
+      ]
     }
   ]
 }
