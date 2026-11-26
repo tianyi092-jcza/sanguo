@@ -127623,12 +127623,12 @@
         },
         {
           "id": "jk-sgz-jiang-shoucheng",
-          "work": "sanguozhi",
+          "work": "peizhu",
           "source": "a04-015",
           "paragraph": 27,
-          "from": "初為郡吏，守絳邑長",
+          "from": "魏略曰：逵世為著姓，少孤家貧，冬常無絝，過其妻兄柳孚宿，其明無何，著孚絝去，故時人謂之通健。",
           "through": "左右義逵，多為請，遂得免。",
-          "citation": "《三國志·魏書十五 賈逵傳》"
+          "citation": "《三國志·魏書十五 賈逵傳》裴注引《魏略》"
         },
         {
           "id": "jk-sgz-mianchi-hongnong",
@@ -127636,7 +127636,7 @@
           "source": "a04-015",
           "paragraph": 28,
           "from": "後舉茂才，除澠池令",
-          "through": "檛折脚，坐免。",
+          "through": "然太祖心善逵，以為丞相主簿。",
           "citation": "《三國志·魏書十五 賈逵傳》"
         },
         {
@@ -127728,6 +127728,78 @@
           "from": "州南與吳接，逵明斥候，繕甲兵，為守戰之備，賊不敢犯。",
           "through": "所謂賈侯渠者也。",
           "citation": "《三國志·魏書十五 賈逵傳》"
+        },
+        {
+          "id": "jk-sgz-jiakui-zidao",
+          "work": "sanguozhi",
+          "source": "a04-015",
+          "paragraph": 27,
+          "from": "賈逵字梁道，河東襄陵人也。",
+          "through": "口授兵法數萬言。",
+          "citation": "《三國志·魏書十五 賈逵傳》"
+        },
+        {
+          "id": "jk-pei-weilue-yuanfu",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 27,
+          "from": "魏略曰：援捕得逵，逵不肯拜，謂援曰：「王府君臨郡積年，不知足下曷為者也？」",
+          "through": "郡從逵言，故得无敗。",
+          "citation": "《三國志·魏書十五 賈逵傳》裴注引《魏略》"
+        },
+        {
+          "id": "jk-pei-sunzi-jiankui",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 27,
+          "from": "孫資別傳曰：資舉河東計吏，到許，薦於相府曰：「逵在絳邑，帥厲吏民，與賊郭援交戰，力盡而敗，為賊所俘，挺然直志，顏辭不屈；忠言聞於大衆，烈節顯于當時，雖古之直髮、據鼎，罔以加也。其才兼文武，誠時之利用。」",
+          "through": "孫資別傳曰：資舉河東計吏，到許，薦於相府曰：「逵在絳邑，帥厲吏民，與賊郭援交戰，力盡而敗，為賊所俘，挺然直志，顏辭不屈；忠言聞於大衆，烈節顯于當時，雖古之直髮、據鼎，罔以加也。其才兼文武，誠時之利用。」",
+          "citation": "《三國志·魏書十五 賈逵傳》裴注引《孫資別傳》"
+        },
+        {
+          "id": "jk-pei-weilue-zhugongdao",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 27,
+          "from": "魏略曰：郭援破後，逵乃知前出己者為祝公道。",
+          "through": "逵救之，力不能解，為之改服焉。",
+          "citation": "《三國志·魏書十五 賈逵傳》裴注引《魏略》"
+        },
+        {
+          "id": "jk-pei-weilue-jianwu",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 28,
+          "from": "魏略曰：太祖欲征吳而大霖雨，三軍多不願行。",
+          "through": "太祖崩洛陽，逵典喪事。",
+          "citation": "《三國志·魏書十五 賈逵傳》裴注引《魏略》"
+        },
+        {
+          "id": "jk-pei-weilue-fasang",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 28,
+          "from": "魏略曰：時太子在鄴，鄢陵侯未到，士民頗苦勞役，又有疾癘，於是軍中搔動。",
+          "through": "遂奉梓宮還鄴。",
+          "citation": "《三國志·魏書十五 賈逵傳》裴注引《魏略》"
+        },
+        {
+          "id": "jk-pei-weilue-weijun",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 29,
+          "from": "魏略曰：初，魏郡官屬頗以公事期會有所急切，會聞逵當為郡，舉府皆詣縣門外。",
+          "through": "至譙，以逵為豫州刺史。",
+          "citation": "《三國志·魏書十五 賈逵傳》裴注引《魏略》"
+        },
+        {
+          "id": "jk-pei-weilue-yuzhou",
+          "work": "peizhu",
+          "source": "a04-015",
+          "paragraph": 29,
+          "from": "魏略曰：逵為豫州。",
+          "through": "賜爵關內侯。",
+          "citation": "《三國志·魏書十五 賈逵傳》裴注引《魏略》"
         }
       ],
       "exclusions": [
@@ -128179,7 +128251,10 @@
           "paragraph": 26,
           "term": "賈逵",
           "quote": "賈逵傳",
-          "reason": "僅為《三國志·魏書十五》中的傳目標記「賈逵傳」（篇題），無任何史實內容，不計入史料摘錄，排除。"
+          "reason": "僅為《三國志·魏書十五》中的傳目標記「賈逵傳」（篇題），無任何史實內容，不計入史料摘錄，排除。",
+          "from": "賈逵傳",
+          "through": "賈逵傳",
+          "citation": "《三國志·魏書十五 賈逵傳》"
         },
         {
           "id": "jk-excl-sgz-yinmo-jiakui-fuzi",
