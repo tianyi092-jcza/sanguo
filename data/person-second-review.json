@@ -127096,22 +127096,76 @@
           "citation": "《三國志·魏書十三 鍾繇傳》裴注引《魏略》"
         },
         {
-          "id": "dj-bio-early",
+          "id": "dj-bio-zi",
           "work": "sanguozhi",
           "source": "a04-016",
           "paragraph": 9,
-          "from": "少孤，繼母苦之",
-          "through": "郡中奇其年少而有大意也。",
+          "from": "杜畿字伯侯，京兆杜陵人也。",
+          "through": "杜畿字伯侯，京兆杜陵人也。",
+          "citation": "《三國志·魏書十六 杜畿傳》"
+        },
+        {
+          "id": "dj-bio-early",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 9,
+          "from": "傅子曰：畿，漢御史大夫杜延年之後。",
+          "through": "荀彧進之太祖，",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《傅子》"
+        },
+        {
+          "id": "dj-pei-fuzi-jingzhou",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 9,
+          "from": "傅子曰：畿自荊州還，後至許，見侍中耿紀，語終夜。",
+          "through": "太祖以畿為司空司直，遷護羌校尉，使持節，領西平太守。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《傅子》"
+        },
+        {
+          "id": "dj-pei-weilue-zaonian",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 9,
+          "from": "魏略曰：畿少有大志。",
+          "through": "畿竊云：「不中功曹，中河東太守也。」",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《魏略》"
+        },
+        {
+          "id": "dj-bio-hedong-recommend",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 10,
+          "from": "太祖旣定河北，而高幹舉并州反。",
+          "through": "彧曰：「杜畿其人也。」",
           "citation": "《三國志·魏書十六 杜畿傳》"
         },
         {
           "id": "dj-bio-hedong-appoint",
-          "work": "sanguozhi",
+          "work": "peizhu",
           "source": "a04-016",
           "paragraph": 10,
-          "from": "於是追拜畿為河東太守。",
-          "through": "畿至不得渡。",
-          "citation": "《三國志·魏書十六 杜畿傳》"
+          "from": "傅子曰：彧稱畿勇足以當大難，智能應變，其可試之。",
+          "through": "郖音豆。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《傅子》"
+        },
+        {
+          "id": "dj-pei-weilue-weigu",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 10,
+          "from": "魏略曰：初，畿與衞固少相侮狎，固常輕畿。",
+          "through": "范先欲殺畿以威衆。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《魏略》"
+        },
+        {
+          "id": "dj-pei-fuzi-weifan",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 10,
+          "from": "傅子曰：先云：「旣欲為虎而惡食人肉，失所以為虎矣。今不殺，必為後患。」",
+          "through": "會大兵至，幹、晟敗，固等伏誅，其餘黨與皆赦之，使復其居業。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《傅子》"
         },
         {
           "id": "dj-bio-taizu-praise",
@@ -127181,8 +127235,11 @@
           "source": "a04-013",
           "paragraph": 30,
           "term": "杜畿",
-          "quote": "其邯鄲淳事在王粲傳，蘇林事在劉邵、高堂隆傳，樂詳事在杜畿傳。",
-          "reason": "本段僅以「樂詳事在杜畿傳」作篇目交代，未述杜畿本人事跡，排除。"
+          "quote": "初，肅善賈、馬之學，而不好鄭氏，采會同異，為尚書、詩、論語、三禮、左氏解，及撰定父朗所作易傳，皆列於學官。",
+          "reason": "本段僅以「樂詳事在杜畿傳」作篇目交代，未述杜畿本人事跡，排除。",
+          "from": "初，肅善賈、馬之學，而不好鄭氏，采會同異，為尚書、詩、論語、三禮、左氏解，及撰定父朗所作易傳，皆列於學官。",
+          "through": "由是觀之，學其胡可以已哉！",
+          "citation": "《三國志·魏書十三 鍾繇傳》"
         },
         {
           "id": "dj-excl-biohead",
@@ -127191,7 +127248,10 @@
           "paragraph": 8,
           "term": "杜畿",
           "quote": "杜畿傳",
-          "reason": "本段僅為杜畿本傳篇目題名，無事跡內容，排除。"
+          "reason": "本段僅為杜畿本傳篇目題名，無事跡內容，排除。",
+          "from": "杜畿傳",
+          "through": "杜畿傳",
+          "citation": "《三國志·魏書十六 杜畿傳》"
         },
         {
           "id": "dj-excl-xiegai-main",
