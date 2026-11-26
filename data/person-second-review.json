@@ -127179,12 +127179,12 @@
         },
         {
           "id": "dj-bio-liushou-taohe",
-          "work": "peizhu",
+          "work": "sanguozhi",
           "source": "a04-016",
           "paragraph": 13,
           "from": "守司隷校尉。",
           "through": "帝為之流涕。",
-          "citation": "《三國志·魏書十六 杜畿傳》裴注引《魏略》",
+          "citation": "《三國志·魏書十六 杜畿傳》",
           "note": "文帝征吳時畿以尚書僕射統留事，後於陶河試御樓船遇風覆沒；此段為正文，不含其間魏略裴注。"
         },
         {
@@ -127280,7 +127280,7 @@
           "from": "文帝即王位，賜爵關內侯。",
           "through": "邑百戶，",
           "citation": "《三國志·魏書十六 杜畿傳》",
-          "note": "通過末句「邏百戶，」止於逗號，句之收束在同段裴注塊句「守司隷校尉。」（已摘 dj-bio-liushou-taohe），沿 zhanghe-excl-218 例。"
+          "note": "通過末句「邑百戶，」止於逗號，句之收束在同段正文續句「守司隷校尉。」（已摘 dj-bio-liushou-taohe），沿 zhanghe-excl-218 例。"
         },
         {
           "id": "dj-pei-weilue-guafu",
