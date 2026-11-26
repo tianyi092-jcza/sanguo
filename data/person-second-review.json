@@ -127179,12 +127179,12 @@
         },
         {
           "id": "dj-bio-liushou-taohe",
-          "work": "sanguozhi",
+          "work": "peizhu",
           "source": "a04-016",
           "paragraph": 13,
           "from": "守司隷校尉。",
           "through": "帝為之流涕。",
-          "citation": "《三國志·魏書十六 杜畿傳》",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《魏略》",
           "note": "文帝征吳時畿以尚書僕射統留事，後於陶河試御樓船遇風覆沒；此段為正文，不含其間魏略裴注。"
         },
         {
@@ -127212,7 +127212,7 @@
           "work": "sanguozhi",
           "source": "a04-016",
           "paragraph": 11,
-          "from": "畿治之，崇寬惠，與民無為。",
+          "from": "是時天下郡縣皆殘破，河東最先定，少耗減。",
           "through": "郡中化之。",
           "citation": "《三國志·魏書十六 杜畿傳》",
           "note": "杜畿為河東太守時崇寬惠、與民無為，教化郡中；此段為正文，不含其後魏略裴注。"
@@ -127226,6 +127226,97 @@
           "through": "誕飄于岸，絕而後蘇。",
           "citation": "《三國志·魏書二十八 諸葛誕傳》裴注引《魏氏春秋》",
           "note": "諸葛誕為郎時與尚書僕射杜畿同試船陶河，遇風覆沒，誕讓虎賁先救杜侯；與本傳陶河覆沒事互證。"
+        },
+        {
+          "id": "dj-pei-weilue-lexiang-rushi",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 11,
+          "from": "魏略曰：博士樂詳，由畿而升。",
+          "through": "至今河東特多儒者，則畿之由矣。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《魏略》"
+        },
+        {
+          "id": "dj-bio-hansui-machao",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 12,
+          "from": "韓遂、馬超之叛也，弘農、馮翊多舉縣邑以應之。",
+          "through": "及賊破，餘畜二十餘萬斛。",
+          "citation": "《三國志·魏書十六 杜畿傳》"
+        },
+        {
+          "id": "dj-bio-hanzhong-yunliang",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 12,
+          "from": "太祖征漢中，遣五千人運，運者自率勉曰：「人生有一死，不可負我府君。」",
+          "through": "終無一人逃亡，其得人心如此。",
+          "citation": "《三國志·魏書十六 杜畿傳》"
+        },
+        {
+          "id": "dj-bio-liuxun-dazao",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 12,
+          "from": "杜氏新書曰：平虜將軍劉勳，為太祖所親，貴震朝廷。",
+          "through": "稱畿功美，以下州郡，曰：「昔仲尼之於顏子，每言不能不歎，旣情愛發中，又宜率馬以驥。今吾亦冀衆人仰高山，慕景行也。」",
+          "citation": "《三國志·魏書十六 杜畿傳》"
+        },
+        {
+          "id": "dj-bio-weiguo-shangshu",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 12,
+          "from": "魏國旣建，以畿為尚書。",
+          "through": "畿在河東十六年，常為天下最。",
+          "citation": "《三國志·魏書十六 杜畿傳》"
+        },
+        {
+          "id": "dj-bio-wendi-fengjue",
+          "work": "sanguozhi",
+          "source": "a04-016",
+          "paragraph": 13,
+          "from": "文帝即王位，賜爵關內侯。",
+          "through": "邑百戶，",
+          "citation": "《三國志·魏書十六 杜畿傳》",
+          "note": "通過末句「邏百戶，」止於逗號，句之收束在同段裴注塊句「守司隷校尉。」（已摘 dj-bio-liushou-taohe），沿 zhanghe-excl-218 例。"
+        },
+        {
+          "id": "dj-pei-weilue-guafu",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 13,
+          "from": "魏略曰：初畿在郡，被書錄寡婦。",
+          "through": "帝及左右顧而失色。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《魏略》"
+        },
+        {
+          "id": "dj-pei-weishi-tongzi",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 13,
+          "from": "魏氏春秋曰：初，畿嘗見童子謂之曰：「司命使我召子。」",
+          "through": "子恕嗣。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《魏氏春秋》"
+        },
+        {
+          "id": "dj-pei-fuzi-zhiren",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 13,
+          "from": "傅子曰：畿與太僕李恢、東安太守郭智有好。",
+          "through": "　魏略曰李豐父名義，與此不同，義蓋恢之別名也。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《傅子》"
+        },
+        {
+          "id": "dj-pei-weilue-lexiang-bio",
+          "work": "peizhu",
+          "source": "a04-016",
+          "paragraph": 31,
+          "from": "魏略曰：樂詳字文載。",
+          "through": "至正始中，以年老罷歸於舍，本國宗族歸之，門徒數千人。",
+          "citation": "《三國志·魏書十六 杜畿傳》裴注引《魏略》"
         }
       ],
       "exclusions": [
